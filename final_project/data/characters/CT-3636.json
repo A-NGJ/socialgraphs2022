@@ -1,0 +1,96 @@
+{
+ "name": "CT-3636",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Vaklin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic501st Legion",
+      "501st Legion",
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "CT-3636 was a clone trooper who served in the 501st Legion in the months following the end of the Clone Wars. He was killed in the Howling Ruins during the Vaklin insurgency.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/501st_Legion/Legends",
+  "/wiki/CC-3636",
+  "/wiki/Kamino/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Vaklin",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Howling_Ruins",
+  "/wiki/Vaklin_insurgency",
+  "/wiki/Purge_%E2%80%93_The_Tyrant%27s_Fist_1"
+ ]
+}

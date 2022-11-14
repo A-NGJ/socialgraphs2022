@@ -1,0 +1,51 @@
+{
+ "name": "Marska",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marska was a Human female spy who had been ordered by the Emperor to keep an eye on Governor-General Dixton while posing as his vacuous mistress.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Governor-General/Legends",
+  "/wiki/Dixton",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Marska",
+  "/wiki/West_End_Games",
+  "/wiki/Tests_of_the_Godking",
+  "/wiki/Star_Wars_Campaign_Pack",
+  "/wiki/Classic_Campaigns"
+ ]
+}

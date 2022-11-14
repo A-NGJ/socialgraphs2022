@@ -1,0 +1,54 @@
+{
+ "name": "Ganuk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Evocii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ganuk was a male Evocii foreman who lived on Nar Shaddaa during the Cold War between the Galactic Republic and the resurgent Sith Empire.\nIn 3643 BBY, he discovered that the Empire had created poisonous chemicals that would kill all Evocii on the planet. After spreading the word, he asked a Republic-allied individual to infiltrate the Pharmalux Waste Processing facility and prevent Commander Vergost from unleashing the chemicals that would kill millions.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Evocii",
+  "/wiki/Gender/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3643_BBY",
+  "/wiki/Death/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Pharmalux_Waste_Processing_facility",
+  "/wiki/Commander/Legends",
+  "/wiki/Vergost",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ganuk",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

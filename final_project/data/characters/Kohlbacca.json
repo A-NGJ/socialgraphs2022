@@ -1,0 +1,37 @@
+{
+ "name": "Kohlbacca",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kohlbacca was a female albino Wookiee. She served as first mate aboard the transport Daring during the Confederation Rock Rush, the exploration of the Cularin system asteroid belt. She was knocked out when the Daring collided with an asteroid and was severely damaged. She was nicknamed \"Frost\" because of her white-colored fur.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Albino",
+  "/wiki/Transport/Legends",
+  "/wiki/Daring_(transport)",
+  "/wiki/Confederation_Rock_Rush",
+  "/wiki/Cularin_system_asteroid_belt",
+  "/wiki/Asteroid/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Philanthropy"
+ ]
+}

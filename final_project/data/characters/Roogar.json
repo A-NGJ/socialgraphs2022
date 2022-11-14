@@ -1,0 +1,38 @@
+{
+ "name": "Roogar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roogar was a male Wookiee who lived during the time of the Galactic Republic. During the Clone Wars, he traveled to the city Tolea Biqua on the planet Genarius along with a group of other Wookiees, and they purchased large quantities of detonite and other explosives.\nRoogar had a dark-colored stripe of fur running down the side of his body.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/Detonite/Legends",
+  "/wiki/Who_Goes_Thaere%3F"
+ ]
+}

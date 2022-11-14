@@ -1,0 +1,58 @@
+{
+ "name": "Aris Ade",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Path of the Open Hand"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aris Ade was a human female who was an Elder in the Path of the Open Hand.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aris_(disambiguation)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Path_of_the_Open_Hand",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aris_Ade",
+  "/wiki/The_High_Republic:_Path_of_Deceit"
+ ]
+}

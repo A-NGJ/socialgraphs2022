@@ -1,0 +1,61 @@
+{
+ "name": "Alby Ermad",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gentes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Technical specialists",
+      "Ugnaught laborers",
+      "Artzam Hathan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alby Ermad was a male Ugnaught armorsmith whose speciality was designing battle armor suits. Alby Ermand was wanted by Sienar Fleet Systems for stealing architectural designs. He was the accomplice of Artzam Hathan, who was wanted for the same crime. Alby's bounty of 2,000 credits alive and 1,000 credits dead was claimed by Jango Fett.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gentes/Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Artzam_Hathan",
+  "/wiki/Bounty/Legends",
+  "/wiki/Sienar_Fleet_Systems/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

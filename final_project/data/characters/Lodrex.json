@@ -1,0 +1,52 @@
+{
+ "name": "Lodrex",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kallistas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lodrex was the male bartender and owner of the tavern at Trevalis, a mining settlement on Kallistas. He was a former miner until he lost his left arm due to an accident with a mining laser. His poverty meant that the missing limb was never replaced by a cybernetic arm.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kallistas",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Trevalis",
+  "/wiki/Mining/Legends",
+  "/wiki/Limb/Legends",
+  "/wiki/Mining_laser/Legends",
+  "/wiki/Cybernetics/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lodrex",
+  "/wiki/West_End_Games",
+  "/wiki/Two_for_the_Price_of_One",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

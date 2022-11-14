@@ -1,0 +1,66 @@
+{
+ "name": "Hedrow",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireSith Order",
+      "Sith Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hedrow was a Human male Sith Lord who served as a Sith Inquisitor trainer on the planet Quesh during the Galactic War between the Galactic Republic and the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Order_(Sith_Empire)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Sith_Inquisitor",
+  "/wiki/Planet/Legends",
+  "/wiki/Quesh",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hedrow",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Ko-oda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crystal Wasters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ko-oda was a male Cerean, who lived during the time of the Clone Wars. He was a member of the Crystal Wasters, a surfer gang that was based on Dorumaa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crystal_Wasters",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Dorumaa",
+  "/wiki/Dorumaa%27s_Children"
+ ]
+}

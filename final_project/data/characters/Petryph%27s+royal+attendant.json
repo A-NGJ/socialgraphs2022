@@ -1,0 +1,67 @@
+{
+ "name": "Petryph's royal attendant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Onderon Royal Family"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "King Regalun Petryph"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male royal attendant served as an aide to King Regalun Petryph. He was present in the Royal Hunting Lodge and advised Petryph regarding the political crisis on Onderon in 3627 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Onderon_Royal_Family",
+  "/wiki/King/Legends",
+  "/wiki/Regalun_Petryph",
+  "/wiki/Aide/Legends",
+  "/wiki/Royal_Hunting_Lodge",
+  "/wiki/Onderon/Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

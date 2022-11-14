@@ -1,0 +1,61 @@
+{
+ "name": "Barnley",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Human League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barnley was a Human native of Corellia and member of the Human League. He was much larger and more rotund than the Human average.\nBefore the onset of the First Corellian Insurrection, he and fellow Human League member Flautis captured Han Solo, after recognizing his physical simiarity to their leader Thrackan Sal-Solo. They later released him on the orders of the Sal-Solo, the Hidden Leader.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Human_League",
+  "/wiki/Corellian_Crisis",
+  "/wiki/Flautis",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Thrackan_Sal-Solo",
+  "/wiki/Hidden_Leader",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barnley",
+  "/wiki/Ambush_at_Corellia"
+ ]
+}

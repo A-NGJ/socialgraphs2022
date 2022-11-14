@@ -1,0 +1,61 @@
+{
+ "name": "Ponto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Panshee tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ponto was the son of Grael and his wife, and a member of the Panshee tribe.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Panshee",
+  "/wiki/Grael",
+  "/wiki/Grael%27s_wife",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ponto",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Escape_from_Balis-Baurgh",
+  "/wiki/Star_Wars_Adventure_Journal_1",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

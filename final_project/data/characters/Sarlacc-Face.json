@@ -1,0 +1,85 @@
+{
+ "name": "Sarlacc-Face",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human (clone}"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sarlacc-Face was a clone trooper of the Galactic Republic. He was a lieutenant in the Republic's Grand Army. He was a superior of the squad containing 1139, 1137, and Blasty. 1139 thought that Sarlacc-Face was a cool clone.\nA clone by any other name",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/1139",
+  "/wiki/1137",
+  "/wiki/Blasty",
+  "/wiki/A_clone_by_any_other_name"
+ ]
+}

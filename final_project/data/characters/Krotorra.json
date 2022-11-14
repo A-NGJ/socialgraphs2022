@@ -1,0 +1,53 @@
+{
+ "name": "Krotorra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krotorra was a male Wookiee who served as a New Republic representative from Kashyyyk. Following the Battle of Endor, he was captured by the Twi'lek slaver Slar-dan ti Gardi and sold to the Vax Mining Group.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Slar-dan_ti_Gardi",
+  "/wiki/Vax_Mining_Group",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Krotorra",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Wanted_by_Cracken_(Star_Wars_Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_8",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

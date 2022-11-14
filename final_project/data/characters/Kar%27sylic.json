@@ -1,0 +1,51 @@
+{
+ "name": "Kar'sylic",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kintan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kintan strider"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Tu'rsc'yulir"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kar'sylic was a Kintan strider kept by the Nikto smuggler Tu'rsc'yulir.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kintan/Legends",
+  "/wiki/Kintan_strider/Legends",
+  "/wiki/Tu%27rsc%27yulir",
+  "/wiki/Nikto/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Race_for_the_Tessent",
+  "/wiki/Star_Wars_Gamer_9"
+ ]
+}

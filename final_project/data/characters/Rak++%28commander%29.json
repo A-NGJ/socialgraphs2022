@@ -1,0 +1,79 @@
+{
+ "name": "Rak  (commander)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Rist"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rak was a male Human who served as a commander in the military forces of the Aldreraanian Great House of Rist during the Alderaan Civil War. During the war he was stationed on the planet Alderaan at House Rist's satellite relay, where he held command during an attack by Republic aligned individuals who killed him and disabled the relay.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rak",
+  "/wiki/3642_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_Rist",
+  "/wiki/Commander/Legends",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

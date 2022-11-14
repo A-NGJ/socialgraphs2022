@@ -1,0 +1,48 @@
+{
+ "name": "Khakraim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clan Hakh'khar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Khakraim was a member of Clan Hakh'khar who had been transplanted to Wayland. He was attached to the NRI safe house in New Nystao.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Hakh%27khar",
+  "/wiki/Wayland",
+  "/wiki/New_Republic_Intelligence_Service",
+  "/wiki/New_Nystao",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Khakraim",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

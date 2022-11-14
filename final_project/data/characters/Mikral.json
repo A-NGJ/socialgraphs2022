@@ -1,0 +1,54 @@
+{
+ "name": "Mikral",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mikral was a male Rodian who had expertise in commando training. During the Iron Blockade, he could often be found at the Shadow Market of Cloud City.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Commando",
+  "/wiki/Iron_Blockade",
+  "/wiki/Shadow_Market",
+  "/wiki/Cloud_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mikral",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

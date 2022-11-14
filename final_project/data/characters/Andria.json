@@ -1,0 +1,70 @@
+{
+ "name": "Andria",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Olive"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Andria was a Mirialan female Jedi Master who served the Jedi Order during the Galactic War. Stationed on Balmorra, she served as a Jedi Consular trainer in Farnel Outpost Command Center.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Andria",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Farnel_Outpost",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

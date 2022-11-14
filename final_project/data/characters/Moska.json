@@ -1,0 +1,34 @@
+{
+ "name": "Moska",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moska was a Hutt who employed Nomo Sliken at some point of his life.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Nomo_Sliken",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Moska",
+  "/wiki/Wizards.com",
+  "/wiki/Positive_ID",
+  "/wiki/The_Kitonak_Connection"
+ ]
+}

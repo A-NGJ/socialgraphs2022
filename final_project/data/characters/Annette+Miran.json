@@ -1,0 +1,60 @@
+{
+ "name": "Annette Miran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Applied Toxicology"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Annette Miran was an officer of the Sith Empire and a chief researcher of the Applied Toxicology Division. She was an acting liaison to Czerka Corporation during an incident at their CI-004 Research Facility on Dxun.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Applied_Toxicology",
+  "/wiki/Major/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/CI-004_Incident",
+  "/wiki/CI-004_Research_Facility",
+  "/wiki/Dxun/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

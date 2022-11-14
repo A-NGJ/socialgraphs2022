@@ -1,0 +1,66 @@
+{
+ "name": "Hreda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hreda was a male Drall living during the Galactic War. During the Battle of Corellia Hreda joined the Corellian resistance and Galactic Republic forces in their efforts to drive Imperials off the planet. In the Gilded Descent Casino of Coronet City Hreda worked as an archivist and advisor to the Jedi Master Sumalee of the Jedi Order. He also met the smuggler Voidhound during his search for Curao.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drall/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Gilded_Descent_Casino/Legends",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Sumalee",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Voidhound",
+  "/wiki/Curao",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

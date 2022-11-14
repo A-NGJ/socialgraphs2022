@@ -1,0 +1,53 @@
+{
+ "name": "Cooper",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cooper was a human male who operated for the Resistance on Batuu. He requested assistance with performing diagnostics on a T-70 X-wing starfighter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Batuu",
+  "/wiki/T-70_X-wing_starfighter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cooper",
+  "/wiki/Star_Wars:_Datapad"
+ ]
+}

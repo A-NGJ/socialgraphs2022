@@ -1,0 +1,48 @@
+{
+ "name": "Greenfinger",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1.5 ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Greenfinger was a Rodian thief who lived on Tatooine during the Galactic Civil War. He did business with Farious Gletch in Bestine.\n1.5 ABY, Greenfinger tried to skip town without paying his debts to Gletch. Gletch therefore paid a spacer to track Greenfinger down and kill him to make an example of him.\nExamining this Rodian identified him as Greenfingers, yet the quest dialogue referred to him as Greenfinger without the 's'. This article assumes the latter version is correct.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Farious_Gletch",
+  "/wiki/Bestine_(city)/Legends",
+  "/wiki/Spacer/Legends"
+ ]
+}

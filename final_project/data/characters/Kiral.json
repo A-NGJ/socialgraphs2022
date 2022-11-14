@@ -1,0 +1,69 @@
+{
+ "name": "Kiral",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Kiral was an officer in the Republic Navy during the Galactic War. Stationed aboard the Gav Daragon he served as a supply officer, exchanging obsolete materials for new resources.\nLieutenant Kiral was a merchant NPC in Star Wars: The Old Republic. He was introduced following Patch 2.0 as an exchange agent for Republic players, trading gear drops removed from the game for commendations.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Gav_Daragon_(Valor-class)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

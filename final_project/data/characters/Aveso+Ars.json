@@ -1,0 +1,65 @@
+{
+ "name": "Aveso Ars",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aveso Ars was a female Zabrak who lived on Kashyyyk during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aveso_Ars",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

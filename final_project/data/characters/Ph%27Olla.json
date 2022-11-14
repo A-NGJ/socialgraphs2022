@@ -1,0 +1,69 @@
+{
+ "name": "Ph'Olla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Colu system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ph'Olla was a Bith Senator in the Galactic Alliance, who along with Nab H'aas, overheard Mara Jade Skywalker threaten the life of Darth Caedus and accusing him of being a Sith. Neither of them knew what that was. After the incident, both Ph'Olla and H'aas logged a report about the threat with Lon Shevu of the Galactic Alliance Guard.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Colu_system",
+  "/wiki/Bith/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Senate",
+  "/wiki/Senator/Legends",
+  "/wiki/Nab_H%27aas",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Darth_Caedus",
+  "/wiki/Sith/Legends",
+  "/wiki/Lon_Shevu",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Legacy_of_the_Force:_Sacrifice",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Nirsh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "BloodScars"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nirsh was a member of the BloodScars on Gepparin. He was the bodyguard of the Commodore.\nWhen Mara Jade visited the Commodore on Gepparin, she threw Nirsh's blaster in the pool by using the Force. After that, his boss allowed Nirsh to get back his weapon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/BloodScar",
+  "/wiki/Gepparin",
+  "/wiki/The_Commodore",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Blaster/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Allegiance_(novel)",
+  "/wiki/Allegiance_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

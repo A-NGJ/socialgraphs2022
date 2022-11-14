@@ -1,0 +1,47 @@
+{
+ "name": "Jadek-To",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jadek-To was a Voss living on Voss many years before his planet was discovered by the galactic society. He composed the Writings of Jadek-To that were etched on a pillar erected outside the Shrine of Healing in the Old Paths.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Writings_of_Jadek-To",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Old_Paths",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Handi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Espirion"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Handi was a legendary Espirion Jedi Master.\nSeveral archeologists tried to find his unknown resting place.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Espirion/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Handi",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

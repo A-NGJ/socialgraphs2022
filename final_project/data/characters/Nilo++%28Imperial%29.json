@@ -1,0 +1,53 @@
+{
+ "name": "Nilo  (Imperial)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nilo was a male Human Imperial lieutenant who was stationed on Garos IV.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nilo_(Rodisar)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Whispers_in_the_Dark",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/Mission_to_Zila",
+  "/wiki/Star_Wars_Adventure_Journal_3",
+  "/wiki/Shadows_of_Darkness",
+  "/wiki/Star_Wars_Adventure_Journal_4",
+  "/wiki/Betrayal_by_Knight",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

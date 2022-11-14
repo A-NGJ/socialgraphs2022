@@ -1,0 +1,64 @@
+{
+ "name": "Aereena",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lazerian IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kingdom of Devit",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Princess Aereena was the daughter of King Alarik X and Queen Careese, rulers of the planet Lazerian IV. She saw the Galactic Empire as a manipulative entity, and sought to combat its influence on her homeworld by leading the New Republic resistance on the planet. Few of the resistance members knew who led them, and in public she played the part of the spoiled princess.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lazerian_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kingdom_of_Devit",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Alarik_X",
+  "/wiki/Queen/Legends",
+  "/wiki/Careese",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

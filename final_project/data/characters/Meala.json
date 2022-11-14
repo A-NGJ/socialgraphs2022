@@ -1,0 +1,34 @@
+{
+ "name": "Meala",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Meala was a female Hapan doctor who gave Allana Solo a special weapon that had a poison that lasted until the antidote was given.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Hapan",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Allana_Solo",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Reyal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Reyal was a Human male Ensign of the reconstituted Sith Empire's Imperial Navy during the Cold War between the Empire and Galactic Republic. He was stationed aboard Adamas Space Station, orbiting the planet of Hoth. Around 3642 BBY, he approached an Imperial traveler and asked him to find Officer Halpern, who would brief the individual about the situation. Later on, he supplied the Imperial with proper clothes for traveling in Hoth's surface.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Navy_(Sith_Empire)",
+  "/wiki/Ensign/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Adamas_Space_Station",
+  "/wiki/Hoth/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Officer/Legends",
+  "/wiki/Halpern",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

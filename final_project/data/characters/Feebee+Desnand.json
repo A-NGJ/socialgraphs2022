@@ -1,0 +1,49 @@
+{
+ "name": "Feebee Desnand",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Feebee Desnand was a female Human and the wife of Io Desnand, who served as the Imperial Governor of Aida.\nA plump woman who wore false eyelashes, Feebee had been promised a lizard-skin gown by her husband. He planned to make good on his promise by skinning Bossk alive, but Bossk escaped from prison before the skinning could take place.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Io_Desnand",
+  "/wiki/Governor/Legends",
+  "/wiki/Aida",
+  "/wiki/Eye/Legends",
+  "/wiki/Bossk/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/The_Prize_Pelt:_The_Tale_of_Bossk",
+  "/wiki/Tales_of_the_Bounty_Hunters"
+ ]
+}

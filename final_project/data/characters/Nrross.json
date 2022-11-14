@@ -1,0 +1,53 @@
+{
+ "name": "Nrross",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY",
+      "Korriban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nrross was a Trandoshan pirate hired by Captain Naz Felyood of the ship Jynni's Virtue. He served as added intimidation and a yes-man to the captain.\nWhen Jynni's Virtue came under fire from an Imperial scout patrol, a desperate leap to hyperspace destroyed the ship's astromech droid. The explosion killed Nrross, despite the Trandoshan's natural regenerative abilities.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Korriban",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Naz_Felyood",
+  "/wiki/Jynni%27s_Virtue",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Korriban:_Planet_of_Lost_Souls",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

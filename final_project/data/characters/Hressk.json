@@ -1,0 +1,45 @@
+{
+ "name": "Hressk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vorse Tabarith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hressk was a male Trandoshan and the dock chief of the Landing Bay 124A on Cloud City during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vorse_Tabarith",
+  "/wiki/Landing_Bay_124A",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

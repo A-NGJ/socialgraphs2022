@@ -1,0 +1,43 @@
+{
+ "name": "Onurruka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Onurruka was a male Wookiee who peacefully resisted the Galactic Empire's early edicts, drawing public attention to the oppression of his people. Because of that, he was committed to an Imperial prison, where he spent two decades behind bars.\nDuring the Imperial blockade of the Anoat sector, Onurruka ended up joining the crew of the Smuggler.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Prison",
+  "/wiki/Standard_decade",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Iron_Blockade",
+  "/wiki/Anoat_sector",
+  "/wiki/The_Smuggler"
+ ]
+}

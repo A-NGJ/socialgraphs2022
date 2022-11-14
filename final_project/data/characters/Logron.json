@@ -1,0 +1,46 @@
+{
+ "name": "Logron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Logron was a male Human crime lord during the Galactic Civil War. He had a farmstead near Mos Shuuta, a town on the planet Tatooine. At some point, he took away the Blue Flare, Sona Fey'lya's freighter, as payback. She was able to steal it later, with the help of the Pero brothers and an adventurer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Logron%27s_desert_farmstead",
+  "/wiki/Mos_Shuuta",
+  "/wiki/Planet/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Blue_Flare",
+  "/wiki/Sona_Fey%27lya",
+  "/wiki/Freighter/Legends",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook"
+ ]
+}

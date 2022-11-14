@@ -1,0 +1,47 @@
+{
+ "name": "Brogol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brogol was a Hutt who led the Hutt Cartel as the Sovereign Magnate by 3628 BBY. He negotiated the Hutt Cartel's exit from a treaty with the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Sovereign_Magnate",
+  "/wiki/3628_BBY",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brogol",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

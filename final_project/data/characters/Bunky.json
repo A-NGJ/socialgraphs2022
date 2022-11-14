@@ -1,0 +1,46 @@
+{
+ "name": "Bunky",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Womp rat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Harmony"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bunky was a male endangered womp rat adopted by Harmony. It died sometime before the Battle of Yavin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Womp_rat/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Harmony_(Human)",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Star_Wars_Detours"
+ ]
+}

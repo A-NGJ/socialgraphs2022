@@ -1,0 +1,42 @@
+{
+ "name": "Ingas Lek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ingas Lek was a Corellian who led a group of 721 Humans to the planet Tuulab to establish a colony during the height of Emperor Palpatine's reign.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tuulab",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Relic_(article)",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

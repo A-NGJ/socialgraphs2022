@@ -1,0 +1,54 @@
+{
+ "name": "Elicia",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elicia was a female Human who served as a secretary for Minister of Trade Fliry Vorru on the planet Thyferra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Minister_of_Trade",
+  "/wiki/Fliry_Vorru",
+  "/wiki/Planet/Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Elicia",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Lun Deverin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lun Deverin was a male Duros sensor officer aboard the pirate ship Free Lance; he served under Urias Xhaxin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Free_Lance",
+  "/wiki/Urias_Xhaxin",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_I:_Onslaught",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

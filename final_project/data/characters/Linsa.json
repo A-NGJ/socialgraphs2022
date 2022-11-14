@@ -1,0 +1,48 @@
+{
+ "name": "Linsa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Linsa was a Human female from Garos IV. In 5 BBY, she worked as an aide for Magir Paca, the influent assistant to the Minister of Commerce.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/5_BBY/Legends",
+  "/wiki/Aide/Legends",
+  "/wiki/Magir_Paca",
+  "/wiki/Minister_of_Commerce",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Turning_Point_(Charlene_Newcomb)",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

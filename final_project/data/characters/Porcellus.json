@@ -1,0 +1,54 @@
+{
+ "name": "Porcellus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba's Palace",
+      "Crystal Moon Restaurant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Porcellus was a human who worked as the head chef in Jabba's Palace on Tatooine. Following the death of Jabba, Porcellus partnered with beastmaster Malakili to open the Crystal Moon Restaurant in Mos Eisley.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Porcellus",
+  "/wiki/Porcellus/Legends",
+  "/wiki/Star_Wars_Adventures:_Return_to_Vader%27s_Castle_4",
+  "/wiki/Human",
+  "/wiki/Color",
+  "/wiki/Boba_Fett%27s_Palace",
+  "/wiki/Crystal_Moon_Restaurant",
+  "/wiki/Chef",
+  "/wiki/Tatooine",
+  "/wiki/Death",
+  "/wiki/Jabba_Desilijic_Tiure",
+  "/wiki/Beastmaster",
+  "/wiki/Malakili",
+  "/wiki/Mos_Eisley",
+  "/wiki/Star_Wars:_Complete_Locations_(2016)"
+ ]
+}

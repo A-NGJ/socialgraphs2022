@@ -1,0 +1,63 @@
+{
+ "name": "Roenton",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roenton was a human male officer in the Imperial Security Bureau. He accompanied Thrawn, Eli Vanto, Wullf Yularen, and Brook to investigate that Yinchom Dojo for anti-Imperial sentiments and possible rebel activity.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Security_Bureau",
+  "/wiki/H%27sishi",
+  "/wiki/Officer",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Eli_N._Vanto",
+  "/wiki/Wullf_Yularen",
+  "/wiki/Brook",
+  "/wiki/Yinchom_Dojo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Roenton",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)",
+  "/wiki/Thrawn_3"
+ ]
+}

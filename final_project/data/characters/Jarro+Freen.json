@@ -1,0 +1,60 @@
+{
+ "name": "Jarro Freen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Borus's Boys"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jarro Freen was a Human male who lived in Gadrin on Cularin during the time of the Clone Wars. He was a member of Borus's Boys, a street gang that liked to hang around near Gadrin Dump. However, he was kidnapped by Task Force Vermin, a unit from the Thaereian military, because his mother worked for the Office of Peace and Security and they wanted to blackmail her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Borus%27s_Boys",
+  "/wiki/Gadrin",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Gadrin_Dump",
+  "/wiki/Task_Force_Vermin",
+  "/wiki/Thaereian_military",
+  "/wiki/Office_of_Peace_and_Security",
+  "/wiki/Night%27s_Friend"
+ ]
+}

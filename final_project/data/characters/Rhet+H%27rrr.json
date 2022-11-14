@@ -1,0 +1,40 @@
+{
+ "name": "Rhet H'rrr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jenet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rhet H'rrr was a Jenet war hero who, according to Jenet legend, helped lead the Jenet species during the Great Conquest, a conflict in which the Jenet took control of the surface of the planet Garban from the danchaf tree goblins who had previously held domain there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garban",
+  "/wiki/Jenet/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Great_Conquest",
+  "/wiki/Planet/Legends",
+  "/wiki/Danchaf",
+  "/wiki/Tree/Legends",
+  "/wiki/Creatures_of_the_Galaxy"
+ ]
+}

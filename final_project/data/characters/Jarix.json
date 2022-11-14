@@ -1,0 +1,56 @@
+{
+ "name": "Jarix",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ensign Jarix was a Human male soldier who was a crony of the corrupt Lieutenant Virk in Fort Garnik on Ord Mantell. He was with Virk when he tried to bully a member of Havoc Squad for trying to expose Virk's corruption. Virk ordered him to attack, but he refused to go up against a member of Havoc Squad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Ensign/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Virk",
+  "/wiki/Fort_Garnik",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Havoc_Squad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

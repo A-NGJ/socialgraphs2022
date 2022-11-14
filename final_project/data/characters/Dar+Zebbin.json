@@ -1,0 +1,35 @@
+{
+ "name": "Dar Zebbin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dar Zebbin was a male Twi'lek smuggler. During the Galactic War, he and his partner Garak Los were working for the Sith Empire on Hoth.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dar_(disambiguation)",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Garak_Los",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Hoth/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

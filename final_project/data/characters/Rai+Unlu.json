@@ -1,0 +1,58 @@
+{
+ "name": "Rai Unlu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sorrus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sorrusian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sorrus Medical Center"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Rai Unlu worked at the Sorrus Medical Center.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sorrus",
+  "/wiki/Sorrusian",
+  "/wiki/Gender/Legends",
+  "/wiki/Sorrus_Medical_Center",
+  "/wiki/Doctor/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rai_Unlu",
+  "/wiki/Jedi_Apprentice:_The_Dangerous_Rescue",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "name": "Flodon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 0 ABY and 3 ABY",
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human",
+      "surgically altered to resemble a Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence",
+      "Destabilization",
+      "Destabilization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Agent Flodon was a male Human who served the Galactic Empire during the Galactic Civil War as a member of the Destabilization branch of Imperial Intelligence. After being surgically-altered to give him the appearance of a Mon Calamari, Flodon traveled to the planet Mon Calamari and participated in the Calamari Project, an Imperial operation that aimed to spark a war between the Mon Calamari and Quarren species.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Dac",
+  "/wiki/Human/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Destabilization",
+  "/wiki/Agent/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Calamari_Project",
+  "/wiki/Quarren/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Death_in_the_Undercity",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Porolo Miatamia's aide",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Diamal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Diamala"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Diamalan male individual was the aide of Diamal Senator Porolo Miatamia. During the Caamas Document Crisis, Miatamia and his aide were stranded on the planet Cilpar when their starship berth was blockaded by angry protestors. By chance, they found former General Lando Calrissian near the vicinity and asked him to intercede on the crowd on their behalf, owing his status as a hero of the Rebellion. Calrissian declined their request but offered to transport them back to Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Diamal_(planet)",
+  "/wiki/Diamal",
+  "/wiki/Gender",
+  "/wiki/Senator/Legends",
+  "/wiki/Porolo_Miatamia",
+  "/wiki/Caamas_Document_Crisis",
+  "/wiki/Planet/Legends",
+  "/wiki/Cilpar",
+  "/wiki/Starship/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Specter_of_the_Past"
+ ]
+}

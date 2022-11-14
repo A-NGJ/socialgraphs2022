@@ -1,0 +1,61 @@
+{
+ "name": "Elder of Knylenn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kuat"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "white"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Elder of Knylenn was the eldest and most respected member of the Knylenn family, a ruling family of the planet Kuat.\nSo well respected was he, that many other Kuati ruling families had made loyalty oaths to him. Around 4 ABY, in an attempt to overturn the Inheritance Exemption, Khoss of Knylenn not only kept secret the death of, but went on to reanimate the Elder of Knylenn's dead corpse, in order to take advantage of those loyalty oaths he made with the other ruling families. This scheme was quickly thwarted by Kuat of Kuat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Knylenn_family",
+  "/wiki/Planet/Legends",
+  "/wiki/Kuati/Legends",
+  "/wiki/Inheritance_Exemption",
+  "/wiki/Khoss_of_Knylenn",
+  "/wiki/Kuat_(person)",
+  "/wiki/Slave_Ship"
+ ]
+}

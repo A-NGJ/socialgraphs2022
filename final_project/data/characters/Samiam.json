@@ -1,0 +1,60 @@
+{
+ "name": "Samiam",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Samiam was an Imperial stormtrooper. Stationed in a detachment under the command of Colonel Beri Tulon, Samiam was assigned to participate in the Massacre on Abridon, but never got the chance as Tulon attempted to defect to the Rebel Alliance, killing his entire squad, including Samiam.\nSamiam's name was most likely inspired by the Dr. Seuss character Sam I Am.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Tulon%27s_task_force",
+  "/wiki/Colonel/Legends",
+  "/wiki/Beri_Tulon",
+  "/wiki/Massacre_on_Abridon",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars:_Force_Commander"
+ ]
+}

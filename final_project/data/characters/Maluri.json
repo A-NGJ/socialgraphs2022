@@ -1,0 +1,53 @@
+{
+ "name": "Maluri",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hapes Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lady Maluri was a female noble from the Hapes Consortium. During the evacuation of the Jedi Academy, she expressed her opinion of using Hapan lives to save Jedi Younglings as gross misuse of royal authority to Queen Mother Tenel Ka Djo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapan",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Trista_Zel",
+  "/wiki/Noble/Legends",
+  "/wiki/Evacuation_of_Ossus",
+  "/wiki/Jedi_Academy_(Ossus)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Initiate/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Queen_Mother",
+  "/wiki/Tenel_Ka_Djo",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

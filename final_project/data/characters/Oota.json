@@ -1,0 +1,51 @@
+{
+ "name": "Oota",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oota was a Twi'lek mechanic who worked with the podracer Yates on the planet Tatooine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Technician",
+  "/wiki/Podracer_(profession)",
+  "/wiki/Yates",
+  "/wiki/Planet",
+  "/wiki/Tatooine",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Oota",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge_-_Episode_3"
+ ]
+}

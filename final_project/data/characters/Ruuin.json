@@ -1,0 +1,48 @@
+{
+ "name": "Ruuin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Radnor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Radnoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ruuin was a Radnoran who was among many of the looters in league with the Avoni after a bioplague terrorized the planet of Radnor. He was brought into custody by Anakin Skywalker and Tru Veld.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Radnor/Legends",
+  "/wiki/Radnoran",
+  "/wiki/Gender/Legends",
+  "/wiki/Avoni",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Tru_Veld/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ruuin",
+  "/wiki/Jedi_Quest:_The_Way_of_the_Apprentice",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

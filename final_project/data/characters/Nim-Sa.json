@@ -1,0 +1,63 @@
+{
+ "name": "Nim-Sa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nim-Sa was a male Voss living on the planet Voss. During the Galactic War he asked Imperial sergeant Jaymis to help in dealing with the Gormak.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Jaymis",
+  "/wiki/Gormak/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nim-Sa",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

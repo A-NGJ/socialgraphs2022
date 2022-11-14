@@ -1,0 +1,51 @@
+{
+ "name": "Quammo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sludir"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Guttu"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quammo was a Sludir majordomo working for gangster Guttu the Hutt around 0 ABY. At that time, Guttu said he had not moved by his own means since at least 150 BBY, which explains some of Quammo's responsibilities.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sludir",
+  "/wiki/Gender/Legends",
+  "/wiki/Guttu",
+  "/wiki/Majordomo/Legends",
+  "/wiki/Gangster",
+  "/wiki/Hutt/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/150_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Quammo",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Great_Herdship_Heist",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

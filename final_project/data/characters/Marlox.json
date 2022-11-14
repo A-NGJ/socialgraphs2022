@@ -1,0 +1,57 @@
+{
+ "name": "Marlox",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quork"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Quork City"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "King Marlox was the ruler of the Quorks of Quork City on Endor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Quork",
+  "/wiki/Gender/Legends",
+  "/wiki/Quork_City",
+  "/wiki/King/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Marlox",
+  "/wiki/Ewoks_3"
+ ]
+}

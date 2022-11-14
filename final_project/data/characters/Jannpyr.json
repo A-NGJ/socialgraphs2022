@@ -1,0 +1,37 @@
+{
+ "name": "Jannpyr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Carest 1"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jiivahar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jannpyr was a Jiivahar tour guide working on Carest 1. He was the best known in his industry.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Carest_1",
+  "/wiki/Jiivahar",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

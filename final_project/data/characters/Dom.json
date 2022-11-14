@@ -1,0 +1,73 @@
+{
+ "name": "Dom",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicExcelsior Company",
+      "Grand Army of the RepublicExcelsior Company",
+      "Excelsior Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dom, also known as \"Bruiser,\" was a clone trooper during the Clone Wars. A member of Fil's Squad, the clone served as the squad's demolition expert.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bruiser_(disambiguation)",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Excelsior_Company",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Fil%27s_squad",
+  "/wiki/Squad/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dom",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Lost_Legion"
+ ]
+}

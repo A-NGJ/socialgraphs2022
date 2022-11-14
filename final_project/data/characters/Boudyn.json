@@ -1,0 +1,72 @@
+{
+ "name": "Boudyn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boudyn was a male Human who served as a Master in the Jedi Order during the Galactic War between the Galactic Republic and the Sith Empire. He took part in the battle on for the planet Ilum during the war, leading Jedi forces on there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Battle_of_Ilum_(Great_Galactic_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Ilum/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Boudyn",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

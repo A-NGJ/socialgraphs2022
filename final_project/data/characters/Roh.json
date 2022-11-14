@@ -1,0 +1,58 @@
+{
+ "name": "Roh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hapes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hapes Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roh was a female Hapan officer under Moreem Espara.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapes/Legends",
+  "/wiki/Hapan",
+  "/wiki/Gender/Legends",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Moreem_Espara",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Roh",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Sakarie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Hazel"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Exchange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sakarie is a Human female who met Meetra Surik in the Iziz Cantina on Onderon. She was seeking a starport visa, which she needed to transport permacrete explosives for the powerful Exchange criminal organization. She was willing to offer a unique sword, a rare Qixoni crystal, or five thousand credits for a visa.\nShe was voiced by Elizabeth Conboy.\nThe player character is only able to learn that Sakarie is an Exchange member and needs the visa to transport explosives, if they have a high enough persuasion skill or by using Mind trick. Otherwise, the player will only hear vague rumors of Sakarie's inclination from other cantina patrons and Sakarie herself will not reveal any information.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Exchange",
+  "/wiki/Meetra_Surik",
+  "/wiki/Unidentified_Iziz_cantina",
+  "/wiki/Onderon/Legends",
+  "/wiki/Starport_visa",
+  "/wiki/Permacrete/Legends",
+  "/wiki/Rodian_death_blade",
+  "/wiki/Qixoni_crystal/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Elizabeth_Conboy",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

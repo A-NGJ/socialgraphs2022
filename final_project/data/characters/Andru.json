@@ -1,0 +1,47 @@
+{
+ "name": "Andru",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Katanos VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Andru was a Human male miner on Katanos VII. He was afraid of the Jedi, but let Obs Kaj escape, ending up exiled from the colony.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Katanos_VII",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Obs_Kaj",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Andru",
+  "/wiki/Rather_Darkness_Visible",
+  "/wiki/Star_Wars_Tales_19"
+ ]
+}

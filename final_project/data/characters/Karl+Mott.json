@@ -1,0 +1,52 @@
+{
+ "name": "Karl Mott",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karl Mott was the owner of the skyhopper hangar in Wayfar on the planet Tatooine. He was the town's resident mechanic who worn grease-stained coveralls. Mott was a large hairy man who rarely spoke but when he did, it was worth listening to.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Skyhopper/Legends",
+  "/wiki/Wayfar",
+  "/wiki/Planet/Legends",
+  "/wiki/Jumpsuit/Legends",
+  "/wiki/Galaxy_Guide_1:_A_New_Hope_(Second_Edition)"
+ ]
+}

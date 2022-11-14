@@ -1,0 +1,36 @@
+{
+ "name": "Roowarra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roowarra was a male Wookiee. He was aboard Port Tooga when a group of spacers tried to purchase droids for the Rebellion.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Port_Tooga",
+  "/wiki/Spacer/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Dead_in_the_Water",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Game_Master%27s_Kit"
+ ]
+}

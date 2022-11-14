@@ -1,0 +1,69 @@
+{
+ "name": "Grot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Rori"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grot was an Admiral in the Imperial Army and was one of the key commanders at the Battle of Restuss on Rori. After Restuss's destruction, Grot was killed by Rebel commandos along with the Dark troopers that were guarding him. Miraculously however, superior medical technology allowed him to be resuscitated. Being a Zabrak, he was one of the few non-Humans ever allowed to serve in the Imperial military.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Rori/Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Battle_of_Restuss",
+  "/wiki/Restuss",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Commando/Legends",
+  "/wiki/Dark_trooper",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

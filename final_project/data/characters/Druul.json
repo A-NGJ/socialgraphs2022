@@ -1,0 +1,49 @@
+{
+ "name": "Druul",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Druul's droid shop"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Druul was a Gran male who owned a droid shop on Vaced. In 43 ABY, Flitcher Poste purchased a slicer droid from Druul's droid shop in order to hijack the Millennium Falcon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vaced/Legends",
+  "/wiki/43_ABY",
+  "/wiki/Flitcher_Poste",
+  "/wiki/Slicer_droid/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Druul",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

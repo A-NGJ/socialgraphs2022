@@ -1,0 +1,40 @@
+{
+ "name": "Eyes  (Rodian)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Eyes\" was a Rodian who had once been imprisoned on Kessel. However, when a smuggler came to the planet, \"Eyes\" stowed away on board the smuggler's YT-1300 freighter, paying the crew 50 credits per day to keep him safe.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Eye_(disambiguation)",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Star_Wars_Gamemaster_Handbook",
+  "/wiki/Shadis",
+  "/wiki/Corellian_Smuggler",
+  "/wiki/Shadis_27"
+ ]
+}

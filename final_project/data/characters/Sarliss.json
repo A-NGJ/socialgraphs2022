@@ -1,0 +1,44 @@
+{
+ "name": "Sarliss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sarliss was a male Gran member of the Alliance to Restore the Republic. After a mission in which three other members of the Alliance were captured, Sarliss became increasingly withdrawn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sarliss",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

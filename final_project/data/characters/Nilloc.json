@@ -1,0 +1,54 @@
+{
+ "name": "Nilloc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Coalition"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nilloc was a male Human who lived around the time of the Clone Wars, and he served as a soldier for the Coalition. He was present in the city Tolea Biqua on the planet Genarius when it was attacked by the Cularin Militia, and was paired with the Zabrak Vegg.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coalition",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/Battle_of_Tolea_Biqua",
+  "/wiki/Cularin_Militia",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Vegg",
+  "/wiki/Wizards.com",
+  "/wiki/The_Price_of_Neutrality_--_Rebellion"
+ ]
+}

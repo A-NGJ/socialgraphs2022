@@ -1,0 +1,69 @@
+{
+ "name": "Grenthean",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grenthean was a Human male Sith Lord of the Sith Empire living during the Galactic War. At the time of the Battle for Kuat he was present aboard Vaiken Spacedock, from where he contacted Admiral Zasha Ranken over the holoterminal. He tried to put Ranken in her place by reminding that she no longer had protection of Rycus Kilran, but was interrupted when Lord Krovos Force-chocked him over his rudeness and briefly put him out of consciousness, allowing Ranken to address more capable Imperials present.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Kuat_(Galactic_War)",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Admiral/Legends",
+  "/wiki/Zasha_Ranken",
+  "/wiki/Rycus_Kilran",
+  "/wiki/Darth_Krovos",
+  "/wiki/Star_Wars:_The_Old_Republic:_Galactic_Starfighter",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

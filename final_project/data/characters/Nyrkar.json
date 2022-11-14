@@ -1,0 +1,59 @@
+{
+ "name": "Nyrkar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dry Goods Emporium",
+      "Cularin resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nyrkar was a Wookiee who worked for the Dry Goods Emporium in Hedrett. He was in charge of food preparation and dietary consultation, and was considered by his employer, Cal Majjer, to be the Emporium's most valuable employee. Majjer referred to Nyrkar as \"his Wookiee,\" although there was no relationship of life debt or indentured servitude between them. Nyrkar was amongst those residents of Cularin who disappeared themselves to join the Cularin resistance, much to Majjer's dismay.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dry_Goods_Emporium",
+  "/wiki/Cularin_resistance",
+  "/wiki/Hedrett",
+  "/wiki/Cal_Majjer",
+  "/wiki/The_Resistance_Within",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

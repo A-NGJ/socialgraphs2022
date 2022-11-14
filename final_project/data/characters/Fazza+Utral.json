@@ -1,0 +1,77 @@
+{
+ "name": "Fazza Utral",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hunting Lodge"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fazza Utral was an Ithorian hunter. As the proprietor of the Hunting Lodge of Anchorhead during the Jedi Civil War, Fazza provided wraid and krayt dragon hunters with a location for buying supplies, a market for their goods, and a place to relax and share tales.\nMost of what he sold hunters was weaponry, ranging from standard blasters and fragmentation grenades to land mines, blaster carbines, and heavy assault guns for the big prizes. He would also buy strange hunting prizes from fellow hunters; once he tried to purchase a krayt dragon pearl from Revan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hunting_Lodge",
+  "/wiki/Revan/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Wraid",
+  "/wiki/Krayt_dragon/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Fragmentation_grenade/Legends",
+  "/wiki/Blaster_carbine/Legends",
+  "/wiki/Krayt_dragon_pearl/Legends"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Eldo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eldo was a Zabrak male Major of the Galactic Republic stationed at the Farnel Outpost on Balmorra during the Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Farnel_Outpost",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

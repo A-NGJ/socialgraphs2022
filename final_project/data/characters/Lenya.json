@@ -1,0 +1,33 @@
+{
+ "name": "Lenya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ryn"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lenya was a female Ryn refugee on Duro in 26 ABY. She was one of Settlement 32's communications operators.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryn/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/26_ABY",
+  "/wiki/Settlement_32",
+  "/wiki/The_New_Jedi_Order:_Balance_Point"
+ ]
+}

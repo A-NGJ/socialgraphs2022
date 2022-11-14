@@ -1,0 +1,38 @@
+{
+ "name": "Digby",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Digby was a male Human, who lived on the planet Cularin during the waning years of the Galactic Republic.\nDigby worked as a storeman at Hedrett Public Transport Facility, a spaceport that was located in the city of Hedrett. He often supplemented his income by stealing various things from the port. However, when he tried to steal some cargo that the Heroes of Cularin had been hired to collect, they attempted to apprehend him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Hedrett_Public_Transport_Facility",
+  "/wiki/Spaceport/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Hedrett",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Consignment"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Green Laser",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Green Laser was a male Drall that lived during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drall/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Green_Laser",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

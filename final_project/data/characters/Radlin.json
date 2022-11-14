@@ -1,0 +1,66 @@
+{
+ "name": "Radlin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY",
+      "Zelos II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Radlin was an Imperial sergeant stationed in the hidden garrison on Zelos II.\nAssigned to guarding the entrance to the base in the Valley of Umbra, with two scouts and an E-Web heavy repeating blaster, he was a stickler for procedure but he was caught off guard by Platt Okeefe posing as a Walking Dead Rebel that bored Imperials had been using for target practice.\nThe mistake cost him his life, his uniform and his clearance enabling Okeefe and Cholakk to infiltrate the Valley.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Zelos_II",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Zelos_II_garrison",
+  "/wiki/Valley_of_Umbra",
+  "/wiki/Scout_trooper/Legends",
+  "/wiki/E-Web_heavy_repeating_blaster",
+  "/wiki/Platt_Okeefe/Legends",
+  "/wiki/Jumper",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Tru%27eb_Cholakk",
+  "/wiki/Gathering_Shadows",
+  "/wiki/Tales_from_the_New_Republic"
+ ]
+}

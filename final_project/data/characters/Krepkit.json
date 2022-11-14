@@ -1,0 +1,69 @@
+{
+ "name": "Krepkit",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krepkit was a Human male General of the Galactic Republic living during the Galactic War. During the Battle of Hoth he was discussing with fellow Generals Shodarra and Uchang the news that the famed Bane Brigade has resurfaced on Hoth after being presumed dead since the Battle of Rhen Var over ten years earlier. Uchang advised to bring more reinforcements to Hoth, but Shodarra countered by saying that he saw the Bane Brigade perish himself. Krepkit people's capital was destroyed by the Bane Brigade in the past, and he stated that the truth must be uncovered either way.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Hoth_(Galactic_War)",
+  "/wiki/Shodarra",
+  "/wiki/Uchang",
+  "/wiki/Bane_Brigade",
+  "/wiki/Hoth/Legends",
+  "/wiki/Battle_of_Rhen_Var",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

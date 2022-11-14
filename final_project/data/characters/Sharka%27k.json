@@ -1,0 +1,35 @@
+{
+ "name": "Sharka'k",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gree"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sharka'k was a Gree artisan who created the Sharka'k Noor, but died before he was able pass the secrets of the Sharka'k Noor on to his apprentice.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gree_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sharka%27k_Noor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sharka%27k",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/From_the_Files_of_Corellia_Antilles",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

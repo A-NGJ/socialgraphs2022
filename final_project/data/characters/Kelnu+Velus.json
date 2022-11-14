@@ -1,0 +1,70 @@
+{
+ "name": "Kelnu Velus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelnu Velus was a male Twi'lek who served as a scout for the Galactic Republic. Around 3640 BBY Velus and the Voss Commando Abdan-Sho surveyed the Gormak fortifications on the Fest Otur Island north of the Nightmare Lands. They asked a Republic-aligned individual to retrieve experimental powered armor from the Gormak and destroy the power stations used to make it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Voss_(species)",
+  "/wiki/Voss_commandos",
+  "/wiki/Abdan-Sho",
+  "/wiki/Gormak/Legends",
+  "/wiki/Fest_Otur_Island",
+  "/wiki/Nightmare_Lands",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Voss"
+ ]
+}

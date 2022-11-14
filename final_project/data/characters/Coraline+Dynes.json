@@ -1,0 +1,65 @@
+{
+ "name": "Coraline Dynes",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bluish white"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Coraline Dynes was a female Human found in Doaba Guerfel on the planet Corellia during the Galactic Civil War. She once asked an individual to help her by escorting a witness to her and protect him from Black Sun.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Doaba_Guerfel/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Black_Sun/Legends"
+ ]
+}

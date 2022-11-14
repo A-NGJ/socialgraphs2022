@@ -1,0 +1,39 @@
+{
+ "name": "Darvla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arkanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Madame Darvla was responsible for dressing dinner guests onboard the Arkanian Legacy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arkanian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Arkanian_Legacy",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Darvla",
+  "/wiki/Knights_of_the_Old_Republic_18"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Jim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Pink"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jim was a male Rodian who lived during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jim_(disambiguation)",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Jim",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jim",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

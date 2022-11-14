@@ -1,0 +1,54 @@
+{
+ "name": "Hobyo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hobyo was a male Klatooinian serving the New Republic when he was captured during the failed Operation Trinity. Infiltrating the Peace Brigade and sabotaging their engines in the attempt to rescue prisoners being sent to Coruscant to be sacrificed, he was captured.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Klatooinian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Second_Battle_of_Bilbringi",
+  "/wiki/Peace_Brigade",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

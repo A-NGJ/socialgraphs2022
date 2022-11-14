@@ -1,0 +1,35 @@
+{
+ "name": "Harke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harke was a Sakiyan male who owned the Pearl, a space station located in Hutt Space.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sakiyan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Pearl",
+  "/wiki/Space_station/Legends",
+  "/wiki/Hutt_Space/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Harke",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

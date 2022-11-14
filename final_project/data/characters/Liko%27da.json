@@ -1,0 +1,71 @@
+{
+ "name": "Liko'da",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Liko'da was a Human male who served the Sith Empire on the Sith capital planet of Dromund Kaas. He made his living by selling stims to the Sith Empires citizens.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Brown",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Liko%27da",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

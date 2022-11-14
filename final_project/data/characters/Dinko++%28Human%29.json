@@ -1,0 +1,67 @@
+{
+ "name": "Dinko  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ruusan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "5 ABY",
+      "Ruusan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fort Nowhere"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dinko was a Human male smuggler who lived in Fort Nowhere on Ruusan during the Galactic Civil War. In 5 ABY, he served as a gunner in the battle of Fort Nowhere until he was killed by Imperial forces.\nIn the audio adaptation of Dark Forces: Jedi Knight, he was voiced by Stephen Yoakam.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Dinko",
+  "/wiki/Ruusan/Legends",
+  "/wiki/5_ABY/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fort_Nowhere",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Fort_Nowhere",
+  "/wiki/Dark_Forces:_Jedi_Knight_audio_drama",
+  "/wiki/Dark_Forces:_Jedi_Knight"
+ ]
+}

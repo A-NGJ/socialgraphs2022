@@ -1,0 +1,60 @@
+{
+ "name": "Sarmuk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sarmuk was a male Togruta captain of the Galactic Republic living during the Galactic War. During the Battle of Ilum in 3640 BBY he asked a Republic citizen to destroy a Imperial ion disruptor.\nCaptain Sarmuk appears in the video game Star Wars: The Old Republic as an NPC on Ilum and begins the mission \"Crystal Clear Sabotage\".",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/3640_BBY",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

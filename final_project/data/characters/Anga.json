@@ -1,0 +1,61 @@
+{
+ "name": "Anga",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Anga was the communications officer for the Bail Organa under Garm Bel Iblis. In 27 ABY, she served under his command during the fall of Coruscant and was ordered by him to tell Fleet Command that he would not withdraw.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Anga_system",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Bail_Organa_(Star_Destroyer)",
+  "/wiki/Garm_Bel_Iblis/Legends",
+  "/wiki/27_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Anga",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star"
+ ]
+}

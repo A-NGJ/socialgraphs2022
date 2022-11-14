@@ -1,0 +1,60 @@
+{
+ "name": "Duppa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wasskah"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Momong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Aqua",
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duppa was a male momong born on the Trandoshan moon of Wasskah. He served as the loyal pet of a spacer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wasskah/Legends",
+  "/wiki/Momong/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Gidd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cerea"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gidd was a legendary Cerean female warrior who supposedly traveled from the stars.\nMany female Cereans were named after her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cerea/Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

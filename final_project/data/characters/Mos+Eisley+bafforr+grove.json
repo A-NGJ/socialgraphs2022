@@ -1,0 +1,59 @@
+{
+ "name": "Mos Eisley bafforr grove",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bafforr tree"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black leaves"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Momaw Nadon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A grove of bafforr trees grew on Tatooine, in one of the many side domes of the home of Momaw Nadon, an exiled Ithorian priest. The grove forbid Nadon from killing the Imperial Alima.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Bafforr_tree",
+  "/wiki/Momaw_Nadon/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Alima",
+  "/wiki/The_Storm%27s_Edge",
+  "/wiki/The_Sand_Tender:_The_Hammerhead%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/Secrets_of_Tatooine"
+ ]
+}

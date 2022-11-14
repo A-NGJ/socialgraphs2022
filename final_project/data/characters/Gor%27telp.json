@@ -1,0 +1,34 @@
+{
+ "name": "Gor'telp",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kler'terrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gor'telp was a male Kler'terrian. He worked as a bartender for Tan Shilley at her establishment Shilley's.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kler%27terrian",
+  "/wiki/Gender/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Tan_Shilley",
+  "/wiki/Shilley%27s",
+  "/wiki/The_Game_Chambers_of_Questal",
+  "/wiki/Classic_Adventures:_Volume_Five"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Gindo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Herglic"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Distraction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gindo was a Herglic, who acted as a double for Enni Anni, a member of the band Distraction. As part of a security ploy, he was escorted off the Sleemo Poya Jeedai by Xydge, along with doubles of the other band members.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Herglic/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Distraction",
+  "/wiki/Enni_Anni",
+  "/wiki/Sleemo_Poya_Jeedai",
+  "/wiki/Xydge",
+  "/wiki/Wizards.com",
+  "/wiki/With_the_Band"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Kend Harlow",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kend Harlow was a gambler indebted to the Rodian crimelord Hatabbas. In exchange for payment, the Rodian forced Harlow to fight his pet svaper; if he won he could go free, if he failed he would die. Harlow was unable to defeat the beast, and was consumed in battle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Hatabbas",
+  "/wiki/Svaper/Legends",
+  "/wiki/Creatures_of_the_Galaxy",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

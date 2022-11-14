@@ -1,0 +1,61 @@
+{
+ "name": "Rethorn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "43 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.1 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rethorn was a prominent Ithorian crime lord in the Mid Rim region. He was responsible for inciting several revolutions against both Imperial and New Republic interests after the Battle of Endor. His criminal activities primarily included weapons dealing.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/43_BBY/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Mid_Rim",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Wanted_by_Cracken_(sourcebook)"
+ ]
+}

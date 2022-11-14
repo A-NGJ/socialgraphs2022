@@ -1,0 +1,43 @@
+{
+ "name": "Polly",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3627 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mantellian flutterplume"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Polly was a mantellian flutterplume living on the planet Dantooine. It was killed during the Dantooine Incursion of the new conflict between Galactic Republic and Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/3627_BBY",
+  "/wiki/Mantellian_flutterplume/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Dantooine_Incursion",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

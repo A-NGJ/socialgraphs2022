@@ -1,0 +1,40 @@
+{
+ "name": "Savo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Savo was a bodyguard hired to protect Shalo Sherin. She had a close relationship with her fellow bodyguard, Camerlin. In combat, she preferred to use a vibro-ax.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Shalo_Sherin",
+  "/wiki/Camerlin",
+  "/wiki/Vibro-ax/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

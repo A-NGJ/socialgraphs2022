@@ -1,0 +1,48 @@
+{
+ "name": "Klikk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klikk was a male Jawa trader and scavenger from the planet Tatooine. He had extensive experience with the technical aspects of droids, including their features, how to repair them, and how to reassemble them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Scavenger/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Klikk",
+  "/wiki/Scavenger%27s_Guide_to_Droids"
+ ]
+}

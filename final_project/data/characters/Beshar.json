@@ -1,0 +1,63 @@
+{
+ "name": "Beshar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beshar was a male Human agent of the Imperial Intelligence of the Sith Empire during the Cold War. He was assigned to Nar Shaddaa around 3643 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Beshar",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

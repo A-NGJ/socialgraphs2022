@@ -1,0 +1,59 @@
+{
+ "name": "Bilder",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Prior to 5 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Partisans"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bilder was a Twi'lek male who was a member of Saw Gerrera's Partisans. At some point he was killed in action.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/5_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Partisans",
+  "/wiki/Saw_Gerrera",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bilder",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Elis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Anobis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Anobis"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elis was a leader of a mining village on Anobis. He was one of the leading members in the civil war on that planet.\nWhen Anja Gallandro tricked Han, Jaina and Jacen Solo, and the remnants of the farming village into coming to his village for negotiations, Elis captured them. After his younger brother Protas was killed by one of Anja's burrowing detonators by accident, Elis ordered Yuos, the leader of the farming village, before him; he was about to kill him when the Solos convinced him to end the war.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Anobis",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Anja_Gallandro",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Darth_Caedus",
+  "/wiki/Protas_(Human)",
+  "/wiki/Yuos",
+  "/wiki/Young_Jedi_Knights:_Return_to_Ord_Mantell",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

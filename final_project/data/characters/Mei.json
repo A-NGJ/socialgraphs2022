@@ -1,0 +1,58 @@
+{
+ "name": "Mei",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mei was a male Human lieutenant of the Sith Empire. During the Galactic War he was stationed inside Dorn Base on Hoth.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Mei_(Dark_Jedi)",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Gender/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Dorn_Base",
+  "/wiki/Hoth/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

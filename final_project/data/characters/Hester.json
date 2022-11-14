@@ -1,0 +1,79 @@
+{
+ "name": "Hester",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Outcasts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hester was a Human female native to the Undercity of Taris.\nHester's husband, Hendar, left the Undercity village to go into the rakghoul-infested lands. Upon his return, he was being pursued by a rakghoul. She asked Trewin the gatekeeper to open the gate and let him in. Trewin refused, believing the danger of the rakghoul entering the village too great, until Revan volunteered to help Hendar combat the rakghoul. When the beast was defeated, Hendar was reunited with his Hester, much to her relief.\nLike all the other Outcasts, she left for the Promised Land.\nIf Revan takes too long to defeat the rakghoul, Hendar will die and Hester will run away crying.\nIf Revan refuses to help Hendar, she shouts at him as Hendar is killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Outcasts_(Taris)",
+  "/wiki/Rakghoul",
+  "/wiki/Undercity_(Taris)",
+  "/wiki/Hendar",
+  "/wiki/Trewin",
+  "/wiki/Revan/Legends",
+  "/wiki/Promised_Land",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

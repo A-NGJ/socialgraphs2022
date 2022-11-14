@@ -1,0 +1,35 @@
+{
+ "name": "Mubbin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Whiphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mubbin was a male Whiphid who searched under Plett's Well for treasure.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bran_Kemple",
+  "/wiki/Plett%27s_Well",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mubbin",
+  "/wiki/Children_of_the_Jedi_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

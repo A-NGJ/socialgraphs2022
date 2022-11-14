@@ -1,0 +1,38 @@
+{
+ "name": "Neelir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neelir was a Rodian bounty hunter who was a patron of the Thirsty Bantha cantina in Mos Entha on Tatooine around the time of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Thirsty_Bantha",
+  "/wiki/Cantina/Legends",
+  "/wiki/Mos_Entha/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Neelir",
+  "/wiki/Star_Wars:_Cantina"
+ ]
+}

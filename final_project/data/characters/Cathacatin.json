@@ -1,0 +1,46 @@
+{
+ "name": "Cathacatin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Paqwepori"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Paqwe"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cathacatin was a Paqwe from Paqwepori and part of Belezaboth Ourn's diplomatic consul to Coruscant during the Black Fleet Crisis. He was a licensed breeder-keeper of Toko birds and killed all the remaining ones before returning home to keep them from suffering.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Paqwepori",
+  "/wiki/Paqwe",
+  "/wiki/Gender/Legends",
+  "/wiki/Belezaboth_Ourn",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/Toko_bird",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

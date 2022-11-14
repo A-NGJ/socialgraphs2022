@@ -1,0 +1,47 @@
+{
+ "name": "Nopan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jarafok"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nopan was a male Quarren employee of the crime lord, Jarafok.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jarafok",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nopan",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/A_Buyer%27s_Guide_to_Alternative_Starships",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

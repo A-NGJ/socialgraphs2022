@@ -1,0 +1,56 @@
+{
+ "name": "Buan ke Shia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Adumar"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "13 ABY",
+      "Adumar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Buan ke Shia was a male Human starfighter pilot from the planet Adumar who challenged Wedge Antilles to a duel upon Red Flight's—a group composed of Rogue Squadron veterans—diplomatic visit to the planet. He and his entire flight were shot down by Red Flight.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adumar/Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Red_Flight",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/X-Wing:_Starfighters_of_Adumar"
+ ]
+}

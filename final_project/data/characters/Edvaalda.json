@@ -1,0 +1,66 @@
+{
+ "name": "Edvaalda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Edvaalda was a female Twi'lek who lived on Coruscant during the Cold War. She worked as a bartender in the Dealer's Den cantina in the Old Galactic Market.\nEdvaalda appears in the BioWare MMORPG Star Wars: The Old Republic as a cantina vendor on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Dealer%27s_Den",
+  "/wiki/Cantina/Legends",
+  "/wiki/Old_Galactic_Market",
+  "/wiki/BioWare",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

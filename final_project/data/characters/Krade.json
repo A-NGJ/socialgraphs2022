@@ -1,0 +1,66 @@
+{
+ "name": "Krade",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krade was a Human male member of the Imperial Guard who served the Sith Empire with the rank of commander during the Galactic War.\nIn 3640 BBY, Commander Krade served alongside Darth Charnus and Darth Decimus during the Battle of Corellia. When the Czerka Corporation created a massive army of security droids to fight against the Empire, Krade and Charnus were able to send an Imperial hero to take the Hull Cracker and use the weapon to disable two of Corellian Engineering Corporation's signal towers. Krade and Charnus' forces defended Imperial explosives experts while they planted charges, and the Sith Lord's operatives stormed the company board room itself.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Guard",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Darth_Charnus",
+  "/wiki/Darth_Decimus",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Hull_Cracker",
+  "/wiki/Corellian_Engineering_Corporation/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

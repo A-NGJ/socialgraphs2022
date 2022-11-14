@@ -1,0 +1,54 @@
+{
+ "name": "O-Iris",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "O-Iris was a small, red-haired, female student at the Learning Circle on Kegan. Young and shy, O-Iris obeyed her teachers and their lessons until Obi-Wan Kenobi and Siri Tachi exposed the truth about The Learning's falsehoods.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/Human/Legends",
+  "/wiki/Keganite",
+  "/wiki/Gender/Legends",
+  "/wiki/Red",
+  "/wiki/Learning_Circle",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Siri_Tachi/Legends",
+  "/wiki/The_Learning",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth"
+ ]
+}

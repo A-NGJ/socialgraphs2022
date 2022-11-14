@@ -1,0 +1,48 @@
+{
+ "name": "Brinnie",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lanteeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brinnie was a Human male miner who lived in the village of Torbel on the planet of Lanteeb during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lanteeb/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Torbel",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Clone_Wars_Gambit:_Siege",
+  "/wiki/Clone_Wars_Gambit:_Siege_(audiobook)"
+ ]
+}

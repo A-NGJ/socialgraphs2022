@@ -1,0 +1,54 @@
+{
+ "name": "Briera",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Briera was the Imperial officer in command of the Imperial-class Star Destroyer Motivator during the Galactic Civil War. Briera commanded the Motivator during its attack on the Rebel base on Maldra IV. Briera was known as the \"Butcher of Baummu\" to Rebel forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Briera",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Motivator_(Imperial-class)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Maldra_IV",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Maldra_IV",
+  "/wiki/Baummu",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

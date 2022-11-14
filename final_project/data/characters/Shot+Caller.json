@@ -1,0 +1,70 @@
+{
+ "name": "Shot Caller",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kitonak"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gauntlet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Shot Caller was the nickname used by a male Kitonak who commanded the Gauntlet gang on the moon of Nar Shaddaa. The criminal was killed when a Republic aligned individual attacked the gang in around 3643 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Kitonak/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gauntlet_(gang)",
+  "/wiki/Gender/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

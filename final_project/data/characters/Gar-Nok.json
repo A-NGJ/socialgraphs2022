@@ -1,0 +1,65 @@
+{
+ "name": "Gar-Nok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cult of the Screaming Blade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gar-Nok was a male Weequay right hand to the Cult of the Screaming Blade leader Paladius. In 3643 BBY he was sent to confront Kallig whose own cult ottempted to rival his master's, but was killed in the fight.\nGar-Nok appears in Star Wars: The Old Republic during the Sith Inquisitor class mission on Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cult_of_the_Screaming_Blade",
+  "/wiki/Paladius",
+  "/wiki/Darth_Nox",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

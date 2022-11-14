@@ -1,0 +1,49 @@
+{
+ "name": "Ranlaw",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ranlaw was a male human Sith Acolyte who trained at Darth Scabrous's Sith academy on Odacer-Faustin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_Acolyte",
+  "/wiki/Darth_Scabrous",
+  "/wiki/Sith_academy",
+  "/wiki/Odacer-Faustin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ranlaw",
+  "/wiki/Red_Harvest_(novel)",
+  "/wiki/Red_Harvest_(audiobook)"
+ ]
+}

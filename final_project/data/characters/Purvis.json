@@ -1,0 +1,51 @@
+{
+ "name": "Purvis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Purvis was a male Human who served as the chief droid technician for Avrak Villachor, the sector chief of Black Sun on the planet Wukkar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Avrak_Villachor",
+  "/wiki/Black_Sun_sector_chief",
+  "/wiki/Planet/Legends",
+  "/wiki/Wukkar/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Purvis",
+  "/wiki/Scoundrels",
+  "/wiki/Scoundrels_(audiobook)"
+ ]
+}

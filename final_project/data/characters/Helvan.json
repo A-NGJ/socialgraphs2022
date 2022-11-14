@@ -1,0 +1,49 @@
+{
+ "name": "Helvan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial IntelligencePalpatine Counter-Insurgency Front",
+      "Palpatine Counter-Insurgency Front"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Helvan was a male Human Special Intelligence operative cell leader of the Palpatine Counter-Insurgency Front. He was assigned to Kirtan Loor on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Palpatine_Counter-Insurgency_Front",
+  "/wiki/Special_Intelligence",
+  "/wiki/Kirtan_Loor",
+  "/wiki/Coruscant/Legends",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

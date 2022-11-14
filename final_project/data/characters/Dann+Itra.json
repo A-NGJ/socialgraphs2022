@@ -1,0 +1,63 @@
+{
+ "name": "Dann Itra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dann Itra was a Human male Grand Lord of the Lost Tribe of Sith before 3000 BBY on the planet Kesh.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Grand_Lord",
+  "/wiki/3000_BBY",
+  "/wiki/Planet/Legends",
+  "/wiki/Lost_Tribe_of_the_Sith:_Pandemonium",
+  "/wiki/Yaru_Korsin",
+  "/wiki/Nida_Korsin",
+  "/wiki/Lillia_Venn",
+  "/wiki/Candra_Kitai",
+  "/wiki/Varner_Hilts",
+  "/wiki/Darish_Vol"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Abbus-Kelo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Abbus-Kelo was a Human male who lived on the moon of Nar Shaddaa, working as a stimulant vendor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Stimulant/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

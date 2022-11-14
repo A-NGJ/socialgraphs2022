@@ -1,0 +1,41 @@
+{
+ "name": "Fascyn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarc"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Salaktori"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fascyn was a Tarc who worked as an assassin and bounty hunter for House Salaktori.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarc",
+  "/wiki/House_Salaktori",
+  "/wiki/Assassin/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fascyn",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

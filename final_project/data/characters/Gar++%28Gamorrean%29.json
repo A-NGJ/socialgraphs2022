@@ -1,0 +1,40 @@
+{
+ "name": "Gar  (Gamorrean)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gar was a muscular Gamorrean who worked for the Squib crime lord Slythor on Korad. He wore armor made from a reptilian creature and typically carried a large vibroglaive.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Slythor",
+  "/wiki/Korad",
+  "/wiki/Vibroglaive",
+  "/wiki/Operation:_Elrood_(book)"
+ ]
+}

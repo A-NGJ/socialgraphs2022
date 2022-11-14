@@ -1,0 +1,52 @@
+{
+ "name": "Fruun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fruun was a human male who served in the Galactic Empire in the Ryloth system five years after the end of the Clone Wars. Fruun served as a pilot in the Imperial Military, under the command of Colonel Belkor Dray. He was one of hundreds whose loyalty was bought by Dray, either through blackmail or favors.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Ryloth_system",
+  "/wiki/Standard_year",
+  "/wiki/Clone_Wars",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Imperial_Military",
+  "/wiki/Colonel",
+  "/wiki/Belkor_Dray",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fruun",
+  "/wiki/Lords_of_the_Sith",
+  "/wiki/Lords_of_the_Sith_(audiobook)"
+ ]
+}

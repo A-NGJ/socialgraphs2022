@@ -1,0 +1,60 @@
+{
+ "name": "Rench",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Customs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Rench was an Imperial customs officer who threatened to impound Han Solo's ship for his dealing with Hutts. He placed a couple tracking devices on the Millennium Falcon, which Solo placed in an escape pod and used to lure Rench's pursuing corvette into a black hole.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Homing_beacon/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Escape_pod/Legends",
+  "/wiki/Corvette/Legends",
+  "/wiki/Black_hole/Legends",
+  "/wiki/Adventures_in_Hyperspace:_The_Big_Switch"
+ ]
+}

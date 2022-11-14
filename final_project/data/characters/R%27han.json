@@ -1,0 +1,63 @@
+{
+ "name": "R'han",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "M'haeli"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "H'drachi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "R'han was a H'drachi Rebel on M'haeli and son of Lord Ph'dan. He was presumed dead after an Imperial attack in 0 ABY, but was in truth captured and put to work in Governor Grigor's dragite crystal mine. A group of local rebels led by Mora freed R'han and the other prisoners during an attack on the mine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/M%27haeli/Legends",
+  "/wiki/H%27drachi",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Ph%27dan",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Grigor_(governor)",
+  "/wiki/Dragite_crystal",
+  "/wiki/Mora",
+  "/wiki/Star_Wars:_River_of_Chaos",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

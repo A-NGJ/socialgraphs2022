@@ -1,0 +1,45 @@
+{
+ "name": "Kaell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Khomm"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Khommite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kaell was the original Khomm politician that started the cloned lineage that would later include Kaell 115 and Kaell 116.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Khomm/Legends",
+  "/wiki/Khommite/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Kaell_115",
+  "/wiki/Kaell_116",
+  "/wiki/Darksaber_(novel)"
+ ]
+}

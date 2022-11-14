@@ -1,0 +1,52 @@
+{
+ "name": "Davil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Xot"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray-blue",
+      "with red markings"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Davil was a male Xot who, along with Bidvel, operated a scrap pile on a remote planetoid around 3 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Xot",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Bidvel",
+  "/wiki/Unidentified_planetoid_(scrap_pile)",
+  "/wiki/3_BBY",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Davil",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Escaping_the_Scrap_Pile",
+  "/wiki/Star_Wars_Rebels_Magazine_19"
+ ]
+}

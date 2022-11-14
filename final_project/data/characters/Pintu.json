@@ -1,0 +1,37 @@
+{
+ "name": "Pintu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dinutun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pintu was a Dinutun who lived on the planet Dinutu. When one of the Kran severed his arm, it was replaced with a prosthetic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/Kran",
+  "/wiki/Limb",
+  "/wiki/Cybernetics",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pintu",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Galactic_Tales:_From_The_Shadows_Come_The_Kran",
+  "/wiki/Star_Wars_Insider_212"
+ ]
+}

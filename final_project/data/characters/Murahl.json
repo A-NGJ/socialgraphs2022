@@ -1,0 +1,36 @@
+{
+ "name": "Murahl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Murahl was a spaceport Customs official on Kaal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Customs_official/Legends",
+  "/wiki/Kaal/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Murahl",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Gaitzi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tripod"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gaitzi was a female Human who lived on Bakura around the time of the Yuuzhan Vong War. She was employed as part of a cleaning crew, known as the Tripod, reporting to Jakaitis. In 28 ABY, Tahiri Veila impersonated her when sneaking into the Bakuran Senate Complex.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tripod",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Jakaitis",
+  "/wiki/28_ABY/Legends",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Bakur_Memorial_Building",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

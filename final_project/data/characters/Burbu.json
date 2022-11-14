@@ -1,0 +1,47 @@
+{
+ "name": "Burbu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Burbu was a male Rodian scientist.\nBurbu studied the jevesects on the planet Herzob. Some unknown factor caused the death of jevesects within 48 hours of being removed from their planet, and Burbu sought to isolate this factor. This would gain him personal fame. However, his work was opposed by native environmental groups, who were aware of the devastating effect jevesects had on agricultural processes and of their potential to become biological weapons against other agricultural worlds.\nWhether Burbu was ultimately successful in his endeavor is unknown.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Jevesect",
+  "/wiki/Planet/Legends",
+  "/wiki/Herzob",
+  "/wiki/Bioweapon/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Jevesect:_A_Star_Wars_Creature_Feature"
+ ]
+}

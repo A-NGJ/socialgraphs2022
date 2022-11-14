@@ -1,0 +1,42 @@
+{
+ "name": "Kabath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hailstorm Brotherhood"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seeker Kabath was a male Human member of the Hailstorm Brotherhood and the second in command to master Sav. After Sav was defeated and killed, Kabath negotiated the terms of cease-fire with the faction that took him down.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hailstorm_Brotherhood",
+  "/wiki/Human/Legends",
+  "/wiki/Sav",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

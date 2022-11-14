@@ -1,0 +1,57 @@
+{
+ "name": "Benett",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benett was a Human male who lived in the city of Anchorhead on the planet Tatooine during the Cold War. When Anchorhead was the target of terrorist attacks using bomb-carrying local droids, Benett's leg was injured in an explosion, but he and his neighbor Cana were defended from additional droids by Havoc Squad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Droid/Legends",
+  "/wiki/Cana_(Tatooine)",
+  "/wiki/Havoc_Squad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Fardi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thabeska"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fardi clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fardi was a human male living on the planet Thabeska during the first year of the Galactic Empire. He was the head of a branch of the Fardi clan, and protective of his many nieces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Thabeska",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Fardi_clan",
+  "/wiki/Planet",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fardi",
+  "/wiki/Ahsoka_(novel)",
+  "/wiki/Ahsoka_(audiobook)"
+ ]
+}

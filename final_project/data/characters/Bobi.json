@@ -1,0 +1,63 @@
+{
+ "name": "Bobi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shesharile 5"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rabid Mynocks"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bobi was a street orphan on the planet Shesharile 5. After trying to steal Chop Harlison's credit box, Bobi was taken under the mechanic's wing as he saw himself in the boy. Bobi found a home in the Rabid Mynocks and wears the gang's colors while waiting for the day that he is grown up enough to ride a swoop bike.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shesharile_5",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rabid_Mynocks",
+  "/wiki/Planet/Legends",
+  "/wiki/Thief/Legends",
+  "/wiki/Chop_Harlison",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Swoop/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bobi",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Swoop_Gangs",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

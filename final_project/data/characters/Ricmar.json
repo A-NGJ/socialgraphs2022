@@ -1,0 +1,47 @@
+{
+ "name": "Ricmar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ricmar was a male Gamorrean beast master residing on the Vaiken Spacedock during the Galactic War.\nBeastmaster Ricmar was added to Star Wars: The Old Republic in Update 4.0. as an NPC on the fleet, who starts a short mission while unlocking multiple creature companions from the Cartel Market.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Beast_master",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

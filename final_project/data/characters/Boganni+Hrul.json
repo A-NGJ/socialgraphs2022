@@ -1,0 +1,59 @@
+{
+ "name": "Boganni Hrul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Thoden"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boganni Hrul was a female Human Senator who represented Ord Thoden and Dynali sector in the Galactic Senate of the Republic during the Separatist Crisis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Thoden",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Dynali_sector",
+  "/wiki/Separatist_Crisis/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_46"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Co'overma",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Co'overma was a female Zabrak living during the Cold War, who along with Liefur came to Taris to preserve local wildlife, specifically wild nexu. They asked a passerby to release the nexu captured and held by the pirates.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Liefur",
+  "/wiki/Taris/Legends",
+  "/wiki/Nexu/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

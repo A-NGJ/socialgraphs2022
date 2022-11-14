@@ -1,0 +1,63 @@
+{
+ "name": "Rhallor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Exchange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rhallor was a female Cathar member of the Exchange operating on Mek-Sha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cathar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Exchange",
+  "/wiki/Rodian/Legends",
+  "/wiki/Mek-Sha",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Iduna",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vodran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dianoga"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iduna was a male dianoga who lived in a swamp on Vodran. He wanted to mate with fellow dianoga Omi, yet was rejected by the female, who then fought and defeated Iduna through her Force-sensitivity.\nOmi later reflected upon the event on the Death Star.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Vodran",
+  "/wiki/Dianoga",
+  "/wiki/Gender",
+  "/wiki/Swamp",
+  "/wiki/Reproduction",
+  "/wiki/Omi",
+  "/wiki/Force-sensitive",
+  "/wiki/Death_Star",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Iduna",
+  "/wiki/The_Baptist",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

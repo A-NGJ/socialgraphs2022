@@ -1,0 +1,45 @@
+{
+ "name": "Creepy Crate Guy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The \"Creepy Crate Guy\" was a Human male who lived during the Clone Wars. He made masks during Halloween and gave them out in the Jedi Temple.\nThe \"Creepy Crate Guy\" first appeared in Star Wars: Clone Wars Adventures during the Halloween event.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Halloween",
+  "/wiki/Jedi_Temple",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Delwin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Path of the Open Hand"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Delwin was a Weequay male who was an Elder in the Path of the Open Hand.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Weequay",
+  "/wiki/Gender",
+  "/wiki/Path_of_the_Open_Hand",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Delwin",
+  "/wiki/The_High_Republic:_Path_of_Deceit"
+ ]
+}

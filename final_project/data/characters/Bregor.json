@@ -1,0 +1,67 @@
+{
+ "name": "Bregor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bregor was a Human male who served the Sith Empire in the rank of the lieutenant during the Galactic War. During the Battle of Corellia in 3640 BBY, he recruited an Imperial hero to ransack a supply cache being used by Corellian rebel forces and to defeat the Selonians guarding it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/3640_BBY",
+  "/wiki/Corellia/Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

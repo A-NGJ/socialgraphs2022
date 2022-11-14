@@ -1,0 +1,51 @@
+{
+ "name": "N'Vaari",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Abregado-rae"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "N'Vaari was the Provincial Governor of Le Yer until assassinated at the order of A'jidre Skrigatov, who coveted his position. Five years later, Skrigatov sought to marry N'Vaari's granddaughter, Brinaloy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Abregado-rae/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Provincial_Governor",
+  "/wiki/Le_Yer",
+  "/wiki/Assassin/Legends",
+  "/wiki/A%27jidre_Skrigatov",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Brinaloy_N%27Vaari",
+  "/wiki/West_End_Games",
+  "/wiki/Abregado-Rae_Intrigue",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

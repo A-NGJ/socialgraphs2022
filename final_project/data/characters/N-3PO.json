@@ -1,0 +1,49 @@
+{
+ "name": "N-3PO",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shard"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "N-3PO, or Enthree, was a Shard Rebel spy, who was masquerading as a protocol droid. He was infiltrated on the Star Destroyer Thunder and served as Commander Tobal Siy's personal assistant, and used this position to inform Rebel agents of his movements against them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shard_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Thunder_(Star_Destroyer)",
+  "/wiki/Commander/Legends",
+  "/wiki/Tobal_Siy",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

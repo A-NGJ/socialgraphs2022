@@ -1,0 +1,59 @@
+{
+ "name": "Gwann",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Delrakkin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Delrakkin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gwann was a male Delrakkin warrior who aided the Rebel Alliance during the faux Rebel attack on Delrakkin. Led by Untrilla, he welcomed a pilot from the Alliance after some convincing by Untrilla.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Delrakkin/Legends",
+  "/wiki/Delrakkin_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Untrilla",
+  "/wiki/Pilot/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gwann",
+  "/wiki/Star_Wars_Missions_3:_Attack_on_Delrakkin",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

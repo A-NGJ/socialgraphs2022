@@ -1,0 +1,55 @@
+{
+ "name": "Miduis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Miraluka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miduis was a female Miraluka Jedi Master of the Jedi Order. During the Galactic War she resided on the Carrick Station.\nMaster Miduis was added to Star Wars: The Old Republic with the Knights of the Eternal Throne expansion as Republic-side vendor for Galactic Command system.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Miraluka/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Carrick_Station",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Hirken",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alsakan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hirken was a Human male Admiral and a member of the Hirken family who fought for the side of Alsakan in the Fifth Alsakan Conflict. He was remembered for his tenacious defense of Alsakani colonies in the Northern Dependencies in 12,980 BBY, which ultimately decided the war.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hirken_(disambiguation)",
+  "/wiki/Alsakan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Hirken_family",
+  "/wiki/Fifth_Alsakan_Conflict",
+  "/wiki/Northern_Dependencies_campaign",
+  "/wiki/Northern_Dependencies/Legends",
+  "/wiki/12,980_BBY",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

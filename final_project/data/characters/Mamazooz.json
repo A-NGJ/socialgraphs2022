@@ -1,0 +1,35 @@
+{
+ "name": "Mamazooz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Culisetto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mamazooz was a Culisetto female and the mother of Cribiriz Idollax and Sribiriz.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Culisetto",
+  "/wiki/Gender",
+  "/wiki/Cribiriz_Idollax",
+  "/wiki/Sribiriz",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mamazooz",
+  "/wiki/War_of_the_Bounty_Hunters_%E2%80%93_4-LOM_%26_Zuckuss_1"
+ ]
+}

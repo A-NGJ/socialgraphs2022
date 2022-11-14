@@ -1,0 +1,48 @@
+{
+ "name": "House AlGray",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapans"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Relephon Moons"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Heritage Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House AlGray was a powerful noble family of the Hapes Consortium. Based in the Relephon Moons, they controlled a dozen Battle Dragons. In 40 ABY, under Ducha AlGray, they allied with the Heritage Council.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapan",
+  "/wiki/Relephon_Moons",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Heritage_Council",
+  "/wiki/Noble/Legends",
+  "/wiki/Hapan_Battle_Dragon",
+  "/wiki/40_ABY",
+  "/wiki/AlGray",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

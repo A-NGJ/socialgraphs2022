@@ -1,0 +1,66 @@
+{
+ "name": "Shorshone",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "44 BBY",
+      "Raptor",
+      "over Troiken"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stark Collective"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shorshone was a male Human who was a member of the Stark Collective. He was a bridge officer on its flagship, Raptor, and was killed aboard it when the ship was destroyed in the Fifth Battle of Qotile in 44 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Raptor_(starship)",
+  "/wiki/Troiken/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stark_Commercial_Combine",
+  "/wiki/Flagship/Legends",
+  "/wiki/Fifth_Battle_of_Qotile",
+  "/wiki/Star_Wars_(1998)_39"
+ ]
+}

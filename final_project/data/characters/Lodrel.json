@@ -1,0 +1,65 @@
+{
+ "name": "Lodrel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Lodrel commanded the Lianna Guard, an Imperial Customs Guardian-class light cruiser at the Battle of Nar Shaddaa. It was destroyed by Salla Zend in her freighter, the Rimrunner.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Lianna_Guard",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Guardian-class_light_cruiser",
+  "/wiki/Battle_of_Nar_Shaddaa_(3_BBY)",
+  "/wiki/Salla_Zend",
+  "/wiki/Freighter/Legends",
+  "/wiki/Rimrunner_(Gymsnor-4)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lodrel",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

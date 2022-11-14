@@ -1,0 +1,58 @@
+{
+ "name": "Fersin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Panshee tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fersin was the High Master of the Ewok tribe Panshee.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Panshee",
+  "/wiki/High_Master",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Escape_from_Balis-Baurgh",
+  "/wiki/Star_Wars_Adventure_Journal_1",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

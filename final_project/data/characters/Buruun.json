@@ -1,0 +1,28 @@
+{
+ "name": "Buruun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Buruun the Bloodbringer was a Sullustan warlord who ruled a large proportion of the Brema sector during the time of the New Sith Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Brema_sector",
+  "/wiki/Time/Legends",
+  "/wiki/New_Sith_Wars",
+  "/wiki/StarWars.com",
+  "/wiki/The_Knight_Errant_Gazetteer"
+ ]
+}

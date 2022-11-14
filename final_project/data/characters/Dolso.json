@@ -1,0 +1,59 @@
+{
+ "name": "Dolso",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dolso was a Kel Dor male Jedi Master who served the Jedi Order during the Cold War. Stationed on Alderaan, he was visited by a Republic spacer who was able to retrieve a stolen holocron from House Thul.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Holocron/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dolso",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

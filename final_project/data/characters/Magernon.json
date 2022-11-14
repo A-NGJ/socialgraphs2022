@@ -1,0 +1,53 @@
+{
+ "name": "Magernon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Substation Grimdock"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Magernon was a male human who was a sergeant in the Galactic Empire and the head of the Substation Grimdock prison. After the Battle of Jakku he received amnesty and got the prison facility. He hired all of the elite stormtroopers to his facility.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Substation_Grimdock",
+  "/wiki/Sergeant",
+  "/wiki/Prison",
+  "/wiki/Battle_of_Jakku",
+  "/wiki/Stormtrooper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Magernon",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

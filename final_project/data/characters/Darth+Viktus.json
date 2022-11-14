@@ -1,0 +1,76 @@
+{
+ "name": "Darth Viktus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "House of Thul",
+      "House of Thul"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Serjay Thul"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darth Viktus was a male Human Sith Lord of the reconstituted Sith Empire who served as an advisor to House of Thul, located on the planet Alderaan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/House_of_Thul",
+  "/wiki/Serjay_Thul",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Darth_Viktus",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Ryuk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "27 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ryuk was a male Human survivor of the Battle of Coruscant. Though he survived the Yuuzhan Vong bombardment and Vongforming of the planet, he had the misfortune to come under the influence of Irek Ismaren. Ismaren dominated Ryuk with the Force and commanded him to cut through the barrier in the Jedi Temple containing a powerful Force nexus. When Ryuk's cutting tool proved inadequate to the task, Ismaren killed him by throwing him violently against the wall.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/27_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Terraforming/Legends",
+  "/wiki/Irek_Ismaren",
+  "/wiki/The_Force/Legends",
+  "/wiki/Jedi_Temple",
+  "/wiki/Force_nexus",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_II:_Rebel_Stand",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

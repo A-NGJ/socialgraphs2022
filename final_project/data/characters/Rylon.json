@@ -1,0 +1,57 @@
+{
+ "name": "Rylon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rylon was an Imperial sergeant who was stationed on Jakku shortly before the Battle of Jakku. He was among the forces that had relocated to the barren desert world under the orders of Counselor to the Empire Gallius Rax. He punished stormtrooper RK-242 when he voiced the opinion that he did not want to be on Jakku anymore.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rylon_(spy)",
+  "/wiki/Rylon_(entity)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Army",
+  "/wiki/Sergeant",
+  "/wiki/Jakku",
+  "/wiki/Battle_of_Jakku",
+  "/wiki/Desert",
+  "/wiki/Planet",
+  "/wiki/Counselor_to_the_Empire",
+  "/wiki/Gallius_Rax",
+  "/wiki/Stormtrooper",
+  "/wiki/RK-242",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

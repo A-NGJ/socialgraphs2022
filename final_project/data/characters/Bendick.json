@@ -1,0 +1,73 @@
+{
+ "name": "Bendick",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bendick was a male Human lieutenant in the army of the Galactic Republic during the Cold War.\nStationed at Fort Garnik on Ord Mantell, Bendick received word that Milo Phipps had hired a spacer to rescue a pirate named Veem Set who was promised to be protected by the Galactic Republic in exchange for information that could lead to the end of the Separatist War. However, Bendick believed a war-criminal like Set would be better off dead and suggested to the spacer that the Rodian could meet an unfortunate incident instead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Fort_Garnik",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Milo_Phipps",
+  "/wiki/Pirate/Legends",
+  "/wiki/Veem_Set",
+  "/wiki/Separatist_War",
+  "/wiki/Rodian/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

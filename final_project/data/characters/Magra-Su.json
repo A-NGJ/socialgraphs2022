@@ -1,0 +1,69 @@
+{
+ "name": "Magra-Su",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Magra-Su was a female Voss Mystic living on Voss. She oversaw the Mystic Trials at the Shrine of Healing, facing all potentials and judging their actions at the Trials.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)"
+ ]
+}

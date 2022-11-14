@@ -1,0 +1,67 @@
+{
+ "name": "Nol Ilen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Demar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lant Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nol Ilen was a young Near-Human who hailed from the planet Demar. He joined Lant Mining Corporation at the age of eighteen, and worked as a speeder pilot on Lish V.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Demar",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Lant_Mining_Corporation",
+  "/wiki/Planet/Legends",
+  "/wiki/Speeder/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Lish_V",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nol_Ilen",
+  "/wiki/Flashpoint!_Brak_Sector"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Galney family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Terephon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Hapes Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Galney family was an important Hapan family from Terephon. Members included Lady Galney and Ducha Galney. The family was considered to be a staunch supporter of Queen Mother Tenel Ka, and controlled the Galney fleet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapan",
+  "/wiki/Terephon",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Galney_(Lady)",
+  "/wiki/Galney_(Ducha_of_Terephon)",
+  "/wiki/Queen_Mother",
+  "/wiki/Tenel_Ka_Djo",
+  "/wiki/Galney_fleet",
+  "/wiki/Legacy_of_the_Force:_Tempest"
+ ]
+}

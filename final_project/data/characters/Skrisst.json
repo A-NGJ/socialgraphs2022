@@ -1,0 +1,64 @@
+{
+ "name": "Skrisst",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trandoshan Pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skrisst was a Trandoshan pirate medic who served in the Trandoshan Pirates during the Battle of Umbara. He assisted Commander Krussk with his takeover of Bunker Krill, which was controlled by the Umbaran militia and their Confederacy of Independent Systems allies. A Jedi Knight infiltrated the bunker, destroying all enemies in their path, and defeating Krussk, Mrash and Skrisst.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Trandoshan_pirates",
+  "/wiki/Pirate/Legends",
+  "/wiki/Medic/Legends",
+  "/wiki/Battle_of_Umbara/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Krussk_(pirate)",
+  "/wiki/Bunker_Krill",
+  "/wiki/Umbaran_militia",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Unidentified_Jedi_Knight_(Clone_Wars)",
+  "/wiki/Mrash",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

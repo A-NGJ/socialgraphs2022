@@ -1,0 +1,61 @@
+{
+ "name": "Koam",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koam was a male Mon Calamari Republic trooper and sergeant in the Republic Army who was stationed on the planet Ilum during the Galactic War with the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Republic_trooper",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Ilum/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

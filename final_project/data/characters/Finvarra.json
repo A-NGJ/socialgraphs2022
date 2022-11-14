@@ -1,0 +1,48 @@
+{
+ "name": "Finvarra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nyriaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nyriaanan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Finvarra was a female Nyriaanan who lived on the planet Nyriaan during the waning years of the Galactic Republic. When Finvarra was 16, a group of Galactic Republic agents traveled to Nyriaan to investigate the Deluge Experiment, and they hired Finvarra to act as a guide for them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nyriaan/Legends",
+  "/wiki/Nyriaanan",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Deluge_Experiment",
+  "/wiki/Wizards_of_the_Coast",
+  "/wiki/The_Perfect_Storm",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

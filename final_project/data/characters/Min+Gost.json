@@ -1,0 +1,50 @@
+{
+ "name": "Min Gost",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Min Gost was a male Sullustan who worked as an information broker, operating from Kuzbar's Cantina on the moon Nar Shaddaa. Following the murder of the Hutt Popara Anjiliac Diresto, a group of individuals that were investigating his death paid Gost to give them some information.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Kuzbar%27s_Cantina",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Popara_Anjiliac_Diresto",
+  "/wiki/Tempest_Feud",
+  "/wiki/Scourge_(novel)"
+ ]
+}

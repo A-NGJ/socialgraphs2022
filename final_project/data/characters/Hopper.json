@@ -1,0 +1,35 @@
+{
+ "name": "Hopper",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hopper was an Aqualish male bartended at the Orange Lady, a cantina located in the Corellian Sector of Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Orange_Lady",
+  "/wiki/Cantina/Legends",
+  "/wiki/Corellian_Sector_(Nar_Shaddaa)/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

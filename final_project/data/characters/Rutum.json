@@ -1,0 +1,73 @@
+{
+ "name": "Rutum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Refugee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rutum was a male Human living as a refugee on Nar Shaddaa in 3951 BBY.\nHe was presumably a person who had borrowed credits from the Exchange and, though he had paid back all that he had, was still in debt. When Meetra Surik found him being harassed by Exchange thugs he then told them that she was the person with the credits he needed. When the thugs turned on her, demanding payment for Rutum's debt, Surik saved him from the thugs. As a result of this action, he chose to lay low for a while, possibly to come up with yet more credits to pay off the loan.\nThe outcome of the incident depends on the player's choice:",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Refugee/Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Exchange",
+  "/wiki/Meetra_Surik",
+  "/wiki/Mind_trick/Legends#Force_persuasion",
+  "/wiki/Slavery/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

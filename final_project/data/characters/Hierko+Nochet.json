@@ -1,0 +1,33 @@
+{
+ "name": "Hierko Nochet",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Babbet"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hierko Nochet was a male Babbet adventure guide and one-time acquaintance of Lando Calrissian. He was bested in sabacc by Lando in 15 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Babbet",
+  "/wiki/Gender/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/15_ABY/Legends",
+  "/wiki/Shield_of_Lies"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Jujuin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Olive"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jujuin was a female Mirialan who served the Jedi Order, working in the Jedi Temple's cantina during the Cold War.\nJujuin worked in the Jedi Temple on Tython. While not a Force-sensitive herself, she came to work there after the Jedi relocated to Tython during the Cold War. She worked in the cantina where she sold jukebox tokens and helped serve the Jedi food and drinks.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Temple_(Tython)/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Jedi_Temple",
+  "/wiki/Tython/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jukebox/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

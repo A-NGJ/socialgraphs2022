@@ -1,0 +1,78 @@
+{
+ "name": "Ironfist",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ironfist was a human male Mandalorian mercenary active during the Cold War. He and his men were hired by Grand Moff Rycus Kilran to capture the bridge of Republic transport the Esseles so that Kilran could gain custody of Ambassador Vyn Asara, whom the reconstituted Sith Empire classed a terrorist. While an Imperial boarding party distracted a group of Republic defenders, Ironfist's Mandalorian forces seized the bridge of the Esseles. Upon realizing their mistake, the defenders stormed the bridge and freed the command crew, killing Ironfist in the process.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Iron_Fist",
+  "/wiki/3643_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Grand_Moff/Legends",
+  "/wiki/Rycus_Kilran",
+  "/wiki/Assault_on_the_Esseles",
+  "/wiki/Unidentified_Republic_transport",
+  "/wiki/Esseles_(starship)",
+  "/wiki/Vyn_Asara",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

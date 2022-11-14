@@ -1,0 +1,72 @@
+{
+ "name": "Domi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gala"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Galacian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hill people"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Domi was a male Galacian and a member of the Hill people who lived on the planet Gala. In 44 BBY, Domi was part of the defense organized by Elan, leader of the Hill people, to engage the proton tanks of the royal guards when they attacked the Hill people's encampment. Domi suffered a minor injury when he grazed his head on a branch during the battle. Afterwards, his injury was treated by Elan herself in her own dome. There, he met the Jedi Master Qui-Gon Jinn and proceed to tell him stories of Elan's parents.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Domi",
+  "/wiki/Gala",
+  "/wiki/Galacian",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hill_people",
+  "/wiki/Planet/Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Elan_(Galacian)",
+  "/wiki/Proton_tank",
+  "/wiki/Royal_guard_(Gala)",
+  "/wiki/Battle_of_Gala",
+  "/wiki/Elan%27s_dome",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Jedi_Apprentice:_The_Mark_of_the_Crown"
+ ]
+}

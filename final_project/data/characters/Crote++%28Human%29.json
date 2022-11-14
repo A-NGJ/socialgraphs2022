@@ -1,0 +1,63 @@
+{
+ "name": "Crote  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Frego"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Cobral family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crote was a Human male senator who represented Frego until his arrest in 40 BBY, when he was found to be in league with the criminal Cobral family of his homeworld.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Crote_(Bimm)",
+  "/wiki/Bimm_(Near-Human)",
+  "/wiki/Frego",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cobral_family",
+  "/wiki/40_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Crote_(Human)",
+  "/wiki/Jedi_Apprentice:_The_Only_Witness",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

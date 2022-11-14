@@ -1,0 +1,50 @@
+{
+ "name": "Raouul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cularin Central Broadcasting"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raouul was a Tarasin who worked for Cularin Central Broadcasting. On one broadcast with Yara Grugara, Raouul hid behind a bush in order to simulate a member of the Wyrd attacking Grugara.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Cularin_Central_Broadcasting",
+  "/wiki/Yara_Grugara",
+  "/wiki/Wyrd",
+  "/wiki/Wizards.com",
+  "/wiki/News_of_the_Wyrd"
+ ]
+}

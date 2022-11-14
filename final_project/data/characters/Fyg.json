@@ -1,0 +1,46 @@
+{
+ "name": "Fyg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Booster Terrik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fyg was a male Weequay security guard on the Errant Venture around 11 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Fyg_Boras",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Booster_Terrik",
+  "/wiki/Errant_Venture/Legends",
+  "/wiki/11_ABY/Legends",
+  "/wiki/I,_Jedi"
+ ]
+}

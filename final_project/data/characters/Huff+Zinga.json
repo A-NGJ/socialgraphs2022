@@ -1,0 +1,59 @@
+{
+ "name": "Huff Zinga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Otoh Gunga Zoological Research Facility"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Huff Zinga was a male Gungan who was the director of the Otoh Gunga Zoological Research Facility located in Kaadara on the planet of Naboo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Otoh_Gunga_Zoological_Research_Facility",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Kaadara",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Huff_Zinga",
+  "/wiki/Episode_I_Adventures_9:_Rescue_in_the_Core"
+ ]
+}

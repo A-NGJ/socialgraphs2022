@@ -1,0 +1,50 @@
+{
+ "name": "Gyran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gyran was a male Human bounty hunter who worked for Black Sun.\nGyran was a former royal bodyguard to one of the spice lords of Sevarcos II until Prince Xizor \"purchased\" his services while on a business trip. After visiting several new worlds while working for Black Sun, he developed a mild form of agoraphobia, fear of wide open places. He owned a ship, the Arc Razor, which served as his personal means of transportation.\nHe and his team were responsible for tracking down the Barani List to the planet Sedri.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Sevarcos_II",
+  "/wiki/Xizor/Legends",
+  "/wiki/Arc_Razor",
+  "/wiki/Barani_List",
+  "/wiki/Sedri/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Barani_Conspiracy",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

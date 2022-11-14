@@ -1,0 +1,33 @@
+{
+ "name": "Rewello",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lorrdian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rewello was a Lorrdian male who lived around the rise of the Empire. Rewello was an accomplished mime and comedian, having performed for the Regent of Alderaan. He was known to have entertained his niece, Hart-and-Parn Gorra-Fiolla, with tales of show business.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lorrdian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Regent_of_Alderaan",
+  "/wiki/Hart-and-Parn_Gorra-Fiolla",
+  "/wiki/Han_Solo_and_the_Corporate_Sector_Sourcebook"
+ ]
+}

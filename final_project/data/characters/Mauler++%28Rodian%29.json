@@ -1,0 +1,59 @@
+{
+ "name": "Mauler  (Rodian)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Paxton Rall's crew",
+      "Eternal Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Mauler was a male Rodian pirate member of Paxton Rall's crew. When Paxton was persuaded by Alliance Commander to join the Eternal Alliance, the Mauler followed suit and joined as well.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Paxton_Rall",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Pirate/Legends",
+  "/wiki/Alliance_Commander",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Kufra Ahara",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nahsu Minor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Murachaun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kufra Ahara was a Murachaun mechanic who was skilled in modifications of spacecraft. Her work on the ships of the Sanjin Green Hawks allowed them to take Laakteen Depot, and she was even granted access to the Massassi Temple on Yavin 4.\nAhara liked to pull practical jokes on her pilots, but they tolerated her, considering that she would spend whole nights tweaking their fighters to keep them in top condition.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nahsu_Minor",
+  "/wiki/Murachaun",
+  "/wiki/Gender/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Sanjin_Green_Hawks",
+  "/wiki/Laakteen_Depot",
+  "/wiki/Great_Temple/Legends",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

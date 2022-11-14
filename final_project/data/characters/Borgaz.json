@@ -1,0 +1,38 @@
+{
+ "name": "Borgaz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Houk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borgaz was a male Houk who resided in the city of Farpoint on the planet Fhost. He worked as a bouncer in the Black Hole cantina.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Houk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Farpoint",
+  "/wiki/Planet/Legends",
+  "/wiki/Fhost",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Black_Hole_(Fhost)",
+  "/wiki/Cantina/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Borgaz",
+  "/wiki/Crosscurrent"
+ ]
+}

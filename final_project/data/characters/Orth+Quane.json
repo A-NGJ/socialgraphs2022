@@ -1,0 +1,62 @@
+{
+ "name": "Orth Quane",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Rajivari's followers"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Rajivari"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orth Quane was a male Human Jedi Padawan who served the fledgling Jedi Order during its first days on the planet Tython. A devotee of Jedi Master Rajivari, Quane and several other apprentices abandoned the Order to follow Master Rajivari in his attempts to destroy an Order he saw as plagued by mediocrity.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Rajivari%27s_followers",
+  "/wiki/Rajivari",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tython/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

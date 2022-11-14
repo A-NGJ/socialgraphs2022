@@ -1,0 +1,51 @@
+{
+ "name": "Locust",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gen'Dai"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Locust was a male Gen'Dai who was the leader of a violent scavenging criminal group on Taris.\nIn 3643 BBY, the Locust captured Amille Razna along with her group of Republic Security agents. Frantic for rescue, Amille sent out a hologram, hoping someone would hear her pleas. Fortunately for her, a Republic aligned individual came for a rescue attempt. The individual fought through many armed scavengers and eventually freed Amille and her team before moving on to combat the Locust. The violent leader was defeated by the individual, and arrested into Republic custody.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gen%27Dai",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Amille_Razna",
+  "/wiki/Republic_Security_Force/Legends",
+  "/wiki/Hologram/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Locust",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

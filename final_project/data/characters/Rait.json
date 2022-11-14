@@ -1,0 +1,45 @@
+{
+ "name": "Rait",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chadra-Fan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Big Bunji"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rait was a male Chadra-Fan who worked for the criminal Big Bunji as a spy and lookout. He was nervous when with people he did not know, but could be quite precocious with friends. He understood but could not speak Basic. He carried a Stun pistol and knick-knacks on his person.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Big_Bunji/Legends",
+  "/wiki/Stun_pistol",
+  "/wiki/West_End_Games",
+  "/wiki/There%27s_Many_a_Slip_Betwixt_Cup_and_Lip",
+  "/wiki/Mos_Eisley_Adventure_Set"
+ ]
+}

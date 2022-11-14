@@ -1,0 +1,68 @@
+{
+ "name": "Nerril",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nerril was a Human male captain of the reconstituted Sith Empire living during the Galactic War. Answering to Moff Altiss, he provided reconnaissance support for the Imperial forces during the Battle of Denova.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Moff/Legends",
+  "/wiki/Altiss",
+  "/wiki/Battle_of_Denova",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

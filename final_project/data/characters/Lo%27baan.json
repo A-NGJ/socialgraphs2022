@@ -1,0 +1,25 @@
+{
+ "name": "Lo'baan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lo'baan was an elderly Twi'lek who repaired ships in Kala'uun. Lo'baan was joined by the Twi'lek Seeker who continued the business after he died.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Kala%27uun/Legends",
+  "/wiki/Seeker_(Twi%27lek)",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

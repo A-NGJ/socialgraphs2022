@@ -1,0 +1,49 @@
+{
+ "name": "Caton",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Caton was the Human male commander of the Imperial prison on Selnesh.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Selnesh/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Caton",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Do_No_Harm",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

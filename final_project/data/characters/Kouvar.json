@@ -1,0 +1,57 @@
+{
+ "name": "Kouvar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kouvar was a male Human major of the reconstituted Sith Empire. During the Galactic War he was stationed on the world of Voss, where he was injured and asked an Imperial-allied individual to deal with the Gormak chief Raklann.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Voss",
+  "/wiki/Gormak/Legends",
+  "/wiki/Raklann",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kouvar",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

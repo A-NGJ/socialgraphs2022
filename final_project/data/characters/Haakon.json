@@ -1,0 +1,36 @@
+{
+ "name": "Haakon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haakon was a gambler who mortgaged his family holdings to pay a gambling debt to Narloch. Haakon claimed the sabacc match had been rigged, but Imperial officials determined that the match had been fair and required Haakon to pay. Some time later, Haakon placed a bounty on Narloch, requesting he be captured alive.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Narloch",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Elusive_(adventure)",
+  "/wiki/No_Disintegrations_(West_End_Games)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

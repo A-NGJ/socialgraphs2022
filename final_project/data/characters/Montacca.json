@@ -1,0 +1,37 @@
+{
+ "name": "Montacca",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Montacca was a male Wookiee ex-mercenary with an out-of-the-ordinary fascination with technology of all sorts, going so far as to touch the technology of near-strangers out of intense curiosity. He was a free Wookiee during the Galactic Civil War, and a passenger on the Kuari Princess when that ship was struck by the Riders of the Maelstrom.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kuari_Princess/Legends",
+  "/wiki/Attack_on_the_Kuari_Princess",
+  "/wiki/Riders_of_the_Maelstrom",
+  "/wiki/Riders_of_the_Maelstrom_(West_End_Games)",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three"
+ ]
+}

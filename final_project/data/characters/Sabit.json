@@ -1,0 +1,73 @@
+{
+ "name": "Sabit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 22 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "X'Ting"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cestus Cybernetics",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sabit was a female X'Ting who was the wife of Caiza Quill by the time of the Clone Wars. Around 22 BBY, she was present with many members of the Five Families that took refuge in a secret bunker. In the end, Sabit, along with her husband and half of the family, perished in the destruction of the bunker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/X%27Ting",
+  "/wiki/Gender/Legends",
+  "/wiki/Cestus_Cybernetics",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Caiza_Quill",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "name": "Adam  (Tatooine)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Adam was a human male who lived on Tatooine and knew Roan Novachez.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adam",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Roan_Novachez",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Adam_(Tatooine)",
+  "/wiki/Jedi_Academy_(novel)",
+  "/wiki/Jedi_Academy:_Return_of_the_Padawan",
+  "/wiki/Jedi_Academy:_The_Phantom_Bully"
+ ]
+}

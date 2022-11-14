@@ -1,0 +1,49 @@
+{
+ "name": "Korryn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Thalassian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Smuggler",
+      "Ardan resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Korryn was a Thalassian Smuggler who was tasked with supplying the Arda I Rebel base with medical supplies. She was the captain of smuggler crew and had two children.\nWhen Korryn arrived at Arda I, she was recruited for base defense by the Ardan resistance. During the battle of the Gauntlet, she provided much needed assistance during the dogfight.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Korryn",
+  "/wiki/Thalassian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Ardan_resistance",
+  "/wiki/Arda_I_Rebel_base",
+  "/wiki/Arda_I",
+  "/wiki/Battle_of_the_Gauntlet_(Galactic_Civil_War)",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

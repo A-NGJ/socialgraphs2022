@@ -1,0 +1,58 @@
+{
+ "name": "Barthis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barthis was a Human male and the father of Elsen Barthis.\nHe worked with Iella Wessiri for a year during her time in the Corellian Security Force.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Elsen_Barthis",
+  "/wiki/Iella_Wessiri_Antilles",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barthis",
+  "/wiki/Legacy_of_the_Force:_Betrayal"
+ ]
+}

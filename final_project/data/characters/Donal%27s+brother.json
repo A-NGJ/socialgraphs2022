@@ -1,0 +1,50 @@
+{
+ "name": "Donal's brother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/3643_BBY",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cold_War",
+  "/wiki/Donal_(Nal_Hutta)",
+  "/wiki/Donal%27s_brother%27s_farm",
+  "/wiki/Jiguuna",
+  "/wiki/Fa%27athra_gang",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

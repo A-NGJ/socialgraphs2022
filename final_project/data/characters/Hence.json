@@ -1,0 +1,38 @@
+{
+ "name": "Hence",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hence was a male Rodian soldier.\nIn 1 BBY, Hence and some other elite soldiers were hired by Governor of Concord Dawn Purton to kill bounty hunter Boba Fett. The squad failed and was later tracked by Fett.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Concord_Dawn/Legends",
+  "/wiki/Purton",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Squad/Legends",
+  "/wiki/Blood_Ties:_Boba_Fett_is_Dead_1",
+  "/wiki/Blood_Ties:_Boba_Fett_is_Dead_2"
+ ]
+}

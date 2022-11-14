@@ -1,0 +1,71 @@
+{
+ "name": "Gadaf",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "4 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gadaf was the Rodian gunner aboard Take That! at the Battle of Nar Shaddaa. When pilot Falan Iniro took his ship out of the debris field prematurely, Take That! was immediately assailed by TIE fighters. Gadaf managed to destroy one TIE before it was face-to-face with the Carrack-class light cruiser Vigilance. The larger ship easily destroyed Take That! and all aboard.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/4_BBY/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gunner/Legends",
+  "/wiki/Take_That!",
+  "/wiki/Battle_of_Nar_Shaddaa_(3_BBY)",
+  "/wiki/Pilot/Legends",
+  "/wiki/Falan_Iniro",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Carrack-class_light_cruiser/Legends",
+  "/wiki/Renthal%27s_Vigilance",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

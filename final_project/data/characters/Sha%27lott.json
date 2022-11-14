@@ -1,0 +1,42 @@
+{
+ "name": "Sha'lott",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ibbot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wingriders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sha'lott was a nickname that was given to an ibbot that was flown by the Drall Elamm during his duties as a member of the Wingriders, an aerial police force that operated on the planet Drall. Sha'lott's name translated into the language Drallish as \"graywing.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ibbot",
+  "/wiki/Wingriders",
+  "/wiki/Drall/Legends",
+  "/wiki/Elamm",
+  "/wiki/Law_enforcement_agency/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Drall_(planet)",
+  "/wiki/Language/Legends",
+  "/wiki/Drallish",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

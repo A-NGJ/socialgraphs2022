@@ -1,0 +1,56 @@
+{
+ "name": "E'Sar G'Go B'Kul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Goroth Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gorothite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "T'B'Dellyi'Mai"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "E'Sar G'Go B'Kul was the leader of the Gorothite resistance group T'B'Dellyi'Mai. Young, arrogant and aggressive, he had a innate talent for devising insurrection and terrorist tactics. E'Sar G'Go B'Kul hated all offworlders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Goroth_Prime",
+  "/wiki/Gorothite",
+  "/wiki/Gender/Legends",
+  "/wiki/T%27B%27Dellyi%27Mai",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/E%27Sar_G%27Go_B%27Kul",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

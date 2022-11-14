@@ -1,0 +1,36 @@
+{
+ "name": "Kabat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kabat was a noted male Twi'lek broker of illicit goods. During the Galactic Civil War, he worked from a base on the planet Corellia. He didn't like smugglers that stole cargoes or skipped out on deals. So, he often used harsh methods for dealing with those who tried to take advantage of him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kabat",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

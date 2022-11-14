@@ -1,0 +1,50 @@
+{
+ "name": "Shinda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shinda was an Human male Imperial Moff who governed the Spirva sector during the Galactic Civil War. He banned the 50th annual publication of Galladinium's Galactic Datalog of Fantastic Technology for safety concerns during his tenure.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Spirva_sector/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galladinium%27s_Galactic_Datalog_of_Fantastic_Technology",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

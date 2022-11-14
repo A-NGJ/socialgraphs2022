@@ -1,0 +1,57 @@
+{
+ "name": "Sassich",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sassich was a Human woman from Corellia. She was a member of CorSec, and became its director at the age of forty, a great achievement. However, it came due to a huge commitment to her work that resulted in a mid-life crisis that included her divorcing her husband, getting personal training lessons from twins half her age, and buying a red ZRX-29 airspeeder.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/ZRX-29_airspeeder",
+  "/wiki/I,_Jedi"
+ ]
+}

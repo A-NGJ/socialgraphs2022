@@ -1,0 +1,51 @@
+{
+ "name": "Gyle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yavin 8"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Melodie"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gyle was an Elder of the Melodie species and the father of Lyric. During their journey to Yavin 8, it was from him and another Melodie named Aragon that the young Jedi trainees Anakin Solo and Tahiri Veila learned of the existence of ancient Massassi carvings which provided information on the origins of Exar Kun's malevont Golden Globe and the prisoners that were trapped within it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yavin_8/Legends",
+  "/wiki/Melodie",
+  "/wiki/Gender/Legends",
+  "/wiki/Elder_(Melodie)",
+  "/wiki/Lyric",
+  "/wiki/Aragon",
+  "/wiki/Jedi/Legends",
+  "/wiki/Anakin_Solo",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Massassi/Legends",
+  "/wiki/Exar_Kun/Legends",
+  "/wiki/Golden_Globe",
+  "/wiki/Junior_Jedi_Knights:_Lyric%27s_World"
+ ]
+}

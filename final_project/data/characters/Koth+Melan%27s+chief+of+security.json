@@ -1,0 +1,45 @@
+{
+ "name": "Koth Melan's chief of security",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bothan Spynet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Bothan male served as Koth Melan's chief of security. He would occasionally act as a double for the spymaster and reportedly performed a credible impersonation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bothan_Spynet/Legends",
+  "/wiki/Koth_Melan",
+  "/wiki/Spymaster",
+  "/wiki/Shadows_of_the_Empire_Sourcebook"
+ ]
+}

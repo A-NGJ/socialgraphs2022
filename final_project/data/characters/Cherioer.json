@@ -1,0 +1,64 @@
+{
+ "name": "Cherioer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cherioer was a Wookiee who assisted the Rebel Alliance in the Zaric sector. Due to this fact, Moff Linis, governor of the sector, placed a 25,000-credit bounty on Cherioer's head.\nHe was a known associate of Malindin Gevarak.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Zaric_sector",
+  "/wiki/Moff/Legends",
+  "/wiki/Linis",
+  "/wiki/Governor/Legends",
+  "/wiki/Sector/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Bounty/Legends",
+  "/wiki/Malindin_Gevarak",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cherioer",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

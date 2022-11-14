@@ -1,0 +1,33 @@
+{
+ "name": "Munsk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Munsk was a noble of an unknown noble house of the Tapani sector. He was known to put on a good social event.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baron/Legends",
+  "/wiki/Tapani_Noble_Houses",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

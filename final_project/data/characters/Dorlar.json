@@ -1,0 +1,39 @@
+{
+ "name": "Dorlar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Brubb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Outdoor Survival School"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dorlar was a Brubb instructor at the Galactic Outdoor Survival School. In 0 ABY, Dorlar met Myo on Tatooine. A friendly individual and generous with drinks, Dorlar soon became Myo's friend. Dorlar then convinced Myo to join the GOSS staff as a desert assistant, replacing a recently-lost instructor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Brubb",
+  "/wiki/Galactic_Outdoor_Survival_School/Legends",
+  "/wiki/Instructor/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Myo/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

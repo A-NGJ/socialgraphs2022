@@ -1,0 +1,41 @@
+{
+ "name": "Margaret",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Margaret was a female Twi'lek who lived during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Margaret_(starship)",
+  "/wiki/MC40a_light_cruiser",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Margaret",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

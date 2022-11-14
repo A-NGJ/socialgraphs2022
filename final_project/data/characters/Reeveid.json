@@ -1,0 +1,36 @@
+{
+ "name": "Reeveid",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Reeveid was a Rodian bounty hunter. Tirog, a fellow bounty hunter, arranged to meet with Reeveid in a cantina. Tirog waited half an hour for Reeveid. Thannik, another bounty hunter, also once arranged to meet with Reeveid in a cantina on business. Thannik waited for about half an hour before Reeveid arrived.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Tirog",
+  "/wiki/Cantina/Legends",
+  "/wiki/Standard_hour/Legends",
+  "/wiki/Thannik",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition,_Revised_and_Expanded"
+ ]
+}

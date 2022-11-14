@@ -1,0 +1,48 @@
+{
+ "name": "Aeradin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Leadership School"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aeradin was a male professor of system geography and assistant dean at the Leadership School on Andara. He hosted the General Information Contest in the Great Hall of Learning.\nAeradin was a tall, thin being, with four antennae on his head.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Leadership_School",
+  "/wiki/Professor/Legends",
+  "/wiki/Andara/Legends",
+  "/wiki/Great_Hall_of_Learning",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aeradin",
+  "/wiki/Jedi_Quest:_The_School_of_Fear",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

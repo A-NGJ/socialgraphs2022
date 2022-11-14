@@ -1,0 +1,53 @@
+{
+ "name": "Haal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance",
+      "J-Squadron",
+      "J-Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haal was an male Aqualish who served in the Resistance as a member of J-Squadron, a squadron of cadets training for the Resistance's Resistance Starfighter Corps around thirty years after the Battle of Endor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aqualish",
+  "/wiki/Gender",
+  "/wiki/Resistance",
+  "/wiki/J-Squadron",
+  "/wiki/Squadron",
+  "/wiki/Cadet",
+  "/wiki/Resistance_Starfighter_Corps",
+  "/wiki/34_ABY",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Haal",
+  "/wiki/Join_the_Resistance"
+ ]
+}

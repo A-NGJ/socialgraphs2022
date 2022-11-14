@@ -1,0 +1,78 @@
+{
+ "name": "Margan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shawken"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance of Free Planets"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Margan was a diplomat from the planet of Shawken, and a part of Santor's government in 4 ABY. Margan was present during Santor's meeting with diplomats from the Alliance of Free Planets, and proposed Santor to represent Shawken in the new galactic government.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shawken",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_of_Free_Planets",
+  "/wiki/Planet/Legends",
+  "/wiki/Santor",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Margan",
+  "/wiki/Star_Wars_(1977)_87"
+ ]
+}

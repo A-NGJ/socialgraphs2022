@@ -1,0 +1,49 @@
+{
+ "name": "Bizu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bizu was a Twi'lek male who was the son of Yendor, a pilot in both the Alliance to Restore the Republic and New Republic. Yendor was forced to leave Bizu behind on their homeworld of Ryloth when he joined the Alliance during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ryloth",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Yendor",
+  "/wiki/Pilot",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/New_Republic",
+  "/wiki/Homeworld",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Lost_Stars",
+  "/wiki/Lost_Stars_(audiobook)"
+ ]
+}

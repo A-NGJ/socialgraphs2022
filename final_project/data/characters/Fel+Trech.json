@@ -1,0 +1,40 @@
+{
+ "name": "Fel Trech",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fel Trech was a Force-sensitive human male who was stranded on the planet Dathomir during the Age of the Empire after surviving a crash landing. Trech was the only survivor of the crash, and as such, became mentally ill with survivor's guilt. Trech was strong in the Force, and created Force manifestations of his dead crew, not knowing that it was he himself who created them. Trech lived in a cave located in a mountain range on Dathomir next to a wrecked landspeeder. Trech had a distress beacon that generated a detectable signal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Force-sensitive",
+  "/wiki/Planet",
+  "/wiki/Dathomir",
+  "/wiki/Imperial_Era",
+  "/wiki/The_Force",
+  "/wiki/Death",
+  "/wiki/Cave",
+  "/wiki/Mountain",
+  "/wiki/Landspeeder",
+  "/wiki/Distress_beacon",
+  "/wiki/Dawn_of_Rebellion"
+ ]
+}

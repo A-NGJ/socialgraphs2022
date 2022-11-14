@@ -1,0 +1,50 @@
+{
+ "name": "Kuthak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Talz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kuthak was a male Talz commando who served in the Galactic Republic during the Galactic War where he fought the resurgent Sith Empire on the planet Hoth.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Talz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Commando/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kuthak",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

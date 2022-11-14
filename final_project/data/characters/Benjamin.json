@@ -1,0 +1,44 @@
+{
+ "name": "Benjamin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benjamin was an Ewok who lived on Endor during the Galactic Civil War. He at one point participated in the Festival of Love.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Festival_of_Love"
+ ]
+}

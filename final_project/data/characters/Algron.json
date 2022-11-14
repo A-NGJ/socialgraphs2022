@@ -1,0 +1,52 @@
+{
+ "name": "Algron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Algron was a Quarren male pirate who lived on Noaxson during the First Order-Resistance War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Quarren",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Pirate",
+  "/wiki/Noaxson",
+  "/wiki/First_Order-Resistance_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Algron",
+  "/wiki/Star_Wars_Adventures_(2020)",
+  "/wiki/The_Obstacle_Course,_Part_1",
+  "/wiki/Star_Wars_Adventures_(2020)_1",
+  "/wiki/The_Obstacle_Course,_Part_2",
+  "/wiki/Star_Wars_Adventures_(2020)_2"
+ ]
+}

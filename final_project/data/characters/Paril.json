@@ -1,0 +1,71 @@
+{
+ "name": "Paril",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Paril was a male Human ensign in the Imperial Military of the reconstituted Sith Empire during the Galactic War. In 3642 BBY he was stationed on Taris in the Toxic Lake Garrison and provided Cipher Nine information on the whereabouts of Doctor Eckard Lokin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Ensign/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Toxic_Lake_Garrison",
+  "/wiki/Cipher_Nine",
+  "/wiki/Doctor/Legends",
+  "/wiki/Eckard_Lokin",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

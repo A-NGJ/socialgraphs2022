@@ -1,0 +1,67 @@
+{
+ "name": "Colsan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Colsan was a male Human Corporal of the Galactic Republic living during the Galactic War. In 3639 BBY he was stationed in the Section X area of Belsavis.\nCorporal Colsan appears in the video game Star Wars: The Old Republic as a vendor in Section X, added in Update 1.5.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Corporal/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3639_BBY",
+  "/wiki/Section_X",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

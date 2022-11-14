@@ -1,0 +1,38 @@
+{
+ "name": "Masakayan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Masakayan was a Tarro Lieutenant Commander in the forces of the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarro",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Lieutenant_Commander/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Masakayan",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies"
+ ]
+}

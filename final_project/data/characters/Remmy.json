@@ -1,0 +1,58 @@
+{
+ "name": "Remmy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorran Arms Factory",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Remmy was a Human male engineer who was employed in the Balmorran Arms Factory during the Sith Empire's occupation of Balmorra. Remmy had worked with the combat medic Doc before his capture, and was more than willing to help Doc and a Jedi Knight break into the factory.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Balmorran_Arms_Factory",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Battle_of_Balmorra_(Great_Galactic_Wars)",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Medic/Legends",
+  "/wiki/Archiban_Frodrick_Kimble",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Remmy",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

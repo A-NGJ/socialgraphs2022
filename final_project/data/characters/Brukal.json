@@ -1,0 +1,55 @@
+{
+ "name": "Brukal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vinsoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Drunken Ootak"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brukal was the Chevin owner of The Drunken Ootak on Vinsoth.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vinsoth/Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Drunken_Ootak",
+  "/wiki/Fate_of_the_Jedi:_Allies",
+  "/wiki/Fate_of_the_Jedi:_Allies_(audiobook)"
+ ]
+}

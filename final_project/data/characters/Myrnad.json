@@ -1,0 +1,48 @@
+{
+ "name": "Myrnad",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Myrnad was an officer of the Galactic Republic living during the Cold War. Stationed on Corellia, Myrnad managed a small shop, also teaching the knowledge of biochemistry to others.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Biochemist",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Myrnad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

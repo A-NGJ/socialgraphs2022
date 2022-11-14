@@ -1,0 +1,51 @@
+{
+ "name": "Dunta Schimbke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dunta Schimbke was a male Human present on Keylander Station during the Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Keylander_Station",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

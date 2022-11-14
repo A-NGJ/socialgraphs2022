@@ -1,0 +1,60 @@
+{
+ "name": "Hallro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Worms"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hallro was a human male child who worked for the White Worms. He offered Qi'ra some extra food after she had been promoted to Head.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Corellia",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/White_Worms",
+  "/wiki/Qi%27ra",
+  "/wiki/Foodstuff",
+  "/wiki/Head",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hallro",
+  "/wiki/Most_Wanted",
+  "/wiki/Most_Wanted_(audiobook)"
+ ]
+}

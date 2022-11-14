@@ -1,0 +1,67 @@
+{
+ "name": "Choraw",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jazbina"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Jazbina"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jazbinan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Choraw was a Jazbinan guide for Luke Skywalker while he \"rescued\" Princess Syayna on Jazbina. Choraw disappeared upon the arrival of a Tikulini.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jazbina/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Jazbinan",
+  "/wiki/Gender/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Syayna",
+  "/wiki/Tikulini",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Choraw",
+  "/wiki/Vader%27s_Quest_3"
+ ]
+}

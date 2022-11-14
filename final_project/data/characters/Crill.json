@@ -1,0 +1,26 @@
+{
+ "name": "Crill",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vornskr"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crill was a domesticated vornskr owned by Lord Corell Muntique of the Calipsa House.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vornskr",
+  "/wiki/Lord/Legends",
+  "/wiki/Corell_Muntique",
+  "/wiki/House_Calipsa",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

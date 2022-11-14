@@ -1,0 +1,38 @@
+{
+ "name": "Jerru",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jerru was a male Ithorian craftsman who was highly skilled in the ancient craft of plant-forming. Jerru plied his trade aboard the Ithorian Herdship, Bazaar, where he additionally acted as a front for Poliss, a Rebel recruiter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Plant/Legends",
+  "/wiki/Ithorian_Herdship/Legends",
+  "/wiki/Bazaar_(Ithorian_Herdship)",
+  "/wiki/Poliss",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Graveyard_of_Alderaan",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Two",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Malos Wil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malos Wil was a Human male soldier in the Imperial Military of the reconstituted Sith Empire who sold speeder bikes and other repulsorcraft in the city of Sobrik on the planet Balmorra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Imperial_soldier",
+  "/wiki/Speeder_bike/Legends",
+  "/wiki/Repulsorcraft/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Sobrik",
+  "/wiki/Planet/Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

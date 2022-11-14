@@ -1,0 +1,67 @@
+{
+ "name": "Elek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elek was a male Human who made a living on the polluted planet of Balmorra. He worked as a modifications vendor, selling products to the reconstituted Sith Empire's citizens.\nElek appeared in the video game Star Wars: The Old Republic, released by BioWare in 2011, as a Modifications Vendor for Imperial players on Balmorra. With the release of Game Update 4.0 on October 20, 2015, he was removed from the game along with the rest of the Modifications Vendors.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/October_20",
+  "/wiki/2015"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Ezeraline",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ezeraline was a Jedi Knight who was dispatched by Grand Master Satele Shan as part of a strike team to secure the Allusis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Satele_Shan",
+  "/wiki/Allusis",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ezeraline",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

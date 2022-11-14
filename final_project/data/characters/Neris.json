@@ -1,0 +1,47 @@
+{
+ "name": "Neris",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sub-Prefect Neris was an Imperial bureaucrat. He was killed by Gornt Seron.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sub-Prefect",
+  "/wiki/Bureaucrat/Legends",
+  "/wiki/Gornt_Seron",
+  "/wiki/West_End_Games",
+  "/wiki/A_Physical_Application_Of_The_Law",
+  "/wiki/Galaxy_Guide_11:_Criminal_Organizations"
+ ]
+}

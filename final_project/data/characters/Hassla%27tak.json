@@ -1,0 +1,64 @@
+{
+ "name": "Hassla'tak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Booster Terrik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hassla'tak was the male Twi'lek helmsman of the Errant Venture.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Booster_Terrik",
+  "/wiki/Helmsman/Legends",
+  "/wiki/Errant_Venture/Legends",
+  "/wiki/X-Wing:_Isard%27s_Revenge",
+  "/wiki/I,_Jedi",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

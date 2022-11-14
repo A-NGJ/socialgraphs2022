@@ -1,0 +1,50 @@
+{
+ "name": "Scraife",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scraife was a male Twi'lek Lieutenant of the Galactic Republic. He was stationed on Belsavis during the Invasion of Belsavis by the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Belsavis",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

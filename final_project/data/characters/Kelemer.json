@@ -1,0 +1,43 @@
+{
+ "name": "Kelemer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelemer was a Duros miner in the beetle caverns on Andelm IV.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Duros",
+  "/wiki/Color",
+  "/wiki/Zarro",
+  "/wiki/Mining",
+  "/wiki/Andelm_beetle_caverns",
+  "/wiki/Andelm_IV",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kelemer",
+  "/wiki/Chewbacca_(2015)_2",
+  "/wiki/Chewie_and_the_Courageous_Kid"
+ ]
+}

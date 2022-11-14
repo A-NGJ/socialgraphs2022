@@ -1,0 +1,72 @@
+{
+ "name": "Merglyn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "30 BBY",
+      "over Kiffex"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Merglyn was a Human female smuggler. In 30 BBY, she and Havor were killed above Kiffex by the Kiffu Guardians while attempting to smuggle blasters to that planet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/30_BBY/Legends",
+  "/wiki/Kiffex/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Havor",
+  "/wiki/Death/Legends",
+  "/wiki/Kiffu_Guardians",
+  "/wiki/Blaster/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Merglyn",
+  "/wiki/Star_Wars_(1998)_32",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

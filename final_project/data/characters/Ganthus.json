@@ -1,0 +1,84 @@
+{
+ "name": "Ganthus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "onboard King's Ransom"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ganthus was a Human male Moff of the reconstituted Sith Empire during the Galactic War. In 3642 BBY he was with fellow Moffs Sorin and Talor onboard the treasury ship King's Ransom when it was boarded by a group of thieves including the Voidhound. The smuggler found the Moffs conversing in the vaults on the ship, when Admiral Harridax Kirill opened fire on the ship with the intention to kill everyone on board. Ganthus and other Moffs perished, but the thieves escaped.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/King%27s_Ransom_(treasury_ship)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Moff/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sorin",
+  "/wiki/Talor_(Moff)",
+  "/wiki/Treasury_ship",
+  "/wiki/Voidhound",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Harridax_Kirill",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

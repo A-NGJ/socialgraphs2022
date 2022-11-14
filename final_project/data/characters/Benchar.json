@@ -1,0 +1,38 @@
+{
+ "name": "Benchar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benchar was a Human male who travelled with Carewa, Rosen and the Wookiee Cecil. They visited the Farrimmer Cafe where they engaged in a game of sabacc.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Carewa",
+  "/wiki/Rosen",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Cecil",
+  "/wiki/Farrimmer_Cafe",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

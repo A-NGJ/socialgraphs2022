@@ -1,0 +1,66 @@
+{
+ "name": "Malroy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Mantellian Army",
+      "Mantellian Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malroy was a male Human who served in the Mantellian Army of the Galactic Republic-backed Ord Mantell Central Authority on the planet Ord Mantell during the Separatist War with the Mantellian Separatist Movement. During the war he was stationed in Oradam village on Avilatan where he operated a stall from which he sold armor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Mantellian_Army",
+  "/wiki/Ord_Mantell_Central_Authority",
+  "/wiki/Planet/Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Separatist_War",
+  "/wiki/Mantellian_Separatist_Movement",
+  "/wiki/Oradam_village",
+  "/wiki/Avilatan",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

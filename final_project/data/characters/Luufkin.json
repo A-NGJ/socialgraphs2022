@@ -1,0 +1,51 @@
+{
+ "name": "Luufkin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sriluur"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Verpine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Luufkin was a Verpine fence originating from the planet Sriluur. During the early years of the New Order, he worked with Quip Fargil to secretly undermine the Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Verpine/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Quip_Fargil",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

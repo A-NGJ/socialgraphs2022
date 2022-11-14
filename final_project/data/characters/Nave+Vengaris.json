@@ -1,0 +1,83 @@
+{
+ "name": "Nave Vengaris",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Aquilaris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nave Vengaris was a Human female who served as the governess of Aquilaris during the final decades of the Galactic Republic. She welcomed the income and boosted tourism which accompanied podracing and granted the use of Floating City, the capital of the planet, as part of the race course. However, after the rise of Emperor Palpatine in 19 BBY, the Galactic Empire banned the sport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aquilaris",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Podracing/Legends",
+  "/wiki/Floating_City",
+  "/wiki/Capital/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Episode_I:_Racer",
+  "/wiki/Star_Wars:_Episode_I:_Racer:_The_Official_Nintendo_Player%27s_Guide"
+ ]
+}

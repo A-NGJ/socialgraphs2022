@@ -1,0 +1,49 @@
+{
+ "name": "Hower Jerimott",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Beheboth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Behebothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hower Jerimott was a male Behebothan doctor in the city of Prosperity on the planet Beheboth.\nHe performed the autopsy on Berl Matoone and filed a report stating he believed Matoone died from a massive cardiac failure due to catastrophic toxin levels in his body.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Beheboth",
+  "/wiki/Behebothan",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Prosperity_(Beheboth)",
+  "/wiki/Planet/Legends",
+  "/wiki/Berl_Matoone",
+  "/wiki/Wizards.com",
+  "/wiki/Beheboth:_Blood_and_Water",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

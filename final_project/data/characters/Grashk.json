@@ -1,0 +1,52 @@
+{
+ "name": "Grashk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grashk was a young male Wookiee. After joining the Alliance to Restore the Republic, he worked with Tamarc, Almera Zan, and Roz to attempt to rescue Enid Vahr from Demophon prior to the Demophon supernova.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Tamarc",
+  "/wiki/Almera_Zan",
+  "/wiki/Roz",
+  "/wiki/Enid_Vahr",
+  "/wiki/Demophon",
+  "/wiki/Demophon_supernova",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Grashk",
+  "/wiki/West_End_Games",
+  "/wiki/The_Beginning_of_the_End",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

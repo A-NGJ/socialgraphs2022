@@ -1,0 +1,48 @@
+{
+ "name": "Reegor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lepi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Reegor was a Lepi male and one of Jaxxon T. Tumperakki's many cousins.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lepi",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jaxxon_T._Tumperakki",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Reegor",
+  "/wiki/Star_Wars_Adventures_(2020)",
+  "/wiki/Rabbit_Hunt",
+  "/wiki/Star_Wars_Adventures_Annual_2020"
+ ]
+}

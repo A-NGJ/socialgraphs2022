@@ -1,0 +1,52 @@
+{
+ "name": "Eoaq",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Atrisia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eoaq, known as Eoaq the Expansive, was a highly successful Human male who served as emperor of Atrisia five hundred–fifty years before the reign of the New Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Atrisia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eoaq",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/From_the_Files_of_Corellia_Antilles",
+  "/wiki/Star_Wars_Adventure_Journal_14",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/The_Written_Word",
+  "/wiki/StarWars.com"
+ ]
+}

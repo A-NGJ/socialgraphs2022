@@ -1,0 +1,81 @@
+{
+ "name": "Artano",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Artano was a Human male major in the military of the reconstituted Sith Empire. He served as an information control specialist for General Rakton's command group. On Hoth, he tried to stop Havoc Squad from reassembling the umbra encrypter, but was defeated and killed in combat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Gender/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Arkos_Rakton",
+  "/wiki/Havoc_Squad",
+  "/wiki/Black_cipher",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Phontos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phontos was an Ithorian infochant. He worked out of The Grill, located in Shulell City on the planet Lan Barell. Phontos was on good terms with a number of the spacers who frequented Shulell City spaceport, and his office maintained a tropical atmosphere.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/The_Grill",
+  "/wiki/Shulell_City",
+  "/wiki/Planet/Legends",
+  "/wiki/Lan_Barell",
+  "/wiki/Spacer/Legends",
+  "/wiki/Shulell_City_spaceport",
+  "/wiki/Atmosphere/Legends",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

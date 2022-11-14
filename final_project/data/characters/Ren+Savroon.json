@@ -1,0 +1,35 @@
+{
+ "name": "Ren Savroon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ren Savroon was a male Rodian who repaired craft for the Galactic Republic's armada during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ren_Savroon",
+  "/wiki/HoloNet_News_%E2%80%94_A_Galaxy_Divided_(Part_5)"
+ ]
+}

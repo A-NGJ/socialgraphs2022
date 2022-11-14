@@ -1,0 +1,64 @@
+{
+ "name": "Quaagan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 21 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quaagan was a Wookiee native of Kashyyyk during the Clone Wars.\nQuaagan was a traitor to the Wookiees, working for Asajj Ventress shortly after the Battle of Teth. Quaagan attempted to help Ventress escape from the other Wookiees, but was killed when he was pushed off the roof of a tree-house.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/Battle_of_Teth/Legends",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Way_of_the_Jedi"
+ ]
+}

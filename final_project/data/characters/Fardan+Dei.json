@@ -1,0 +1,67 @@
+{
+ "name": "Fardan Dei",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Querdan Dei"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fardan Dei was a Force-sensitive male Human from the planet of Kesh. A Sith in the Lost Tribe of Sith, he trained under his father, the Sith Saber Querdan Dei and was onboard the same starship of him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Querdan_Dei",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_training",
+  "/wiki/Sith_Saber",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)"
+ ]
+}

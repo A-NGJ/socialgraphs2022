@@ -1,0 +1,62 @@
+{
+ "name": "Merak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Merak was a Human male from the planet Alderaan who joined the Alliance to Restore the Republic during the Galactic Civil War.\nMerak was an Alderaanian who joined the Alliance to Restore the Republic. He was part of an Alliance team sent to the planet Hargeeva in an attempt to recruit the metallurgist Ketrian Altronel to the Alliance cause.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Firepower",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Hargeeva",
+  "/wiki/Metallurgist",
+  "/wiki/Ketrian_Altronel",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Rokna",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bordok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bright Tree Village"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Kneesaa a Jari Kintaka"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rokna was Princess Kneesaa's bordok. Kneesaa took Rokna with her when looking for her long-lost sister, Asha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bordok/Legends",
+  "/wiki/Rokkna",
+  "/wiki/Endor/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Kneesaa_a_Jari_Kintaka",
+  "/wiki/Prince/Legends",
+  "/wiki/Asha",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rokna",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/Asha_(episode)"
+ ]
+}

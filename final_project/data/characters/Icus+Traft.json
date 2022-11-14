@@ -1,0 +1,51 @@
+{
+ "name": "Icus Traft",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Icus Traft was a male Human who served as a colonel in the Imperial Army. He was assigned as the commander of the Imperial fuel-ore processing plant on the backwater world of Gap Nine.\nColonel Traft was very greedy, and was responsible for selling stolen artifacts from the ancient temples that were found on Gap Nine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Fuel/Legends",
+  "/wiki/Ore/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Gap_Nine",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Battle_for_Gap_Nine",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

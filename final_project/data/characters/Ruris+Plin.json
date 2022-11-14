@@ -1,0 +1,50 @@
+{
+ "name": "Ruris Plin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ruris Plin was a Rodian playwright.\nPlin collaborated with fellow Rodian playwright Hishinu Booj and Rodian senator Onaconda Farr to produce \"The Trickery of Vosdia Nooma\" just prior to the Clone Wars. The play was directed by Booj and premiered at the Equator City First Stage on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hishinu_Booj",
+  "/wiki/Senator/Legends",
+  "/wiki/Onaconda_Farr/Legends",
+  "/wiki/The_Trickery_of_Vosdia_Nooma",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Equator_City_First_Stage",
+  "/wiki/Coruscant/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_52"
+ ]
+}

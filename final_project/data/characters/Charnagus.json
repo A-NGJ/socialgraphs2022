@@ -1,0 +1,61 @@
+{
+ "name": "Charnagus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Charnagus was a male Rattataki doctor working for the Sith Empire during the Cold War. He had a base of operations on Nar Shaddaa beneath the Club Ufora, where Republic Navy personnel on leave would be drugged and provided to Charnagus as test subjects. The doctor would then remove the subjects' faces and graft them onto Imperial saboteurs in order for them to take Republic officers' place on their ships. Charnagus' operations was eventually brought down after the Evocii Ilox noticed that fewer officers were leaving Club Ufora than entering it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Doctor/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Club_Ufora",
+  "/wiki/Evocii",
+  "/wiki/Ilox",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Mordak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy",
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mordak was an Imperial captain who served the Galactic Empire. He joined Darth Vader in an expedition to Malagarr, but later defected to the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Malagarr/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mordak",
+  "/wiki/Star_Wars_Missions_17:_Darth_Vader%27s_Return",
+  "/wiki/Star_Wars_Missions_18:_Rogue_Squadron_to_the_Rescue",
+  "/wiki/Star_Wars_Missions_19:_Bounty_on_Bonadan",
+  "/wiki/Star_Wars_Missions_20:_Total_Destruction"
+ ]
+}

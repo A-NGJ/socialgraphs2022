@@ -1,0 +1,68 @@
+{
+ "name": "Krillis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krillis was a corpulent male Human Sith Lord of the resurgent reconstituted Sith Empire. During the Cold War against the Galactic Republic, he was assigned by Lord Zash to oversee her new apprentice.\nKrillis can be found both on Vaiken Spacedock and in the Sith Sanctum on Dromund Kaas.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Darth_Zash",
+  "/wiki/Darth_Nox",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Sith_Sanctum",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Avers",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorran resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Avers was a male Human member of the Balmorran resistance during the Galactic War between the Galactic Republic and the reconstituted Sith Empire. A fierce opponent of the Empire and patriot of his homeworld Balmorra during the Imperial occupation, he was ordered to aid the Jedi Order in their mission to retrieve a prototype cloaking device, but Avers and his superior Nikollan Kord attempted to betray the Republic by stealing the prototype.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Battle_of_Balmorra_(Great_Galactic_Wars)",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Mission_to_Balmorra_(Hunt_for_the_Sith_Emperor)",
+  "/wiki/Prototype_cloaking_device",
+  "/wiki/Nikollan_Kord",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

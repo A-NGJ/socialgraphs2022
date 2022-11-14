@@ -1,0 +1,81 @@
+{
+ "name": "Asha-Mu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red and blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shrine of Healing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Asha-Mu was a female Voss who served as an assistant to Orin-Va, a healer at the Shrine of Healing on Voss at the time of the Galactic War. She and Orin-Va assisted the mystic-in-traing Gaden-Ko after he was poisoned by the Sith Lord Shendan, and at the Barsen'thor's consent, Orin-Va used Voss techniques to share the Jedi's life energy with the Voss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Orin-Va",
+  "/wiki/Galactic_War",
+  "/wiki/Voss_Mystics",
+  "/wiki/Gaden-Ko",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Shendan",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Garrett  (mercenary)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garrett was a Human male mercenary.\nHe served in the same unit as D'Lew and Darca Nyl. During a battle over a spaceport, his jetpack was damaged and he was falling to his death. Nyl hurried to rescue him despite Garrett's protestations. At the last moment, Nyl seized Garrett's hands and carried him from the battlefield, presumably saving his life.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Garrett",
+  "/wiki/Gender/Legends",
+  "/wiki/D%27Lew",
+  "/wiki/Darca_Nyl",
+  "/wiki/Battle_above_spaceport",
+  "/wiki/Jetpack/Legends",
+  "/wiki/Nomad"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Shabell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shabell was a Nightsister on Dathomir. When Han Solo tried to take a thermal detonator into Warlord Zsinj's war room, she detected and deactivated the device using the Force.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Nightsisters/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Thermal_detonator/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/The_Force/Legends",
+  "/wiki/The_Courtship_of_Princess_Leia"
+ ]
+}

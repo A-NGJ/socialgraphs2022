@@ -1,0 +1,54 @@
+{
+ "name": "Neva",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Oga's Cantina"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neva was a human female resident of Black Spire Outpost on Batuu. When Neva became behind on her rent payments to Oga Garra, she requested to make up for it by working at her cantina. Garra agreed, assigning her fifty hours of work.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Neva_(disambiguation)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Oga%27s_Cantina",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Batuu",
+  "/wiki/Oga_Garra",
+  "/wiki/Standard_hour",
+  "/wiki/Star_Wars:_Datapad"
+ ]
+}

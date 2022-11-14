@@ -1,0 +1,50 @@
+{
+ "name": "Garsi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garsi was a male Human guard of the Galactic Justice Center and a guard in the Galactic Alliance Guard. Along with Wyrlan, Garsi guarded Ben Skywalker as Tahiri Veila tortured Lon Shevu to death in front of them. Both he and Wyrlan willingly let Skywalker escape after he stunned Veila with their weapons and threatened them with death if they didn't let him leave.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Galactic_Justice_Center",
+  "/wiki/Wyrlan",
+  "/wiki/Ben_Skywalker",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Lon_Shevu",
+  "/wiki/Death/Legends",
+  "/wiki/Legacy_of_the_Force:_Invincible",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

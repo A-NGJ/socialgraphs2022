@@ -1,0 +1,56 @@
+{
+ "name": "Portia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ruusan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "5 ABY",
+      "Ruusan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Portia was a dark-skinned Human female.\nIn 5 ABY, she was remained as a settler on Ruusan and an excellent marksman. She helped Jan Ors kill members of stormtrooper patrol 341 until she was later killed during the Battle of Fort Nowhere.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ruusan/Legends",
+  "/wiki/5_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jan_Ors",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Patrol_341",
+  "/wiki/Battle_of_Fort_Nowhere",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Portia",
+  "/wiki/Dark_Forces:_Jedi_Knight"
+ ]
+}

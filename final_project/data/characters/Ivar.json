@@ -1,0 +1,59 @@
+{
+ "name": "Ivar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tammuz-an"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tammuz-an"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kutuab's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ivar was a male Tammuz-an who worked as a weapons dealer in Meirm City on Sriluur after fleeing his homeworld of Tammuz-an. He knew Limna Yith and was on friendly terms with Kutuab the Hutt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tammuz-an/Legends",
+  "/wiki/Tammuz-an_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kutuab",
+  "/wiki/Arms_dealer/Legends",
+  "/wiki/Meirm_City",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Limna_Yith",
+  "/wiki/Hutt/Legends",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

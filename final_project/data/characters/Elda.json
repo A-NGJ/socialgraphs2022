@@ -1,0 +1,36 @@
+{
+ "name": "Elda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elda was a female humanoid pilot. She was hired to fly Obi-Wan Kenobi and Qui-Gon Jinn to Kodai in 39 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Kodai",
+  "/wiki/39_BBY/Legends",
+  "/wiki/Jedi_Apprentice_Special_Edition:_The_Followers",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

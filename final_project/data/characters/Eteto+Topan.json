@@ -1,0 +1,58 @@
+{
+ "name": "Eteto Topan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eteto Topan was a male Devaronian who lived during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eteto_Topan",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

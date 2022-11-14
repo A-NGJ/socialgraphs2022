@@ -1,0 +1,52 @@
+{
+ "name": "Rrelbocco",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Raging Rancor Cantina"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rrelbocco was a male Wookiee, who lived on Genarius during the waning years of the Galactic Republic.\nRrelbocco worked as a bouncer in the Raging Rancor Cantina. He spent most of his time there talking with customers or playing the game Ride the Raging Rancor and he was the only person ever to complete it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Raging_Rancor_Cantina",
+  "/wiki/Genarius",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Ride_the_Raging_Rancor",
+  "/wiki/Quarters"
+ ]
+}

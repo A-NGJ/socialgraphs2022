@@ -1,0 +1,45 @@
+{
+ "name": "Guro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guro was a male Sullustan and first mate on the CR90 corvette Stellar Damsel.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/CR90_corvette/Legends",
+  "/wiki/Stellar_Damsel",
+  "/wiki/Wizards.com",
+  "/wiki/Damsel_in_Distress"
+ ]
+}

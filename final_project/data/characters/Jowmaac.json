@@ -1,0 +1,42 @@
+{
+ "name": "Jowmaac",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jowmaac was a male Wookiee droid technician residing on Carrick Station during the Galactic War.\nDroid Technician Jowmaac was added to Star Wars: The Old Republic in Update 4.0. as an NPC on the fleet, who starts a short mission while unlocking multiple droid companions from the Cartel Market.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Technician",
+  "/wiki/Carrick_Station",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

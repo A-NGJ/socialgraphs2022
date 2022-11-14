@@ -1,0 +1,84 @@
+{
+ "name": "Miza",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "28 ABY",
+      "over N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss AscendancyExpansionary Defense ForceTwin Suns Squadron",
+      "Expansionary Defense ForceTwin Suns Squadron",
+      "Twin Suns Squadron",
+      "Galactic AllianceGFFA Starfighter Corps",
+      "GFFA Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miza was a Chiss who was part of the squadron that supported Jagged Fel's mission to the New Republic, shortly before the Battle of Yuuzhan'tar.\nHe joined the Twin Suns Squadron and piloted a Nssis-class Clawcraft. He was killed when a Yevethan pilot set his ship to self-destruct, and Miza's craft was caught in the blast.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/28_ABY/Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Chiss_Ascendancy/Legends",
+  "/wiki/Chiss_Expansionary_Defense_Force",
+  "/wiki/Twin_Suns_Squadron",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Starfighter_Corps",
+  "/wiki/Jagged_Fel",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Battle_of_Yuuzhan%27tar",
+  "/wiki/Nssis-class_Clawcraft",
+  "/wiki/Yevetha",
+  "/wiki/Self-destruct_mechanism/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_I:_Remnant",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

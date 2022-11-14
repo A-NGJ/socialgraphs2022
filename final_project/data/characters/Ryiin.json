@@ -1,0 +1,50 @@
+{
+ "name": "Ryiin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ryiin was a female Twi'lek from the planet Ryloth who worked as an escort. On one ocassion, an Imperial officer tried to fraternize with her. However, the Twi'lek Isval, a former escort, appeared on scene and viciously assaulted the officer, rescuing Ryiin from a life of explotaition due her past experiences as an escort.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ryloth",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_officer",
+  "/wiki/Isval",
+  "/wiki/Officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ryiin",
+  "/wiki/Lords_of_the_Sith",
+  "/wiki/Lords_of_the_Sith_(audiobook)"
+ ]
+}

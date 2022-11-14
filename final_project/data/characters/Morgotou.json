@@ -1,0 +1,64 @@
+{
+ "name": "Morgotou",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY—9 ABY",
+      "Tamarin sector"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kessel Spice Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morgotou was a male Rodian crime lord working with the Kessel Spice Corporation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Tamarin_sector",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kessel_Spice_Corporation",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Morgotou",
+  "/wiki/West_End_Games",
+  "/wiki/The_Art_of_Betrayal",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures",
+  "/wiki/Death/Legends"
+ ]
+}

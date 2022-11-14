@@ -1,0 +1,80 @@
+{
+ "name": "Hotise",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "c. 70 BBY"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Death Star I"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Hotise was a Human male who served as a medical doctor, veteran of the Clone Wars and the commander of the Imperial medical frigate MedStar Four. He was a short, rotund man and wore a cropped beard. Dr Kornell Divini was under Hotise's command for a short time prior to Divini's assignment to the first Death Star.\nHotise eventually transferred to the Death Star himself where he assumed command of the N-One Medcenter and once again became Dr Divini's superior. He was presumably killed onboard the Death Star during the Battle of Yavin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/70_BBY",
+  "/wiki/0_BBY/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Hospital_ship/Legends",
+  "/wiki/MedStar_Four",
+  "/wiki/Kornell_Divini",
+  "/wiki/N-One_Medcenter",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Death_Star_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

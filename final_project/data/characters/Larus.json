@@ -1,0 +1,63 @@
+{
+ "name": "Larus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Teal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Armed Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Larus was a male Twi'lek Sergeant who served in the Republic Army during the Galactic War between the Galactic Republic and the resurgent Sith Empire. Stationed on Corellia at the Shipwright Auxiliary Spaceport, he recruited a Republic hero for collecting and defusing unexploded bombs scattered by a shipwreck near the spaceport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Armed_Forces",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Shipwright_Auxiliary_Spaceport",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

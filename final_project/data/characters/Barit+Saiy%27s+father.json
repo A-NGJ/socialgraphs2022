@@ -1,0 +1,45 @@
+{
+ "name": "Barit Saiy's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This man was the father of Barit Saiy and owner of an engineering company on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Barit_Saiy",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barit_Saiy%27s_father",
+  "/wiki/Legacy_of_the_Force:_Revelation"
+ ]
+}

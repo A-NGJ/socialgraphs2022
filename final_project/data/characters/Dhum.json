@@ -1,0 +1,65 @@
+{
+ "name": "Dhum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Witches of Dathomir"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dhum was a rancor owned by the Singing Mountain Clan. He was the brother of Ichor and fought in the Battle of Dathomir.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Rancor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Ichor_(rancor)",
+  "/wiki/Battle_of_Dathomir_(Hunt_for_Zsinj)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/The_Courtship_of_Princess_Leia",
+  "/wiki/Cracken%27s_Threat_Dossier"
+ ]
+}

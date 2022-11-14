@@ -1,0 +1,39 @@
+{
+ "name": "Chatty",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chatty was a male Human who lived on Belsavis as of 12 ABY.\nHe had a prosthetic eye and was not much older than Han Solo. Han and Chewbacca met Chatty at The Smoking Jets, a local cantina.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Cybernetics/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/The_Smoking_Jets",
+  "/wiki/Cantina/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chatty",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

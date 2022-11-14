@@ -1,0 +1,69 @@
+{
+ "name": "Gift",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Frozen moon"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "41 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Community"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gift was the only surviving male son of two clone members of the Community, the Force-sensitive clones produced on a frozen moon in the Unknown Regions. Alongside nearly all of the other clones save for Soldier, he had begun suffering an illness once they left the moon for Mother. Gift succumbed to the sickness on Fhost.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Frozen_moon",
+  "/wiki/41_ABY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Community",
+  "/wiki/Cloning/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Soldier_(clone)",
+  "/wiki/Mother_(Rakatan_entity)",
+  "/wiki/Fhost",
+  "/wiki/Crosscurrent",
+  "/wiki/Riptide_(novel)"
+ ]
+}

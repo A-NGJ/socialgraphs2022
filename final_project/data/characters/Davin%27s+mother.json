@@ -1,0 +1,31 @@
+{
+ "name": "Davin's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lasat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of Davin was a female Lasat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lasat",
+  "/wiki/Gender",
+  "/wiki/Davin",
+  "/wiki/Adventures_in_Wild_Space:_The_Dark"
+ ]
+}

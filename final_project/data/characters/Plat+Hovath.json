@@ -1,0 +1,51 @@
+{
+ "name": "Plat Hovath",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "16 ABY",
+      "Polneye"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Grannan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plat Hovath was the husband of Fall Topas and the father of Plat Mallar. He was stationed on the planet Polneye until his death when the Yevetha attacked it. In life, Plat was a droid mechanic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Polneye",
+  "/wiki/Grannan",
+  "/wiki/Gender/Legends",
+  "/wiki/Fall_Topas",
+  "/wiki/Plat_Mallar",
+  "/wiki/Planet/Legends",
+  "/wiki/Yevetha",
+  "/wiki/Yevethan_Purge",
+  "/wiki/Droid/Legends",
+  "/wiki/Before_the_Storm",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

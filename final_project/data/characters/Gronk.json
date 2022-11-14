@@ -1,0 +1,49 @@
+{
+ "name": "Gronk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Reigat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Burgo Teage"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gronk was a Reigat who worked as a bodyguard for the black marketeer Burgo Teage. He travelled with Teage aboard the Vohai Unirail where he confronted the thief Sienn Sconn when he broke into Teage's cabin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Reigat",
+  "/wiki/Gender/Legends",
+  "/wiki/Burgo_Teage",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Black_marketeer",
+  "/wiki/Vohai_Unirail",
+  "/wiki/Thief/Legends",
+  "/wiki/Sienn_Sconn",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Two_for_One",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

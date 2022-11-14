@@ -1,0 +1,57 @@
+{
+ "name": "Dek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Andelm IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dek was a male Rutian Twi'lek who lived on the planet Andelm IV during the time of the Galactic Civil War. Dek worked in Andelm beetle caverns for the crime lord Jaum.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Andelm_IV",
+  "/wiki/Twi%27lek",
+  "/wiki/Rutian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Andelm_beetle_caverns",
+  "/wiki/Crime_lord",
+  "/wiki/Jaum",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dek",
+  "/wiki/Chewbacca_(2015)_2"
+ ]
+}

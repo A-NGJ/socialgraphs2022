@@ -1,0 +1,56 @@
+{
+ "name": "Fassool",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Togoria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mindnight Fire clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fassool was a male Togorian and head of the Mindnight Fire clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togoria/Legends",
+  "/wiki/Togorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mindnight_Fire_clan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fassool",
+  "/wiki/Star_Wars_Missions_8:_Togorian_Trap"
+ ]
+}

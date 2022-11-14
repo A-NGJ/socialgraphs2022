@@ -1,0 +1,49 @@
+{
+ "name": "Orogor Binn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orogor Binn was a male Aqualish who was stranded on Coruscant when Ando left the Galactic Republic in 22 BBY, just before the start of the Clone Wars. The Refugee Relief Movement resettled him on Alderaan, although he hoped to eventually return to Ando.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Refugee_Relief_Movement/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_49"
+ ]
+}

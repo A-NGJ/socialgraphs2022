@@ -1,0 +1,46 @@
+{
+ "name": "Kuykenda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Caelli-Merced Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kuykenda was a Wookiee, the brother of Rakikta. Kuykenda was the bodyguard of Pret Swain.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Caelli-Merced_Syndicate",
+  "/wiki/Rakikta",
+  "/wiki/Pret_Swain",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kuykenda",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Mal'aa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mal'aa was a Twi'lek female who owned and operated Mal'aa's Kitchens at the Kala'uun Starport on Ryloth. She had been outcast from her original clan and cooked meals for spacers to earn enough credits to survive. One spacer gave her a large gift of credits to open Mal'aa's Kitchens. She was known for her hospitality throughout the region.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mal%27aa%27s_Kitchens",
+  "/wiki/Kala%27uun_Starport",
+  "/wiki/Spacer/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Platt%27s_Starport_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

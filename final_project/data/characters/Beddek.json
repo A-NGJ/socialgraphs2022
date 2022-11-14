@@ -1,0 +1,67 @@
+{
+ "name": "Beddek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Makeb Business Council",
+      "Mining and geological committee",
+      "Mining and geological committee",
+      "Galactic Republic",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beddek was a male Human engineer of the Sith Empire during the Galactic War. During the Conquest of Makeb, Beddek was part of the team working on stabilizing the planet along with captured Galactic Republic scientists.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Makeb_Business_Council",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Engineer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/Planet/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Makeb"
+ ]
+}

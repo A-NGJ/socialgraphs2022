@@ -1,0 +1,48 @@
+{
+ "name": "Salla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jenet"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Salla was a female Jenet, and the Chief Assistant of Chief of State Cal Omas.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Salla_Zend",
+  "/wiki/Jenet/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Chief_of_State_(Galactic_Alliance)",
+  "/wiki/Cal_Omas",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Salla",
+  "/wiki/Dark_Nest_II:_The_Unseen_Queen",
+  "/wiki/Dark_Nest_III:_The_Swarm_War"
+ ]
+}

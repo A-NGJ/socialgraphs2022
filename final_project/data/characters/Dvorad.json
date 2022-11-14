@@ -1,0 +1,72 @@
+{
+ "name": "Dvorad",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "During the heist on Hovun IV",
+      "Hovun IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pantoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dvorad was a Pantoran criminal who operated on the planet Hovun IV. Tobias Beckett and his crew undertook a heist to acquire Dvorad's supply of blank ID chips, during which Dvorad was killed by a creature that attacked his ship.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Heist_on_Hovun_IV",
+  "/wiki/Hovun_IV",
+  "/wiki/Pantoran",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/Tobias_Beckett",
+  "/wiki/Beckett%27s_gang",
+  "/wiki/Identichip",
+  "/wiki/Death",
+  "/wiki/Unidentified_creature_(Hovun_IV)",
+  "/wiki/Dvorad%27s_ship",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dvorad",
+  "/wiki/Beckett_1"
+ ]
+}

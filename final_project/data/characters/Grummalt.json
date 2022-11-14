@@ -1,0 +1,82 @@
+{
+ "name": "Grummalt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grummalt was a male Human Captain of the Galactic Republic living during the Galactic War. In 3642 BBY he was stationed on Taris, where he and his men were posted at the Republic Resettlement Zone, protecting General Faraire. The apprentice of Darth Baras, on a mission to kill Faraire, stormed the compound and engaged Grummalt and his men, killing them all.\nCaptain Grummalt appears in Star Wars: The Old Republic during Sith Warrior class mission on Taris.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Republic_Resettlement_Zone",
+  "/wiki/General/Legends",
+  "/wiki/Faraire",
+  "/wiki/Empire%27s_Wrath",
+  "/wiki/Darth_Baras",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

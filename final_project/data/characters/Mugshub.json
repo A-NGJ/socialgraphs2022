@@ -1,0 +1,60 @@
+{
+ "name": "Mugshub",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pzob"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Klagg's"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mugshub was the alpha-female of the Klagg clan on Pzob in 12 ABY. She was captured by the Imperial battlemoon the Eye of Palpatine along with the many male members of her clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pzob/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Klagg_clan",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Eye_of_Palpatine",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mugshub",
+  "/wiki/Children_of_the_Jedi_(novel)",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

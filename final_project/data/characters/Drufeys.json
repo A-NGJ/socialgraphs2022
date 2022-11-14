@@ -1,0 +1,62 @@
+{
+ "name": "Drufeys",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Saffalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Binring Biomedical Product"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Drufeys was a lean and hardworking Human male under the employ of Binring Biomedical Product. In 7 ABY Drufeys was employed as a security agent and technician. When Warlord Zsinj devised a trap for the New Republic's Wraith Squadron, Drufeys was alerted, along with Doctor Edda Gast, to the squad's movements.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Saffalore",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Binring_Biomedical_Product",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Edda_Gast",
+  "/wiki/X-Wing:_Solo_Command",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

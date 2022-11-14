@@ -1,0 +1,61 @@
+{
+ "name": "Anarc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kirdo III"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kitonak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Anarc was a Kitonak member of the band Hutt. He was the lead jizz wailer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kirdo_III/Legends",
+  "/wiki/Kitonak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_(band)",
+  "/wiki/Musician/Legends",
+  "/wiki/Band/Legends",
+  "/wiki/Jizz/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Anarc",
+  "/wiki/West_End_Games",
+  "/wiki/Rites_of_Passage",
+  "/wiki/Star_Wars_Gamemaster_Screen"
+ ]
+}

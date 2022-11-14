@@ -1,0 +1,47 @@
+{
+ "name": "Geffa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Odanni"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Geffa was a male Rodian spice dealer who did business with the Mon Calamari Odanni.\nWhen he tried to jack up the price of a spice shipment, she had him poisoned for his attempted double-cross.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Odanni",
+  "/wiki/Spice/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Poison/Legends",
+  "/wiki/Wretched_Hives_of_Scum_%26_Villainy"
+ ]
+}

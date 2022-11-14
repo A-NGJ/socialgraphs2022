@@ -1,0 +1,48 @@
+{
+ "name": "Lamburt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lamburt was a lieutenant in the Imperial Remnant's navy and junior deck officer of the Bloodfin who informed Gilad Pellaeon of a red headed woman's arrival, being too young to know her true identity.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Space_navy",
+  "/wiki/Deck_officer/Legends",
+  "/wiki/Bloodfin_(Star_Destroyer)",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Natasi_Daala",
+  "/wiki/Legacy_of_the_Force:_Revelation"
+ ]
+}

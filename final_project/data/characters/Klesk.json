@@ -1,0 +1,65 @@
+{
+ "name": "Klesk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1.5 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blackscale Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klesk was a Trandoshan slave master of the Blackscale Clan who lived during the Galactic Civil War.\nIn 1 ABY he had set up a camp in the southern part of the Etyyy on Kashyyyk with a group of his slavers. The rival Trandoshan Zssik Clan planned to destroy the Blackscale's slavery operations on Kashyyyk by letting the Wookiee resistance destroy the Avatar Platform. To achieve this, the Trandoshan Mosolium paid a spacer to travel to the slaver's camp and kill Klesk in order to acquire his access codes to the space station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blackscale_Clan/Legends",
+  "/wiki/Mosolium",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Slavery/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Blackscale_camp",
+  "/wiki/Rodian_Hunting_Grounds",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Zssik_Clan/Legends",
+  "/wiki/Avatar_Orbital_Platform",
+  "/wiki/Spacer/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_The_Total_Experience:_Prima_Official_Game_Guide"
+ ]
+}

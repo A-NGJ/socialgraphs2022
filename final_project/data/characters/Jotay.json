@@ -1,0 +1,45 @@
+{
+ "name": "Jotay",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jotay was a male Human who worked as a guard on Revos's spaceport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Revos",
+  "/wiki/Spaceport/Legends",
+  "/wiki/X-Wing:_Wraith_Squadron",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

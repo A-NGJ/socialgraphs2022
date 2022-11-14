@@ -1,0 +1,46 @@
+{
+ "name": "Myette",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jakku"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Myette was a human girl who lived in the town of Reestkii on Jakku when it was raided by Zygerrian slavers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Jakku",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Reestkii",
+  "/wiki/Zygerrian",
+  "/wiki/Slaver",
+  "/wiki/All_Creatures_Great_and_Small",
+  "/wiki/Tales_from_a_Galaxy_Far,_Far_Away:_Aliens:_Volume_I"
+ ]
+}

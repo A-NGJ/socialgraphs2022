@@ -1,0 +1,36 @@
+{
+ "name": "Cha'ba",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cha'ba was a male Twi'lek businessman. By 3 BBY, he used to play sabacc in the Mos Eisley Cantina.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Chalmun%27s_Spaceport_Cantina/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Passages",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

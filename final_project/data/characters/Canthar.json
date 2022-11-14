@@ -1,0 +1,47 @@
+{
+ "name": "Canthar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Panatha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Epicanthix"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Canthar was an Epicanthix warrior-chief and poet. He was the author of the poem \"Making War Is Love.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Panatha",
+  "/wiki/Epicanthix",
+  "/wiki/Gender/Legends",
+  "/wiki/Chief/Legends",
+  "/wiki/Poet/Legends",
+  "/wiki/Making_War_Is_Love",
+  "/wiki/West_End_Games",
+  "/wiki/Shadows_of_the_Empire_Sourcebook",
+  "/wiki/Alien_Encounters"
+ ]
+}

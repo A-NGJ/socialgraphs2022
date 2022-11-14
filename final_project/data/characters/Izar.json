@@ -1,0 +1,70 @@
+{
+ "name": "Izar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Outreach Division",
+      "Imperial Outreach Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Izar was a Force-sensitive male Sith Lord who served as representative among the Imperial Outreach Division. Shortly before the Dantooine Incursion, Izar contacted Lana Beniko to get in touch with the Commander of the Eternal Alliance.\nIzar was a quite charismatic Sith Lord who often showered his conversation partners with compliments.\nHe also held the traditional ways of the Empire in a quite high esteem.\nIzar contacts The Commander if the player is Imperial.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Outreach_Bureau",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Dantooine_Incursion",
+  "/wiki/Lana_Beniko",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Alliance_Commander",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

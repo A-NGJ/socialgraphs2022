@@ -1,0 +1,61 @@
+{
+ "name": "Peter Midanyl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Peter Midanyl was one of Sena Midanyl's sons. He and his brother Dayvid served aboard Senator Garm Bel Iblis's Dreadnaughts, the Harrier.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Sena_Leikvold_Midanyl",
+  "/wiki/Dayvid_Midanyl",
+  "/wiki/Senator/Legends",
+  "/wiki/Garm_Bel_Iblis/Legends",
+  "/wiki/Dreadnaught-class_heavy_cruiser",
+  "/wiki/Harrier",
+  "/wiki/The_Last_Command",
+  "/wiki/The_Last_Command_(unabridged_audiobook)"
+ ]
+}

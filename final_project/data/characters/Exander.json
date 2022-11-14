@@ -1,0 +1,64 @@
+{
+ "name": "Exander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "VerveGen Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Exander was a male Twi'lek Overseer of the VerveGen Corporation . He was killed when the VerveGen Corporation building on Nar Shaddaa was infiltrated by Cipher Nine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/VerveGen_Corporation",
+  "/wiki/VerveGen_Corporation_building",
+  "/wiki/Cipher_Nine",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Headhunter Five",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vandangante outlaw techs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Headhunter Five was the callsign used by one of Jessa Vandangante's mechanics when flying with Headhunter Flight during the Battle of the Outlaw Tech Base, in 2 BBY. He was a member of the Vandangante outlaw techs, and having no prior combat experience was the second casualty in the squadron. He was the brother of Headhunter Six.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vandangante_outlaw_techs",
+  "/wiki/Jessa_Vandangante",
+  "/wiki/Technician/Legends",
+  "/wiki/Headhunter_Flight",
+  "/wiki/Battle_of_the_Outlaw_Tech_Base",
+  "/wiki/Squadron/Legends",
+  "/wiki/Headhunter_Six",
+  "/wiki/Han_Solo_at_Stars%27_End"
+ ]
+}

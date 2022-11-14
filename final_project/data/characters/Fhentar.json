@@ -1,0 +1,68 @@
+{
+ "name": "Fhentar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cult of Ki Sazen"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Ki Sazen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fhentar was a male Nikto living during the Cold War and a Chosen of the Nikto cult that worshipped the fallen Jedi Ki Sazen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cult_of_Ki_Sazen",
+  "/wiki/Ki_Sazen",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Chosen_(Ki_Sazen)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fhentar",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

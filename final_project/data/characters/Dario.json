@@ -1,0 +1,59 @@
+{
+ "name": "Dario",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Refnu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nefrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Refnu Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dario was a Nefrian male miner who lived on the planet Refnu. He helped Paige and Rose Tico to find a job with the Refnu Corporation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Refnu",
+  "/wiki/Nefrian",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/Paige_Tico",
+  "/wiki/Rose_Tico",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dario",
+  "/wiki/The_Last_Jedi:_Cobalt_Squadron",
+  "/wiki/The_Last_Jedi:_Cobalt_Squadron_(audiobook)"
+ ]
+}

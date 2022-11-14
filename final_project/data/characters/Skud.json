@@ -1,0 +1,81 @@
+{
+ "name": "Skud",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Orleon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Skud's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skud was a red-skinned humanoid henchman of Jabba. He accompanied the Hutt to Orleon, but was killed in a blaster fight with Han Solo and Chewbacca.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Orleon",
+  "/wiki/Skud%27s_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Red",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Star_Wars_(1977)_28"
+ ]
+}

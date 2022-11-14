@@ -1,0 +1,52 @@
+{
+ "name": "Nodon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nodon was a Cathar poacher and hunter. Along with his brother Nonak and a stormtrooper deserter named Burrk, they tried to hunt wampas on Hoth  in 12 ABY, but were killed by them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Cathar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nonak",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Burrk",
+  "/wiki/Wampa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nodon",
+  "/wiki/Darksaber_(novel)",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

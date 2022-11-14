@@ -1,0 +1,66 @@
+{
+ "name": "Gharakh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Honoghr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gharakh was one of Leia Organa Solo's numerous Noghri bodyguards. He accompanied Organa Solo to a meeting with Shada D'ukal at the Orowood Tower during the Caamas Incident.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Honoghr/Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Shada_D%27ukal",
+  "/wiki/Orowood_Tower",
+  "/wiki/Caamas_Document_Crisis",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

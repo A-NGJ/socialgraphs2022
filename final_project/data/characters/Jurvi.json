@@ -1,0 +1,54 @@
+{
+ "name": "Jurvi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dagro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jurvi was one of the many sargheet farmers who suffered through the economic hard times that befell the planet Dagro, during the height of the Clone Wars.\nHis friend, Kirlan Swens, asked him to be part of a farm \"chain\" that Obi-Wan Kenobi could use to reach Vale City without being spotted, when the Jedi Knight was on Dagro to investigate the possibility of a Separatist base on the planet, some two years after the Battle of Geonosis. He was one of the farmers who helped Obi-Wan and his Padawan, Anakin Skywalker, locate and destroy the last crawl-carrier before it could eliminate a village.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dagro",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sargheet",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Vale_City",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/First_Battle_of_Geonosis/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Crawl-carrier",
+  "/wiki/Changing_Seasons",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

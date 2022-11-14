@@ -1,0 +1,50 @@
+{
+ "name": "Remata",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lestra Oxic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Remata was a Human employee of Lord Lestra Oxic. He worked for the attorney, providing security and covert services as one of his agents. In 43 ABY, he was assigned to the pursuit of Tobb Jadak along with Cynner.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lestra_Oxic",
+  "/wiki/Lord/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/43_ABY",
+  "/wiki/Tobb_Jadak",
+  "/wiki/Cynner",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Remata",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

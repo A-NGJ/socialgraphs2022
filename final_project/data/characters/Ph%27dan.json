@@ -1,0 +1,55 @@
+{
+ "name": "Ph'dan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "M'haeli"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "M'haeli"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "H'drachi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ph'dan was a male H'drachi leader in 0 ABY. He was killed by Glott after giving him information about Mora.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/M%27haeli/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/H%27drachi",
+  "/wiki/Gender/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Glott",
+  "/wiki/Mora",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ph%27dan",
+  "/wiki/Star_Wars:_River_of_Chaos"
+ ]
+}

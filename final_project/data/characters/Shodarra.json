@@ -1,0 +1,70 @@
+{
+ "name": "Shodarra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shodarra was a Gran male General of the Galactic Republic living during the Galactic War. He served in the Cold War and during the Battle of Rhen Var witnessed the demise of the famed Bane Brigade. During the Battle of Hoth over ten years later he was discussing with fellow Generals Krepkit and Uchang the news that the Bane Brigade has resurfaced on Hoth. Uchang advised to bring more reinforcements to Hoth, but Shodarra countered by saying that he saw the Bane Brigade perish himself.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Battle_of_Rhen_Var",
+  "/wiki/Bane_Brigade",
+  "/wiki/Battle_of_Hoth_(Galactic_War)",
+  "/wiki/Krepkit",
+  "/wiki/Uchang",
+  "/wiki/Hoth/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

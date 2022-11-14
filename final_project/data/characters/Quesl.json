@@ -1,0 +1,63 @@
+{
+ "name": "Quesl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Botajef"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Botajef Defense Force",
+      "Botajef Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quesl was a human male individual who served as the Imperial governor of Botajef.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Botajef",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Botajef_Defense_Force",
+  "/wiki/Commodore",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Governor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Quesl",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)"
+ ]
+}

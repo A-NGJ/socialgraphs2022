@@ -1,0 +1,59 @@
+{
+ "name": "Nolan Pars",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nolan Pars was a male Duros citizen of the Galactic Republic who lived during the Galactic War. Stationed on Hoth in 3642 BBY, he asked a fellow Republic citizen to re-calibrate seismic\nsensors at the Crescent Canyon Monitoring Station in the Whiterock Wastes that could warn him of an impending ice shelf collapse.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Hoth/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Crescent_Canyon_Monitoring_Station",
+  "/wiki/Whiterock_Wastes",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

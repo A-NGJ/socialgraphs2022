@@ -1,0 +1,46 @@
+{
+ "name": "Keta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cavrilhu Pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keta was a female Togorian member of the Cavrilhu Pirates. In 9 ABY, she served as First Mate aboard the Void Cutter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cavrilhu_Pirates",
+  "/wiki/9_ABY/Legends",
+  "/wiki/First_Mate/Legends",
+  "/wiki/Void_Cutter",
+  "/wiki/Dark_Force_Rising_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook"
+ ]
+}

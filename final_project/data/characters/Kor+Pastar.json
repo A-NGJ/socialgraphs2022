@@ -1,0 +1,64 @@
+{
+ "name": "Kor Pastar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin system asteroid belt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kor Pastar was a female blue-skinned Twi'lek. She was the daughter of Vel Pastar, and would find new hires on Nirama's public asteroid and direct them to talk to her father.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin_system_asteroid_belt",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Organization",
+  "/wiki/The_Cell",
+  "/wiki/Rutian/Legends",
+  "/wiki/Vel_Pastar",
+  "/wiki/Nirama%27s_public_asteroid",
+  "/wiki/TopWorld"
+ ]
+}

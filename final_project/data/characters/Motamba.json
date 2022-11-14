@@ -1,0 +1,64 @@
+{
+ "name": "Motamba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wookiee underground resistance movement",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Motamba was a male Wookiee munitions expert who served in the Wookiee underground resistance movement during the Galactic Civil War.\nMotamba was one of the Wookiees who spearheaded the search for the Gran thief Kea Ra-Lan after she infiltrated Kashyyyk and stole ancient texts from the vaults of Neocomora.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookiee_underground_resistance_movement",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Kea_Ra-Lan",
+  "/wiki/Neocomora",
+  "/wiki/Rebel_Dawn",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Wanted_by_Cracken_(Star_Wars_Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_10",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

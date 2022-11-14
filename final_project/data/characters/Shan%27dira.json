@@ -1,0 +1,56 @@
+{
+ "name": "Shan'dira",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dira Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shan'dira was a young Twi'lek woman from the Dira Clan. She attempted to seek passage off-world with a group of spacers who were visiting Kala'uun.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dira_Clan",
+  "/wiki/Spacer/Legends",
+  "/wiki/Kala%27uun/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

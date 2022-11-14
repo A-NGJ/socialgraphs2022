@@ -1,0 +1,65 @@
+{
+ "name": "Munten",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Coruscant Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Munten was a Human male security officer in the tower office of the Supreme Chancellor in 32 BBY, during Valorum's term. His duties included manually checking anybody wanting to enter the building. During the last days of the organization known as The Flail, he had to deal with long queues of people.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Coruscant_Security_Force/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Law_enforcement_agency/Legends",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Finis_Valorum/Legends",
+  "/wiki/The_Flail",
+  "/wiki/Wizards_of_the_Coast",
+  "/wiki/Shadows_of_Coruscant",
+  "/wiki/Star_Wars_Roleplaying_Game_Core_Rulebook"
+ ]
+}

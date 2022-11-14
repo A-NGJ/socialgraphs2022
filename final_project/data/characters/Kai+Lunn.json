@@ -1,0 +1,41 @@
+{
+ "name": "Kai Lunn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Miners' Union"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kai Lunn was a Human who lived on the planet Iol at some point during galactic history. Lunn acted as the leader of the Miners' Union, a trade union that sought to uphold the rights of workers on Iol. The majority of the residents of the city Shirkel pledged their allegiance to Lunn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Miners%27_Union",
+  "/wiki/Planet/Legends",
+  "/wiki/Iol",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Union_(workers)",
+  "/wiki/City/Legends",
+  "/wiki/Shirkel",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Maheyya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Reclamation Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maheyya was a female Human archaeologist working for the Imperial Reclamation Service. Posted on Onderon, she send a team of her people into the jungle to search for artifacts, only to lose contact with them. She then asked another Imperial to recover both the artifacts and the signs of her lost expedition.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Reclamation_Service",
+  "/wiki/Archaeologist/Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

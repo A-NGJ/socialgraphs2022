@@ -1,0 +1,57 @@
+{
+ "name": "Lyechusas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Argai"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lisst'n"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Xim"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lyechusas was a famous Lisst'n dramatist.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Argai",
+  "/wiki/Lisst%27n",
+  "/wiki/Gender/Legends",
+  "/wiki/Xim/Legends",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Xim_Week:_The_Despotica",
+  "/wiki/StarWars.com",
+  "/wiki/The_Imperial_Warlords:_Despoilers_of_an_Empire"
+ ]
+}

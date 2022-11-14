@@ -1,0 +1,63 @@
+{
+ "name": "Drev",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Diplomatic Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Drev was a Chiss male sergeant in the Imperial Diplomatic Service of the Sith Empire during the Galactic War with the Galactic Republic. He was stationed aboard the Ziost Shadow.\nSergeant Drev first appeared in the 2011 video game Star Wars: The Old Republic by BioWare as a vendor on the Ziost Shadow.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Imperial_Diplomatic_Service",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Ziost_Shadow",
+  "/wiki/2011",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/BioWare"
+ ]
+}

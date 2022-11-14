@@ -1,0 +1,60 @@
+{
+ "name": "Boshaz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boshaz was a Trandoshan who resided in a slaver camp on Kashyyyk.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Boshaz",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Star_Wars_Galaxies:_The_Total_Experience:_Prima_Official_Game_Guide"
+ ]
+}

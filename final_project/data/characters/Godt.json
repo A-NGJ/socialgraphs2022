@@ -1,0 +1,46 @@
+{
+ "name": "Godt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Godt was a male Sullustan Commander of the New Republic who owed his rise in rank to Sien Sovv. He later fought in the Battle of Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Sien_Sovv",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

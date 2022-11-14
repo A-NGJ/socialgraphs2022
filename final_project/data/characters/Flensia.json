@@ -1,0 +1,53 @@
+{
+ "name": "Flensia",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Flensia was a female Human Sith of the Sith Empire. During the Galactic War she resided on Voss, providing training to Sith Warriors.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Flensia",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Human/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss",
+  "/wiki/Sith_Warrior",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "name": "Maraad",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Shalath"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maraad was a male member of the Sith species and a Sith who served the Sith Empire as an apprentice on the Sith capital planet of Dromund Kaas. He was stationed in a small camp near the planet's capital, Kaas City, alongside Captain Jeelg.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Shalath",
+  "/wiki/Species/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Kaas_City",
+  "/wiki/Captain/Legends",
+  "/wiki/Jeelg",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

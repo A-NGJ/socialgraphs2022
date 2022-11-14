@@ -1,0 +1,50 @@
+{
+ "name": "Skiffer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "27 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skiffer was a male Human survivor of the Battle of Coruscant. He was part of a group that came into conflict with the \"Walkway Collective,\" the survivors near the Catier Walkway, led by Tenga Javik.\nSkiffer and his entire group were killed by Lord Nyax. At the time, Nyax was pursuing Yassat, a scout for the Walkway Collective, but Yassat intentionally led the pursuing monster in Skiffer's direction as a distraction. The last thing Yassat heard of the group was Skiffer's call to action and his dying screams.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/27_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Walkway_Collective",
+  "/wiki/Catier_Walkway",
+  "/wiki/Tenga_Javik",
+  "/wiki/Irek_Ismaren",
+  "/wiki/Yassat",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_II:_Rebel_Stand"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Jakaitis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bakuran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bakuran Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jakaitis was a Bakuran male who served as the supervisor of a cleaning crew for the Bakur Memorial Building during the Yuuzhan Vong War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Gender/Legends",
+  "/wiki/Bakuran_Senate",
+  "/wiki/Bakur_Memorial_Building",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

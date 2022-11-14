@@ -1,0 +1,49 @@
+{
+ "name": "Daiv",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Daiv was a Human male brother-in-law of Benedict Vidkun and brother of Lair.\nHe lived on Coruscant and worked at the construction firm that got the contract to Xizor's Palace. He installed the rat-gate there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Benedict_Vidkun",
+  "/wiki/Lair",
+  "/wiki/Xizor%27s_Palace",
+  "/wiki/Rat-gate",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Daiv",
+  "/wiki/Shadows_of_the_Empire_(novel)",
+  "/wiki/Shadows_of_the_Empire_Sourcebook"
+ ]
+}

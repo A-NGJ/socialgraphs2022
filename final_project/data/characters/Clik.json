@@ -1,0 +1,54 @@
+{
+ "name": "Clik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Verpine"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green and brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Ardan resistance",
+      "Ardan resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clik was the alias of a Verpine, whose name at birth was unpronounceable by non-Verpines. He worked as a quartermaster for the Rebel alliance on Arda I. Clik was skilled at weapon modification, and most of the blasters he revised were more accurate and deadly.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Verpine/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Ardan_resistance",
+  "/wiki/Arda_I",
+  "/wiki/Blaster/Legends",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

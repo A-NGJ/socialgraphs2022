@@ -1,0 +1,72 @@
+{
+ "name": "Phytus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "isen IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phytus was a male Human Commander of the small military force of the mining colony located on Isen IV asteroid during the Galactic War. The colony willingly surrendered to the representatives of the Sith Empire, but was met with hostilities nonetheless. Imperial Intelligence Agent Cipher Nine later discovered that the massacre in the colony was in fact caused not by the Empire, but by Star Cabal Agent Hunter, who was pitting the Empire and Galactic Republic against each other while pretending to play for both sides as suitable.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Isen_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Cipher_Agent",
+  "/wiki/Cipher_Nine",
+  "/wiki/Star_Cabal",
+  "/wiki/Hunter_(Star_Cabal)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

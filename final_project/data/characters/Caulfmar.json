@@ -1,0 +1,49 @@
+{
+ "name": "Caulfmar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Brolf"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Caulfmar was a male Brolf governor of Barlok during the Separatist Crisis. In 27 BBY, Palpatine sent Kinman Doriana to deliver files to him. Doriana used this trip as an excuse to stir up trouble on Barlok.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Brolf",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Barlok",
+  "/wiki/Separatist_Crisis/Legends",
+  "/wiki/27_BBY/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Kinman_Doriana",
+  "/wiki/Outbound_Flight_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

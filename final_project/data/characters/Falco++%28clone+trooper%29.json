@@ -1,0 +1,77 @@
+{
+ "name": "Falco  (clone trooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicExcelsior Company",
+      "Grand Army of the RepublicExcelsior Company",
+      "Excelsior Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Falco was an Advanced Recon Force clone trooper in the Excelsior Company, under the command of Commander Vargus. His armor featured stripes of orange down his arms, legs, and across his chest plate.\nIn addition to his skills in the field of reconnaissance, Falco was a clever tactician. He was able to analyze a situation and decide how best to utilize a small force against a larger enemy. Falco also possessed a dry, understated sense of humor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Falco",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Excelsior_Company",
+  "/wiki/Advanced_Recon_Force_trooper",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Clone_trooper_commander",
+  "/wiki/Vargus",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Lost_Legion"
+ ]
+}

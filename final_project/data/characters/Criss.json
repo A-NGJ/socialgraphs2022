@@ -1,0 +1,51 @@
+{
+ "name": "Criss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Criss was a male Human who held the rank of lieutenant in the Imperial Army. Around 2 BBY, he served under Colonel Veesle on Omman Minor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Veesle",
+  "/wiki/Omman_Minor",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/When_the_Domino_Falls",
+  "/wiki/Star_Wars_Adventure_Journal_3"
+ ]
+}

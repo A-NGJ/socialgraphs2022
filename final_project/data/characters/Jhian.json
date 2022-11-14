@@ -1,0 +1,54 @@
+{
+ "name": "Jhian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jhian was a male Rodian citizen of the Galactic Republic. During the the Galactic War he came to Voss, where he asked a Republic individual for assistance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_War",
+  "/wiki/Voss",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jhian",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

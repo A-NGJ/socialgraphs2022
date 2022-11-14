@@ -1,0 +1,56 @@
+{
+ "name": "Maki Salak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Karsten Moon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ho'Din"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maki Salak was a Ho'Din environmental extremist during the waning years of the Old Republic. He strongly protested the killing of the crab-like rikknits on the planet New Plympto. Salak once tried to destroy an entire shipment of the ji rikknit intoxicant in Karsten High Port, but was apprehended and sent to solitary confinement.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Karsten_Moon",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Rikknit/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/New_Plympto/Legends",
+  "/wiki/Ji_rikknit",
+  "/wiki/Karsten_High_Port",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

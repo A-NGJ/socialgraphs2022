@@ -1,0 +1,50 @@
+{
+ "name": "Paleel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Paleel was a female Human nurse who served the Galactic Republic during the Clone Wars on Drongar.\nIn 20 BBY, she survived the attack of the Separatist forces against the medical center, and the RMSU was moved to a new location. When the Republic forces discovered that the Bota had no use any more, Paleel and the whole personnel left Drongar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Drongar/Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Republic_Mobile_Surgical_Unit/Legends",
+  "/wiki/Bota",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Paleel",
+  "/wiki/MedStar_II:_Jedi_Healer"
+ ]
+}

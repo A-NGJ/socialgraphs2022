@@ -1,0 +1,47 @@
+{
+ "name": "Corvan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corvan was a Human male Rebel Alliance pilot. He took part in the mission to Sunfall Peak, setting explosives at the communications hub as part of Team Bantha.\nCorvan is one of the characters from the Star Wars: Age of Rebellion Core Rulebook introduction.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Mission_to_Sunfall_Peak",
+  "/wiki/Team_Bantha",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Corvan",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Core_Rulebook"
+ ]
+}

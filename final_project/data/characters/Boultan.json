@@ -1,0 +1,53 @@
+{
+ "name": "Boultan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Boultan was a Human officer of the Corellian Defense Force.\nAs the First Corellian Insurrection ignited, it became obvious that the groundside CDF remained loyal to the New Republic, while the spaceside CDF, staffed with many ex-Imperial military, had joined with the Human League and the insurgents. Boultan's unit was being led back to the barracks to collect riot gear and found the building secured by CDF spaceside.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Boultan",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Corellian_Defense_Force/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Corellian_Crisis",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Human_League",
+  "/wiki/Ambush_at_Corellia"
+ ]
+}

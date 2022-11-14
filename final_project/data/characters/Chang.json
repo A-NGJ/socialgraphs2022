@@ -1,0 +1,66 @@
+{
+ "name": "Chang",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cilpar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cilpari Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chang was a member of Elscol Loro's Cilpar-based resistance in 4 ABY.\nHe carried a flame projector as a weapon, and participated in the brief funeral of Gates Harnik. He then cremated the corpse to prevent the ronks from getting it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cilpar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cilpari_Resistance",
+  "/wiki/Elscol_Loro",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Flamethrower",
+  "/wiki/Gates_Harnik",
+  "/wiki/Ronk",
+  "/wiki/X-Wing_Rogue_Squadron_1",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

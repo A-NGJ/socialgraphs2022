@@ -1,0 +1,60 @@
+{
+ "name": "Ean",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ean was a male Mon Calamari who served as a sensor officer aboard the New Republic Cruiser Yavin under Wedge Antilles.\nHis name meant \"wise\" among the Mon Calamari.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Sensor/Legends",
+  "/wiki/Cruiser/Legends",
+  "/wiki/Yavin_(starship)",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Galactic_Campaign_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Chambamakk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chambamakk was a Wookiee bounty hunter who worked to free the Wookiees on Kashyyyk enslaved by the Empire. After the Battle of Endor, he sought to track down those who brought suffering upon the Wookiees and kill them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chambamakk",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

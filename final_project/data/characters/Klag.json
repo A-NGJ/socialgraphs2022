@@ -1,0 +1,48 @@
+{
+ "name": "Klag",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blind Luck"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klag was a blue skinned humanoid who served as the navigator of Blind Luck, Desric Fol's freighter, during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blind_Luck",
+  "/wiki/Desric_Fol",
+  "/wiki/Freighter/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Klag",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

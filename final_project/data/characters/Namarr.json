@@ -1,0 +1,55 @@
+{
+ "name": "Namarr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Namarr was a male Human sergeant of the reconstituted Sith Empire living during the Galactic War with the Galactic Republic. In 3642 BBY he was stationed on Taris in the Tularan Marsh, where he asked a fellow Imperial to dispose of Republic snipers threatening his position.\nSergeant Namarr appears in Star Wars: The Old Republic as an NPC on Taris, who begins the mission \"Trapped by Snipers\".",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Tularan_Marsh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

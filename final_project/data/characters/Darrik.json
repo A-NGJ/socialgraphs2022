@@ -1,0 +1,44 @@
+{
+ "name": "Darrik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Brentaal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darrik was a young boy from Brentaal during the Galactic Civil War.\nBorn into an affluent, shipping family on the planet Brentaal, Darrik enjoyed a very comfortable and privileged life. His early childhood was mainly spent herding his siblings and cousins around to their classes at the Brentaal Commerce Academy in preparation for a career in his family's shipping company. Groomed for such a profession, he seemed destined for a life of authority and wealth. However, Darrik had other ambitions for his future.\nDarrik began to feel distraught with his life. Desirous to see more of the galaxy, he left his parent's home on Brentaal to pursue his interest of exploration. He would later manage this when he met smuggler Platt Okeefe at some point.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Brentaal_IV/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Brentaal_Commerce_Academy",
+  "/wiki/Imperial_Double-Cross"
+ ]
+}

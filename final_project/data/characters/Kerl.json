@@ -1,0 +1,75 @@
+{
+ "name": "Kerl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "33 BBY",
+      "Naboo system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security ForcesNaboo Royal Space Fighter CorpsEcho Flight",
+      "Naboo Royal Space Fighter CorpsEcho Flight",
+      "Echo Flight"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kerl was a Human male pilot in the Naboo Royal Space Fighter Corps. In 33 BBY, he piloted N-X Police Cruiser until he was killed by Bravo Eight, Dren Melne, during an attack on Station TFP-9.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Naboo_system/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Naboo_Royal_Space_Fighter_Corps/Legends",
+  "/wiki/Echo_Flight",
+  "/wiki/Pilot/Legends",
+  "/wiki/N-X_Police_Cruiser/Legends",
+  "/wiki/Bravo_Eight",
+  "/wiki/Dren_Melne",
+  "/wiki/Battle_at_TFP-9",
+  "/wiki/Station_TFP-9",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Starfighter_Trap",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "b'Crevnis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pho Ph'eahian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Outbound Flight Project",
+      "Outbound Flight Project"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "B'Crevnis was a large male Pho Ph'eahian who was in charge of fluid-flow maintenance on Outbound Flight.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pho_Ph%27eahian",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Outbound_Flight_Project",
+  "/wiki/Outbound_Flight",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/B%27Crevnis",
+  "/wiki/Outbound_Flight_(novel)"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Kirry",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Horn Station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kirry was a female Human native to Horn Station. She once met a Human Jedi, \"Pinky\", who was on a mission to liberate the planet from Shoto Eyefire's tyranny. Kirry harbored a romantic interest for the Jedi; since only a few Humans inhabited the planet, there never really were any potential companions of the same species. She never found out the Jedi's real name, however he swore to tell it to her the next time they would meet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Horn_Station",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pinky",
+  "/wiki/Jedi/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Shoto_Eyefire",
+  "/wiki/Incident_at_Horn_Station",
+  "/wiki/Star_Wars_Tales_2"
+ ]
+}

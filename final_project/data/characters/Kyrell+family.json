@@ -1,0 +1,83 @@
+{
+ "name": "Kyrell family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Aristocracy"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Jelucan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Second-wave",
+      "Galactic Empire",
+      "Royal Imperial Academy",
+      "Imperial Navy",
+      "Imperial Officer Corps",
+      "Royal Imperial Academy",
+      "Imperial Navy",
+      "Imperial Officer Corps",
+      "Alliance to Restore the Republic",
+      "Corona Squadron",
+      "Corona Squadron",
+      "New Republic",
+      "Corona Squadron",
+      "Corona Squadron",
+      "Queluhan Nebula Imperial remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Kyrell family was a wealthy aristocratic family of second-waver humans that hailed from Jelucan, a planet in the galaxy's Outer Rim Territories.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Jelucan",
+  "/wiki/Second-wave",
+  "/wiki/Galactic_Empire",
+  "/wiki/Royal_Imperial_Academy",
+  "/wiki/Imperial_Navy",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Corona_Squadron",
+  "/wiki/New_Republic",
+  "/wiki/Squadron",
+  "/wiki/Queluhan_Nebula_Imperial_remnant",
+  "/wiki/Homeworld",
+  "/wiki/Planet",
+  "/wiki/The_galaxy",
+  "/wiki/Outer_Rim_Territories",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Oris_Kyrell",
+  "/wiki/Ganaire_Kyrell",
+  "/wiki/Dalven_Kyrell",
+  "/wiki/Thane_Kyrell",
+  "/wiki/Lost_Stars",
+  "/wiki/Lost_Stars_(audiobook)",
+  "/wiki/Lost_Stars_(webcomic)",
+  "/wiki/The_Princess_and_the_Scoundrel"
+ ]
+}

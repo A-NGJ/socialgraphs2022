@@ -1,0 +1,81 @@
+{
+ "name": "Haasi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Valahari"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 22 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humans"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tofen's Raiders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haasi was a male Human from the planet of Valahari who fought in the Clone Wars under the Confederacy of Independent Systems. He participated in the Battle of the Veil Nebula and perished in the fight.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Valahari/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Tofen%27s_Raiders/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Battle_of_the_Veil_Nebula",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Haasi",
+  "/wiki/The_Clone_Wars_10",
+  "/wiki/The_Clone_Wars_12",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

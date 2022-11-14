@@ -1,0 +1,65 @@
+{
+ "name": "Bakmar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selkath"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange",
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bakmar was a male Selkath who lived during the Galactic War between the Galactic Republic and the reconstituted Sith Empire. He sold his wares in the Republic Concourse of the Mercantile Plaza.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Bakmar",
+  "/wiki/Manaan/Legends",
+  "/wiki/Selkath/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Republic_Concourse",
+  "/wiki/Mercantile_Plaza",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bakmar",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

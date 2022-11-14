@@ -1,0 +1,70 @@
+{
+ "name": "Guardian of the Inner Sanctum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Guardian of the Inner Sanctum was a male Voss Commando who was part of the Shrine of Healing's guard detail during the Cold War. He was stationed at the door to the inner sanctum of the shrine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Hero_of_Tython"
+ ]
+}

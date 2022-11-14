@@ -1,0 +1,35 @@
+{
+ "name": "Dex Tiree's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female human was the mother of Dex Tiree.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Parent",
+  "/wiki/Dex_Tiree",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dex_Tiree%27s_mother",
+  "/wiki/Sparks_(short_story)",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

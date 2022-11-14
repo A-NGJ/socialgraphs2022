@@ -1,0 +1,47 @@
+{
+ "name": "Sapha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ryn"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sapha was a female Ryn prisoner with red hair. She along with her fellow prisoners Roa, Fasgo, and the Jedi Knight Wurth Skidder, under the alias of Keyn, were part of the growing of a yammosk aboard the Yuuzhan Vong ship Crèche.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Sapha",
+  "/wiki/Ryn/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Roa",
+  "/wiki/Fasgo",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Wurth_Skidder",
+  "/wiki/Keyn",
+  "/wiki/Yammosk",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Cr%C3%A8che_(clustership)",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_II:_Jedi_Eclipse"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Leektar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Bright Tree tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leektar was an Ewok who lived in Bright Tree Village on the planet Endor. After the Ewoks and the Alliance to Restore the Republic triumphed over the Galactic Empire in the Battle of Endor, Leektar was amongst the Ewoks who celebrated the victory.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Leektar",
+  "/wiki/Leektar/Legends",
+  "/wiki/Endor",
+  "/wiki/Ewok",
+  "/wiki/Color",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Bright_Tree_tribe",
+  "/wiki/Bright_Tree_Village",
+  "/wiki/Planet",
+  "/wiki/Galactic_Empire",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Leektar",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Journey_Through_Space_(2015)",
+  "/wiki/Star_Wars:_Absolutely_Everything_You_Need_to_Know",
+  "/wiki/Star_Wars:_Absolutely_Everything_You_Need_to_Know,_Updated_and_Expanded",
+  "/wiki/Databank_(website)"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Malia  (person)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black/brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rose Nebula"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malia was a female Human from Coruscant. She grew up in the lower levels of the planet-wide city during the Galactic Civil War, fighting to survive. However, her luck changed for the better when she got a job at the Rose Nebula. She worked as a relaxation specialist and spy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malia",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Rose_Nebula",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Malia_(person)",
+  "/wiki/Ultimate_Adversaries",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

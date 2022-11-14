@@ -1,0 +1,68 @@
+{
+ "name": "Mir-Ki",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mir-Ki was a Voss commando stationed at the Koss Overlook in Gormak Lands. An outsider brought him the weapons of defeated Gormak snipers, for which Mir-Ki expressed his gratitude.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Voss_commandos",
+  "/wiki/Koss_Overlook",
+  "/wiki/Gormak_Lands",
+  "/wiki/Gormak/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

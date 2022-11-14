@@ -1,0 +1,39 @@
+{
+ "name": "Belnala",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Kajidier kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Belnala was a Hutt who lived during the time of the Galactic Civil War. Belnala was an influential member of the Kajidier Hutt clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Kajidier",
+  "/wiki/Kajidic",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

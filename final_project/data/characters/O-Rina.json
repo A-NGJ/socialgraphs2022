@@ -1,0 +1,60 @@
+{
+ "name": "O-Rina",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hospitality Guide"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "O-Rina was a female Human, one of two Hospitality Guides who introduced Obi-Wan Kenobi and Qui-Gon Jinn to the planet of Kegan. Her male counterpart was V-Haad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hospitality_Guide",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/V-Haad",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/O-Rina",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

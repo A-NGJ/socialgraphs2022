@@ -1,0 +1,50 @@
+{
+ "name": "Eson",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Borgin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eson was a Serennian male sergeant of Serenno's House Borgin.\nEson appeared in the 2019 audiobook Dooku: Jedi Lost authored by Cavan Scott.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Serennian",
+  "/wiki/Gender",
+  "/wiki/House_Borgin",
+  "/wiki/Sergeant",
+  "/wiki/Serenno",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eson",
+  "/wiki/2019",
+  "/wiki/Dooku:_Jedi_Lost",
+  "/wiki/Cavan_Scott",
+  "/wiki/Dooku:_Jedi_Lost_(script)"
+ ]
+}

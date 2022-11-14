@@ -1,0 +1,83 @@
+{
+ "name": "Onoma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Onoma was the Mon Calamari captain of the MC80B Star Cruiser Mon Remonda. He led the warship in the Liberation of Coruscant, where he captured the Imperial Star Destroyer Triumph.\nOnoma was in command of the Mon Remonda during the campaign to hunt Warlord Zsinj up until its destruction at the Battle of Calamari at the hands of Silencer-7. He, along with the rest of the crew, perished.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Talk:Onoma",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/MC80B_Star_Cruiser",
+  "/wiki/Mon_Remonda",
+  "/wiki/Liberation_of_Coruscant_(Galactic_Civil_War)",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Triumph_(Victory-class)",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Battle_of_Calamari",
+  "/wiki/Silencer-7",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_Iron_Fist",
+  "/wiki/X-Wing:_Solo_Command",
+  "/wiki/The_Courtship_of_Princess_Leia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

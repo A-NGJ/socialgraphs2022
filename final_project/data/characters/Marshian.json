@@ -1,0 +1,51 @@
+{
+ "name": "Marshian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marshian was Admiral Pellaeon's shuttle pilot fifteen years after the Battle of Endor. He was stationed on the Chimaera.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Shuttle/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Chimaera/Legends",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

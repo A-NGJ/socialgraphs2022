@@ -1,0 +1,75 @@
+{
+ "name": "Droon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Droon was an Imperial admiral who helped Frija Torlock try to rule Corulag by killing Wrenga Jixton. After discovering the plot, Jixton handed Droon to Darth Vader who forced him into a duel with a lightsaber, where he was defeated by Vader and executed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Frija_Torlock",
+  "/wiki/Corulag/Legends",
+  "/wiki/Wrenga_Jixton",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Droon",
+  "/wiki/Shadow_Stalker",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_37",
+  "/wiki/The_Official_Star_Wars_Fact_File_127",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Saluc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY",
+      "Dewback's Burden"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Saluc was a Mon Calamari officer in the New Republic, serving under a Duros onboard the Dewback's Burden. The ship was ambushed by the Eiattu pirates who left the crew to die slowly as their oxygen gave out. In this manner Saluc died.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Dewback%27s_Burden",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Eiattu_pirates",
+  "/wiki/Death/Legends",
+  "/wiki/Oxygen/Legends",
+  "/wiki/Lando%27s_Commandos:_On_Eagles%27_Wings",
+  "/wiki/Star_Wars_Tales_5"
+ ]
+}

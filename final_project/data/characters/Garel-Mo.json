@@ -1,0 +1,71 @@
+{
+ "name": "Garel-Mo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue and grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garel-Mo was a male Voss member of the Voss commandos during the Galactic War. He was posted at the Shrine of Healing, guarding the shrine's grounds where the Voss Mystics went to undergo their trials.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Galactic_War",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Voss_Mystics",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Pricene",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lant Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pricene was a male Human who served as a starship captain for the Lant Mining Corporation. He had been assigned to command of the LMC Hauler One-Six, the lead ship of Convoy LMC-55c, when it was captured by an Alliance corvette and a squadron of Y-wings.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lant_Mining_Corporation",
+  "/wiki/Erils",
+  "/wiki/Starship/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/LMC_Hauler_One-Six",
+  "/wiki/Convoy_LMC-55c",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Corvette/Legends",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Flashpoint!_Brak_Sector",
+  "/wiki/Alien/Legends"
+ ]
+}

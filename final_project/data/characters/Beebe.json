@@ -1,0 +1,42 @@
+{
+ "name": "Beebe",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beebe was a male Human bounty hunter who made his home on the planet of Balmorra. He worked as a trainer of his fellow hunters in the city of Sobrik.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Sobrik",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Beebe",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Jaral  (female)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jaral was a female Human major of the reconstituted Sith Empire. During the Galactic War she was stationed on Vaiken Spacedock.\nMajor Jaral appeared in Star Wars: The Old Republic as a vendor in the Imperial fleet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Imperial_Navy_(Sith_Empire)"
+ ]
+}

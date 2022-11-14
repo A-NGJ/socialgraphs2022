@@ -1,0 +1,54 @@
+{
+ "name": "Eri Palle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nil Spaar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eri Palle was a personal aide to Nil Spaar. Palle assisted the Viceroy in a wide variety of methods, from managing Spaar's daily tasks to plotting the assassination of his political enemies. Eri was present when Spaar killed Kiv Truun.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Nil_Spaar",
+  "/wiki/Aide/Legends",
+  "/wiki/Viceroy/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Kiv_Truun",
+  "/wiki/Before_the_Storm",
+  "/wiki/Shield_of_Lies",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

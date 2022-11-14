@@ -1,0 +1,73 @@
+{
+ "name": "CT-307",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic212th Attack Battalion",
+      "212th Attack Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "CT-307 was a Galactic Republic clone trooper who served in the Clone Wars. He was part of Commander Cody's 212th Attack Battalion. After the execution of Order 66 against Obi-Wan Kenobi, he reported the loss of Prowlers 1 through 14 and asked for permission to deploy the final batch.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/212th_Attack_Battalion/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Clone_trooper_commander",
+  "/wiki/CC-2224/Legends",
+  "/wiki/Order_66/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Prowler_1000_exploration_droid",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/CT-307",
+  "/wiki/The_New_Essential_Guide_to_Droids"
+ ]
+}

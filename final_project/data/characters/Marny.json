@@ -1,0 +1,84 @@
+{
+ "name": "Marny",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Annamar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marny was a Twi'lek female who was part of the Wolf Squadron Rebel unit during the Galactic Civil War.\nMarny's squadron operated from the planetoid Annamar, hidden deep within a massive asteroid field near the Corellian Trade Spine.\nDuring the Battle of Annamar, she and her squadron were all killed when Vader dropped a BTL Y-wing starfighter on the starfighters stationed in the base.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Annamar",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blue",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Wolf_Squadron",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Planetoid/Legends",
+  "/wiki/Corellian_Trade_Spine/Legends",
+  "/wiki/Battle_of_Annamar",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Marny",
+  "/wiki/Star_Wars_Adventures:_The_Will_of_Darth_Vader"
+ ]
+}

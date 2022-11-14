@@ -1,0 +1,35 @@
+{
+ "name": "Hogar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hogar was a male Human who developed a technique to make the HR-211 powersuit more comfortable. A side-effect of the powersuit was that it made the user uncomfortably warm. Hogar developed a technique to decrease the heat created by the suit by deflecting the heat with myoflex. Hogar's technique made the HR-211 a much more comfortable wear.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/HR-211_Powersuit",
+  "/wiki/Powersuit",
+  "/wiki/Myoflex",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hogar",
+  "/wiki/Gundark%27s_Fantastic_Technology:_Personal_Gear"
+ ]
+}

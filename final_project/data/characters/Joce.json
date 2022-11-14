@@ -1,0 +1,86 @@
+{
+ "name": "Joce",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Miraluka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Joce was a Miraluka male Jedi Master who served the Jedi Order during the Cold War and the Galactic War between the Galactic Republic and the reconstituted Sith Empire.\nIn 3640 BBY, Joce fought alongside Masters Rubatin and Injaye during the Battle of Corellia. When they encountered the Emperor's Wrath, Joce and the Jedi fought against the Sith Lord, but were all defeated.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Corellia/Legends",
+  "/wiki/Miraluka/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Rubatin",
+  "/wiki/Injaye",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Empire%27s_Wrath",
+  "/wiki/Jedi/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

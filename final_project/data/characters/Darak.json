@@ -1,0 +1,79 @@
+{
+ "name": "Darak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gold-Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darak was a female Ferroan who lived on Zonama Sekot. Of high-rank in Ferroan society, she was the partner of Rowel; the two of whom were initially suspicious of the Jedi, until Sekot itself trusted them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Ferroan",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Rowel",
+  "/wiki/Jedi/Legends",
+  "/wiki/Sekot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Darak",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "O'Neal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Ginger"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "O'Neal was a female Human Captain of the Galactic Republic. During the Galactic War with the reconstituted Sith Empire she was stationed on Carrick Station.\nCaptain O'Neal appears Star Wars: The Old Republic: Knights of the Eternal Throne as a Trooper gear vendor on Carrick Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Carrick_Station",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

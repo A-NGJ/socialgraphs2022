@@ -1,0 +1,55 @@
+{
+ "name": "Quenton",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quenton was a commander aboard the Star Destroyer Chimaera, reporting directly to Captain Gilad Pellaeon. When Grand Admiral Thrawn returned, he eventually took the Chimaera to Tatooine in an attempt to recover the painting Killik Twilight. Quenton was sent to the auction in Mos Espa to attempt to secure it, but Kitster Banai made away with the painting.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Chimaera/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Killik_Twilight",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Kitster_Chanchani_Banai",
+  "/wiki/Tatooine_Ghost",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

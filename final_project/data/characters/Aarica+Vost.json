@@ -1,0 +1,69 @@
+{
+ "name": "Aarica Vost",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corporate Sector Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aarica Vost was a female Human who worked as an intelligence agent for the Corporate Sector Authority on the planet Kirima following the Battle of Endor. She worked under the alias \"Bren-Aarica Rordan,\" and was the daughter of Larin Vost, head of Corporate Expansion.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Den_of_Spies",
+  "/wiki/Planet/Legends",
+  "/wiki/Kirima/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Larin_Vost",
+  "/wiki/Corporate_Expansion",
+  "/wiki/West_End_Games",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

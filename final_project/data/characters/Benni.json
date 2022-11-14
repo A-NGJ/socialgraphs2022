@@ -1,0 +1,36 @@
+{
+ "name": "Benni",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benni was a young pack tracker at the Kuat Passenger Port. Using a repulsorcart, he would offer his services as a porter to passengers moving through the space station. Extremely knowledgable about the Port and its working, Benni was friendly and chatty with his customers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pack_tracker",
+  "/wiki/Kuat_Passenger_Port",
+  "/wiki/Repulsorcart/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Benni",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

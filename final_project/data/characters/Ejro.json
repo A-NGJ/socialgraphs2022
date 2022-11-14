@@ -1,0 +1,23 @@
+{
+ "name": "Ejro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ejro was a Hutt who decided to move into the arms dealing business.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

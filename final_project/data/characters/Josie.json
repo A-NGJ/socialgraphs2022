@@ -1,0 +1,57 @@
+{
+ "name": "Josie",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Otoh Gunga"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Josie was a female Gungan colonist of New Otoh Gunga known for watching lots of holovision.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/New_Otoh_Gunga",
+  "/wiki/File:Josie-TGF.ogg",
+  "/wiki/Holovision",
+  "/wiki/Star_Wars_Episode_I:_The_Gungan_Frontier"
+ ]
+}

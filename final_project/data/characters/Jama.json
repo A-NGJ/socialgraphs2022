@@ -1,0 +1,62 @@
+{
+ "name": "Jama",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jama was a Force-sensitive Human female who was a Jedi youngling during 22 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Force-sensitive",
+  "/wiki/Jedi",
+  "/wiki/Jedi_Initiate",
+  "/wiki/22_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jama",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

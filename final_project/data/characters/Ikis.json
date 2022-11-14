@@ -1,0 +1,77 @@
+{
+ "name": "Ikis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zygerria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygerrian Slavers Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ikis was a male Zygerrian slave trader who served aboard captain Onyx's ship as a mechanic during the Clone Wars. When the vessel was attacked by the Jedi, he managed to repair the ship's hyperdrive, after it was disabled by Anakin Skywalker, but was captured with the rest of the crew later.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars:_Slaves_of_the_Republic",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/The_Clone_Wars:_Season_Four",
+  "/wiki/Kidnapped",
+  "/wiki/Slaves_of_the_Republic",
+  "/wiki/Escape_from_Kadavo",
+  "/wiki/Canon",
+  "/wiki/Zygerria/Legends",
+  "/wiki/Zygerrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zygerrian_Slavers_Guild",
+  "/wiki/Teek_(Zygerrian)",
+  "/wiki/Slavery/Legends",
+  "/wiki/Onyx_(individual)",
+  "/wiki/Starship/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/The_Clone_Wars_2",
+  "/wiki/Galaxy_at_War"
+ ]
+}

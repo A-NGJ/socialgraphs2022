@@ -1,0 +1,33 @@
+{
+ "name": "Jiki Reggis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jiki Reggis was a female Human who was the wife of Po Reggis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Po_Reggis",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jiki_Reggis",
+  "/wiki/Shield_of_Lies"
+ ]
+}

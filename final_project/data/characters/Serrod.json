@@ -1,0 +1,57 @@
+{
+ "name": "Serrod",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Infernal Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Serrod, also known as the Messenger, was a male Sith who was part of the Infernal Council, a group of Sith enslaved by the Rakata warlord Soa and imprisoned with him in the Eternity Vault on the planet Belsavis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Infernal_Council",
+  "/wiki/Rakata/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Soa",
+  "/wiki/Eternity_Vault",
+  "/wiki/Planet/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Serrod",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

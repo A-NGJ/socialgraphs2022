@@ -1,0 +1,76 @@
+{
+ "name": "Gazurga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sebolto's drug cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gazurga was a male Dug who worked for Sebolto. He was wanted dead by the infamous podracer Sebulba for betting against him at the Boonta Eve Classic. Sebulba considered him a traitor believing that Gazurga was bad luck to him. In 32 BBY, he was killed and his bounty collected by Jango Fett.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sebolto%27s_drug_cartel",
+  "/wiki/Sebolto",
+  "/wiki/Podracing/Legends",
+  "/wiki/Sebulba/Legends",
+  "/wiki/Boonta_Eve_Classic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

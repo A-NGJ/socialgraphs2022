@@ -1,0 +1,60 @@
+{
+ "name": "Belina",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Belina was a girlfriend of Wedge Antilles when he was growing up. She had spent several nights with Wedge during their days on Tatooine. When Wedge and Wes Janson were stranded on Hoth, Wedge would reminisce about Belina and the great times he had had with her, hoping to keep his mind off the isolation. However, thinking about Belina only made Wedge more depressed.\nDue to the dubious nature of this story and the contradictory backstory given to Wedge in Star Wars  78, it's unknown if Belina actually existed or was simply a fabrication of Wedge's story. The assertion that Wedge apparently met Belina when he was growing up on Tatooine, when he was actually from Corellia, may point more heavily towards the latter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Brown",
+  "/wiki/Black",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Wes_Janson/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Star_Wars_(1977)_78",
+  "/wiki/Corellia/Legends"
+ ]
+}

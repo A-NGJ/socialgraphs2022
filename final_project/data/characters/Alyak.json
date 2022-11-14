@@ -1,0 +1,60 @@
+{
+ "name": "Alyak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Fyodos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Roh tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alyak was a Human female native to the planet Fyodos. She was the wife of the chief of the Roh tribe, Kalor, and mother to Dubeh and Meerak.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fyodos",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Roh_tribe",
+  "/wiki/Planet/Legends",
+  "/wiki/Chief/Legends",
+  "/wiki/Kalor_(Fyodos)",
+  "/wiki/Dubeh",
+  "/wiki/Meerak",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Two",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

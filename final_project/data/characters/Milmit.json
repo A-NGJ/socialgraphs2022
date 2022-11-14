@@ -1,0 +1,76 @@
+{
+ "name": "Milmit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorga Desilijic Aarrpo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Milmit was a mercenary working for Gorga Desilijic Aarrpo after the death of Jabba Desilijic Tiure. While interrogating Onoh at Glass Mountain, he inadvertently discovered the Spirit of Jabba.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gorga_Desilijic_Aarrpo/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Onoh",
+  "/wiki/Glass_Mountain",
+  "/wiki/Spirit_of_Jabba",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Milmit",
+  "/wiki/The_Jabba_Tape",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

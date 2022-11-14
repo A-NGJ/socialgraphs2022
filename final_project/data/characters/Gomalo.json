@@ -1,0 +1,34 @@
+{
+ "name": "Gomalo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gomalo was a male Rodian slaver.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gomalo",
+  "/wiki/Portrait_of_the_Artist_as_a_Young_Rodian",
+  "/wiki/Cloak_and_Vibroblade"
+ ]
+}

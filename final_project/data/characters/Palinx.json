@@ -1,0 +1,70 @@
+{
+ "name": "Palinx",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Palinx was a Human male lieutenant who served in the Imperial Navy of the reconstituted Sith Empire during the Galactic War. Stationed aboard the treasury ship King's Ransom in 3642 BBY, he tried to apprehend intruders, but was convinced to surrender and was tied up by the Captain.\nFemale players can choose to flirt with him. If the player chooses to flirt with him, he will get killed by Vaz. The player can choose to kill him for Dark Side points.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Navy_(Sith_Empire)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Treasury_ship",
+  "/wiki/King%27s_Ransom_(treasury_ship)",
+  "/wiki/3642_BBY",
+  "/wiki/Captain/Legends",
+  "/wiki/Vaz_Traniff",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Hamber",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hamber was a male Drall guard and delivery agent who lived during the Galactic Civil War.\nSometime after 0 BBY, a spacer escorted Hamber to Ignar Ominaz.\nThough not mentioned in the quest dialogue, examining Hamber revealed him to also be a Drall guard.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Drall/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Ignar_Ominaz",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hamber"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Neesh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty Hunters' Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neesh was a male Rodian bounty hunter. When assigned to assassinate a bumbling bounty hunter named Greedo, he hired Spruch \"Warhog\" Goa to carry out the deed. Goa then encouraged Greedo to try and capture Han Solo on his own.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Neesh",
+  "/wiki/Neesh/Legends",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Bounty_Hunters%27_Guild",
+  "/wiki/Bounty_hunter",
+  "/wiki/Greedo",
+  "/wiki/Spruch_Goa",
+  "/wiki/Han_Solo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Neesh",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Star_Wars:_Force_Collection"
+ ]
+}

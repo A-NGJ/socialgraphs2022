@@ -1,0 +1,36 @@
+{
+ "name": "Borgar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borgar was a Gamorrean male guard who worked at the Santhe Shipyards on Corellia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gamorrean",
+  "/wiki/Gender",
+  "/wiki/Security_guard",
+  "/wiki/Santhe_Shipyards",
+  "/wiki/Corellia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Borgar",
+  "/wiki/The_High_Republic:_Midnight_Horizon",
+  "/wiki/The_High_Republic:_Midnight_Horizon_(audiobook)"
+ ]
+}

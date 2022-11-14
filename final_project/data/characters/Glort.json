@@ -1,0 +1,65 @@
+{
+ "name": "Glort",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Glort was a Gamorrean male who served the reconstituted Sith Empire during the Cold War with the Galactic Republic.\nIn 3643 BBY, he discovered that the Galactic Republic conducted experiments on monstrous creatures, effectively turning them into weapons. He tasked an Imperial spacer to kill the Shaclaw Breeders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Glort_slurry",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Glort",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Glort",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

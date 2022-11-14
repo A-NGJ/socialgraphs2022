@@ -1,0 +1,61 @@
+{
+ "name": "Rondar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Daimar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lamont Dynasty of Daimar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rondar was a Human man, who lived during the early years of the Galactic Empire. Rondar was the son of King Mitar of the Lamont Dynasty of Daimar and the heir to the throne of the planet Daimar in the Mid Rim. After Daimar was blockaded by the Empire, Rondar chose to remain on Daimar with his father rather than attempt to flee the world.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Daimar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lamont_Dynasty_of_Daimar",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Mitar",
+  "/wiki/Planet/Legends",
+  "/wiki/Mid_Rim",
+  "/wiki/Blockade_of_Daimar",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

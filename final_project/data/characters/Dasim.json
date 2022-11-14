@@ -1,0 +1,70 @@
+{
+ "name": "Dasim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dasim was a male Human commander of the reconstituted Sith Empire. During the Galactic War he was stationed on Voss, where he asked an Imperial for assistance in dealing with the Gormak.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss",
+  "/wiki/Gormak/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dasim",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

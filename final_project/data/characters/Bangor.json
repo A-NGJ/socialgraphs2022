@@ -1,0 +1,76 @@
+{
+ "name": "Bangor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bantha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Tahiri Veila"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bangor was the pet bantha of Tahiri Veila during her childhood as a Tusken Raider on the desert world of Tatooine.\nHe was an orphan and was found wandering alone in the desert shortly after Sliven adopted Tahiri Veila following the deaths of her parents Tryst and Cassa Veila during a Tusken Raider raid on their moisture farm. Like many other banthas, he formed a deep bond with his owner. However, unlike many other Tusken Raiders, Tahiri gave him a name. Bangor understood both Tusken and Basic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Bantha/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Sliven",
+  "/wiki/Tryst_Veila",
+  "/wiki/Cassa_Veila",
+  "/wiki/Moisture_farm/Legends",
+  "/wiki/Tusken/Legends",
+  "/wiki/Galactic_Basic_Standard/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Junior_Jedi_Knights:_Promises"
+ ]
+}

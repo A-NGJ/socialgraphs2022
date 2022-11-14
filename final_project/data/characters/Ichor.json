@@ -1,0 +1,54 @@
+{
+ "name": "Ichor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tooka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Falta"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ichor was a black-furred male tooka owned by the Dathomirian witch Falta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ichor_(disambiguation)",
+  "/wiki/Tooka",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Falta",
+  "/wiki/Dathomirian",
+  "/wiki/Witch",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Bug_(short_story)",
+  "/wiki/The_Clone_Wars:_Stories_of_Light_and_Dark"
+ ]
+}

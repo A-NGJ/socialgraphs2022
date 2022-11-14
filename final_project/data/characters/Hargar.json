@@ -1,0 +1,46 @@
+{
+ "name": "Hargar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hargar was a merchant working on the planet Onderon during the decades after the Mandalorian Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

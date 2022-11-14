@@ -1,0 +1,91 @@
+{
+ "name": "Okalin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bivall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.94 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Court of Onderon",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Okalin was a male Bivall who served the reigning king of Onderon as an advisor during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Okalin",
+  "/wiki/Okalin/Legends",
+  "/wiki/Onderon",
+  "/wiki/Bivall",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Color",
+  "/wiki/Royal_Court_of_Onderon",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/King",
+  "/wiki/Advisor",
+  "/wiki/Clone_Wars",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Okalin",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Front_Runners",
+  "/wiki/The_Soft_War",
+  "/wiki/Tipping_Points",
+  "/wiki/Encyclopedia_(StarWars.com)",
+  "/wiki/The_Topps_Company,_Inc.",
+  "/wiki/Star_Wars:_Card_Trader",
+  "/wiki/Star_Wars:_Alien_Archive",
+  "/wiki/Databank_(website)"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Govak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicAlliance Military",
+      "Alliance Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Govak was a male Human serving with the Alliance military during the Galactic Civil War. During one of his mission he, despite him being certain to be ready for the Imperials, was ambushed by a superior number of stormtroopers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Military/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Govak",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/The_Shadow_Syndicate",
+  "/wiki/Template:SWGTCG"
+ ]
+}

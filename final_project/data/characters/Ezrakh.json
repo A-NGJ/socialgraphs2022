@@ -1,0 +1,78 @@
+{
+ "name": "Ezrakh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Honoghr"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "13 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ezrakh was one of Leia Organa Solo's Noghri bodyguards. In 13 ABY he was infected by the Death Seed plague and died. While guarding Leia, he told her of his wife and children.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ezra_(disambiguation)",
+  "/wiki/Honoghr/Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Death_Seed",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "name": "Leero",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leero was a Hutt who was a self-proclaimed artist and director during the Cold War. However, Leero's holodramas were so devoid of taste that they were not sold freely in Hutt Space, so Leero hired individuals to find a market for them. Surprisingly, a primitive species treated the holodramas as divine messages, and gladly traded their wealth for them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Artist/Legends",
+  "/wiki/Director/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Holodrama/Legends",
+  "/wiki/Hutt_Space/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

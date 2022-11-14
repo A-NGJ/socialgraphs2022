@@ -1,0 +1,48 @@
+{
+ "name": "Czic",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drach'nam"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chay Praysh"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bodyguards\nCzic was one of Chay Praysh's numerous Drach'nam bodyguards. He, along with Brok, was sprayed in the face with a flammable mix of chemicals by Mara Jade, during her mission to rescue Sansia Bardrin from slavery.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drach%27nam",
+  "/wiki/Gender/Legends",
+  "/wiki/Chay_Praysh",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Brok_(Drach%27nam)",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Sansia_Bardrin",
+  "/wiki/Slavery/Legends",
+  "/wiki/Jade_Solitaire",
+  "/wiki/Tales_from_the_New_Republic"
+ ]
+}

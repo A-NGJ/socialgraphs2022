@@ -1,0 +1,55 @@
+{
+ "name": "Marn Kel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Abednedo"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Cream"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Data Seekers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marn Kel was a male Abednedo member of the Data Seekers who used his expert piloting skills to extract operatives from dangerous situations. He also trained other extraction specialists.\nDuring the Imperial blockade of the Anoat sector, Kel joined the crew of the Smuggler, who dispatched him on a variety of missions throughout the sector.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Abednedo",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Data_Seekers",
+  "/wiki/Pilot",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Galactic_Empire",
+  "/wiki/Iron_Blockade",
+  "/wiki/Anoat_sector",
+  "/wiki/The_Smuggler",
+  "/wiki/Sector"
+ ]
+}

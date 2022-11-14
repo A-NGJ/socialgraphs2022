@@ -1,0 +1,33 @@
+{
+ "name": "Seeg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seeg was a male Rodian starship racer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Seeg",
+  "/wiki/Cracken%27s_Rebel_Operatives"
+ ]
+}

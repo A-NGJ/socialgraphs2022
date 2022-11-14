@@ -1,0 +1,52 @@
+{
+ "name": "Bower",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bower was a bounty hunter and former pirate during the Galactic Civil War. When Kasey gave up piracy for the Alliance to Restore the Republic he followed her, out of loyalty and love, though he did not share her rebel leanings. He was part of the rebel cell Enid Vahr sought to establish in Byrne City just before the Demophon supernova.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kasey",
+  "/wiki/Enid_Vahr",
+  "/wiki/Byrne_City",
+  "/wiki/Demophon_(star)",
+  "/wiki/Supernova/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Beginning_of_the_End",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

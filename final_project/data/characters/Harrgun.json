@@ -1,0 +1,60 @@
+{
+ "name": "Harrgun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "5 ABY",
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harrgun was a male Wookiee who was killed during the liberation of the Wookiee homeworld Kashyyyk.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/5_ABY",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Death",
+  "/wiki/Liberation_of_Kashyyyk",
+  "/wiki/Homeworld",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Harrgun",
+  "/wiki/Aftermath:_Life_Debt",
+  "/wiki/Aftermath:_Life_Debt_(audiobook)",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/Battle_of_Endor",
+  "/wiki/4_ABY",
+  "/wiki/Shara_Bey",
+  "/wiki/Kes_Dameron",
+  "/wiki/Yavin_4",
+  "/wiki/Standard_month",
+  "/wiki/Before_the_Awakening",
+  "/wiki/Shadow_Fall",
+  "/wiki/%27ABY-BBY%27_dating_system"
+ ]
+}

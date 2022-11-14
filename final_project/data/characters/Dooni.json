@@ -1,0 +1,51 @@
+{
+ "name": "Dooni",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Foonar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dooni was a baby Foonar who lived on the forest moon of Endor. He was the offspring of the herd's leader.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Foonar",
+  "/wiki/Gender/Legends",
+  "/wiki/Dooni%27s_mother",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dooni",
+  "/wiki/Ewoks_5"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Gnosos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sunesi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Turquoise with silvery brow ridges"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "CorDuro Shipping"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gnosos was a male Sunesi who worked as a CorDuro Shipping steward on Bburru Station in 26 ABY. He did not support the company when they decided to turn Duro over to the Yuuzhan Vong. He helped Jacen Solo escape imprisonment by Durgard Brarun by providing him with a datacard with clearance to access Port Duggan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sunesi",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/CorDuro_Shipping",
+  "/wiki/Bburru_Station",
+  "/wiki/26_ABY",
+  "/wiki/Duro/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Darth_Caedus",
+  "/wiki/Durgard_Brarun",
+  "/wiki/Datacard/Legends",
+  "/wiki/Port_Duggan",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/The_New_Jedi_Order:_Balance_Point",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

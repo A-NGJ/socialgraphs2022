@@ -1,0 +1,38 @@
+{
+ "name": "Bludlow",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bludlow was a male Rodian. While on the Weigh Station Karambola, he and a group of fellow Rodians viciously beat Sardis Ramsin, who was claiming to be a bounty hunter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Bludlow",
+  "/wiki/Bludlow/Legends",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Weigh_Station_Karambola",
+  "/wiki/Sardis_Ramsin",
+  "/wiki/Bounty_hunter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bludlow",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

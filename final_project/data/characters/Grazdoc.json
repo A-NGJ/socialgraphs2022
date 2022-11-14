@@ -1,0 +1,33 @@
+{
+ "name": "Grazdoc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nebalite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grazdoc was a Nebalite trader in the Unknown Regions. Whenever he needed a face-to-face agent, he sent his protocol droid X-17-D. At some point, he was kidnapped by raiders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nebalite",
+  "/wiki/Gender/Legends",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/X-17-D",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

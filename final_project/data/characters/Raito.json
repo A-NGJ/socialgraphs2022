@@ -1,0 +1,47 @@
+{
+ "name": "Raito",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raito was a Tusken Raider known for having once killed a young Jedi. The tribe that orally recorded this event was destroyed early in galactic history, but Raito's gaderffii at some point was recovered by another tribe's Storyteller. It may have later come into the possession of Revan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Timeline_of_galactic_history/Legends",
+  "/wiki/Raito%27s_gaderffii",
+  "/wiki/Storyteller",
+  "/wiki/Revan/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

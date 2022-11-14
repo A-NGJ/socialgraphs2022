@@ -1,0 +1,62 @@
+{
+ "name": "Dezdarmu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Talz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dezdarmu was a Talz male who was a champion of his tribe during the Galactic War between the Sith Empire and the Galactic Republic. Allied with the Republic, he and his tribe captured and attempted to destroy the power station supplying the Empire's Dorn Base on the planet Hoth, but was killed by Imperial forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Talz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Dorn_Base_power_station",
+  "/wiki/Dorn_Base",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

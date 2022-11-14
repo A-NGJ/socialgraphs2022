@@ -1,0 +1,51 @@
+{
+ "name": "Jerius",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Orellon II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kentra"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jerius was the king of the Kentra during the Galactic Civil War. He was wise and a devout follower of prophet Tandre's teachings. He was very cautious and thoughtful and had great visions for his people and was mildly annoyed at the ambitious Lord Grumman Mogotah. He was a Master of the Sword.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Orellon_II",
+  "/wiki/Kentra",
+  "/wiki/Gender/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Michael_Tandre",
+  "/wiki/Lord/Legends",
+  "/wiki/Grumman_Mogotah",
+  "/wiki/Master_of_the_Sword",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Prophecy",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

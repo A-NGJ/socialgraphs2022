@@ -1,0 +1,51 @@
+{
+ "name": "Paka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kyuzo"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Paka was a Kyuzo male pirate who lived during the First Order-Resistance War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kyuzo",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Pirate",
+  "/wiki/First_Order-Resistance_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Paka",
+  "/wiki/Star_Wars_Adventures_(2020)",
+  "/wiki/The_Obstacle_Course,_Part_1",
+  "/wiki/Star_Wars_Adventures_(2020)_1",
+  "/wiki/The_Obstacle_Course,_Part_2",
+  "/wiki/Star_Wars_Adventures_(2020)_2"
+ ]
+}

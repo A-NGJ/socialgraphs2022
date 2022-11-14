@@ -1,0 +1,62 @@
+{
+ "name": "Artok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Artok was a male Human who dwelt on the frozen ice planet of Hoth in the year 3643 BBY. He made his living on the world as a vendor and merchant, selling items and material to the Galactic Republic's citizens. He wore a brown and blue uniform.\nArtok first appeared in the 2011 BioWare MMORPG Star Wars: The Old Republic for Republic allied classes. In the game, he serves as a crew skills vendor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/2011",
+  "/wiki/BioWare",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

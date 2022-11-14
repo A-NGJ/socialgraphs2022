@@ -1,0 +1,60 @@
+{
+ "name": "Laera",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Captison family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Laera was the wealthy Bakuran woman who adopted Malinza Thanas after the deaths of her parents, Pter Thanas and Gaeriel Captison.\nMalinza called her \"Aunt Laera\" and said she was the only family she had left; however, as Gaeriel only had one sister, Ylanda, and Pter's family was offworld, Laera was presumably unrelated and referred to as 'aunt' out of closeness, just as Malinza referred to Luke Skywalker as \"Uncle Luke\" and also called him family.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Gender/Legends",
+  "/wiki/Captison_family",
+  "/wiki/Malinza_Thanas",
+  "/wiki/Pter_Thanas",
+  "/wiki/Gaeriel_Captison",
+  "/wiki/Ylanda_Captison",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee"
+ ]
+}

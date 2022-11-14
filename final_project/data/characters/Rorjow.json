@@ -1,0 +1,33 @@
+{
+ "name": "Rorjow",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rorjow was a Wookiee with gray fur who wore a bandolier.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Color",
+  "/wiki/Hair",
+  "/wiki/Bandolier",
+  "/wiki/Star_Wars:_Where%27s_the_Wookiee%3F_2",
+  "/wiki/Star_Wars:_Where%27s_the_Wookiee%3F_Deluxe"
+ ]
+}

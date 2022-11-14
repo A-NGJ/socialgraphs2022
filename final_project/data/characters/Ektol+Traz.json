@@ -1,0 +1,74 @@
+{
+ "name": "Ektol Traz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Officer Corps",
+      "Imperial Navy",
+      "Imperial Officer Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ektol Traz was a human male who served as an admiral in the Imperial Navy. He commanded the Imperial Interdictor-class Star Destroyer Spectral.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Admiral",
+  "/wiki/Interdictor-class_Star_Destroyer",
+  "/wiki/Spectral",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ektol_Traz",
+  "/wiki/The_Ghost_Ship",
+  "/wiki/Star_Wars_Adventures:_Destroyer_Down",
+  "/wiki/Destroyer_Down"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Blleen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "B'omarr Monks"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Blleen was a doctor at the Citadel of B'omarr on Tatooine.\nHe saw to the recuperation of Spiker after the Beggar's Canyon incident.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/B%27omarr_Order/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Citadel_of_B%27omarr",
+  "/wiki/Spiker",
+  "/wiki/Beggar%27s_Canyon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Blleen",
+  "/wiki/The_Jabba_Tape"
+ ]
+}

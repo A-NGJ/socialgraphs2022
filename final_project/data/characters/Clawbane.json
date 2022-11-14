@@ -1,0 +1,54 @@
+{
+ "name": "Clawbane",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "K'lor'slug"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Suudaa Nem'ro"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clawbane was a massive k'lor'slug owned by the Hutt Suudaa Nem'ro and kept in the beast pit of his palace on Nal Hutta. In 3643 BBY, Clawbane and several other creatures were unleashed on a bounty hunter by Nem'ro's beast master in an attempt to kill the hunter, though they were killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/K%27lor%27slug/Legends",
+  "/wiki/Suudaa_Nem%27ro",
+  "/wiki/Hutt/Legends",
+  "/wiki/Nem%27ro%27s_Palace",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Suudaa_Nem%27ro%27s_beast_master",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

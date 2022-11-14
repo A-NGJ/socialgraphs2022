@@ -1,0 +1,69 @@
+{
+ "name": "Aderat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order military",
+      "First Order military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aderat was a human male who served the First Order as a lieutenant. He assisted with Commander Branwayne Spiftz's mission to the planet Minfar, but his failure to make progress led Spiftz to assign his duties to another officer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/First_Order_military",
+  "/wiki/Lieutenant",
+  "/wiki/Commander",
+  "/wiki/Branwayne_Spiftz",
+  "/wiki/Mission_to_Minfar",
+  "/wiki/Planet",
+  "/wiki/Minfar",
+  "/wiki/Nivers",
+  "/wiki/First_Order_officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aderat",
+  "/wiki/Spark_of_the_Resistance",
+  "/wiki/Spark_of_the_Resistance_(audiobook)"
+ ]
+}

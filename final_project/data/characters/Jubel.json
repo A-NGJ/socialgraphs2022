@@ -1,0 +1,42 @@
+{
+ "name": "Jubel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cutting Edge Clinic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jubel was the Devaronian clerk who aided Cornelius Evazan at the Cutting Edge Clinic at Mos Eisley.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Cutting_Edge_Clinic",
+  "/wiki/Cornelius_Evazan/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jubel",
+  "/wiki/West_End_Games",
+  "/wiki/The_Edge_of_Fashion",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Databank_(original)"
+ ]
+}

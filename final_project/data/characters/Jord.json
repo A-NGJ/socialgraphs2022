@@ -1,0 +1,54 @@
+{
+ "name": "Jord",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lamus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "A'Mar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jord was the leader of the A'Mar, the Human settlers of Lamus. She asked a group of offworlders to supervise Olianna when she took part in the Vigil.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jord_(disambiguation)",
+  "/wiki/Lamus",
+  "/wiki/A%27Mar",
+  "/wiki/Gender/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Olianna",
+  "/wiki/The_Vigil",
+  "/wiki/Wizards.com",
+  "/wiki/The_Wellspring",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Linna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicAce Squadron",
+      "Ace Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Linna was a Human female who piloted an A-wing under Pash Cracken's Ace Squadron.\nOne of her engines had a problem and they made a stopover at the Empress-class space station for repairs.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Ace_Squadron_(New_Republic)",
+  "/wiki/RZ-1_A-wing_interceptor/Legends",
+  "/wiki/Pash_Cracken",
+  "/wiki/J-77_Event_Horizon/Legends",
+  "/wiki/Empress-class_space_station",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

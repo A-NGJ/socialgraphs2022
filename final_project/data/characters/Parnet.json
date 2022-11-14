@@ -1,0 +1,50 @@
+{
+ "name": "Parnet",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Parnet served aboard the Imperial Star Destroyer Mark II Interrogator where he was in charge of ground forces under High Inquisitor Tremayne.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Interrogator/Legends",
+  "/wiki/High_Inquisitor",
+  "/wiki/Antinnis_Tremayne",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Longest_Fall",
+  "/wiki/Star_Wars_Adventure_Journal_11",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

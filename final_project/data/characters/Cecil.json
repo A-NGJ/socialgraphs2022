@@ -1,0 +1,39 @@
+{
+ "name": "Cecil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cecil was a Wookiee mechanic aboard the starship that he, Rosen, Benchar, and Carewa served on. He was also an excellent sabacc player.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Rosen",
+  "/wiki/Benchar",
+  "/wiki/Carewa",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cecil",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "name": "Ha'lathin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bimm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ha'lathin was a Bimm poet.\nAn original manuscript by Ha'lathin could be found among the artworks in the yacht Imru Ootmian. It had been a gift from the previous owner of the yacht to the then-current owner, Popara Anjiliac Diresto.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bimm/Legends",
+  "/wiki/Imru_Ootmian",
+  "/wiki/Popara_Anjiliac_Diresto",
+  "/wiki/Tempest_Feud"
+ ]
+}

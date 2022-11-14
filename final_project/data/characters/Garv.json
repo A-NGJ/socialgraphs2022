@@ -1,0 +1,47 @@
+{
+ "name": "Garv",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pho Ph'eah"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pho Ph'eahian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garv was a male Pho Ph'eahian mechanic who was a friend of Han Solo during the Dark Times. He helped repair the Millennium Falcon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pho_Ph%27eah/Legends",
+  "/wiki/Pho_Ph%27eahian",
+  "/wiki/Gender/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Rebellion_era",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

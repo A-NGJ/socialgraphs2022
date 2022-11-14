@@ -1,0 +1,51 @@
+{
+ "name": "Gorgo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Before 400 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorgo was a Hutt artist. He created images of Nal Hutta by exposing prothium gas to the world, resulting in \"frozen\" images of Nal Hutta from Gorgo's time. His artwork was extremely rare. Rokko the Hutt owned the last pieces of his art. Gorgo died some centuries ago before Rokko was born.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/400_BBY",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Artist/Legends",
+  "/wiki/Rokko",
+  "/wiki/Coruscant_Nights_I:_Jedi_Twilight"
+ ]
+}

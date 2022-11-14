@@ -1,0 +1,40 @@
+{
+ "name": "Fufu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fufu was an Ewok major in the Galactic Empire before the Battle of Yavin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Ewok/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Star_Wars_Detours"
+ ]
+}

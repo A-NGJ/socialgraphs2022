@@ -1,0 +1,63 @@
+{
+ "name": "Kenpa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kenpa was a Sullustan male Jedi Master of the Jedi Order during the struggle between the Galactic Republic and the reconstituted Sith Empire. He sold items aboard the Republic's Carrick Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Carrick_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kenpa",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

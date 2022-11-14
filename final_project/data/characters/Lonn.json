@@ -1,0 +1,49 @@
+{
+ "name": "Lonn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bornaryn Trading",
+      "Tradewyn"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lonn was a male Human who may have been a security officer for the Bornaryn Trading company or the Tradewyn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bornaryn_Trading",
+  "/wiki/Tradewyn",
+  "/wiki/Security_officer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lonn",
+  "/wiki/Something_Uffel",
+  "/wiki/Dark_Nest_I:_The_Joiner_King",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

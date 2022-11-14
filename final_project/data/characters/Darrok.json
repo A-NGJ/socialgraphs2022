@@ -1,0 +1,67 @@
+{
+ "name": "Darrok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darrok was a male Human Sith Lord of the Sith Empire. He was the one who received the location of Imperial Intelligence deserter Cipher Three, father of Raina Temple. Temple intercepted the message and knowing that the Sith punishment could be worse than death, killed her father herself.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Cipher_Three",
+  "/wiki/Raina_Temple",
+  "/wiki/Sith/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

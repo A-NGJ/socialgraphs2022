@@ -1,0 +1,48 @@
+{
+ "name": "Kur Ha’rangir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Ha'rangir"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Lane_Vizla",
+  "/wiki/Star_Wars:_The_Old_Republic:_Legacy_of_the_Sith"
+ ]
+}

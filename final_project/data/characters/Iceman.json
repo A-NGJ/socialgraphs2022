@@ -1,0 +1,56 @@
+{
+ "name": "Iceman",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nord system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.23 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The bounty hunter known as Iceman hailed from the Nord system, and pursued bounties around the Minos Cluster. He piloted the Sudden Death, a MRX-BR Pacifier.\nIceman was focused, had no interest in others, and showed no mercy to his targets. He was tall, athletic, and always appeared calm.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nord_system",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Minos_Cluster/Legends",
+  "/wiki/Sudden_Death",
+  "/wiki/MRX-BR_Pacifier",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters_(Second_Edition)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

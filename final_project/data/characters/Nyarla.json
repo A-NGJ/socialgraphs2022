@@ -1,0 +1,40 @@
+{
+ "name": "Nyarla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nyarla was a Hutt individual who had, at some point, left the criminal syndicate Black Sun. However, Nyarla eventually returned to Black Sun after the Hutts fell into disarray, and this information was relayed from Underboss Rynscar to the bounty hunter Jas Emari.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Black_Sun",
+  "/wiki/Vigo",
+  "/wiki/Rynscar",
+  "/wiki/Bounty_hunter",
+  "/wiki/Jas_Emari",
+  "/wiki/Aftermath:_Life_Debt",
+  "/wiki/Aftermath:_Life_Debt_(audiobook)"
+ ]
+}

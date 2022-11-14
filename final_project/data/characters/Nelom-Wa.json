@@ -1,0 +1,60 @@
+{
+ "name": "Nelom-Wa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nelom-Wa was a Voss Mystic living on Voss many years before the planet was discovered by the galactic society. His vision led to replacing a great leader of the Three with an infant child. This action saved the great leader's life during a plague, allowing him to reform the Three afterwards. Nelom-Wa recorded the event in the Writings of Nelom-Wa that were etched on a pillar erected outside the Shrine of Healing in the Old Paths.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Planet/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Three",
+  "/wiki/Writings_of_Nelom-Wa",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Old_Paths",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

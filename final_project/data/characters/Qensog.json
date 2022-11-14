@@ -1,0 +1,51 @@
+{
+ "name": "Qensog",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Herglic"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qensog was a Herglic male contact acquainted with the Nuxan Bodo Linx who resided on Brentaal IV. When Sana Starros took Leia Organa, Luke Skywalker and Han Solo to meet with Bodo, he gave Organa the contact's details.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Star_Wars_(2015)_61",
+  "/wiki/Herglic",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Nuxan",
+  "/wiki/Bodo_Linx",
+  "/wiki/Brentaal_IV",
+  "/wiki/Sana_Starros",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Han_Solo",
+  "/wiki/Star_Wars_(2015)_56"
+ ]
+}

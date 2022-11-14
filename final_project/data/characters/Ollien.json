@@ -1,0 +1,72 @@
+{
+ "name": "Ollien",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Ginger"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ollien was a male Human Commander of the reconstituted Sith Empire living during the Galactic War with the Galactic Republic. Stationed on Quesh during the Quesh war in 3642 BBY, Ollien became aware of a Republic strike force that was attempting to detonate a series of caverns under an Imperial command center. He sent the Sith apprentice of Darth Baras to deal with the problem and the Sith located and defeated Captain Trey-yen and his men just as they finished installing the explosives.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Quesh",
+  "/wiki/Quesh_war",
+  "/wiki/3642_BBY",
+  "/wiki/Empire%27s_Wrath",
+  "/wiki/Darth_Baras",
+  "/wiki/Sith/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Trey-yen",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

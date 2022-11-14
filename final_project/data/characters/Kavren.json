@@ -1,0 +1,50 @@
+{
+ "name": "Kavren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kavren was a lieutenant in the Imperial Army in the early weeks of its existence.\nHe served under Colonel Mosh Barris on the mission in which the Galactic Empire first made contact with Mitth'raw'nuruodo and was in charge of examining the crash site of a downed TIE fighter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Mosh_Barris/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Mist_Encounter",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

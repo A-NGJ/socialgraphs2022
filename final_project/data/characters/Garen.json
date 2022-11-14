@@ -1,0 +1,42 @@
+{
+ "name": "Garen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garen was a member of Republic class-seven retrieval team capable of handling ZR-57 orbital strike bombs. After one such bomb was almost set off on Voss, Garen and Jak were brought in to safely retrieve it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garen_system",
+  "/wiki/Planet/Legends",
+  "/wiki/Garen_IV/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Class-seven_retrieval_team",
+  "/wiki/ZR-57_orbital_strike_bomb",
+  "/wiki/Voss",
+  "/wiki/Jak_(technician)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

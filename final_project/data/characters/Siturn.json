@@ -1,0 +1,66 @@
+{
+ "name": "Siturn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Siturn was a male Human who served as a colonel in the Imperial Army of the reconstituted Sith Empire during the Cold War against the Galactic Republic. Siturn was stationed on the moon Nar Shaddaa where he used the astromech droid B9-D7 to communicate via hologram to Imperial aligned individuals.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Colonel/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/B9-D7",
+  "/wiki/Hologram/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

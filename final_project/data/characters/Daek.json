@@ -1,0 +1,67 @@
+{
+ "name": "Daek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Daek was a male Human orphan who lived on Mannett Point on the planet Ord Mantell. During the Separatist War, he was one of many orphans who were under the care of Doctor Jaen Kett, and the group was evacuated by the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mannett_Point",
+  "/wiki/Planet/Legends",
+  "/wiki/Separatist_War",
+  "/wiki/Doctor/Legends",
+  "/wiki/Jaen_Kett",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

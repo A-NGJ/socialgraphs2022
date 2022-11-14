@@ -1,0 +1,42 @@
+{
+ "name": "Loreza Plirr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue-black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Loreza Plirr was a female Human with extremely fine blue-black hair. She was a cartographer mapping Centerpoint Station, and was one of the pro-Corellian scientists allowed in after the Corellian government put restrictions up near the start of the Second Galactic Civil War. Her son was Deevan Plirr.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Centerpoint_Station",
+  "/wiki/Corellia/Legends",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Deevan_Plirr",
+  "/wiki/Legacy_of_the_Force:_Betrayal",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

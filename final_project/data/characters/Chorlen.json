@@ -1,0 +1,63 @@
+{
+ "name": "Chorlen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chorlen was a male Human who served the Sith Empire on the capital planet on Dromund Kaas. He made his living by working as a vendor, selling various products to the Empire's citizens. He was of average height for a Human being and had light, tan skin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chorlen",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

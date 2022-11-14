@@ -1,0 +1,47 @@
+{
+ "name": "Kel-Fi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light blue with darker blue and orange markings"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kel-Fi was a male Voss living in Voss-Ka on Voss. During the Galactic War he asked an outsider about the factions of the larger galaxy and what they meant for the Voss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss-Ka",
+  "/wiki/Voss",
+  "/wiki/Galactic_War",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

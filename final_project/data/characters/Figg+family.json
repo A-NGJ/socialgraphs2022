@@ -1,0 +1,52 @@
+{
+ "name": "Figg family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humans"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Alderaan",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Figg conglomerate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Figg family consisted of hyperspace explorer Ecclessis Figg, his Alderaanian wife Yarith, and their descendants.\nThe family founded the Figg conglomerate prior to the exploration of the Greater Javin, and maintained control over its holdings through the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Figg_conglomerate",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Ecclessis_Figg/Legends",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Yarith_Figg",
+  "/wiki/Greater_Javin/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Galactic_Gazetteer:_Hoth_and_the_Greater_Javin",
+  "/wiki/Rough_and_Tundra"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Otheros",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Striped"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Otheros was a male Cathar living during the Cold War and Galactic War.\nA proud owner of the Haven's Blaze casino on Nar Shaddaa, he used the Bounty Brokers Association to put a bounty on the gangsters from the rival Lucky Runner casino.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cathar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Arkan",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Haven%27s_Blaze",
+  "/wiki/Casino/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Bounty_Brokers_Association",
+  "/wiki/Bounty/Legends",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Lucky_Runner",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

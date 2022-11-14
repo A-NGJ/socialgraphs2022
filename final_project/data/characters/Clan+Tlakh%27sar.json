@@ -1,0 +1,46 @@
+{
+ "name": "Clan Tlakh'sar",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Clan"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clan Tlakh'sar was a Noghri clan. One member of clan Tlakh'sar, Sakhisakh, served as bodyguard to the New Republic politician Leia Organa Solo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Sakhisakh",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

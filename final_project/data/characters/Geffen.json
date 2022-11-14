@@ -1,0 +1,51 @@
+{
+ "name": "Geffen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Geffen was the first officer onboard the Imperial Navy Torpedo Sphere stationed near Tallaan, in the Tapani sector, during the Galactic Civil War. His commanding officer was Captain Edric Darius.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Unidentified_Torpedo_Sphere_(Tallaan)",
+  "/wiki/Tallaan",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Edric_Darius",
+  "/wiki/Lords_of_the_Expanse",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

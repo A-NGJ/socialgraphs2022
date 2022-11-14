@@ -1,0 +1,49 @@
+{
+ "name": "Bal Ferensil",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thaere"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bal Ferensil was a male Bothan who rose to the top ranks of Thaereian politics following the deaths of the Twi'lek sisters Aola and Mala Blen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thaereian_system",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Aola_Blen",
+  "/wiki/Mala_Blen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bal_Ferensil",
+  "/wiki/Wizards.com",
+  "/wiki/Over_Thaere"
+ ]
+}

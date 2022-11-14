@@ -1,0 +1,34 @@
+{
+ "name": "Leviani",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leviani was a female Human who worked as chief of security at the Yarith Bespin, a hotel in Cloud City, during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yarith_Bespin/Legends",
+  "/wiki/Hotel/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

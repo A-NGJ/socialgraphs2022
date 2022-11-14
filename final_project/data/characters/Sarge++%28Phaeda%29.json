@@ -1,0 +1,71 @@
+{
+ "name": "Sarge  (Phaeda)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Phaeda"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3962 BBY",
+      "Essien"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicPhaeda militia",
+      "Phaeda militia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sarge was a male human from the planet Phaeda. He was a Sergeant in the Phaeda militia, and was killed by Mandalorian Neo-Crusaders at the Battle of Essien.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/RC-1013",
+  "/wiki/Phaeda/Legends",
+  "/wiki/3962_BBY",
+  "/wiki/Essien",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Phaeda_militia",
+  "/wiki/Garcy",
+  "/wiki/Planet/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Mandalorian_Neo-Crusaders/Legends",
+  "/wiki/Battle_of_Essien",
+  "/wiki/Knights_of_the_Old_Republic:_War_1"
+ ]
+}

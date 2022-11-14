@@ -1,0 +1,37 @@
+{
+ "name": "Sata",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Umbaran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sata was an Umbaran female technician hired by Gozetta who temporarily worked alongside Lina and Milo Graf.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Umbaran",
+  "/wiki/Gender",
+  "/wiki/Technician",
+  "/wiki/Gozetta",
+  "/wiki/Lina_Graf",
+  "/wiki/Milo_Graf",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sata",
+  "/wiki/Adventures_in_Wild_Space:_The_Nest",
+  "/wiki/Adventures_in_Wild_Space:_The_Steal"
+ ]
+}

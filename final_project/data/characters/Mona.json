@@ -1,0 +1,64 @@
+{
+ "name": "Mona",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telerath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mona was a Human female living on Telerath in the city of Noua. In 19 BBY Dado, a local boy, lost his arm in an accident and Mona handled his injury and gave him a mixture that eased his pain, but was unable to provide him a proper medical aid.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telerath/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Noua",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Dado",
+  "/wiki/Dark_Times_14",
+  "/wiki/Dark_Times_15"
+ ]
+}

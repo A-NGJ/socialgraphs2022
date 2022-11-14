@@ -1,0 +1,51 @@
+{
+ "name": "Jalina",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hiironi irstat"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jalina was a female Tarasin, who lived during the waning years of the Galactic Republic.\nJalina was a member of the Hiironi irstat, a Tarasin tribe that lived on the planet Cularin. During the time of the Clone Wars, Jalina was present at a briefing in the jungles of Cularin, where Major Xirossk of the Cularin Militia sent the heroes of Cularin on a mission to find the Wyrd.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Hiironi_irstat",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Xirossk",
+  "/wiki/Cularin_Militia",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Wyrd",
+  "/wiki/Hunting_the_Wyrd"
+ ]
+}

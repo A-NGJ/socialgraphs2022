@@ -1,0 +1,30 @@
+{
+ "name": "Lokaibus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lokaibus was a Hutt living during the Galactic War, who ran a series of beast combat rings called the Slavering Arenas. In 3637 BBY a shipment of beast delivered to the arenas was hijacked by the Nova Blades pirates above Rishi and Lokaibus's servant Tibor was tasked with retrieving them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Slavering_Arenas",
+  "/wiki/3637_BBY",
+  "/wiki/Nova_Blades",
+  "/wiki/Pirate/Legends",
+  "/wiki/Rishi/Legends",
+  "/wiki/Tibor_(Rishi)",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan"
+ ]
+}

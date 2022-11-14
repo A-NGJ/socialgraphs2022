@@ -1,0 +1,60 @@
+{
+ "name": "Jamb Beetilles",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Jamb Beetilles was a male Corellian Human negotiator who attended peace negotiations that were held inside an automated facility on the moon Gus Talon during the Clone Wars, to discuss recent Separatist activity in the region. However, the negotiations were interrupted after a Separatist GNK power droid shut down the power inside the facility.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Padm%C3%A9_Amidala/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Conference_on_Gus_Talon",
+  "/wiki/Gus_Talon_diplomatic_complex",
+  "/wiki/Moon/Legends",
+  "/wiki/Gus_Talon/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/GNK_power_droid",
+  "/wiki/Power_Down",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.45"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Pok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuzzem"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Merchant from Tatooine"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pok was a male Yuzzem slave to a merchant of Anchorhead on Tatooine. He was a friend of Luke Skywalker while the young moisture farmer lived on Tatooine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuzzem",
+  "/wiki/Merchant/Legends",
+  "/wiki/Pok_(Twi%27lek)",
+  "/wiki/Pok_(Mon_Calamari)",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pok",
+  "/wiki/Splinter_of_the_Mind%27s_Eye",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Sanna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sanna was a member of the Rebel Alliance. A short Human female with curly hair, she helped establish a strike base on the Combat Moon. During a skirmish between locals and the Empire, the leader of the base was reluctant to intercede, fearing discovery. Sanna convinced him to help, and their actions resulted in the Imperials being routed, though the base had to be abandoned.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Combat_Moon",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sanna",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Combat_Moon_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

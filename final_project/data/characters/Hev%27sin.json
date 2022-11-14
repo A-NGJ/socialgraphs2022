@@ -1,0 +1,48 @@
+{
+ "name": "Hev'sin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Aargau Undercity gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hev'sin was a female Bothan who served as a spy for the same criminal organization that employed Nuri on Aargau.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Aargau_Undercity",
+  "/wiki/Spy/Legends",
+  "/wiki/Nuri",
+  "/wiki/Aargau/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hev%27sin",
+  "/wiki/Boba_Fett:_Maze_of_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

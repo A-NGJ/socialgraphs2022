@@ -1,0 +1,81 @@
+{
+ "name": "Seldin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3627 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Green Jedi",
+      "Green Jedi",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seldin was a Selonian female Jedi who served during the third Galactic War between Galactic Republic and Sith Empire. She was also a member of the Green Jedi and was killed defending the Meridian Complex from the Empire's attack.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Corellia/Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Selonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Corellian_Jedi",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Meridian_Complex",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

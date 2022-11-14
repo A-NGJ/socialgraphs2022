@@ -1,0 +1,47 @@
+{
+ "name": "Jelpel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Kajidier kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jelpel was a male Hutt who was the leader of the Kajidier Hutt clan around the time of the Galactic Civil War. Kajidier was heavily involved in the recruitment of Gamorrean security guards to serve the Hutts and Jelpel took great pride from providing his clients with security guards suited to their specific requirements.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kajidier",
+  "/wiki/Kajidic",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

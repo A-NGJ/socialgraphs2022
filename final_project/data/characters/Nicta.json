@@ -1,0 +1,52 @@
+{
+ "name": "Nicta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yavin 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gort"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Jacen Solo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nicta was Jacen Solo's childhood pet gort.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Gort",
+  "/wiki/Darth_Caedus",
+  "/wiki/Young_Jedi_Knights:_Shards_of_Alderaan",
+  "/wiki/Young_Jedi_Knights:_Diversity_Alliance",
+  "/wiki/Young_Jedi_Knights:_Delusions_of_Grandeur",
+  "/wiki/Young_Jedi_Knights:_Trouble_on_Cloud_City",
+  "/wiki/Young_Jedi_Knights:_Crisis_at_Crystal_Reef",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

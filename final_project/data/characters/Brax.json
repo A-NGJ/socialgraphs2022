@@ -1,0 +1,66 @@
+{
+ "name": "Brax",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial MilitaryRaven Squad",
+      "Raven Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Brax was a member of Raven Squad, a Special Forces unit of the Sith Empire that was deployed on Ossus during the Invasion of Ossus. While on a scouting mission for Major Anri, Brax spotted an imperial supply drop in the area, but was pinned down by hostile Mutated Geonosians before he could reach it. Brax retreated to a nearby cave, where he was located and rescued by Major Anri and the Alliance Commander. After Brax epressed his excitement over meeting the famous Commander, Major Anri ordered him to return to base and tend to his wounds.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Raven_Squad",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Imperial_Special_Forces_(Sith_Empire)",
+  "/wiki/Ossus/Legends",
+  "/wiki/Invasion_of_Ossus",
+  "/wiki/Major/Legends",
+  "/wiki/Anri",
+  "/wiki/Mutated_Geonosian",
+  "/wiki/Alliance_Commander",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

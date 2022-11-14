@@ -1,0 +1,60 @@
+{
+ "name": "Parma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Protectors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Parma was a Human male freedom fighter who lived on the planet of Mandalore. He served under Mandalorian Protector Fenn Shysa, who set his broken leg after one skirmish. Parma was present when Princess Leia Organa visited Shysa's forest base in 3 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian_Protectors/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Fenn_Shysa",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Mandalorian_forest_encampment",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Star_Wars_(1977)_68"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Bertrum",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Baron Bertrum was a noble of an unknown noble house of the Tapani sector. Lady Agatha considered him a handsome man and an appropriate suitor for one of the young nobles in her charge.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baron/Legends",
+  "/wiki/Tapani_Noble_Houses",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Agatha",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Root",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Somov Rit"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Root was the nickname of a Human male with black hair living on Somov Rit as of 1000 BBY. He was the cousin and guardian of Zannah, Darovit, and Hardin. He was an ally of the Jedi Order, a friend of Torr Snapit, and apparently a Force-sensitive.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Somov_Rit",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Hair/Legends",
+  "/wiki/1000_BBY",
+  "/wiki/Darth_Zannah/Legends",
+  "/wiki/Darovit",
+  "/wiki/Hardin",
+  "/wiki/Torr_Snapit",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Root",
+  "/wiki/Jedi_vs._Sith_1",
+  "/wiki/Darth_Bane:_Rule_of_Two",
+  "/wiki/Darth_Bane:_Rule_of_Two_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

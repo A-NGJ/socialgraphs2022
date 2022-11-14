@@ -1,0 +1,75 @@
+{
+ "name": "Guntar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 22 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeetsa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trillot"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guntar was a male Zeetsa who worked for the criminal X'Ting Trillot and took charge of bringing the drugs to Trillot's customers in the city of ChikatLik. When he brought some bad quality drugs to a pair of Chadra-Fan consumers, Trillot ordered to have Guntar's olfactory organs removed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Zeetsa",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Trillot",
+  "/wiki/X%27Ting",
+  "/wiki/City/Legends",
+  "/wiki/ChikatLik",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

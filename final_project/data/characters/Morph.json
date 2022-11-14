@@ -1,0 +1,42 @@
+{
+ "name": "Morph",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Polydroxol"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Not applicable"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Varies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morph was a Polydroxol smuggler who was associated with three other smugglers: Bruce Mercy, Durquist, and Ptak-Sok.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Polydroxol",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Bruce_Mercy",
+  "/wiki/Durquist",
+  "/wiki/Ptak-Sok",
+  "/wiki/West_End_Games",
+  "/wiki/Treasure_Hunt",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

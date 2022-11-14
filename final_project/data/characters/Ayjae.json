@@ -1,0 +1,65 @@
+{
+ "name": "Ayjae",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3951 BBY",
+      "Korriban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rutian Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Treasure Hunter"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ayjae was a male Rutian Twi'lek treasure hunter who was mauled by Tuk'ata on Korriban.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Korriban",
+  "/wiki/Rutian/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tuk%27ata/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ayjae",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

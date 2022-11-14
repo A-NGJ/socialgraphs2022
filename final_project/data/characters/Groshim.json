@@ -1,0 +1,49 @@
+{
+ "name": "Groshim",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kashirim"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Groshim was a Kashirim male who was one of King Sha-Mar Ma-dred's most trusted guards. He accompanied the King and his four wives to Coruscant, shortly before the First Battle of Geonosis, to protect the royal family while it petitioned for admittance to the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashir",
+  "/wiki/Kashirim",
+  "/wiki/Gender/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Sha-Mar_Ma-dred",
+  "/wiki/Coruscant/Legends",
+  "/wiki/First_Battle_of_Geonosis/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/A_Jedi%27s_Weapon",
+  "/wiki/Star_Wars_Tales_12",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

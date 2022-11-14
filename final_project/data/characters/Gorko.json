@@ -1,0 +1,49 @@
+{
+ "name": "Gorko",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nodo's shipyard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorko was a human male who worked at Rekias Nodo's shipyard on an unidentified planet. He was best friends with the PJ unit droid Esstee-Ninety-Three.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Nodo%27s_shipyard",
+  "/wiki/Rekias_Nodo",
+  "/wiki/Unidentified_planet_(Han_Solo)",
+  "/wiki/PJ_unit",
+  "/wiki/Droid",
+  "/wiki/Esstee-Ninety-Three",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gorko",
+  "/wiki/Choose_Your_Destiny:_A_Han_%26_Chewie_Adventure"
+ ]
+}

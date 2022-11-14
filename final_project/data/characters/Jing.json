@@ -1,0 +1,58 @@
+{
+ "name": "Jing",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Katanos VII"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY",
+      "Katanos VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jing was a Human male miner on Katanos VII. He was killed by the colony's own cloned cyborg creatures.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Katanos_VII",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Miner/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Cyborg/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jing",
+  "/wiki/Rather_Darkness_Visible",
+  "/wiki/Star_Wars_Tales_19",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Jander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zann Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jander was a male Toydarian hailing from the Mid Rim world Ord Mantell. A contact for agents of the Zann Consortium, he was stationed in Worlport during the Galactic Civil War. He was contacted by Venlana Sipal and assigned to meet with agents of the Consortium in relationship to an investigation into the Veiled Sorority. Reaching out to Illo Vandin, Jander arranged a meeting between the Consortium's agents and the famed gambler.\nJander maintained an appearance of being constantly irritated and having no patience for beings that wasted his time. While this was an act to keep others in their place, Jander was quick to falter when threats of violence were thrown his way.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zann_Consortium/Legends",
+  "/wiki/Mid_Rim",
+  "/wiki/Planet/Legends",
+  "/wiki/Worlport/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Venlana_Sipal",
+  "/wiki/Veiled_Sorority/Legends",
+  "/wiki/Illo_Vandin",
+  "/wiki/Gambling/Legends",
+  "/wiki/Mask_of_the_Pirate_Queen"
+ ]
+}

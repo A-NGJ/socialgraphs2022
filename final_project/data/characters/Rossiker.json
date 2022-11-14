@@ -1,0 +1,73 @@
+{
+ "name": "Rossiker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Military",
+      "Republic Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rossiker was a Human male sergeant in the Republic Military during the Battle of Corellia of the Galactic War. He was stationed at the Drall Library near Capitol Square where he met the Barsen'thor who was in search for the First Son and Guardian Hold One. He assisted the Jedi and the Rift Alliance in triangulating the bunker's position with communication points around the Square.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Galactic_War",
+  "/wiki/Drall_Library",
+  "/wiki/Syo_Bakarn",
+  "/wiki/Guardian_Hold_One",
+  "/wiki/Jedi/Legends",
+  "/wiki/Rift_Alliance",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Corellia/Legends"
+ ]
+}

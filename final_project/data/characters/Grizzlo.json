@@ -1,0 +1,48 @@
+{
+ "name": "Grizzlo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grizzlo, also known as Old Grizzy or Grizzy Two Tone, was a male Twi'lek who lived during the time of the Galactic Civil War. At some point he was a musician, but later retired.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Musician",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Grizzlo",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

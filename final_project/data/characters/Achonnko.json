@@ -1,0 +1,66 @@
+{
+ "name": "Achonnko",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rryatt Trail"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Achonnko was a Wookiee Master Trail Guide of the Rryatt Trail, who had navigated the entire trail himself. He helped many adventurers survive the Rryatt Trail, and he always wore his ceremonial armor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rryatt_Trail",
+  "/wiki/Master_Trail_Guide",
+  "/wiki/Kashyyykian_ceremonial_armor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Achonnko",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Star_Wars_Galaxies:_The_Total_Experience:_Prima_Official_Game_Guide"
+ ]
+}

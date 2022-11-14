@@ -1,0 +1,25 @@
+{
+ "name": "Owell",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Owell was a Ferroan who lived on Zonama Sekot.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ferroan",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

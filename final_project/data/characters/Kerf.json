@@ -1,0 +1,50 @@
+{
+ "name": "Kerf",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kerf was a major in the Imperial Remnant and part of spaceport control on Bastion. He informed Moff Vilim Disra of Admiral Gilad Pellaeon's arrival on one occasion.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Major/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Bastion/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Vilim_Disra",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

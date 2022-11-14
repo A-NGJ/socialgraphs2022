@@ -1,0 +1,76 @@
+{
+ "name": "Rabutz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Solem"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified Solem species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rabutz was a native of the planet Solem during the Galactic Civil War. He worked as shoemaker in the city of G'ai Solem and was a contact of a resistance movement against the planetary Governor, Malvander Bren.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Solem",
+  "/wiki/Unidentified_Solem_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/City/Legends",
+  "/wiki/G%27ai_Solem",
+  "/wiki/Governor/Legends",
+  "/wiki/Malvander_Bren",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rabutz",
+  "/wiki/Empire_7",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

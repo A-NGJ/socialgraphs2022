@@ -1,0 +1,58 @@
+{
+ "name": "Chary",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal House of Naboo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chary was a male bodyguard of Ars Veruna, serving under Captain Maris Magneta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_House_of_Naboo/Legends",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Ars_Veruna/Legends",
+  "/wiki/Maris_Magneta",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

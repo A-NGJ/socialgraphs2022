@@ -1,0 +1,63 @@
+{
+ "name": "Opdoa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Goa-Ato"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Opdoa was a male Rodian who lived during the Galactic Civil War. A member of the Goa-Ato, Opdoa served on a committee that matched hunters with bounties. It was he and Nilesk who sent Fask Eelak of the An'yettu clan to apprehend the Wookiee Gerraba.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Goa-Ato/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Nilesk",
+  "/wiki/Fask_Eelak",
+  "/wiki/An%27yettu_clan",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gerraba",
+  "/wiki/West_End_Games",
+  "/wiki/New_Assignments",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

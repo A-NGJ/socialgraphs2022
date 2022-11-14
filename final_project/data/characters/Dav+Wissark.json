@@ -1,0 +1,64 @@
+{
+ "name": "Dav Wissark",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Demar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ti'mere's InfoServices"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dav Wissark was a slicer who worked for Byro Ti'mere at Ti'mere's InfoServices.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Demar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ti%27mere%27s_InfoServices",
+  "/wiki/Slicer/Legends",
+  "/wiki/Byro_Ti%27mere",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dav_Wissark",
+  "/wiki/Flashpoint!_Brak_Sector"
+ ]
+}

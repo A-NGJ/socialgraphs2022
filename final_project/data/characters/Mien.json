@@ -1,0 +1,50 @@
+{
+ "name": "Mien",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Culpharm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mien was a male Sullustan, who worked for the company Culpharm on the planet Cularin, during the time of the Galactic Republic.\nMien was employed by Culpharm as a security guard and in 32 BBY, along with the Sullustan Blut, he was sent to the house of the Cerean Waz-alem Amir, to collect a specimen sample for Culpharm. The following day, he was present in the Culpharm Headquarters Building, in the city of Hedrett.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Culpharm",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Blut",
+  "/wiki/Cerean/Legends",
+  "/wiki/Waz-alem_Amir",
+  "/wiki/Hedrett",
+  "/wiki/Mix_and_Match"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Lorna Loquoy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorna Loquoy was a female Human moisture farmer who lived on Tatooine along with her husband Burdo and her daughter Jent.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Burdo_Loquoy",
+  "/wiki/Jent_Loquoy",
+  "/wiki/Wizards.com",
+  "/wiki/Genius_Womp_Rat"
+ ]
+}

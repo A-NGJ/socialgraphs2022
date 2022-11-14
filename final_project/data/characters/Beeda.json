@@ -1,0 +1,38 @@
+{
+ "name": "Beeda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "3.9 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beeda was a Hutt who owned a floating casino.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Beeda",
+  "/wiki/Cat_and_Mouse_(adventure)"
+ ]
+}

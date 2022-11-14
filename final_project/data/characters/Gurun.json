@@ -1,0 +1,59 @@
+{
+ "name": "Gurun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gurun was a Rodian swoop technician met by Meetra Surik on Nar Shaddaa. He enjoyed the view of the city.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/City/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gurun",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

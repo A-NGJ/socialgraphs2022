@@ -1,0 +1,65 @@
+{
+ "name": "Kejas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Melida"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kejas was a male Melida from the planet Melida/Daan. He served as part of a four-man sniper task force with Moahdi, Herut, and their leader, Wehutti while waiting for emissaries from the Jedi Temple to arrive. The task force attacked Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi, mistaking them for Daan enemies instead of their Jedi contacts, but the combatants recognized their blunder before anyone was seriously harmed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Melida",
+  "/wiki/Planet/Legends",
+  "/wiki/Sniper/Legends",
+  "/wiki/Moahdi",
+  "/wiki/Herut",
+  "/wiki/Wehutti",
+  "/wiki/Jedi_Temple",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Daan_(people)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Defenders_of_the_Dead"
+ ]
+}

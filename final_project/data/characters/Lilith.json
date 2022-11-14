@@ -1,0 +1,55 @@
+{
+ "name": "Lilith",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lilith was a Human female Jedi trainee who served the Jedi Order during the final years of the Galactic Republic. When the Great Jedi Purge was initiated, she betrayed her fellow Jedi and joined the Galactic Empire. She then helped hunt down survivors of Order 66 and led the Imperial forces in attacking Arrakan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Great_Jedi_Purge/Legends",
+  "/wiki/Order_66/Legends",
+  "/wiki/Arrakan",
+  "/wiki/Valkyrie",
+  "/wiki/Flight_of_the_Jedi",
+  "/wiki/Valkyrie_19",
+  "/wiki/Valkyrie_20"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Dengril",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic MilitaryRepublic Special Forces Division",
+      "Havoc Squad",
+      "Republic MilitaryRepublic Special Forces Division",
+      "Havoc Squad",
+      "Republic Special Forces Division",
+      "Havoc Squad",
+      "Havoc Squad",
+      "Eternal Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dengril was a male Human who served in the Republic Army as a member of Havoc Squad, an elite unit in the Republic Special Forces Division. He served under Major Aric Jorgan in the years after the Eternal Empire's conquest of the galaxy, and participated in Jorgan's guerrilla war against Zakuul after they went rogue.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Republic_Special_Forces_Division",
+  "/wiki/Havoc_Squad",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Republic_Army",
+  "/wiki/Major/Legends",
+  "/wiki/Aric_Jorgan",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Eternal_Empire_conquest",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Zakuul",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

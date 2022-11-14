@@ -1,0 +1,40 @@
+{
+ "name": "Lookout",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Subnode"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kud'ar Mub'at"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lookout was one of the subnodes of the legendary Assembler arachnid Kud'ar Mub'at.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Subnode",
+  "/wiki/Kud%27ar_Mub%27at",
+  "/wiki/Assembler",
+  "/wiki/Spider/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lookout",
+  "/wiki/The_Mandalorian_Armor",
+  "/wiki/Databank_(original)"
+ ]
+}

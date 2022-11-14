@@ -1,0 +1,71 @@
+{
+ "name": "Plodd",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plodd was a Human male lieutenant in the Imperial Military of the Sith Empire during the Galactic War with the Galactic Republic. During the invasion of Belsavis, Plodd was part of the Imperial forces stationed at the Imperial Domination Outpost in the High Security Section of the planet Belsavis.\nLieutenant Plod appears as a Classic Gear Vendor for Imperial players on Belsavis in the video game Star Wars: The Old Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Imperial_Domination_Outpost",
+  "/wiki/High_Security_Section",
+  "/wiki/Planet/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Malisan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malisan was a male Twi'lek working as a nerf herder for Seth Horgon during the Galactic Civil War. He killed Seth when he refused to sell his indenture to Alchibi Des.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nerf_herder/Legends",
+  "/wiki/Seth_Horgon",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alchibi_Des",
+  "/wiki/Far_Horizons"
+ ]
+}

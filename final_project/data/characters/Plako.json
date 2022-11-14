@@ -1,0 +1,57 @@
+{
+ "name": "Plako",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Plagen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chikarri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.5 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plako was a Chikarri mechanic who knew the location of the legendary ship Fool's Gold. Bruce Mercy and his pirate band attempted to steal this information.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Plagen",
+  "/wiki/Chikarri",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Technician/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Fool%27s_Gold",
+  "/wiki/Bruce_Mercy",
+  "/wiki/Pirate/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Treasure_Hunt",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Markand",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Markand was a High Admiral in the Imperial Navy during the Galactic Civil War. He received a copy of a message from Governor Mirash Peet of Indupar to Commodore Gor Lequar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/High_Admiral",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Mirash_Peet",
+  "/wiki/Indupar",
+  "/wiki/Commodore/Legends",
+  "/wiki/Gor_Lequar",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Casual Retort",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fathier"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canto Bight racetrack"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Casual Retort was a fathier stallion owned by Pinrado Jozo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Fathier",
+  "/wiki/Canto_Bight_racetrack",
+  "/wiki/Gender",
+  "/wiki/Pinrado_Jozo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Casual_Retort",
+  "/wiki/Hear_Nothing,_See_Nothing,_Say_Nothing",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

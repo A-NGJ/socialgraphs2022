@@ -1,0 +1,52 @@
+{
+ "name": "Ladira",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ladira was a female Devaronian Information broker, who operated in Mos Eisley during the Galactic Civil War. She pretended to be sympathetic to both the Galactic Empire and the Rebel Alliance, so that she could get business from both factions. After Momaw Nadon was kidnapped by crime lord Centa Sonhan, Ladira gave the Rebel Alliance the location of Centa Sonhan's sail barge, where Nadon was being held. However, she didn't want to compromise her relations with the Empire, so she also arranged for some stormtroopers to intercept the Rebels.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Momaw_Nadon/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Centa_Sonhan",
+  "/wiki/Centa_Sonhan%27s_sail_barge",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/The_Storm%27s_Edge"
+ ]
+}

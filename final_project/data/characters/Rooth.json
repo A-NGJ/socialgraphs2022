@@ -1,0 +1,36 @@
+{
+ "name": "Rooth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yarin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rooth was a female Yarin visitor to the Canto Casino. She played Zinbiddle with Tezzie and Kaljach Sonmi early in the evening. She had fertilizer factories.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gender",
+  "/wiki/Canto_Casino_and_Racetrack",
+  "/wiki/Zinbiddle",
+  "/wiki/Tezzie",
+  "/wiki/Kaljach_Sonmi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rooth",
+  "/wiki/The_Ride",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

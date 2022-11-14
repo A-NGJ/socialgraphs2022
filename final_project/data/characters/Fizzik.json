@@ -1,0 +1,62 @@
+{
+ "name": "Fizzik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "X'Ting"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Five Families",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fizzik was a male X'Ting from Ord Cestus. who served as the broodmate of gang leader Trillot, who later became leader of Cestus Cybernetics. Prior to the Clone Wars, Trillot ordered Fizzik to escort Asajj Ventress through the warrens. After the Mission to Ord Cestus and Trillot's death at the hands of Ventress for her failure, Fizzik took control of his late sister's crime organization as the planet joined the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/X%27Ting",
+  "/wiki/Gender/Legends",
+  "/wiki/Five_Families",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Trillot",
+  "/wiki/Cestus_Cybernetics",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/Mission_to_Ord_Cestus",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

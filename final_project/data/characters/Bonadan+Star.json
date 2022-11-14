@@ -1,0 +1,87 @@
+{
+ "name": "Bonadan Star",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "30 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fathier"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canto Bight racetrack"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Pakkerd Racing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bonadan Star was a fathier gelding owned by Pakkerd Racing. Born in 30 ABY to Etti Express and Farana's Folly, he grew up to become a racing fathier. Ridden by the jockey Turcotte Bel Mont, Bonadan Star participated in a race that occurred shortly before the Battle of Crait.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/30_ABY",
+  "/wiki/Fathier",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Canto_Bight_racetrack",
+  "/wiki/Reproduction",
+  "/wiki/Etti_Express",
+  "/wiki/Farana%27s_Folly",
+  "/wiki/Jockey",
+  "/wiki/Turcotte_Bel_Mont",
+  "/wiki/Battle_of_Crait",
+  "/wiki/The_Last_Jedi:_Rose_Tico:_Resistance_Fighter",
+  "/wiki/Rose_Tico",
+  "/wiki/Finn",
+  "/wiki/Mission_to_Canto_Bight",
+  "/wiki/Canto_Bight",
+  "/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+  "/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY"
+ ]
+}

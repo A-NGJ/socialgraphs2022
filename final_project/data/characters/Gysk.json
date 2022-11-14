@@ -1,0 +1,77 @@
+{
+ "name": "Gysk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kintan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kadas'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gysk was a male Kadas'sa'Nikto terrorist who was supplying ordnance for a Separatist terror net on Coruscant during the Clone Wars. In 21 BBY, he was captured by Omega Squad during a TIOPS mission in the Tynna sector. He was later unsuccessfully interrogated by Walon Vau and then executed, along with his accomplices Farr Orjul and M'truli.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kintan/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Kadas%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Omega_Squad",
+  "/wiki/Traffic_Interdiction_Operations",
+  "/wiki/Mission_to_the_Corellian-Perlemian_Intersection",
+  "/wiki/Tynna_sector",
+  "/wiki/Walon_Vau",
+  "/wiki/Farr_Orjul",
+  "/wiki/M%27truli",
+  "/wiki/Republic_Commando:_Triple_Zero",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

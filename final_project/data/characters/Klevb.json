@@ -1,0 +1,47 @@
+{
+ "name": "Klevb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Carest 1"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jiivahar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klevb was a Jiivahar from Carest 1. He was made an outcast from his talin and subsequently left his homeworld. He became a gun-for-hire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Carest_1",
+  "/wiki/Jiivahar",
+  "/wiki/Gender/Legends",
+  "/wiki/Talin",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

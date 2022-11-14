@@ -1,0 +1,43 @@
+{
+ "name": "Chalik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Ilum"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Talz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chalik was a male Talz commander of the Galactic Republic stationed on Ilum during the Battle of Ilum, where he was killed by Imperials.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Ilum",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

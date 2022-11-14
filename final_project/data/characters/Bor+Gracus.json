@@ -1,0 +1,67 @@
+{
+ "name": "Bor Gracus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sluis Van"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bor Gracus was a male Human Senator who represented Sluis Van and the Sluis sector in the Galactic Senate.\nHe attended the Eriadu Trade Summit in 33 BBY on behalf of both the Galactic Republic and his homeworld. He was in league with Senator Palpatine, who favored him due to the Sluis Van Shipyards. He was succeeded as senator by Corlissi Ludar.\nDarth Plagueis states that, before entering the Senate, Gracus served as an aide to Ranulph Tarkin. This may be a mistake, given that their planets were in different sectors.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sluis_Van/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Sluis_sector/Legends",
+  "/wiki/Eriadu_Trade_Summit",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Sluis_Van_Shipyards",
+  "/wiki/Corlissi_Ludar",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Ranulph_Tarkin/Legends",
+  "/wiki/Darth_Plagueis_(audiobook)",
+  "/wiki/Cloak_of_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

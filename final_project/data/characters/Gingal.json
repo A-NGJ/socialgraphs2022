@@ -1,0 +1,67 @@
+{
+ "name": "Gingal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gingal was a Mon Calamari who served as the New Republic's Watch Commander at the Xyquine base. As Pash Cracken's commanding officer, he was prepared to order a retreat from Xyquine when Imperial forces attacked; it was the quick counter order by Cracken that allowed the bulk of the fleet to be saved. This maneuver went on to be named the Cracken Twist.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Watch_Commander",
+  "/wiki/Xyquine_base",
+  "/wiki/Pash_Cracken",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Cracken_Twist",
+  "/wiki/The_Last_Command_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

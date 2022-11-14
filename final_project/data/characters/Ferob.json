@@ -1,0 +1,53 @@
+{
+ "name": "Ferob",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ferob was an officer in the Imperial Navy, captain of the Iron Fist.\nHe served in the Unknown Regions with Thrawn and helped subjugate UR41-284. Despite serving with Thrawn, he was a humanocentrist.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Iron_Fist_(Victory-class)",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/UR41-284",
+  "/wiki/Humanocentrism",
+  "/wiki/West_End_Games",
+  "/wiki/In_the_Unknown_Regions",
+  "/wiki/Dark_Force_Rising_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

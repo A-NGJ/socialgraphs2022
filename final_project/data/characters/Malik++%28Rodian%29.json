@@ -1,0 +1,49 @@
+{
+ "name": "Malik  (Rodian)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malik was a male Rodian, who lived during the early years of the Galactic Empire. Malik lived on the planet of Byrsym, where he worked as a translator for the Imperial forces there. He was an acquaintance of the Sullustan Nib Nubbu and had a deep, unrequited love for Nubbu's sister, Numa Nubbu.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Byrsym",
+  "/wiki/Interpreter",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Nib_Nubbu",
+  "/wiki/Numa_Nubbu",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

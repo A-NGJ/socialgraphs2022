@@ -1,0 +1,38 @@
+{
+ "name": "Pruss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sedrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Males"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pruss was a Sedrian hunter, and the son of dissident who opposed the current Sedrian rulers. In the wake of the Golden Sun incident, Pruss ventured into the abandoned Imperial Aquatic Garrison after observing the Kerestian assassin Limna Yith hiding an object inside. The object—the Barani List—caused a mercenary band under the leadership of Gyran to massacre the dissidents to retrieve it, leaving Pruss as the only survivor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sedrian",
+  "/wiki/Gender/Legends",
+  "/wiki/Golden_Sun",
+  "/wiki/Imperial_Aquatic_Garrison",
+  "/wiki/Kerestian/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Limna_Yith",
+  "/wiki/Barani_List",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Gyran",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

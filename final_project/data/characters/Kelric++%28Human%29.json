@@ -1,0 +1,78 @@
+{
+ "name": "Kelric  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelric was a Human male who served as Supreme Commander in the military forces of House Organa, a noble house of the planet Alderaan aligned with the Galactic Republic in the Alderaan Civil War. He was stationed in the northern section of the Organa estate, in the Glarus Valley, but was killed by Imperial forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Supreme_Commander",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/House_Organa_(estate)",
+  "/wiki/Glarus_Valley",
+  "/wiki/Death/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

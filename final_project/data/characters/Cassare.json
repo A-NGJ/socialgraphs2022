@@ -1,0 +1,61 @@
+{
+ "name": "Cassare",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Cassare was a Human female who served as Imperial soldier under the reconstituted Sith Empire. She was present in the Imperial Command Center on Ossus during the Empire's invasion of the planet.\nMajor Cassare serves as a reputation-vendor on the Imperial Side at Ossus within the game Star Wars: The Old Republic: Knights of the Eternal Throne.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Major/Legends",
+  "/wiki/Imperial_soldier",
+  "/wiki/Strike_Base_XR-484",
+  "/wiki/Ossus/Legends",
+  "/wiki/Invasion_of_Ossus",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

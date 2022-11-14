@@ -1,0 +1,51 @@
+{
+ "name": "Prodoranya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown-tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Prodoranya was a Hutt crime lord who worked with the Hutt Cartel in 3638 BBY. He had also ran an industrial moon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/3638_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Prodoranya",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

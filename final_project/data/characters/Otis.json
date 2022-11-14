@@ -1,0 +1,56 @@
+{
+ "name": "Otis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Edan II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Otis' Livery"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Otis lived in Southview Village on the planet Edan II. He ran a local business, Otis' Livery, from which he sold and repaired farming equipment for the local villagers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Edan_II/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Otis%27_Livery",
+  "/wiki/Southview_Village",
+  "/wiki/Planet/Legends",
+  "/wiki/Introductory_Adventure_Game"
+ ]
+}

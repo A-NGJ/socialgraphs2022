@@ -1,0 +1,70 @@
+{
+ "name": "Orvak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "23 ABY",
+      "Yavin 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Second Imperium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Orvak was an Imperial officer who, from his TIE stealth, led a TIE Fighter attack during the battle of the Jedi Praxeum on Yavin 4.\nAccompanied by his subordinate Dareb, Commander Orvak flew under the Jedi Praxeum's shield and blew up the shield generators using thermal detonators. He then sneaked into the Great Temple where he planted further detonators. He was bitten by a crystal snake and only regained consciousness as his bombs were about to explode. Orvak was killed in the blast.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/23_ABY/Legends",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Second_Imperium",
+  "/wiki/Commander/Legends",
+  "/wiki/TIE_stealth",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Third_Battle_of_Yavin",
+  "/wiki/Dareb",
+  "/wiki/Jedi_Praxeum",
+  "/wiki/Deflector_shield/Legends",
+  "/wiki/Deflector_shield_generator/Legends",
+  "/wiki/Thermal_detonator/Legends",
+  "/wiki/Great_Temple/Legends",
+  "/wiki/Crystal_snake",
+  "/wiki/Young_Jedi_Knights:_Jedi_Under_Siege",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

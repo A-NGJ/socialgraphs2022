@@ -1,0 +1,41 @@
+{
+ "name": "Flaygin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Flaygin was a retired salvager who resided in Farpoint on Fhost at the time that Jaden Korr came to the planet. He was one of four players in the sabacc game that ended in a brawl.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Farpoint",
+  "/wiki/Fhost",
+  "/wiki/Jaden_Korr",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Brawl_in_the_Black_Hole",
+  "/wiki/Crosscurrent"
+ ]
+}

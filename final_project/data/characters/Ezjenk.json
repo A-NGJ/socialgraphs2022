@@ -1,0 +1,56 @@
+{
+ "name": "Ezjenk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ezjenk was a Jawa of Nebit's tribe. He was the tribe's restraining bolt applier. He wore a cuirass made of woodoo-leather. He also put the restraining bolt on R2-D2 and C-3PO.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Nebit/Legends",
+  "/wiki/Restraining_bolt/Legends",
+  "/wiki/Woodoo/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/StarWars.com",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

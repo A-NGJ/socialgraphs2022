@@ -1,0 +1,52 @@
+{
+ "name": "Neelo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Frozen Wampas"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neelo was a Togruta male that resided in Black Spire Outpost on Batuu. He and the human Fawn were musicians, and occasionally played at Oga Garra's cantina.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Togruta",
+  "/wiki/Gender",
+  "/wiki/Frozen_Wampas",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Batuu",
+  "/wiki/Human",
+  "/wiki/Fawn",
+  "/wiki/Musician",
+  "/wiki/Oga_Garra",
+  "/wiki/Oga%27s_Cantina",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Neelo",
+  "/wiki/A_Crash_of_Fate",
+  "/wiki/A_Crash_of_Fate_(audiobook)"
+ ]
+}

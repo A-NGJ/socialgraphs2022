@@ -1,0 +1,54 @@
+{
+ "name": "Skaak Tippers  (slicer)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skaak Tippers was a Corellian male slicer. The Gran farmers of the Kemalo Farming Cluster hired Skaak Tippers to run their farms remotely through slicing droids, but the slicer blackmailed the farmers, forcing them to pay credits. When the farmers ran out of credits, Skaak Tippers programmed their droids to turn against the farmers and attack them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Skaak_Tippers_(slicer)",
+  "/wiki/Tipper",
+  "/wiki/Corellia",
+  "/wiki/Human",
+  "/wiki/Corellian",
+  "/wiki/Gender",
+  "/wiki/Slicer",
+  "/wiki/Gran",
+  "/wiki/Farmer",
+  "/wiki/Kemalo_Farming_Cluster",
+  "/wiki/Farm",
+  "/wiki/Droid",
+  "/wiki/Credit",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Skaak_Tippers_(slicer)",
+  "/wiki/Knights_of_Fate"
+ ]
+}

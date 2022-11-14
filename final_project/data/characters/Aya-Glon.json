@@ -1,0 +1,51 @@
+{
+ "name": "Aya-Glon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lew'el"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aya-Glon was a twelve-year old Lew'elan who befriended Luke Skywalker when he came to her homeworld to study her people's knowledge of the Force.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lew%27el",
+  "/wiki/Human",
+  "/wiki/Lew%27elan",
+  "/wiki/Gender",
+  "/wiki/The_galaxy",
+  "/wiki/Standard_year",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Homeworld",
+  "/wiki/The_Force",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aya-Glon",
+  "/wiki/The_Legends_of_Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker_(audiobook)"
+ ]
+}

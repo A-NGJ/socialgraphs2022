@@ -1,0 +1,73 @@
+{
+ "name": "Rarkgah",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rarkgah was a male Weequay who lived on the moon Nal Hutta during the Cold War between the Galactic Republic and the reconstituted Sith Empire. During the war he held the rank of Security Chief for the Red Light Sector where the Bleeder gang were active. Fearing the gang had grown too powerful and that the Hutt Cartel was doing nothing about it, Rarkgah asked a Republic-aligned individual to travel into the sector and activate a merchant turret to hold off the Bleeders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Chief_of_Security/Legends",
+  "/wiki/Red_Light_Sector_(Nar_Shaddaa)",
+  "/wiki/Bleeder",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Merchant/Legends",
+  "/wiki/Turret/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

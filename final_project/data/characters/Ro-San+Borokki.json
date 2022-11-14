@@ -1,0 +1,51 @@
+{
+ "name": "Ro-San Borokki",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty Hunters' Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ro-San Borokki was a female Human member of the Bounty Hunters' Guild. An 18-year veteran of the Guild, Borokki served as Director of Training for the Guild, sometime during the tenure of Cradossk as the Guild's Head.\nDuring her time as Director of Training, Ro-San had contributed to the Bounty Hunters Guild Handbook. Titled \"The Hunt\", Borokki's contribution to the handbook covered the SEPI principle and how to survive a hunt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Cradossk/Legends",
+  "/wiki/Bounty_Hunters_Guild_Handbook",
+  "/wiki/The_Bounty_Hunter_Code:_From_the_Files_of_Boba_Fett"
+ ]
+}

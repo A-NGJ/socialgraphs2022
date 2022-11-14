@@ -1,0 +1,53 @@
+{
+ "name": "Branak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Branak was a Twi'lek male free-trader from Ryloth. By 3 BBY, he often visited Kabaira where he played sabacc with his friends Tere Metallo, Menise, Treimar and Del Hunter in Drayhar's Cantina.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Free-trader",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Kabaira",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Tere_Metallo",
+  "/wiki/Menise",
+  "/wiki/Treimar",
+  "/wiki/Del_Hunter",
+  "/wiki/Drayhar%27s_Cantina",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Passages",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

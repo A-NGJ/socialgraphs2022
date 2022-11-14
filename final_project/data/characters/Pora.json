@@ -1,0 +1,50 @@
+{
+ "name": "Pora",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Internal Security Branch"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Pora was the Second in Command of the security forces posted to the Technical Branch Outpost on the planet Lotide. In reality, Pora was actually a captain in the Internal Security Branch and was investigating Captain Hawra for corruption. Pora planned to kill Hawra if the charges were proved.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Internal_Security_Branch",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Technical_Branch_Outpost_(Lotide)",
+  "/wiki/Planet/Legends",
+  "/wiki/Lotide",
+  "/wiki/Captain/Legends",
+  "/wiki/Hawra",
+  "/wiki/Death/Legends",
+  "/wiki/Black_Ice_(adventure)"
+ ]
+}

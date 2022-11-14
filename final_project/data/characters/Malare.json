@@ -1,0 +1,54 @@
+{
+ "name": "Malare",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue-gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malare was a female Twi'lek who had been employed to serve as a governess for Bastila Shan before Shan was given to the Jedi Order as a young girl. Many years later, Malare again encountered Shan while the Jedi was traveling with the amnesiac former Sith Lord Revan, during their search for the Star Maps. In the conversation that followed, Malare told Bastila that her mother, Helena, was ill and that she was attempting to locate her daughter. When asked, the Twi'lek informed the party that the elder Shan was awaiting them in Anchorhead, on the desert world of Tatooine.\nLike many of the other side quest characters, Malare is randomly spawned on one of the planets that the player visits after the necessary game triggers have been activated; in this case, having Bastila Shan tell the player about her family in addition to arriving at a spaceport with Shan in the group. If the meeting occurs on Tatooine itself, Malare will simply state that Helena Shan is on that world and waiting.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bastila_Shan",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Star_Map",
+  "/wiki/Helena_Shan",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

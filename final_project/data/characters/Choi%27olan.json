@@ -1,0 +1,39 @@
+{
+ "name": "Choi'olan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Olan Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Choi'olan was a member of the wealthy Olan Clan on Ryloth. Choi'olan offered to pay 25,000 credits for a sheet of transparisteel measuring four meters high, six meters long, and one meter thick.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Olan_Clan",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Transparisteel/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

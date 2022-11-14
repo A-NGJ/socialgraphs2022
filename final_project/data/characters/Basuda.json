@@ -1,0 +1,47 @@
+{
+ "name": "Basuda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Contraband Resale Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Basuda was a Hutt representative of the Contraband Resale Corporation—a company owned by the Hutt Cartel—residing on Carrick Station during the Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Contraband_Resale_Corporation",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Carrick_Station",
+  "/wiki/Galactic_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Basuda",
+  "/wiki/Cartel_Market"
+ ]
+}

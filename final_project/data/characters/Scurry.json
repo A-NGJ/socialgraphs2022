@@ -1,0 +1,64 @@
+{
+ "name": "Scurry",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferbil"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "V-Davi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scurry was a young ferbil native to Kegan. It was one of V-Davi's two pet ferbils. Owning pets was forbidden in Kegan, so when O-Bin discovered it, she ordered V-Tarz to eliminate Scurry, along with V-Davi's other baby ferbil and two lizards.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Ferbil/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/V-Davi",
+  "/wiki/O-Bin",
+  "/wiki/V-Tarz",
+  "/wiki/Lizard/Legends",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth"
+ ]
+}

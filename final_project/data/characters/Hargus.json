@@ -1,0 +1,34 @@
+{
+ "name": "Hargus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hargus was an old employer of Nath Tensent when he was escorting and defending cargo ships with his fighter.\nHargus was appeared in the 2021 novel Victory's Price, written by Alexander Freed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Nath_Tensent",
+  "/wiki/2021",
+  "/wiki/Victory%27s_Price",
+  "/wiki/Alexander_Freed",
+  "/wiki/Victory%27s_Price_(audiobook)"
+ ]
+}

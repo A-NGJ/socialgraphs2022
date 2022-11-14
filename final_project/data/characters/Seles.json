@@ -1,0 +1,52 @@
+{
+ "name": "Seles",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Roonan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seles was a Roonan male who attempted to join the crew of Captain Spikewheel. Along with Brennar, Gritz, and Riki, Seles was left on Lotho Minor by the captain, who wanted them to survive one night on the junk planet before they could join his crew.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Roonan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Captain",
+  "/wiki/Spikewheel",
+  "/wiki/Brennar",
+  "/wiki/Gritz",
+  "/wiki/Riki",
+  "/wiki/Lotho_Minor",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Seles",
+  "/wiki/Star_Wars_Adventures:_Return_to_Vader%27s_Castle_1"
+ ]
+}

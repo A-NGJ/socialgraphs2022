@@ -1,0 +1,51 @@
+{
+ "name": "Osgoode",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy's officer corps",
+      "Imperial Navy's officer corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Osgoode was a human who served as a weapons officer in the Imperial Navy in the years before the Galactic Civil War. The Lieutenant Commander served aboard the starship Thunder Wasp during and after the battle over Umbara.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy%27s_officer_corps",
+  "/wiki/Commander",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Weapons_officer",
+  "/wiki/Imperial_Navy",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Lieutenant_Commander",
+  "/wiki/Starship",
+  "/wiki/Thunder_Wasp",
+  "/wiki/Battle_over_Umbara",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Osgoode",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)"
+ ]
+}

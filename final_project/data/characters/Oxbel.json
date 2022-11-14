@@ -1,0 +1,39 @@
+{
+ "name": "Oxbel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oxbel was a Devaronian, one of only three who lived on Tatooine. He was friends with Kardue'sai'Malloc, also known as Labria. He once attempted a scam along with Kardue'sai'Malloc where they pretended to be brothers, which failed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Kardue%27sai%27Malloc/Legends",
+  "/wiki/Empire_Blues:_The_Devaronian%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Mos_Eisley_Adventure_Set",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/Wizards.com",
+  "/wiki/Saga_Edition_Web_Enhancement:_Devaronians",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

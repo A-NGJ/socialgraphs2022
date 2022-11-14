@@ -1,0 +1,54 @@
+{
+ "name": "A'Deen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A'Deen was a Tusken Raider and the youngest son of A'Yark. He was killed during the Comet Run Day Battle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/A%27Yark/Legends",
+  "/wiki/Comet_Run_Day_Battle",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/A%27Deen",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

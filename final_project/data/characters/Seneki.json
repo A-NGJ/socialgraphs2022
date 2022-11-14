@@ -1,0 +1,51 @@
+{
+ "name": "Seneki",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Squib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Second Mistake Enterprises"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seneki was a female Squib.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Second_Mistake_Enterprises",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Seneki",
+  "/wiki/Dark_Nest_III:_The_Swarm_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

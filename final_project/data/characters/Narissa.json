@@ -1,0 +1,33 @@
+{
+ "name": "Narissa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Narissa was a Twi'lek female who owned the Heartache Bistro, a cantina located on Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Heartache_Bistro",
+  "/wiki/Cantina/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Brong",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shi'ido"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vont"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brong was the Shi'ido bodyguard of Duchess Vont. He safeguarded her possessions from thieves Sammie Staable and Smileredon-Verdont.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shi%27ido",
+  "/wiki/Gender/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/Sammie_Staable",
+  "/wiki/Smileredon-Verdont",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

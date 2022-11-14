@@ -1,0 +1,43 @@
+{
+ "name": "Enbo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Arkadianate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Enbo was a Human who lived in the city Calimondretta on the planet Syned during the Republic Dark Age, working as an aide to the Sith Lord Arkadia Calimondra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Arkadianate",
+  "/wiki/City/Legends",
+  "/wiki/Calimondretta",
+  "/wiki/Planet/Legends",
+  "/wiki/Syned",
+  "/wiki/Republic_Dark_Age",
+  "/wiki/Aide/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Arkadia_Calimondra",
+  "/wiki/Knight_Errant_(novel)"
+ ]
+}

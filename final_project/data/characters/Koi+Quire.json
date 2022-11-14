@@ -1,0 +1,64 @@
+{
+ "name": "Koi Quire",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Firrerreo"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Multiple"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Lavender"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tinged with gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Loyal to Lestra Oxic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koi Quire was a Firrerreo female who worked as an assistant for Lestra Oxic, a noted attorney.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Firrerreo/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lestra_Oxic",
+  "/wiki/Lawyer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Koi_Quire",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Kelbe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gondula"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelbe was a male Ewok who lived during the time of the Galactic Civil War.\nKelbe appears in the directory tree files for the 2003 massively multiplayer online roleplaying game Star Wars Galaxies: An Empire Divided. However, Kelbe is not known to have appeared on the video game's live servers as a proper non-player character. Nevertheless, an emulated depiction pulled from this character's Interchange File Format reveals what he would have looked like if he were added to the game.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gondula",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/2003",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Homeworld/Legends"
+ ]
+}

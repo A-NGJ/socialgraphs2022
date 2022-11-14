@@ -1,0 +1,43 @@
+{
+ "name": "Iponta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Isis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gutretee"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.3 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iponta was a Gutretee warrior living on Isis during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Isis",
+  "/wiki/Gutretee_(species)",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Isis_Coordinates"
+ ]
+}

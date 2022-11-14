@@ -1,0 +1,65 @@
+{
+ "name": "Avesta family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Merchant explorers"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Makeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Earliest appearance",
+     "values": [
+      "Sometime during the Mandalorian Wars"
+     ]
+    },
+    {
+     "name": "Prominence",
+     "values": [
+      "Creating the Avesta Mining Corporation and establishing the Makeb Business Council"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Avesta Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Avesta family was a wealthy group of Human merchant explorers during the times of the Old Republic who resided on the planet of Makeb.\nRemaining staunchly independent from the Galactic Republic, Makeb began to attract economic leaders, banking corporations, and wealthy tourists, leading to the rise in number of luxury resorts across the planet. The Avesta family established a number of profitable settlements in the early years of Makeb's colonization, and they eventually established the Avesta Mining Corporation. The Avesta family also helped establish the Makeb Business Council, the planet's government. Members of the Avesta family negotiated a trade partnership with the Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Makeb",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Avesta_Mining_Corporation",
+  "/wiki/Makeb_Business_Council",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

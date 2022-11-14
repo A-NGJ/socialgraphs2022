@@ -1,0 +1,49 @@
+{
+ "name": "Rosh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rosh was a Human male general of the Sith Empire. During the Galactic War he was stationed on Voss, where he was the commander of Fort Kodentha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss",
+  "/wiki/Commanding_officer/Legends",
+  "/wiki/Fort_Kodentha",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rosh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

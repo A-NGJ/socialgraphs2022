@@ -1,0 +1,37 @@
+{
+ "name": "Bunt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gigoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bunt was a Gigoran male pickpocket who tried to rob Jyn Erso on the space station Five Points. Erso protected herself while Bunt and his partner escaped.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gigoran",
+  "/wiki/Gender",
+  "/wiki/Thief",
+  "/wiki/Jyn_Erso",
+  "/wiki/Space_station",
+  "/wiki/Five_Points",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bunt",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

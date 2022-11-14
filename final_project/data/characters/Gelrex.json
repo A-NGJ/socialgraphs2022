@@ -1,0 +1,51 @@
+{
+ "name": "Gelrex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaleesh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gelrex was a male Kaleesh general fighting for the Galactic Republic during the Battle of Ilum. He was approached by personnel of the reconstituted Sith Empire with an offer to join them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Gelrex",
+  "/wiki/Kaleesh/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gelrex",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

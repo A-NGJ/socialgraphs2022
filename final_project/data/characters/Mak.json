@@ -1,0 +1,71 @@
+{
+ "name": "Mak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mak was an Imperial general who, in the company of Darth Vader and Nas Ghent, searched for the Imperial-class Star Destroyer Crucible during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Darth/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Nas_Ghent",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Crucible_(Imperial-class)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mak",
+  "/wiki/Walking_the_Path_That%27s_Given",
+  "/wiki/Star_Wars_Tales_21",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

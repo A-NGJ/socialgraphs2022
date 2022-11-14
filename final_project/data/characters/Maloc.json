@@ -1,0 +1,63 @@
+{
+ "name": "Maloc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maloc was a commander in the Imperial Starfleet serving as commanding officer of the Victory I-class Star Destroyer Stalwart approximately one year before the Battle of Endor. He served under the command of then–Vice Admiral Thrawn throughout the construction of the space station NL-1 in the Pakuuni system, as well as throughout the campaign against the Pakuuni Pirates.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Victory_I-class_Star_Destroyer/Legends",
+  "/wiki/Stalwart_(Victory_I-class)",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Vice_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/NL-1",
+  "/wiki/Pakuuni_system",
+  "/wiki/Pakuuni_Pirates",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Maloc",
+  "/wiki/Star_Wars:_TIE_Fighter",
+  "/wiki/TIE_Fighter:_The_Official_Strategy_Guide"
+ ]
+}

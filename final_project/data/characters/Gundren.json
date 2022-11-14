@@ -1,0 +1,62 @@
+{
+ "name": "Gundren",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Serenno"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3 BBY",
+      "Serenno"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gundren was a male Human from Serenno. By 3 BBY, he was the warden of the Spike prison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Gundren",
+  "/wiki/Serenno/Legends",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Spike/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gundren",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Hard_Targets_3",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Hard_Targets_4"
+ ]
+}

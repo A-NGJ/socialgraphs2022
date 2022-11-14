@@ -1,0 +1,45 @@
+{
+ "name": "Shaclor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chanzari Den"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shaclor was an adventurous Selonian assigned to be a digger and explorer for the Chanzari Den. She was tasked to explore the outer reaches of Chanzari land, both above and below ground. The territory included an island chain that once belonged to the shamed clan of Selonians who were exiled to Sacorria in the distant past. She was a skilled climber, swimmer, and survivalist, and unusually curious for a Selonian.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chanzari_Den",
+  "/wiki/Sacorria",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shaclor",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

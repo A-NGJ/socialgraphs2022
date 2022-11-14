@@ -1,0 +1,49 @@
+{
+ "name": "Niya-Ton",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Niya-Ton was a female Voss living on Voss centuries before the Cold War. She was the mother of Zhi-Ton and the distant predecessor of Therod-Ton, Bas-Ton, Phi-Ton and Yana-Ton.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Prophecy_of_Ten_Thousand_Seeds",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Zhi-Ton",
+  "/wiki/Therod-Ton",
+  "/wiki/Bas-Ton",
+  "/wiki/Phi-Ton",
+  "/wiki/Yana-Ton",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

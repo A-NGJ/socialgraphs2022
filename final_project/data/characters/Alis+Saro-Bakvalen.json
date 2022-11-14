@@ -1,0 +1,46 @@
+{
+ "name": "Alis Saro-Bakvalen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alis Saro-Bakvalen was a Human female member of the Bakvalen family, a noble Corellian family. She was memorialized via hologram in Bakvalen Hall.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bakarn_family",
+  "/wiki/Corellian/Legends",
+  "/wiki/Hologram/Legends",
+  "/wiki/Guardian_Hold_Four",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

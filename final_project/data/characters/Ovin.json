@@ -1,0 +1,65 @@
+{
+ "name": "Ovin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Unidentified planet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ovin was a male Human who resided in a Corellian settlement on a planet of the Outer Rim Territories. After witnessing the crash of the Millennium Falcon in the settlement, he commented that its pilot was crazy and could have killed somebody. When Han Solo left the starship and fell unconscious, Jenna asked Ovin to fetch a medical droid.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_planet_(Jenna)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Corellian_settlement",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Jenna_(Corellian)",
+  "/wiki/Medical_droid/Legends",
+  "/wiki/The_Corellian_Kid",
+  "/wiki/Star_Wars_Comic_11"
+ ]
+}

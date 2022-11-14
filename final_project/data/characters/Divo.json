@@ -1,0 +1,46 @@
+{
+ "name": "Divo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Divo was a strong, Human male who served as a squat power-lifter and a student of Nova Stihl's Teräs Käsi lessons onboard the first Death Star during the Galactic Civil War. He had a tendency to ask more questions in the class than anyone else.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Nova_Stihl",
+  "/wiki/Ter%C3%A4s_K%C3%A4si/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

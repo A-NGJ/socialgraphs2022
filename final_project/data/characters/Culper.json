@@ -1,0 +1,74 @@
+{
+ "name": "Culper",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Culper was a human female who was an aide to Moff Ghadi. She met with Eli Vanto to offer him a position within the Imperial Military, in order to separate him from Thrawn. This was due to jealousy of Thrawn's achievements as well as anti-alien views from senior Imperial officials.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Species",
+  "/wiki/Aide",
+  "/wiki/Moff",
+  "/wiki/Ghadi",
+  "/wiki/Eli_N._Vanto",
+  "/wiki/Imperial_Military",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Alien",
+  "/wiki/Xenophobia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Culper",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)",
+  "/wiki/Thrawn_2"
+ ]
+}

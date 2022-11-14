@@ -1,0 +1,69 @@
+{
+ "name": "Skora",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light purple"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skora was a female Rodian medic who participated in the Hunters of the Outer Rim tournament on the planet Vespaara.\nSkora is one of the playable characters in the 2022 competitive combat game Star Wars: Hunters, published by Zynga and Lucasfilm Games.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hutt_Clan",
+  "/wiki/Hunters_of_the_Outer_Rim",
+  "/wiki/Planet",
+  "/wiki/Vespaara",
+  "/wiki/2022",
+  "/wiki/Star_Wars:_Hunters",
+  "/wiki/Zynga",
+  "/wiki/Lucasfilm_Games",
+  "/wiki/StarWars.com"
+ ]
+}

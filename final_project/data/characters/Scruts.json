@@ -1,0 +1,36 @@
+{
+ "name": "Scruts",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scruts was a mercenary who controlled a band of outlaws on the planet Edan II. Usually contracted by Edan II's planetary government as mercenaries and scouts, Scruts and his fellows turned to harassing Imperial forces when they arrived on Edan II during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Edan_II/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Introductory_Adventure_Game"
+ ]
+}

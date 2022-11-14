@@ -1,0 +1,44 @@
+{
+ "name": "Mirack",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nephran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Grox's pirate crew"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mirack was a male Nephran who was part of a pirate crew led by Grox.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nephran",
+  "/wiki/Gender",
+  "/wiki/Grox",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mirack",
+  "/wiki/Choose_Your_Destiny:_A_Luke_%26_Leia_Adventure"
+ ]
+}

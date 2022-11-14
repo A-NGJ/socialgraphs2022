@@ -1,0 +1,72 @@
+{
+ "name": "Holgurn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Holgurn was a diminutive Gamorrean who worked for Jabba the Hutt as a messenger. He was more articulate than most of the Gamorreans within Jabba's ranks. Prior to the Battle of Yavin he delivered a message to Han Solo from Jabba asking him to help recover the Yavin Vassilika.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Yavin_Vassilika",
+  "/wiki/Underworld:_The_Yavin_Vassilika_1",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

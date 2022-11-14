@@ -1,0 +1,53 @@
+{
+ "name": "Raossk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Pit Screamers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raossk was a Trandoshan male and leader of the swoop gang Pit Screamers during the All Worlds Ultimate Swoop Rally.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pit_Screamers",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/All_Worlds_Ultimate_Swoop_Rally",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Raossk",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Hurada",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hurada was a male Human who served as a commander in the Republic Military during the Galactic War. He was stationed at the Voss Orbital Station as part of the space station's security. Hurada delievered a message from Ambassador Jannik to a prominent Republic individual, who intended to travel to Voss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss_Orbital_Station",
+  "/wiki/Space_station/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Jannik_(Human)",
+  "/wiki/Voss",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

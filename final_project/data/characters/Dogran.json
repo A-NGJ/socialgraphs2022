@@ -1,0 +1,61 @@
+{
+ "name": "Dogran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dogran was a Chiss male major in the Imperial Military of the reconstituted Sith Empire who served in the Battle of Ilum. Dogran served under Grand Moff Ilyan Regus and Darth Malgus during Operation Dark Ice.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Major/Legends",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Grand_Moff/Legends",
+  "/wiki/Ilyan_Regus",
+  "/wiki/Darth_Malgus",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

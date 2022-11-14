@@ -1,0 +1,41 @@
+{
+ "name": "Jydu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Adarian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jydu was an Adarian ambassador to the New Republic in 25 ABY. Jydu believed the warnings Leia Organa Solo gave about the nascent Yuuzhan Vong threat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adarian/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jydu",
+  "/wiki/Invasion:_Revelations_1"
+ ]
+}

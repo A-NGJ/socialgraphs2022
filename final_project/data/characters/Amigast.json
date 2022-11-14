@@ -1,0 +1,49 @@
+{
+ "name": "Amigast",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Amigast's clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Amigast was a male Ugnaught who lived in Ugnaught Town on Bespin during the Galactic Civil War. He was the head of the largest Ugnaugh clan of the Miners' union. He lived the city with his clan, when the Imperials occupied the city.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ugnaught",
+  "/wiki/Gender",
+  "/wiki/Amigast%27s_clan",
+  "/wiki/Ugnaught_Town",
+  "/wiki/Bespin",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Amigast",
+  "/wiki/Bespin_Escape",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back_(audiobook)"
+ ]
+}

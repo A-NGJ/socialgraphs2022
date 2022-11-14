@@ -1,0 +1,68 @@
+{
+ "name": "Eshgo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "14 BBY",
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Free Ryloth Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eshgo was a Twi'lek male who was part of the Free Ryloth Movement on the planet Ryloth during the reign of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ryloth",
+  "/wiki/14_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Free_Ryloth_Movement",
+  "/wiki/Planet",
+  "/wiki/Imperial_Era",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eshgo",
+  "/wiki/Lords_of_the_Sith",
+  "/wiki/Lords_of_the_Sith_(audiobook)"
+ ]
+}

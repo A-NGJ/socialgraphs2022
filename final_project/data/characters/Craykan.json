@@ -1,0 +1,60 @@
+{
+ "name": "Craykan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dyplotid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tech Masters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Craykan was a Dyplotid male who was one of three Tech Masters, who ruled the junk planet of Trionak.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Dyplotid",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tech_Masters",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Planet",
+  "/wiki/Trionak",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Craykan",
+  "/wiki/Choose_Your_Destiny:_A_Luke_%26_Leia_Adventure"
+ ]
+}

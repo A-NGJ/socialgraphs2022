@@ -1,0 +1,52 @@
+{
+ "name": "Gibb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Prishardia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gibb was a port mechanic in the city of Lesvol on Prishardia where he tried to repair the hyperdrive of the Star Lady. When Ghitsa Dogder, Fenig Nabon and Kyp Durron came under fire from the Rook, Gibb came to the rescue in the repaired Star Lady.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Prishardia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lesvol",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Star_Lady",
+  "/wiki/Ghitsa_Dogder",
+  "/wiki/Fenig_Nabon",
+  "/wiki/Kyp_Durron",
+  "/wiki/Rook_(Class_720_freighter)",
+  "/wiki/Simple_Tricks",
+  "/wiki/Tales_from_the_New_Republic",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

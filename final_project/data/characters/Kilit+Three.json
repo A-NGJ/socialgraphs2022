@@ -1,0 +1,50 @@
+{
+ "name": "Kilit Three",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireKilit Squadron",
+      "Kilit Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kilit Three was the callsign of a pilot in the Kilit Squadron of the Sith Empire. During the Battle of Corellia the squadron participated in the attack on the Coronet City's Aegis Base, during which Kilit Three was shot down.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Kilit_Squadron",
+  "/wiki/Pilot/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Aegis_Base",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kilit_Three",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

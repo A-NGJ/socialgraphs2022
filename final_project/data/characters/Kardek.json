@@ -1,0 +1,62 @@
+{
+ "name": "Kardek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yinchorr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yinchorri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Council of Elders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kardek was one of the Yinchorri Council of Elders. He first proposed a marital alliance between Vilmarh Grahrk and the Yinchorri, specifically his daughter Vooma.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yinchorr/Legends",
+  "/wiki/Yinchorri",
+  "/wiki/Gender/Legends",
+  "/wiki/Council_of_Elders_(Yinchorri)",
+  "/wiki/Vilmarh_Grahrk",
+  "/wiki/Vooma",
+  "/wiki/Star_Wars_(1998)_40"
+ ]
+}

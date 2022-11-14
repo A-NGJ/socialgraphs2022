@@ -1,0 +1,74 @@
+{
+ "name": "Haddon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Military",
+      "Special Operations Group Three",
+      "Special Operations Group Three"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haddon was a Human male corporal in the Imperial Army of the Sith Empire during the Galactic War. He led part of Special Operations Group Three during the invasion of Belsavis, but the Galactic Republic's security network allowed the Belsavis prison forces to gain an advantage over Haddon's forces. Retreating to the Imperial Domination Outpost, he sought additional help in destroying the Prison Geothermal Collectors powering the surveillance systems.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cole-Haddon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Special_Operations_Group_Three",
+  "/wiki/Corporal/Legends",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Belsavis_prison",
+  "/wiki/Imperial_Domination_Outpost",
+  "/wiki/Prison_Geothermal_Collectors",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

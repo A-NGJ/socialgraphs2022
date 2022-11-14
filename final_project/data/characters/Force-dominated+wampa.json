@@ -1,0 +1,54 @@
+{
+ "name": "Force-dominated wampa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wampa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Beast-Lord Brutann"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Cold War, the Beast-Lord Brutann controlled many of the planet Hoth's most vicious creatures in service to the Sith Empire. Among Brutann's Force-dominated beasts was a wampa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Wampa/Legends",
+  "/wiki/Beast-Lord",
+  "/wiki/Brutann",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Planet/Legends",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Force-dominated_wampa",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

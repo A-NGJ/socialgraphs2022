@@ -1,0 +1,50 @@
+{
+ "name": "Mimott",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Garwian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Garwian Unity"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dame Mimott was a Garwian female who designed clothing for remembrance parties. Mimott operated a sewing machine to create elaborate historical costumes of the Garwian culture.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Garwian",
+  "/wiki/Gender",
+  "/wiki/Garwian_Unity",
+  "/wiki/Frangelic",
+  "/wiki/Dame",
+  "/wiki/Clothing",
+  "/wiki/Remembrance_party",
+  "/wiki/Sewing_machine",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mimott",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising_(audiobook)"
+ ]
+}

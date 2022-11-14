@@ -1,0 +1,49 @@
+{
+ "name": "Alamar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Datar"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "38 BBY",
+      "Datar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ghostling"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alamar was a young Ghostling child was captured, along with Princess Arawynne, by Djas Puhr and brought to Mos Espa to be sold as a slave. Alamar was just five and a half at the time.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Datar/Legends",
+  "/wiki/38_BBY/Legends",
+  "/wiki/Ghostling",
+  "/wiki/Prince/Legends",
+  "/wiki/Arawynne",
+  "/wiki/Djas_Puhr/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Alamar",
+  "/wiki/Episode_I_Adventures_5:_The_Ghostling_Children"
+ ]
+}

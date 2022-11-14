@@ -1,0 +1,46 @@
+{
+ "name": "Riva",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Riva was the owner of a guest house in Telos IV, where Qui-Gon Jinn and Padawan Obi-Wan Kenobi hid in.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Day_of_Reckoning",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Jayko",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jayko was a human male smuggler. He traveled with the navigator droid Arch-E, and previously worked with the Gamorrean Tan. After retiring, Jayko published the book A Smuggler's Life.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Smuggler",
+  "/wiki/Navigator",
+  "/wiki/Droid",
+  "/wiki/Arch-E",
+  "/wiki/Gamorrean",
+  "/wiki/Tan",
+  "/wiki/Book",
+  "/wiki/A_Smuggler%27s_Life",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jayko",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge_-_Episode_10"
+ ]
+}

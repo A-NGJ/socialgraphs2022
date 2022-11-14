@@ -1,0 +1,52 @@
+{
+ "name": "Jetok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jetok was a Weequay male who was active as a smuggler captain during the Cold War and was hired by House Thul to make deliveries to the planet Alderaan. However, he was cut down by Republic forces along with many Thul soldiers while making a delivery to King's Pass.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/House_of_Thul",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/King%27s_Pass",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

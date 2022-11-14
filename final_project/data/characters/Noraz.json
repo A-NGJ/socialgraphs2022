@@ -1,0 +1,46 @@
+{
+ "name": "Noraz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noraz was a male Human technician of the Sith Empire. During the Galactic War he was stationed at the Leth Outpost on Hoth, where he asked an Imperial to retake Tromper Crags Geothermal Plant for the Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Human/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Leth_Outpost",
+  "/wiki/Hoth/Legends",
+  "/wiki/Tromper_Crags_Geothermal_Plant",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}
