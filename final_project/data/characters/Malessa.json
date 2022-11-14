@@ -1,0 +1,35 @@
+{
+ "name": "Malessa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malessa was one of the mistresses of Admiral Winstel Greelanx. When Han Solo came to deliver a gift to the Admiral, his aide Senior Lieutenant Kern Fallon used her name in whisper, when Solo tried to gain admittance to the admiral. Solo said he brought message from Lady Greelanx. Kern then made an excuse as if he meant his wife, obviously lying.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Winstel_Greelanx",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Senior_Lieutenant/Legends",
+  "/wiki/Kern_Fallon",
+  "/wiki/The_Hutt_Gambit"
+ ]
+}

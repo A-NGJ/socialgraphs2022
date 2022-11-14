@@ -1,0 +1,50 @@
+{
+ "name": "Galrowk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Toola"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Whiphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Baron Galrowk was a Whiphid businessbeing based on Gambolla.\nIn 2 ABY, the Tombat bested his estate's security system and stole Baron Galrowk's famed art collection.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toola/Legends",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baron/Legends",
+  "/wiki/Gambolla",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Tanda_Marelle",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Galrowk",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

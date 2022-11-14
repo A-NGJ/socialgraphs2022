@@ -1,0 +1,70 @@
+{
+ "name": "Persid",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Persid was a captain in charge of the Republic fleet in orbit above Onderon during the new conflict between the Galactic Republic and Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Fleet/Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Persid",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

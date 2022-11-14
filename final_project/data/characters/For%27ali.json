@@ -1,0 +1,54 @@
+{
+ "name": "For'ali",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "For'ali was an elderly Twi'lek scholar during the reign of the Galactic Alliance. A tan-skinned Twi'lek from Ryloth, For'ali was an expert in non-verbal communication, and was an acquaintance of Jacen Solo. He was one of the three scholars who could understand Tahu'ip and help decode the mystery of the Tassels.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Darth_Caedus",
+  "/wiki/Tahu%27ip",
+  "/wiki/Lorrd_Artifact",
+  "/wiki/Legacy_of_the_Force:_Betrayal",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

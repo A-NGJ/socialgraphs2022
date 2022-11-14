@@ -1,0 +1,61 @@
+{
+ "name": "Korenn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Korenn was a Human male with spiky, sandy hair who looked younger than his experiences foretold. He was one of Crix Madine's commandos. He died in 12 ABY when his A-wing hit an asteroid in the Hoth asteroid field en route to confirm New Republic suspicions on the underhanded schemes of Hutt gangster Durga Besadii Tai. A small piece of debris penetrated his rear shields causing loss of altitude control, his engine core to buckle, and slamming his vessel into a jagged asteroid where it burst into flames.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Crix_Madine/Legends",
+  "/wiki/RZ-1_A-wing_interceptor/Legends",
+  "/wiki/Asteroid/Legends",
+  "/wiki/Hoth_asteroid_field",
+  "/wiki/Hutt/Legends",
+  "/wiki/Durga_Besadii_Tai",
+  "/wiki/Darksaber_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Brazz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brazz was a male Human who was one of several refugees used by Republic soldiers in a bombfield-running game on the planet Ord Mantell. Brazz was slightly insane.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

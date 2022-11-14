@@ -1,0 +1,48 @@
+{
+ "name": "Heinke",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Serenno"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Heinke was a Human male who worked as a delivery person on Serenno. In 3 BBY, he used to carry supplies to The Spike prison. Imperial Agent Jahan Cross introduced himself as Heinke's substitute to infiltrate the prison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Serenno/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/3_BBY/Legends",
+  "/wiki/The_Spike/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Jahan_Cross",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Hard_Targets_3"
+ ]
+}

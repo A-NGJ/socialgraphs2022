@@ -1,0 +1,51 @@
+{
+ "name": "Lon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lon was a light-haired Human member of the Rebellion. He was imprisoned at Balis-Baurgh where he met and befriended Junas Turner and Grael the Ewok. After Turner and Grael escaped the prison, they resolved to rescue Lon and fellow inmate Becker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lon_Shevu",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Balis-Baurgh",
+  "/wiki/Junas_Turner",
+  "/wiki/Grael",
+  "/wiki/Ewok/Legends",
+  "/wiki/Balis-Baurgh_prison",
+  "/wiki/Becker",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Escape_from_Balis-Baurgh",
+  "/wiki/Star_Wars_Adventure_Journal_1"
+ ]
+}

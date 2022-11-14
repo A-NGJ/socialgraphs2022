@@ -1,0 +1,46 @@
+{
+ "name": "Bernil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Renna's Transport Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bernil was a female Sullustan, who worked in Gadrin on Cularin, as a supervisor for Renna's Transport Service.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Renna%27s_Transport_Service",
+  "/wiki/Gadrin",
+  "/wiki/Cularin/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bernil",
+  "/wiki/Outward_Bound_(Living_Force_adventure)"
+ ]
+}

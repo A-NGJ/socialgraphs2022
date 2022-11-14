@@ -1,0 +1,78 @@
+{
+ "name": "Devry",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "25 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "white"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Devry was an old male Human Imperial sector commander of the Imperial Remnant's garrison on Shramar in 25 ABY during the Yuuzhan Vong War, but he had some kind of accord with the Yuuzhan Vong and for this he was killed by Nina Galfridian.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Shramar",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Nina_Galfridian",
+  "/wiki/Invasion:_Revelations_2"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Derec",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 1 BBY",
+      "Korriban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jynni's Virtue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Derec was a Human male and a crew member of the Jynni's Virtue. After the Jynni's Virtue was forced to crash land near the Valley of Golg, he was killed on the planet Korriban by unknown forces. Shortly afterward, Derec's reanimated body returned to attack the ship's surviving crew, having been turned into a Korriban zombie.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Korriban",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jynni%27s_Virtue",
+  "/wiki/Valley_of_Golg",
+  "/wiki/Planet/Legends",
+  "/wiki/Korriban_zombie",
+  "/wiki/Wizards.com",
+  "/wiki/Korriban:_Planet_of_Lost_Souls"
+ ]
+}

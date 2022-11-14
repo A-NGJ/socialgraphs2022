@@ -1,0 +1,60 @@
+{
+ "name": "Grugnak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grugnak was an elderly Ugnaught male living on Bespin's Cloud City when the Galactic Empire invaded the city. He hated the Empire for occupying his home, and helped the Rebel Alliance move personnel on Cloud City after the occupation. He was often seen carrying a white case or toolbox.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+  "/wiki/Star_Wars_Adventures_in_ABC",
+  "/wiki/Canon",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Tatooine_Limited",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Rogues_Gallery_(Star_Wars_Insider)",
+  "/wiki/Star_Wars_Insider_138"
+ ]
+}

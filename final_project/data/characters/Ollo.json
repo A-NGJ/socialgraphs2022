@@ -1,0 +1,50 @@
+{
+ "name": "Ollo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ollo was a male Human mechanic and engineer who served onboard the Republic Assault Ship Leveler under the command of Captain Gilad Pellaeon. Around 21 BBY, Ollo was present onboard the Leveler where he assisted chief engineer Lammin with repairs on the ship.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Acclamator-class_assault_ship",
+  "/wiki/Leveler",
+  "/wiki/Captain/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Lammin",
+  "/wiki/The_Clone_Wars:_No_Prisoners",
+  "/wiki/The_Clone_Wars:_No_Prisoners_(audiobook)"
+ ]
+}

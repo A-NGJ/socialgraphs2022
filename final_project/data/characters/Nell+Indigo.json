@@ -1,0 +1,59 @@
+{
+ "name": "Nell Indigo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wroona"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wroonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mercenary"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nell Indigo was a female Wroonian mercenary who frequented the Outer Rim Territories. Her parents were gun-runners, an occupation that allowed her to develop skills that would aid her life as a mercenary.\nWhen she was twenty, Indigo was successful enough to buy her way into the Guild of Glorious Mercenaries. Since then, she made a name for herself as a hired-gun in the Outer Rim, working for anyone that would pay her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wroona/Legends",
+  "/wiki/Wroonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Guild_of_Glorious_Mercenaries",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Smuggler%27s_Log",
+  "/wiki/Star_Wars_Adventure_Journal_7",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

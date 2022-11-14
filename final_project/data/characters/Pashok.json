@@ -1,0 +1,76 @@
+{
+ "name": "Pashok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chagrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw",
+      "Marauders",
+      "Marauders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pashok the Unyielding was a male Chagrian leader of the Marauders gang of White Maw pirates on Hoth during the Galactic War. He was hired by Admiral Layek Davos to accompany him and his men to the Star of Coruscant in the Starship Graveyard, where they attempted to seize the shuttle Starbreeze. However, Cipher Nine and Raina Temple interrupted their attempts and in the ensuing firefight both Davos and Pashok were killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Chagrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Marauders_(White_Maw)",
+  "/wiki/Pirate/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Admiral/Legends",
+  "/wiki/Layek_Davos",
+  "/wiki/Star_of_Coruscant",
+  "/wiki/Starship_Graveyard_(Hoth)",
+  "/wiki/Shuttle/Legends",
+  "/wiki/Starbreeze",
+  "/wiki/Cipher_Nine",
+  "/wiki/Raina_Temple",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

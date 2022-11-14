@@ -1,0 +1,52 @@
+{
+ "name": "Climm",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vaced"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Climm was a Human male marshal who lived on the planet Vaced. In 43 ABY, Climm and his deputies met up with Han Solo and his family after the Millennium Falcon had been briefly stolen by Cynner and Remata.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vaced/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marshal/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/43_ABY",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Cynner",
+  "/wiki/Remata",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Climm",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

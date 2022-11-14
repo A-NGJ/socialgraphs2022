@@ -1,0 +1,48 @@
+{
+ "name": "Martaff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Defense Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Martaff was a male Human Commodore who fought in the Battle of N'zoth.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Commodore/Legends",
+  "/wiki/Battle_of_N%27zoth",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Martaff",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

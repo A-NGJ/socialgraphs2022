@@ -1,0 +1,53 @@
+{
+ "name": "Estral",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Etti"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's Gamemaster"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Estral was a male Etti who worked as a gamemaster in the Mos Espa Grand Arena for Jabba the Hutt on Tatooine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Etti",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Mos_Espa_Grand_Arena/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Estral",
+  "/wiki/Boba_Fett:_Hunted",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

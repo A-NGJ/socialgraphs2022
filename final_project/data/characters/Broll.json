@@ -1,0 +1,73 @@
+{
+ "name": "Broll",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Broll was a male Human Customs Agent of the Republic Customs Office during the Galactic War. Around 3640 BBY he was stationed on Hoth Orbital Station above Hoth where he tried to inspect the XS stock light freighter of a smuggler known as Voidhound, who was smuggling Shariss Kartur off the planet with a bulk of illegal Imperial salvage.\nThree ways to deal with Broll are to offer him a bribe, attempt an unconvincing lie, or attack and kill him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Customs_official/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Republic_Customs_Office",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Hoth_Orbital_Station",
+  "/wiki/Hoth/Legends",
+  "/wiki/XS_stock_light_freighter/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Voidhound",
+  "/wiki/Shariss_Kartur",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

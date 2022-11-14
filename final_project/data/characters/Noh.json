@@ -1,0 +1,27 @@
+{
+ "name": "Noh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noh was a great Hutt of old who traveled the galaxy, like his fellow Hutt, Zobara.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Zobara",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Noh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

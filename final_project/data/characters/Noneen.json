@@ -1,0 +1,49 @@
+{
+ "name": "Noneen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hijado"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noneen was a Human male who lived on Hijado. When Doctor Parlay Thorp arrived on Hijado to provide relief and medical assistance to the Hijadoans after the Galactic Empire had bombarded several cities on Hijado, Noneen greeted her and thanked her for her assistance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hijado",
+  "/wiki/Human/Legends",
+  "/wiki/Hijadoan",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Parlay_Thorp",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Noneen",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

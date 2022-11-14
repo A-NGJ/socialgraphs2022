@@ -1,0 +1,51 @@
+{
+ "name": "Bors",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pamarthe"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bors was a Pamarthen pilot who competed in the Gauntlet, a starship race run by Han Solo. During the competition on Corellia, his ship was badly damaged while leaving a hangar, forcing him to drop out of the contest.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pamarthe",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Pamarthen",
+  "/wiki/Pilot",
+  "/wiki/The_Gauntlet_(starship_race)",
+  "/wiki/Starship",
+  "/wiki/Han_Solo",
+  "/wiki/Corellia",
+  "/wiki/Hangar",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Scorched",
+  "/wiki/Star_Wars_Insider_165"
+ ]
+}

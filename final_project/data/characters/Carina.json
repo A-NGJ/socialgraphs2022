@@ -1,0 +1,66 @@
+{
+ "name": "Carina",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Carina was a Twi'lek female who worked for the Galactic Republic's Republic Strategic Information Service during the Cold War.\nCarina was a Twi'lek female who lived during the Cold War. At some point during her employ with the Galactic Republic's Republic Strategic Information Service , she was stationed on the planet Nar Shaddaa. During that time, her astromech droid named TC-93 went rogue and fled to Network Security District with top secret SIS intel. She tasked a Republic spacer to wipe out the droid's memory and bring a copy of the data. In order to succeed, she gave the spacer a scanner to use on the renegade security droids in the district.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Planet/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/TC-93",
+  "/wiki/Network_Security_District",
+  "/wiki/Spacer/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

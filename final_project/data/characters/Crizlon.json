@@ -1,0 +1,33 @@
+{
+ "name": "Crizlon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crizlon was a male Chevin Information broker who sliced into several military databases during the Cold War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

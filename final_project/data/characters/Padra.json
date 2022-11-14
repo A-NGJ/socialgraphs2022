@@ -1,0 +1,56 @@
+{
+ "name": "Padra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "30 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Garris Shrike"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Padra was a homeless Human male who was picked up by Garris Shrike. He was one of many street children Shrike used to beg and steal for him as he traveled from world to world in the Trader's Luck on smuggling runs. Padra grew up begging, but was eventually \"promoted\" by the droid F8GN to pickpocketing. Padra felt this was much more respectable than what he called \"baby begging.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/30_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Garris_Shrike",
+  "/wiki/Liberator_(Liberator-class)",
+  "/wiki/F8GN",
+  "/wiki/The_Paradise_Snare"
+ ]
+}

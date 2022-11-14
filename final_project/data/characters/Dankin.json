@@ -1,0 +1,82 @@
+{
+ "name": "Dankin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Berchestian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Car'das smugglers",
+      "Smugglers' Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dankin was Talon Karrde's subordinate aboard the Wild Karrde. He masqueraded as Abel Quiller, Captain of the Hab Camber, when Karrde went to Bilbringi to witness Mazzic's attack against the shipyards.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Berchestian",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Car%27das_smugglers",
+  "/wiki/Smugglers%27_Alliance",
+  "/wiki/Talon_Karrde",
+  "/wiki/Wild_Karrde",
+  "/wiki/Abel_Quiller",
+  "/wiki/Captain/Legends",
+  "/wiki/Hab_Camber",
+  "/wiki/Bilbringi_Shipyards",
+  "/wiki/Mazzic",
+  "/wiki/Raid_on_Bilbringi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dankin",
+  "/wiki/Heir_to_the_Empire",
+  "/wiki/Dark_Force_Rising",
+  "/wiki/Dark_Force_Rising_(unabridged_audiobook)",
+  "/wiki/The_Last_Command",
+  "/wiki/The_Last_Command_(unabridged_audiobook)",
+  "/wiki/Jade_Solitaire",
+  "/wiki/Tales_from_the_New_Republic",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_I:_Conquest",
+  "/wiki/Heir_to_the_Empire_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

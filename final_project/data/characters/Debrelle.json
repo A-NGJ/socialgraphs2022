@@ -1,0 +1,44 @@
+{
+ "name": "Debrelle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygian's Banking Concern"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Debrelle was a Near-Human female who worked at the Zygian's Banking Concern branch in Mos Eisley.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Zygian%27s_Banking_Concern",
+  "/wiki/Zygian%27s_Banking_Concern_(Mos_Eisley)",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley"
+ ]
+}

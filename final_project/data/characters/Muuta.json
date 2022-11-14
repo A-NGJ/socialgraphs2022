@@ -1,0 +1,36 @@
+{
+ "name": "Muuta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chagrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Muuta was a female Chagrian, who lived during the waning years of the Galactic Republic.\nBy 19 BBY, Muuta was still a child and she lived with her parents in the Darkside district of the planet Coruscant. When the roof of their housing unit collapsed in, Muuta was trapped and the Heroes of Cularin attempted to rescue her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chagrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Darkside_(sector)",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/A_Hero_Seeks_Not_Vengeance"
+ ]
+}

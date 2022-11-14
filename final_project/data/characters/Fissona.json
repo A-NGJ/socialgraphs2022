@@ -1,0 +1,57 @@
+{
+ "name": "Fissona",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hiironi irstat"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fissona was a young Tarasin and was a troublemaker within Hiironi irstat. Prior to the Battle of Naboo, when Fissona was nine years of age, he was often caught and punished for his misdeeds; despite being the grandson of Cryalira.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Hiironi_irstat",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/Cryalira",
+  "/wiki/Living_Force_Campaign_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

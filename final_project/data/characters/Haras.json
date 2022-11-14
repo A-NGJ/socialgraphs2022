@@ -1,0 +1,48 @@
+{
+ "name": "Haras",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ariana spaceport"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haras was a Human male who worked as a technician at the Ariana spaceport on the planet of Garos IV.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ariana",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Mission_to_Zila",
+  "/wiki/Star_Wars_Adventure_Journal_3"
+ ]
+}

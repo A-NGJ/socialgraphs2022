@@ -1,0 +1,73 @@
+{
+ "name": "Lol",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Solem"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified Solem species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lol was a male native of Solem, living during the Galactic Civil War. He was part of a resistance movement against the planetary Governor, Malvander Bren.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lol_(disambiguation)",
+  "/wiki/Solem",
+  "/wiki/Unidentified_Solem_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Malvander_Bren",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lol",
+  "/wiki/Empire_7"
+ ]
+}

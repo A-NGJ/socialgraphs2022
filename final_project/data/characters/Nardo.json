@@ -1,0 +1,75 @@
+{
+ "name": "Nardo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Phelarion"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Phelarion"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Thalassa Tarkin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nardo was the chief of Lady Tarkin's security forces at Port Tarkin on Phelarion.\nWhen Princess Leia Organa was stranded on the planet and forced to work as Lady Tarkin's housemaid, Nardo did not trust her. After watching her for a few days, he discovered her using the subspace transponder to get a message to Han Solo. Nardo fired on her, but missed, striking a nearby megonite moss display case, which exploded, killing him. Ironically, it had been Nardo who had insisted on keeping the display inside.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Phelarion",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Thalassa_Tarkin",
+  "/wiki/Port_Tarkin",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Subspace_transceiver",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Megonite_moss/Legends",
+  "/wiki/Princess_Leia,_Imperial_Servant"
+ ]
+}

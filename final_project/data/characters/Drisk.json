@@ -1,0 +1,51 @@
+{
+ "name": "Drisk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pau'an"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Drisk was a Pau'an aide who served alongside Tolteck on Starlag XIX.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Pau%27an",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Aide",
+  "/wiki/Tolteck",
+  "/wiki/Starlag_XIX",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Drisk",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Final_Round",
+  "/wiki/Star_Wars_Rebels_Magazine_34"
+ ]
+}

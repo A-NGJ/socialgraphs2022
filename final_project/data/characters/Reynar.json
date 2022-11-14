@@ -1,0 +1,74 @@
+{
+ "name": "Reynar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Cybernetic right eye"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Reynar was a male Human who served as a lieutenant in the Confederacy of Independent Systems during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cybernetics/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Reynar",
+  "/wiki/Deadly_Allies",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.51"
+ ]
+}

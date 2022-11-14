@@ -1,0 +1,45 @@
+{
+ "name": "Shepprd Barron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Apprentices",
+     "values": [
+      "Corellian Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shepprd Barron was a major in the Corellian Security Force.\nWhen he retired from the force he helped New Republic authorities investigate the activities of an arms dealer who went by the alias of \"Gundark\".",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Major/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Gundark_(arms_dealer)",
+  "/wiki/Gundark%27s_Fantastic_Technology:_Personal_Gear"
+ ]
+}

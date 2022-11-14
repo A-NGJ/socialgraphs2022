@@ -1,0 +1,63 @@
+{
+ "name": "Semmix",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Argul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Argullian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rise of the Empire era"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Semmix was a male Argullian doctor who lived during the Clone Wars.\nDuring the Battle of Argul, the Galactic Republic began an evacuation of the planet. There was a limited number of transports and Semmix tried to prevent 42 terminal patients of his from being loaded onto them. The patients were Argullians who had been denied inoculations because they had married without the proper licenses. The Jedi Padawan Ren Auglu argued with him about his decision.\nSemmix believed that people who married without the authorization of the state were degenerates who only did so for sexual gratification. He believed that places on the transports should be allocated to healthier, more respectable Argullians and was proud of his moral stance on the issue.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Argul",
+  "/wiki/Argullian",
+  "/wiki/Gender/Legends",
+  "/wiki/Rise_of_the_Empire_era",
+  "/wiki/Doctor/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Battle_of_Argul",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Transport/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ren_Auglu",
+  "/wiki/Only_the_Force"
+ ]
+}

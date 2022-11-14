@@ -1,0 +1,57 @@
+{
+ "name": "Conno",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Datar"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "37 BBY",
+      "Datar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ghostling"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Conno was a male five year old Ghostling. Along with Princess Arawynne, he was captured by Djas Puhr and brought to Mos Espa to be sold as a slave, but was rescued by Anakin Skywalker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Datar/Legends",
+  "/wiki/37_BBY/Legends",
+  "/wiki/Ghostling",
+  "/wiki/Gender/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Arawynne",
+  "/wiki/Djas_Puhr/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Episode_I_Adventures_5:_The_Ghostling_Children",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Failsafe",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rakata"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Infinite Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Failsafe was the name given to a male Rakata who lived during the height of the Infinite Empire. For speaking heresies, he was placed in stasis on the planet Belsavis and given the express task of ensuring that the World Razer was never freed from the prison world by keeping the Burning Way operational. During the Cold War, he was consulted by a citizen of the Galactic Republic and informed him to activate the mechanism to entrap the World Razer before it could free itself from Belsavis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rakata/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Infinite_Empire",
+  "/wiki/Prison/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/World_Razer",
+  "/wiki/Burning_Way",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

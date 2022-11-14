@@ -1,0 +1,45 @@
+{
+ "name": "Clawdite royal family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clawdite"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Zolan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Clawdite royal family were the rulers of Zolan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Clawdite",
+  "/wiki/Zolan",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/LEGO_Star_Wars:_The_Freemaker_Adventures",
+  "/wiki/The_Embersteel_Blade"
+ ]
+}

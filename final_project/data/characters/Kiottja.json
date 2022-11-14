@@ -1,0 +1,49 @@
+{
+ "name": "Kiottja",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Salt Steppes clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kiottja was a male Jawa, leader of the Salt Steppes clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kiottja",
+  "/wiki/The_New_Essential_Guide_to_Droids"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Orooroo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White/Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zssik Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orooroo the Betrayer was a male Wookiee who lived during the Galactic Civil War. Cerca 1 ABY, Orooroo betrayed his fellow Wookiees, and offered his services to the Trandoshan Zssik Clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/White",
+  "/wiki/Brown",
+  "/wiki/Zssik_Clan/Legends",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Orooroo",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

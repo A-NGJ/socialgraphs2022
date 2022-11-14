@@ -1,0 +1,51 @@
+{
+ "name": "Regga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Regga was an Ithorian podracer who competed in a race on Tatooine in 32 BBY. Racing through Beggar's Canyon, he stayed too high and brushed the cliffs, dying instantly.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Podracer_(profession)/Legends",
+  "/wiki/Beggar%27s_Canyon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Regga",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace_(novelization)",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace_(unabridged_audiobook)",
+  "/wiki/Anakin%27s_Fate",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

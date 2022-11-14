@@ -1,0 +1,67 @@
+{
+ "name": "Batcheela  (Ewok)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bright Tree Village"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Batcheela was a female Ewok from Endor. She lived in Bright Tree Village with her husband, Warok, and their children, Teebo and Malani.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Batcheela",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Warok",
+  "/wiki/Teebo/Legends",
+  "/wiki/Malani",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Batcheela_(Ewok)",
+  "/wiki/The_Adventures_of_Teebo:_A_Tale_of_Magic_and_Suspense",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/Home_is_Where_the_Shrieks_Are",
+  "/wiki/Malani_the_Warrior",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

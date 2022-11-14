@@ -1,0 +1,65 @@
+{
+ "name": "Gormak Guardian",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3640 BBY",
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vorantikus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sel-Makor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Gormak Guardian was a vorantikus that had been granted sentience by the dark side entity Sel-Makor. Sel-Makor also gave the beast the power to spread his influence and set it among the Gormak on the planet Voss, intending to use it as a pawn to corrupt the Gormak. However, the Guardian was killed by the Jedi Knight known as the Hero of Tython during a raid on the King's Hall beneath Gorma-Koss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/3640_BBY",
+  "/wiki/Vorantikus",
+  "/wiki/Sel-Makor",
+  "/wiki/Sentience/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Gormak/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Mission_to_the_King%27s_Hall",
+  "/wiki/King%27s_Hall",
+  "/wiki/Gorma-Koss",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

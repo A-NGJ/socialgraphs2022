@@ -1,0 +1,77 @@
+{
+ "name": "Hirrtu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "41 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Byalfin Dyur"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hirrtu was a male Rodian communications officer, tail gunner and cook for the Boneyard Rendezvous. He was a typical light green Rodian with the exceptions of several splotches of blue he painted on every fifth scale of his body. He most likely died when the Boneyard was destroyed by Ben Skywalker onboard a Sith Meditation Sphere.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/41_ABY",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Byalfin_Dyur",
+  "/wiki/Boneyard_Rendezvous",
+  "/wiki/Ben_Skywalker",
+  "/wiki/Sith_Meditation_Sphere",
+  "/wiki/Legacy_of_the_Force:_Exile",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

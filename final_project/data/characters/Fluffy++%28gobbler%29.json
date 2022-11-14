@@ -1,0 +1,57 @@
+{
+ "name": "Fluffy  (gobbler)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lenahra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gobbler"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Amyt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fluffy was a female Gobbler from the planet Lenahra who was adopted by Amyt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Fluffy",
+  "/wiki/Lenahra",
+  "/wiki/Gender",
+  "/wiki/Amyt",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fluffy_(gobbler)",
+  "/wiki/Padawan_(novel)",
+  "/wiki/Padawan_(audiobook)"
+ ]
+}

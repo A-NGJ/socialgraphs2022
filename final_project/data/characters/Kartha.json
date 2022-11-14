@@ -1,0 +1,48 @@
+{
+ "name": "Kartha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Elomin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Defense Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kartha was a male Elomin captain of the Pulsar in the New Republic and served under General Keyan Farlander.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Elomin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Pulsar_(DP20_frigate)",
+  "/wiki/General/Legends",
+  "/wiki/Keyan_Farlander/Legends",
+  "/wiki/The_New_Jedi_Order:_Destiny%27s_Way",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

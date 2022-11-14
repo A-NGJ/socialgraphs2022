@@ -1,0 +1,62 @@
+{
+ "name": "Darlen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darlen was a female Human Alderaanian aristocrat who escaped its destruction by the Death Star.\nBefore its destruction, she had been a friend of the planet's Princess, Leia Organa. She was later suspected by Leia to be an Imperial spy, but this later turned out to be false. Darlen married another Alderaanian survivor, Tolok, and had a baby.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Tolok",
+  "/wiki/Imperial_Spy"
+ ]
+}

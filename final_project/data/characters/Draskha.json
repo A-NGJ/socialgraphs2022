@@ -1,0 +1,38 @@
+{
+ "name": "Draskha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Draskha was a Hutt who paid Sienn Sconn to steal Rythani Products' latest prototype weapon from Moff Caerbellak. Draskha's empire began to grow after the death of Emperor Palpatine and the beginning of the New Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Sienn_Sconn",
+  "/wiki/Rythani_Products",
+  "/wiki/Rythani_Products_prototype",
+  "/wiki/Moff/Legends",
+  "/wiki/Caerbellak",
+  "/wiki/Palpatine/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Easy_Credits",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

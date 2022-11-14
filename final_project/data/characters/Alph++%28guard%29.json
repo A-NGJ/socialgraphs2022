@@ -1,0 +1,62 @@
+{
+ "name": "Alph  (guard)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alph was a male Human guard at the City of Bone slave camp on Mandalore, where he was sometimes admonished for brutally beating hapless slaves. He perished when the city was destroyed by a chain reaction started by the destruction of Shrike Squadron in 3 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alph_(Rogue)",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/City_of_Bone",
+  "/wiki/Slavery/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Shrike_Squadron_(Mandalore)",
+  "/wiki/Star_Wars_(1977)_69"
+ ]
+}

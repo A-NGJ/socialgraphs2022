@@ -1,0 +1,44 @@
+{
+ "name": "Rooshan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Pon Rooshan"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Lohema",
+      "Ryloth"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Rooshan were a small clan of Twi'leks that controlled the city of Lohema on Ryloth. The clan was led by Pon Rooshan and was rivals with the Ku'rys clan of Joreikna.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Pon_Rooshan",
+  "/wiki/Lohema",
+  "/wiki/Ryloth/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Ku%27rys",
+  "/wiki/Joreikna",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rooshan",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

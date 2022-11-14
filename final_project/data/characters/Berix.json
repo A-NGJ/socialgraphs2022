@@ -1,0 +1,65 @@
+{
+ "name": "Berix",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicDeadeyes",
+      "Deadeyes"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Berix was a Human male who served in the Galactic Republic's Military during the Galactic War. He was a member of the Deadeyes, a Republic Army sniper squad. When the Deadeyes allowed themselves to be captured by the Imperials, he and some of his fellow Deadeyes were sent to a labor camp in Hoth. Havoc Squad eventually rescued him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Deadeyes",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Republic_Army",
+  "/wiki/Sniper/Legends",
+  "/wiki/Squad/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Hoth/Legends",
+  "/wiki/Havoc_Squad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

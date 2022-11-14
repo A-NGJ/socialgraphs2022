@@ -1,0 +1,61 @@
+{
+ "name": "Beller",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Death Star"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beller was a Human male who served as the master chief gunnery officer of one of the alternate shift superlaser gunnery crews onboard the Death Star. As the ranking NCO, it would fall to Beller to actually complete the firing sequence by pulling the firing lever when the order was given. When the order was received by the CO of Superlaser Fire Control to destroy Despayre as a test of the weapon's capability and the on-shift master chief, Tenn Graneet, hesitated, Beller was offered as a possible replacement for Graneet if he could not perform his duties.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Master_chief_petty_officer",
+  "/wiki/Superlaser/Legends",
+  "/wiki/Superlaser_Fire_Control",
+  "/wiki/Destruction_of_Despayre",
+  "/wiki/Tenn_Graneet",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

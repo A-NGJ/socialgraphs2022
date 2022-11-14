@@ -1,0 +1,56 @@
+{
+ "name": "Rokka Rey",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zakuul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rokka Rey  was a citizen of the Eternal Empire of Zakuul. She worked as the announcer for the gladiatorial games at the Arena Grand.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rey_(disambiguation)",
+  "/wiki/Zakuul",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Arena_Grand",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

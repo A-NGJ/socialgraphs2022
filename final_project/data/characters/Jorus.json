@@ -1,0 +1,84 @@
+{
+ "name": "Jorus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jorus was a male Human pilot who was a flight commander in the Imperial Navy of the Sith Empire. During the Galactic War with the Galactic Republic, Jorus was killed while fighting near the Balmorran Arms Factory on the planet Balmorra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Pilot/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Jorus_C%27baoth",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Navy_(Sith_Empire)",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Balmorran_Arms_Factory",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

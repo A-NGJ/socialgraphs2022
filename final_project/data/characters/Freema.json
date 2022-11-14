@@ -1,0 +1,31 @@
+{
+ "name": "Freema",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Freema was a female Sullustan who was the aunt of journalist Den Dhur.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Den_Dhur",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

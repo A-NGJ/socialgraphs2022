@@ -1,0 +1,33 @@
+{
+ "name": "Neeta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neeta was a gambler who was present on Cloud City shortly after the Battle of Yavin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gambler/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Imperial_Double-Cross"
+ ]
+}

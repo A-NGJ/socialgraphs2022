@@ -1,0 +1,54 @@
+{
+ "name": "Moldisin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Reigat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicSandwind Team",
+      "Sandwind Team"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moldisin was a female Reigat who served as a Rebel agent and a member of the Sandwind Team on Sriluur during the Galactic Civil War. Rather than serve as the group's muscle, Moldisin worked as the Sandwind Team's tech and medic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Reigat",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Sandwind_Team_(Sriluur)",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

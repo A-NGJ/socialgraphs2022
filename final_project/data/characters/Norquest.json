@@ -1,0 +1,58 @@
+{
+ "name": "Norquest",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Norquest was a Human male and the last Imperial Governor of Cilpar. Along with Moff Boren Tascl, Norquest ruled Cilpar and the surrounding space from his Kiidan fortress. After the death of Emperor Palpatine and the expansion of the Alliance of Free Planets, Norquest conceded that it was time to hand Cilpar over to the Alliance, but Tascl had other plans. Despite their planned defense, Norquest and Tascl were deposed by the Cilparian resistance with the help of Rogue Squadron and local Alliance operatives.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Cilpar",
+  "/wiki/Moff/Legends",
+  "/wiki/Boren_Tascl",
+  "/wiki/Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Alliance_of_Free_Planets",
+  "/wiki/Mission_to_Cilpar",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_4",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Sache Skareet",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance",
+      "Resistance Army",
+      "Resistance Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sache Skareet was a human female soldier of the Resistance. She served the Resistance during its conflict with the First Order.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Resistance",
+  "/wiki/Resistance_Army",
+  "/wiki/Resistance_trooper",
+  "/wiki/Cold_War",
+  "/wiki/First_Order",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sache_Skareet",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

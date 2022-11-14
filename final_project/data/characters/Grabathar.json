@@ -1,0 +1,61 @@
+{
+ "name": "Grabathar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "ThrillSpace Travel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grabathar was a famed Wookiee war hero who fought in the Battle of Kashyyyk in the Clone Wars. Playing off his status as a war hero, Grabathar started ThrillSpace Travel, a travel company that offered tours of exotic locations across the galaxy. Business boomed after the end of the Clone Wars, forcing Grabathar to add many more captains and starships into his operation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/ThrillSpace_Travel",
+  "/wiki/Battle_of_Kashyyyk/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Grabathar",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

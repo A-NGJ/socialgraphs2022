@@ -1,0 +1,70 @@
+{
+ "name": "Aga  (Imperial)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aga was a female human who served in the Galactic Empire. By 2 BBY, she taught Imperial Academy cadets at the listening post on the planet Konkiv.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aga",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/2_BBY",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Imperial_Academy",
+  "/wiki/Imperial_cadet",
+  "/wiki/Imperial_listening_post_(Konkiv)",
+  "/wiki/Planet",
+  "/wiki/Konkiv",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/To_Thy_Metal_Heart_Be_True"
+ ]
+}

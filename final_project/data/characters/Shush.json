@@ -1,0 +1,73 @@
+{
+ "name": "Shush",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lenahra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale",
+      "pallid green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lenahrans"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shush was a teenage Nautolan from the planet Lenahra. She lived in a barrel of water, occasionally venturing out to help the group with tasks. She usually stayed behind in the shipwreck to care for the younglings so her sensitive skin would not be exposed to sunlight.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lenahra",
+  "/wiki/Nautolan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Lenahran",
+  "/wiki/Planet",
+  "/wiki/Youngling",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shush",
+  "/wiki/Padawan_(novel)",
+  "/wiki/Padawan_(audiobook)"
+ ]
+}

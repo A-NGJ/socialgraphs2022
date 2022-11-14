@@ -1,0 +1,61 @@
+{
+ "name": "O-Nena",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "57 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Re-Learning Circle"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "O-Nena was a female Human Keganite who was sent to the Re-Learning Circle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/57_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Re-Learning_Circle",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth"
+ ]
+}

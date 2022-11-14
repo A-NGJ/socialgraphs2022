@@ -1,0 +1,55 @@
+{
+ "name": "Loris",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Loris was a female human and the wife of Jarret.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Colors",
+  "/wiki/Marriage",
+  "/wiki/Jarret",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Loris",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Too_Late_to_Change",
+  "/wiki/Star_Wars_Rebels_Magazine_28"
+ ]
+}

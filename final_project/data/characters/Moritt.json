@@ -1,0 +1,73 @@
+{
+ "name": "Moritt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moritt was a Human male agent of the Republic Strategic Information Service stationed on the orbital station above Belsavis during the Galactic War. He recruited an individual affiliated with the Republic to find and deactivate a Rakatan Teleporter used by the Esh-kha in the Tomb.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Moritt",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Rakata/Legends",
+  "/wiki/Teleporter",
+  "/wiki/Esh-kha",
+  "/wiki/The_Tomb",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Moritt",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

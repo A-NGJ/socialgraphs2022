@@ -1,0 +1,39 @@
+{
+ "name": "Julept",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Julept was a male Sullustan who often visited Farrimmer Cafe to swap stories and sell scraps of technology he had acquired previously. He would usually regal other patrons with a story of a Wookiee companion who conviced him to travel to Byss to kill both Darth Vader and the Emperor, though he would always admit, in the end, that it was a joke.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Farrimmer_Cafe",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Byss/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

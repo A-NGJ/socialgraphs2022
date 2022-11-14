@@ -1,0 +1,53 @@
+{
+ "name": "Sapra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sapra was an old Corellian. He was one of a number of the freighter crews contracted by the Galactic Empire to supply their base on the planet Sarahwiee. Sapra played sabacc with Captain Tere Metallo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sarahwiee_Imperial_base",
+  "/wiki/Planet/Legends",
+  "/wiki/Sarahwiee",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Tere_Metallo",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Rendezvous_with_Destiny",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

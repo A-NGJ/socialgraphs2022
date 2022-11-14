@@ -1,0 +1,71 @@
+{
+ "name": "Cebz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gaftikar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Marit"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cebz was a dominant female Marit who participated in the Battle of Gaftikar. Before the battle, she led RC-1136 and RC-3222 to Eyat City for reconnaissance of the city.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gaftikar",
+  "/wiki/Marit",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Battle_of_Gaftikar",
+  "/wiki/Darman_Skirata",
+  "/wiki/Atin_Skirata",
+  "/wiki/Eyat",
+  "/wiki/City/Legends",
+  "/wiki/Republic_Commando:_True_Colors"
+ ]
+}

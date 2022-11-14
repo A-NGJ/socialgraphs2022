@@ -1,0 +1,29 @@
+{
+ "name": "Fitre",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fitre was a Kubaz, who lived during the waning years of the Galactic Republic.\nFitre had a broad knowledge of beverages and was employed as a bartender in the Fungus Pit, a cantina that was located on the planet Ryloth. Fitre was present in the cantina when it was attacked by a group of slavers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Fungus_Pit",
+  "/wiki/Cantina/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Twi%27light_Storm"
+ ]
+}

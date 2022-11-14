@@ -1,0 +1,45 @@
+{
+ "name": "Puchek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nim Abek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Puchek was a male Rodian who worked for the Nikto pirate Nim Abek. He resided on Abek's Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nim_Abek",
+  "/wiki/Nikto/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Abek%27s_Station",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Felspern",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mon Calamari Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Felspern was a Mon Calamari councilor who ran for the position of Senator.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Mon_Calamari_Council",
+  "/wiki/Senator/Legends",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

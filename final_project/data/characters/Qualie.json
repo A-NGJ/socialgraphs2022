@@ -1,0 +1,63 @@
+{
+ "name": "Qualie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qualie was a female Twi'lek Jedi Padawan of the Galactic Republic. During the the Galactic War she came to Voss, where she asked a Republic individual for assistance in destroying the Evuk-Nosk.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss",
+  "/wiki/Evuk-Nosk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Qualie",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

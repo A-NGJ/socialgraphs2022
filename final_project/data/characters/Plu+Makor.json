@@ -1,0 +1,80 @@
+{
+ "name": "Plu Makor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Demar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ship Shop G-S7",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plu Makor was a Near-Human male Rebel Alliance operative who ran a ship repair shop on G-Station Seven, a space station that orbited the planet Genesia. He was distinguished from a typical Human by his red eyes and the short barbs which surrounded his eyes and temples. He was also the owner of the Helping Hand, a YT-1300 light freighter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Demar",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Ship_Shop_G-S7",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/G-Station_Seven",
+  "/wiki/Space_station/Legends",
+  "/wiki/Orbit/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Genesia",
+  "/wiki/Human/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Helping_Hand",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Flashpoint!_Brak_Sector",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

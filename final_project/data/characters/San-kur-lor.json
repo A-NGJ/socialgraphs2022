@@ -1,0 +1,49 @@
+{
+ "name": "San-kur-lor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tiss'sharl"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tiss'shar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tiss'sharl League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "San-kur-lor was a successful Tiss'shar businessbeing who became a notable constituent of the Tiss'sharl League.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/San_(disambiguation)",
+  "/wiki/Tiss%27sharl",
+  "/wiki/Tiss%27shar",
+  "/wiki/Tiss%27sharl_League",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

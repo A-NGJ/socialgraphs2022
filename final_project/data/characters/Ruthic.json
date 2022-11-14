@@ -1,0 +1,59 @@
+{
+ "name": "Ruthic",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tulpaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rakata"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tulpaa tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ruthic was a Rakata elder who was the head of the Tulpaa tribe. At some point, Ruthic released the former Sith court magician Raspir from a Rakatan mind trap.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tulpaa",
+  "/wiki/Rakata/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tulpaa_tribe",
+  "/wiki/Sith/Legends",
+  "/wiki/Raspir",
+  "/wiki/Mind_prison",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ruthic",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

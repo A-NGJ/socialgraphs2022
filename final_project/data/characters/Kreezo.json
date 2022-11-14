@@ -1,0 +1,55 @@
+{
+ "name": "Kreezo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel AllianceAlliance Starfighter Corps",
+      "Alliance Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Kreezo was a Rebel Alliance starfighter pilot during the Galactic Civil War. He was known to train new members of Havoc Squadron and had a small house in Tyrena on Corellia. He was known to give Z-95 Headhunters to members wishing to join Havoc Squadron.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Starfighter_Corps",
+  "/wiki/Trehla_Keelo",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Captain/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Havoc_Squadron",
+  "/wiki/Tyrena/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Z-95_Headhunter/Legends",
+  "/wiki/Star_Wars_Galaxies:_Jump_to_Lightspeed",
+  "/wiki/Sony"
+ ]
+}

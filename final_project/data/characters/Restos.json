@@ -1,0 +1,88 @@
+{
+ "name": "Restos",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Batonn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Batonn Defense Force",
+      "Batonn Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Restos was a male governor of Batonn. He was being given aid by the Imperial Military to combat rebel insurgents on Batonn, that were being lead by Nevil Cygni. The insurgents were neutralized but many other civilians were killed as a result of a bomb that was detonated by Arihnda Pryce.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Batonn",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Batonn_Defense_Force",
+  "/wiki/Governor",
+  "/wiki/Imperial_Military",
+  "/wiki/Batonn_insurgents",
+  "/wiki/Nevil_Cygni",
+  "/wiki/Death",
+  "/wiki/Arihnda_Pryce",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Restos",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)",
+  "/wiki/Thrawn_4",
+  "/wiki/Thrawn_5",
+  "/wiki/Thrawn_6"
+ ]
+}

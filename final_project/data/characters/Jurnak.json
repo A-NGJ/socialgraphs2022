@@ -1,0 +1,66 @@
+{
+ "name": "Jurnak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jurnak was a Human male scientist who worked for the reconstituted Sith Empire during the Galactic War. In 3642 BBY, Jurnak was stationed in a Imperial laboratory on the planet of Hoth where he and his colleagues studied the salvage that Imperial soldiers recovered from the crashed starship; one of note was the regenerative armor, which restored life of individuals on the verge of the death. The Empire gave the armor to the pirate Valon to use in his attacks on the Galactic Republic. Jurnak was later captured by the Rift Alliance and defected to the Republic in exchange for information.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Scientist/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Regenerative_armor",
+  "/wiki/Pirate/Legends",
+  "/wiki/Valon_(pirate)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Rift_Alliance",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

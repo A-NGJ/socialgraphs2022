@@ -1,0 +1,51 @@
+{
+ "name": "Feyodor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Feyodor's Tavern"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Feyodor was a male Human and Corellian who owned and ran Feyodor's Tavern in Capital City on Omman Minor. A noted chef, his establishment was known for its dining options, as well as being a hub for smugglers, bounty hunters, and pirates to find work.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Feyodor%27s_Tavern",
+  "/wiki/Capital_City_(Omman)",
+  "/wiki/Omman_Minor",
+  "/wiki/Chef/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Idol_Intentions",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

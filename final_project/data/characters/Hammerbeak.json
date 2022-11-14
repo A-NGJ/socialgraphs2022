@@ -1,0 +1,49 @@
+{
+ "name": "Hammerbeak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mantellian flutterplume"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hammerbeak was a large Mantellian flutterplume that lived on the planet Alderaan during the Alderaan Civil War. It frequently hunted in the stretch of the Fornaak River that was located west of House Baliss, between the Alsakan Lowlands and King's Pass. Hammerbeak was killed during the last years of the Cold War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Mantellian_flutterplume/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Fornaak_River",
+  "/wiki/House_Baliss_(estate)",
+  "/wiki/Alsakan_Lowlands",
+  "/wiki/King%27s_Pass",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

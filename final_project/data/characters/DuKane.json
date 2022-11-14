@@ -1,0 +1,64 @@
+{
+ "name": "DuKane",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security Forces",
+      "Royal House of Naboo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "DuKane was a Human male member of the Royal Naboo Security Forces who served under Lieutenant Quarsh Panaka during the reign of Ars Veruna.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dukan",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Royal_House_of_Naboo/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Quarsh_Panaka/Legends",
+  "/wiki/Ars_Veruna/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/DuKane",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Monster",
+  "/wiki/Star_Wars_Gamer_2"
+ ]
+}

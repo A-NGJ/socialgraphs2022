@@ -1,0 +1,70 @@
+{
+ "name": "Leeno",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "5 ABY",
+      "Ruusan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leeno was a Human male stormtrooper who was assigned to join Jerec's fleet during the Galactic Civil War.\nIn 5 ABY, Leeno was a member of Patrol 341, led by Lieutenant Aagon and Sergeant Forley. The patrol was destroyed on Ruusan by a collection of settlers led by Kyle Katarn, Jan Ors, and Grif Grawley. Leeno was killed during the battle by an indigenous Bouncer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/5_ABY/Legends",
+  "/wiki/Ruusan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Jerec_(Inquisitor)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Patrol_341",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Aagon",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Forley",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Jan_Ors",
+  "/wiki/Grif_Grawley",
+  "/wiki/Bouncer",
+  "/wiki/Dark_Forces:_Jedi_Knight"
+ ]
+}

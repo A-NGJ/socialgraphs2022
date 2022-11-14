@@ -1,0 +1,54 @@
+{
+ "name": "Bishta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bishta was a human male, who, along with his partner Argin, planned to steal from the antiquities store of the collector Dok-Ondar. When Bishta heard of the destruction of Dok-Ondar's security droid BK-86, he contacted Argin, suggesting they carry out the job, but Argin informed him that the droid had been destroyed in a skirmish with Kase Finto, who similarly attempted to steal from Dok-Ondar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Argin",
+  "/wiki/Thief",
+  "/wiki/Dok-Ondar%27s_Den_of_Antiquities",
+  "/wiki/Collector",
+  "/wiki/Dok-Ondar",
+  "/wiki/Security_droid",
+  "/wiki/BK-86",
+  "/wiki/Droid",
+  "/wiki/Kase_Finto",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bishta",
+  "/wiki/Star_Wars:_Datapad"
+ ]
+}

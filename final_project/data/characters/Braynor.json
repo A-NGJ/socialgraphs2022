@@ -1,0 +1,46 @@
+{
+ "name": "Braynor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Braynor was a male Human Moff of the Sith Empire. During the Galactic War he was the overseer of the Hoth system, where he thanked an Imperial for taking out the entire Talz force threatening the Dorn Base.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Human/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Hoth_system/Legends",
+  "/wiki/Talz/Legends",
+  "/wiki/Dorn_Base",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Jisan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kadas'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Contraband Resale Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jisan was a male Kadas'sa'Nikto merchant of the Hutt Cartel residing on the Vaiken Spacedock during the Cold War and Galactic War.\nJisan appears in the video game Star Wars: The Old Republic as a Contraband Resale reputation vendor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kadas%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Contraband_Resale_Corporation",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Cartel_Market"
+ ]
+}

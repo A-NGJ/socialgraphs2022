@@ -1,0 +1,64 @@
+{
+ "name": "Coni-Co",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lew'el"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wind-truster"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Feathers",
+     "values": [
+      "Scarlet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Tonn-Glon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Coni-Co was the name given to a young wind-truster who was the personal mount of the Lew'elan Tonn-Glon. Luke Skywalker rode the wind-truster while attempting to circumvent the globe of Lew'el.\nIn The Legends of Luke Skywalker, Coni-Co is described as being scarlet: \" caressed the crest ridge of his scarlet mount and urged him to keep up.\" However, in J.G. Jones's chapter illustration, the wind-truster is depicted as a white bird.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lew%27el",
+  "/wiki/Wind-truster",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tonn-Glon",
+  "/wiki/Lew%27elan",
+  "/wiki/Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker_(audiobook)"
+ ]
+}

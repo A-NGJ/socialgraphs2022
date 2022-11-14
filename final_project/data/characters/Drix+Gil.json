@@ -1,0 +1,35 @@
+{
+ "name": "Drix Gil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snivvian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Drix Gil was a male Snivvian who worked at the castle of Maz Kanata.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Snivvian",
+  "/wiki/Gender",
+  "/wiki/Takodana_Castle",
+  "/wiki/Maz_Kanata",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Drix_Gil",
+  "/wiki/The_Face_of_Evil",
+  "/wiki/Tales_from_a_Galaxy_Far,_Far_Away:_Aliens:_Volume_I"
+ ]
+}

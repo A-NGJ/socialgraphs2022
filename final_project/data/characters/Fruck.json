@@ -1,0 +1,42 @@
+{
+ "name": "Fruck",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fruck was a Gamorrean boar. He was one of Captain Ugmush's husbands and a gunner onboard her ship, the Zicreex.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Ugmush",
+  "/wiki/Gunner/Legends",
+  "/wiki/Zicreex",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fruck",
+  "/wiki/Planet_of_Twilight"
+ ]
+}

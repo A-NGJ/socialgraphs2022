@@ -1,0 +1,55 @@
+{
+ "name": "Jhemiti",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Jhemiti was a male Mon Calamari officer who served in the New Republic Defense Force.\nIn 6 ABY he served on the Corusca Rainbow, an Immobilizer 418 interdictor cruiser under the command of Uwlla Iillor, in preparation for the assault on Coruscant. Three years later, he was promoted to captain.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Combined_Defense_Forces_of_the_New_Republic",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/6_ABY/Legends",
+  "/wiki/Corusca_Rainbow",
+  "/wiki/Immobilizer_418_cruiser/Legends",
+  "/wiki/Uwlla_Iillor",
+  "/wiki/Liberation_of_Coruscant_(Galactic_Civil_War)",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_Isard%27s_Revenge",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

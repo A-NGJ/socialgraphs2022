@@ -1,0 +1,60 @@
+{
+ "name": "Guarran",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Foamwander Five",
+      "Mon Calamari Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Colonel Guarran was a Mon Calamari that served as the Director of Shipyard Defense of Dac during the Galactic Civil War.\nA founding member of the Foamwander Five, Guarran was an early organizer of Mon Calamari Resistance to the Imperial subjugation of Dac. After the liberation of Dac, Guarran sought to play a larger role in the defense of his homeworld. The Mon Calamari military officers objected to his participation in the Foamwander Five, believing his skills to be that of a guerrilla warrior and his reputation to border on terrorist leader. Despite this, Guarran earned their respect and took a seat on the Mon Calamari Council.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Foamwander_Five",
+  "/wiki/Mon_Calamari_Council",
+  "/wiki/Colonel/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Mon_Calamari_Resistance",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

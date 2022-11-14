@@ -1,0 +1,74 @@
+{
+ "name": "Cori",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Maramere"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mere"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cori was a female Mere cruiser captain, who fought for the Galactic Republic before the onset of the Clone Wars. In 22 BBY, she fought in a space battle during the First Battle of Geonosis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Maramere",
+  "/wiki/Mere",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Mere_cruiser",
+  "/wiki/Captain/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/First_Battle_of_Geonosis/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cori",
+  "/wiki/Star_Wars:_Jedi_Starfighter"
+ ]
+}

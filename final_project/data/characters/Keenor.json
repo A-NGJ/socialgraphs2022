@@ -1,0 +1,48 @@
+{
+ "name": "Keenor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keenor was a Republic trooper who was dispatched by Grand Master Satele Shan as part of a strike team to secure the Allusis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Republic_trooper",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Satele_Shan",
+  "/wiki/Allusis",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Keenor",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

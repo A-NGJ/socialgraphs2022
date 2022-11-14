@@ -1,0 +1,65 @@
+{
+ "name": "Bosmihi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kroctar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kroctari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unified Factions",
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lord Superior Bosmihi was the leader of the Kroctari people, and their government, the Unified Factions.\nBosmihi was one of the first to make contact with Grand Admiral Thrawn, after what seemed to be his return from the dead. What Bosmihi did not know was that Thrawn was still dead and the return of Thrawn was really a cleverly orchestrated operation lead by Grodin Tierce and Moff Vilim Disra, and played by Flim, who looked remarkably like Thrawn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kroctar",
+  "/wiki/Kroctari",
+  "/wiki/Gender/Legends",
+  "/wiki/Unified_Factions",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Lord_Superior",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Grodin_Tierce_(clone)",
+  "/wiki/Moff/Legends",
+  "/wiki/Vilim_Disra",
+  "/wiki/Flim",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

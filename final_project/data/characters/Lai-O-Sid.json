@@ -1,0 +1,65 @@
+{
+ "name": "Lai-O-Sid",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tiss'sharl"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tiss'shar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tiss'sharl League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Secretary Lai-O-Sid was a Tiss'shar.\nAn eligible candidate for the position of President of the Tiss'sharl League, he was assassinated by order of the ambitious Geor-Dan-Thi who sought to remove his opponents for the Presidency.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tiss%27sharl",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Tiss%27shar",
+  "/wiki/Gender/Legends",
+  "/wiki/Tiss%27sharl_League",
+  "/wiki/Secretary/Legends",
+  "/wiki/Geor-Dan-Thi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lai-O-Sid",
+  "/wiki/Empire_31"
+ ]
+}

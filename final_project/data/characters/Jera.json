@@ -1,0 +1,47 @@
+{
+ "name": "Jera",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Marus Grayson"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jera was a Human male who worked for Marus Grayson during the Galactic Civil War. He once teamed up with Kerr to find a skilled thief to protect the Jewel of Yavin during its auction in Cloud City.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marus_Grayson",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kerr",
+  "/wiki/Thief/Legends",
+  "/wiki/Jewel_of_Yavin/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

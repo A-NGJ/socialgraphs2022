@@ -1,0 +1,56 @@
+{
+ "name": "Parsons",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "Between 30-20 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Parsons, better known by his stage name, the Anvil was a male Human native to the Mid Rim world Ord Mantell during the Galactic Civil War.\nA resident of the city of Worlport, Parsons was an undercut thug with delusions of grandeur. Donning a red mask and taking the stage name \"the Anvil\", he became a midrate fighter in the arenas of the Loaded Savrip. While his career was not a promising one, due to a string of bad luck, he had become a fixture at the Savrip during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/30_BBY/Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mid_Rim",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Worlport/Legends",
+  "/wiki/Loaded_Savrip",
+  "/wiki/Mask_of_the_Pirate_Queen"
+ ]
+}

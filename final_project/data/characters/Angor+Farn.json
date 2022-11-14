@@ -1,0 +1,49 @@
+{
+ "name": "Angor Farn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sleeft Docking Bay Maintenance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Angor Farn was a Bith hired by Sleeft Docking Bay Maintenance to ship a load of power converters to Corellia in 0 ABY. He picked up a load of parts Sleeft had stolen from the Notsub Shipping Company by mistake, and led agents from both Sleeft and Notsub on a chase through Mos Eisley.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sleeft_Docking_Bay_Maintenance",
+  "/wiki/Power_converter/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Notsub_Shipping_Company",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/A_Bith_Saved_Is_A_Bith_Learned",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley"
+ ]
+}

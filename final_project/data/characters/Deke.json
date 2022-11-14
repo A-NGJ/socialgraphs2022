@@ -1,0 +1,37 @@
+{
+ "name": "Deke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Deke was a slicer who, along with Shell, sliced into a New Republic Intelligence Service database in the Pawalo District of Coruscant. Lieutenant Marcham Prace was aware of the crime, having placed a tracker on Deke. Deke was stunned and arrested, and the data he stole recovered.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Shell_(slicer)",
+  "/wiki/New_Republic_Intelligence_Service",
+  "/wiki/Pawalo_District",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Marcham_Prace",
+  "/wiki/Cracken%27s_Threat_Dossier"
+ ]
+}

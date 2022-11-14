@@ -1,0 +1,77 @@
+{
+ "name": "Ki-Ve",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ki-Ve was a male Voss mystic who foresaw Sith Lord Torius' plan to detonate a ZR-57 orbital strike bomb at Voss-Ka. The Voss knew that he would be stopped by Havoc Squad Major and did not interfere until the Sith was dead, after which they revealed all they knew and asked the Republic to give them the bomb for study.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Torius",
+  "/wiki/ZR-57_orbital_strike_bomb",
+  "/wiki/Voss-Ka",
+  "/wiki/Havoc_Squad",
+  "/wiki/Major/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Meteor_(Havoc_Squad)"
+ ]
+}

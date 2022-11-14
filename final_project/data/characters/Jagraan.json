@@ -1,0 +1,59 @@
+{
+ "name": "Jagraan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Smuggler"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jagraan was a male Trandoshan present in the Anoat sector during the Iron Blockade. He eventually joined the crew run by Riley's sibling.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Trandoshan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/The_Smuggler",
+  "/wiki/Anoat_sector",
+  "/wiki/Iron_Blockade",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jagraan",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

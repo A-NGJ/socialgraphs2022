@@ -1,0 +1,33 @@
+{
+ "name": "Naboka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Naboka was a male Ugnaught slicer in Cloud City during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

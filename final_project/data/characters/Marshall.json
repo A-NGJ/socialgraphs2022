@@ -1,0 +1,75 @@
+{
+ "name": "Marshall",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic ArmyEighty-first Infantry",
+      "Republic ArmyEighty-first Infantry",
+      "Eighty-first Infantry"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Marshall was a human male officer of the Galactic Republic and a member of the Eighty-first Infantry. He was stationed with his men above Voss, where they saw no action whatsoever. After the Havoc Squad Commander convinced Senator Evran to re-deploy 81st elsewhere, Marshall and his men were extremely grateful. They soon returned their favor by helping the Major apprehend General Arkos Rakton during the Battle of Corellia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Marshal_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Eighty-first_Infantry",
+  "/wiki/Captain/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss",
+  "/wiki/Havoc_Squad",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Senator/Legends",
+  "/wiki/Evran",
+  "/wiki/Major/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Arkos_Rakton",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

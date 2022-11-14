@@ -1,0 +1,37 @@
+{
+ "name": "Pol SulliVaan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yag'Dhul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Givin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pol SulliVaan was an ambassador of the Givin. When Leia Organa Solo and Luke Skywalker arrived on Yag'Dhul, SulliVaan greeted Leia in a mathematical formula that was different from their standard greeting. Luke Skywalker quickly figured out what the desired result was, and sent a mental image into Leia's mind.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yag%27Dhul/Legends",
+  "/wiki/Givin/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

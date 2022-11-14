@@ -1,0 +1,64 @@
+{
+ "name": "Hakma Kinto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sriluur"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gardulla the Elder's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hakma Kinto was a male Weequay enforcer who worked for Gardulla the Hutt during the waning years of the Republic Classic era. In 32 BBY, he was also wanted by the InterGalactic Banking Clan for hijacking a cash transport on Sriluur.\nHakma Kinto's bounty was worth 3,000 credits alive and 1,500 credits dead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gardulla_the_Elder%27s_criminal_empire",
+  "/wiki/Gardulla_Besadii_the_Elder/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Republic_Classic_era",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/InterGalactic_Banking_Clan/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

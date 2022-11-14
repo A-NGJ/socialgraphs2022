@@ -1,0 +1,57 @@
+{
+ "name": "Pasha's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Obroan Institute for Archaeology"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The man was the father of Pasha. He worked at the Obroan Institute for Archaeology studying Jedi artifacts. When Roan Novachez came to visit, Pasha's father showed them some of his Jedi artifacts in his office. But Roan accidentally ripped a page from an ancient book causing Pasha's father to get angry and put the book away. Roan thought that he was mad at him for the rest of the visit.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Obroan_Institute_for_Archaeology",
+  "/wiki/Parent/Legends",
+  "/wiki/Pasha",
+  "/wiki/Jedi_artifact/Legends",
+  "/wiki/Roan_Novachez",
+  "/wiki/The_Path_of_the_Jedi",
+  "/wiki/Jedi_Academy:_Return_of_the_Padawan"
+ ]
+}

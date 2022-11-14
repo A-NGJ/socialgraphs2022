@@ -1,0 +1,73 @@
+{
+ "name": "Razak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Razak was a male Human criminal at the time of the Cold War. In 3643 BBY, Razak went to an auction hosted by Bilikin Drell concerning the target list of the Great Hunt, as he was anxious that he was a bounty. However, he and all that were at the auction were killed by an unidentified bounty hunter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Bilikin_Drell",
+  "/wiki/Great_Hunt_(competition)",
+  "/wiki/Grand_Champion_of_the_Great_Hunt_(Cold_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

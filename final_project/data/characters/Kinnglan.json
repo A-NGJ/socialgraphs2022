@@ -1,0 +1,38 @@
+{
+ "name": "Kinnglan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bareesh"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kinnglan was a Hutt who lived during the time of the Galactic Civil War. Kinnglan was a member of the Bareesh kajidic",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Bareesh",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

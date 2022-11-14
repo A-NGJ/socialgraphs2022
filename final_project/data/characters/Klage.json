@@ -1,0 +1,68 @@
+{
+ "name": "Klage",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Red Light Lancers",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klage was a Zabrak male who served the Galactic Republic during the Cold War. At first he was the leader of the tech organization of the Red Light Lancers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Red_Light_Lancers",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Klage",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Nar_Shaddaa/Legends"
+ ]
+}

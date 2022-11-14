@@ -1,0 +1,52 @@
+{
+ "name": "Maxim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maxim was a male Human senator who served in the Galactic Senate during the waning years of the Republic. In 33 BBY, he caused a minor scandal, resulting in charges of corruption to be made against him. Supreme Chancellor Finis Valorum did not intervene due to issues with the Trade Federation arising from the Nebula Front and destroyed the Revenue.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Maxim_(Rebel)",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Finis_Valorum/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Nebula_Front/Legends",
+  "/wiki/Revenue",
+  "/wiki/Cloak_of_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

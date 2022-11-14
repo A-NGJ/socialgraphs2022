@@ -1,0 +1,52 @@
+{
+ "name": "Rill  (bounty hunter)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rill was a Human female bounty hunter who often worked for the Empire. On the recommendation of Sener of the Imperial Security Bureau, Rill was hired by an Imperial governor to capture the leader of an underground Rebel network in an Imperial controlled city. The governor was aware that the target, Tamaron Rill, was the bounty hunter's own father. She accepted the assignment.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Rill_(species)",
+  "/wiki/Rill",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sener",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Tamaron_Rill",
+  "/wiki/West_End_Games",
+  "/wiki/Specially_Qualified",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

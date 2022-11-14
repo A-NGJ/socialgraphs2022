@@ -1,0 +1,68 @@
+{
+ "name": "Peralli",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1.5 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nym"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Peralli was a male Mon Calamari spacer associated with Nym around 1.5 ABY. He was killed by Finn Darktrin when Imperials attacked his ship while bringing Dusque Mistflier and Finn to Corellia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nym/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Finn_Darktrin",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Dusque_Mistflier",
+  "/wiki/Corellia/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Peralli",
+  "/wiki/Star_Wars_Galaxies:_The_Ruins_of_Dantooine",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

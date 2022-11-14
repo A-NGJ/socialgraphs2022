@@ -1,0 +1,47 @@
+{
+ "name": "RuuR'Ur",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "RuuR'Ur was a Tusken Raider who camped out at the Canyon Dune Turn, taking shots at the podracers during the Boonta Eve Classic in 32 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Canyon_Dune_Turn/Legends",
+  "/wiki/Boonta_Eve_Classic/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Young_Jedi_Collectible_Card_Game",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

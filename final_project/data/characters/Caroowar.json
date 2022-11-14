@@ -1,0 +1,54 @@
+{
+ "name": "Caroowar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Caroowar was a male Wookiee Commander in the Galactic Republic stationed on Ilum to aid Supreme Commander Rans along with Commanders Jiyan Dar and Yet Jub.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Ilum/Legends",
+  "/wiki/Rans",
+  "/wiki/Jiyan_Dar",
+  "/wiki/Yet_Jub",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Caroowar",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

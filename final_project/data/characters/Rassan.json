@@ -1,0 +1,62 @@
+{
+ "name": "Rassan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "ChemFlex",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rassan was a male Duros doctor living during the Cold War. He used to be a chief scientist of the ChemFlex company. While on Nar Shaddaa, he warned a Galactic Republic citizen about an enemy attack on his lab, which was researching deadly biological weapons.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/ChemFlex",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rassan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

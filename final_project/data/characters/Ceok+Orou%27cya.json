@@ -1,0 +1,60 @@
+{
+ "name": "Ceok Orou'cya",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bothawui"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bothan Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ceok Orou'cya was a Bothan male and First Secretary of the Bothan Council during the Caamas Document Crisis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothawui/Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bothan_Council",
+  "/wiki/First_Secretary",
+  "/wiki/Caamas_Document_Crisis",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Borsk_Fey%27lya",
+  "/wiki/19_ABY/Legends"
+ ]
+}

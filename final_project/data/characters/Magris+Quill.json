@@ -1,0 +1,65 @@
+{
+ "name": "Magris Quill",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "32 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anomid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.4 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grayish"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Magris Quill was a male Anomid criminal dealmaker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Anomid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Magris_Quill",
+  "/wiki/Galaxy_Guide_11:_Criminal_Organizations",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

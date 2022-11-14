@@ -1,0 +1,52 @@
+{
+ "name": "Makara",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Makara was a female Twi'lek and Oskara's sister.\nMakara was a native of the planet Ryloth and Oskara's sister. When she was captured by Aqualish thugs to work in the Ryll spice mines, Oskara offered her services to the gang leader as an \"experienced bounty hunter.\" Her first job went well and she was mentored by Gyax, a veteran hunter. Oskara continued to work for the spice mine gang to keep her sister safe.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Oskara",
+  "/wiki/Planet/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Ryll/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Gyax",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Escape_from_Mos_Shuuta",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Beginner_Game",
+  "/wiki/The_Long_Arm_of_the_Hutt"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Narrin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Narrin was a captain who served the Galactic Empire around the time of the mission to Ryloth. He replaced Major Borkas while the latter tried to save Moff Mors from an attack to her life.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Galactic_Empire",
+  "/wiki/Captain",
+  "/wiki/Time",
+  "/wiki/Mission_to_Ryloth",
+  "/wiki/Major",
+  "/wiki/Steen_Borkas",
+  "/wiki/Moff",
+  "/wiki/Delian_Mors",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Narrin",
+  "/wiki/Lords_of_the_Sith",
+  "/wiki/Lords_of_the_Sith_(audiobook)"
+ ]
+}

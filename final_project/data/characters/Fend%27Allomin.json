@@ -1,0 +1,67 @@
+{
+ "name": "Fend'Allomin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fend'Allomin was a Twi'lek female who lived during the time of the Clone Wars and was enslaved for the vast majority of her life. At some point during the early years of her adult life, Fend'Allomin was rescued from slavery by Jedi Master Vhiin Thorla and taken to the hidden settlement known as The Enclave, with several others of her kind.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Vhiin_Thorla",
+  "/wiki/The_Enclave",
+  "/wiki/Twi%27light_Storm",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

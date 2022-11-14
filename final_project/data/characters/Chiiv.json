@@ -1,0 +1,62 @@
+{
+ "name": "Chiiv",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chiiv was a male Rodian working with the reconstituted Sith Empire on Nar Shaddaa during the Cold War. Serving as an informant to Imperial Intelligence, he revealed the existence of traitors among the guards in the Shadow Town prison district. Chiiv, working alongside Agent Jalis, identified the traitors and found that they had been taking bribes from the Republic. However, the traitors found Jalis and killed him, prompting Chiiv to ask Imperial-aligned spacers to eliminate the traitors in order to save the guards that were still loyal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Shadow_Town",
+  "/wiki/Prison/Legends",
+  "/wiki/Imperial_Agent",
+  "/wiki/Jalis",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

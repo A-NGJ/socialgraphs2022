@@ -1,0 +1,48 @@
+{
+ "name": "Plitht",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Smuggler"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plitht was a male Nikto active in the Anoat sector during the Iron Blockade. He eventually joined the crew run by a smuggler who was themselves affiliated with the Uprising. Although Plitht was too crude for the Trade Spine League, he was a renowned interference pilot skilled at finding credits.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nikto",
+  "/wiki/Gender",
+  "/wiki/The_Smuggler",
+  "/wiki/Anoat_sector",
+  "/wiki/Iron_Blockade",
+  "/wiki/Uprising",
+  "/wiki/Trade_Spine_League",
+  "/wiki/Pilot",
+  "/wiki/Credit",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

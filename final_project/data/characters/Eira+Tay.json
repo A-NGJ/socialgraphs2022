@@ -1,0 +1,55 @@
+{
+ "name": "Eira Tay",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sephi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Lavender"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krysiant Rheden's crew"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eira Tay was a Sephi female engineer who served aboard the freighter Eclipse as a member of Krysiant Rheden's crew.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sephi",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Engineer",
+  "/wiki/Freighter",
+  "/wiki/Eclipse_(freighter)",
+  "/wiki/Krysiant_Rheden",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eira_Tay",
+  "/wiki/Mercy_Mission_(short_story)",
+  "/wiki/The_Rise_of_the_Empire"
+ ]
+}

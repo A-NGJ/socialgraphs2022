@@ -1,0 +1,73 @@
+{
+ "name": "Larka Nimondro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tahlboor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hobor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nimondro family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Larka Nimondro was the daughter of Chief Nimondro, leader of the Hobors. She was in love with Ket Krax, and was framed for his murder by Jake Harthan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tahlboor",
+  "/wiki/Hobor",
+  "/wiki/Gender/Legends",
+  "/wiki/Nimondro_family",
+  "/wiki/Chief/Legends",
+  "/wiki/Nimondro",
+  "/wiki/Ket_Krax",
+  "/wiki/Jake_Harthan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Larka_Nimondro",
+  "/wiki/Star_Wars_Droids:_The_Protocol_Offensive",
+  "/wiki/C-3PO:_Tales_of_the_Golden_Droid"
+ ]
+}

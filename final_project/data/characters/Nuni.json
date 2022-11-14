@@ -1,0 +1,63 @@
+{
+ "name": "Nuni",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gala"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Galacian"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark moonlight"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hill people"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nuni was a member of the Hill people who lived on the planet Gala. In 44 BBY, Nuni was tasked by Elan, leader of the Hill people, to take all the children and elders to a safe shelter when the royal guards attacked the Hill people's encampment.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Nuni",
+  "/wiki/Gala",
+  "/wiki/Galacian",
+  "/wiki/Blue",
+  "/wiki/Hill_people",
+  "/wiki/Dana_(Galacian)",
+  "/wiki/Planet/Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Elan_(Galacian)",
+  "/wiki/Royal_guard_(Gala)",
+  "/wiki/Battle_of_Gala",
+  "/wiki/Jedi_Apprentice:_The_Mark_of_the_Crown",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

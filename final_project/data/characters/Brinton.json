@@ -1,0 +1,66 @@
+{
+ "name": "Brinton",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brinton was a Human male citizen of the Galactic Republic living during the Galactic War. Stationed on Hoth during 3642 BBY, he worked as a cantina vendor and sold drinks inside Aurek Base Command Bunker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Hoth/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Cantina/Legends",
+  "/wiki/Aurek_Base",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

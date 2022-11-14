@@ -1,0 +1,27 @@
+{
+ "name": "D'we'mouk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "D'we'mouk was the Nikto representative who signed his species into Hutt servitude as part of the Treaty of Vontor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Treaty_of_Vontor",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

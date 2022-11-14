@@ -1,0 +1,62 @@
+{
+ "name": "Norrick",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Customs",
+      "Imperial Customs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Norrick was a male redheaded individual who served the Galactic Empire as the commander of an Imperial Customs corvette during the Galactic Civil War. In 3 ABY, Norrick and his men were tasked with searching starships in the Both system that were inbound for the planet Bothawui, and during the course of the assignment he checked the vessel of a group of freelancers who were transporting some agricultural machinery to the world.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Light_corvette/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Both_system",
+  "/wiki/Planet/Legends",
+  "/wiki/Bothawui/Legends",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Assignment:_Decoy",
+  "/wiki/Star_Wars_Galaxy_Magazine_7"
+ ]
+}

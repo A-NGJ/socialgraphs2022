@@ -1,0 +1,70 @@
+{
+ "name": "Koloch",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koloch was an male Imperial General stationed on Quesh during the Cold War. He assisted Imperial personnel in the downing of the Three Families, Hutt dissidents based on the planet of his military administration's control.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/General/Legends",
+  "/wiki/Quesh",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Three_Families",
+  "/wiki/Hutt/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Koloch",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Orix",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orix and his fellow Trandoshan, Dimogog, were a pair of leg-breakers who accompanied the Sullustan Jubieck in trying to obtain the head of L8O-RC from Ginder the Bimm. Orix started a three-way battle for the head when he tried to make a grab for it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dimogog",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Jubieck_(criminal)",
+  "/wiki/L8O-RC",
+  "/wiki/Ginder",
+  "/wiki/Bimm_(furred_species)",
+  "/wiki/Wizards.com",
+  "/wiki/Head_Trip"
+ ]
+}

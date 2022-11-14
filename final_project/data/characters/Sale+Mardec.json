@@ -1,0 +1,57 @@
+{
+ "name": "Sale Mardec",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gotida"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "2 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sale Mardec was a Human female.\nShe lived in Jalor City with her parents Riic and Lina, and a sister Fora.\nUnfortunately, on 2 ABY, the Mardecs  died in a crossfire when the Galactic Empire attacked a Rebel cell. The \"collateral damage\" could have happened due to Rebel or Imperial fire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gotida",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jalor_City",
+  "/wiki/Riic_Mardec",
+  "/wiki/Lina_Mardec",
+  "/wiki/Fora_Mardec",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sale_Mardec",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

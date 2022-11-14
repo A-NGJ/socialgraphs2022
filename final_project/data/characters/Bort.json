@@ -1,0 +1,36 @@
+{
+ "name": "Bort",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bort was a male human mercenary who was active during the early Age of the Empire. At some point, he was hired by the big game huntress Gozetta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Mercenary",
+  "/wiki/Imperial_Era",
+  "/wiki/Big_game_hunter",
+  "/wiki/Gozetta",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bort",
+  "/wiki/Adventures_in_Wild_Space:_The_Nest"
+ ]
+}

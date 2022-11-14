@@ -1,0 +1,72 @@
+{
+ "name": "Shar-Da",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shar-Da was a male Voss Commando who lived on Voss during the Galactic War. Around 3640 BBY he was stationed at the medical center in Camp Talanis in the Gormak Lands. He thanked a Republic citizen who brought to him the medical supplies recovered from the Gormak.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Camp_Talanis",
+  "/wiki/Gormak_Lands",
+  "/wiki/Gormak/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

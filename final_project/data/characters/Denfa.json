@@ -1,0 +1,85 @@
+{
+ "name": "Denfa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3627 BBY",
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi OrderGalactic Republic"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Unidentified Nautolan Padawan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Denfa was a Twi'lek male Jedi Master who served the Jedi Order and the Galactic Republic during the third Galactic War with the Sith Empire. He and his Padawan were assigned to Onderon during the war and were killed by an Imperial.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Onderon/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Unidentified_Nautolan_Padawan_(Denfa)",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

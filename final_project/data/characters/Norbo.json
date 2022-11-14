@@ -1,0 +1,27 @@
+{
+ "name": "Norbo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Norbo was a Hutt whose enterprises included smuggling to the planet Geldoll during the Cold War. When Geldoll banned all Hutt vessels and agents from the planet in an effort to combat smuggling, he was forced to find new agents to deliver his shipments.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Geldoll",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

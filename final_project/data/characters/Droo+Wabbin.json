@@ -1,0 +1,35 @@
+{
+ "name": "Droo Wabbin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Droo Wabbin was a male Toydarian smuggler who worked for the spice dealer Bal Rado. Later he was hired by Sol Proofrock to eliminate his boss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Drug_dealer",
+  "/wiki/Bal_Rado",
+  "/wiki/Sol_Proofrock",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

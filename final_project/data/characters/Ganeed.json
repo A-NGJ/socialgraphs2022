@@ -1,0 +1,78 @@
+{
+ "name": "Ganeed",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Tall"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Banoosh-Walore Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ganeed was the sister of the King Meenon of Senali. She was married to Garth and had five children; Hinen, Jaret, Drenna, Tinta and Bu. She welcomed Qui-Gon Jinn and Padawan Obi-Wan Kenobi when they visited Senali.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/King/Legends",
+  "/wiki/Meenon",
+  "/wiki/Garth_(Senali)",
+  "/wiki/Hinen",
+  "/wiki/Jaret",
+  "/wiki/Drenna",
+  "/wiki/Tinta_(Senali)",
+  "/wiki/Bu",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

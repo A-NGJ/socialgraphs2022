@@ -1,0 +1,36 @@
+{
+ "name": "D'Lew",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "D'Lew was a Human male mercenary. He served in the same mercenary unit as Garrett and Darca Nyl. He was killed in a battle over a spaceport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Garrett_(mercenary)",
+  "/wiki/Darca_Nyl",
+  "/wiki/Battle_above_spaceport",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/D%27Lew",
+  "/wiki/Nomad"
+ ]
+}

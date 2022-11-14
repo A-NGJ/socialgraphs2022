@@ -1,0 +1,49 @@
+{
+ "name": "Artis Moonrunner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Artis Moonrunner was a Human female and the wife of Lorn Moonrunner and mother of Denel Moonrunner.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Lorn_Moonrunner",
+  "/wiki/Parent/Legends",
+  "/wiki/Denel_Moonrunner",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

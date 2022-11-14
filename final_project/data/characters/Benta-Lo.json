@@ -1,0 +1,74 @@
+{
+ "name": "Benta-Lo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benta-Lo was a male Voss commando living on Voss. During the Galactic War he was injured while fighting at the Pelath-Ri Marches and asked an Imperial to dispose the Gormak of their weapons.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/Pelath-Ri_Marches",
+  "/wiki/Gormak/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Benta-Lo",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

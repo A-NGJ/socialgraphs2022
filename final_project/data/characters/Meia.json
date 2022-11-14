@@ -1,0 +1,57 @@
+{
+ "name": "Meia",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Meia was a female Human who lived sometime before the Battle of Yavin. She was one of Leia Organa's twin sisters, along with Jeia, Teia and Zeia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Jeia",
+  "/wiki/Teia",
+  "/wiki/Zeia",
+  "/wiki/Star_Wars_Detours"
+ ]
+}

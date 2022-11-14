@@ -1,0 +1,49 @@
+{
+ "name": "Ezrim",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ezrim, also called Old Ezrim, was a moisture farmer on Tatooine once caught in Tosche Station during a sandstorm. Convinced that a group of Rebel operatives were actually spice smugglers, he confronted them and eventually brought about a firefight between the Rebels and a group of Imperial stormtroopers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tosche_Station/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/A_Night_at_Tosche_Station"
+ ]
+}

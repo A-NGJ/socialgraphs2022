@@ -1,0 +1,44 @@
+{
+ "name": "Ferlan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ferlan was a Human female agent for the Imperial Security Bureau. She gained her position through family politics and favors.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ferlan",
+  "/wiki/Rescue_at_Glare_Peak"
+ ]
+}

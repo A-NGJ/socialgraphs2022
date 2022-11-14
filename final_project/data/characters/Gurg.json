@@ -1,0 +1,50 @@
+{
+ "name": "Gurg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gurg was a Trandoshan thug. Along with the Trandoshan Grug, he was hired by Len Markus in 19 BBY to attack the Heroes of Cularin in a hangar bay in the town of Hedrett on Cularin. They killed the courier Acan with a Fragmentation grenade, but they were both killed shortly after by the heroes.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Grug",
+  "/wiki/Len_Markus",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Hedrett",
+  "/wiki/Acan",
+  "/wiki/Fragmentation_grenade/Legends",
+  "/wiki/The_Hand_(adventure)"
+ ]
+}

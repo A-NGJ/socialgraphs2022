@@ -1,0 +1,60 @@
+{
+ "name": "Grelk Micabra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Riflor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grelk Micabra was a male Advozse from the volcanic planet of Riflor. He was a skilled swoop racer during the waning years of the New Order, and could often be seen participating in swoop competitions in the Corellian sector.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Riflor/Legends",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Planet/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Corellian_sector/Legends",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition"
+ ]
+}

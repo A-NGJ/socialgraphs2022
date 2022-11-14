@@ -1,0 +1,75 @@
+{
+ "name": "CT-9779",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "CT-9779, also known as 9779, was an adolescent clone trooper in training who had lost his way from his ship on Aargau. He and Boba Fett met when 9779 returned the misplaced journal of Boba's father. 9779 wore a tan and gold learning helmet and a light blue tunic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Aargau/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Boba_Fett:_Maze_of_Deception",
+  "/wiki/Boba_Fett:_A_New_Threat"
+ ]
+}

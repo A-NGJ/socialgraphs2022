@@ -1,0 +1,49 @@
+{
+ "name": "Kog",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kog was a Human male and the first mate of Hura Kogler during an operation to place infiltration droids in the Alliance Fleet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Hura_Kogler",
+  "/wiki/Droid/Legends",
+  "/wiki/Alliance_Fleet",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Dead_in_the_Water",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Game_Master%27s_Kit"
+ ]
+}

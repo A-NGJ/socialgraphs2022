@@ -1,0 +1,72 @@
+{
+ "name": "Rankin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rankin was a male Human holding the rank of the lieutenant in the Imperial Military of the reconstituted Sith Empire. He was assigned to Taris during the Galactic War in 3642 BBY, where he greeted Imperial personnel on the Imperial orbital station before directing them to the Toxic Lake Garrison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Zasha_Ranken",
+  "/wiki/Balawai",
+  "/wiki/Pek_Rankin",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Toxic_Lake_Garrison",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

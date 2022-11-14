@@ -1,0 +1,77 @@
+{
+ "name": "Moog Ulur",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moog Ulur was the male Rodian senator of Rodia in the Galactic Alliance Senate following the end of the Yuuzhan Vong War. He attended the funeral of Sien Sovv, where he listened in on a conversation between Chief of State Cal Omas and members of the New Jedi Order, concerning the growing Dark Nest crisis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Senate",
+  "/wiki/Senator/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Funeral/Legends",
+  "/wiki/Sien_Sovv",
+  "/wiki/Chief_of_State_(Galactic_Alliance)",
+  "/wiki/Cal_Omas",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Gorog",
+  "/wiki/Dark_Nest_II:_The_Unseen_Queen",
+  "/wiki/Navik",
+  "/wiki/30_ABY/Legends"
+ ]
+}

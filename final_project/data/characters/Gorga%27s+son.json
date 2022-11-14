@@ -1,0 +1,50 @@
+{
+ "name": "Gorga's son",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "10 ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Huttlet was born to Anachro and Gorga Desilijic Aarrpo, the grandchild of Orko the H'uun and a great-nephew of Jabba the Hutt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/10_ABY/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Anachro",
+  "/wiki/Gorga_Desilijic_Aarrpo/Legends",
+  "/wiki/Orko",
+  "/wiki/H%27uun",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Boba_Fett:_Murder_Most_Foul",
+  "/wiki/Wizards.com",
+  "/wiki/Hutt!_Hutt!_Hutt!"
+ ]
+}

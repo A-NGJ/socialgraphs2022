@@ -1,0 +1,52 @@
+{
+ "name": "Rothlan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rothlan was a human male who served in the armed forces of the Galactic Empire with the military rank of general. General Rothlan served aboard the Executor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Military",
+  "/wiki/Military_rank",
+  "/wiki/General",
+  "/wiki/Executor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rothlan",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

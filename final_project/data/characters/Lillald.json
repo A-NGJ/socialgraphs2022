@@ -1,0 +1,49 @@
+{
+ "name": "Lillald",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicNew Republic Senate",
+      "New Republic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lillald was a male Human Senator of the New Republic who served circa 16 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lillald",
+  "/wiki/Shield_of_Lies",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Marn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marn was a female Mandalorian who lived during the Cold War. After the death of Salus Bralor's son Jogo at the hands of a bounty hunter, Marn accompanied Bralor to the Taris Orbital Station in order to confront the hunter. When Bralor challenged the hunter to a Taung blood duel, Marn fought as Bralor's second and was killed as a result.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Death/Legends",
+  "/wiki/Salus_Bralor",
+  "/wiki/Jogo",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Taris_Orbital_Station",
+  "/wiki/Taung_blood_duel",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

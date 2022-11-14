@@ -1,0 +1,59 @@
+{
+ "name": "Sh'alla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jaraana irstat"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sh'alla was a female Tarasin youth, who lived on Cularin during the time of the Clone Wars.\nSh'alla was a member of the Jaraana irstat and she lived with them in their village in the jungles of Cularin. When the Dark Jedi Raik Muun set fire to the village, the flames warped the door of the building that Sh'alla was in, trapping her. However, the Heroes of Cularin attempted to rescue her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shalla_(disambiguation)",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Jaraana_irstat",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Raik_Muun",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Force_Concession"
+ ]
+}

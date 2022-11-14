@@ -1,0 +1,54 @@
+{
+ "name": "Jarret's son",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The son of Jarret was a male human.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jarret",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jarret%27s_son",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Too_Late_to_Change",
+  "/wiki/Star_Wars_Rebels_Magazine_28"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Lex Rogger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Whiplash"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lex Rogger was a male Nautolan member of the Whiplash resistance organization in 19 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Whiplash",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Coruscant_Nights_I:_Jedi_Twilight"
+ ]
+}

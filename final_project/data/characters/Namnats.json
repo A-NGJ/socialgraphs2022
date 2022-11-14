@@ -1,0 +1,44 @@
+{
+ "name": "Namnats",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kynachi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kynachi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Namnats was a Kynachi.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kynachi",
+  "/wiki/Kynachi_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Namnats",
+  "/wiki/The_Clone_Wars:_Secret_Missions_1:_Breakout_Squad"
+ ]
+}

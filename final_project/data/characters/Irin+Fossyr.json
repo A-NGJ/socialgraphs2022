@@ -1,0 +1,48 @@
+{
+ "name": "Irin Fossyr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Irin Fossyr was a member of Alliance Intelligence and worked directly under Airen Cracken. Iella Wessiri used the name as a pseudonym in order to slip onto Coruscant before its capture by the New Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Intelligence",
+  "/wiki/Airen_Cracken/Legends",
+  "/wiki/Iella_Wessiri_Antilles",
+  "/wiki/Coruscant/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

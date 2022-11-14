@@ -1,0 +1,34 @@
+{
+ "name": "Jiprirr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jiprirr was a female Wookiee whose mate died while on the hrrtayyk.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hrrtayyk_ceremony/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jiprirr",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

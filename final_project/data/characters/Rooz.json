@@ -1,0 +1,63 @@
+{
+ "name": "Rooz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sarka"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sarkan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rooz was a Sarkan Lord who served as the Advisor to Queen Zil.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sarka",
+  "/wiki/Sarkan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Lord",
+  "/wiki/Advisor",
+  "/wiki/Queen",
+  "/wiki/Zil",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rooz",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Mind_Your_Manners",
+  "/wiki/Star_Wars_Adventures_Annual_2018"
+ ]
+}

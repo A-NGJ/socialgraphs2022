@@ -1,0 +1,37 @@
+{
+ "name": "Marath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marath was a male Weequay who was part of a small group of pirates during the Imperial Era.\nMarath first appeared in the short story \"The Witch \u0026 the Wookiee\" in the novel Myths \u0026 Fables, written by George Mann with illustrations by Grant Griffin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Weequay",
+  "/wiki/Gender",
+  "/wiki/Pirate",
+  "/wiki/Imperial_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Marath",
+  "/wiki/The_Witch_%26_the_Wookiee",
+  "/wiki/Myths_%26_Fables",
+  "/wiki/George_Mann",
+  "/wiki/Grant_Griffin"
+ ]
+}

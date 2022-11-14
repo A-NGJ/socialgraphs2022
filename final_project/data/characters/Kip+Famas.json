@@ -1,0 +1,47 @@
+{
+ "name": "Kip Famas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kip Famas was a male Duros who commanded the 94th Fighter/Attack Squadron, a Rebel starfighter squadron based at a base on Polis Massa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/94th_Fighter/Attack_Squadron",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Squadron/Legends",
+  "/wiki/Polis_Massa_Base_(Rebel_Alliance)",
+  "/wiki/Polis_Massa/Legends",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Quiv",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Defense Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quiv was a male Sullustan lieutenant who served in the New Republic Defense Fleet and a communications officer onboard Home One.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Home_One/Legends",
+  "/wiki/X-Wing:_Isard%27s_Revenge"
+ ]
+}

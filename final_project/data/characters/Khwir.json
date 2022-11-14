@@ -1,0 +1,42 @@
+{
+ "name": "Khwir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Urias Xhaxin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Khwir was the Twi'lek First Mate on the pirate Urias Xhaxin's Nebulon-B escort frigate, Free Lance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Urias_Xhaxin",
+  "/wiki/First_Mate/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Free_Lance",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Khwir",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_I:_Onslaught",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

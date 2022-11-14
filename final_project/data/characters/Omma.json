@@ -1,0 +1,50 @@
+{
+ "name": "Omma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wasskah"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Momong"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Omma was a momong who was available for sale as a pet during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wasskah/Legends",
+  "/wiki/Momong/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

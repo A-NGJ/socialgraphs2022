@@ -1,0 +1,48 @@
+{
+ "name": "Drake",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Drake\" was a female human pilot who flew for the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Drake_(disambiguation)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Drake",
+  "/wiki/Amara_Kel%27s_Rules_for_TIE_Pilot_Survival_(Probably)",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/Ultimate_Star_Wars",
+  "/wiki/TIE_pilot"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Sidero",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resort Endor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sidero was a human who lived on Endor. Her father, Wick Cooper, ran the resort in 15 ABY when Ben Solo and his family wanted to vacation there. The two became fast friends and Ben fell in love with Sidero.\nSidero got her first appearance in LEGO Star Wars Summer Vacation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Endor",
+  "/wiki/Wick_Cooper",
+  "/wiki/15_ABY",
+  "/wiki/Ben_Solo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sidero",
+  "/wiki/LEGO_Star_Wars_Summer_Vacation"
+ ]
+}

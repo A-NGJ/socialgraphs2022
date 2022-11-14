@@ -1,0 +1,46 @@
+{
+ "name": "Jalia Krade",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tapani Noble Houses"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dame Jalia Krade was the wife of Sir Jastis Krade, a Knight in the service of one of Tapani sector's Noble Houses.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tapani_Noble_Houses",
+  "/wiki/Jastis_Krade",
+  "/wiki/Knight_(noble_rank)",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Lords_of_the_Expanse",
+  "/wiki/Player%27s_Guide_to_Tapani"
+ ]
+}

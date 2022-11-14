@@ -1,0 +1,51 @@
+{
+ "name": "Krashilok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3627 BBY",
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pritarr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Beast-Lord Akoru"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krashilok was the pet pritarr owned by Beast-Lord Akoru of Onderon. During the mission to Onderon Akoru ordered Krashilok to attack those who intruded upon his lair, but the pritarr was killed by the intruders instead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Onderon/Legends",
+  "/wiki/Pritarr",
+  "/wiki/Beast-Lord",
+  "/wiki/Akoru",
+  "/wiki/Mission_to_Onderon_(3627_BBY)",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

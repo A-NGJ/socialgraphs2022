@@ -1,0 +1,50 @@
+{
+ "name": "Putney",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Putney was a Human male from Bakura, and was the commander in charge of the assault troops sent to seize the planetary repulsor activated on Drall during the Battle of Centerpoint Station. He planned to launch the assault at around local sunset, when the Human League troops would be at their most sleep deprived. Admiral Ossilege later ordered him to launch the assault early, due to the fact that a Human League assault boat had left in pursuit of the Millennium Falcon, and it was believed this would leave only light resistance at the repulsor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Gender/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Planetary_repulsor",
+  "/wiki/Drall_(planet)",
+  "/wiki/Battle_of_Centerpoint_Station_(Corellian_Crisis)",
+  "/wiki/Human_League",
+  "/wiki/Hortel_Ossilege",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Showdown_at_Centerpoint"
+ ]
+}

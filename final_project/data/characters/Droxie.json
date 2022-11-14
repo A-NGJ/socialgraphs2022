@@ -1,0 +1,65 @@
+{
+ "name": "Droxie",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Draenell's Point"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Benthar's Boys",
+      "Vibroblade gang",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Droxie was a Human female from the planet Draenell's Point. A member of the Benthar's Boys gang, she was involved with the leader, Benthar, until she switched her affections to Herafin, leader of the Vibroblade gang and joined them. Droxie's decision ignited a feud between the two gangs, which resulted in the Vibroblades capturing Benthar. He was eventually rescued by the Boys with help from operatives from the Alliance to Restore the Republic, who convinced both gangs to unite and oppose the Imperial presence on the planet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Draenell%27s_Point",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Benthar%27s_Boys",
+  "/wiki/Vibroblade_gang",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Benthar",
+  "/wiki/Herafin",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/%27Blades_and_Blasters",
+  "/wiki/Star_Wars_Gamemaster_Kit",
+  "/wiki/Classic_Campaigns"
+ ]
+}

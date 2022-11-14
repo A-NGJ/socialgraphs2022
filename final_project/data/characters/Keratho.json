@@ -1,0 +1,46 @@
+{
+ "name": "Keratho",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Engine Oil\" Keratho was a male Human living during the Cold War. Residing on Tatooine in Mos Ila Spaceport, he sold various starship components.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Mos_Ila_Spaceport",
+  "/wiki/Starship/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

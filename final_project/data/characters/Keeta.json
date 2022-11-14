@@ -1,0 +1,37 @@
+{
+ "name": "Keeta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trianii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keeta was a female Trianii spacer. She worked with Gideon, crewing aboard the Independent Class. Keeta lost an eye when she and Gideon were ambushed by a Polydroxol in the employ of Boss Trome.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trianii/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Gideon_(spacer)",
+  "/wiki/Independent_Class",
+  "/wiki/Polydroxol",
+  "/wiki/Trome_(crime_lord)",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Shape-shifters",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Odeph",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Evocii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel",
+      "Odeph's Tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Odeph was a male Evocii who allied his tribe with Nem'ro the Hutt for peace between the Hutts and the Evocii.\nIn 3643 BBY, when the Evocii tribes were stealing shipments to spite the Hutts, Odeph tried to reason with them in returning Suudaa's metals, but he failed to do so.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Talk:Odeph",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Evocii",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Odeph%27s_Tribe",
+  "/wiki/Suudaa_Nem%27ro",
+  "/wiki/3643_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

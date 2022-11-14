@@ -1,0 +1,52 @@
+{
+ "name": "Hewat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hewat was a Human female who served as an Imperial Customs agent during the Galactic Civil War. She was committed to exposing the Rybet Moruth Doole, administrator of the spice mines of Kessel, as the head of an illegal spice distribution network. Her daughter, Kora, lived on Yityl.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Rybet/Legends",
+  "/wiki/Moruth_Doole",
+  "/wiki/Spice_Mines_of_Kessel",
+  "/wiki/Kessel/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Kora_Hewat",
+  "/wiki/Yityl",
+  "/wiki/Cynabar%27s_Fantastic_Technology:_Droids",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

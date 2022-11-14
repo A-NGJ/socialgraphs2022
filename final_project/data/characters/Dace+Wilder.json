@@ -1,0 +1,46 @@
+{
+ "name": "Dace Wilder",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nubia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dace Wilder was a prolific ronto race jockey from Nubia.\nWilder planned to never retire, and was prepared to die on the track. Wilder loathed any kind of government, such as the Empire or New Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nubia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ronto/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

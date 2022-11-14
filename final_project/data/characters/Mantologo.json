@@ -1,0 +1,66 @@
+{
+ "name": "Mantologo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Death Star I"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mantologo was a Human male and a non-commissioned Imperial Marine officer who was assigned to the first Death Star, during its construction above the planet Despayre, who quartered in the G-12 Barracks with Nova Stihl.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Imperial_Marine",
+  "/wiki/Planet/Legends",
+  "/wiki/Despayre",
+  "/wiki/G-12_Barracks",
+  "/wiki/Nova_Stihl",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mantologo",
+  "/wiki/Death_Star_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

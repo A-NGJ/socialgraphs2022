@@ -1,0 +1,32 @@
+{
+ "name": "Lorgrombo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lugubraa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorgrombo was a Lugubraa elder, renting out the services of his horde as mercenary forces for those in the Unknown Regions.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lugubraa",
+  "/wiki/Gender/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

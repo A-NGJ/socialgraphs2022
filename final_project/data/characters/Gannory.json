@@ -1,0 +1,45 @@
+{
+ "name": "Gannory",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gannory was a male Cerean who owned Gannory's Cantina on Mrinzebon. Vryant, a former Imperial, ran a gang in the area that threatened to burn his cantina down if he did not help them set up travelers so they could be mugged.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Cerean",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Gannory%27s_Cantina",
+  "/wiki/Mrinzebon",
+  "/wiki/Vryant",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gannory",
+  "/wiki/Alphabet_Squadron_(novel)",
+  "/wiki/Alphabet_Squadron_(audiobook)",
+  "/wiki/Shadow_Fall",
+  "/wiki/Shadow_Fall_(audiobook)"
+ ]
+}

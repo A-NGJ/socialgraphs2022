@@ -1,0 +1,56 @@
+{
+ "name": "Dromol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic301st Infantry",
+      "301st Infantry"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dromol was a male Twi'lek private in the Republic military attached to the 301st Infantry during the Galactic War with the reconstituted Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/301st_Infantry",
+  "/wiki/Private/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Category:Images_of_Dromol",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

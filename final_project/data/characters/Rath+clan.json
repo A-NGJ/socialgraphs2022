@@ -1,0 +1,55 @@
+{
+ "name": "Rath clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Sek clan"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Tython system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Je'daii Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Rath clan was a Force-sensitive bloodline of Sith Je'daii from Tython.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Sek_clan",
+  "/wiki/Tython_system/Legends",
+  "/wiki/Je%27daii_Order",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Je%27daii",
+  "/wiki/Tython/Legends",
+  "/wiki/Thok_Rath",
+  "/wiki/Sek%27nos_Rath",
+  "/wiki/Dawn_of_the_Jedi:_Force_Storm_2",
+  "/wiki/Star_Wars:_Dawn_of_the_Jedi_0"
+ ]
+}

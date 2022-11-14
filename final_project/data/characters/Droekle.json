@@ -1,0 +1,72 @@
+{
+ "name": "Droekle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hapes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hapes Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Droekle was a male Hapan who was one of Queen Mother Tenel Ka Djo's courtiers and had lost his left hand in a \"fencing accident\" to the Queen Mother as did most of her courtiers to mirror the loss of her hand to Jacen Solo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapes/Legends",
+  "/wiki/Hapan",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Queen_Mother",
+  "/wiki/Tenel_Ka_Djo",
+  "/wiki/Limb/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/Dark_Nest_I:_The_Joiner_King",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

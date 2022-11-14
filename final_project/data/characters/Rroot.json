@@ -1,0 +1,63 @@
+{
+ "name": "Rroot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown and gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rroot was a male Wookiee who lived during the Galactic Civil War. He was captured and enslaved by Trandoshans from the Blackscale Clan in 1 ABY. His mother hired a spacer to rescue him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Blackscale_Clan/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rroot",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

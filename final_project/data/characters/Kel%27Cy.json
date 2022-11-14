@@ -1,0 +1,59 @@
+{
+ "name": "Kel'Cy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ohnaka Transport Solutions"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kel'Cy was a human female who worked as an inventory specialist for Hondo Ohnaka at Ohnaka Transport Solutions in Black Spire Outpost.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ohnaka_Transport_Solutions",
+  "/wiki/Hondo_Ohnaka",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kel%27Cy",
+  "/wiki/Star_Wars:_Datapad"
+ ]
+}

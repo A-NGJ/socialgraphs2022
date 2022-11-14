@@ -1,0 +1,45 @@
+{
+ "name": "Ilar Paqwe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Paqwepori"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Paqwe"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ilar Paqwe was a male Paqwe. He told Belezaboth Ourn not to return home.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Paqwepori",
+  "/wiki/Paqwe",
+  "/wiki/Gender/Legends",
+  "/wiki/Belezaboth_Ourn",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ilar_Paqwe",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

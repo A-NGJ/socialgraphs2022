@@ -1,0 +1,49 @@
+{
+ "name": "Morst Tayl'skar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morst Tayl'skar was a Bothan from Clan Askar and a Rebel Alliance agent. He was transported to Dressel by Pyrron Nox where he was attempting to contact Orrimaarko.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Clan_Askar",
+  "/wiki/Dressel/Legends",
+  "/wiki/Pyrron_Nox",
+  "/wiki/Orrimaarko/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Advice_from_Trader_Pyrron_Nox",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies",
+  "/wiki/Star_Wars_Miniatures_Battles_Companion"
+ ]
+}

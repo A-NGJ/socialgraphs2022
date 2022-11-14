@@ -1,0 +1,67 @@
+{
+ "name": "Lodani",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lodani was a female Human sergeant of the reconstituted Sith Empire living during the Galactic War. In 3642 BBY she was stationed on the Harrower-class dreadnought White Nova during the Battle of the Foundry.\nSergeant Lodani appears in Star Wars: The Old Republic as an NPC on the White Nova, who begins the flashpoint \"The Foundry.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Harrower-class_dreadnought",
+  "/wiki/White_Nova_(Harrower-class)",
+  "/wiki/Battle_of_the_Foundry",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

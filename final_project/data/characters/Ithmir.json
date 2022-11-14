@@ -1,0 +1,39 @@
+{
+ "name": "Ithmir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thorip Norr"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ithmir was a Gamorrean who owned a small cantina called the Thorip Norr, which was located in the city of Lola Curich on the planet Lianna.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Thorip_Norr",
+  "/wiki/Cantina/Legends",
+  "/wiki/Lola_Curich",
+  "/wiki/Planet/Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

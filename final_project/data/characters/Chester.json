@@ -1,0 +1,65 @@
+{
+ "name": "Chester",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chester was the short Rodian sidekick to Gorm Maldorf. Chester accidentally killed him by strangling him with wire in the Cage, and tried to blame Gorm's rival, Luke Skywalker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Star_Wars_Tales",
+  "/wiki/Star_Wars_Tales_1",
+  "/wiki/Star_Wars_Tales_20",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Canon",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Gorm_Maldorf",
+  "/wiki/Death/Legends",
+  "/wiki/The_Cage",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chester",
+  "/wiki/Luke_Skywalker:_Detective"
+ ]
+}

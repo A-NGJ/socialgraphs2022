@@ -1,0 +1,35 @@
+{
+ "name": "Jimnaj",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jimnaj was a male human who resided in Haven on the planet Lothal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Haven",
+  "/wiki/Planet",
+  "/wiki/Lothal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jimnaj",
+  "/wiki/Star_Wars_Rebels:_Recon_Missions"
+ ]
+}

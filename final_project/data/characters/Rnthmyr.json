@@ -1,0 +1,62 @@
+{
+ "name": "Rnthmyr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yavin 4"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3637 BBY",
+      "Yavin 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rnthmyr was an ancient male Massassi warrior who lived on Yavin 4 in the time of the Galactic War. He was killed in 3637 BBY during the conflict with the Order of Revan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/3637_BBY",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Massassi/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Revanite_crisis",
+  "/wiki/Order_of_Revan",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan"
+ ]
+}

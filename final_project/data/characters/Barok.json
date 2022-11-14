@@ -1,0 +1,57 @@
+{
+ "name": "Barok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "Kijimi garrison",
+      "Kijimi garrison"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barok was a male human who served as a lieutenant in the First Order and served in the Kijimi garrison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/First_Order",
+  "/wiki/Kijimi_garrison",
+  "/wiki/Lieutenant",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barok",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_Expanded_Edition",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_Expanded_Edition_(audiobook)",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary"
+ ]
+}

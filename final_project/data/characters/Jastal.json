@@ -1,0 +1,54 @@
+{
+ "name": "Jastal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Guard",
+      "Imperial Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jastal was a Human male commander of the Imperial Guard of the reconstituted Sith Empire during the Galactic War. At the Battle of Corellia, Jastal was tasked by Darth Charnus to retrieve the Hull Cracker weapon from the Czerka Corporation. Jastal helped an Imperial-aligned individual complete the mission by directing him to Brall Tavar, Czerka Corellia's figurehead who had the weapon's activation codes, while Jastal and his men retrieved the Hull Cracker itself.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Guard",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Darth_Charnus",
+  "/wiki/Hull_Cracker",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Brall_Tavar",
+  "/wiki/Corellia/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

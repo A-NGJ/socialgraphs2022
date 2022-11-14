@@ -1,0 +1,26 @@
+{
+ "name": "Scolder",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dowutin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scolder was a Dowutin that lived in the galaxy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Dowutin",
+  "/wiki/The_galaxy",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

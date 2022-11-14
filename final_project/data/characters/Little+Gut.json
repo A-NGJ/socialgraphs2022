@@ -1,0 +1,59 @@
+{
+ "name": "Little Gut",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3630 BBY",
+      "Zakuul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ronum Minkus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Little Gut was the trained Rancor of Ronum Minkus, a participant in the Arena Grand of Zakuul. In 3630 BBY Little Gut was put up against a newcomer known as \"the Mysterious Stranger\" and was defeated in the eighth round of the Arena fights.\nLittle Gut appears in Star Wars: The Old Republic: Knights of the Fallen Empire as the eighth boss of the \"Eternal Championship.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3630_BBY",
+  "/wiki/Zakuul",
+  "/wiki/Rancor/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Ronum_Minkus",
+  "/wiki/Arena_Grand",
+  "/wiki/Alliance_Commander",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire",
+  "/wiki/Star_Wars:_The_Old_Republic:_Galactic_Strongholds"
+ ]
+}

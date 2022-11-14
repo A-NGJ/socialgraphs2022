@@ -1,0 +1,56 @@
+{
+ "name": "Kyrenic",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kyrenic was a male Human Mandalorian bounty hunter who worked with the reconstituted Sith Empire during the Cold War with the Galactic Republic. When the Mandalorian Clan Varad seized the Republic warship Allusis, Kyrenic was selected by the Sith Lord Darth Malgus alongside the Sith Inquisitor Vincine, the Sith Warrior Rotham, and the Imperial agent Andan to form a strike team to capture the vessel. However, the team encountered opposition in the form of a Republic strike team, and only one of the two groups survived their conflict.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clan_Varad",
+  "/wiki/Allusis",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth_Malgus",
+  "/wiki/Sith_Inquisitor",
+  "/wiki/Vincine",
+  "/wiki/Sith_Warrior",
+  "/wiki/Rotham",
+  "/wiki/Andan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

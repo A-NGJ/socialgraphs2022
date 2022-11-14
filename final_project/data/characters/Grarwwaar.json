@@ -1,0 +1,60 @@
+{
+ "name": "Grarwwaar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY",
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grarwwaar was one of a group of Wookiee warriors who attempted to track down Rulan Prolik in the Shadowlands. Rulan managed to separate Grarwwaar from his party and brutally killed him, assuming the Wookiee's identity for himself. However, another Wookiee who had knew that the real Grarwwaar was dead had mentioned this in a datapad, effectively exposing the secret to anyone who was looking for Rulan.\nGrarwwaar only appears if the player takes the dark side option of killing Rulan Prolik for Hulas as part of the GenoHaradan quest series. Rulan will say that Grarwwaar was attempting to hide in the Shadowlands away from Humans.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rulan_Prolik",
+  "/wiki/Shadowlands/Legends",
+  "/wiki/Hulas",
+  "/wiki/GenoHaradan",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

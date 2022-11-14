@@ -1,0 +1,43 @@
+{
+ "name": "Grorrgh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Ilum"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaleesh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elder Grorrgh was a male Kaleesh warrior fighting on the side of the Galactic Republic during the Battle of Ilum, where he was killed by the Imperials.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Kaleesh/Legends",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

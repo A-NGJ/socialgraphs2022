@@ -1,0 +1,50 @@
+{
+ "name": "Sessaly",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gibad"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sessaly was a female Human resident of the planet Gibad. She was also a distant cousin of Separatist scientist Ovolot Qail Uthan.\nShortly after the formation of the Galactic Empire, Gibad was one of the worlds that defied Emperor Palpatine. When the planet refused to cooperate after the given deadline, Palpatine unleashed a virus on the world created by Uthan. It was not known if Sessaly survived the biological attack, despite being commed by Uthan to take refuge shortly before the attack.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gibad/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Ovolot_Qail_Uthan",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/FG36",
+  "/wiki/Imperial_Commando:_501st"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Deedoh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Neo-Crusaders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Deedoh was a male Rodian Mandalorian during the Mandalorian Wars, serving under Dorjander Kace during the Battle of Halthor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian_Neo-Crusaders/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Dorjander_Kace",
+  "/wiki/Battle_of_Halthor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Deedoh",
+  "/wiki/Knights_of_the_Old_Republic:_War_4"
+ ]
+}

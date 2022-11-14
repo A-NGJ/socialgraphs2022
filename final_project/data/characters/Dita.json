@@ -1,0 +1,29 @@
+{
+ "name": "Dita",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Porg"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dita was one of the porgs that had taken up residence on the Millennium Falcon. Rose Tico, who gave names to the porgs, often fed snacks to Dita.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Porg",
+  "/wiki/Rey_Skywalker",
+  "/wiki/Millennium_Falcon",
+  "/wiki/Rose_Tico",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dita",
+  "/wiki/Spark_of_the_Resistance",
+  "/wiki/Spark_of_the_Resistance_(audiobook)"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Kanz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Carn Truuvik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kanz was a male Twi'lek working for Carn Truuvik, a crime lord on Corellia during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Carn_Truuvik",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Sabacc_Game_on_the_Row",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

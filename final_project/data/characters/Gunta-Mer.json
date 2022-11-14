@@ -1,0 +1,64 @@
+{
+ "name": "Gunta-Mer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Three"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gunta-Mer was a Voss male that was a member of the Three, the Voss secular government, during the Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Three",
+  "/wiki/Galactic_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gunta-Mer",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

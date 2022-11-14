@@ -1,0 +1,54 @@
+{
+ "name": "Kasck",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "New Republic Special Forces",
+      "Katarn Commandos",
+      "New Republic Special Forces",
+      "Katarn Commandos",
+      "Katarn Commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kasck was a Bothan infiltrator and a member of the Katarn Commandos, which was lead by Lieutenant Judder Page. He favored using a vibroknife.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Special_Forces/Legends",
+  "/wiki/Katarn_Commandos",
+  "/wiki/Infiltrators/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Judder_Page/Legends",
+  "/wiki/Vibroknife",
+  "/wiki/Heir_to_the_Empire_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook"
+ ]
+}

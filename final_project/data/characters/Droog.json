@@ -1,0 +1,65 @@
+{
+ "name": "Droog",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt CartelBareesh kajidic",
+      "Bareesh kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Droog was a Hutt purser who worked in Tassaa Bareesh's palace on Nal Hutta in 3643 BBY. That year, Shigar Konshi and Larin Moxla bribed him to allow them admission to the palace.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Bareesh_Cartel",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Tassaa_Bareesh",
+  "/wiki/3643_BBY",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Shigar_Konshi",
+  "/wiki/Larin_Moxla",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Droog",
+  "/wiki/The_Old_Republic:_Fatal_Alliance",
+  "/wiki/The_Old_Republic:_Fatal_Alliance_(audiobook)"
+ ]
+}

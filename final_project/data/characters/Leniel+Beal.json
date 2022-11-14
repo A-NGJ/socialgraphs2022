@@ -1,0 +1,35 @@
+{
+ "name": "Leniel Beal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Leniel Beal was a Human male who spearheaded the colonization of the planet Socorro. Beal had a daughter, the Lady Cjaalysce.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Socorro/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Cjaalysce",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

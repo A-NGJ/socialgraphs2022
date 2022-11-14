@@ -1,0 +1,27 @@
+{
+ "name": "Bloodfiend",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "K'lor'slug"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Bloodfiend was a monstrous k'lor'slug that resided in the Sith Academy of Korriban. When an acolyte took the rite of blood and bone, they had to confront and defeat the Bloodfiend. The initiation rite had been perpetuated at the Academy for millennia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/K%27lor%27slug/Legends",
+  "/wiki/Sith_Academy_(Korriban)",
+  "/wiki/Korriban",
+  "/wiki/Rite_of_blood_and_bone",
+  "/wiki/Time/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

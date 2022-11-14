@@ -1,0 +1,49 @@
+{
+ "name": "Mr. Olafsen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mr. Olafsen was an old Human male moisture farmer and the neighbour and friend of Ariq Joanson who lived on Tatooine. He didn't support Joanson's plan to make peace with Jawas and Tusken Raiders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer",
+  "/wiki/Ariq_Joanson",
+  "/wiki/Jawa/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mr._Olafsen",
+  "/wiki/Drawing_the_Maps_of_Peace:_The_Moisture_Farmer%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina"
+ ]
+}

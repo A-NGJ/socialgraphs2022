@@ -1,0 +1,43 @@
+{
+ "name": "Del Cycer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Over two meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Del Cycer was a Human male who played sabacc with smuggler Lando Calrissian during Calrissian's second visit to the Oseon system. Middle-aged by the time of the Imperial Period, Cycer—who came off to Calrissian as a friendly, likable sort—claimed to be a retired businessman, although Calrissian regarded him as a formidable sabacc opponent and suspected that he was a professional gambler.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Oseon_system",
+  "/wiki/Imperial_Period",
+  "/wiki/Gambling/Legends",
+  "/wiki/Lando_Calrissian_and_the_Flamewind_of_Oseon"
+ ]
+}

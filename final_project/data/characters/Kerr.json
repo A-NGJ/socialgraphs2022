@@ -1,0 +1,40 @@
+{
+ "name": "Kerr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Marus Grayson"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kerr was a Human who worked for Marus Grayson during the Galactic Civil War. He once teamed up with Jera to find a skilled thief to protect the Jewel of Yavin during its auction in Cloud City.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Marus_Grayson",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Jera",
+  "/wiki/Thief/Legends",
+  "/wiki/Jewel_of_Yavin/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

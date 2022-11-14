@@ -1,0 +1,51 @@
+{
+ "name": "Allegra Amar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Princess Allegra Amar was a former member of the Imperial Senate who ended up as a member of the Alliance to Restore the Republic. Alongside Dirk Harkness, Trent Jaspar, and Slick, she served at Edan Base on Edan II.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Imperial_Senate/Legends",
+  "/wiki/Dirk_Harkness",
+  "/wiki/Trent_Jaspar",
+  "/wiki/Slick_(Rebel)",
+  "/wiki/Edan_Base",
+  "/wiki/Edan_II/Legends",
+  "/wiki/Introductory_Adventure_Game"
+ ]
+}

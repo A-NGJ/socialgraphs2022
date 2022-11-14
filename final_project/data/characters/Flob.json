@@ -1,0 +1,54 @@
+{
+ "name": "Flob",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Bureau of Standards",
+      "Imperial Bureau of Standards"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Flob was a human male who worked in a supervisory role within the Imperial Bureau of Standards on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Announcement",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Bureau_of_Standards",
+  "/wiki/Coruscant",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Flob",
+  "/wiki/Andor_(television_series)",
+  "/wiki/Narkina_5_(episode)",
+  "/wiki/Nobody%27s_Listening!",
+  "/wiki/Databank_(website)",
+  "/wiki/Disney%2B"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Au B'ree",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Au B'ree was a female Devaronian worker at the Fekunda Outpost under Commander Zhou and his stormtrooper squad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaronian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Fekunda_Outpost",
+  "/wiki/Commander",
+  "/wiki/Zhou",
+  "/wiki/Stormtrooper",
+  "/wiki/Squad",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Au_B%27ree",
+  "/wiki/Star_Wars:_Forces_of_Destiny%E2%80%94Hera"
+ ]
+}

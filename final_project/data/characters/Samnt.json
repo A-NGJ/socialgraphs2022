@@ -1,0 +1,67 @@
+{
+ "name": "Samnt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dantooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Samnt was a Human male who lived on Dantooine during the Jedi Civil War. He began dating Elise Montagne after her husband died and her droid, C8-42-GE3 was destroyed.\nSamnt will only appear if the player chooses to destroy C8-42-GE3 and doesn't lie to Elise.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Elise_Montagne",
+  "/wiki/Revan/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Died",
+  "/wiki/C8-42-GE3",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

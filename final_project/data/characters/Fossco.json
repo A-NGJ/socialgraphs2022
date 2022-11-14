@@ -1,0 +1,46 @@
+{
+ "name": "Fossco",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fossco was a Toydarian male, and served as one of Jabba Desilijic Tiure the Hutt's accountants. During a visit to Kessel, he was the first individual to find Warden Dewt Kluskine's dead body.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Dewt_Kluskine",
+  "/wiki/Wizards.com",
+  "/wiki/Kessel:_Hell_in_Space"
+ ]
+}

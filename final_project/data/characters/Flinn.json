@@ -1,0 +1,62 @@
+{
+ "name": "Flinn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray-blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Flinn was a Human male who served as a young recruit in the Coruscant Naval Academy during the Empire's rise for power. After attending the academy, he, along with fellow cadet Kestrel, were selected to monitor a new talented recruit named Lune Oddo Divinian. In a flight simulator, Flinn and Kestrel fought against Lune and Trever Flume until they were easily defeated.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Naval_Academy_(Coruscant)",
+  "/wiki/Kestrel",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Lune_Oddo_Divinian",
+  "/wiki/Trever_Flume",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Flinn",
+  "/wiki/The_Last_of_the_Jedi:_Against_the_Empire"
+ ]
+}

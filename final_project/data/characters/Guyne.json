@@ -1,0 +1,52 @@
+{
+ "name": "Guyne",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lanteeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guyne was a Human male who resided in the isolated village Torbel on the planet Lanteeb. By the time of the Clone Wars, Guyne was an elderly man, and in about 21 BBY, in the aftermath of a theta storm, Guyne and the Jedi Knight Anakin Skywalker worked together to fix the village's damaged shield generator.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lanteeb/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Torbel",
+  "/wiki/Planet/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Theta_storm",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Deflector_shield_generator/Legends",
+  "/wiki/Clone_Wars_Gambit:_Siege",
+  "/wiki/Clone_Wars_Gambit:_Siege_(audiobook)"
+ ]
+}

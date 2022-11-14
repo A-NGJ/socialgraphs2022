@@ -1,0 +1,48 @@
+{
+ "name": "Brianna  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blind Luck"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brianna was a Human female Jedi apprentice who was part of the Blind Luck crew during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Brianna",
+  "/wiki/Gender/Legends",
+  "/wiki/Blind_Luck",
+  "/wiki/Jedi/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brianna_(Human)",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

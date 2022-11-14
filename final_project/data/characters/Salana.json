@@ -1,0 +1,58 @@
+{
+ "name": "Salana",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Gimmel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Deaon"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Salana was the leader of Salana's Rebels, a cell of the Alliance to Restore the Republic that was active on the planet Ord Gimmel. In the wake of the disappearance of the planet's queen, Nehanna, the Rebel Alliance supported Salana to take her place, even though she had no royal blood.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Gimmel/Legends",
+  "/wiki/Deaon/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Salana%27s_Rebels",
+  "/wiki/Planet/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Nehanna",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

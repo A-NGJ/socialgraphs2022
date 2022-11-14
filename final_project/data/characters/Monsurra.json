@@ -1,0 +1,47 @@
+{
+ "name": "Monsurra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Monsurra was a male Wookiee artisan who served as the tailor of the Myyydril tribe during the years prior to the Clone Wars. He was infected by the Poltur Virus.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Myyydril",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Poltur_Virus",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Monsurra",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

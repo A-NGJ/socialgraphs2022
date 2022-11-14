@@ -1,0 +1,49 @@
+{
+ "name": "Card Captor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Card Captor, also known as \"The Captain,\" was the codename for the male Sullustan who ran the Rebel Alliance cell on Cloud City since a year before the Battle of Hoth.\nShortly before the Battle of Endor, he provided the nav-coordinates to the Rebel safe world Kaliska to agents tasked with rescuing several relatives of Alliance personnel.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Safe_world/Legends",
+  "/wiki/Kaliska",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Cloud_Cover",
+  "/wiki/Star_Wars_Gamer_3"
+ ]
+}

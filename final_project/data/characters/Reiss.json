@@ -1,0 +1,50 @@
+{
+ "name": "Reiss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Reiss was an Imperial officer assigned to the Marduk under Systems Sub-Commander Jared Brojtal. Following the attack on the Syndaar Military Prep School by the Ho'Din terrorist Ort Hoogra-D'En, Reiss had the unenviable task of informing Sub-Commander Brojtal that his son was killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Marduk",
+  "/wiki/Jared_Brojtal",
+  "/wiki/Syndaar_Military_Prep_School",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Ort_Hoogra-D%27En",
+  "/wiki/West_End_Games",
+  "/wiki/Gone_To_Ground",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

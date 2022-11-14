@@ -1,0 +1,58 @@
+{
+ "name": "Fontis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gully's"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fontis was a Devaronian male bartender that ran Gully's, a cantina in the settlement on the moon Yavin 4.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaronian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Gully%27s",
+  "/wiki/Poe_Dameron",
+  "/wiki/Bartender",
+  "/wiki/Cantina",
+  "/wiki/Wetyin%27s_Colony",
+  "/wiki/Moon",
+  "/wiki/Yavin_4",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fontis",
+  "/wiki/Poe_Dameron:_Free_Fall",
+  "/wiki/Poe_Dameron:_Free_Fall_(audiobook)"
+ ]
+}

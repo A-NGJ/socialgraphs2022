@@ -1,0 +1,60 @@
+{
+ "name": "Boraso",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boraso was a Human male and a member of the Royal Naboo Security Forces.\nHe was injured during the Trade Federation's Invasion of Naboo and subsequently imprisoned. He aided in a prison break also involving captured agents of the Naboo Underground, providing them with some useful tools that he had hidden in his belt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Naboo_Underground",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Boraso",
+  "/wiki/Star_Wars:_Invasion_of_Theed_Adventure_Game"
+ ]
+}

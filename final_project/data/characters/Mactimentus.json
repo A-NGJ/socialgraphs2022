@@ -1,0 +1,62 @@
+{
+ "name": "Mactimentus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Triton"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tritonite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Domains of Triton"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mactimentus was a Tritonite who resided on Triton Besh. He represented the Domains of Triton and greeted newcomers at Triton Besh Port with a copy of the Rules of Law for the Domains of Triton.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Triton/Legends",
+  "/wiki/Tritonite",
+  "/wiki/Gender/Legends",
+  "/wiki/Domains_of_Triton",
+  "/wiki/Triton_Besh",
+  "/wiki/Triton_Besh_Port",
+  "/wiki/Rules_of_Law_for_the_Domains_of_Triton",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mactimentus",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Deader_than_a_Triton_Moon",
+  "/wiki/StarWars.com",
+  "/wiki/Unbound_Worlds"
+ ]
+}

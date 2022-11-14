@@ -1,0 +1,59 @@
+{
+ "name": "Gherd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Egips"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nanak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Harra the Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gherd was a male nanak owned by Harra the Hutt that helped J-Squadron escape the stronghold.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Egips",
+  "/wiki/Nanak",
+  "/wiki/Gender",
+  "/wiki/Harra",
+  "/wiki/Hutt",
+  "/wiki/J-Squadron",
+  "/wiki/Harra_the_Hutt%27s_stronghold",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gherd",
+  "/wiki/Join_the_Resistance:_Escape_from_Vodran"
+ ]
+}

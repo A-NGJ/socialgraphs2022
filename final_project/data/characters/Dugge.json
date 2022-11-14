@@ -1,0 +1,67 @@
+{
+ "name": "Dugge",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Death's Claw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dugge was a Human male pirate who was a captain in the Death's Claw operating on Taris during the Cold War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Death%27s_Claw",
+  "/wiki/Pirate/Legends",
+  "/wiki/Taris",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dugge",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Taris/Legends"
+ ]
+}

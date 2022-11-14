@@ -1,0 +1,65 @@
+{
+ "name": "Londrah",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Af'El"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "23 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Defel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Londrah was a male Defel assassin who used his species' natural ability at stealth to infiltrate heavily secured facilities. He was often used by the Galactic Empire prior to the Battle of Endor, and he was ordered by Emperor Palpatine to assassinate Rebel Alliance leader Mon Mothma.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Af%27El",
+  "/wiki/23_BBY/Legends",
+  "/wiki/Defel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Assassin/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mon_Mothma/Legends",
+  "/wiki/Wanted_by_Cracken_(sourcebook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

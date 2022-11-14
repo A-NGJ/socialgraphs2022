@@ -1,0 +1,34 @@
+{
+ "name": "Lan Demoal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lan Demoal was a conspiracy theorist and freelance reporter. He traveled the Sisar Run looking for major stories.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sisar_Run/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lan_Demoal",
+  "/wiki/Secrets_of_the_Sisar_Run",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

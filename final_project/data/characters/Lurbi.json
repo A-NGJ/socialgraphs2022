@@ -1,0 +1,61 @@
+{
+ "name": "Lurbi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Antar 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gotal"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lurbi was a female Gotal from the moon Antar 4. Lurbi operated Lurbi's Mercantile, a cantina that was located in the Landing, a settlement situated on the planet Engebo V.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Antar_4/Legends",
+  "/wiki/Gotal/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Lurbi%27s_Mercantile",
+  "/wiki/Cantina/Legends",
+  "/wiki/Landing",
+  "/wiki/Planet/Legends",
+  "/wiki/Engebo_V",
+  "/wiki/Wizards.com",
+  "/wiki/Death,_Dirt,_and_the_Nerf_Rancher%27s_Daughter"
+ ]
+}

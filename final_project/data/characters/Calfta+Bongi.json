@@ -1,0 +1,40 @@
+{
+ "name": "Calfta Bongi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kuari Princess"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Calfta Bongi was the Aqualish Head Nurse aboard the Kuari Princess during the height of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Kuari_Princess/Legends",
+  "/wiki/Head_Nurse",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Riders_of_the_Maelstrom_(West_End_Games)",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

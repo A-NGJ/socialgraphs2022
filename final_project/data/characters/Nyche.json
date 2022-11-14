@@ -1,0 +1,89 @@
+{
+ "name": "Nyche",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "2-3 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Horn family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nyche was the wife of Hal Horn and the mother of Corran Horn. She died a few months before the Battle of Hoth in a landspeeder accident.\nShe preferred the ZX-26 airspeeders over the flashier ZRX-29 airspeeders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Horn_family",
+  "/wiki/Hal_Horn",
+  "/wiki/Corran_Horn",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Landspeeder/Legends",
+  "/wiki/ZX-26_airspeeder",
+  "/wiki/ZRX-29_airspeeder",
+  "/wiki/Interlude_at_Darkknell",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Side_Trip",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_Isard%27s_Revenge",
+  "/wiki/I,_Jedi",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_I:_Onslaught",
+  "/wiki/The_New_Essential_Guide_to_Characters"
+ ]
+}

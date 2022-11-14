@@ -1,0 +1,86 @@
+{
+ "name": "Demo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Simocadia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mosciive"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems",
+      "Simocadia royal family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Demo was a male Mosciive right-hand of prince Yojan of the Inner Rim planet Simocadia. He was loyal to the prince and supported him in his attempt to destroy the agrocite mines with an ancient Ardana Shadex in order to make both sides of the Clone Wars lose interest in their planet. Demo informed the Jedi Master Mace Windu of this plot in an attempt to stall him for enough time for prince to finish his work and lured him into a valley full of battle droids. Windu, however, choose not to fight the droids and threatened Demo, forcing him to take himself to the prince. The Jedi confronted the prince, who choose to activate the Ardana Shadex, when the Jedi unintentionally destroyed the glass key - its control module. The giant was awakened an not only crashed the mine, but attempted to destroy the city as well. Windu, Yojan and Demo escaped in a Neimoidian Sheathipede-class transport shuttle. Joining their forces against the threat, the Jedi and the prince managed to destroy the giant, by the cost of Yojan's life.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Simocadia",
+  "/wiki/Mosciive",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Simocadia_royal_family",
+  "/wiki/Yojan",
+  "/wiki/Inner_Rim",
+  "/wiki/Planet/Legends",
+  "/wiki/Agrocite/Legends",
+  "/wiki/Ardana_Shadex",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Mace_Windu/Legends",
+  "/wiki/Battle_droid/Legends",
+  "/wiki/Glass_key",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Sheathipede-class_transport_shuttle/Legends",
+  "/wiki/The_Clone_Wars:_The_Colossus_of_Destiny"
+ ]
+}

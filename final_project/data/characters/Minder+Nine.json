@@ -1,0 +1,61 @@
+{
+ "name": "Minder Nine",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Minder Nine was a male Human Minder within Imperial Intelligence of the Sith Empire. Like all Minders, he processed information from Cipher Agents, like when he relayed Cipher Four's report on the situation on Manaan to Watcher Three.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Minder_(Imperial_Intelligence)",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cipher_Agent",
+  "/wiki/Cipher_Four",
+  "/wiki/Manaan/Legends",
+  "/wiki/Watcher_Three",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

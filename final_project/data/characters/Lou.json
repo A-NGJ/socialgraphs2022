@@ -1,0 +1,61 @@
+{
+ "name": "Lou",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Haruun Kal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balawai"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lou was a lieutenant in the Pelek Baw militia as of the time of the Battle of Haruun Kal. When Jedi Master Mace Windu arrived at Haruun Kal, he was stationed at the spaceport, where he worked as a customs broker. There he confronted Master Windu, who eventually broke his nose. Later, Lou would cooperate with the Jedi Master.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Loubo/Legends",
+  "/wiki/Haruun_Kal/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Balawai",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Pelek_Baw",
+  "/wiki/Battle_of_Haruun_Kal/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Mace_Windu/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Shatterpoint_(novel)"
+ ]
+}

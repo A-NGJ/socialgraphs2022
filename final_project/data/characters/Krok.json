@@ -1,0 +1,67 @@
+{
+ "name": "Krok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pzob"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gakfedd's"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krok was a male Gamorrean and the junior husband of the alpha-female of the Gakfedd clan, Bullyak. He, along with Ugbuz, Bullyak, and several other Gamorrean warriors were captured the the Eye of Palpatine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pzob/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gakfedd_clan",
+  "/wiki/Bullyak",
+  "/wiki/Ugbuz",
+  "/wiki/Eye_of_Palpatine",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Krok",
+  "/wiki/Children_of_the_Jedi_(novel)",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

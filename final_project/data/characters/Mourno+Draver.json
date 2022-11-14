@@ -1,0 +1,55 @@
+{
+ "name": "Mourno Draver",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corporate Sector Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mourno Draver was a representative of the Corporate Sector Authority on the planet Talus. He was a criminal, doing business with the Hutts and ruthlessly killing those who posed a threat to his operations.\nIn 1 ABY, the Hutts killed one of his employees during a negotiation. In retaliation, Draver hired a spacer to eliminate a Hutt employee. After the job was done, he paid the spacer to destroy a glitterstim operation of the Hutts outside Dearic to make them \"understand the financial costs associated with poor management\".",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Planet/Legends",
+  "/wiki/Talus/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Glitterstim/Legends",
+  "/wiki/Dearic/Legends"
+ ]
+}

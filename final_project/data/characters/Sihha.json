@@ -1,0 +1,53 @@
+{
+ "name": "Sihha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sihha was a male Bothan student of astrogation at Garqi Agricultural University and friend of Dynba Tesc. He was one of many students who were disgruntled with the Galactic Empire and began slicing into their mainframe on Garqi. He along with Dynba and Arali Dil escaped Garqi onboard the Star's Delight thanks to the help of Corran Horn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Garqi_Agricultural_University",
+  "/wiki/Dynba_Tesc",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Garqi/Legends",
+  "/wiki/Arali_Dil",
+  "/wiki/Great_Evacuation",
+  "/wiki/Star%27s_Delight",
+  "/wiki/Corran_Horn",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Missed_Chance",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

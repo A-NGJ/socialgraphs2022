@@ -1,0 +1,28 @@
+{
+ "name": "Ishenn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ishenn was a Gamorrean who was employed by Thaddeus Ross and Trep Winterrs to lead a diplomatic security detail. Ishenn failed to protect the ambassador they were assigned to protect.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Thaddeus_Ross",
+  "/wiki/Trep_Winterrs",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Laughter_After_Dark_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

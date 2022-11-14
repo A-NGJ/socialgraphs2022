@@ -1,0 +1,67 @@
+{
+ "name": "Morteos",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Bo Sholla"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "25 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morteos was an assassin who killed the New Republic General Crix Masst on the planet Sinded. The assassination was carried out by way of Morteos wiring a bomb into the repulsorlift generator of the general's personal airspeeder, so that it would detonate when the craft was engaged in flight.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Bo_Sholla",
+  "/wiki/25_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Assassin/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Crix_Masst",
+  "/wiki/Planet/Legends",
+  "/wiki/Sinded",
+  "/wiki/Bomb/Legends",
+  "/wiki/Repulsorlift/Legends",
+  "/wiki/Airspeeder/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Morteos",
+  "/wiki/Wanted_by_Cracken_(sourcebook)"
+ ]
+}

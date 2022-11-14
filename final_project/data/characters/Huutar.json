@@ -1,0 +1,54 @@
+{
+ "name": "Huutar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Huutar was a Human male who worked as a mechanic on the world of Corellia. He was once hired by a smuggler who owned a YT-1300 freighter; the price for Huutar's services was set at one hundred credits per day.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Huutar",
+  "/wiki/Shadis",
+  "/wiki/Corellian_Smuggler",
+  "/wiki/Shadis_27"
+ ]
+}

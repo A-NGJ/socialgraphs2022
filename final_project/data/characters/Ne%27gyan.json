@@ -1,0 +1,67 @@
+{
+ "name": "Ne'gyan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ne'gyan was a male Human Sith Lord of the Sith Empire living during the Cold War. In 3643 BBY he was guarding Camp 27 in the Shadow Town on Nar Shaddaa.\nLord Ne'gyan appears in Star Wars: The Old Republic as a Champion enemy on Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Camp_27",
+  "/wiki/Shadow_Town",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

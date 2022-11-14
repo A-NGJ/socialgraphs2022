@@ -1,0 +1,78 @@
+{
+ "name": "Reya",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cato Neimoidia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Reya"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Reya was as a male Neimoidian baron of Cato Neimoidia in the decades following the Battle of Endor. A member of House Reya, he attempted to do business with Leia Organa, the leader of the Resistance. However, this was in reality a ploy on the Resistance's part in order to free Lor San Tekka, who had been captured in Baron Paw Maccon's vault.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Cato_Neimoidia",
+  "/wiki/Neimoidian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/House_Reya",
+  "/wiki/Baron",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Resistance",
+  "/wiki/Lor_San_Tekka",
+  "/wiki/Paw_Maccon",
+  "/wiki/Great_Vaults_of_Cato_Neimoidia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Reya",
+  "/wiki/Poe_Dameron_21",
+  "/wiki/Poe_Dameron_23",
+  "/wiki/Poe_Dameron_22"
+ ]
+}

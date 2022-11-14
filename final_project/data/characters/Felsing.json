@@ -1,0 +1,48 @@
+{
+ "name": "Felsing",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wroonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lady Felsing was a Wroonian noble, or so she claimed. In reality, she was a con artist. Felsing hired a group of spacers to rescue her son who had been captured by Omze'kehr Kahr aboard Omze's Incredible Traveling Starport. However, there was no son, and she conned the spacers into breaking into Omze's secure vaults.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wroonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Con_artist/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Omze%27kehr_Kahr",
+  "/wiki/Omze%27s_Incredible_Traveling_Starport/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

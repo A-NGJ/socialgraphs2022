@@ -1,0 +1,51 @@
+{
+ "name": "Margar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quara Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Margar was an Aqualish illegal arms dealer in Iziz starport on Onderon whom Meetra Surik met, while searching for Kavar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quara/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Iziz/Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Kavar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Margar",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

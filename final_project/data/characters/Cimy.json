@@ -1,0 +1,53 @@
+{
+ "name": "Cimy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mokivj"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cimy was a human male from Mokivj who worked maintenance at the factory the Confederacy of Independent Systems took over. During the Clone Wars he, along with his brother Huga and friend LebJau, ran into Padmé Amidala who had crashed onto the planet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mokivj",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Mokivj_droid_factory",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Clone_Wars",
+  "/wiki/Brother/Legends",
+  "/wiki/Huga",
+  "/wiki/Nodlia",
+  "/wiki/Padm%C3%A9_Amidala",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cimy",
+  "/wiki/Thrawn:_Alliances",
+  "/wiki/Thrawn:_Alliances_(audiobook)"
+ ]
+}

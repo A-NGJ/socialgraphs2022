@@ -1,0 +1,47 @@
+{
+ "name": "Maxig Kress",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tibro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maxig Kress was a Human Female from Tibro accused of stealing valuable experimental crystalline compounds from the Gandalom Paramedicinals, Incorporated corporation's facility on Corvanni IV. Her supposed crimes there included the destruction of two security droids and the injuring of several corporate guards. A 25,000 credit bounty was placed on her head by the corporation who wanted her alive. Kress was known to associate with Malindin Gevarak, and sometimes used the alias Levesh Tolik.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tibro",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gandalom_Paramedicinals,_Incorporated",
+  "/wiki/Corvanni_IV",
+  "/wiki/Droid/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Malindin_Gevarak",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

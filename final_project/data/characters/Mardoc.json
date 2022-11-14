@@ -1,0 +1,65 @@
+{
+ "name": "Mardoc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Grand Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mardoc was the Executive Secretary of the Hutt Grand Council a few years before the Battle of Yavin. Mardoc apparently preceded Grejic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Ruling_Council",
+  "/wiki/Grejic",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mardoc",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

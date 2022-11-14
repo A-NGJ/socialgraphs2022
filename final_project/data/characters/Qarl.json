@@ -1,0 +1,51 @@
+{
+ "name": "Qarl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Qarl was a male Mon Calamari officer who served in the Rebel Alliance during the early part of the Galactic Civil War. He was the commanding officer of the cruiser Mantan Wanderer, which was flagship of the 14th Roving Line.\nThe commander of a battle line in the Alliance Fleet would be expected to hold the position of line admiral. It is not clear if Qarl's stated rank of Captain was an anomaly, or if this could be held concurrently with some sort of Brevet Admiral rank.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Cruiser/Legends",
+  "/wiki/Mantan_Wanderer",
+  "/wiki/14th_Roving_Line",
+  "/wiki/Line_of_battle",
+  "/wiki/Line_admiral",
+  "/wiki/Brevet",
+  "/wiki/Rules_of_Engagement:_The_Rebel_SpecForce_Handbook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

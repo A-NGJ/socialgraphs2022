@@ -1,0 +1,67 @@
+{
+ "name": "Mintinee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Great Canyon Clan",
+      "Misty Falls Clan"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Great Canyon Clan",
+      "Misty Falls Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mintinee was the clan mother of one of the tribes of Dathomiri Witches.\nMintinee is first mentioned in Geonosis and the Outer Rim Worlds. She is stated as being the leader of the Great Canyon Clan. Later in the text it states she was the leader of the Misty Falls Clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Great_Canyon_Clan",
+  "/wiki/Misty_Falls_Clan",
+  "/wiki/Clan_mother",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mintinee",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

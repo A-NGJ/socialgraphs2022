@@ -1,0 +1,63 @@
+{
+ "name": "Hora Graneet",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hora Graneet was a Human male who served as a navy spacer aboard the Imperial II-class Star Destroyer, Battle Lance during the Galactic Civil War. He was killed along with the rest of the ship's crew when an experimental hypermatter reactor caused it to disintegrate while in hyperspace. He was the nephew of Tenn Graneet and it was out of admiration for his uncle that he'd enlisted in the Imperial Navy. As a result, Graneet felt personally responsible for the loss of his favorite nephew.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Navy/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Battle_Lance",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Hypermatter_annihilator",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Tenn_Graneet",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

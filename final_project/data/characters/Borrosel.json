@@ -1,0 +1,44 @@
+{
+ "name": "Borrosel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Apprentices",
+     "values": [
+      "Setenna Hase"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borrosel was an Ithorian pacifist who mentored the young Setenna Hase. His death in an Imperial raid led Setenna to join the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Setenna_Hase",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

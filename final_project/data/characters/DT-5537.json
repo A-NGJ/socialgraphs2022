@@ -1,0 +1,50 @@
+{
+ "name": "DT-5537",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.96 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Unit TI-23",
+      "Unit TI-23"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "DT-5537 was the designation of a human death trooper that was part of Unit TI-23. Having undergone advanced training at a camp on Scarif and received classified augmentations, DT-5537 was proficient in demolitions, improvised weaponry, and guerrilla tactics.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Unit_TI-23",
+  "/wiki/Death_trooper",
+  "/wiki/Death_trooper_training_camp",
+  "/wiki/Scarif",
+  "/wiki/Guerrilla_warfare",
+  "/wiki/Star_Wars:_Rogue_One:_The_Ultimate_Visual_Guide",
+  "/wiki/Star_Wars_Encyclopedia_(De_Agostini)",
+  "/wiki/Imperial_Troops"
+ ]
+}

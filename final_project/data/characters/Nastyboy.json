@@ -1,0 +1,60 @@
+{
+ "name": "Nastyboy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nastyboy was a Human male thug on Ord Mantell. He was beating up Morgot, who owed him money, when Aayla Secura and Quinlan Vos arrived seeking Morgot. Aayla used a mind trick, persuading Nastyboy to go home.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Morgot",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Aayla_Secura/Legends",
+  "/wiki/Quinlan_Vos/Legends",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Star_Wars_(1998)_43"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Morgo  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kalarba"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morgo was a young Kalarban boy who was helped by droids Q-E and 2-E before they exposed Vuldo's blaster plans.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Morgo_(disambiguation)",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Kalarba/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Q-E",
+  "/wiki/2-E",
+  "/wiki/Vuldo",
+  "/wiki/Blaster/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Morgo_(Human)",
+  "/wiki/Droids_(1994)_5",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Blox Hatha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trade Federation",
+      "Trade Defense Force",
+      "Trade Defense Force",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Blox Hatha was a Neimoidian who served the Trade Federation as a captain within the Trade Defense Force. During the Galactic Civil War, Hatha sought to join the Rebel Alliance and became a notable Rebel-affiliated privateer after being refused formal membership of the group due to previous war crimes.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Trade_Defense_Force",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Rebel_privateer",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

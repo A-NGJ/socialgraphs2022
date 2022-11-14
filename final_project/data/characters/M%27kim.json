@@ -1,0 +1,58 @@
+{
+ "name": "M'kim",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unknown"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thranta Riders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "M'kim was a male Thranta Rider who lived and worked on Cloud City. In 24 ABY he saved Jacen Solo's life by catching him out of the sky when Jacen fell off Cloud City.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thranta_Rider",
+  "/wiki/Thranta_Riders",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/24_ABY/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/Young_Jedi_Knights:_Return_to_Ord_Mantell",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

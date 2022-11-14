@@ -1,0 +1,36 @@
+{
+ "name": "Agamar family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Agamar family was a Human family that lived on Coruscant before the Galactic Civil War. One of the family's members was Gareth Agamar, an Imperial pilot, who was part of a long line of soldiers and pilots in the Agamar family.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Agamar_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Gareth_Agamar",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

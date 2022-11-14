@@ -1,0 +1,52 @@
+{
+ "name": "Lurrexu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Azzenaj"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lurrexu was the name of the pet rancor of the Dathomirian Arch Witch Azzenaj from the Singing Mountain Clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Rancor/Legends",
+  "/wiki/Azzenaj",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/The_Nightsister%27s_Revenge",
+  "/wiki/Template:SWGTCG"
+ ]
+}

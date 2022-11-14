@@ -1,0 +1,48 @@
+{
+ "name": "Lurze Kesh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lurze Kesh was a male Rodian who met Revan in Dreshdae on Korriban, in 3956 BBY. He had been expecting a cargo of spice from Davik Kang, and hoped Revan had it on the Ebon Hawk, Davik's former ship. He also gave Revan a Rakatan prison to deliver to Motta the Hutt on Tatooine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Dreshdae",
+  "/wiki/Korriban",
+  "/wiki/3956_BBY",
+  "/wiki/Spice/Legends",
+  "/wiki/Davik_Kang",
+  "/wiki/Ebon_Hawk",
+  "/wiki/Mind_prison",
+  "/wiki/Motta",
+  "/wiki/Hutt/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

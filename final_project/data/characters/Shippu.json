@@ -1,0 +1,70 @@
+{
+ "name": "Shippu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi OrderGalactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shippu was a Human female Jedi Master serving the Jedi Order and the Galactic Republic. During the Cold War she was stationed on Balmorra.\nShippu was originally set to appear in the video game Star Wars: The Old Republic but for whatever reason her character was cut before release. Shippu's file can be found on Jedipedia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/October_5",
+  "/wiki/2020"
+ ]
+}

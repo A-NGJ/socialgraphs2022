@@ -1,0 +1,55 @@
+{
+ "name": "Kade Darven",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.5 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kade Darven was a Human male operative of the New Republic. He was working on the planet Seikosha with the native Seikoshans.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Seikosha/Legends",
+  "/wiki/Seikoshan",
+  "/wiki/West_End_Games",
+  "/wiki/Easy_Money",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures"
+ ]
+}

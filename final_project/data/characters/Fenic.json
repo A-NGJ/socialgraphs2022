@@ -1,0 +1,83 @@
+{
+ "name": "Fenic",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ahakista"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ahakistan rebels"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fenic was a member of Dunlan's resistance movement on the planet Ahakista.\nAfter Sardoth had failed to get him to participate in a raid on The Hub, Dunlan walked out of the meeting and ordered his followers to break up and meet again at their safe house. It was then that Fenic demonstrated the depth of his loyalty to Dunlan.\nFenic had planned to kill Dunlan and then collect the sizable bounty that the Empire had placed on his head. He managed to aim his blaster pistol at Dunlan but when the time came to pull the trigger he hesitated—even when Dunlan encouraged him to do it. Fenic's dilemma ended when Wyl Tarson disarmed and incapacitated him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ahakista/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ahakistan_rebels",
+  "/wiki/Dunlan",
+  "/wiki/Planet/Legends",
+  "/wiki/Sardoth",
+  "/wiki/Mission_to_Ahakista",
+  "/wiki/The_Hub_(computer)",
+  "/wiki/Bounty/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Blaster_pistol/Legends",
+  "/wiki/Wyl_Tarson",
+  "/wiki/Rebellion_8",
+  "/wiki/Rebellion_9",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

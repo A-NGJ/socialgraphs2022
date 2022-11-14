@@ -1,0 +1,67 @@
+{
+ "name": "Charr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances",
+      "Five Worlds",
+      "Confederation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Charr was the senator of the Corellian sector in 40 ABY who believed the Galactic Alliance Guard's roundup of Corellian citizens was an abuse of sentient rights.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Five_Worlds",
+  "/wiki/Confederation",
+  "/wiki/Senator/Legends",
+  "/wiki/Corellian_sector/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Rights_of_Sentience",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Charr",
+  "/wiki/Legacy_of_the_Force:_Bloodlines",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Chelch_Dravvad"
+ ]
+}

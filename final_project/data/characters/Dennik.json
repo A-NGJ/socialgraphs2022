@@ -1,0 +1,68 @@
+{
+ "name": "Dennik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dennik was a Human male captain of the Republic Army living during the Galactic War. Part of the Republic forces deployed to the planet Denova, he assisted the Republic forces in the fighting against Kephess's renegade forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Denova",
+  "/wiki/Battle_of_Denova",
+  "/wiki/Kephess",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Krafte",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Squib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red-Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Second Mistake Enterprises"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krafte was a male Squib and the son of Emala. He served as her accountant during the Swarm War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Second_Mistake_Enterprises",
+  "/wiki/Emala",
+  "/wiki/Swarm_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Krafte",
+  "/wiki/Dark_Nest_III:_The_Swarm_War"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Maritan Kas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kiffu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kiffar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kiffu Guardians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maritan Kas was a Kiffar, and member of the Kiffu Guardians, who flew Quinlan Vos to Kiffex during his Anzati-related investigation there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kiffu/Legends",
+  "/wiki/Kiffar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kiffu_Guardians",
+  "/wiki/Quinlan_Vos/Legends",
+  "/wiki/Kiffex/Legends",
+  "/wiki/Anzat_(species)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Maritan_Kas",
+  "/wiki/Star_Wars_(1998)_32"
+ ]
+}

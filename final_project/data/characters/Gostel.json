@@ -1,0 +1,68 @@
+{
+ "name": "Gostel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gostel was a male Human Captain of the reconstituted Sith Empire living during the Galactic War. In 3639 BBY he was stationed at the Vaiken Spacedock, administering alien criminals recruited by the Empire on Belsavis prison prior to the Dread Host takeover of Section X.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3639_BBY",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Belsavis_prison",
+  "/wiki/Dread_Host",
+  "/wiki/Section_X",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

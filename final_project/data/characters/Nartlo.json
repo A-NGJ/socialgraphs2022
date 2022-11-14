@@ -1,0 +1,77 @@
+{
+ "name": "Nartlo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "7 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Short"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nartlo was a male Human who sold bacta on the planet Coruscant during the outbreak of the Krytos virus. Nartlo was caught and turned into an informer by Kirtan Loor, who was then running the Palpatine Counter-Insurgency Front. Nartlo died of convulsions when Fliry Vorru interrogated him with skirtopanol, not knowing he was taking lotiramine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Krytos_virus",
+  "/wiki/Kirtan_Loor",
+  "/wiki/Palpatine_Counter-Insurgency_Front",
+  "/wiki/Fliry_Vorru",
+  "/wiki/Skirtopanol/Legends",
+  "/wiki/Lotiramine",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

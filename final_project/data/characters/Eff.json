@@ -1,0 +1,37 @@
+{
+ "name": "Eff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Path of the Open Hand"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eff was a Klatooinian member of the Path of the Open Hand.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Klatooinian",
+  "/wiki/Path_of_the_Open_Hand",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eff",
+  "/wiki/The_High_Republic:_Path_of_Deceit"
+ ]
+}

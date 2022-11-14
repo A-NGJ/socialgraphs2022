@@ -1,0 +1,79 @@
+{
+ "name": "Plattahr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Plattahr's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Greenish"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Nebula"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plattahr was a Black Nebula enforcer on the planet Phorliss. He was killed by Mara Jade in 4 ABY when he attempted to extort Gorb Drig.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Plattahr%27s_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black_Nebula_(organization)",
+  "/wiki/Planet/Legends",
+  "/wiki/Phorliss",
+  "/wiki/Death/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Gorb_Drig",
+  "/wiki/Mara_Jade_%E2%80%93_By_the_Emperor%27s_Hand_4",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

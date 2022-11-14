@@ -1,0 +1,51 @@
+{
+ "name": "Moorsey",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Prosthetic arm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moorsey was a male Human, who lived on the planet Cularin during the waning years of the Galactic Republic.\nMoorsey originally worked as a mechanic on Cularin, in the platform city Lissken. However, his arm was crushed by faulty lifting equipment, so his employers gave him a prosthetic arm and paid him off, to avoid a lawsuit. Moorsey invested the money in the bar Spanner's, in the city of Hedrett and started working there as a bartender. He was present when the heroes of Cularin visited Spanner's in about 31 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Platform_city",
+  "/wiki/Lissken",
+  "/wiki/Spanner%27s",
+  "/wiki/Hedrett",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Oblivion%27s_Kiss"
+ ]
+}

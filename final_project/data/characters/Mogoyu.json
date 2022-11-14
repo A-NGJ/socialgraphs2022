@@ -1,0 +1,39 @@
+{
+ "name": "Mogoyu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rakrir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rakririan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mogoyu was a Rakririan who competed in the 22 BBY Mobquet Presents: Fastest Land Beings. The athlete barely came in second in the decaped-plus final, losing to Shimer Londalin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rakrir",
+  "/wiki/Rakririan",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Mobquet_Presents:_Fastest_Land_Beings",
+  "/wiki/Shimer_Londalin",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_52"
+ ]
+}

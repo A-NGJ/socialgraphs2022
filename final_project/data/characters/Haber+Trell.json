@@ -1,0 +1,54 @@
+{
+ "name": "Haber Trell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Carida"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haber Trell was a smuggler, who unknowingly got involved in a devious scheme devised by Grand Admiral Thrawn.\nBorn on Carida, Trell spent most of his adult life wandering between systems taking whatever available jobs he could find.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Carida/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Capture_of_Zekka_Thyne",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Star_system/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Haber_Trell",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Side_Trip",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/Tales_from_the_Empire",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

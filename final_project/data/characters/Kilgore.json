@@ -1,0 +1,48 @@
+{
+ "name": "Kilgore",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Palisade starport"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kilgore was a Human male who worked as a security officer at the Palisade starport, on the planet Kabal, during the height of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Palisade_starport",
+  "/wiki/Security_officer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Kabal/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Fair_Prey",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

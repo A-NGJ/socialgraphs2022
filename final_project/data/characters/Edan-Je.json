@@ -1,0 +1,74 @@
+{
+ "name": "Edan-Je",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Edan-Je was a member of the Voss commandos living on Voss during the Galactic War. He asked a Galactic Republic individual to destroy the Gormak cannon located in the Gormak Lands.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Gormak_cannon",
+  "/wiki/Gormak_Lands",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Edan-Je",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

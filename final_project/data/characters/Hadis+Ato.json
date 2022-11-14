@@ -1,0 +1,87 @@
+{
+ "name": "Hadis Ato",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corulag"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "34 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.76 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hadis Alto was a male Human and one of the first cadets to pass through the Corulag Imperial Academy. A level-headed, unremarkable Colonel, Alto served several tours of duty in the Outer Rim Territories, honing his skills as a sniper and VIP bodyguard.\nIn 2 ABY, he returned to Corulag and served as an undercover agent assigned with tailing, monitoring, and discreetly protecting valuable scientists, technicians, and engineers. He was still serving in this capacity when the Second Death Star was destroyed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corulag/Legends",
+  "/wiki/34_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Academy/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Death_Star_II/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

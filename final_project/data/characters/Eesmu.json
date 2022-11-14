@@ -1,0 +1,61 @@
+{
+ "name": "Eesmu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eesmu was a Rodian female who served as a Hutt Cartel representative to Mek-Sha during the third Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Eesmu",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Mek-Sha",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eesmu",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

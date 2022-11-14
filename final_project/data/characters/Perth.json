@@ -1,0 +1,42 @@
+{
+ "name": "Perth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Perth was the father of Thadius Black, and father-in-law of Kymber Black. When Thadius Black smuggled political prisoners away from Demophon, Perth received them on the nearby planet of Mowgle. When he learned that Thadius Black had been captured he arranged a team to return to Demophon and rescue him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thadius_Black",
+  "/wiki/Kymber_Black",
+  "/wiki/Demophon",
+  "/wiki/Mowgle",
+  "/wiki/West_End_Games",
+  "/wiki/Infiltration_(RPG_adventure)",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Marshak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marshak was a friend of Lando Calrissian. He was a Corellian smuggler, and tricked Han Solo, misinforming him of the true nature of the Kessel Run.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Kessel_Run/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Marshak",
+  "/wiki/Kessel_Run_(comic)",
+  "/wiki/Star_Wars_Tales_16",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Ildisa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown with light brown patches"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Myyydril tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ildisa was a female Wookiee member of the Myyydril tribe. During the Galactic Civil War in 1 ABY, Ildisa's tribe dwelt within the Myyydril Caverns of the Kkowir Forest, on her homeworld of Kashyyyk. She served was one of their mystics.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Myyydril",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Myyydril_Caverns",
+  "/wiki/Kkowir_Forest",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

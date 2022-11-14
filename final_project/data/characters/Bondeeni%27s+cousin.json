@@ -1,0 +1,47 @@
+{
+ "name": "Bondeeni's cousin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Audit Division",
+      "Audit Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bondeeni's cousin was a Gran auditor and working for the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gran",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Audit_Division",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bondeeni%27s_cousin",
+  "/wiki/Age_of_Rebellion_-_Lando_Calrissian_1"
+ ]
+}

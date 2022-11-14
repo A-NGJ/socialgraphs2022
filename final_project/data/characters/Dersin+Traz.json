@@ -1,0 +1,59 @@
+{
+ "name": "Dersin Traz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zakuul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dersin Traz was a male Human citizen of the Eternal Empire of Zakuul living with his daughter Lashia. After Empress Vaylin was killed during the Assault on Odessen, the Eternal Fleet went rogue and began bombarding Zakuul, destroying Traz's home among many others. Lashia send a holomessage to her father, who was offworld at the time, warning him to stay away from Zakuul, but her message was interrupted by a violent explosion in the area.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zakuul",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Lashia_Traz",
+  "/wiki/Vaylin",
+  "/wiki/Assault_on_Odessen",
+  "/wiki/Eternal_Fleet",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

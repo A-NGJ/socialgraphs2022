@@ -1,0 +1,36 @@
+{
+ "name": "Asara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Asara was a human female individual who was the mother of Jessika Pava. When Pava was a child, Asara and her family were captured by pirates and sold into slavery.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Jessika_Pava",
+  "/wiki/Pirate",
+  "/wiki/Slavery",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Poe_Dameron_17",
+  "/wiki/Poe_Dameron_19",
+  "/wiki/Ultimate_Star_Wars,_New_Edition"
+ ]
+}

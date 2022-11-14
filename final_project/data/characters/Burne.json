@@ -1,0 +1,68 @@
+{
+ "name": "Burne",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Field Agent Burne was a Human male SIS operative who served the Galactic Republic during the Cold War.\nDuring the Separatist War, he was stationed outside the entrance to the Separatist Stronghold housed inside Mount Avilatan. He received a tip that the separatists are meeting with the leaders of violent splinter groups from across the galaxy. He tasked a Republic spacer to access the separatist database in the separatist stronghold and hunt down the splinter groups' leaders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Separatist_War",
+  "/wiki/Mount_Avilatan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Burne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

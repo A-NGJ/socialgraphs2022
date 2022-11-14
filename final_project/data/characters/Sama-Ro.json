@@ -1,0 +1,63 @@
+{
+ "name": "Sama-Ro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sama-Ro was a male Voss diplomat living in Voss-Ka on Voss. During the Galactic War he negotiated with Darth Serevin, the ambassador of the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sama_(disambiguation)",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Sama-Ro",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss-Ka",
+  "/wiki/Galactic_War",
+  "/wiki/Darth_Serevin",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

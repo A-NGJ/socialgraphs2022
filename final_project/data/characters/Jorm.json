@@ -1,0 +1,71 @@
+{
+ "name": "Jorm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent SystemsConfederate Navy",
+      "Confederate Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jorm was a Human male naval Captain who served in the Confederate Navy during the Clone Wars.\nThe captain was the commanding officer of the fuel tanker Aurora. During the war, his ship was attacked by several Venator-class Star Destroyers in a mock attack meant to lure out the battleship Starcrusher.\nThe vessel was then infiltrated by a Jedi strike team which prompted the battleship to send a shuttle of B2 super battle droids to clear them out. The droids completely ignored Jorm and brushed past him as they arrived. The droids were then dismantled in secret by the Jedi and used as disguises to enter the Starcrusher. The nervous tanker captain saw the droids off and returned to his post, ordering the Aurora to leave the system.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Confederate_Navy",
+  "/wiki/Captain/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Separatist_refueling_ship",
+  "/wiki/Aurora_(fuel_tanker)/Legends",
+  "/wiki/Venator-class_Star_Destroyer/Legends",
+  "/wiki/Battleship/Legends",
+  "/wiki/Starcrusher/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/B2_super_battle_droid/Legends",
+  "/wiki/The_Clone_Wars:_The_Starcrusher_Trap"
+ ]
+}

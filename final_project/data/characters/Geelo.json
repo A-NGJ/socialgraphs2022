@@ -1,0 +1,42 @@
+{
+ "name": "Geelo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Geelo was a Rodian shipjacker, who was labeled as \"the resident Rodian cynic\" of the Crosstown cantina on Cularin.\nHe was involved in a salvage attempt on the Starworm.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Crosstown_Bar",
+  "/wiki/Cantina/Legends",
+  "/wiki/Starworm",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Geelo",
+  "/wiki/Wizards.com",
+  "/wiki/Lockdown_(article)",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

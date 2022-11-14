@@ -1,0 +1,48 @@
+{
+ "name": "Elegos A'Kla's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Caamas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Caamasi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Caamasi female member of the Kla clan mated with a male of the A clan, resulting in the birth of Elegos A'Kla. This Caamasi was also the sibling of famed Jedi Knight Ylenic It'kla.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Caamas/Legends",
+  "/wiki/Caamasi",
+  "/wiki/Gender/Legends",
+  "/wiki/Kla_(clan)",
+  "/wiki/Elegos_A%27Kla%27s_father",
+  "/wiki/A",
+  "/wiki/Elegos_A%27Kla",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Ylenic_It%27kla",
+  "/wiki/I,_Jedi"
+ ]
+}

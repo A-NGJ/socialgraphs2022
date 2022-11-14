@@ -1,0 +1,57 @@
+{
+ "name": "Dullourr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Eiattu 6"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Family of Eiattu"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dulorr was a princess of the Royal Family of Eiattu, daughter of Emperor Uthorrferrell Cartha and elder sister of Isplourrdacartha Estillo. She was murdered by rebellious Eiattuan nobles together with the rest of the royal family.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Eiattu_6",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Uthorrferrell_Cartha",
+  "/wiki/Isplourrdacartha_Estillo",
+  "/wiki/Star_Wars:_X-Wing_Rogue_Squadron:_The_Warrior_Princess"
+ ]
+}

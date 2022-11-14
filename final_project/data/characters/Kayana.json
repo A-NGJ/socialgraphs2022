@@ -1,0 +1,49 @@
+{
+ "name": "Kayana",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kayana was a female human childminder on the planet Naboo. She worked at an orphanage for refugee children and took care of the orphan Mapo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Naboo",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/Refugee",
+  "/wiki/Youngling",
+  "/wiki/Mapo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kayana",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

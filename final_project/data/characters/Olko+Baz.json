@@ -1,0 +1,56 @@
+{
+ "name": "Olko Baz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clazca"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Olko Baz was a member of the Clazca, a tribe of the Beast Riders on Onderon during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clazca",
+  "/wiki/Beast_Riders",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Operation:_Shadowpoint"
+ ]
+}

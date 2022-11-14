@@ -1,0 +1,60 @@
+{
+ "name": "Sellexith",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Daichyura"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange-blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Cluster Casino"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sellexith was a male Daichyura living on Nar Shaddaa during the Galactic War who worked at Star Cluster Casino as a bouncer during a Soovada event.\nSellexith appears in Star Wars: The Old Republic: Knights of the Eternal Throne during the Nightlife event. He was added to the game in update 5.2.2.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Daichyura",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Cluster_Casino",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Soovada",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Rolin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rolin was a Rodian male researcher who was part of a team sent by Yudin Thul to investigate the Anzaada Cavern in Alderaan's Kaamos Territory in order to recover an important Killik relic during the Cold War. However, the team was attacked by Killiks and wiped out except for Rolin, who managed to escape. Before the attack, the team's datascans revealed the Killiks' main tunnel network, and Rolin asked an Imperial individual to retrieve the datascans for House Thul. When the team did not return, Yudin sent in Imperial forces to secure the relic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yudin_Thul",
+  "/wiki/Anzaada_Cavern",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Kaamos_Territory",
+  "/wiki/Killik/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/House_of_Thul",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

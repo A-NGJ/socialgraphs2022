@@ -1,0 +1,49 @@
+{
+ "name": "Phelly",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phelly was a male Human lieutenant on the Imperial Star Destroyer Freedom. He participated in the Battle of Thyferra against Ysanne Isard's Thyferran forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Freedom",
+  "/wiki/Battle_of_Thyferra",
+  "/wiki/Ysanne_Isard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Phelly",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

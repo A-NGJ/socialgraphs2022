@@ -1,0 +1,36 @@
+{
+ "name": "Saskoria",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Selonia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Saskoria was a Selonian who lived during the Galactic Civil War and left Selonia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Selonia/Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

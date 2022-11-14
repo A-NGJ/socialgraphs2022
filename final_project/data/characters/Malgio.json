@@ -1,0 +1,52 @@
+{
+ "name": "Malgio",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malgio was a corpulent Quarren who was academically proficient and it was said that he was witty. He owned many ships and was one of the best inventors of Starship Customizations.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Malgio",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

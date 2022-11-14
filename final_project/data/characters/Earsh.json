@@ -1,0 +1,51 @@
+{
+ "name": "Earsh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "41.5 ABY",
+      "Fhost"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Earsh was a male Human gambler. In 41 ABY, he was present at the Black Hole cantina on Fhost during a sabacc game. He was killed there when a deadly brawl broke loose after Khedryn Faal won the final hand.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/41_ABY",
+  "/wiki/Fhost",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Gambling/Legends",
+  "/wiki/Black_Hole_(Fhost)",
+  "/wiki/Cantina/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Brawl_in_the_Black_Hole",
+  "/wiki/Khedryn_Faal",
+  "/wiki/Crosscurrent"
+ ]
+}

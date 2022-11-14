@@ -1,0 +1,42 @@
+{
+ "name": "Aktik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aktik was a Jawa that lived at the time of the Clone Wars. During that time the Jawa accompanied a spacer to Coruscant and possibly other planets.\nAktik was a companion for players in the online game Star Wars: Clone Wars Adventures. The Jawa sidekick could be bought for 300 Station Cash from the vendor droid 80-T5 in the Jedi Temple or via the in-game shop. He would follow the player around on their adventures.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)",
+  "/wiki/Vendor_droid",
+  "/wiki/80-T5",
+  "/wiki/Jedi_Temple"
+ ]
+}

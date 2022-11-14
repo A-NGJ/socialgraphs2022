@@ -1,0 +1,87 @@
+{
+ "name": "Evo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "24 BBY",
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cairn Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Evo the Blue was a male Rodian who was the leader of the Cairn Clan from Rodia. During a Clan War in 24 BBY, he was killed by Nym with a thermal detonator.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/EVO_trooper",
+  "/wiki/Rodia/Legends",
+  "/wiki/24_BBY/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cairn_Clan",
+  "/wiki/Nym/Legends",
+  "/wiki/Thermal_detonator/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Evo",
+  "/wiki/Starfighter:_Crossbones_1",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Lorgatt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Desilijic Kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorgatt was a Hutt male member of the Desilijic Kajidic. He oversaw the mining operations on the Hutt homeworld of Varl. He reported directly to the Hutt Ruling Council, but also embezzled money from the operations that he oversaw.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Desilijic/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Varl/Legends",
+  "/wiki/Hutt_Ruling_Council",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

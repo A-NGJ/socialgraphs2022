@@ -1,0 +1,67 @@
+{
+ "name": "Graw",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3963 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Graw was a male Ithorian Senator who represented Ithor in the Galactic Senate of the Republic during the Mandalorian Wars. In 3963 BBY, he was later killed after he called for tariffs against the Tapani sector due to their high prices.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/3963_BBY",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Galactic_Republic_Defense_Ministry_Daily_Brief_KD0092",
+  "/wiki/Knights_of_the_Old_Republic_Campaign_Guide"
+ ]
+}

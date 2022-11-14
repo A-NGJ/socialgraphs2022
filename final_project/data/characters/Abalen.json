@@ -1,0 +1,35 @@
+{
+ "name": "Abalen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Abalen was a male Bith who worked as a stimulant vendor on Corellia during the time of the Galactic War between Galactic Republic and Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stimulant/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

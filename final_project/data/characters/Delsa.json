@@ -1,0 +1,74 @@
+{
+ "name": "Delsa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Yashu-Vo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Delsa was a male Human Jedi Master of the Jedi Order during the Galactic War between the Galactic Republic and the resurgent Sith Empire. Around 3640 BBY, Delsa was on Tython, retraining the Voss Mystics Yashu-Vo after their lessons in the Dark side of the Force by Sith Lord Beldiss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Yashu-Vo",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3640_BBY",
+  "/wiki/Tython/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Beldiss",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Voss"
+ ]
+}

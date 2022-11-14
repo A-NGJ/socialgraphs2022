@@ -1,0 +1,34 @@
+{
+ "name": "Delih",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Delih was a male Cerean who was in the employ of the big game huntress Gozetta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Cerean",
+  "/wiki/Gender",
+  "/wiki/Big_game_hunter",
+  "/wiki/Gozetta",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Delih",
+  "/wiki/Adventures_in_Wild_Space:_The_Nest"
+ ]
+}

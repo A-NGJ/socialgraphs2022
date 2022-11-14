@@ -1,0 +1,33 @@
+{
+ "name": "Negri",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Negri was a male Ugnaught working as the overseer of Processing Vane 5 in Cloud City during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Processing_Vane_5",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

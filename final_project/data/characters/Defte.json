@@ -1,0 +1,49 @@
+{
+ "name": "Defte",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Defte was a Zabrak male researcher who was part of the expedition led by Jedi Master Cin Tykan on the planet Taris. When Tykan succumbed to the Dark Plague and turned on the researchers, Defte's ankle became trapped under a fallen support beam, and he was unable to move until a Jedi Consular arrived and lifted the beam.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Cin_Tykan",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Dark_Plague",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

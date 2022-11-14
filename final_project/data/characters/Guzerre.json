@@ -1,0 +1,50 @@
+{
+ "name": "Guzerre",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guzerre was an aging Twi'lek who operated a small medical center in the caverns on Streysel Island on the resort world of Vaynai during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Streysel_Island",
+  "/wiki/Vaynai/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Guzerre",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Vaynai_Archipelago",
+  "/wiki/Star_Wars_Gamer_8",
+  "/wiki/Topside_Infiltration"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Dular",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sakuub"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakuubian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dular was a male Sakuubian whom Jaina Solo Fel and Jagged Fel met during their honeymoon in 44 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sakuub",
+  "/wiki/44_ABY",
+  "/wiki/Sakuubian",
+  "/wiki/Gender/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Jagged_Fel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dular",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Getaway",
+  "/wiki/Star_Wars_Insider_134"
+ ]
+}

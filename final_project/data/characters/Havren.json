@@ -1,0 +1,68 @@
+{
+ "name": "Havren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Diplomatic Corps",
+      "Republic Diplomatic Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Havren was a Human male aide to the Galactic Republic Ambassador Sophia Farash on Voss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Diplomatic_Corps/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Sophia_Farash",
+  "/wiki/Voss",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Havren",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

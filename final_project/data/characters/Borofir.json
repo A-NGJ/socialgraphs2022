@@ -1,0 +1,72 @@
+{
+ "name": "Borofir",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Datar"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "35 BBY",
+      "Datar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ghostling"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borofir was a male Ghostling who was kidnapped along with Princess Arawynne by Djas Puhr, a bounty hunter who attempted to sell them into the slave trade in Mos Espa, Tatooine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Datar/Legends",
+  "/wiki/35_BBY/Legends",
+  "/wiki/Ghostling",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Arawynne",
+  "/wiki/Djas_Puhr/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Borofir",
+  "/wiki/Episode_I_Adventures_5:_The_Ghostling_Children",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

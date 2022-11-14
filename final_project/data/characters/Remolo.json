@@ -1,0 +1,57 @@
+{
+ "name": "Remolo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Remolo was a male Human sergeant who served under the command of Admiral Gar Stazi during the Battle of Mon Calamari.\nHe was part of the Alliance team led by Hondo Karr that hijacked the Imperious-class Star Destroyer Imperious.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Remnant",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gar_Stazi",
+  "/wiki/Battle_of_Mon_Calamari_(Second_Imperial_Civil_War)",
+  "/wiki/Hondo_Karr",
+  "/wiki/Imperious-class_Star_Destroyer",
+  "/wiki/Alliance_(Imperious-class)",
+  "/wiki/Legacy_(2006)_21"
+ ]
+}

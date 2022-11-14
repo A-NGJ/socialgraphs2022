@@ -1,0 +1,69 @@
+{
+ "name": "Pathel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Army",
+      "Imperial Army",
+      "Order of Revan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Pathel was a Human male who served as major of the Imperial Army until he joined a Sith cult known as the Revanites during the Cold War. He was head of security at the Wall on the reconstituted Sith Empire's capital planet of Dromund Kaas. In secret, he helped initiate new members into the Revanites by interviewing them during their Pilgrimage, the name given to the final task Revanite initiates undertook before being accepted into or rejected from the cult.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Order_of_Revan",
+  "/wiki/Major/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/The_Wall",
+  "/wiki/Capital/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

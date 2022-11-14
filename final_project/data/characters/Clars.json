@@ -1,0 +1,47 @@
+{
+ "name": "Clars",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nilya Fek'ra"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clars was a male Twi'lek who served the crime lord Nilya Fek'ra as a doorman. He wore elegant clothing, and carried a comlink with ear receiver and a datapad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nilya_Fek%27ra",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Comlink/Legends",
+  "/wiki/Datapad/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Tales_of_the_Smoking_Blaster",
+  "/wiki/Star_Wars_Gamemaster_Handbook"
+ ]
+}

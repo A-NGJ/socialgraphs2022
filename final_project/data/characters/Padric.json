@@ -1,0 +1,53 @@
+{
+ "name": "Padric",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Amaxine warriors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Padric was a bearded male human who worked as an Amaxine warrior in 28 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Amaxine_warriors_(New_Republic_Era)",
+  "/wiki/Hair",
+  "/wiki/28_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Padric",
+  "/wiki/Bloodline_(novel)",
+  "/wiki/Bloodline_(audiobook)",
+  "/wiki/Del_Rey",
+  "/wiki/File:New_Republic_Bloodline_Twitter_Post.jpg",
+  "/wiki/Standard_year",
+  "/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Falena",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Falena was a female human from Alderaan. By 0 BBY, she was the youngest attendant to Her Majesty Breha Organa, Queen of Alderaan. As such, she was allowed in the queen's apartments, where she would notably practice at her lute.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Alderaan",
+  "/wiki/0_BBY",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/House_of_Organa",
+  "/wiki/Breha_Organa",
+  "/wiki/Alderaanian_monarchy",
+  "/wiki/Queen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Falena",
+  "/wiki/Eclipse_(short_story)",
+  "/wiki/From_a_Certain_Point_of_View",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Nania",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vorzyd IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vorzydiak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Freelies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nania was a member of the Freelies.\nShe, like all Freelies, sabotaged the factories of Vorzyd IV, to make the people realize that the job was not the main thing in a perfect society that the Vorzydiaks tried to built. She was a supporter and a good friend of Grath.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vorzyd_IV",
+  "/wiki/Vorzydiak",
+  "/wiki/Gender/Legends",
+  "/wiki/Freelies",
+  "/wiki/Grath_(Vorzydiak)",
+  "/wiki/Jedi_Apprentice:_The_Threat_Within",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

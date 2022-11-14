@@ -1,0 +1,65 @@
+{
+ "name": "Kresk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Ordnance Acquisition Corps",
+      "Imperial Ordnance Acquisition Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kresk was a male Human Moff of the reconstituted Sith Empire during the Galactic War. As head of the Imperial Ordnance Acquisition Corps, he was responsible for collecting all technological advances deemed necessary for the defense of the Empire. One such collection was on the moon, CZ-198 where with information gained from Czerka executive Eva Kaayz, the Moff's organization was able to acquire several technologies before being seized by the Republic's Department of Adjudication.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Ordnance_Acquisition_Corps",
+  "/wiki/Moff/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/CZ-198",
+  "/wiki/Eva_Kaayz",
+  "/wiki/Department_of_Adjudication",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kresk",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

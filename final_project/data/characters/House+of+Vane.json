@@ -1,0 +1,59 @@
+{
+ "name": "House of Vane",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Omi Vane"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Tofen Vane"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Valahari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House of Vane was the ruling royal house of Valahari, ruled by a King or Queen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Omi_Vane",
+  "/wiki/Tofen_Vane",
+  "/wiki/Valahari/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Harko_Vane",
+  "/wiki/Elodore_Vane",
+  "/wiki/Star_Wars:_The_Clone_Wars:_Hero_of_the_Confederacy"
+ ]
+}

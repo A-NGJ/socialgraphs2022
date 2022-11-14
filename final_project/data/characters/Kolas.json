@@ -1,0 +1,43 @@
+{
+ "name": "Kolas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Tawny"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kolas was a male Cathar who resided in the city of Farpoint on the planet of Fhost. He was a regular on the Black Hole cantina and often engaged Khedryn Faal—a salvage jockey—in friendly banter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cathar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Farpoint",
+  "/wiki/Planet/Legends",
+  "/wiki/Fhost",
+  "/wiki/Black_Hole_(Fhost)",
+  "/wiki/Cantina/Legends",
+  "/wiki/Khedryn_Faal",
+  "/wiki/Crosscurrent"
+ ]
+}

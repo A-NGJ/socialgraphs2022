@@ -1,0 +1,46 @@
+{
+ "name": "Klev",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klev was the 36th generation of his family to attend a prestigious military academy. He was a high-ranking veteran of the Clone Wars. After the end of the war, he settled on Alsakan and married the heiress of a wealthy trading company. They had a son, Titus.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Klev_family",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Alsakan/Legends",
+  "/wiki/Titus_Klev",
+  "/wiki/Dark_Empire_Sourcebook"
+ ]
+}

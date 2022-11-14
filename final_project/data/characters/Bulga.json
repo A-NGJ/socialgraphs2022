@@ -1,0 +1,67 @@
+{
+ "name": "Bulga",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bulga the Crude was a female Zabrak bounty hunter who lived during the Cold War and the Galactic War. Residing on the Sith Empire's Vaiken Spacedock she also shared her knowledge with others alongside Deagan Farrell.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Deagan_Farrell",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

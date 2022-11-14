@@ -1,0 +1,33 @@
+{
+ "name": "Brobius",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brobius was a quiet male Bith steward for Omze'kehr Kahr. He rented cabins to spacers traveling on Omze's Incredible Traveling Starport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Omze%27kehr_Kahr",
+  "/wiki/Spacer/Legends",
+  "/wiki/Omze%27s_Incredible_Traveling_Starport/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

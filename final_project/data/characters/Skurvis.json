@@ -1,0 +1,40 @@
+{
+ "name": "Skurvis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Krish"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skurvis was a Krish who died in 2 ABY on Ord Simres.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Krish_(species)/Legends",
+  "/wiki/Ord_Simres",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Skurvis",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Crimson_Bounty",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

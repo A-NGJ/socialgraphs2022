@@ -1,0 +1,46 @@
+{
+ "name": "Monfre",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Monfre was a Human male who served as captain of the Nebulon-B2 frigate Cerebus during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Nebulon-B2_frigate",
+  "/wiki/Cerebus_(Nebulon-B2_frigate)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars:_X-Wing_Alliance"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Lakkna",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3640 BBY",
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gormak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lakkna was a female Gormak warlord who lived on Voss during the Galactic War. After salvaging war droid parts from a crashed Imperial ship, she planned on rebuilding them and using these droids to crush the Voss. She was stopped and killed by a Republic hero.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/3640_BBY",
+  "/wiki/Gormak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Droid/Legends",
+  "/wiki/Voss_(species)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

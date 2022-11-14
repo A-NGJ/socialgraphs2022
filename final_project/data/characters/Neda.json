@@ -1,0 +1,67 @@
+{
+ "name": "Neda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Before 0 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Eopie"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Obi-Wan Kenobi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neda was a female eopie who lived on Tatooine and was owned by Obi-Wan Kenobi. She died when one night a desert storm caught her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tatooine",
+  "/wiki/0_BBY",
+  "/wiki/Eopie",
+  "/wiki/Gender",
+  "/wiki/Obi-Wan_Kenobi",
+  "/wiki/Death",
+  "/wiki/Desert",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Neda",
+  "/wiki/Time_of_Death",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

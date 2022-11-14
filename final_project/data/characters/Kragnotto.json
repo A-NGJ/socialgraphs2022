@@ -1,0 +1,49 @@
+{
+ "name": "Kragnotto",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified school"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kragnotto was an Ankura Gungan male who worked as a teacher at a school on Merokia. He was in charge of the science program. He spoke in a Gungan dialect.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gungan",
+  "/wiki/Ankura",
+  "/wiki/Gender",
+  "/wiki/Unidentified_school",
+  "/wiki/Teacher",
+  "/wiki/Merokia",
+  "/wiki/Unidentified_Gungan_dialect",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kragnotto",
+  "/wiki/Force_Collector",
+  "/wiki/Force_Collector_(audiobook)"
+ ]
+}

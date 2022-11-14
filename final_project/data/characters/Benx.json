@@ -1,0 +1,65 @@
+{
+ "name": "Benx",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Right eye and facial implants"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benx was a Human male cyborg living on Balmorra during the Sith Empire's occupation of the planet. Operating from the Sunken Sarlacc cantina in Sobrik, he was forced by Sith Governor Darth Lachris to use his computerized brain to process data for her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Cyborg/Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sunken_Sarlacc_cantina",
+  "/wiki/Sobrik",
+  "/wiki/Governor/Legends",
+  "/wiki/Darth_Lachris",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Benx",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

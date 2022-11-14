@@ -1,0 +1,61 @@
+{
+ "name": "Rodok'k",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gree"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gree Enclave"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rodok'k was a male Gree living during the ongoing struggle between the Galactic Republic and the reconstituted Sith Empire. Upon the reappearance of the ancient Gree starship Gray Secant, Rodok'k set up a shop inside the Republic Recon Post while the Republic assisted the Gree with their research. He sold his items using credits and gray helix components.\nRodok'k also sold items in the Cartel Bazaar aboard the Republic's Carrick Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gree_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gree_Enclave/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Gray_Secant",
+  "/wiki/Republic_Recon_Post",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Carrick_Station",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

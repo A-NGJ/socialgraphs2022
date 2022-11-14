@@ -1,0 +1,51 @@
+{
+ "name": "Ktlin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Togoria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mosgoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Mlatar Thon Gra"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ktlin was the name given to a domesticated mosgoth owned by Togorian Mlatar Thon Gra. Mlatar used Ktlin as a flying trasport in the cities of Zuliria as an alternative to the more common ruori.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togoria/Legends",
+  "/wiki/Mosgoth",
+  "/wiki/Mlatar_Thon_Gra",
+  "/wiki/Togorian/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Zuliria",
+  "/wiki/Ruori",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Flitta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Prior to Darth Momin's destruction of a city"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rada-cat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Darth Momin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Flitta was a female rada-cat that was killed by Darth Momin when he was a child.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Darth_Momin%27s_destruction_of_a_city",
+  "/wiki/Rada-cat",
+  "/wiki/Gender",
+  "/wiki/Darth_Momin",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Darth_Vader_(2017)_22"
+ ]
+}

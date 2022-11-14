@@ -1,0 +1,56 @@
+{
+ "name": "Bax Kholer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bax Kholer was a male Human operative of the Imperial Intelligence of the Sith Empire during the Galactic War. Around 3641 BBY, he was on Belsavis and assisted Cipher Nine with breaking into the Megasecurity Ward 23 by suggesting to use certain prisoners of the Belsavis prison to break inside.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/3641_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Cipher_Nine",
+  "/wiki/Megasecurity_Ward_23",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Belsavis_prison",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

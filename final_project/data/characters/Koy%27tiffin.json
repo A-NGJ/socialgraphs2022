@@ -1,0 +1,52 @@
+{
+ "name": "Koy'tiffin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "17 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koy'tiffin was a red-skinned Twi'lek female who was both a holodrama and stage actress. Early in her career she performed a variety of Twi'lek holodrama roles including slave dancers, hopeful young entertainers, and fatal females. Later in her career, she concentrated more on stage work.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Holodrama/Legends",
+  "/wiki/Actor/Legends",
+  "/wiki/X-Wing:_Mercy_Kill",
+  "/wiki/X-Wing:_Mercy_Kill_(audiobook)"
+ ]
+}

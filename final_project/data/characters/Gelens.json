@@ -1,0 +1,61 @@
+{
+ "name": "Gelens",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gelens was a male Rodian Sergeant who served the Galactic Republic during the Galactic War against the resurgent Sith Empire. In 3640 BBY, Gelens led a unit inside a Manka-class armored transport during the battle on Corellia. Their walker got shut down the whole team became trapped inside with limited air supply. Luckily, they were able to reach a Republic citizen on the holocomm, who brought along welding equipment and got Gelens and his men out.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3640_BBY",
+  "/wiki/Manka-class_armored_transport",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Corellia/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Linslo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ryden's rebel cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Linslo was a male human member of Commander Ryden's rebel cell.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ryden%27s_rebel_cell",
+  "/wiki/Commander",
+  "/wiki/Ryden",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Linslo",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Vulnerable_Areas",
+  "/wiki/Star_Wars_Rebels_Magazine_17"
+ ]
+}

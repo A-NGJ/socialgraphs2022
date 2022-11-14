@@ -1,0 +1,50 @@
+{
+ "name": "Plurra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vratix"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Plastoid Pitt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plurra was a Vratix slave that worked at the Plastoid Pitt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Vratix/Legends",
+  "/wiki/Plastoid_Pitt",
+  "/wiki/Slavery/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Plurra",
+  "/wiki/Star_Wars_Missions_2:_Escape_from_Thyferra"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Rannah",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryvellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rannah was a member of Cryle Cavv's family, and one of the parent's of his nephew, Sienn Sconn. Rannah was killed during the Ryvellia uprising.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryvellia",
+  "/wiki/Human/Legends",
+  "/wiki/Cryle_Cavv",
+  "/wiki/Parent/Legends",
+  "/wiki/Sienn_Sconn",
+  "/wiki/Ryvellia_uprising",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Small_Favors",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Tascin"
+ ]
+}

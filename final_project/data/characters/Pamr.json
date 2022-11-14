@@ -1,0 +1,52 @@
+{
+ "name": "Pamr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pamr was a young Corellian female that was being harassed by Ilir Post and two of his friends, in the aftermath of a Harvest Festival. She was rescued by Soontir Fel, who not only thrashed all three young men, but reported their crime to CorSec.\nRather than let Ilir be prosecuted, the agro-combine his father worked for, Allied Grain and Roughage, coerced Fel to accept a place at the Imperial Academy on Carida and miss Ilir's trial.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ilir_Post",
+  "/wiki/Corellian/Legends",
+  "/wiki/Harvest_Festival",
+  "/wiki/Soontir_Fel/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Agro-combine",
+  "/wiki/Allied_Grain_and_Roughage",
+  "/wiki/Academy_of_Carida",
+  "/wiki/Carida/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_25",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

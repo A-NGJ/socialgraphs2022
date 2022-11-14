@@ -1,0 +1,58 @@
+{
+ "name": "Miri Santhe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lianna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Santhe family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miri Santhe was the daughter of Phillip Santhe and the sister of Kashan Santhe. She was a member of the Santhe family, one of the ruling houses of Lianna.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Santhe_family/Legends",
+  "/wiki/Phillip_Santhe",
+  "/wiki/Kashan_Santhe",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Miri_Santhe",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

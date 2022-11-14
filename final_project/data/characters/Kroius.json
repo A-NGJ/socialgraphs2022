@@ -1,0 +1,61 @@
+{
+ "name": "Kroius",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Quesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anomid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kroius was a male Anomid Administrator of a Quesh chemical refinery during the Galactic War. In 3642 BBY he was approached by Cipher Nine, who requested from him the access to Dimalium-6.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quesh",
+  "/wiki/Anomid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Administrator/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Cipher_Nine",
+  "/wiki/Dimalium-6",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

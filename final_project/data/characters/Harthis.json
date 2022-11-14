@@ -1,0 +1,50 @@
+{
+ "name": "Harthis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicRogue Squadron",
+      "Rogue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harthis was a Human male who served as a major in the New Republic. In 26 ABY, he was the administrative assistant to Rogue Squadron commander Gavin Darklighter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/26_ABY",
+  "/wiki/Gavin_Darklighter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Harthis",
+  "/wiki/The_New_Jedi_Order:_Balance_Point",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

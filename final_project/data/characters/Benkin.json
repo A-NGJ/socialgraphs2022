@@ -1,0 +1,59 @@
+{
+ "name": "Benkin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence",
+      "Analysis Bureau",
+      "Tech",
+      "Analysis Bureau",
+      "Tech",
+      "Tech"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Benkin was the Chief Scientist of the Technical Branch Outpost on the planet Lotide. By the time of the Galactic Civil War, Benkin was old and bordering on senility. He met a group of Alliance to Restore the Republic agents who were posing as scientists to infiltrate the Technical Branch Outpost.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Analysis_Bureau_(Imperial_Intelligence)",
+  "/wiki/Tech_(Imperial_Intelligence)",
+  "/wiki/Doctor/Legends",
+  "/wiki/Chief_Scientist",
+  "/wiki/Technical_Branch_Outpost_(Lotide)",
+  "/wiki/Planet/Legends",
+  "/wiki/Lotide",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Mission_to_Lotide",
+  "/wiki/Black_Ice_(adventure)"
+ ]
+}

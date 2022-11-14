@@ -1,0 +1,68 @@
+{
+ "name": "Garonnin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "38 BBY"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY on Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Garonnin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garonnin was the Human male leader of House Garonnin and a Senex Lord.\nIn 12 ABY he was an ally of Roganda Ismaren. He was killed when Irek Ismaren cleaved him in half with a lightsaber after discovering they were betraying the Senex Lords by abandoning them to the Eye of Palpatine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/38_BBY/Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Garonnin",
+  "/wiki/Senex/Legends",
+  "/wiki/Roganda_Ismaren/Legends",
+  "/wiki/Irek_Ismaren",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Eye_of_Palpatine",
+  "/wiki/Children_of_the_Jedi_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

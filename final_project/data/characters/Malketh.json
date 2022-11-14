@@ -1,0 +1,61 @@
+{
+ "name": "Malketh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kriekaal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kriek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kherkhaman"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malketh was a Kriek and kulai advisor to the leader of the Kherkhaman, Kavakoderakanbnuarria. Naturally Force-sensitive, Malketh was believed to be this living voice of the god Br'lai.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kriekaal",
+  "/wiki/Kriek",
+  "/wiki/Gender/Legends",
+  "/wiki/Kherkhaman",
+  "/wiki/Kulai",
+  "/wiki/Kavakoderakanbnuarria",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Deity/Legends",
+  "/wiki/Br%27lai",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Scouts%27_Dispatch",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

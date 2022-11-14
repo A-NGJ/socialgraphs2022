@@ -1,0 +1,55 @@
+{
+ "name": "Billan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Billan was a male Human employee of the Czerka Corporation.\nIn 3956 BBY, Billan was assigned as the gatekeeper to the entrance of Anchorhead on Tatooine. He was known for his expediency and disdain of the bureaucratic mentality, as he would frequently allow known hunters to leave the city without having to go through the somewhat laborious process of verifying their hunting licenses.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Brown",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

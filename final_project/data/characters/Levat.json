@@ -1,0 +1,53 @@
+{
+ "name": "Levat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Levat was a male Duros archaeologist during the Galactic Civil War. He once teamed up with the Chiss big-game hunter Kres'keth'errylu and the pilot Janese to explore a Rakatan temple on the planet Rhen Var.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Archaeologist/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Big-game_hunter",
+  "/wiki/Kres%27keth%27errylu",
+  "/wiki/Pilot/Legends",
+  "/wiki/Janese",
+  "/wiki/Rakata/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhen_Var/Legends",
+  "/wiki/Enter_the_Unknown"
+ ]
+}

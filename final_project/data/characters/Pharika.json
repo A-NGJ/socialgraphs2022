@@ -1,0 +1,57 @@
+{
+ "name": "Pharika",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sakuub"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakuubian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pharika was a supposed female Sakuubian guide that aided newlyweds Jaina Solo and Jagged Fel in trying to locate a Jedi holocron. Unfortunately, she had her own plans for the holocron and tried to kill them as soon as they gained it. She later ended up killed by an unidentified support ship that was supposed to aid her in order to silence her from revealing her motivations for gaining the holocron.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Sakuub",
+  "/wiki/44_ABY",
+  "/wiki/Sakuubian",
+  "/wiki/Gender/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Jagged_Fel",
+  "/wiki/Jedi/Legends",
+  "/wiki/Holocron/Legends",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Getaway",
+  "/wiki/Star_Wars_Insider_134"
+ ]
+}

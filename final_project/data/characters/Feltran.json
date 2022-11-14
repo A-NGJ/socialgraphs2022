@@ -1,0 +1,62 @@
+{
+ "name": "Feltran",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Feltran was a Human male Rebel officer who served Bria Tharen during the Galactic Civil War.\nIn 1 BBY, he accompanied Tharen aboard the Queen of Empire which was traveling to the planet Nar Shaddaa to meet up with the Hutts. He was killed by Boba Fett while defending Tharen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bria_Tharen",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Queen_of_Empire",
+  "/wiki/Planet/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Death",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Rebel_Dawn"
+ ]
+}

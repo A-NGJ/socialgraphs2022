@@ -1,0 +1,41 @@
+{
+ "name": "Rovi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rovi was a male Human who worked as a guard at the High Card Casino on the planet Danteel during the Galactic Civil War. Rovi secretly conspired to help the casino's business manager Darim Chumu to discredit Veilred Jydor, the establishment's owner, and Rovi murdered Jydor's rival Carisica Vanq and framed Jydor for the crime. A short time later, the gambler Lando Calrissian was overheard talking about Vanq in the casino, and Chumu sent Rovi to bring Calrissian to the manager's office.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/High_Card_Casino",
+  "/wiki/Planet/Legends",
+  "/wiki/Danteel",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Casino/Legends",
+  "/wiki/Darim_Chumu",
+  "/wiki/Veilred_Jydor",
+  "/wiki/Death/Legends",
+  "/wiki/Carisica_Vanq",
+  "/wiki/Gambling/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Winner_Lose_All"
+ ]
+}

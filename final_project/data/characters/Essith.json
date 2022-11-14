@@ -1,0 +1,80 @@
+{
+ "name": "Essith",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Essith was a male Human General of the Imperial Army of the reconstituted Sith Empire living during the Galactic War. He desired a position that was instead taken by Arkos Rakton, but after Rakton was captured by Havoc Squad during the Battle of Corellia, Essith was eventually able to obtain the position he believed himself to be deserving of. From then on, he became determined to succeed where his predecessor failed and become a champion of the Empire.\nGeneral Essith appears during \"The Nathema Conspiracy\" flashpoint only if the Commander is a Trooper who made the choice to ally with the Galactic Republic during the War on Iokath. In this case, Essith will seek to eliminate the Eternal Alliance and join the Order of Zildrog led by Vinn Atrius, only to be sacrificed as fuel to awaken Zildrog by GEMINI 16 on Nathema. If the player chooses to ally with the Sith Empire, General Elin Garza will appear instead of Essith, while the other classes face antagonists from their own class stories.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/General/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Arkos_Rakton",
+  "/wiki/Havoc_Squad",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Alliance_Commander",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/War_on_Iokath",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Order_of_Zildrog",
+  "/wiki/Vinn_Atrius",
+  "/wiki/Zildrog",
+  "/wiki/GEMINI_16",
+  "/wiki/Nathema",
+  "/wiki/Elin_Garza",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

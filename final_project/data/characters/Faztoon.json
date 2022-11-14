@@ -1,0 +1,26 @@
+{
+ "name": "Faztoon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Faztoon was an Ithorian who was an old friend of Lando Calrissian. Calrissian encountered Faztoon on Weigh Station Karambola, and called out to the Ithorian, who replied with a wave.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ithorian",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Weigh_Station_Karambola",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

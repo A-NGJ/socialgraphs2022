@@ -1,0 +1,46 @@
+{
+ "name": "Loyood",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorensla"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Loyood was a Hutt with a feminine personality who was a member of the Gorensla kajidic, one of the leading Hutt clans. During the era of the Galactic Civil War, Loyood oversaw many of Gorensla's clandestine gun-running operations, including arms sales to the Rebel Alliance and other resistance groups. She made regular visits to the various shadowports in which Gorensla operated.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gorensla/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Shadowport/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

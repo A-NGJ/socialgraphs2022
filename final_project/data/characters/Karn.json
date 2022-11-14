@@ -1,0 +1,58 @@
+{
+ "name": "Karn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karn was a large, dark-skinned Human male who joined the Rebel Alliance during the Galactic Civil War.\nDuring the Galactic Civil War, he was a member of the Alliance to Restore the Republic loyal to Garm Bel Iblis. Along with his subordinate Lhira, he was in command of Iblis' six cells on the planet Stoga. He tried to apprehend Rasha Bex when BoShek helped her return to her Imperial overseers, but failed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Karn_Valanti",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Garm_Bel_Iblis/Legends",
+  "/wiki/Lhira",
+  "/wiki/Planet/Legends",
+  "/wiki/Stoga",
+  "/wiki/Rasha_Bex",
+  "/wiki/BoShek/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Empire_23",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

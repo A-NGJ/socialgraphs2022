@@ -1,0 +1,68 @@
+{
+ "name": "Sirlul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicNew Republic Defense Fleet",
+      "New Republic Defense Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sirlul was a female Quarren from the Mon Calamari homeworld, Dac. She was a commander in the New Republic's navy who served as a bridge officer on the Mon Calamari cruiser Home One under Admiral Ackbar. She was present during the Liberation of Coruscant and negotiated the terms of the Imperial Star Destroyer Monarch's surrender.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Mon_Calamari_Star_Cruiser",
+  "/wiki/Home_One/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gial_Ackbar/Legends",
+  "/wiki/Liberation_of_Coruscant_(Galactic_Civil_War)",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Monarch_(Star_Destroyer)",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_The_Krytos_Trap"
+ ]
+}

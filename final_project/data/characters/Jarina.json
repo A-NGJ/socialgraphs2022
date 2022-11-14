@@ -1,0 +1,74 @@
+{
+ "name": "Jarina",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mykapo insurgents",
+      "Iron Squadron",
+      "Iron Squadron",
+      "A bar on Mykapo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jarina was a human female who served against the Empire with the Mykapo insurgents, in Iron Squadron.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Mykapo_insurgents",
+  "/wiki/Iron_Squadron",
+  "/wiki/Bar",
+  "/wiki/Mykapo",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jarina",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/A_Youth_Unpromising",
+  "/wiki/Star_Wars_Rebels_Magazine_35",
+  "/wiki/Dawn_of_Rebellion"
+ ]
+}

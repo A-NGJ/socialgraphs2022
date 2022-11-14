@@ -1,0 +1,52 @@
+{
+ "name": "Estat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shadow University"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Estat was a Twi'lek individual who served as the sava of the Shadow University. After the rogue archaeologist Doctor Chelli Aphra acquired a fossilized fork-nosed ice worm on Hoth, she delivered it to Estat, who paid her for the find.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Color",
+  "/wiki/Shadow_University",
+  "/wiki/Sava",
+  "/wiki/Archaeologist",
+  "/wiki/Doctor",
+  "/wiki/Chelli_Lona_Aphra",
+  "/wiki/Fork-nosed_ice_worm",
+  "/wiki/Hoth",
+  "/wiki/Gender",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Estat",
+  "/wiki/Doctor_Aphra_(2020)_1",
+  "/wiki/Doctor_Aphra_(2020)_3"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Drelmar Bin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.5 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Drelmar Bin was a male Human who lived on the planet Korbin during the early years of the New Republic. Originally a corporate employee on an industrial planet, Bin fled when it was discovered that he had been embezzling. On Korbin, he met a man who had perfected a technique of distilling kyrf fruit into an alcoholic beverage. Bin killed the man and took over his plantation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Planet/Legends",
+  "/wiki/Korbin",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Kyrf",
+  "/wiki/Alcohol/Legends",
+  "/wiki/Kyrf_(liquor)",
+  "/wiki/Death/Legends",
+  "/wiki/Kyrf_plantation",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Two",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

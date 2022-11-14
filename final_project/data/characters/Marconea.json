@@ -1,0 +1,43 @@
+{
+ "name": "Marconea",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tharen family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marconea was a sterile female Selonian who worked as a servant for the Tharen family on Corellia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tharen_family",
+  "/wiki/Corellia/Legends",
+  "/wiki/The_Paradise_Snare"
+ ]
+}

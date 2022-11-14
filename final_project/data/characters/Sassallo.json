@@ -1,0 +1,54 @@
+{
+ "name": "Sassallo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Besadii kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sassallo was a Hutt crimelord that operated on Ord Vaxal, specifically the Oubliette shadowport. She was a member of the Besadii kajidic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Besadii/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Ord_Vaxal",
+  "/wiki/Oubliette_(shadowport)",
+  "/wiki/Shadowport/Legends",
+  "/wiki/Polyhedron",
+  "/wiki/Ord_Vaxal:_Prison_Planet_of_the_Empire",
+  "/wiki/Polyhedron_165"
+ ]
+}

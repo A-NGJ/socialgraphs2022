@@ -1,0 +1,36 @@
+{
+ "name": "Masel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Koorivar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Masel was a male Koorivar who operated on Nar Shaddaa as an arms dealer and information broker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koorivar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Arms_dealer/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Masel",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

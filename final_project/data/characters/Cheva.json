@@ -1,0 +1,63 @@
+{
+ "name": "Cheva",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cheva was a female Human biologist and part of Doctor Ovolot Qail Uthan's team of scientists who worked on a nanovirus made especially to decimate the clone army. She was killed by Fi using an E-Web blaster trying to escape the Separatist base on Qiilura.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Ovolot_Qail_Uthan",
+  "/wiki/Scientist/Legends",
+  "/wiki/Nanovirus",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Fi_Skirata",
+  "/wiki/E-Web_heavy_repeating_blaster",
+  "/wiki/Qiilura",
+  "/wiki/Republic_Commando:_Hard_Contact"
+ ]
+}

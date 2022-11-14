@@ -1,0 +1,51 @@
+{
+ "name": "Gin Scraf",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nam Chorios"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gin Scraf was a Human female who was one of the earlier settlers of Nam Chorios. She was the aunt of Arvid Scraf and lived during the Galactic Civil War. Living in Ruby Gulch, she influenced the Newcomers in order to help Luke Skywalker get a job in Hweg Shul.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nam_Chorios/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Arvid_Scraf",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Ruby_Gulch",
+  "/wiki/Newcomer",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Hweg_Shul",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gin_Scraf",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

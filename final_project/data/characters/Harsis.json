@@ -1,0 +1,61 @@
+{
+ "name": "Harsis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Short"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harsis was a short, slender, dark-skinned Human male. A lieutenant in the Imperial Navy, he served as the sensor officer on the Direption under the command of Commander Vict Darron in the battle for Liinade III.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Direption",
+  "/wiki/Commander/Legends",
+  "/wiki/Vict_Darron",
+  "/wiki/Liinade_III",
+  "/wiki/X-Wing:_Isard%27s_Revenge",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Scrope",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dashade"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Military",
+      "Republic Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scrope was a male Dashade Republic ship-master in charge of the command skiff during the Battle of Essien.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dashade/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Command_skiff",
+  "/wiki/Battle_of_Essien",
+  "/wiki/Knights_of_the_Old_Republic:_War_1",
+  "/wiki/Knights_of_the_Old_Republic:_War_5"
+ ]
+}

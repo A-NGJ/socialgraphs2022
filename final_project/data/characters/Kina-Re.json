@@ -1,0 +1,73 @@
+{
+ "name": "Kina-Re",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kina-Re was a female Voss Mystic living Voss on during the Galactic War between the Galactic Republic and the resurgent Sith Empire. Working at the Shrine of Healing, she was looking over Kindra Gann, an outsider suffering from a rare form of Mizra Syndrome. However, when news arrived that Kindra's mother was on her deathbed, she allowed her to leave, saying that the family was sacred for the Voss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Kindra_Gann",
+  "/wiki/Mizra_Syndrome",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

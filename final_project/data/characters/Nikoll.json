@@ -1,0 +1,47 @@
+{
+ "name": "Nikoll",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nikoll was a Male Human who served the Lost Tribe of Sith as a High Lord, soon after The Time of the Rot. During the preparation for Nikoll's wedding in Tahv, all the Keshiri local cake preparators were attacked by the Sith anarchist Parlan Spinner.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/High_Lord",
+  "/wiki/The_Time_of_the_Rot",
+  "/wiki/Tahv",
+  "/wiki/Keshiri",
+  "/wiki/Parlan_Spinner",
+  "/wiki/Lost_Tribe_of_the_Sith%E2%80%94Spiral_2"
+ ]
+}

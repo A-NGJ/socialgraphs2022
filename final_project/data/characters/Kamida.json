@@ -1,0 +1,51 @@
+{
+ "name": "Kamida",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kamida was an Ewok princess who was courted by Tippet. In 4 ABY, Hirog made it appear that she was having an affair with a Lahsbee to drive the two species to declare war on each other.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Tippet",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Hirog",
+  "/wiki/Lahsbee",
+  "/wiki/Species/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kamida",
+  "/wiki/Star_Wars_(1977)_94",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

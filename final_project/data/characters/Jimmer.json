@@ -1,0 +1,48 @@
+{
+ "name": "Jimmer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mostlaa"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.3 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nilya Fek'ra"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jimmer was a member of the Mostlaa species, and worked as executive assistant to smuggler Nilya Fek'ra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mostlaa",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Nilya_Fek%27ra",
+  "/wiki/Species/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jimmer",
+  "/wiki/West_End_Games",
+  "/wiki/Tales_of_the_Smoking_Blaster",
+  "/wiki/Star_Wars_Gamemaster_Handbook"
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "name": "Ardray",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Olive"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ardray was a Mirialan male Jedi Master who led a detachment of Jedi and House Organa soldiers to the Elysium on the planet Alderaan, where they protected a number of Padawans studying there. However, Ardray and the Padawans were massacred by Imperial forces, who planted evidence framing House Ulgo for the murders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Elysium",
+  "/wiki/Planet/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/House_Ulgo",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

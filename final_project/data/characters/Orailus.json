@@ -1,0 +1,66 @@
+{
+ "name": "Orailus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Medical Corps",
+      "Imperial Medical Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orailus was a male Human who served as a medic for the reconstituted Sith Empire during the Cold War with the Galactic Republic.\nDuring the Cold War, while in the Valley of the Dark Lords on Korriban, Lieutenant Devron came to him to be healed after he and his team were attack by grave robbers in one of the tombs. Orailus warned him that if anything valuable was gone, Devron would regret it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Orailus",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Medical_Corps",
+  "/wiki/Medic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Valley_of_the_Dark_Lords/Legends",
+  "/wiki/Korriban",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Devron",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

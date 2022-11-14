@@ -1,0 +1,70 @@
+{
+ "name": "Acan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Organization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Acan was a blond-haired Human who worked as a courier. In 19 BBY, he was sent by Nirama to Hedrett on Cularin, to give a message to the Heroes of Cularin. He was killed shortly afterwards by the Trandoshan thugs, Grug and Gurg.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Organization",
+  "/wiki/Nirama",
+  "/wiki/Hedrett",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Grug",
+  "/wiki/Gurg",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Acan",
+  "/wiki/The_Hand_(adventure)"
+ ]
+}

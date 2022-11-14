@@ -1,0 +1,26 @@
+{
+ "name": "Plaado",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plaado was a Rodian thug who worked for Torani Kulda. Plaado had an extremely similar appearance to that of fellow thugs Tyss and Fondo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Torani_Kulda",
+  "/wiki/Tyss",
+  "/wiki/Fondo",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

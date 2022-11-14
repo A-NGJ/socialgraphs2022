@@ -1,0 +1,58 @@
+{
+ "name": "Bulger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Restored Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bulger was a diminutive Human male in the Restored Empire faction. In 13 ABY he served as an aide to General Vota.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Restored_Empire",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Aide/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Bernard_Vota",
+  "/wiki/Crimson_Empire_III:_Empire_Lost_2"
+ ]
+}

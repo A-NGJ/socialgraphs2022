@@ -1,0 +1,64 @@
+{
+ "name": "Hamelin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Aargonar 3"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hamelin was a Human male senior commander who served the Alliance to Restore the Republic during the Galactic Civil War. He was in charge of an Alliance base on the planet Aargonar 3. When the Imperial might conquered the planet, Hamelin's forces fled to a remote asteroid. He later was in command of a starfighter squadron group who raided Imperial convoys following the destruction of the Death Star I.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aargonar_3",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Aargonar_3_rebel_base",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Asteroid/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Rebellion_Era_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

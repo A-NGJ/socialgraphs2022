@@ -1,0 +1,49 @@
+{
+ "name": "Insurgent",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireBlack Epsilon",
+      "Black Epsilon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Insurgent was a Human male who lived during the Galactic Civil War. He served as an agent for the Imperial group Black Epsilon on Dantooine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Black_Epsilon",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Insurgent",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Jump_to_Lightspeed"
+ ]
+}

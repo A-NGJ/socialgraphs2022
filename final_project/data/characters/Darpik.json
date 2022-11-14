@@ -1,0 +1,51 @@
+{
+ "name": "Darpik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Rebel Alliance Navy",
+      "Rebel Alliance Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darpik was a Mon Calamari female who served as the captain of the Rebel Alliance Navy transport Freedom Fighter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Rebel_Alliance_Navy",
+  "/wiki/Captain",
+  "/wiki/Transport",
+  "/wiki/Freedom_Fighter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Darpik",
+  "/wiki/Legends_of_the_Alliance"
+ ]
+}

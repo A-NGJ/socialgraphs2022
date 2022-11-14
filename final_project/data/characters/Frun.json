@@ -1,0 +1,72 @@
+{
+ "name": "Frun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Amber"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Frun was a male Sith apprentice who served the Sith Empire during the Cold War.\nFrun first appeared in the 2011 video game Star Wars: The Old Republic, but he is one of several NPCs on the planet Dromund Kaas whose questlines were cut from the final version. Frun would have introduced the mission \"Awkward Conversations,\" where he requests that the player deliver a report from the Dark Council to Apprentice Maraad. Frun is unable to do so himself because his master is currently engaged in a Kaggath with Maraad's master, Shalath, and after the message is delivered Maraad reveals that it is an execution order for most of Lord Shalath's family.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/2011",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Planet/Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Dark_Council",
+  "/wiki/Maraad",
+  "/wiki/Kaggath",
+  "/wiki/Shalath",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

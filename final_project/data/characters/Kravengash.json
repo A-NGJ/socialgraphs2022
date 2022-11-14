@@ -1,0 +1,50 @@
+{
+ "name": "Kravengash",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hox Bilan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kravengash was a male Wookiee that worked for crime lord Hox Bilan. Kravengash tried to capture the droid LE-BO2D9 from Dash Rendar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hox_Bilan",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/LE-BO2D9",
+  "/wiki/Dash_Rendar/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kravengash",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/And_Leebo_Makes_Three",
+  "/wiki/Star_Wars_Insider_128"
+ ]
+}

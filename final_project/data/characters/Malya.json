@@ -1,0 +1,77 @@
+{
+ "name": "Malya",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Outcasts"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Rukil"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malya was Rukil's last apprentice, a Human female native to the Undercity of Taris.\nWhile seeking clues to the location of the Promised Land, she found evidence that Rukil's father and grandfather had entered the lower sewers of Taris and entered the information in her journal. In 3956 BBY, she was killed by rakghouls in the Undercity surface , but her journal and the journals of Rukil's father and grandfather were recovered and taken to Rukil by Revan.\nRukil gave the three journals to Gendar, preparing the Outcasts to leave the village for the Promised Land.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Outcasts_(Taris)",
+  "/wiki/Rukil",
+  "/wiki/Undercity_(Taris)",
+  "/wiki/Promised_Land",
+  "/wiki/Undercity_sewers",
+  "/wiki/Death/Legends",
+  "/wiki/Rakghoul",
+  "/wiki/Revan/Legends",
+  "/wiki/Gendar",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

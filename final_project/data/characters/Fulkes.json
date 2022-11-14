@@ -1,0 +1,48 @@
+{
+ "name": "Fulkes",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cavrilhu Pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fulkes was a male pirate with the Cavrilhu Pirates in 19 ABY. Along with Grinner, Fulkes attempt to hunt down Luke Skywalker when he infiltrated their base.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cavrilhu_Pirates",
+  "/wiki/Pirate/Legends",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Grinner",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

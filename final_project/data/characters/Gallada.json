@@ -1,0 +1,45 @@
+{
+ "name": "Gallada",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lianna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gallada was a noted crimelord or Crimex, who worked on the planet Lianna during the final years of the Galactic Republic. A massive police operation was formed to ensure his capture, after it was learned that he was moving goods and information through the Tion Commerce Tower.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Campaign_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

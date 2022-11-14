@@ -1,0 +1,52 @@
+{
+ "name": "Salo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Salo was a male Gran during the Clone Wars. He was dedicated to Republic Senator Philo and was angered when he was murdered during bounty hunter Cad Bane's raid on the Galactic Senate.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Philo/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cad_Bane/Legends",
+  "/wiki/Senate_hostage_crisis/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Salo",
+  "/wiki/HoloNet_News_%E2%80%94_A_Galaxy_Divided_(Part_1)"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Eeetch",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kowak"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kowakian monkey-lizard"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eeetch was a Kowakian monkey-lizard from the planet Kowak.\nEeetch is a pet obtainable in Star Wars: Clone Wars Adventures.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kowak/Legends",
+  "/wiki/Kowakian_monkey-lizard/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

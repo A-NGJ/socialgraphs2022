@@ -1,0 +1,60 @@
+{
+ "name": "Kurvis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Krish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Treytis Prash"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kurvis was a Krish who worked as a bodyguard for Treytis Prash. He was killed by the bounty hunter Thune.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Krish_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Treytis_Prash",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Thune_(bounty_hunter)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kurvis",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Crimson_Bounty",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

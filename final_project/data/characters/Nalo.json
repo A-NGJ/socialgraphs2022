@@ -1,0 +1,43 @@
+{
+ "name": "Nalo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vorzyd IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vorzydiak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nalo was a male Vorzydiak teacher of a learning complex of Vorzyd IV.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vorzyd_IV",
+  "/wiki/Vorzydiak",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Apprentice:_The_Threat_Within",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

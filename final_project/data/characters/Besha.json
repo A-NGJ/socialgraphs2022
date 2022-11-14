@@ -1,0 +1,50 @@
+{
+ "name": "Besha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nerrowr"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Besha was a female Rodian who, along with her friends Kesha and Nesha, worked with the Wookiee Nerrowr.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Riboga",
+  "/wiki/Nerrowr",
+  "/wiki/Kesha",
+  "/wiki/Nesha",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Besha",
+  "/wiki/Wizards.com",
+  "/wiki/Stories_of_Caarimon",
+  "/wiki/Riboga%27s_Legacy"
+ ]
+}

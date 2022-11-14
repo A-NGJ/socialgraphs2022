@@ -1,0 +1,72 @@
+{
+ "name": "Legassi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "13 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yeoman Legassi was a male Mon Calamari crewmember onboard the Adamantine, where he died of the Death Seed plague in 13 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Yeoman/Legends",
+  "/wiki/Adamantine",
+  "/wiki/Death_Seed",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Legassi",
+  "/wiki/Planet_of_Twilight"
+ ]
+}

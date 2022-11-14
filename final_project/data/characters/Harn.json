@@ -1,0 +1,57 @@
+{
+ "name": "Harn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tirahnn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Osaji Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harn was a Duros male employed by Osaji Varane. Serving Varane as his personal secretary and majordomo, Harn surrendered when Varane was apprehended and killed. In exchange for his life, he gave the killers information on the whereabouts of Osaji Uhares.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tirahnn/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Osaji_Syndicate",
+  "/wiki/Osaji_Varane",
+  "/wiki/Osaji_Uhares",
+  "/wiki/Triplet_Threat",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

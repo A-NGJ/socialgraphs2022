@@ -1,0 +1,33 @@
+{
+ "name": "Felis Alverite",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ropagu"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Felis Alverite was a Ropagu representative who was the first point of contact for travelers arriving at the Off-Worlders' Quarter on the planet Ropagi II.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ropagu",
+  "/wiki/Gender/Legends",
+  "/wiki/Off-Worlders%27_Quarter",
+  "/wiki/Planet/Legends",
+  "/wiki/Ropagi_II",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

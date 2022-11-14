@@ -1,0 +1,47 @@
+{
+ "name": "Nee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Monor II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sunesi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nee was a female Sunesi healer who lived on Monor II during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Monor_II",
+  "/wiki/Sunesi",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nee",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Only_Droids_Serve_the_Maker",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

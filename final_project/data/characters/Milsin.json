@@ -1,0 +1,43 @@
+{
+ "name": "Milsin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Milsin was a male Human who resided in the city of Farpoint on the planet Fhost. He was the owner of the Black Hole cantina in 41.5 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Farpoint",
+  "/wiki/Planet/Legends",
+  "/wiki/Fhost",
+  "/wiki/Black_Hole_(Fhost)",
+  "/wiki/Cantina/Legends",
+  "/wiki/41_ABY",
+  "/wiki/Crosscurrent"
+ ]
+}

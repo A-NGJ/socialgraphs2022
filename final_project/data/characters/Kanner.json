@@ -1,0 +1,75 @@
+{
+ "name": "Kanner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicHavoc Squad",
+      "Havoc Squad",
+      "Alliance",
+      "Havoc Squad",
+      "Havoc Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kanner was a Human female Republic soldier who served in Havoc Squad during the year 3630 BBY, when Aric Jorgan along with his squad decided to fight the Eternal Empire on Zakuul.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Havoc_Squad",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Gender",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/3630_BBY",
+  "/wiki/Aric_Jorgan",
+  "/wiki/Eternal_Empire",
+  "/wiki/Zakuul",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

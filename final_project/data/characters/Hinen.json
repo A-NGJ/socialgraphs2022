@@ -1,0 +1,67 @@
+{
+ "name": "Hinen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hinen was the son of Garth and Ganeed, and nephew of the King Meenon of Senali. He was a member of the Banoosh-Walores clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/Garth_(Senali)",
+  "/wiki/Ganeed",
+  "/wiki/King/Legends",
+  "/wiki/Meenon",
+  "/wiki/Banoosh-Walores_clan",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

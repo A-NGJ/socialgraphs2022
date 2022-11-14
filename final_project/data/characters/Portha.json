@@ -1,0 +1,61 @@
+{
+ "name": "Portha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Trandosha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rogue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Portha was a Trandoshan that lived on Coruscant in Invisec during Rogue Squadron's operation there in 6 ABY. He assisted the Rogues during their attempt to bring down the planetary shield, though was unable to participate in the final battle after being struck down with the Krytos virus. Following the liberation of Coruscant, he was cured of the virus and made a member of the squadron, serving them in a previously nonexistent security capacity.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandosha/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Alien_Protection_Zone",
+  "/wiki/6_ABY/Legends",
+  "/wiki/Liberation_of_Coruscant_(Galactic_Civil_War)",
+  "/wiki/Krytos_virus",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

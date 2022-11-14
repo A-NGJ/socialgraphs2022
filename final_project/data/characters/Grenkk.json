@@ -1,0 +1,60 @@
+{
+ "name": "Grenkk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Krex"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Club Vertica Casino"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grenkk was a male Krex living on Nar Shaddaa during the Galactic War who worked at Club Vertica Casino as a bouncer during a Soovada event.\nGrenkk appears in Star Wars: The Old Republic: Knights of the Eternal Throne during the Nightlife event.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Krex",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Club_Vertica_Casino",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Soovada",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

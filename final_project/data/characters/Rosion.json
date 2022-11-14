@@ -1,0 +1,52 @@
+{
+ "name": "Rosion",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Rosion was the Chief Navigator of the Imperial Super Star Destroyer Lusankya during the Bacta War. He was stationed in one of the crew pits on the ship's bridge, and as well as being in charge of plotting the ship's course in both hyperspace and sublight navigation; he was also answerable for the helm and engines.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Joak_Drysso",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Chief_Navigator",
+  "/wiki/Super_Star_Destroyer/Legends",
+  "/wiki/Lusankya/Legends",
+  "/wiki/Bacta_War",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Sublight",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rosion",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

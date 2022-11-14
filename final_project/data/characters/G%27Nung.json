@@ -1,0 +1,53 @@
+{
+ "name": "G'Nung",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.4 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiron Drebbick"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "G'Nung was a Gamorrean who appeared to work as an enforcer for Jasta Finn. He actually worked directly for Chiron Drebbick.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Chiron_Drebbick",
+  "/wiki/Jasta_Finn",
+  "/wiki/West_End_Games",
+  "/wiki/Easy_Money",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Dutan Kelliv",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dutan nest",
+      "SoroSuub Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dutan Kelliv was an Arcona and member of the Dutan nest. Kelliv worked for SoroSuub Corporation's munitions factory in Gallisport, and supplied classified information to the nest regarding shipping schedules and security procedures.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arcona/Legends",
+  "/wiki/Dutan_nest",
+  "/wiki/SoroSuub_Corporation/Legends",
+  "/wiki/Gallisport",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Lumrunners",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

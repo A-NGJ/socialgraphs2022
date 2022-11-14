@@ -1,0 +1,32 @@
+{
+ "name": "Glonnk clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Glonnk Clan Fortress",
+      "Gamorr"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Glonnk Clan was a clan of Gamorreans native to Gamorr. Their fortress was located near the Norgk clan's obliterated fortress.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gamorr/Legends",
+  "/wiki/Norgk_clan",
+  "/wiki/The_Essential_Guide_to_Planets_and_Moons"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Lucen-Tok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lucen-Tok was a male Voss Officer of the Voss commandos who lived during the Galactic War. Around 3640 BBY he and his commandos visited the office of Athelis Kallis to warn Sith Lord Kallig not to proceed with the Forbidden Ritual.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Athelis_Kallis",
+  "/wiki/Darth_Nox",
+  "/wiki/Forbidden_Ritual",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

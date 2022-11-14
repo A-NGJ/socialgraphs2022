@@ -1,0 +1,34 @@
+{
+ "name": "Delona",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Evocii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Delona was an individual who served as Giradda the Hutt's translator, though Giradda often grew irritable at Huttball matches and threatened to kill Delona in various ways, such as offering to let the winning team eat Delona.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Evocii",
+  "/wiki/Gender/Legends",
+  "/wiki/Giradda",
+  "/wiki/Hutt/Legends",
+  "/wiki/Huttball",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

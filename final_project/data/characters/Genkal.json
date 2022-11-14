@@ -1,0 +1,63 @@
+{
+ "name": "Genkal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Genkal was a Mon Calamari captain of the MC80a Star Cruiser Naritus serving the New Republic. He was known as an excellent leader and admired by his crews. He was instrumental in destroying the notorious pirate band, the Khuiumin Survivors. He was scheduled to step down from command of the Naritus following the mission to Thanta Zilbra, and become a flag officer at Fleet Command.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/MC80a_Star_Cruiser",
+  "/wiki/Naritus",
+  "/wiki/Pirate/Legends",
+  "/wiki/Khuiumin_Survivors",
+  "/wiki/Thanta_Zilbra_(planet)",
+  "/wiki/Fleet_Command/Legends",
+  "/wiki/Assault_at_Selonia",
+  "/wiki/Cracken%27s_Threat_Dossier",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

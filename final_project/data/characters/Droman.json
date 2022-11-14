@@ -1,0 +1,53 @@
+{
+ "name": "Droman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Droman was an Imperial Army sergeant stationed on the planet Rhamalai. He told General Yrros that it wasn't standard procedure for a general to address new conscripts, but Yrros responded that he sets the precedent. He then had Droman explain to Denel Moonrunner what his identification number stood for.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhamalai",
+  "/wiki/General/Legends",
+  "/wiki/Naem_Yrros",
+  "/wiki/Denel_Moonrunner",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

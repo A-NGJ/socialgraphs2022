@@ -1,0 +1,53 @@
+{
+ "name": "Pei",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Daan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pei was a Daan from Quadri on the planet Melida/Daan. Pei was one of the parents of Leidra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/Human/Legends",
+  "/wiki/Daan_(people)",
+  "/wiki/Quadri",
+  "/wiki/Planet/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Leidra",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pei",
+  "/wiki/Jedi_Apprentice:_The_Uncertain_Path"
+ ]
+}

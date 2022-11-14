@@ -1,0 +1,76 @@
+{
+ "name": "GC-1000",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Starfighter Corps",
+      "Republic Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "GC-1000, nicknamed \"Klick,\" was a clone trooper pilot who served the Galactic Republic as a member of the Republic Starfighter Corps. At one engagement during the Clone Wars, GC-1000 piloted an Alpha-3 Nimbus-class V-wing starfighter against Separatist Alliance vulture droid starfighters.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/GC-1000",
+  "/wiki/GC-1000/Legends",
+  "/wiki/Kamino",
+  "/wiki/Human",
+  "/wiki/Cloning",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Galactic_Republic",
+  "/wiki/Republic_Starfighter_Corps",
+  "/wiki/Clone_trooper_pilot",
+  "/wiki/Clone_Wars",
+  "/wiki/Pilot",
+  "/wiki/Alpha-3_Nimbus-class_V-wing_starfighter",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Star_Wars:_X-Wing_Second_Edition",
+  "/wiki/Nimbus-class_V-Wing_Expansion_Pack",
+  "/wiki/Databank_(website)"
+ ]
+}

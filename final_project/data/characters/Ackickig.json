@@ -1,0 +1,35 @@
+{
+ "name": "Ackickig",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ackickig was a male Jawa that lived in the galaxy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Jawa",
+  "/wiki/Color",
+  "/wiki/Gender",
+  "/wiki/The_galaxy",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ackickig",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

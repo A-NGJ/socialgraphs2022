@@ -1,0 +1,73 @@
+{
+ "name": "Ozer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ozer was a male Human who served as a private in the Galactic Republic's army during the Galactic War against the Sith Empire. During the war, he was stationed on the planet Voss where his squad worked with a group of Voss commandos in the Gormak Lands. They were attacked by a cyberbeast after approaching a cave, and all of the Voss and the rest of Ozer's squad were killed. Ozer then encountered a Republic aligned individual who he asked to clear out the cave of cyberbeasts and recover the dog tags of his fallen comrades. The individual succeeded, and Ozer was later rescued.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Private/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_commandos",
+  "/wiki/Gormak_Lands",
+  "/wiki/Ssorokk",
+  "/wiki/Voss_(species)",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

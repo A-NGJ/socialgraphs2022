@@ -1,0 +1,70 @@
+{
+ "name": "Ganno",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ganno was a Human male sergeant of the Galactic Republic during the Galactic War. Around 3641 BBY he was stationed in the Maximum Security Section of the Belsavis prison, where he ordered the artillery to shoot down a ship that did not response to a request to provide ID. Though Sergeant Nerrick disagreed with Ganno's decision, it was proven correct when a Republic citizen uncovered that the ship belonged to a smuggler trying to supply to aid in the escape of a crime lord imprisoned on Belsavis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ganno_juice",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3641_BBY",
+  "/wiki/Maximum_Security_Section",
+  "/wiki/Belsavis_prison",
+  "/wiki/Nerrick",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

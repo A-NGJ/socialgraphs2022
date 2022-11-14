@@ -1,0 +1,66 @@
+{
+ "name": "Foslo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Imperial Officer Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Foslo was a male individual from the planet Coruscant who was the father of Ved Foslo. He was a general in the Galactic Empire and worked in central intelligence.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Coruscant",
+  "/wiki/Human",
+  "/wiki/Coruscanti",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Planet",
+  "/wiki/Parent",
+  "/wiki/Ved_Foslo",
+  "/wiki/General",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Foslo",
+  "/wiki/Lost_Stars",
+  "/wiki/Lost_Stars_(audiobook)",
+  "/wiki/Lost_Stars_(webcomic)"
+ ]
+}

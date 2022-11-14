@@ -1,0 +1,67 @@
+{
+ "name": "Parq Yewgeen Plancke",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "10 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Bank"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Parq Yewgeen Plancke was the manager of the Imperial Bank when Han Solo came to close his \"Jenos Idanian\" account.\nPlancke calmly told Solo that the account had been frozen by Hal Horn of Corsec and that he was to wait for his imminent arrest. Solo took Plancke hostage in order to escape. Plancke died when stormtroopers opened fire on the fleeing Solo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/10_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Galactic_Bank",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Jenos_Idanian",
+  "/wiki/Hal_Horn",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/The_Paradise_Snare"
+ ]
+}

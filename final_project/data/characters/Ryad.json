@@ -1,0 +1,65 @@
+{
+ "name": "Ryad",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ryad was a human female countess who served as a TIE fighter pilot within the Galactic Empire. As a member of the Imperial Starfighter Corps, Ryad wore standard Imperial pilot uniform that had yellow stripes, and flew a red TIE/d \"Defender\" Multi-Role Starfighter. She was light skinned and had blonde hair.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ryad",
+  "/wiki/Iran_Ryad",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Count",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Pilot",
+  "/wiki/TIE/d_%22Defender%22_Multi-Role_Starfighter",
+  "/wiki/Hair",
+  "/wiki/Star_Wars:_Starfighter_Missions"
+ ]
+}

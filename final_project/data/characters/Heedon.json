@@ -1,0 +1,51 @@
+{
+ "name": "Heedon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Heedon was a Human male who hated his own first name enough to never use it.\nHeedon owned and operated the Starcrossed, a luxury liner during the Galactic Civil War, but as few could afford to book passage due to Imperial oppression, Heedon joined the Alliance to Restore the Republic. He was responsible for rescuing Sayer Mon Neela from the Imperial Hazard .",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starcrossed",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Evacuation_of_Horob",
+  "/wiki/Sayer_Mon_Neela",
+  "/wiki/Imperial_Hazard",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Capture_of_Imperial_Hazard",
+  "/wiki/Star_Wars_Adventure_Journal_10",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

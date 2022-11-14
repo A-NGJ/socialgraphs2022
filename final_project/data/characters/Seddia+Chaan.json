@@ -1,0 +1,45 @@
+{
+ "name": "Seddia Chaan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Salantech Cooperative"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seddia Chaan was a Human female who worked as a security engineer for Salantech Cooperative.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Seddia_Chaan",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Silver_and_Scarlet",
+  "/wiki/Star_Wars_Insider_148"
+ ]
+}

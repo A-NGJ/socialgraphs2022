@@ -1,0 +1,36 @@
+{
+ "name": "Illy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Illy was a male Bothan, who lived on Almas during the waning years of the Galactic Republic.\nWhen some warehouses in Forard on Almas were covered in anti-Lavina Wren graffitti, Illy and fellow Bothan Bon were hired to guard them, despite the fact that neither of them had any previous security experience. They weren't very professional and spent their time playing games on their datapads.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Almas",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Forard",
+  "/wiki/Lavina_Durada-Vashne_Wren",
+  "/wiki/Bon_(Bothan)",
+  "/wiki/Datapad/Legends",
+  "/wiki/An_Official_Engagement"
+ ]
+}

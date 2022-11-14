@@ -1,0 +1,35 @@
+{
+ "name": "Darren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darren was the son of Korren Starchaser. A brash individual, he became a starfighter pilot.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Korren_Starchaser",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Scouts%27_Dispatch",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

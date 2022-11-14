@@ -1,0 +1,87 @@
+{
+ "name": "Robus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Executor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Robus was a human male slicer who served the Alliance to Restore the Republic. He was killed by a stormtrooper aboard the Executor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/1_ABY",
+  "/wiki/Executor",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Slicer",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Robus",
+  "/wiki/Star_Wars_(2015)_51",
+  "/wiki/Star_Wars_(2015)_53",
+  "/wiki/Star_Wars_(2015)_54",
+  "/wiki/Ultimate_Star_Wars,_New_Edition",
+  "/wiki/Assault_on_the_Mako-Ta_Space_Docks",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Yavin",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/0_ABY"
+ ]
+}

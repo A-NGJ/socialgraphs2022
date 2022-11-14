@@ -1,0 +1,45 @@
+{
+ "name": "Sathra-Kan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sathra-Kan was a male Voss commando living on Voss. During the Galactic War he asked an outsider to destroy the Gormak threatening the path to the Shrine of Healing and report to Velan-Raz.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Galactic_War",
+  "/wiki/Gormak/Legends",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Velan-Raz",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Roke",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "11 ABY on Kessel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Moruth Doole"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boss Roke was a male Human who was head of one of the mining operations on the world of Kessel, serving as a subordinate to Moruth Doole. He was killed by a mysterious, many-legged creature while seeking out a large deposit of glitterstim deep within one of the mines. At the time he was accompanied by Kyp Durron, Han Solo, and the Wookiee Chewbacca, who barely escaped alive.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/11_ABY/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moruth_Doole",
+  "/wiki/Mining/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Energy_spider",
+  "/wiki/Glitterstim/Legends",
+  "/wiki/Kyp_Durron",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Jedi_Search",
+  "/wiki/The_Jedi_Academy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

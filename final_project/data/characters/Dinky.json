@@ -1,0 +1,46 @@
+{
+ "name": "Dinky",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nirama's public asteroid"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Nirama"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dinky was a rancor who was kept as a pet by Nirama. He was kept in a holding cell in Nirama's public asteroid and was the father of Bender. After the asteroid was abandoned, Dinky escaped from his cell and ranged around the Red Sector area of the asteroid. Due to a lack of food there, he became very hungry and ate his son. Three weeks later, he was at the restaurant Mokada's Place, when the Heroes of Cularin passed through it. He tried to eat them, but was unsuccessful in doing so.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rancor/Legends",
+  "/wiki/Nirama%27s_public_asteroid",
+  "/wiki/Nirama",
+  "/wiki/Bender_(rancor)",
+  "/wiki/Red_Sector",
+  "/wiki/Mokada%27s_Place",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/The_Hand_(adventure)"
+ ]
+}

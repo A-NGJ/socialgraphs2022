@@ -1,0 +1,63 @@
+{
+ "name": "Borga  (Gamorrean)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borga was a male Gamorrean gladiator fighter who served under Fell Dargun on Tatooine during the Cold War. In 3643 BBY, while at the Lady of Pain's compound, Borga fought a bounty hunter in the gladiatorial pits. Borga entered the fight self-assured that he had a victory, but underestimated his opponent, and was killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Fell_Dargun",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Lady_of_Pain",
+  "/wiki/Lady_of_Pain%27s_compound",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

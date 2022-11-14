@@ -1,0 +1,57 @@
+{
+ "name": "Lumoc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Diplomatic Corps",
+      "Republic Diplomatic Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lumoc was a female Rattataki Representative of the Republic Diplomatic Corps. During the third Galactic War she was stationed in the of Invasion Zone on Manaan, where she sold items to republic-aligned individuals.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Diplomatic_Corps/Legends",
+  "/wiki/Associate_Planetary_Representative",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Manaan/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Legacy_of_the_Sith"
+ ]
+}

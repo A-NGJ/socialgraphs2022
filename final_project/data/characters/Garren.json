@@ -1,0 +1,58 @@
+{
+ "name": "Garren",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Borus's Boys"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garren was a boy who lived on Cularin during the Clone Wars.\nGarren's father worked in a cloud city, while his mother worked afternoons at a factory. He was a member of Borus's Boys, a street gang that liked to hang out near Gadrin Dump. However, he was captured by Task Force Vermin, a Thaereian military unit that was tasked with kidnapping children on Cularin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Borus%27s_Boys",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Gadrin_Dump",
+  "/wiki/Task_Force_Vermin",
+  "/wiki/Thaereian_military",
+  "/wiki/Night%27s_Friend"
+ ]
+}

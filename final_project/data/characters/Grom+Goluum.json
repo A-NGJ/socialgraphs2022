@@ -1,0 +1,49 @@
+{
+ "name": "Grom Goluum",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grom Goluum was the owner of a docking bay in Ord Mynock Freeport on the planet of Ord Mynock. He was an honest, hardworking Sullustan starship mechanic.\nGrom was happiest when he was fixing or modifying starships. If he was left for too long with a ship, he could not resist tinkering with its systems until it either exceeded its design limits or suddenly failed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hangar/Legends",
+  "/wiki/Ord_Mynock_Freeport",
+  "/wiki/Planet/Legends",
+  "/wiki/Ord_Mynock/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Gamemaster_Toolkit:_Live-Action_Adventures"
+ ]
+}

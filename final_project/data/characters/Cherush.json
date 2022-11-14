@@ -1,0 +1,74 @@
+{
+ "name": "Cherush",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Makeb Business Council",
+      "Mining and geological committee",
+      "Mining and geological committee",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cherush was a female Human engineer living on the planet Makeb around 3638 BBY. During the Conquest of Makeb by the Hutt Cartel, Cherush was among the engineers the Galactic Republic rescued from the Hutt Cartel. Along with fellow Beddek and Prahmin, she was kidnapped by the Sith Empire and forced to assist in stabilizing Makeb's core.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Makeb_Business_Council",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Engineer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Makeb",
+  "/wiki/3638_BBY",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Beddek",
+  "/wiki/Prahmin",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

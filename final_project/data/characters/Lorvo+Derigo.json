@@ -1,0 +1,48 @@
+{
+ "name": "Lorvo Derigo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Spectres"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorvo Derigo was a male Aqualish citizen of Lothal, who was rescued from Imperial forces by the Spectres. Following his rescue, Derigo was given shelter in the secret rebel settlement known as the Haven.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aqualish",
+  "/wiki/Gender",
+  "/wiki/Spectres",
+  "/wiki/Lothal",
+  "/wiki/Galactic_Empire",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Haven",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lorvo_Derigo",
+  "/wiki/Star_Wars_Rebels:_Recon_Missions"
+ ]
+}

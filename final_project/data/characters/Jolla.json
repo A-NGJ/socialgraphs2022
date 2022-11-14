@@ -1,0 +1,55 @@
+{
+ "name": "Jolla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jolla was a male Hutt crime lord based on Nar Shaddaa. He was allied with Torga.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Torga",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jolla",
+  "/wiki/Wizards.com",
+  "/wiki/Positive_ID",
+  "/wiki/The_Kitonak_Connection",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

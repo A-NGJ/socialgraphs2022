@@ -1,0 +1,49 @@
+{
+ "name": "Nuuta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Phindar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Phindian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nuuta, a Phindian, was the father of Kaadi. One of the renewed, he had been sent to Alba. He was most likely alive as of 44 BBY, when Kaadi and the Derida brothers, Guerra and Paxxi, overthrew the Syndicat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Phindar/Legends",
+  "/wiki/Phindian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kaadi",
+  "/wiki/Memory_wipe/Legends",
+  "/wiki/Alba-16",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Guerra_Derida",
+  "/wiki/Paxxi_Derida",
+  "/wiki/Syndicat",
+  "/wiki/Jedi_Apprentice:_The_Hidden_Past"
+ ]
+}

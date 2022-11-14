@@ -1,0 +1,54 @@
+{
+ "name": "Bynder Zebb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "TaggeCo."
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bynder Zebb was a corporate Twi'lek male scout who worked for TaggeCo. He had visited worlds including Chandrila and Kal'Shebbol, and was considered an expert in dealing with the creatures native to the planets he was scouting. Zebb was also a contributor and commenter on \"Cynabar's Droid Datalog.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tagge_Company",
+  "/wiki/Scout/Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Kal%27Shebbol/Legends",
+  "/wiki/Cynabar%27s_Droid_Datalog",
+  "/wiki/Cynabar%27s_Fantastic_Technology:_Droids",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition"
+ ]
+}

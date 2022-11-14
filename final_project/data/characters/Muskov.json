@@ -1,0 +1,63 @@
+{
+ "name": "Muskov",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cloud Police"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chief Muskov was the leader of the Cloud Police, which protected Cloud City on the planet Bespin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Bespin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bespin_Wing_Guard/Legends",
+  "/wiki/Chief/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Zorba_the_Hutt%27s_Revenge",
+  "/wiki/Mission_from_Mount_Yoda",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Second_Edition,_Revised_and_Expanded",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

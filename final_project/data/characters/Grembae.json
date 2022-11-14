@@ -1,0 +1,61 @@
+{
+ "name": "Grembae",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Adumar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grembae was a Human female who served as a mechanic for the Yedagon Confederacy. She worked on General Wedge Antilles's starfighter before the Adumari Civil War.\nShe had a son, who was also a mechanic in her team.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adumar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Yedagon_Confederacy",
+  "/wiki/General/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Adumari_Civil_War",
+  "/wiki/Grembae%27s_son",
+  "/wiki/X-Wing:_Starfighters_of_Adumar"
+ ]
+}

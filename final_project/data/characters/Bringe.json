@@ -1,0 +1,75 @@
+{
+ "name": "Bringe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown="
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty hunter"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Originally a Mon Calamari miner in the Alopia Rift, Bringe was forced to wear an articulated environment suit after an accident damaged his body and removed his ability to breathe at standard atmospheric pressure. Unable to mine, Bringe took to the dangerous work of bounty hunters. Based in Aquarius and Foamwander City, Bringe plied the galaxy aboard Bathysphere in search of work.\nShortly after the establishment of the Galactic Empire, Bringe accepted a bounty on Colonel Guarran, which he spent years plotting.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Ohwun_De_Maal/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Dac",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Miner/Legends",
+  "/wiki/Alopia_Rift",
+  "/wiki/Atmosphere/Legends",
+  "/wiki/Aquarius",
+  "/wiki/Foamwander_City",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Bathysphere_(Action_VI_transport)",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Guarran",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

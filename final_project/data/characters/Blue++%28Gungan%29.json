@@ -1,0 +1,52 @@
+{
+ "name": "Blue  (Gungan)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Otolla Gungan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gungan Sling Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Gungan nicknamed \"Blue\" was a member of the Gungan Sling Brigade. He owed his moniker to his blue uniform and the red paint balls he would throw with his sling.\n\"Blue\" belonged to the Otolla Gungan race, which was characterized by a tall and lanky build, long haillu, a pronounced bill and retractable eyestalks.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Otolla/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gungan_Sling_Brigade",
+  "/wiki/Color/Legends",
+  "/wiki/Sling",
+  "/wiki/Haillu/Legends",
+  "/wiki/Ommatophora",
+  "/wiki/Star_Wars:_Early_Learning_Activity_Center"
+ ]
+}

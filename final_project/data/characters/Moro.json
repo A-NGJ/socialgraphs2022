@@ -1,0 +1,52 @@
+{
+ "name": "Moro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moro was a male Human officer in the Corellian Security Force during the Galactic War. During the Battle of Corellia, he informed fellow officer Danod about the death of Ben Kahob at the hands of the Coronas gang.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Moro_system",
+  "/wiki/Moro_Three",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Danod",
+  "/wiki/Ben_Kahob",
+  "/wiki/Coronas",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Moro",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

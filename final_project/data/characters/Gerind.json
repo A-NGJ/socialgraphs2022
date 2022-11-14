@@ -1,0 +1,52 @@
+{
+ "name": "Gerind",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Alliance Intelligence",
+      "Alliance Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gerind was a member of Alliance Intelligence during the Galactic Civil War. A mousy, small man, Gerind served as General Airen Cracken's assistant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Intelligence",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Airen_Cracken/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Small_Favors",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Two_for_One",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

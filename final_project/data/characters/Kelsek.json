@@ -1,0 +1,48 @@
+{
+ "name": "Kelsek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Justice Action Network"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelsek was the leader of the Justice Action Network  cell that operated on Mrlsst during the Galactic Civil War. He was a student of Doctor Arkeld and was one of the original members of the cell.\nKelsek was a colleague of the Ranat Rik-tak. He was particularly skilled at recruiting new members to the JAN.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Justice_Action_Network",
+  "/wiki/Mrlsst/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Arkeld",
+  "/wiki/Ranat/Legends",
+  "/wiki/Rik-tak",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

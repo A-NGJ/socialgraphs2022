@@ -1,0 +1,45 @@
+{
+ "name": "Moritz Nor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hyperdrive"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moritz Nor was a male Ortolan musician and the leader of the band Hyperdrive.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hyperdrive_(band)",
+  "/wiki/Musician/Legends",
+  "/wiki/Band/Legends",
+  "/wiki/Portrait_of_the_Artist_as_a_Young_Rodian",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

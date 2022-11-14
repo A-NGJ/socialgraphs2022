@@ -1,0 +1,49 @@
+{
+ "name": "Kuuvat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Klatooninian Trade Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kuuvat was a Klatooinian mercenary who served as the head of Pok Nar-Ten's guards. A no-nonsense bodyguard, he was loyal to Pok Nar-Ten.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Klatooinian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Klatooinian_Trade_Guild/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Pok_Nar-Ten",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kuuvat",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Smuggler%27s_Log",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

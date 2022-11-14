@@ -1,0 +1,48 @@
+{
+ "name": "Hunvar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hunvar was a Hutt slaver based in Kala'uun on Ryloth. The floor of his residence's dining hall had a hole through which spectators could watch slaves engaged in combat for their entertainment. Hunvar was rumored to be in possession of a lost Jedi holocron, but this was in fact a hoax promulgated by slavery opponents in an attempt to publicize the plight of enslaved Twi'lek females.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Kala%27uun/Legends",
+  "/wiki/Hunvar%27s_Spire",
+  "/wiki/Jedi/Legends",
+  "/wiki/Holocron/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

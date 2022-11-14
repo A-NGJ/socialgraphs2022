@@ -1,0 +1,50 @@
+{
+ "name": "Khorak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Khorak was the officer in charge of the operation to retrieve Nescan Tal'yo's holocube. His subordinate was Commander Shad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Nescan_Tal%27yo",
+  "/wiki/Holocube/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Shad_(stormtrooper)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Khorak",
+  "/wiki/Lucky_Stars",
+  "/wiki/Star_Wars_Tales_15"
+ ]
+}

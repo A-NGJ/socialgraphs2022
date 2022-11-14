@@ -1,0 +1,70 @@
+{
+ "name": "Sibar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Iridonia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY",
+      "Iridonia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zabrak Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sibar was a male Zabrak and a captain in the Zabrak Army of Iridonia.\nIn 1 BBY, Sibar and some other elite soldiers were hired by Governor of Concord Dawn Purton to kill the bounty hunter Boba Fett. The squad failed and was later tracked by Fett. Sibar was finally killed on Iridonia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Iridonia/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zabrak_Army",
+  "/wiki/Captain/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Concord_Dawn/Legends",
+  "/wiki/Purton",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Squad/Legends",
+  "/wiki/Blood_Ties:_Boba_Fett_is_Dead_1",
+  "/wiki/Blood_Ties:_Boba_Fett_is_Dead_2"
+ ]
+}

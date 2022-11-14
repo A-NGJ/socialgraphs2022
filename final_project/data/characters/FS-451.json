@@ -1,0 +1,59 @@
+{
+ "name": "FS-451",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Deena's squad",
+      "Deena's squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "FS-451, was a human male stormtrooper of the Galactic Empire. Along with Deena Lorn, he was selected to escort Darth Vader to Cloud City.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Deena%27s_squad",
+  "/wiki/Stormtrooper",
+  "/wiki/Deena_Lorn",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Cloud_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/FS-451",
+  "/wiki/In-universe",
+  "/wiki/Special:EditPage/:FS-451",
+  "/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+  "/wiki/Star_Wars:_The_Empire_Strikes_Back_(Screen_Comix)",
+  "/wiki/The_Witness",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back_(audiobook)",
+  "/wiki/Under_The_Helmet:_The_Legacy_Of_Boba_Fett",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

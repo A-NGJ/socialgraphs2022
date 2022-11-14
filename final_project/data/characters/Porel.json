@@ -1,0 +1,33 @@
+{
+ "name": "Porel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Porel was the male Twi'lek personal assistant and bodyguard of Venlana Sipal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Venlana_Sipal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Porel",
+  "/wiki/Mask_of_the_Pirate_Queen"
+ ]
+}

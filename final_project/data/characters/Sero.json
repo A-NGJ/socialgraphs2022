@@ -1,0 +1,80 @@
+{
+ "name": "Sero",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Sero was a Human male White Maw pirate during the Galactic War. He was making numerous replicas of the Null Cannon on Hoth with the intention of distributing them amongst his pirate forces. Sero attempted to negotiate trading the cannons to the Galactic Republic, but a surprise arrival of a back up strike team made him believe that the negotiators had betrayed him. He attacked but was defeated.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Captain/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Null_Cannon",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

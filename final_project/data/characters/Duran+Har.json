@@ -1,0 +1,48 @@
+{
+ "name": "Duran Har",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Translines"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duran Har was a male Human employed by Corellian Translines as a transport captain at the time of the Galactic Civil War. During his time with the company, he was stationed aboard the SV-45, aStarSpeeder 3000.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Translines",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/SV-45",
+  "/wiki/StarSpeeder_3000/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Two_for_One",
+  "/wiki/Star_Wars_Adventure_Journal_15",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

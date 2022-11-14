@@ -1,0 +1,57 @@
+{
+ "name": "Lorana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorana was the female human owner of The Labyrinth, a cantina on Kelada.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lorana",
+  "/wiki/Lorana/Legends",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/The_Labyrinth",
+  "/wiki/Cantina",
+  "/wiki/Kelada",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lorana",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Star_Wars_Adventures_Free_Comic_Book_Day_2019"
+ ]
+}

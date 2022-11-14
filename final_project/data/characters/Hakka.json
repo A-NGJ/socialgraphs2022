@@ -1,0 +1,49 @@
+{
+ "name": "Hakka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Hakka"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hakka was a Serennian male and the Count of the Funeral Moon Mantero. He was present at the funeral of Countess Anya.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Serennian",
+  "/wiki/Gender",
+  "/wiki/House_Hakka",
+  "/wiki/Count",
+  "/wiki/Mantero",
+  "/wiki/Anya_(Serenno)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hakka",
+  "/wiki/Dooku:_Jedi_Lost",
+  "/wiki/Dooku:_Jedi_Lost_(script)"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Ker-Zakk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "44 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ker-Zakk was a Weequay born in 44 BBY. He was arrested in 22 BBY for fighting in Eastport, and tried to attack his Houk rival Egome Fass.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Eastport",
+  "/wiki/Houk/Legends",
+  "/wiki/Egome_Fass",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_49"
+ ]
+}

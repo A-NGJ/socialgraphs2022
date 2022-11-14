@@ -1,0 +1,34 @@
+{
+ "name": "Jolen Mandar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jolen Mandar was a male Human and the owner of the Three Beldons Buffet, a restaurant in Cloud City, during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Three_Beldons_Buffet",
+  "/wiki/Restaurant/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "name": "Astor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ahakista"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ahakistan rebels",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Astor was a male Human rebel against the Imperial-aligned government of the planet Ahakista.\nAlthough he was a trusted lieutenant to Dunlan, Astor betrayed him and disclosed the location of one of the rebels' safehouses to Darth Vader in exchange for money. Shortly thereafter, stormtroopers under Vader's command raided the safe house when Dunlan was present. Though they had managed to kill most of the rebels who were there, Dunlan managed to escape in the melee.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ahakista/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ahakistan_rebels",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Ahakistan_Council",
+  "/wiki/Planet/Legends",
+  "/wiki/Dunlan",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Astor",
+  "/wiki/Rebellion_6",
+  "/wiki/Rebellion_7",
+  "/wiki/Rebellion_8",
+  "/wiki/Rebellion_9"
+ ]
+}

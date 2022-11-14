@@ -1,0 +1,45 @@
+{
+ "name": "Pilba Dalohog",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shalyvane"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Em'liy"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pilba Dalohog was a male Em'liy who chose to travel off Shalyvane after its devastation, making him one of the few Em'liy to do so.\nDespite the loneliness and prejudice he experienced, he hoped other members of his race would eventually follow his lead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shalyvane",
+  "/wiki/Em%27liy",
+  "/wiki/Gender/Legends",
+  "/wiki/Cleansing_of_Shalyvane",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Marvel_Series",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

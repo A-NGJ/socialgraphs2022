@@ -1,0 +1,63 @@
+{
+ "name": "Clorr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "11 ABY on Kessel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clorr was a former prison worker on Kessel.\nWhen smugglers took over control of Kessel from the Empire, Clorr was thrown into the spice mines with many other guards and workers. He was killed by an energy spider in 11 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/11_ABY/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Spice_Mines_of_Kessel",
+  "/wiki/Security_guard/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Energy_spider",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Clorr",
+  "/wiki/Jedi_Search"
+ ]
+}

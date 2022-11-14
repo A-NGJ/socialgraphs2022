@@ -1,0 +1,78 @@
+{
+ "name": "Morathax",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morathax was a Nightsister living on the planet Dathomir during the Galactic Civil War. She organized many attacks against the Singing Mountain Clan, the enemies of the Nightsisters.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nightsisters/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/The_Nightsister%27s_Revenge",
+  "/wiki/Template:SWGTCG"
+ ]
+}

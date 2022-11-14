@@ -1,0 +1,53 @@
+{
+ "name": "Darnak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Darnak was in command of the Radra Surveillance Post on the planet Radra IV. He helped fight off a snowtrooper attack when a group of rebels came to get equipment from the base and later joined them in evacuating aboard the Starhound.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Radra_Surveillance_Post",
+  "/wiki/Radra_IV",
+  "/wiki/Cold_assault_stormtrooper",
+  "/wiki/Starhound_(JS-77B_interstellar_shuttle)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Darnak",
+  "/wiki/Challenge_(magazine)",
+  "/wiki/Team_Recovery",
+  "/wiki/Challenge_35"
+ ]
+}

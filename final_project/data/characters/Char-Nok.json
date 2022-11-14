@@ -1,0 +1,57 @@
+{
+ "name": "Char-Nok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cult of the Screaming Blade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Char-Nok was a male Weequay member of the Cult of the Screaming Blade, serving its leader Paladius.\nChar-Nok appears in Star Wars: The Old Republic during the Sith Inquisitor class mission on Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cult_of_the_Screaming_Blade",
+  "/wiki/Paladius",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Nar_Shaddaa/Legends"
+ ]
+}

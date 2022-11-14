@@ -1,0 +1,40 @@
+{
+ "name": "Elly Banai",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elly Banai was the child of Kitster Banai and Tamora Spice, and the sibling of Ji Banai.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Kitster_Chanchani_Banai",
+  "/wiki/Tamora_Spice",
+  "/wiki/Ji_Banai",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Elly_Banai",
+  "/wiki/Tatooine_Ghost"
+ ]
+}

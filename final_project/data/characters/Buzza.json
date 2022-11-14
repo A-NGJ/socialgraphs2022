@@ -1,0 +1,67 @@
+{
+ "name": "Buzza",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bright Tree tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Buzza was a male Ewok from Endor. He served as the chief of the tribe that lived in the Bright Tree Village, until he was eventually replaced by his son, Chirpa, who served chief for forty-two seasons before the Battle of Endor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Buzza",
+  "/wiki/Chirpa%27s_father",
+  "/wiki/Endor",
+  "/wiki/Ewok",
+  "/wiki/Gender",
+  "/wiki/Bright_Tree_tribe",
+  "/wiki/Chief",
+  "/wiki/Bright_Tree_Village",
+  "/wiki/Chirpa",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Buzza",
+  "/wiki/Star_Wars_Adventures:_Tales_from_Vader%27s_Castle_4",
+  "/wiki/Ultimate_Star_Wars,_New_Edition",
+  "/wiki/4_ABY",
+  "/wiki/Star_Wars:_Absolutely_Everything_You_Need_to_Know",
+  "/wiki/Kneesaa",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

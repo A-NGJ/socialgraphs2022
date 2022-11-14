@@ -1,0 +1,74 @@
+{
+ "name": "Blaide",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kabaira"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3 BBY",
+      "Kabaira"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Blaide was a male Human from Kabaira. He infiltrated the local Rebel cell and betrayed it in 3 BBY. He was killed by Tere Metallo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kabaira",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Skirmish_on_Kabaira",
+  "/wiki/Tere_Metallo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Blaide",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Passages",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

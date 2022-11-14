@@ -1,0 +1,65 @@
+{
+ "name": "Elkin  (marine commander)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Organa",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elkin was a Human male marine commander who served House Organa during the Cold War. He was stationed in Wardpost Luurdes.\nElkin first appeared in Star Wars: The Old Republic. He serves no purpose in game and is a guard NPC in Wardpost Luurdes.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wardpost_Luurdes",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

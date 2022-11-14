@@ -1,0 +1,51 @@
+{
+ "name": "Krett",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent SystemsTrade Federation",
+      "Trade Federation",
+      "Federation's Folly"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krett was a male Neimoidian who commanded a Lucrehulk-class battleship during the Clone Wars. After the end of the war, he was exiled to Cato Neimoidia where he established the Federation's Folly cantina in the city of Zarra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Federation%27s_Folly",
+  "/wiki/Lucrehulk-class_battleship",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cato_Neimoidia/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Zarra/Legends",
+  "/wiki/A_Wretched_Hive_(Dawn_of_Defiance)"
+ ]
+}

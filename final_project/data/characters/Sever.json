@@ -1,0 +1,56 @@
+{
+ "name": "Sever",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dire Skulls"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sever was a female Human member of the Dire Skulls pirate gang operating on Mek-Sha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dire_Skulls",
+  "/wiki/Mek-Sha",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

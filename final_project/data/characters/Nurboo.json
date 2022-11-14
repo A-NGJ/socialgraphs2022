@@ -1,0 +1,67 @@
+{
+ "name": "Nurboo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vallt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Valltii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zerpen Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nurboo was a male Valltii scientist who worked with Galen Walton Erso. At one point, Nurboo requested that Jyn Erso be named after him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Vallt",
+  "/wiki/Valltii",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Zerpen_Industries",
+  "/wiki/Scientist",
+  "/wiki/Galen_Walton_Erso",
+  "/wiki/Jyn_Erso",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nurboo",
+  "/wiki/Catalyst:_A_Rogue_One_Novel",
+  "/wiki/Catalyst:_A_Rogue_One_Novel_(audiobook)"
+ ]
+}

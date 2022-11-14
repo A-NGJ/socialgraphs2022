@@ -1,0 +1,83 @@
+{
+ "name": "Anda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Onderon separatists"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Anda was a female Human who was a supporter of General Vaklu and a political extremist during the lead-up to the Onderon Civil War.\nIn 3951 BBY, she offered Meetra Surik twenty-five hundred credits for each of three Royalist captains that could be convinced to leave their stations, allowing Vaklu's forces to attack the Iziz Royal Palace with less resistance when fighting broke out. The three captains were Gelesi, Riiken, and Bostuco.\nIt is possible that Anda only talks to Surik if the player decides to support Vaklu instead of Queen Talia. If so, Surik convinces Gelesi to step down by reminding him of possible harm to his wife and children, she slices a terminal near the Sky Ramp, causing a power surge that kills Bostuco, and arranges to have Riiken dishonorably discharged. Surik could also kill Riiken when he is patrolling near the cantina. However Surik must do this when she and Riiken are alone.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Onderon_separatists",
+  "/wiki/General/Legends",
+  "/wiki/Vaklu",
+  "/wiki/Onderon_Civil_War",
+  "/wiki/3951_BBY",
+  "/wiki/Meetra_Surik",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Onderon_Royalist",
+  "/wiki/Captain/Legends",
+  "/wiki/Iziz_Royal_Palace",
+  "/wiki/Gelesi",
+  "/wiki/Riiken",
+  "/wiki/Bostuco",
+  "/wiki/Queen/Legends",
+  "/wiki/Talia_(Onderon)",
+  "/wiki/Sky_Ramp",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

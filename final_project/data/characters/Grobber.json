@@ -1,0 +1,76 @@
+{
+ "name": "Grobber",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black SunBrommstaad Mercenaries",
+      "Brommstaad Mercenaries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grobber was an underling of Black Sun, sent by Zekka Thyne to capture Haber Trell's cargo at the Dewback Storage facility in Coronet, on Corellia. He was also a member of the Brommstaad Mercenaries.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Brommstaad_Mercenaries",
+  "/wiki/Zekka_Thyne",
+  "/wiki/Haber_Trell",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Grobber",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Side_Trip",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

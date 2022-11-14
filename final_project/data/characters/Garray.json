@@ -1,0 +1,62 @@
+{
+ "name": "Garray",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Abregado-rae"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garray was a portly male Human.\nHe served as a Major in the Galactic Alliance and the commander of Caluula Station during its siege by the Yuuzhan Vong. After Operation Trinity, the Vong began attacking the station, sending a ychna to which Garray was helpless to defend against. Issuing evacuation orders, he hoped to get as many people out as possible.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Abregado-rae/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Major/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Caluula_Station",
+  "/wiki/Battle_of_Caluula",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Operation_Trinity",
+  "/wiki/Ychna",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

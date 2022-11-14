@@ -1,0 +1,57 @@
+{
+ "name": "Qayhuk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yinchorr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yinchorri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Council of Elders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qayhuk was the Secretary of the Yinchorri Council of Elders. He petitioned Hego Damask for help in admitting Yinchorr to the Galactic Senate.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yinchorr/Legends",
+  "/wiki/Yinchorri",
+  "/wiki/Gender/Legends",
+  "/wiki/Council_of_Elders_(Yinchorri)",
+  "/wiki/Darth_Plagueis/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Shal Tor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shamed Ones"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shal Tor was a male Yuuzhan Vong Consul who became a Shamed One due to an implant rejection.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tor_(disambiguation)",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Shamed_Ones",
+  "/wiki/Consul/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shal_Tor",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

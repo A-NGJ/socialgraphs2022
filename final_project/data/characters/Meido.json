@@ -1,0 +1,71 @@
+{
+ "name": "Meido",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Adin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified Adin species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red with white stripes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Meido was a male non-Human senator of the New Republic who represented Adin circa 17 ABY. He openly accused Han Solo and Leia Organa Solo of causing the explosion in the Senate.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adin",
+  "/wiki/Unidentified_Adin_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/17_ABY/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Meido",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

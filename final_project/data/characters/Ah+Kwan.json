@@ -1,0 +1,42 @@
+{
+ "name": "Ah Kwan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ah Kwan was a stocky knife-wielding Human thief with black hair and slanted eyes who was hiding out in Jabba's Palace with his partner Quella in 4 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba%27s_Palace",
+  "/wiki/Quella",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ah_Kwan",
+  "/wiki/And_Then_There_Were_Some:_The_Gamorrean_Guard%27s_Tale",
+  "/wiki/Tales_from_Jabba%27s_Palace"
+ ]
+}

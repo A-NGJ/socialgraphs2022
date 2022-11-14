@@ -1,0 +1,57 @@
+{
+ "name": "Odosk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial ArmyMaw Irregular Fleet",
+      "Imperial Army",
+      "Maw Irregular Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Odosk was an Imperial officer who served in Daala's fleet. An Imperial Army commander, he was about to retire when Daala and Tarkin offered him a promotion and a place in the Maw Installation. He was well beyond retirement age by the time Daala finally left the Maw.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Maw_Irregular_Fleet",
+  "/wiki/General/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Natasi_Daala",
+  "/wiki/Commander/Legends",
+  "/wiki/Wilhuff_Tarkin/Legends",
+  "/wiki/Maw_Installation",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Odosk",
+  "/wiki/Star_Wars:_Force_Commander",
+  "/wiki/Dark_Apprentice_(novel)",
+  "/wiki/The_Jedi_Academy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Bal Rado",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "18 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bal Rado was a male Toydarian spice dealer who was hired by the gangster Sol Proofrock to bring him some spices. He was killed by his partner Droo Wabbin, when he lost the spices.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/18_BBY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Drug_dealer",
+  "/wiki/Sol_Proofrock",
+  "/wiki/Droo_Wabbin",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

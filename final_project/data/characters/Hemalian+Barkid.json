@@ -1,0 +1,61 @@
+{
+ "name": "Hemalian Barkid",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Drewwa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trang Robotics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hemalian Barkid was a male businessperson from Drewwa. He worked for Trang Robotics, and as of 40 ABY had been assigned to Kuat. He owned a Y-wing which was stolen by Ben Skywalker during his mission to acquire the Amulet of Kalara.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drewwa",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Trang_Robotics",
+  "/wiki/40_ABY",
+  "/wiki/Kuat/Legends",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Ben_Skywalker",
+  "/wiki/Amulet_of_Kalara",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hemalian_Barkid",
+  "/wiki/Legacy_of_the_Force:_Exile"
+ ]
+}

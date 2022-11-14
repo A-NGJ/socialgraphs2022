@@ -1,0 +1,33 @@
+{
+ "name": "Bort's daughter",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The daughter of Bort was a female human.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Bort",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bort%27s_daughter",
+  "/wiki/Adventures_in_Wild_Space:_The_Nest"
+ ]
+}

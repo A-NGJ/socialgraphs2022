@@ -1,0 +1,63 @@
+{
+ "name": "Ranneth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ranneth was a Twi'lek male who served as Captain of the Republic Military during the Galactic War.\nIn 3640 BBY, Ranneth led a patrol unit on Corellia until they were ambushed by Imperial forces in the Advanced Product Research Sector of the Labor Valley. Ranneth was wounded and was the only one to escape, while the rest of his men were captured. However, a Republic hero was able to liberate the injured soldiers and deliver much-needed medical assistance before extracting them to the nearest Republic's tram station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Corellia/Legends",
+  "/wiki/Advanced_Product_Research_Sector",
+  "/wiki/Labor_Valley",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

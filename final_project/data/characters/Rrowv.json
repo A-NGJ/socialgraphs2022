@@ -1,0 +1,47 @@
+{
+ "name": "Rrowv",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Togoria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rrowv was a young male Togorian who taught Han Solo how to control a mosgoth during Solo's short stay on Togoria.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togoria/Legends",
+  "/wiki/Togorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Mosgoth",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rrowv",
+  "/wiki/The_Paradise_Snare",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Nelia Fry",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cirrus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "39 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.61"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Reddish-brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nelia Fry was a female Human who was the mother of Talesan Fry. She was killed by the bounty hunter Magus along with her husband Grove.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cirrus",
+  "/wiki/39_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Talesan_Fry",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Magus_(bounty_hunter)",
+  "/wiki/Grove_Fry",
+  "/wiki/Secrets_of_the_Jedi_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "name": "Noira",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "c. 45 BBY"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 0 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ubese"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Veiled Sorority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noira was a Ubese female pirate who eventually became the third Pirate Queen of the Veiled Sorority. During the Galactic Civil War, she decided to target only one organization: the Zann Consortium. This resulted in a violent reprisal from Tyber Zann and culminated in the death of the Pirate Queen in a large space battle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/45_BBY/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Ubese/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Veiled_Sorority/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Pirate_King",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Zann_Consortium/Legends",
+  "/wiki/Tyber_Zann",
+  "/wiki/Battle_between_Ord_Mantell_and_Genassa",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Noira",
+  "/wiki/Mask_of_the_Pirate_Queen"
+ ]
+}

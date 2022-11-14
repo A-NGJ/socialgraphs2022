@@ -1,0 +1,63 @@
+{
+ "name": "Pade",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Uyter"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pade was a human male born on Uyter. Shortly after the Battle of Endor, Pade was abandoned by his parents. Eventually, he joined a group of potential recruits heading to the Imperial Academy on Uyter. Pade's group was stopped short of the academy by New Republic soldiers. After receiving advice from a soldier, Pade started his journey to the New Academy on Chandrila.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Uyter",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/New_Republic",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Parent",
+  "/wiki/Imperial_Academy_of_Uyter",
+  "/wiki/New_Republic_soldier",
+  "/wiki/New_Academy",
+  "/wiki/Chandrila",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pade",
+  "/wiki/Aftermath_(novel)",
+  "/wiki/Aftermath_(audiobook)"
+ ]
+}

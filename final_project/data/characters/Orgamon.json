@@ -1,0 +1,49 @@
+{
+ "name": "Orgamon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Esral'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Anjiliac kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orgamon was an male Esral'sa'Nikto aide to the Hutt Mika Anjiliac Chiera.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Esral%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anjiliac",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Mika_Anjiliac_Chiera",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Orgamon",
+  "/wiki/Tempest_Feud",
+  "/wiki/Scourge_(novel)",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

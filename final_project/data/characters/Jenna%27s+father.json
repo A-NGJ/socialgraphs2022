@@ -1,0 +1,52 @@
+{
+ "name": "Jenna's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Unidentified planet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Jenna was a male Human. Jenna's father was the sheriff of a Corellian settlement on a planet of the Outer Rim Territories. He was killed by one of the thugs of Hutt crime lord Bo-Dum, leaving the settlers without a lawman to protect them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_planet_(Jenna)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jenna_(Corellian)",
+  "/wiki/Parent/Legends",
+  "/wiki/Sheriff/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Corellian_settlement",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Bo-Dum",
+  "/wiki/The_Corellian_Kid",
+  "/wiki/Star_Wars_Comic_11"
+ ]
+}

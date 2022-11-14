@@ -1,0 +1,90 @@
+{
+ "name": "Jogo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Bralor"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jogo, also known as Jogo the Carver, was a Human male Mandalorian of Clan Bralor who was the son of Salus Bralor. A hunter during the Cold War, Jogo was one of a number of Mandalorians who tested themselves against Sithspawn on Dromund Kaas, but was killed by the most recent Grand Champion of the Great Hunt after Jogo angered the bounty hunter; Jogo believed, incorrectly, that the hunter would be unable to kill the Sithspawn Akure, and the hunter killed Jogo after successfully slaying the beast.\nIf Jogo is slain by the player, his father Salus Bralor confronts the player after the end of their storyline on Taris.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Clan_Bralor",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Salus_Bralor",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Sithspawn/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Great_Hunt_(competition)",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Akure",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

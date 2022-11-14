@@ -1,0 +1,33 @@
+{
+ "name": "Shenax",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shenax was a male Rattataki living on Tatooine. During the Cold War he informed a Republic citizen about the location of some captured slaves in Anchorhead Spaceport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Anchorhead_Spaceport",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

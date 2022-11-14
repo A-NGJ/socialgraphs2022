@@ -1,0 +1,46 @@
+{
+ "name": "Geronti",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Geronti was a male Human Lieutenant Commander in the Imperial Navy, where he served as the chief of the main engine control room onboard the Imperial II-class Star Destroyer Chimaera.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Lieutenant_Commander/Legends",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Chimaera/Legends",
+  "/wiki/Choices_of_One"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Calioc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Calioc was a Duros female and a fan of podracing. She was the benefactor of the podracer Korlen Skimmer during the Galactic Civil War but became fearful of her her investment in Skimmer when the Galactic Empire took an interest in Skimmer. She hired an investigator to determine the nature of the Empire's threats but refused to pull Skimmer from a race when her agents warned of foul-play.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Calioc",
+  "/wiki/Calioc/Legends",
+  "/wiki/Duros",
+  "/wiki/Gender",
+  "/wiki/Podracing",
+  "/wiki/Podracer",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Galactic_Empire",
+  "/wiki/Endless_Vigil"
+ ]
+}

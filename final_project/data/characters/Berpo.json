@@ -1,0 +1,46 @@
+{
+ "name": "Berpo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zelice Sturm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Berpo was a Toydarian criminal who worked for Zelice Sturm on Tolea Biqua during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zelice_Sturm",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Berpo",
+  "/wiki/The_Dark_Side_Beckons"
+ ]
+}

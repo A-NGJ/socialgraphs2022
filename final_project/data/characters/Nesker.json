@@ -1,0 +1,74 @@
+{
+ "name": "Nesker",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorra citizens committee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nesker was a male Twi'lek living on Balmorra during the Galactic War. In 3642 BBY a Balmorran resistance cell led by Zenith rescued the President of Balmorra Retheus Galthe from Darth Lachris. Unfortunately, prolonged torture by broke Galthe's mind and a Balmorra citizens committee was assembled to oversee the transfer of political power to Tai Cordan, which Nesker was the first to propose.\nNesker appears in Star Wars: The Old Republic during the Consular class mission on Balmorra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Balmorra_citizens_committee",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Zenith",
+  "/wiki/President/Legends",
+  "/wiki/Retheus_Galthe",
+  "/wiki/Darth_Lachris",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

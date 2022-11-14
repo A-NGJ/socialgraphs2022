@@ -1,0 +1,60 @@
+{
+ "name": "Minnix",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Independent drug dealer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Minnix was a male Trandoshan drug dealer based on Nar Shaddaa. He spent his time in Kuzbar's Cantina waiting for clients to whom he sold common drugs and tempest spice. Addicted to the spice himself, he purchased most of his supply from dealers in the Dark Melody tapcafe.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Drug_dealer",
+  "/wiki/Time/Legends",
+  "/wiki/Kuzbar%27s_Cantina",
+  "/wiki/Tempest_(spice)",
+  "/wiki/Dark_Melody",
+  "/wiki/Tapcafe/Legends",
+  "/wiki/Tempest_Feud",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Mik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mik was a male Gungan seen in the restaurant of the Sanads of Rorkee hotel in 31 BBY. He was playing the Otoh Gunga variant of sabacc with fellow Gungan Donn, as both of them mistrusted others too much to play with anyone else.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sanads_of_Rorkee",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Otoh_Gunga/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Donn",
+  "/wiki/Head_in_the_Clouds"
+ ]
+}

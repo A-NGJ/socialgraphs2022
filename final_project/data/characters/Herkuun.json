@@ -1,0 +1,64 @@
+{
+ "name": "Herkuun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Thul"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Herkuun was a heavyset Human male who held the position of Grand Marshal in the military forces of House Thul on the planet Alderaan during the Alderaan Civil War. He was one of the commanders of a Thul force that invaded the Apalis Fields and the Organa Vinerium on the Apalis Coast, but he was eventually killed by Republic forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Grand_Marshal/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Apalis_Fields",
+  "/wiki/Organa_Vinerium",
+  "/wiki/Apalis_Coast",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

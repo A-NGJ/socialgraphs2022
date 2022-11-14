@@ -1,0 +1,33 @@
+{
+ "name": "Mavven",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mavven was a Besalisk male arms dealer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Besalisk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Arms_dealer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mavven",
+  "/wiki/Scavenger%27s_Guide_to_Droids"
+ ]
+}

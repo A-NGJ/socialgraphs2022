@@ -1,0 +1,50 @@
+{
+ "name": "Lishi-Na",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lishi-Na was a Voss Mystic who built the Ruins of Wisdom alongside family members. The ruins became a symbol to Mystics to remind them that they were supported by all.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Voss_Mystics",
+  "/wiki/Ruins_of_Wisdom",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lishi-Na",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

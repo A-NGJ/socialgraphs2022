@@ -1,0 +1,63 @@
+{
+ "name": "Dianthy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Free Ryloth Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dianthy was a female Twi'lek. In 13 BBY, she was in Lessu, capital of Ryloth, to pick up a delivery of gattis-root extract for use in treating bybbec fever.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ryloth",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Free_Ryloth_Movement",
+  "/wiki/13_BBY",
+  "/wiki/Lessu",
+  "/wiki/Capital",
+  "/wiki/Relief_mission_to_Ryloth",
+  "/wiki/Gattis-root",
+  "/wiki/Bybbec_fever",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dianthy",
+  "/wiki/Mercy_Mission_(short_story)",
+  "/wiki/The_Rise_of_the_Empire"
+ ]
+}

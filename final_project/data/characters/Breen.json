@@ -1,0 +1,53 @@
+{
+ "name": "Breen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dom-Bradden"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Affytechan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange-and-yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Breen was one of the Affytechans taken aboard the Eye of Palpatine in 12 ABY, where he was indoctrinated into believing he was a doctor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dom-Bradden/Legends",
+  "/wiki/Affytechan",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Color/Legends",
+  "/wiki/Eye_of_Palpatine",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

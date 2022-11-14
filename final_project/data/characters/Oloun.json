@@ -1,0 +1,37 @@
+{
+ "name": "Oloun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vosadii"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oloun was a notable Hutt of the Vosadii kajidic who was active during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Vosadii",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

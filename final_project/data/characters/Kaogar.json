@@ -1,0 +1,61 @@
+{
+ "name": "Kaogar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Locust"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kaogar was a male Trandoshan living during the Cold War. In 3643 BBY he was on the planet Taris, acting as a lieutenant in a gang led by a Gen'Dai called the Locust.\nKaogar appears in Star Wars: The Old Republic as an enemy on Republic version of Taris.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Locust",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Gen%27Dai",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

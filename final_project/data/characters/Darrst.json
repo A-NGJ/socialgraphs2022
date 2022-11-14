@@ -1,0 +1,61 @@
+{
+ "name": "Darrst",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Reclamation Service",
+      "Imperial Reclamation Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darrst was a male Human sergeant in the Imperial Reclamation Service of the reconstituted Sith Empire. During the Galactic War he was stationed on Voss, where he asked an Imperial to destroy the evidence of the Voss interactions with the Jedi in the past.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Reclamation_Service",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

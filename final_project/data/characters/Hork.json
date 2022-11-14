@@ -1,0 +1,54 @@
+{
+ "name": "Hork",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Hork commanded a platoon of soldiers in the Alliance to Restore the Republic during the Galactic Civil War. He commanded his unit during an operation to take an Imperial strongpoint.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Sergeant_Hork%27s_platoon",
+  "/wiki/Soldier/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Unidentified_battle_(Imperial_strongpoint)",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hork",
+  "/wiki/West_End_Games",
+  "/wiki/Whiskers",
+  "/wiki/Rules_of_Engagement:_The_Rebel_SpecForce_Handbook",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/StarWars.com"
+ ]
+}

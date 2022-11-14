@@ -1,0 +1,46 @@
+{
+ "name": "Mzerc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mzerc's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green with red spots"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mzerc was the husband of a former Imperial senator.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mzerc%27s_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mzerc%27s_wife",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mzerc",
+  "/wiki/Princess_Leia,_Imperial_Servant"
+ ]
+}

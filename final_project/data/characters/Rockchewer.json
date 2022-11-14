@@ -1,0 +1,50 @@
+{
+ "name": "Rockchewer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3639 BBY",
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mantellian Savrip"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rockchewer was a Mantellian Savrip living on Ord Mantell. It was killed by the team assaulting the laboratory of Doctor Sannus Lorrick.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/3639_BBY",
+  "/wiki/Mantellian_Savrip/Legends",
+  "/wiki/Sannus_Lorrick",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

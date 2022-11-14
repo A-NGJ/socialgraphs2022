@@ -1,0 +1,60 @@
+{
+ "name": "Calla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Calla was a human, female from the planet Naboo, who went to Canto Bight as a tourist, but soon lost all her money and, unable to leave, took a job as a hotel receptionist. Later she became the Grammus sister's servant after she lost a gamble against Rhomby Grammus. She helped the sisters do a business deal with Derla Pidys, and afterwards got a new job in another hotel thanks by the sisters.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Naboo",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Canto_Bight",
+  "/wiki/Rhomby_Grammus",
+  "/wiki/Derla_Pidys",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Calla",
+  "/wiki/The_Wine_in_Dreams",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

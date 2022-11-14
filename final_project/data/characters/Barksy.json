@@ -1,0 +1,50 @@
+{
+ "name": "Barksy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pembric II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barksy was a young male Human Swoop bike gang member on Pembric II in 19 ABY.\nHe was one of several gang members who tried to dissuade Talon Karrde from entering the ThrusterBurn Tapcafe, only to have their bikes wrecked by Shada D'ukal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pembric_II",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Talon_Karrde",
+  "/wiki/ThrusterBurn_Tapcafe",
+  "/wiki/Shada_D%27ukal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barksy",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

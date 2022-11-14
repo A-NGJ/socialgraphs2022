@@ -1,0 +1,75 @@
+{
+ "name": "Forma",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mining Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Forma was a crewmember and smuggler for the Mining Guild. He commanded their transport Draisini, which he piloted to a diplomatic meeting between the Guild and the representatives of the Galactic Empire and the New Republic. Refusing to compromise, he left to pick up an undocumented cargo. Upon picking up the cargo on Genon, he was attacked by agents of Grappa the Hutt and was tortured for information before being turned over to the Zanibar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mining_Guild/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Draisini",
+  "/wiki/Pilot/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Genon",
+  "/wiki/Grappa_(Hutt)",
+  "/wiki/Hutt/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Zanibar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Forma",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_1",
+  "/wiki/Star_Wars_Handbook_2:_Crimson_Empire",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

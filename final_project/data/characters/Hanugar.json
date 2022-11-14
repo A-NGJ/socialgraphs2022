@@ -1,0 +1,58 @@
+{
+ "name": "Hanugar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hanugar was an older male Human who, along with several other members of his ship's crew, worked to dupe two Weequays into helping them find the treasure of Zelosian's Chine. He and Sevik were shipwrecked when their ship ran into one of Zelos II's many corals reefs where Sevik and Hanugar were forced to fight off melk and wait for co-conspirator K'zk. After finding the treasure, the ship crew left the Weequays for dead, only to have the Weequays swear that they would hunt them down.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Zelosian%27s_Chine",
+  "/wiki/Sevik_(criminal)",
+  "/wiki/Zelos_II",
+  "/wiki/Melk",
+  "/wiki/K%27zk",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Day_of_the_Sepulchral_Night_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

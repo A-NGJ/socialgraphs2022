@@ -1,0 +1,73 @@
+{
+ "name": "Prahmin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Makeb Business Council",
+      "Mining and geological committee",
+      "Mining and geological committee",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Prahmin was a male Human engineer living during the Galactic War. During the Conquest of Makeb, Prahmin was among the engineers the Galactic Republic saved from the Hutt Cartel. Along with fellow Beddek and Cherush he was kidnapped by the reconstituted Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Makeb_Business_Council",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Doctor/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Beddek",
+  "/wiki/Cherush",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

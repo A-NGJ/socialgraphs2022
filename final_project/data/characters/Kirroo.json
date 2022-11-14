@@ -1,0 +1,41 @@
+{
+ "name": "Kirroo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kirroo was a Wookiee who was being held captive by the Galactic Empire on the planet Corellia. He was rescued by Han, Qi'ra, and Tsuulo. Kirroo worked for Jenra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Prisoner",
+  "/wiki/Galactic_Empire",
+  "/wiki/Planet",
+  "/wiki/Corellia",
+  "/wiki/Han_Solo",
+  "/wiki/Qi%27ra",
+  "/wiki/Tsuulo",
+  "/wiki/Jenra",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kirroo",
+  "/wiki/Most_Wanted",
+  "/wiki/Most_Wanted_(audiobook)"
+ ]
+}

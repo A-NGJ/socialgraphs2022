@@ -1,0 +1,51 @@
+{
+ "name": "Bômlas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Skip 1"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ychthytonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bômlas was an infamous Ychthytonian bartender on Skip 1. He lost one of his four arms in a sabacc game, but, according to Han Solo, the loss did not slow Bômlas down by much.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Skip_1",
+  "/wiki/Ychthytonian",
+  "/wiki/Gender/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/B%C3%B4mlas",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_103",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

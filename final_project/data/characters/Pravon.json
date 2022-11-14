@@ -1,0 +1,51 @@
+{
+ "name": "Pravon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Extensive",
+      "including a cybernetic voice box"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorensla kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pravon was a Weequay male who led a team of enforcers loyal to the Gorensla kajidic. He had extensive cybernetic implants, which included a cybernetic voice box that allowed him to greatly increase the volume of his voice.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Weequay",
+  "/wiki/Gender",
+  "/wiki/Gorensla",
+  "/wiki/Kajidic",
+  "/wiki/Cybernetic",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

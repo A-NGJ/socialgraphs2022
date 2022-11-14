@@ -1,0 +1,41 @@
+{
+ "name": "Parx",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Parx was a male Human, who worked for the crime lord Rufus Trammel during the waning years of the Galactic Republic.\nDuring the time of the Clone Wars, Parx traveled to the moon Dorumaa, where Trammel tasked him with leading a group of poachers, to capture the Dorumaan leviathan Jessel. They captured the creature, but while they attempted to load it onto a starship, Parx and the poachers were attacked by the heroes of Cularin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Rufus_Trammel",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Dorumaa",
+  "/wiki/Dorumaan_leviathan",
+  "/wiki/Jessel",
+  "/wiki/Starship/Legends",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Dorumaa%27s_Children"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Arkos Sovrit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Serenno"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Serenno Spaceport Security"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Arkos Sovrit was a male Human lieutenant of the Serenno Spaceport Security.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Serenno/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arkos_Sovrit",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Hard_Targets_3"
+ ]
+}

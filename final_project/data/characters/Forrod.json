@@ -1,0 +1,63 @@
+{
+ "name": "Forrod",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Forrod was a Twi'lek female who was a doctor and archaeologist of the Galactic Republic during the Galactic War.\nIn 3640 BBY, Forrod and her team went to Voss to study local culture and made camp at the Republic Ken-La Outpost. One day, the group detected strange transmissions coming from a cave in the the Lower Flamewood, and all but Forrod went to investigate. Several days after they had not returned, Forrod tasked a Republic citizen with investigating and finding out what happened to her team. The transmission turned out to be fake, a trap by the Imperial forces, who slaughtered Forrod's entire team.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Archaeology/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Voss",
+  "/wiki/Ken-La_Outpost",
+  "/wiki/Flamewood",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

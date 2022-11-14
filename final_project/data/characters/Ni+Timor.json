@@ -1,0 +1,51 @@
+{
+ "name": "Ni Timor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaminoan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ni Timor was a male Kaminoan scientist from the planet Kamino. He was present along with fellow Kaminoan scientists Lac Nor and Ko Sai when Magister Hego Damask inquired the possibility of cloning a Yinchorri.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Kaminoan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Lac_Nor",
+  "/wiki/Ko_Sai/Legends",
+  "/wiki/Magister",
+  "/wiki/Darth_Plagueis/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Yinchorri",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

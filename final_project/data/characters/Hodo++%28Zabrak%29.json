@@ -1,0 +1,41 @@
+{
+ "name": "Hodo  (Zabrak)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hodo was a Zabrak Jedi youngling that lived in the Jedi Temple.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Zabrak",
+  "/wiki/Jedi_Order",
+  "/wiki/Jedi",
+  "/wiki/Jedi_Initiate",
+  "/wiki/Imperial_Palace",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hodo_(Zabrak)",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

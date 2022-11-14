@@ -1,0 +1,75 @@
+{
+ "name": "House Veruna",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Earliest appearance",
+     "values": [
+      "65 BBY"
+     ]
+    },
+    {
+     "name": "Prominence",
+     "values": [
+      "65 BBY - 33 BBY"
+     ]
+    },
+    {
+     "name": "Extinction of family name",
+     "values": [
+      "33 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Royal House of Naboo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House Veruna was a noble Naboo family that resided on the planet Naboo. According to Cosinga Palpatine, in about 135 BBY, House Veruna and House Tapalo conspired to hire a group of mercenaries to attack Naboo's native Gungans, as part of a ploy to gain access to Naboo's plasma resources. Years later, Ars Veruna of House Veruna was elected as Naboo's monarch.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Naboo_(people)/Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/65_BBY/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Royal_House_of_Naboo/Legends",
+  "/wiki/Cosinga_Palpatine",
+  "/wiki/Noble/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/135_BBY",
+  "/wiki/House_Tapalo",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Plasma/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Ars_Veruna/Legends",
+  "/wiki/Monarch_of_Naboo/Legends",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

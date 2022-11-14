@@ -1,0 +1,33 @@
+{
+ "name": "Deli Barl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Deli Barl was the sister of Roxi Barl.\nShe and her sister dreamed of becoming rich, and her plan nearly succeeded when she married the vice president of fleets for CorDuro Shipping. However, when he divorced her and took everything, Roxi killed him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Roxi_Barl",
+  "/wiki/CorDuro_Shipping",
+  "/wiki/Wizards.com",
+  "/wiki/Making_a_Full_Recovery"
+ ]
+}

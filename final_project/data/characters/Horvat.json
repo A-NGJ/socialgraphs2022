@@ -1,0 +1,41 @@
+{
+ "name": "Horvat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Guldus Bemm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Horvat was a Rodian henchman of Guldus Bemm who worked on the planet of Canyon. Under orders from Bemm, Horvat attempted to lead a group of New Republic representatives into an Imperial trap.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Guldus_Bemm",
+  "/wiki/Planet/Legends",
+  "/wiki/Canyon",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Black_Curs_Blues",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

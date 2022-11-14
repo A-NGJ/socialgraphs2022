@@ -1,0 +1,65 @@
+{
+ "name": "Korro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Korro was a human member of Naboo's Royal Security Forces. In the aftermath of the Battle of Endor, where the Alliance to Restore the Republic defeated the autocratic Galactic Empire, Korro served as Queen Sosha Soruna's head of security.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Naboo",
+  "/wiki/Human",
+  "/wiki/Naboo_(people)",
+  "/wiki/Royal_Naboo_Security_Forces",
+  "/wiki/Captain",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Dictatorship",
+  "/wiki/Galactic_Empire",
+  "/wiki/Monarch_of_Naboo",
+  "/wiki/Sosha_Soruna",
+  "/wiki/Head_of_Security",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Korro",
+  "/wiki/Shattered_Empire_2",
+  "/wiki/Shattered_Empire_3"
+ ]
+}

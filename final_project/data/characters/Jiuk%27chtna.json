@@ -1,0 +1,36 @@
+{
+ "name": "Jiuk'chtna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jiuk'chtna was a male Duros trader. Some time during the Galactic Civil War, he hired a Human spacer to take him to Gemthrop City. He warned the spacer to be careful, as the residents of Gemthrop City did not like Humans.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lecknag_Beast",
+  "/wiki/Merchant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Gemthrop_City",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition"
+ ]
+}

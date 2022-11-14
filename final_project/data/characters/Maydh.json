@@ -1,0 +1,47 @@
+{
+ "name": "Maydh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maydh was a young male Ferroan from Zonama Sekot who joined Luke Skywalker and several other Jedi in a meeting with the Yuuzhan Vong priest Harrar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Ferroan",
+  "/wiki/Gender/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Harrar",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

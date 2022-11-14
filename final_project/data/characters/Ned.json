@@ -1,0 +1,48 @@
+{
+ "name": "Ned",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Belasco"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ned was the son of a female mechanic living on Belasco. It was he who helped the Jedi Masters Qui-Gon Jinn and Adi Gallia to identify Jenna Zan Arbor and Noor R'aya.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Belasco/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Adi_Gallia/Legends",
+  "/wiki/Jenna_Zan_Arbor",
+  "/wiki/Noor_R%27aya",
+  "/wiki/Jedi_Apprentice:_The_Dangerous_Rescue",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Brisnell",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brisnell was a Human male who was part of a group of pirates in the Outer Rim Territories. Some time during his lifetime, he was tortured by a modified EV-series supervisor droid.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/EV-series_supervisor_droid/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brisnell",
+  "/wiki/Cynabar%27s_Fantastic_Technology:_Droids"
+ ]
+}

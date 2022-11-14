@@ -1,0 +1,60 @@
+{
+ "name": "Pombo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tauntaun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Murra's herd"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pombo was a member of a herd of tauntauns that were captured and domesticated by the Rebel Alliance forces on the planet Hoth. Pombo was present when the herd's matriarch, Murra, was challenged by Keelak, another tauntaun in the herd.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hoth",
+  "/wiki/Tauntaun",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Planet",
+  "/wiki/Murra_(tauntaun)",
+  "/wiki/Keelak",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pombo",
+  "/wiki/She_Will_Keep_Them_Warm",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

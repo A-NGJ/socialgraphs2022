@@ -1,0 +1,65 @@
+{
+ "name": "Kata",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel",
+      "Mantellian Separatist Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kata the Hutt was a Hutt crime lord on Nar Shaddaa during the Cold War between the Galactic Republic and the Sith Empire. He ran illegal pit fights on the Smugglers' Moon in the Nikto Sector, the profits from which he used to fund separatists movements on Ord Mantell and other war-torn planets. Agent Jatta Kuum of the Republic Strategic Information Service asked an ally of the Republic to destroy the Hutt's vault. By doing so, the individual stopped the pit fights and cut off the funding of the separatist movements.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Mantellian_Separatist_Movement",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Nikto_Sector",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Jatta_Kuum",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

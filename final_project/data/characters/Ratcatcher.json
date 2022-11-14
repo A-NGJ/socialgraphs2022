@@ -1,0 +1,71 @@
+{
+ "name": "Ratcatcher",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3638 BBY",
+      "Makeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Specialists"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ratcatcher was a Devaronian male bounty hunter who was renowned during the Cold War and Galactic War, having assassinated a wide variety of targets. He led the mercenary group known as the Specialists on the planet Makeb, where the group was killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3638_BBY",
+  "/wiki/Makeb",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Specialists",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Assassin/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2013",
+  "/wiki/Standard_year/Legends",
+  "/wiki/2014",
+  "/wiki/3637_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan",
+  "/wiki/3636_BBY",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

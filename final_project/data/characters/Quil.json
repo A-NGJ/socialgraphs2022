@@ -1,0 +1,34 @@
+{
+ "name": "Quil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quil was a female Selonian member of the Corellian resistance movement during the Battle of Corellia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Quil",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

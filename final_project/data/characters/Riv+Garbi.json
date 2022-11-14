@@ -1,0 +1,35 @@
+{
+ "name": "Riv Garbi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Riv Garbi was a great male Duros philosopher and author. Around roughly 3630 BBY,it was rumored that one of his long-lost texts was discovered on his home planet in a private collection.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Author/Legends",
+  "/wiki/3630_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Riv_Garbi",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

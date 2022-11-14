@@ -1,0 +1,43 @@
+{
+ "name": "Morm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morm was one of four Separatist delegates who met with the Jedi Suljo Warde in the aftermath of the Battle of Jorra during the Clone Wars. A Neimoidian, Morm was one of three of the delegates that Warde killed at during the meeting after he had begun to descend into madness.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Suljo_Warde",
+  "/wiki/Battle_of_Jorra",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Morm",
+  "/wiki/Chronicles_of_the_Gatekeeper"
+ ]
+}

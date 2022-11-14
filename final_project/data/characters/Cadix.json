@@ -1,0 +1,61 @@
+{
+ "name": "Cadix",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cadix was a Human male lieutenant of the Galactic Republic during the Galactic War. In 3642 BBY he was stationed at the Outpost Cresh on Hoth, where he helped decipher sensitive information retrieved from a corpse of a Chiss defector by a Republic citizen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Outpost_Cresh",
+  "/wiki/Hoth/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

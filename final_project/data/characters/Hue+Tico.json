@@ -1,0 +1,70 @@
+{
+ "name": "Hue Tico",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tico family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hue Tico was a male human who was the father of Paige and Rose Tico with Thanya Tico.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tico_family",
+  "/wiki/Parent",
+  "/wiki/Paige_Tico",
+  "/wiki/Rose_Tico",
+  "/wiki/Thanya_Tico",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hue_Tico",
+  "/wiki/Age_of_Resistance_-_Rose_Tico_1",
+  "/wiki/The_Last_Jedi:_Cobalt_Squadron",
+  "/wiki/The_Last_Jedi:_Cobalt_Squadron_(audiobook)",
+  "/wiki/Star_Wars:_The_Last_Jedi:_Expanded_Edition",
+  "/wiki/Star_Wars:_The_Last_Jedi:_Expanded_Edition_(audiobook)",
+  "/wiki/Star_Wars:_The_Last_Jedi:_The_Visual_Dictionary",
+  "/wiki/The_Last_Jedi:_Rose_Tico:_Resistance_Fighter",
+  "/wiki/Star_Wars:_The_Complete_Visual_Dictionary,_New_Edition",
+  "/wiki/Star_Wars:_Women_of_the_Galaxy",
+  "/wiki/The_Last_Jedi:_Bomber_Command"
+ ]
+}

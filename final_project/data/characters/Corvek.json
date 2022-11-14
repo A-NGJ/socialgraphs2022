@@ -1,0 +1,66 @@
+{
+ "name": "Corvek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gand"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Gavos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gand"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Oridelve Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corvek was a male Gand who worked for Oridelve Incorporated on the planet Gavos. He tried to escape the Gavos Droid Revolution at the beginning, but he was killed by Lookout.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gand_(planet)/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Gavos",
+  "/wiki/Gand/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Oridelve_Incorporated",
+  "/wiki/Planet/Legends",
+  "/wiki/Gavos_Droid_Revolution",
+  "/wiki/Lookout_(droid)",
+  "/wiki/Debts_to_Pay"
+ ]
+}

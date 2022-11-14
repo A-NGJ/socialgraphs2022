@@ -1,0 +1,47 @@
+{
+ "name": "Prakkath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Migrant Merchants' Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Prakkath was a Devaronian male leader of the Migrant Merchants' Guild on the planet Coruscant during the Cold War. When Senator Vanara Kayl reneged on a deal she had made with the guild, Prakkath met with her in an attempt to convince her to honor their agreement, but it failed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Migrant_Merchants%27_Guild",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Senator/Legends",
+  "/wiki/Vanara_Kayl",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

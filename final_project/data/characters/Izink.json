@@ -1,0 +1,54 @@
+{
+ "name": "Izink",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Izink was a Jawa living on Tatooine. During the Cold War he resided in Anchorhead, where he reprogrammed astromech droids to steal surveillance holocams.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/Holocamera",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Galactic_Republic/Legends"
+ ]
+}

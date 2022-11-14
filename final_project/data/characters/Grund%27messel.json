@@ -1,0 +1,59 @@
+{
+ "name": "Grund'messel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray-green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grund'messel was a male Nikto merchant who lived on Coruscant during the Cold War. He owned a stand in the Old Galactic Market's Concourse Bazaar, from which he sold heavy armor.\nGrund'messel appears in the BioWare MMORPG Star Wars: The Old Republic as a heavy armor vendor on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Old_Galactic_Market",
+  "/wiki/Concourse_Bazaar",
+  "/wiki/BioWare",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

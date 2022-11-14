@@ -1,0 +1,48 @@
+{
+ "name": "Kitit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kitit was a Jawa collector living during the Cold War. Along with fellow Jawas Nbat and Efa, Kitit was the one to discover an old Czerka droid, containing information on the excavation of The Imprisoned One's mind prison. Trade Master Thint later relayed that information to an agent of the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Nbat",
+  "/wiki/Efa",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/The_Imprisoned_One%27s_mind_prison",
+  "/wiki/Thint",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Rako",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Yoda"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rako was a male Nautolan padawan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Star_Wars",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Yoda/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rako",
+  "/wiki/LEGO_Star_Wars:_The_Yoda_Chronicles",
+  "/wiki/The_Phantom_Clone",
+  "/wiki/Menace_of_the_Sith",
+  "/wiki/Attack_of_the_Jedi",
+  "/wiki/Hunt_For_The_Padawans",
+  "/wiki/Escape_from_the_Jedi_Temple"
+ ]
+}

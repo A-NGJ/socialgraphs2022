@@ -1,0 +1,61 @@
+{
+ "name": "Krax",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tahlboor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Troob"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krax family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Krax was the leader of the Troob people of Tahlboor around 5.5 BBY. His wife was Stigrit Krax and his son was Ket Krax.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tahlboor",
+  "/wiki/Troob",
+  "/wiki/Gender/Legends",
+  "/wiki/Krax_family",
+  "/wiki/General/Legends",
+  "/wiki/6_BBY/Legends",
+  "/wiki/Stigrit_Krax",
+  "/wiki/Ket_Krax",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Krax",
+  "/wiki/Star_Wars_Droids:_The_Protocol_Offensive",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

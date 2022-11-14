@@ -1,0 +1,71 @@
+{
+ "name": "Gollin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Imperial Army",
+      "Imperial Officer Corps",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gollin was a human female who served as a general in the Galactic Empire. She was sent to Heva after a group of bounty hunters who were hunting down Darth Vader destroyed the Star Destroyer Formidable.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Imperial_Army",
+  "/wiki/General",
+  "/wiki/Heva",
+  "/wiki/Beilert_Valance%27s_crew",
+  "/wiki/Bounty_hunter",
+  "/wiki/Hunt_for_Vader",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Star_Destroyer",
+  "/wiki/Formidable",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gollin",
+  "/wiki/Target_Vader_4"
+ ]
+}

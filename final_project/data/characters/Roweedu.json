@@ -1,0 +1,47 @@
+{
+ "name": "Roweedu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roweedu was a female Rodian bounty hunter who tried to make a name for herself following the collapse of the Bounty Hunters' Guild.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Bounty_Hunter_Wars",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Roweedu",
+  "/wiki/Rebellion_Era_Sourcebook"
+ ]
+}

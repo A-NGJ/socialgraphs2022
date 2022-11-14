@@ -1,0 +1,59 @@
+{
+ "name": "Shorzen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "the Gauntlet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gunnery Sergeant Shorzen was an Imperial officer stationed aboard the Gauntlet. During the Battle of the Gauntlet he engaged Havoc Squad in combat, but was defeated and killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Gauntlet_(Sith_Empire)",
+  "/wiki/Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Gunnery_Sergeant",
+  "/wiki/Battle_of_the_Gauntlet",
+  "/wiki/Havoc_Squad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

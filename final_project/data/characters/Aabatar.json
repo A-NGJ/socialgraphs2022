@@ -1,0 +1,53 @@
+{
+ "name": "Aabatar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aabatar was a male Mon Calamari smuggler who was once hired by another smuggler on the planet Dac to work on his YT-1300 freighter. Aabatar was paid two hundred credits per day for his services.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aabatar",
+  "/wiki/Shadis",
+  "/wiki/Corellian_Smuggler",
+  "/wiki/Shadis_27"
+ ]
+}

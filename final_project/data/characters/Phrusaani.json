@@ -1,0 +1,47 @@
+{
+ "name": "Phrusaani",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vergesso Base"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phrusaani was a Chevin who operated the Docking Bay bar on the Life Level on Vergesso Base. His favorite musicians were the Modal Nodes.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vergesso_Base",
+  "/wiki/Docking_Bay",
+  "/wiki/Musician/Legends",
+  "/wiki/Modal_Nodes",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Phrusaani",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

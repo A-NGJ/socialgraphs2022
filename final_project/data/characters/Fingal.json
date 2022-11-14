@@ -1,0 +1,66 @@
+{
+ "name": "Fingal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Berchest"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Berchestian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fingal was a small Berchestian man who worked overtly as an aide in Governor Staffa's office, and covertly as a spy for Grand Admiral Thrawn.\nStationed on Berchest for almost a decade, he had a trade relationship with Governor Staffa for some time. When the Galactic Empire collapsed, he thought his service was over. However, he was reactivated by Thrawn and he reported to Captain Pellaeon that Talon Karrde had met Luke Skywalker there on Berchest.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Berchest/Legends",
+  "/wiki/Berchestian",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Raccyx_Staffa",
+  "/wiki/Governor/Legends",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Talon_Karrde",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/The_Last_Command",
+  "/wiki/The_Last_Command_(comics)",
+  "/wiki/The_Last_Command_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

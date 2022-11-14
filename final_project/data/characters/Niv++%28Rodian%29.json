@@ -1,0 +1,56 @@
+{
+ "name": "Niv  (Rodian)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Harido Wald"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Niv the Shiv was a male Rodian member of Harido Wald, a smuggling ring operating on Mek-Sha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Harido_Wald",
+  "/wiki/Mek-Sha",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

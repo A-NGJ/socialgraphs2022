@@ -1,0 +1,77 @@
+{
+ "name": "Sarma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dubrava"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Dubrava"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dubravan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sarma was a Dubravan bounty hunter on Dubrava following the Battle of Yavin.\nThe father of Nevana owed a debt to Sarma, but Nevana paid it off with information leading to the location of Luke Skywalker. Sarma betrayed Nevana, and led Imperial stormtroopers to her to find her source—Jal Te Gniev. Sarma, too, was betrayed—murdered by the stormtroopers he had sold the information to.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dubrava/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Dubravan",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Nevana%27s_father",
+  "/wiki/Nevana",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Jal_Te_Gniev",
+  "/wiki/Death/Legends",
+  "/wiki/Vader%27s_Quest_2"
+ ]
+}

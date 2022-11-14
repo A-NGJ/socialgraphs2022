@@ -1,0 +1,62 @@
+{
+ "name": "Seendar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Togoria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "3 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seendar was a male Togorian mercenary who was trapped on the planet Narg. He spent his time in the Free Access Grill.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togoria/Legends",
+  "/wiki/Togorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Narg",
+  "/wiki/Free_Access_Grill",
+  "/wiki/The_Abduction",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures"
+ ]
+}
