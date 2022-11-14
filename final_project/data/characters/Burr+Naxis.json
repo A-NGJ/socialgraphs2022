@@ -1,0 +1,66 @@
+{
+ "name": "Burr Naxis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Marus Grayson"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Burr Naxis was a male Corellian working as a security squad leader for Marus Grayson to protect his Jewel of Yavin exposed at the Figg \u0026 Associates Art Museum in Cloud City before the auction of the jewel during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Marus_Grayson",
+  "/wiki/Corellian/Legends",
+  "/wiki/Jewel_of_Yavin/Legends",
+  "/wiki/Figg_%26_Associates_Art_Museum",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

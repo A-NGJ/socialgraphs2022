@@ -1,0 +1,42 @@
+{
+ "name": "Gordal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Gordal was a scientist working at the Technical Branch Outpost on the planet Lotide. A specialist in computer programming, Gordal's walls were covered in posters of holostars and sportsmen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Technical_Branch_Outpost_(Lotide)",
+  "/wiki/Planet/Legends",
+  "/wiki/Lotide",
+  "/wiki/Computer/Legends",
+  "/wiki/Holostar",
+  "/wiki/Black_Ice_(adventure)"
+ ]
+}

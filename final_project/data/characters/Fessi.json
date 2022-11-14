@@ -1,0 +1,35 @@
+{
+ "name": "Fessi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fessi was an Human female who worked as a dancer in Orman's Sky Palace on the planet Lianna.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Orman%27s_Sky_Palace",
+  "/wiki/Planet/Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fessi",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Ruba",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ruba was a mute Ortolan of unusual size for his species. He often grew uncomfortable in the heat of Mos Espa and sought refuge in a sauna, where at times he was attended by Rutian females, and on one occasion even met Jar Jar Binks.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Rutian/Legends",
+  "/wiki/Jar_Jar_Binks/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace_(video_game)"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Coorsha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Coorsha was a Rodian male pirate who lived during the Yuuzhan Vong War. Coorsha commanded a ragtag squadron of CloakShape fighters, I-7 Howlrunners and Z-95 Headhunters, which he used to raid regions of space near to the Kathol sector. At some point, he captured an Ton-Falk-class escort carrier, which he re-named Coorsha's Cross.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Squadron/Legends",
+  "/wiki/CloakShape_fighter/Legends",
+  "/wiki/I-7_Howlrunner",
+  "/wiki/Z-95_Headhunter/Legends",
+  "/wiki/Realspace/Legends",
+  "/wiki/Kathol_sector",
+  "/wiki/Ton-Falk-class_escort_carrier",
+  "/wiki/Coorsha%27s_Cross",
+  "/wiki/Starships_of_the_Galaxy"
+ ]
+}

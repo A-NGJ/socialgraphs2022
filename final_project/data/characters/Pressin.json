@@ -1,0 +1,48 @@
+{
+ "name": "Pressin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Pressin was an officer in the Army of the Imperial Remnant and an advisor to Grand Admiral Gilad Pellaeon. He was suspicious of the New Republic and viewed any requests for military aid from them to be little more than a trap, stating as much to the Imperial commander-in-chief.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Major/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_II:_Ruin",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

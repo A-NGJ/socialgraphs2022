@@ -1,0 +1,77 @@
+{
+ "name": "Falloon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Falloon, who was really the Black Sun accountant Soolehad, was a Rodian who lived on the planet Sriluur during the Yuuzhan Vong War. Falloon offered a group of Jedi supporters a large amount of credits to help him escape from Peace Brigade goons. They managed to get him to his ship, the Gilded Thranta, along with his droid 9T-LOM.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Jedi/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Invasion_of_Sriluur_(Yuuzhan_Vong_War)",
+  "/wiki/Peace_Brigade",
+  "/wiki/Gilded_Thranta",
+  "/wiki/9T-LOM",
+  "/wiki/Wizards.com",
+  "/wiki/Last_Call_at_Leatherback%27s",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

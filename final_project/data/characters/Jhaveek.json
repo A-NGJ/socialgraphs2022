@@ -1,0 +1,50 @@
+{
+ "name": "Jhaveek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Despayre"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mrlssi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jhaveek was a male Mrlssi philosopher who lived during the Galactic Civil War. In 0 BBY, Sergeant Nova Stihl studied Jhaveek's dissertations on metaphysics while stationed on Despayre. Jhaveek was presumably perished in the Destruction of Despayre.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Despayre",
+  "/wiki/Mrlssi",
+  "/wiki/Gender/Legends",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Nova_Stihl",
+  "/wiki/Destruction_of_Despayre",
+  "/wiki/Death_Star_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

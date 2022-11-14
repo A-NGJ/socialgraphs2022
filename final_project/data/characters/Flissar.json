@@ -1,0 +1,56 @@
+{
+ "name": "Flissar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Honoghr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Flissar was a Noghri who worked as a caretaker at a warehouse in New Nystao on Wayland in 12 ABY. Dal Konur broke into the warehouse by using a mind trick on Flissar and then stealing the Noghri's keys. He found the keys lieing on the ground near his workstation and then called the New Nystao police about it.\nA group of spacers turned up shortly afterwards and Flissar refused them access into the warehouse.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Honoghr/Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Nystao",
+  "/wiki/Wayland",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Dal_Konur",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Rebel_Jedi",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

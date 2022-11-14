@@ -1,0 +1,48 @@
+{
+ "name": "Selth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Selth was part of a group of bounty hunters hired by Governor Grigor on M'haeli to capture the rebel Mora. When the group's leader, Glott, incapacitated her and was subsequently attacked by Ranulf Trommer, he handed his captive off to Selth, who delivered her to Grigor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Grigor_(governor)",
+  "/wiki/M%27haeli/Legends",
+  "/wiki/Mora",
+  "/wiki/Glott",
+  "/wiki/Ranulf_Trommer/Legends",
+  "/wiki/River_of_Chaos_3"
+ ]
+}

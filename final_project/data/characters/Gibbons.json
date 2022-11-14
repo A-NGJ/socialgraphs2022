@@ -1,0 +1,51 @@
+{
+ "name": "Gibbons",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Eternal Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gibbons was a male Human Corporal of the Sith Empire. Following the Battle of Asylum he travelled to Odessen and joined the Alliance opposing the Eternal Empire of Zakuul, assigned to the Military branch of the Alliance under Admiral Bey'wan Aygo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Corporal/Legends",
+  "/wiki/Battle_of_Asylum",
+  "/wiki/Odessen",
+  "/wiki/Eternal_Empire",
+  "/wiki/Zakuul",
+  "/wiki/Bey%27wan_Aygo",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

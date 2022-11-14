@@ -1,0 +1,51 @@
+{
+ "name": "Dannik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dannik was a male Tarasin who lived on Cularin and was a teenager during the time of the Clone Wars. After there were some riots in the city of Gadrin, Dannik and the Human Kal were sent by the Cularin Militia to tail the Heroes of Cularin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarasin",
+  "/wiki/Dannik_Jerriko",
+  "/wiki/Cularin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Gadrin",
+  "/wiki/Human/Legends",
+  "/wiki/Kal_(Human)",
+  "/wiki/Cularin_Militia",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Night%27s_Promise"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Dern  (sergeant)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dern  was a male Human sergeant of the Galactic Republic. During the Galactic War he was stationed on Hoth, where he led a unit to reclaim the Tromper Crags Geothermal Plant from the Ortolan settlers under Ooren Tai. However, his unit was intercepted by the Sith Empire and Dern and his men were all killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Hoth/Legends",
+  "/wiki/Tromper_Crags_Geothermal_Plant",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Ooren_Tai",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

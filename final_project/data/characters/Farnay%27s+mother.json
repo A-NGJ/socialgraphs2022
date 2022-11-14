@@ -1,0 +1,59 @@
+{
+ "name": "Farnay's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Devaronian was the mother of Farnay, and the wife of Kivas. She lived in Tikaroo, a city on the planet Devaron and died a year before the Battle of Yavin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaron",
+  "/wiki/1_BBY",
+  "/wiki/Devaronian",
+  "/wiki/Gender",
+  "/wiki/Farnay",
+  "/wiki/Marriage",
+  "/wiki/Kivas",
+  "/wiki/Tikaroo",
+  "/wiki/City",
+  "/wiki/Planet",
+  "/wiki/Death",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Yavin",
+  "/wiki/The_Weapon_of_a_Jedi:_A_Luke_Skywalker_Adventure",
+  "/wiki/The_Weapon_of_a_Jedi:_A_Luke_Skywalker_Adventure_(audiobook)"
+ ]
+}

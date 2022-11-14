@@ -1,0 +1,35 @@
+{
+ "name": "Phontos Ojo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Garqi Agricultural University"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phontos Ojo was an Ithorian geneticist who taught at the Garqi Agricultural University.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Garqi_Agricultural_University",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Dro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dro was Callista Ming's uncle. He didn't like having fun and believed others shouldn't.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Callista_Ming",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dro",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

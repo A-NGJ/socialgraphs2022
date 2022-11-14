@@ -1,0 +1,36 @@
+{
+ "name": "Borkus  (Trandoshan)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borkus was a male Trandoshan merchant on Batuv who sold fabrics. He sold ameron skin to Lando Calrissian.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Borkus",
+  "/wiki/Trandoshan",
+  "/wiki/Gender",
+  "/wiki/Merchant",
+  "/wiki/Batuv",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Borkus_(Trandoshan)",
+  "/wiki/Lando_-_Double_or_Nothing_1"
+ ]
+}

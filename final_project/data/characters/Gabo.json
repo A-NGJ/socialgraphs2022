@@ -1,0 +1,65 @@
+{
+ "name": "Gabo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Pepeh Blangko",
+      "The Lluch",
+      "Admiral Shott"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Galbao the Wicked, also known as Gabo, was an Aqualish, wanted by the Republic Security Force for indecent exposure and illegal hologram distribution. His bounty was 3,000 credits alive and 1,500 dead.\nHe was captured on the Outland Transit Station by Jango Fett for 3,000 credits sometime after the Battle of Naboo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Republic_Security_Force/Legends",
+  "/wiki/Hologram/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Outland_Transit_Station",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

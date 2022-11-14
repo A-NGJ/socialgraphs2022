@@ -1,0 +1,61 @@
+{
+ "name": "Haddius Korden",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corulag"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Korden family",
+      "Korden Outfitting and Surveying"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haddius Korden was a male merchant from the planet of Corulag who lived during the time of the Galactic Republic. In about 12,000 BBY, Korden reformed his family's business into Korden Outfitting and Surveying, a firm that supplied equipment to colonists.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corulag/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Korden",
+  "/wiki/Korden_Outfitting_and_Surveying",
+  "/wiki/Merchant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/12,000_BBY/Legends",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

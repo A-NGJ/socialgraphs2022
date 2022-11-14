@@ -1,0 +1,70 @@
+{
+ "name": "Briff",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Varl"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rybet"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun",
+      "Bounty hunter"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Briff was a licensed bounty hunter and black marketeer in the Ord Mantell system.\nBriff was Czethros's henchman during the Human's early career as a bounty hunter. As such, Briff was sent to Kessel along with Czethros after Han Solo framed the bounty hunter in an effort to rescue Chewbacca. In the years after their release from Kessel, Briff continued to work for Czethros as an assistant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Varl/Legends",
+  "/wiki/Rybet/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Black_marketeer",
+  "/wiki/Bright_Jewel_system/Legends",
+  "/wiki/Czethros",
+  "/wiki/Human/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Young_Jedi_Knights:_Return_to_Ord_Mantell",
+  "/wiki/Databank_(original)"
+ ]
+}

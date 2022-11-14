@@ -1,0 +1,40 @@
+{
+ "name": "Makim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Makim was a physicist working at the Technical Branch Outpost on the planet Lotide.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Physicist",
+  "/wiki/Technical_Branch_Outpost_(Lotide)",
+  "/wiki/Planet/Legends",
+  "/wiki/Lotide",
+  "/wiki/Black_Ice_(adventure)"
+ ]
+}

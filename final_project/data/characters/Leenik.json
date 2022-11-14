@@ -1,0 +1,44 @@
+{
+ "name": "Leenik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Borga the Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leenik was the male Rodian majordomo for Borga the Hutt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Borga_Besadii_Diori",
+  "/wiki/Majordomo/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_II:_Jedi_Eclipse"
+ ]
+}

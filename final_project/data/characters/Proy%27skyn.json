@@ -1,0 +1,47 @@
+{
+ "name": "Proy'skyn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Drev'starn Department of Criminal Discouragement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Proy'skyn was an investigator with the Drev'starn Department of Criminal Discouragement who was sent to the Exoticalia Pet Emporium on a tip from Moranda Savich about a break-in.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Drev%27starn_Department_of_Criminal_Discouragement",
+  "/wiki/Drev%27starn",
+  "/wiki/Exoticalia_Pet_Emporium",
+  "/wiki/Moranda_Savich",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

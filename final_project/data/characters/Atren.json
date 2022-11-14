@@ -1,0 +1,67 @@
+{
+ "name": "Atren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Sith Order",
+      "Sith Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Atren was a Human male son of Darth Atroph and a Sith Lord himself who served the resurgent Sith Empire during the Galactic War. Stationed on Belsavis during 3641 BBY, he tasked an Imperial hero to free a group of insane Jedi being guarded by a Jedi Master Averon. Atren hoped that the maddened Jedi would bring further chaos to the Belsavis prison once released.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Order_(Sith_Empire)",
+  "/wiki/Darth_Atroph",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Belsavis/Legends",
+  "/wiki/3641_BBY",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Averon",
+  "/wiki/Belsavis_prison",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

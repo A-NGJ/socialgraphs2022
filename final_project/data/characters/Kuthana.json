@@ -1,0 +1,69 @@
+{
+ "name": "Kuthana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kuthana was a male Human Engineer of the Galactic Republic during the Galactic War. In 3642 BBY he was part of the escort that accompanied a Republic Senator and Darmas Pollaran to Port Nowhere alongside Presk, Matto, and Rowost when Port Nowhere got under attack by the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Engineer",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Darmas_Pollaran",
+  "/wiki/Port_Nowhere",
+  "/wiki/Presk",
+  "/wiki/Matto",
+  "/wiki/Rowost",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

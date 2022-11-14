@@ -1,0 +1,63 @@
+{
+ "name": "Debeli",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mrlsst"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mrlsst Trade and Science Academy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Debeli was male human negotiator that worked for President Gyr Keela at the Mrlsst Trade and Science Academy on the planet Mrlsst. He was present at the negotiation of the phantom cloaking device between the Galactic Empire and the New Republic, where he served as one of the supervisors. During the negotiations, the phantom device was stolen by Gade Yedan and the Ante-Endor Association, who had disguised themselves as members of the Alliance. The negotiations were cut short, and the rebel negotiator, Wedge Antilles, was arrested pending a investigation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mrlsst/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mrlsst_Trade_and_Science_Academy",
+  "/wiki/President/Legends",
+  "/wiki/Gyr_Keela",
+  "/wiki/Planet/Legends",
+  "/wiki/Phantom_Project",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Gade_Yedan",
+  "/wiki/Ante-Endor_Association",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_6"
+ ]
+}

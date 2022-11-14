@@ -1,0 +1,71 @@
+{
+ "name": "Bardbee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Five Points station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rayeth"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blue's partisans"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bardbee was a Rayeth male who was a member of Blue's Partisans. He was captured by Imperial Admiral Bethava Rocwyn on the planet Uchinao and interrogated on the space station Five Points. Later he died in the torment.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_BBY",
+  "/wiki/Five_Points",
+  "/wiki/Rayeth",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Blue%27s_partisans",
+  "/wiki/Blue_(Devaronian)",
+  "/wiki/Galactic_Empire",
+  "/wiki/Admiral",
+  "/wiki/Bethava_Rocwyn",
+  "/wiki/Uchinao",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bardbee",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

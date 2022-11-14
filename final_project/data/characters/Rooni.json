@@ -1,0 +1,54 @@
+{
+ "name": "Rooni",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Valltii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zerpen Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rooni was a blue skinned male Valltii who worked for Zerpen Industries with Galen Walton Erso.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Valltii",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Zerpen_Industries",
+  "/wiki/Nurboo",
+  "/wiki/Galen_Walton_Erso",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rooni",
+  "/wiki/Catalyst:_A_Rogue_One_Novel",
+  "/wiki/Catalyst:_A_Rogue_One_Novel_(audiobook)"
+ ]
+}

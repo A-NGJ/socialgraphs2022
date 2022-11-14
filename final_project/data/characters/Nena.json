@@ -1,0 +1,53 @@
+{
+ "name": "Nena",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Young"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nena was a Human from the planet Melida/Daan that headed the Housing Squad after the Battle of Zehava. Like other squad leaders who thought their projects were most important, Nena believed that rebuilding the housing destroyed during the Melida/Daan Civil War should be the the Young's top priority.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Housing_Squad",
+  "/wiki/Nena_(disambiguation)",
+  "/wiki/Melida/Daan",
+  "/wiki/Human/Legends",
+  "/wiki/The_Young",
+  "/wiki/Planet/Legends",
+  "/wiki/Battle_of_Zehava_(Young%E2%80%93Elders_War)",
+  "/wiki/Melida/Daan_Civil_War",
+  "/wiki/Jedi_Apprentice:_The_Uncertain_Path",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Frega",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Constitutional Protectorate of Prakith",
+      "Grand Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Frega was the Navigation master onboard the Grand Imperial Navy and former Imperial ship Tobay.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Constitutional_Protectorate_of_Prakith",
+  "/wiki/Grand_Imperial_Navy",
+  "/wiki/Navigation_master",
+  "/wiki/Tobay",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Frega",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

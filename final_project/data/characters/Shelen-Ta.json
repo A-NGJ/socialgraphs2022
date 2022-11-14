@@ -1,0 +1,56 @@
+{
+ "name": "Shelen-Ta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shelen-Ta was a female Voss. In the Spirit World at the Shrine of Healing she asked potential Voss Mystics questions as part of their trials and judged their responses.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Shelen-Ta",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Spirit_World",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Voss_Mystics",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shelen-Ta",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

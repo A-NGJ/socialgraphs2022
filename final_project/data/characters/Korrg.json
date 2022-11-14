@@ -1,0 +1,52 @@
+{
+ "name": "Korrg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Worrt"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green and brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Taka Jamoreesa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Korrg was a worrt and the pet of the pilot Taka Jamoreesa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Worrt",
+  "/wiki/Color",
+  "/wiki/Taka_Jamoreesa",
+  "/wiki/Pilot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Korrg",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Aymus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Left arm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aymus was a Weequay male aboard Port Tooga during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Port_Tooga",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Dead_in_the_Water",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Game_Master%27s_Kit"
+ ]
+}

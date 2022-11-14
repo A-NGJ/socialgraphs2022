@@ -1,0 +1,71 @@
+{
+ "name": "Fyn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fyn was a clone trooper sergeant who fought in the battle of Kothlis. He single-handedly saved some clone trooper when they were in trouble. After the battle, he brought a datapad with updated data on the previous bet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Clone_trooper_sergeant",
+  "/wiki/Battle_of_Kothlis_(Clone_Wars)",
+  "/wiki/Datapad/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fyn",
+  "/wiki/Clone_Wars_Gambit:_Stealth",
+  "/wiki/Clone_Wars_Gambit:_Stealth_(audiobook)"
+ ]
+}

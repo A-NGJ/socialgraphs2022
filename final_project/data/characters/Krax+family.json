@@ -1,0 +1,58 @@
+{
+ "name": "Krax family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Troob"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Stigrit Krax"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Krax"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Tahlboor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "6 BBY"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Krax family was a Troob family from Tahlboor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Troob",
+  "/wiki/Stigrit_Krax",
+  "/wiki/Krax",
+  "/wiki/Tahlboor",
+  "/wiki/6_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Ket_Krax",
+  "/wiki/Star_Wars_Droids:_The_Protocol_Offensive"
+ ]
+}

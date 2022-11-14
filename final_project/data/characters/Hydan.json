@@ -1,0 +1,55 @@
+{
+ "name": "Hydan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "FarStar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hydan was a male Rodian slicer who was part of the crew of the New Republic corvette FarStar during its mission to hunt down Moff Kentor Sarne in 8 ABY. Several weeks into the mission, Hydan was responsible for decrypting a transmission from Sarne to Captain Rolf Treidum indicating that they would meet in the Episol system.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Veris_Hydan",
+  "/wiki/Canon",
+  "/wiki/Gender/Legends",
+  "/wiki/FarStar",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Corvette/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Kentor_Sarne",
+  "/wiki/8_ABY/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Rolf_Treidum",
+  "/wiki/Episol_system",
+  "/wiki/The_DarkStryder_Campaign_(series)",
+  "/wiki/Little_Empires",
+  "/wiki/The_Kathol_Outback"
+ ]
+}

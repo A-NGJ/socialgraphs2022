@@ -1,0 +1,51 @@
+{
+ "name": "Gharcanna",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Before 25",
+      "793 BBY",
+      "Ska Gora"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gharcanna was a male Wookiee warlord living on Ska Gora in the Tythan system some years before 25,793 BBY. He fought the Je'daii Ranger Lanoree Brock to the death and was killed by her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/25,793_BBY",
+  "/wiki/Ska_Gora",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lanoree_Brock",
+  "/wiki/Warlord/Legends",
+  "/wiki/Tython_system/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Je%27daii_Ranger",
+  "/wiki/Dawn_of_the_Jedi:_Into_the_Void",
+  "/wiki/Dawn_of_the_Jedi:_Into_the_Void_(audiobook)"
+ ]
+}

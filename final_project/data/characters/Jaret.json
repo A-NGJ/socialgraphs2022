@@ -1,0 +1,67 @@
+{
+ "name": "Jaret",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jaret was the son of Garth and Ganeed, and nephew of the King Meenon of Senali. He married Mesan and had one child, Tawn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/Garth_(Senali)",
+  "/wiki/Ganeed",
+  "/wiki/King/Legends",
+  "/wiki/Meenon",
+  "/wiki/Mesan_(Senali)",
+  "/wiki/Tawn",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

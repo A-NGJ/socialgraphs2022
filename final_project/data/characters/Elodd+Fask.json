@@ -1,0 +1,52 @@
+{
+ "name": "Elodd Fask",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sedesia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elodd Fask was a rancher on the planet Sedesia and a member of the Alliance to Restore the Republic. Fask's ranch was a safe landing zone for Alliance operatives. Fask and their family were all killed by the Gray Death plague.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sedesia",
+  "/wiki/Human/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/FNV-23",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Cure",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

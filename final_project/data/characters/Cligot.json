@@ -1,0 +1,69 @@
+{
+ "name": "Cligot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Prakith"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "16 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Constitutional Protectorate of PrakithGrand Imperial Navy",
+      "Grand Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cligot was a Yeoman onboard the Bloodprice in 16 ABY.\nWhile onboard she was examined by her commanding officer, Captain Ors Dogot. She was killed along with the rest of the crew of the Bloodprice when it attacked the Teljkon Vagabond.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Prakith/Legends",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Constitutional_Protectorate_of_Prakith",
+  "/wiki/Grand_Imperial_Navy",
+  "/wiki/Yeoman/Legends",
+  "/wiki/Bloodprice",
+  "/wiki/Captain/Legends",
+  "/wiki/Ors_Dogot",
+  "/wiki/Death/Legends",
+  "/wiki/Teljkon_Vagabond",
+  "/wiki/Shield_of_Lies"
+ ]
+}

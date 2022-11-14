@@ -1,0 +1,69 @@
+{
+ "name": "Rac Syrmo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Carida Academy",
+      "Squadron Five",
+      "Carida Academy",
+      "Squadron Five"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rac Syrmo was a human male Imperial cadet at Carida Academy, training to be a TIE fighter pilot. Along with fellow cadet Bansu Ro, Syrmo was transferred into the 204th Imperial Fighter Wing.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Carida_Academy",
+  "/wiki/Squadron_Five_(Shadow_Wing)",
+  "/wiki/Imperial_cadet",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Cadet",
+  "/wiki/Bansu_Ro",
+  "/wiki/204th_Imperial_Fighter_Wing",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rac_Syrmo",
+  "/wiki/TIE_Fighter_4",
+  "/wiki/TIE_Fighter_5"
+ ]
+}

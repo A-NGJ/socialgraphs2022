@@ -1,0 +1,52 @@
+{
+ "name": "Ranja",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ranja was a human female who resided in a settlement on the desert planet Sergia. After Luke Skywalker robbed the local Galactic Empire payroll garrison, stormtroopers confronted Ranja, believing that she would know the culprit.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Desert",
+  "/wiki/Planet",
+  "/wiki/Sergia",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_payroll_garrison",
+  "/wiki/Stormtrooper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ranja",
+  "/wiki/Star_Wars_(2015)_72"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Cathers",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cathers was the Imperial governor of the planet Demnadi during the Galactic Civil War. Following attacks and riots perpetrated by the Alliance to Restore the Republic on Demnadi, he asked for assistance in dealing with the threat, and was glad when Major Fenris Sarhl of CompForce arrived. However, when Cathers questioned how many squads Sahrl's relief force consisted of, the major answered that he was the only one who was sent.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Fenris_Sarhl",
+  "/wiki/Governor/Legends#Imperial_Governors",
+  "/wiki/Planet/Legends",
+  "/wiki/Demnadi",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/CompForce/Legends",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

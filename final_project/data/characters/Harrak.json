@@ -1,0 +1,48 @@
+{
+ "name": "Harrak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harrak was an officer who served in the Army of the Imperial Remnant as a colonel. During his military career, he would also serve as an adviser to Grand Admiral Gilad Pellaeon. He was suspicious of the New Republic and viewed any request of military help from them a trap.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_II:_Ruin",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

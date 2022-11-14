@@ -1,0 +1,51 @@
+{
+ "name": "Idret",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The individual known only as Idret was an Imperial Intelligence agent active during the Galactic Civil War. Reputed to have ferreted out and neutralized hundreds of Alliance intelligence operatives from one end of the Galactic Empire to the other, he was placed in charge of operations concerned with eliminating spies who operated on behalf of movements opposed to the Empire in the Maldrood sector. After the executions of thirty Bothan spies by the Empire, a bounty of 500,000 credits was offered for the capture of Idret.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Maldrood_sector",
+  "/wiki/Bothan/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Heroes_%26_Rogues",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

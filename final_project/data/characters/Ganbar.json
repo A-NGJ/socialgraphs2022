@@ -1,0 +1,70 @@
+{
+ "name": "Ganbar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial MilitaryFifth InfantryFirst Battalion",
+      "Fifth InfantryFirst Battalion",
+      "First Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ganbar was a Human male Private who served in the First Battalion of the Fifth Infantry in the Imperial Military of the Sith Empire during the Cold War. His unit was led by Lieutenant Piloc.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Fifth_Infantry",
+  "/wiki/First_Battalion",
+  "/wiki/Private/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Piloc",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

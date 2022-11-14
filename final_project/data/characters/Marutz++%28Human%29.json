@@ -1,0 +1,57 @@
+{
+ "name": "Marutz  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marutz was a Human male serving as a Rebel Alliance general. He was captured by the Empire following the Battle of Hoth and imprisoned on the planet Etorasp before being taken aboard Darth Vader's Star Destroyer. He was eventually rescued by Luke Skywalker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Etorasp",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Star_Wars:_Yoda_Stories"
+ ]
+}

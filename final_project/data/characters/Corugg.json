@@ -1,0 +1,33 @@
+{
+ "name": "Corugg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corugg the Hutt lived during the New Order. The Hutt participated in a high-stakes sabacc game on Cloud City with the likes of Lando Calrissian, Queen Sula of Presteen, Moff Elior, agents of the Rebellion, and a number of other players.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Sula",
+  "/wiki/Presteen",
+  "/wiki/Moff/Legends",
+  "/wiki/Elior",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Rebellion_Era_Sourcebook"
+ ]
+}

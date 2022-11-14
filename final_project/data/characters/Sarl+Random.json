@@ -1,0 +1,64 @@
+{
+ "name": "Sarl Random",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bespin Wing Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sarl Random was a security officer on Cloud City. She was promoted to acting Security Chief of the city by Baron Administrator Lando Calrissian after bringing him evidence that his former security chief, EV-9D9, was responsible for destroying a quarter of Cloud City's droid population.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bespin_Wing_Guard/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Baron_Administrator/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/EV-9D9/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/A_Bad_Feeling:_The_Tale_of_EV-9D9",
+  "/wiki/Tales_from_Jabba%27s_Palace",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_80",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

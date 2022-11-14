@@ -1,0 +1,70 @@
+{
+ "name": "Ral  (person)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY",
+      "aboard the Rook"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Desilijic kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ral was a Human Hutt counselor who worked for the Desilijic kajidic. In 12 ABY, Ral had Ghitsa Dogder kidnapped and interrogated to learn about Durga Besadii Tai's investments in Orko Skymine. What he hadn't counted on was the arrival of Jedi Knight Kyp Durron and Ghitsa's partner Fenig Nabon who rescued Ghitsa and cut their way out of the Rook with Kyp's lightsaber. After Rook tried to escape, it was destroyed by hull breach when entering the planet atmosphere despite of Ghitsa's warning.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Rook_(Class_720_freighter)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Desilijic/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Hutt_counselor",
+  "/wiki/Ghitsa_Dogder",
+  "/wiki/Torture/Legends",
+  "/wiki/Durga_Besadii_Tai",
+  "/wiki/Orko_SkyMine_Asteroid_Processing_Corporation",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Kyp_Durron",
+  "/wiki/Fenig_Nabon",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Simple_Tricks",
+  "/wiki/Tales_from_the_New_Republic",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Mensant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mensant was a male Rodian gambler who lived during the Galactic Civil War. When the financier Veilred Jydor offered a rare Tchine statue as a prize in a sabacc tournament that was to be held in the High Card Casino on the planet Danteel, Mensant participated in the competition on the behalf of the Twi'lek Arvakke, who had attempted to rig the tournament. Using a skifter to cheat, the gambler Phramp deliberately threw hands to Mensant once every eight rounds, and Mensant soon built up a lead. However, the rival players Lando Calrissian and Zerba Cher'dak realized that something was amiss, and Cher'dak began cheating to counteract Phramp's efforts and reduce Mensant's lead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gambling/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Veilred_Jydor",
+  "/wiki/Tchine",
+  "/wiki/Sabacc/Legends",
+  "/wiki/High_Card_Casino",
+  "/wiki/Planet/Legends",
+  "/wiki/Danteel",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Arvakke",
+  "/wiki/Skifter/Legends",
+  "/wiki/Phramp",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Zerba_Cher%27dak",
+  "/wiki/Winner_Lose_All"
+ ]
+}

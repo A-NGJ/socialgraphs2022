@@ -1,0 +1,54 @@
+{
+ "name": "Rosset",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rosset was a member of the Council of Moffs in 40 ABY who opposed Grand Admiral Gilad Pellaeon. He was aboard the Bloodfin during the Second Battle of Fondor and supported Quille's coup against Pellaeon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Council_of_Moffs/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Bloodfin_(Star_Destroyer)",
+  "/wiki/Second_Battle_of_Fondor",
+  "/wiki/Quille",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/41_ABY",
+  "/wiki/Drikl_Lecersen",
+  "/wiki/Ephin_Sarreti",
+  "/wiki/Siralt"
+ ]
+}

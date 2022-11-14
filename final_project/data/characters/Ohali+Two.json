@@ -1,0 +1,80 @@
+{
+ "name": "Ohali Two",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "During or prior to 45 ABY",
+      "Base Prime"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "45 ABY",
+      "Base Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Exploitation Technologies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ohali Two was a female Duros clone, created by Marvid and Craitheus Qreph of Jedi Knight Ohali Soroc aboard Base Prime, Han Solo nicknamed Ditto. She was mentally deficient due to imperfections from Force-sensitive cloning. Ohali Two was killed by a stray laser bolt when Solo, working with Barduun, made his attempt to escape the Qrephs' clutches.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/45_ABY",
+  "/wiki/Base_Prime",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Exploitation_Technologies",
+  "/wiki/Cloning/Legends",
+  "/wiki/Marvid_Qreph",
+  "/wiki/Craitheus_Qreph",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Ohali_Soroc",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Barduun",
+  "/wiki/Crucible_(novel)",
+  "/wiki/Crucible_(audiobook)"
+ ]
+}

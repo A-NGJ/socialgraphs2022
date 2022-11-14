@@ -1,0 +1,47 @@
+{
+ "name": "Neechak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tern Ashandrik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neechak was a male Rodian gunrunner who worked for Tern Ashandrik. He stayed at the Callamvor Hotel when on Seregar. He was killed in his room there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tern_Ashandrik",
+  "/wiki/Callamvor_Hotel",
+  "/wiki/Seregar",
+  "/wiki/West_End_Games",
+  "/wiki/Seregar_Turnabout",
+  "/wiki/No_Disintegrations_(West_End_Games)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

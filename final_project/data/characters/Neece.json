@@ -1,0 +1,59 @@
+{
+ "name": "Neece",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rutan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rutanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Neece was a Rutan prison employee. He controlled the entries into this prison. Three of these entries were Qui-Gon Jinn, Padawan Obi-Wan Kenobi, and Drenna.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rutan/Legends",
+  "/wiki/Rutanian",
+  "/wiki/Gender/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Drenna",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

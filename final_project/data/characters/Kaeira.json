@@ -1,0 +1,74 @@
+{
+ "name": "Kaeira",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hidden Beks"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kaeira was a Human female who lived in the Lower City of Taris during the time of the Jedi Civil War and the Sith occupation of that world. She was a member of the Hidden Beks swoop gang and a bodyguard of its leader, Gadon Thek.\nKaeira is only encountered if the player takes the dark side choice to join the Black Vulkars and murder Gadon, subsequently killing her too.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hidden_Beks",
+  "/wiki/Lower_City",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Planet/Legends",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Gadon_Thek",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Black_Vulkars/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

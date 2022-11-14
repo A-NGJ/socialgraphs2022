@@ -1,0 +1,68 @@
+{
+ "name": "Galthra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Haruun Kal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Akk dog"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Liane Trevval"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Liane Trevval"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Galthra was a female Akk dog native to Haruun Kal. She had a Force bond with Liane Trevval. When Chalk died, she went mad and disappeared into the jungle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Haruun_Kal/Legends",
+  "/wiki/Akk_dog/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Liane_Trevval",
+  "/wiki/Force_bond",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Shatterpoint_(novel)"
+ ]
+}

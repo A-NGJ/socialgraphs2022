@@ -1,0 +1,54 @@
+{
+ "name": "Pollux",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "27 ABY",
+      "Nebula Chaser"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pollux was a male Human and captain of the passenger starship Nebula Chaser during the Yuuzhan Vong War. He died after the Jedi sisters Alema and Numa Rar escaped from the Nebula Chaser, and the Yuuzhan Vong punished him and his crew for allowing Jedi on board and not telling them about their presence.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pollux_Poi",
+  "/wiki/Pollux_Hax/Legends",
+  "/wiki/27_ABY/Legends",
+  "/wiki/Nebula_Chaser",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Jedi/Legends",
+  "/wiki/Alema_Rar",
+  "/wiki/Numa_Rar",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

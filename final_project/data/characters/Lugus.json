@@ -1,0 +1,67 @@
+{
+ "name": "Lugus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Drogheda"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Drogheda Revolutionaries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lugus was a member of the Drogheda Revolutionaries,who were trying to overthrow Queen Sarna, during the civil war on the planet Drogheda. He was stationed in the Mount Meru Mine, opposing the Drogheda Royal Guard. When Lando Calrissian infiltrated the mine and destroyed several water tanks inside the mine, which flooded the area, Lugus nearly drowned as he was washed out of the mine. However, one of his comrades was able to rescue him. It is unknown whether he was killed by the Royal Guard after being swept out of the mine. However, since nearly all the revolutionaries stationed in the mine were executed, Lugus likely died in the attack.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drogheda/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Drogheda_Revolutionaries",
+  "/wiki/Sarna_(Queen)",
+  "/wiki/Drogheda_Civil_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Mount_Meru_Mine",
+  "/wiki/Drogheda_Royal_Guard",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Star_Wars_(1977)_83",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

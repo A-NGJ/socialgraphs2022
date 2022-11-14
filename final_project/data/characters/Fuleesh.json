@@ -1,0 +1,36 @@
+{
+ "name": "Fuleesh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fuleesh was a Jawa who worked as a merchant aboard Carrick Station during the conflict between the Galactic Republic and the reconstituted Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Old_Republic_era",
+  "/wiki/Jawa/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Carrick_Station",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fuleesh",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

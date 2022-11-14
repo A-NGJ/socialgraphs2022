@@ -1,0 +1,57 @@
+{
+ "name": "Biller",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kuratooine governmentKura City Guard",
+      "Kura City Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Biller was a Human female police officer with the Kura City Guard. She held the rank of Detective and was partnered up with Detective Sergeant Husin. She was sent to investigate the kidnapping of Ledina Chott by the hands of Wraith Squadron, who were out to frame Galactic Alliance General Stavin Thaal in 44 ABY. Biller and Husin received the information of Chott's whereabouts from Kadd Yinkle, who had tracked down Chott's transponder signal to one of Thaal's warehouses, which he used to operate his various criminal activities.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kuratooine_government",
+  "/wiki/Kura_City_Guard",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Police_rank",
+  "/wiki/Detective/Legends",
+  "/wiki/Detective_Sergeant",
+  "/wiki/Husin",
+  "/wiki/Ledina_Chott",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/General/Legends",
+  "/wiki/Stavin_Thaal",
+  "/wiki/44_ABY",
+  "/wiki/Kadd_Yinkle",
+  "/wiki/X-Wing:_Mercy_Kill",
+  "/wiki/X-Wing:_Mercy_Kill_(audiobook)"
+ ]
+}

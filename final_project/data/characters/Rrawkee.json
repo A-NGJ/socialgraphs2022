@@ -1,0 +1,47 @@
+{
+ "name": "Rrawkee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kashyyyk Academy of Wrestling",
+      "Cularin Trade Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rrawkee was a Wookiee who lived on Cularin. He was a professional fighter and wore a bandolier with medallions and other tokens of his victory, to show off his fighting successes. During the Clone Wars, he decided to open the Kashyyyk Academy of Wrestling on Cularin and he operated a stall at the Cularin Trade Show, to try and recruit trainers for the Academy. He viewed the Cularin Trade Alliance as vital to the success of his business.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kashyyyk_Academy_of_Wrestling",
+  "/wiki/Cularin_Trade_Alliance",
+  "/wiki/Cularin/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cularin_Trade_Show",
+  "/wiki/For_Fun_and_Profit"
+ ]
+}

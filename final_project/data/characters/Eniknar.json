@@ -1,0 +1,79 @@
+{
+ "name": "Eniknar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Honoghr"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "29 ABY",
+      "Esfandia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eniknar was a male Noghri who was the Chief of Security at the Esfandia Long-Range Communications Base. He was believed to be the traitor at the base until he willingly sacrificed his life to destroy an antenna after the console was destroyed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Honoghr/Legends",
+  "/wiki/29_ABY/Legends",
+  "/wiki/Esfandia/Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Esfandia_Long-Range_Communications_Base",
+  "/wiki/Death/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

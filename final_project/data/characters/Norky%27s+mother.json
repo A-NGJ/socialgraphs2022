@@ -1,0 +1,50 @@
+{
+ "name": "Norky's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Norky's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of Norky was a female individual. Norky's mother lived with her husband and her son on the forest moon of Endor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Norky%27s_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Norky",
+  "/wiki/Parent/Legends",
+  "/wiki/Norky%27s_father",
+  "/wiki/Forest/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Norky%27s_mother",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/Bringing_Up_Norky"
+ ]
+}

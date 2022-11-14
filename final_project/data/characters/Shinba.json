@@ -1,0 +1,48 @@
+{
+ "name": "Shinba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shinba was a female Rodian.\nShe married successful businessman Kelko and had two children with him. It is believed that they met only after Kelko discovered his family fortune.\nIt is known that, when Kelko wanted to have an excursion in his ship, Dindoo's Glory, he always took his old, trusty droid WED00-88, instead of his family.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kelko",
+  "/wiki/Dindoo%27s_Glory",
+  "/wiki/WED00-88",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shinba",
+  "/wiki/Wizards.com",
+  "/wiki/Meet_Kelko:_Rodian_Fringer"
+ ]
+}

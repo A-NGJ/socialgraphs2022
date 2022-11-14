@@ -1,0 +1,49 @@
+{
+ "name": "Shardra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Before 0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shardra was an outlaw tech working in the Corporate Sector. She was in grease up to her elbows tweaking a spice freighter's alluvial dampers when she met Klaus \"Doc\" Vandangante, and the two mechanics immediately fell in love. Shardra introduced Doc to her profession, which he adopted. Eventually, they had a daughter, Jessa Vandangante. Shardra died in a fuel dump explosion, leaving Doc to raise their daughter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Outlaw_tech/Legends",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Alluvial_damper/Legends",
+  "/wiki/Klaus_Vandangante/Legends",
+  "/wiki/Jessa_Vandangante",
+  "/wiki/Han_Solo_and_the_Corporate_Sector_Sourcebook",
+  "/wiki/Databank_(original)"
+ ]
+}

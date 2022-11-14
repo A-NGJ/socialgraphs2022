@@ -1,0 +1,63 @@
+{
+ "name": "Banley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mantellian Separatist Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Banley was a Human male member of the Mantellian Separatist Movement during the Separatist War on the planet Ord Mantell. He was wounded, and was in the infirmary of Mannett Point when a member of Havoc Squad infiltrated the base; another wounded, Jex, was able to convince the soldier to leave them in peace.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mantellian_Separatist_Movement",
+  "/wiki/Separatist_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Mannett_Point",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Havoc_Squad",
+  "/wiki/Jex_(Separatist)",
+  "/wiki/Soldier/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

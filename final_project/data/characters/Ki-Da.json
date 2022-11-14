@@ -1,0 +1,58 @@
+{
+ "name": "Ki-Da",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ki-Da was a Voss Mystic living on the planet Voss. He created a ritual of cleansing that allowed both Voss and the outsiders to wander in the Nightmare Lands without losing their sanity.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Planet/Legends",
+  "/wiki/Nightmare_Lands",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ki-Da",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Krandak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krandak was a male Trandoshan living during the Galactic Civil War. He studied xenobiology to know the weaknesses of other species.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Xenobiology",
+  "/wiki/Species/Legends",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook",
+  "/wiki/No_Disintegrations_(Fantasy_Flight_Games)"
+ ]
+}

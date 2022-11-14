@@ -1,0 +1,41 @@
+{
+ "name": "Cel N'ero",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cel N'ero was a Twi'lek who lived in Mos Eisley. He was a known associate of Barin Trevina. Cel was a small time dealer in spice and black market items. He fancied himself as a high roller, but was in reality just a typical scoundrel.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Barin_Trevina",
+  "/wiki/Spice/Legends",
+  "/wiki/Black_market/Legends",
+  "/wiki/Scoundrel",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

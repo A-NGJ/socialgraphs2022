@@ -1,0 +1,52 @@
+{
+ "name": "Ophi Egra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jakku"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ophi Egra was a human female villager in Tuanul.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Jakku",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Tuanul",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ophi_Egra",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

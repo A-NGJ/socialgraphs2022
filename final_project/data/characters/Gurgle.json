@@ -1,0 +1,36 @@
+{
+ "name": "Gurgle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gurgle was a Quarren underworld boss on Dac.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Rough_and_Tundra"
+ ]
+}

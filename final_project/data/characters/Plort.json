@@ -1,0 +1,62 @@
+{
+ "name": "Plort",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Targonn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Targonnian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Craw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plort was a Targonnian in the employ of Dictator-Forever Craw. Plort led an attack on Zorneth's Ithorian Herdship.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Targonn/Legends",
+  "/wiki/Targonnian",
+  "/wiki/Gender/Legends",
+  "/wiki/Craw",
+  "/wiki/Dictator-Forever",
+  "/wiki/Zorneth",
+  "/wiki/Ithorian_Herdship/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Plort",
+  "/wiki/Droids_(1995)_8",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "name": "Jesh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Quesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jesh was a male Human captain in the Imperial Military of the reconstituted Sith Empire during the Galactic War. Stationed on Quesh during the Quesh war, he attempted to prevent defection of Imperial scientist Doctor Orlian by taking him into custody and torturing him to get the name of his Republic contact. When Attis Station was attacked by a Republic citizen looking to extract Orlian, Jesh and his men attempted to stop him, but were killed during the fighting.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Quesh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Quesh_war",
+  "/wiki/Doctor/Legends",
+  "/wiki/Orlian",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Attis_Station",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Renishi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Renishi was a Jawa male who lived on Tatooine during the Cold War between the Galactic Republic and the reconstituted Sith Empire. In 3643 BBY, Renishi tasked a Republic-aligned spacer to help the Jawas take back their home from the Geonosians.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3643_BBY",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Renishi",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

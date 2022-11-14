@@ -1,0 +1,50 @@
+{
+ "name": "Hawj",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thoran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hawj was a Bothan diplomat and author from the planet Thoran during the Galactic Civil War. During the early years of the Galactic Empire, Hawj pursued a business alliance with Skydove Freight. An aspiring novelist, he planned to base a holonovel on his family and Popara the Hutt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thoran",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Skydove_Freight",
+  "/wiki/Holobook/Legends",
+  "/wiki/Popara_Anjiliac_Diresto",
+  "/wiki/Hutt/Legends",
+  "/wiki/Tempest_Feud",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Gamma Four",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicGamma Squad",
+      "Grand Army of the RepublicGamma Squad",
+      "Gamma Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gamma Four was a clone commando, who served the Galactic Republic during the Clone Wars. He was a member of Gamma Squad and he accompanied the unit when it was sent to infiltrate a droid factory on the planet Cularin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Gamma_Squad_(Galactic_Republic)",
+  "/wiki/Clone_commando/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Mission_to_Cularin",
+  "/wiki/Droid/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Closed_Circuits"
+ ]
+}

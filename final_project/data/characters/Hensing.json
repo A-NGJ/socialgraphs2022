@@ -1,0 +1,50 @@
+{
+ "name": "Hensing",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Defel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cavrilhu Pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hensing was a male Defel with the Cavrilhu Pirates in 19 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Defel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cavrilhu_Pirates",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)"
+ ]
+}

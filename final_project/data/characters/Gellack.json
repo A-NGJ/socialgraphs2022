@@ -1,0 +1,60 @@
+{
+ "name": "Gellack",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Essowyn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Saurton"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tresycht",
+      "Council of Elders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "High Priest of the nation of Tresycht, Gellack was a male Saurton. Along with the help of the Messert Mines Corporation, Gellack took control of the planet Essowyn and organized what evolved into the Council of Elders.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Essowyn",
+  "/wiki/Saurton",
+  "/wiki/Gender/Legends",
+  "/wiki/Tresycht",
+  "/wiki/Council_of_Elders_(Saurton)",
+  "/wiki/Messert_Mines_Corporation",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gellack",
+  "/wiki/Planets_of_the_Galaxy,_Volume_One",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

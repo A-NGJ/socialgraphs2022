@@ -1,0 +1,73 @@
+{
+ "name": "Sirhka",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Honoghr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sirhka was one of the six Noghri to accompany Corran Horn's commando team to Garqi in 25 ABY. During their escape from Garqi, Ganner Rhysode asked Sirhka to seal the wound on his face, purposefully leaving a scar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Honoghr/Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Corran_Horn",
+  "/wiki/Garqi/Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Ganner_Rhysode",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sirhka",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_II:_Ruin"
+ ]
+}

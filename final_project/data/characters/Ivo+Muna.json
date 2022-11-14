@@ -1,0 +1,48 @@
+{
+ "name": "Ivo Muna",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sorrus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sorrusian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ivo Muna posed as a doctor at the Sorrus Medical Center in order to aid Ona Nobis in apprehending Astri Oddo and Obi-Wan Kenobi.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sorrus",
+  "/wiki/Sorrusian",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Sorrus_Medical_Center",
+  "/wiki/Ona_Nobis",
+  "/wiki/Astri_Oddo",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Dangerous_Rescue",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

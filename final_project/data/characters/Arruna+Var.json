@@ -1,0 +1,36 @@
+{
+ "name": "Arruna Var",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Arruna Var was the Twi'lek female engineer of Javul Charn's private yacht, the Nova's Heart.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Javul_Charn",
+  "/wiki/Yacht/Legends",
+  "/wiki/Nova%27s_Heart",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arruna_Var",
+  "/wiki/Shadow_Games"
+ ]
+}

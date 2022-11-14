@@ -1,0 +1,73 @@
+{
+ "name": "Karlon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Sometime ABY",
+      "Bresnia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karlon was an Aqualish Rebel agent.\nAfter the death of Karlon's parents on Ando, Karlon was responsible for the upbringing of his younger sister Gondara.\nKarlon and Gondara joined the Rebel Alliance. He also became best friends with Tamo Lan, the medic of Shroud Team.\nUnfortunately, Karlon was killed in a battle against Imperial forces on Bresnia. Tamo Lan took Gondara under his wing after that.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Galactic_Standard_Calendar",
+  "/wiki/Bresnia",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Gondara",
+  "/wiki/Tamo_Lan",
+  "/wiki/Medic/Legends",
+  "/wiki/Shroud_Team",
+  "/wiki/Battle_of_Bresnia",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Cracken%27s_Rebel_Operatives_(article)",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

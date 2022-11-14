@@ -1,0 +1,64 @@
+{
+ "name": "Shaedo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaleesh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shaedo was a male Kaleesh pirate employed by the Hutt Cartel to bring supplies to Darvannis at around 3638 BBY. However, the Kaleesh was caught by Imperials and was subsequently brought to Moff Varnus Orlec upon the Harrower-class dreadnought Ziost Shadow. Orlec managed to have Shaedo leak information in exchange for a pardon and a meal, thus learning everything the Kaleesh knew about Hutt activities on Darvannis.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kaleesh/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Pirate/Legends",
+  "/wiki/Darvannis",
+  "/wiki/3638_BBY",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Moff/Legends",
+  "/wiki/Varnus_Orlec",
+  "/wiki/Harrower-class_dreadnought",
+  "/wiki/Ziost_Shadow",
+  "/wiki/Foodstuff/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

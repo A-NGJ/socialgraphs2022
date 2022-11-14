@@ -1,0 +1,56 @@
+{
+ "name": "Grimyk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Cademimu V"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grimyk was a Wookiee male Captain living during the Galactic War. In 3642 BBY he was on Cademimu V during the Cademimu uprising by the governor Chornarov. A strike team sent to take control of the Cademimu missile batteries from Chornarov engaged Grimyk and killed him.\nCaptain Grimyk appears in Star Wars: The Old Republic as a boss during the \"Cademimu\" flashpoint.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Cademimu_V",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Cademimu_uprising",
+  "/wiki/Chornarov",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

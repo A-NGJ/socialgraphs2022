@@ -1,0 +1,58 @@
+{
+ "name": "Murra's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tauntaun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Murra's herd"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A tauntaun female was the matriach of the herd which her daughter Murra later led.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Murra_(disambiguation)",
+  "/wiki/Hoth",
+  "/wiki/Tauntaun",
+  "/wiki/Gender",
+  "/wiki/Murra_(tauntaun)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Murra%27s_mother",
+  "/wiki/She_Will_Keep_Them_Warm",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

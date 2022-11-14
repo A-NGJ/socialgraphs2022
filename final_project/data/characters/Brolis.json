@@ -1,0 +1,53 @@
+{
+ "name": "Brolis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brolis was a Republic commander who served in the Grand Army of the Republic after the start of the Clone Wars, and was one of the few survivors in the disastrous Battle of Axion.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Battle_of_Axion",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brolis",
+  "/wiki/Duel",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

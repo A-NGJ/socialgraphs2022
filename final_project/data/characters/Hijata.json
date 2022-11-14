@@ -1,0 +1,79 @@
+{
+ "name": "Hijata",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY",
+      "Korriban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Sith Academy",
+      "Sith Academy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hijata was a male Human. He was a student at the Sith Academy on Korriban in the year of 3956 BBY.\nIt is likely that Hijata was an error, given that the player can't have any dialog with him and because he is identical to the other students and guards at the Academy and has the same lines as them.\nOn the PC release there are four lines of dialog in the file kor35_hijata.dlg  and all four are assigned Ithorian voice files. If used that would obviously have conflicted with his appearance, so one could assume his appearance was altered when he was downgraded to \"un-interactible\".",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Korriban",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Sith_Academy_(Korriban)",
+  "/wiki/Sith_hopeful",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/Knights_of_the_Old_Republic_Campaign_Guide"
+ ]
+}

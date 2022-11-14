@@ -1,0 +1,50 @@
+{
+ "name": "Hron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Abyssin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rampa Rancors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hron was an Abyssin who played as the star shock-back for the Rampa Rancors. Prior to a match between the Rancors and the Dargul Dianogas at the Innerdome Arena of Nwarcol Point, he refused to throw the game for the Black Sun Vigo Sprax. This resulted in Sprax's underling Kisquar hiring agents to insure Hron did not play.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Abyssin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rampa_Rancors",
+  "/wiki/Shock-back",
+  "/wiki/Dargul_Dianogas",
+  "/wiki/Innerdome_Arena",
+  "/wiki/Nwarcol_Point",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Vigo/Legends",
+  "/wiki/Sprax",
+  "/wiki/Kisquar",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

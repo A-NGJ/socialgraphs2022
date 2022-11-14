@@ -1,0 +1,36 @@
+{
+ "name": "Kharmoth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Talz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kharmoth was a Talz male who served as the elder of a small village. During negotiations with a group of pirates led by Arra Somori, who had been extorting the village for payments, Kharmoth was suspicious of the crew, leading to the aggression of Somori's first mate Elkan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Talz",
+  "/wiki/Gender",
+  "/wiki/Pirate",
+  "/wiki/Arra_Somori",
+  "/wiki/First_Mate",
+  "/wiki/Elkan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kharmoth",
+  "/wiki/Disciples_of_Harmony"
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "name": "Bren  (clone trooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Grand Army of the RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bren was the nickname of a clone trooper who was a petty officer on the Republic assault ship Leveler under command of Captain Gilad Pellaeon in 22 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Petty_officer/Legends",
+  "/wiki/Acclamator-class_assault_ship",
+  "/wiki/Leveler",
+  "/wiki/Captain/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/The_Clone_Wars:_No_Prisoners",
+  "/wiki/The_Clone_Wars:_No_Prisoners_(audiobook)",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

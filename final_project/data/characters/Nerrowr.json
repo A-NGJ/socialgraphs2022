@@ -1,0 +1,52 @@
+{
+ "name": "Nerrowr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Organization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nerrowr was a Wookiee who, along with the Rodians Nesha, Besha, and Kesha, once worked for Riboga the Hutt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Organization",
+  "/wiki/Rodian/Legends",
+  "/wiki/Nesha",
+  "/wiki/Besha",
+  "/wiki/Kesha",
+  "/wiki/Riboga",
+  "/wiki/Hutt/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nerrowr",
+  "/wiki/Wizards.com",
+  "/wiki/Stories_of_Caarimon",
+  "/wiki/Riboga%27s_Legacy"
+ ]
+}

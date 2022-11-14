@@ -1,0 +1,75 @@
+{
+ "name": "Grupp",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nam Chorios"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hweg Shul Municipal Police"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grupp was a fat male Human and a member of the Hweg Shul Municipal Police. He and his partner Snaplaunce saved Luke Skywalker from near death at the hands of Taselda's followers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nam_Chorios/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hweg_Shul_Municipal_Police",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Hweg_Shul",
+  "/wiki/Law_enforcement_agency/Legends",
+  "/wiki/Snaplaunce",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Taselda",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Grupp",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

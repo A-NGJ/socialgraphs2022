@@ -1,0 +1,66 @@
+{
+ "name": "Gad Sluggins",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Peace Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gad \"Slug\" Sluggins was a member of the Peace Brigade who in 26 ABY tried to capture Leia Organa Solo on Corellia only to be shot between the shoulder blades with a stun bolt by Han Solo. His leader Roxi Barl was killed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Peace_Brigade",
+  "/wiki/26_ABY",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Roxi_Barl",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gad_Sluggins",
+  "/wiki/The_New_Jedi_Order:_Recovery"
+ ]
+}

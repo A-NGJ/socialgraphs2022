@@ -1,0 +1,59 @@
+{
+ "name": "Garatty ke Kith",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Adumar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cartann"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garatty ke Kith was an Adumari who had a feud with Irasal ke Voltin. ke Kith was jumped by ke Voltin as he was going in to his apartment. ke Kith lost the duel and New Republic pilot Wes Janson, who witnessed the duel, believed him to be dead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adumar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cartann",
+  "/wiki/Irasal_ke_Voltin",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Wes_Janson/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/X-Wing:_Starfighters_of_Adumar"
+ ]
+}

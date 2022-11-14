@@ -1,0 +1,48 @@
+{
+ "name": "Jekobra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Givin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Jekobra was a male Givin scientist who worked for the Galactic Empire, developing many sinister innovations for the authoritarian regime. During the Iron Blockade of the Anoat sector by the Empire, a young smuggler from Burnin Konn organized an attack on Jekobra's laboratory to try and steal the Givin's latest work.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Givin",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Doctor",
+  "/wiki/Scientist",
+  "/wiki/Iron_Blockade",
+  "/wiki/Anoat_sector",
+  "/wiki/The_Smuggler",
+  "/wiki/Burnin_Konn",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

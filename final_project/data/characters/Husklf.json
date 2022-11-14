@@ -1,0 +1,67 @@
+{
+ "name": "Husklf",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nimbanel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chalmun's Spaceport Cantina"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Husklf was a male Nimbanel bartender who staffed Chalmun's private bar in Chalmun's Spaceport Cantina.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Husklf",
+  "/wiki/Husklf/Legends",
+  "/wiki/Nimbanel",
+  "/wiki/Chalmun",
+  "/wiki/Unidentified_Nimbanel_bartender",
+  "/wiki/Chalmun%27s_Spaceport_Cantina",
+  "/wiki/Clone_Wars",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Bartender",
+  "/wiki/Star_Wars:_Complete_Locations_(2016)"
+ ]
+}

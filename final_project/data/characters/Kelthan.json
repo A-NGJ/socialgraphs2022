@@ -1,0 +1,64 @@
+{
+ "name": "Kelthan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelthan was a male Twi'lek Jedi Master of the Galactic Republic. During the Galactic War he came to the planet Voss, where he ventured in the Nightmare Lands and asked a Republic individual for assistance in combating the darkness there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Voss",
+  "/wiki/Nightmare_Lands",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kelthan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

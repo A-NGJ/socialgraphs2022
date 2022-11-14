@@ -1,0 +1,68 @@
+{
+ "name": "Oarr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oarr was a pureblood Sith male who, lacking Force-sensitivity, served as a lieutenant in the Imperial Military. He worked as a vendor on board the Imperial station which orbited Ilum.\nOarr first appeared in Star Wars: The Old Republic as a security key vendor on the Imperial orbital station above Ilum.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Ilum_Orbital_Station_(Imperial)",
+  "/wiki/Orbit/Legends",
+  "/wiki/Ilum/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

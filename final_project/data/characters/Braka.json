@@ -1,0 +1,32 @@
+{
+ "name": "Braka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Braka was an Ugnaught guild leader and forger on Cloud City. Braka worked with Restria Venteger to engineer a tibanna gas miner strike to embarrass the new Imperial governor, Henris Octavian.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Forger_(profession)/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Restria_Venteger",
+  "/wiki/Tibanna/Legends",
+  "/wiki/Gas/Legends",
+  "/wiki/Miner/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Henris_Octavian",
+  "/wiki/Gamemaster_Toolkit:_Live-Action_Adventures"
+ ]
+}

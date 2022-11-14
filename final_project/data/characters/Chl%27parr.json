@@ -1,0 +1,55 @@
+{
+ "name": "Chl'parr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chelidae"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Reddish-white"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance",
+      "Team Colossus",
+      "Team Colossus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chl'parr was a Chelidae maintenance worker on the Colossus platform on Castilon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chelidae",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Team_Colossus",
+  "/wiki/Neeku_Vozo",
+  "/wiki/Colossus",
+  "/wiki/Castilon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chl%27parr",
+  "/wiki/Star_Wars_Resistance",
+  "/wiki/The_Children_from_Tehar",
+  "/wiki/Bibo_(episode)",
+  "/wiki/Descent_(episode)",
+  "/wiki/No_Escape:_Part_1",
+  "/wiki/The_Engineer"
+ ]
+}

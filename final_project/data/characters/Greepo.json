@@ -1,0 +1,55 @@
+{
+ "name": "Greepo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Greepo was a male Rodian who lived during the Cold War between the Galactic Republic and the Sith Empire. He once met with a Human named Hun Duo in the cantina of Nem'ro's Palace on Nal Hutta.\nGreepo first appeared in the video game Star Wars: The Old Republic as an easter egg, referencing the meeting between Han Solo and Greedo in Star Wars: Episode IV A New Hope. While Greepo is classified as a Level 1 Weak Pistoleer, Hun Duo is classified as a Level 3 Strong Quickshot, thus acknowledging Solo's victory over Greedo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Human/Legends",
+  "/wiki/Hun_Duo",
+  "/wiki/Cantina/Legends",
+  "/wiki/Nem%27ro%27s_Palace",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Greedo/Legends",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Han_shot_first"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Pakku",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pakku was a male Human who served as a stormtrooper in the Imperial Navy. He was assigned to the stormtrooper contingent aboard the Imperial I-class Star Destroyer Imperator as of 1 BBY.\nPakku was a member of the platoon that had been assigned to Cadet Leader Kyle Katarn for Katarn's Omega Exercise and participated in the ensuing battle. He was tasked by Sergeant Major Hong to set some explosive charges before Rebel Alliance reinforcements arrived.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sergeant_major/Legends",
+  "/wiki/Hong",
+  "/wiki/File:PakkuSetSomeCharges-DFSftE.ogg",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Imperial_I-class_Star_Destroyer/Legends",
+  "/wiki/Imperator_(Imperial-class)",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Platoon/Legends",
+  "/wiki/Cadet_Leader",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Omega_Exercise",
+  "/wiki/Battle_of_AX-456",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire_audio_drama"
+ ]
+}

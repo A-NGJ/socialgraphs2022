@@ -1,0 +1,73 @@
+{
+ "name": "Niru",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cantros 7"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cantrosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel Alliance",
+      "Alliance of Free Planets"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Niru was a Cantrosian who supported the Rebel Alliance in the Cantros system.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cantros_7",
+  "/wiki/Cantrosian",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_of_Free_Planets",
+  "/wiki/Cantros_system",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Niru",
+  "/wiki/Star_Wars_(1977)_93",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

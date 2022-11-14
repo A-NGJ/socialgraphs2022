@@ -1,0 +1,65 @@
+{
+ "name": "Gratloe",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy",
+      "Gratloe's faction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gratloe was a human male admiral who served in the Imperial Navy of the Galactic Empire. Gratloe was in command of the Imperial-class Star Destroyer Celerity, and decided to create his own Imperial faction in the Kudo system.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy",
+  "/wiki/Gratloe%27s_faction",
+  "/wiki/Admiral",
+  "/wiki/Commanding_officer",
+  "/wiki/Imperial-class_Star_Destroyer",
+  "/wiki/Celerity",
+  "/wiki/Kudo_system",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gratloe",
+  "/wiki/TIE_Fighter_1",
+  "/wiki/TIE_Fighter_2",
+  "/wiki/TIE_Fighter_3",
+  "/wiki/TIE_Fighter_4",
+  "/wiki/TIE_Fighter_5"
+ ]
+}

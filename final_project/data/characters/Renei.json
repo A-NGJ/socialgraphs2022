@@ -1,0 +1,61 @@
+{
+ "name": "Renei",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 91 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Melida"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Renei was the sibling of Wunana, child of Quintama and Pinani, and grandchild of Bicha and Tiraca. Renei perished alongside Wunana in the Twenty-Second Battle of Zehava.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/91_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Melida",
+  "/wiki/Wunana",
+  "/wiki/Quintama",
+  "/wiki/Pinani",
+  "/wiki/Bicha",
+  "/wiki/Tiraca",
+  "/wiki/Twenty-Second_Battle_of_Zehava",
+  "/wiki/Jedi_Apprentice:_The_Defenders_of_the_Dead",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

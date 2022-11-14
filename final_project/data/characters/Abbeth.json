@@ -1,0 +1,61 @@
+{
+ "name": "Abbeth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Havoc Squad",
+      "Havoc Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Abbeth was a male Kel Dor who served in the Republic Army as a member of Havoc Squad, an elite unit in the Republic Special Forces Division. He served under Major Aric Jorgan in the years after the Eternal Empire's conquest of the galaxy, and participated in Jorgan's guerrilla war against Zakuul after they went rogue.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Havoc_Squad",
+  "/wiki/Republic_Army",
+  "/wiki/Republic_Special_Forces_Division",
+  "/wiki/Major/Legends",
+  "/wiki/Aric_Jorgan",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Eternal_Empire_conquest",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Zakuul",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

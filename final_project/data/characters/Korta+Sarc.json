@@ -1,0 +1,40 @@
+{
+ "name": "Korta Sarc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Prior to 8 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shistavanen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Korta Sarc was a Shistavanen Alpha Premier before 8 BBY. Sarc suddenly disappeared and the Uvena System Constabulary assigned two Shistavanen scouts, Lak Sivrak and Yurdak Fav, to join the search. Sarc's was eventually found murdered inside the Jenet embassy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/8_BBY",
+  "/wiki/Shistavanen/Legends",
+  "/wiki/Alpha_Premier",
+  "/wiki/Uvena_System_Constabulary",
+  "/wiki/Lak_Sivrak/Legends",
+  "/wiki/Yurdak_Fav",
+  "/wiki/Jenet/Legends",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

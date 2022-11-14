@@ -1,0 +1,67 @@
+{
+ "name": "Peller",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Starfighter Corps",
+      "Republic Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Peller was a Sullustan male pilot who served in the Galactic Republic's Starfighter Corps during the third Galactic War. During the Invasion of Ossus, Peller led two squadrons of PT-7 starfighters, red group and blue group to defend the planet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Starfighter_Corps/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Invasion_of_Ossus",
+  "/wiki/Squadron/Legends",
+  "/wiki/PT-7_starfighter",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Peller",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Ossus/Legends"
+ ]
+}

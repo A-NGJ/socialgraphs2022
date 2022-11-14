@@ -1,0 +1,83 @@
+{
+ "name": "Carsiri",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Balmorran resistance",
+      "Balmorran resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Carsiri was a Human male doctor who lived during the Galactic War. On Balmorra, he was forced into working on the Barrager weapon for the reconstituted Sith Empire, but defected to the Galactic Republic at first opportunity. He helped Cassius Madine locate the weapon and after his overseer Darth Minax was killed, assumed the Republic would destroy the weapon. He was disappointed when Madine wanted the keep it, because the Barrager could damage the entire planet if ever used.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Barrager",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cassius_Madine",
+  "/wiki/Darth_Minax",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

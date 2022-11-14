@@ -1,0 +1,60 @@
+{
+ "name": "Leo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Tan"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leo was a Human male padawan who visited the Jedi academy within the Jedi Temple on Coruscant during Roan Novachez's third year of attendance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Jedi_academy",
+  "/wiki/Jedi_Temple",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Roan_Novachez",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Leo",
+  "/wiki/Jedi_Academy:_The_Phantom_Bully"
+ ]
+}

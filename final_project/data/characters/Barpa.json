@@ -1,0 +1,34 @@
+{
+ "name": "Barpa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barpa was a Besalisk male veteran who was a good friend of Lando Calrissian.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Besalisk",
+  "/wiki/Gender",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barpa",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Gnarls",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anooba"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gnarls was a tamed Anooba from Tatooine.\nGnarls is a pet obtainable in Star Wars: Clone Wars Adventures.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Anooba/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)",
+  "/wiki/Wookieepedia:Stub"
+ ]
+}

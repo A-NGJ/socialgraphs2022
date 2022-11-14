@@ -1,0 +1,77 @@
+{
+ "name": "Blessing",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Frozen moon"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "41 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Community"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Blessing was one of the two daughters of Hunter and Alpha, two Force-sensitive clones produced on a frozen moon in the Unknown Regions. She, along with her sister, Grace, and nearly all of the other clones save for Soldier, had begun suffering an illness once they left the moon for Mother. Blessing succumbed to the sickness on Fhost.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Frozen_moon",
+  "/wiki/41_ABY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Community",
+  "/wiki/Hunter_(clone)",
+  "/wiki/Alpha_(clone)",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Grace_(Human)",
+  "/wiki/Soldier_(clone)",
+  "/wiki/Mother_(Rakatan_entity)",
+  "/wiki/Crosscurrent",
+  "/wiki/Riptide_(novel)"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Credi Solfinn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Deaon"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Credi Solfinn was a male Deaon who served as an advisor to Queen Nehanna of Ord Gimmel. After her disappearance, Solfinn became Acting Regent of the planet. He spent much of his time as regent continuing Nehanna's policies and attempting to find her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Deaon/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Nehanna",
+  "/wiki/Ord_Gimmel/Legends",
+  "/wiki/Regent/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

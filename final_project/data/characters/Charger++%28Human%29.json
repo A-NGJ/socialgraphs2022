@@ -1,0 +1,45 @@
+{
+ "name": "Charger  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Charger's Irregulars"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Charger was a mercenary who commanded his own unit, Charger's Irregulars. A small but effective unit, the Irregulars specialized in brushfire wars and hot spot conflicts. In combat, Charger was a tightly wound commander, shouting orders and commands. Out of combat, Charger was soft-spoken and polite. While the Irregulars were exclusively Human, Charger had no qualms about working with aliens although he found it easier to command beings of his own species.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Charger%27s_Irregulars",
+  "/wiki/Major/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

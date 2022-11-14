@@ -1,0 +1,45 @@
+{
+ "name": "Nenneb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "SoroSuub Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nenneb was a Sullustan engineer who worked for the SoroSuub Corporation. He was sent to represent the company at the Cularin Trade Show during the Clone Wars and he exhibited their Firelance blaster rifle there.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/SoroSuub_Corporation/Legends",
+  "/wiki/Cularin_Trade_Show",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/GLX_Firelance",
+  "/wiki/For_Fun_and_Profit"
+ ]
+}

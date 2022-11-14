@@ -1,0 +1,58 @@
+{
+ "name": "Rom",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twin Horns Storage"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rom was a Rodian male who worked as an enforcer for Twin Horns Storage on Lothal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Twin_Horns_Storage",
+  "/wiki/Lothal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rom",
+  "/wiki/Adventures_in_Wild_Space:_The_Steal"
+ ]
+}

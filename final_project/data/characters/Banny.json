@@ -1,0 +1,50 @@
+{
+ "name": "Banny",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Banny was a human male reporter on Lanz Carpo who interviewed District Advocate Dar Champion after he arrested three corrupt Red Carpo Guards.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Journalist",
+  "/wiki/Lanz_Carpo",
+  "/wiki/District_Advocate",
+  "/wiki/Dar_Champion",
+  "/wiki/Red_Carpo_Guard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Banny",
+  "/wiki/Star_Wars_(2015)_69"
+ ]
+}

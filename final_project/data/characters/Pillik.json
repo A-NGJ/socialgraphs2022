@@ -1,0 +1,47 @@
+{
+ "name": "Pillik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Omwat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Omwati"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pillik was a young male Omwati who was taken by the Empire to be trained  to build superweapons for the Empire. During a test, he had a seizure and was removed by stormtroopers, screaming that he wanted to finish the test. Due to his failure, his home city was destroyed by the Empire and he was executed.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Omwat/Legends",
+  "/wiki/Omwati/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Qwi_Xux",
+  "/wiki/Superweapon/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Jedi_Search",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Shoola",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shoola was a female Hutt and the owner of Port Tooga during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Port_Tooga",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Dead_in_the_Water",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Game_Master%27s_Kit"
+ ]
+}

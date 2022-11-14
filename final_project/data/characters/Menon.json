@@ -1,0 +1,76 @@
+{
+ "name": "Menon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tevel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tevellan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Menon was a Tevellan male who attempted to fight back from First Order control of a bacta production plant on Tevel, along with Karkan and Tarina. The Resistance operatives Finn and Poe Dameron were sent to assist the Tevellans after Karkan requested help. While Menon was initially distrusting of the Resistance, believing they only cared about the bacta, he worked with them and eventually managed to liberate the production plant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tevel",
+  "/wiki/Tevellan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/First_Order",
+  "/wiki/Bacta",
+  "/wiki/Karkan",
+  "/wiki/Tarina",
+  "/wiki/Finn",
+  "/wiki/Poe_Dameron",
+  "/wiki/Mission_to_Tevel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Menon",
+  "/wiki/Choose_Your_Destiny:_A_Finn_%26_Poe_Adventure"
+ ]
+}

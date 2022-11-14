@@ -1,0 +1,53 @@
+{
+ "name": "Greemon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bright Tree Village"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Greemon was an Ewok of Bright Tree Village on the Forest Moon of Endor who was present when the captured Heroes of Yavin were presented to the tribe in 4 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Heroes_of_Yavin/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Rogues_Gallery_(Star_Wars_Insider)",
+  "/wiki/Star_Wars_Insider_135"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Lori",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Caarite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Velin Wir"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lori was a rather gaunt Caarite who was Velin Wir's secretary. Velin Wir would often disappear without telling her where he was going.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Caarite",
+  "/wiki/Gender/Legends",
+  "/wiki/Metatheran_Cartel",
+  "/wiki/Velin_Wir",
+  "/wiki/Cularin_Presence",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lori",
+  "/wiki/A_Cularin_Presence"
+ ]
+}

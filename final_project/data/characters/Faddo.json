@@ -1,0 +1,53 @@
+{
+ "name": "Faddo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tredwall"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Faddo\" was a male Rodian con artist who worked as a wandering Tredwall sales representative, selling defective NR knockoffs on the Vohai Unirail in the year 2 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tredwall",
+  "/wiki/Selonia/Legends",
+  "/wiki/Standard_month/Legends",
+  "/wiki/Drev_(Cynabar%27s_Droid_Datalog)",
+  "/wiki/Cynabar%27s_Droid_Datalog",
+  "/wiki/Con_artist/Legends",
+  "/wiki/NR_knockoff",
+  "/wiki/Vohai_Unirail",
+  "/wiki/Standard_year/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Faddo",
+  "/wiki/Cynabar%27s_Fantastic_Technology:_Droids"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Jax  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thaereian military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jax was a male Human, who worked for the Thaereian military as a spy. He was sent by them during the Clone Wars to Bayonard, on Cularin, as part of a team that included Kowen, Yurge and Garee.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Jax",
+  "/wiki/Gender/Legends",
+  "/wiki/Thaereian_military",
+  "/wiki/Spy/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Bayonard",
+  "/wiki/Cularin/Legends",
+  "/wiki/Kowen",
+  "/wiki/Yurge",
+  "/wiki/Garee",
+  "/wiki/Padawannabes"
+ ]
+}

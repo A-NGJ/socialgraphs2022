@@ -1,0 +1,36 @@
+{
+ "name": "Par'tha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Par'tha was a smuggler and the co-pilot of the Moonglow. When the captain of the Moonglow, Lorcu Malshae, intended to sell out the location of Port Haven, Par'tha was disgusted and abandoned him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Moonglow_(light_freighter)",
+  "/wiki/Captain/Legends",
+  "/wiki/Lorcu_Malshae",
+  "/wiki/Port_Haven/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

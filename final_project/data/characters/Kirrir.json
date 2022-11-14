@@ -1,0 +1,61 @@
+{
+ "name": "Kirrir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale white"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Myyydril tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kirrir was a resident of the Myyydril village in the Myyydril Caverns within the Kkowir Forest on Kashyyyk. She worked as a \"cantina girl\" at the Myyydril's small cantina within their village.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Myyydril",
+  "/wiki/Myyydril_Caverns",
+  "/wiki/Kkowir_Forest",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kirrir",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

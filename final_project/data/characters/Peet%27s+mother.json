@@ -1,0 +1,34 @@
+{
+ "name": "Peet's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This human female was the mother of the Imperial garbage worker Peet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Peet_(Imperial)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Peet%27s_mother",
+  "/wiki/Standard_Imperial_Procedure",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

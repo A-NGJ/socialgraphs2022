@@ -1,0 +1,43 @@
+{
+ "name": "Minalod",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vermilic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Minalod was a Hutt who was the leader of the Vermilic kajidic during the Galactic Civil War. Minalod lived at the Floating Palace on the planet Carnovia and he kidnapped various scientists from among the Hutt slave species to produce cheap counterfeit versions of popular processed foodstuffs.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Vermilic",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Floating_Palace",
+  "/wiki/Planet/Legends",
+  "/wiki/Carnovia",
+  "/wiki/Scientist/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

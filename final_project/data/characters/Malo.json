@@ -1,0 +1,57 @@
+{
+ "name": "Malo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malo was a Rodian smuggler and an associate of Han Solo. He and another Rodian sometimes employed Solo to smuggle spice. Malo and his partner made one such exchange with Solo in 0 ABY, allowing Imperial prisoner Mira Volz to sneak aboard Solo's Millennium Falcon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Mira_Volz",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/The_Second_Kessel_Run"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Ellice",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ellice was a Bakuran woman who worked as an aide to Prime Minister Yeorg Captison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Aide/Legends",
+  "/wiki/Prime_Minister_(Bakura)",
+  "/wiki/Yeorg_Captison",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ellice",
+  "/wiki/The_Truce_at_Bakura_Sourcebook"
+ ]
+}

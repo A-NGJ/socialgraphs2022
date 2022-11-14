@@ -1,0 +1,43 @@
+{
+ "name": "Ker-Na",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ker-Na was a male Voss historian living on Voss. During the Galactic War he was posted outside the Shrine of Healing where he asked an outsider to study Voss writings located outside the Shrine.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Galactic_War",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

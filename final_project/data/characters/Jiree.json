@@ -1,0 +1,48 @@
+{
+ "name": "Jiree",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nalmar crime family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jiree was a Rodian male. He worked for Eelien Kirat and the Nalmar crime family as a bodyguard. Jiree would often accompany Elana Nalmar on undercover missions.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nalmar_crime_family",
+  "/wiki/Eelien_Kirat",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Elana_Nalmar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jiree",
+  "/wiki/Flashpoint!_Brak_Sector",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

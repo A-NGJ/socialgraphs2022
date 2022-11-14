@@ -1,0 +1,57 @@
+{
+ "name": "Si-Di-Ri's personal chef",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tiss'sharl"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tiss'shar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tiss'sharl League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "President Si-Di-Ri had a personal chef. He prepared dinner for members of the Tiss'sharl League when Imperial guests visited.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tiss%27sharl",
+  "/wiki/Tiss%27shar",
+  "/wiki/Gender/Legends",
+  "/wiki/Tiss%27sharl_League",
+  "/wiki/President_of_the_Tiss%27sharl_League",
+  "/wiki/Si-Di-Ri",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Empire_31"
+ ]
+}

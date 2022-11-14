@@ -1,0 +1,50 @@
+{
+ "name": "Green Hair",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Raptors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Green Hair\" was the name Darsha Assant gave to one of the leaders of the Raptor gang.\nHe was a Human male, lean and wiry of build, with a shock of green hair kept up in an electrostatic field. Lorn Pavan referred to him as \"Fashion Plate\".",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Raptors_(gang)",
+  "/wiki/Darsha_Assant",
+  "/wiki/Lorn_Pavan",
+  "/wiki/Darth_Maul:_Shadow_Hunter"
+ ]
+}

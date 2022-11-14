@@ -1,0 +1,57 @@
+{
+ "name": "Jintar Oarr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jintar Oarr was a wealthy human male from the planet Onderon. Shortly after the Battle of Endor, Oarr fought against Governor Ubrik Adelhard's blockade of the Anoat sector.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Onderon",
+  "/wiki/Human",
+  "/wiki/Onderonian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/Battle_of_Endor",
+  "/wiki/Governor",
+  "/wiki/Ubrik_Adelhard",
+  "/wiki/Iron_Blockade",
+  "/wiki/Anoat_sector",
+  "/wiki/Aftermath_(novel)",
+  "/wiki/Aftermath_(audiobook)"
+ ]
+}

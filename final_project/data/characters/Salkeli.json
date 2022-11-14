@@ -1,0 +1,70 @@
+{
+ "name": "Salkeli",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Freedom resistance movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Salkeli was a Rodian member of the Freedom resistance movement. However, he betrayed them to Deputy Prime Minister Blaine Harris.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Freedom_resistance_movement",
+  "/wiki/Deputy_Prime_Minister",
+  "/wiki/Blaine_Harris",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Salkeli",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee"
+ ]
+}

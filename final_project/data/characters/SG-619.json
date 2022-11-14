@@ -1,0 +1,51 @@
+{
+ "name": "SG-619",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "SG-619 was a male Human who served the Galactic Empire as a scout trooper.\nIn 1 ABY, SG-619 was stationed at the Imperial Outpost on the remote planet of Dantooine, where he served under SG-567.\nOn one of his scouting missions, he was joined by an Imperial agent who had previously helped SG-567 with a malfunctioning droideka. During their patrol, they were attacked by stranded Rebel scouts, but were able to kill their attackers and return safely to the outpost.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Scout_trooper/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Imperial_Outpost_(Dantooine)",
+  "/wiki/Planet/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/SG-567",
+  "/wiki/Droideka/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Karsted",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pamarthe"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karsted was a human male who hailed from the planet Pamarthe. He was the former partner of fellow racer, Greer Sonnel, and the two split up after he cheated on her. After this, she attempted to ignore Karsted, much to his annoyance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pamarthe",
+  "/wiki/Human",
+  "/wiki/Pamarthen",
+  "/wiki/Gender",
+  "/wiki/Homeworld",
+  "/wiki/Planet",
+  "/wiki/Greer_Sonnel",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Scorched",
+  "/wiki/Star_Wars_Insider_165"
+ ]
+}

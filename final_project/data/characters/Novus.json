@@ -1,0 +1,43 @@
+{
+ "name": "Novus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fallanassi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Novus was a male Twi'lek Fallanassi.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fallanassi/Legends",
+  "/wiki/Shield_of_Lies",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

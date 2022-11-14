@@ -1,0 +1,69 @@
+{
+ "name": "Ogden  (lieutenant)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ogden was a Human male lieutenant who served the reconstituted Sith Empire during the Galactic War.\nDuring the Empire's invasion of Corellia, Lieutenant Ogden assisted Lord Karvus after an Imperial weapons transport was shot down over Axial Park. When Ogden's men were about to retrieve the craft's newly-designed high-yield explosives, they were suddenly ambushed by Republic forces. Ogden was able to survive the attack and enlisted an Imperial hero to recover the bombs before the Republic could use them to win the battle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ogden",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Corellia/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Karvus",
+  "/wiki/Axial_Park",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

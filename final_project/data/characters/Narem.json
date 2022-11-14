@@ -1,0 +1,67 @@
+{
+ "name": "Narem",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Narem was a Human male doctor who served the Sith Empire during the Galactic War. He was stationed at the Taral V Imperial fortress, where he was studying an ancient Gree navigation computer that allowed the Empire to navigate The Maelstrom nebula. During the Battle of Taral V the facility was infiltrated by a Republic strike team, who stole the computer despite Narem's protests.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Taral_V_Imperial_fortress",
+  "/wiki/Gree_(species)/Legends",
+  "/wiki/The_Maelstrom",
+  "/wiki/Battle_of_Taral_V",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

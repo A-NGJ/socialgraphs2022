@@ -1,0 +1,51 @@
+{
+ "name": "Rook",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Iram Radique"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rook was an Aqualish male inmate of the Cog Hive Seven prison by the year 33 BBY. He served the weapons designer Iram Radique, who operated out of the prison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rook_(disambiguation)",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Iram_Radique",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Cog_Hive_Seven",
+  "/wiki/Prison/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rook",
+  "/wiki/Maul:_Lockdown",
+  "/wiki/Maul:_Lockdown_(audiobook)"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Shellar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shellar owned a junkyard on Tatooine, located two miles from Mos Eisley. He was sympathetic to the Alliance and often allowed Rebel operatives to scavenge his junkyard for parts as long as they had the credits to pay for them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shella",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Lambda_Heist",
+  "/wiki/Star_Wars_Gamer_2",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

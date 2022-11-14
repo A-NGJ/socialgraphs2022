@@ -1,0 +1,44 @@
+{
+ "name": "Guron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guron was a male Duros. He was a swoop racer who met Meetra Surik on Nar Shaddaa in 3951 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Guron",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

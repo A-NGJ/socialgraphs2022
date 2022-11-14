@@ -1,0 +1,64 @@
+{
+ "name": "Gzin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "33 BBY",
+      "Golden Nyss Shipyards"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Golden Nyss Shipyards"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gzin was the four-armed Shipyard Master of the Golden Nyss Shipyards shortly before its destruction by the Yinchorri during the Yinchorri Uprising of 33 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Golden_Nyss_Shipyards",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yinchorri",
+  "/wiki/Yinchorri_Uprising",
+  "/wiki/Star_Wars_(1998)_40",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

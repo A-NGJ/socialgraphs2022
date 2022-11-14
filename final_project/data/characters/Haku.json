@@ -1,0 +1,52 @@
+{
+ "name": "Haku",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haku was a stormtrooper assigned aboard the Star Destroyer Imperator as of 1 BBY. He was a member of the platoon assigned to Cadet Leader Kyle Katarn. Along with Morley, he was used as a demolitions expert while the crew took the asteroid, AX-456.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Imperator_(Imperial-class)",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Cadet_Leader",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Morley_(stormtrooper)",
+  "/wiki/Asteroid/Legends",
+  "/wiki/AX-456",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

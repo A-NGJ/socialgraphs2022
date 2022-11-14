@@ -1,0 +1,32 @@
+{
+ "name": "Keroth Ishedur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keroth Ishedur was a Human male who spent long hours discussing with Deel De the nature of the universe, and their shared feelings.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Deel_De",
+  "/wiki/Ultimate_Adversaries",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

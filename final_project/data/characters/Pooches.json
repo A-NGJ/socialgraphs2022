@@ -1,0 +1,66 @@
+{
+ "name": "Pooches",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 0 ABY and 3 ABY",
+      "unidentified planet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Unidentified Empire-aligned Human female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pooches was a rancor owned by an unidentified Human female aligned with the Galactic Empire who lived in the capital building on a backwater planet. During the mission to steal a DSS-02 shield generator, Chewbacca and his partner were captured by this woman and imprisoned in the building's rancor pit. However, Chewbacca managed to kill Pooches using an axe, much to the woman's ire. Shortly thereafter, Chewbacca and his partner were rescued by Luke Skywalker and Leia Organa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Rancor/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Capital/Legends",
+  "/wiki/Mission_to_steal_a_DSS-02_shield_generator",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Axe",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Rebel_Heist_3",
+  "/wiki/Rebel_Heist_4"
+ ]
+}

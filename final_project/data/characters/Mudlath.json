@@ -1,0 +1,61 @@
+{
+ "name": "Mudlath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Peace Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mudlath was a captain in the Aphran Planetary Exosecurity, and a member of the Peace Brigade. His accent indicated a Corporate Sector birthplace. When Han Solo and Leia Organa Solo were arrested on Aphran IV attempting to set up an anti-Yuuzhan Vong resistance there, Mudlath interrogated them while the Peace Brigade arranged for their transportation. He had very little success. Later, when he learned that the Solos had escaped, he decided to keep some fake identities close by, in case he needed to get off Aphran very quickly.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Peace_Brigade",
+  "/wiki/Captain/Legends",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Aphran_IV",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_II:_Rebel_Stand",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

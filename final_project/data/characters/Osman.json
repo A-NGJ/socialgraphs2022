@@ -1,0 +1,47 @@
+{
+ "name": "Osman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Besadii"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Osman was a male Chevin who served as one of Durga's majordomo during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Besadii/Legends",
+  "/wiki/Durga_Besadii_Tai",
+  "/wiki/Majordomo/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Rebel_Dawn",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Em'Tora VIII",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coyn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Coynite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Em'Tora VII was the Queen of Coyn during the Galactic Civil War. As Queen, Em'Tora helped rule over the 29 Ag'Tra, or noble families, and was married to En'Tra Im'Toral XV.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coyn",
+  "/wiki/Coynite/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Ag%27Tra",
+  "/wiki/En%27Tra",
+  "/wiki/Im%27Toral_XV",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

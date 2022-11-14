@@ -1,0 +1,39 @@
+{
+ "name": "Gremka",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Toydaria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gremla was a Toydarian who lived in a village near Arnel, and the twin of Grax. Grax and Gremka made a living by farming annra plant and leading expeditions into the nearby swamps.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Toydaria",
+  "/wiki/Toydarian",
+  "/wiki/Arnel",
+  "/wiki/Grax",
+  "/wiki/Annra_plant",
+  "/wiki/Swamp",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

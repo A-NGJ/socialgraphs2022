@@ -1,0 +1,63 @@
+{
+ "name": "Joddar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lizard Warrior"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green and yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Joddar was a Lizard Warrior from the Valley of the Lizard Warriors on Endor.\nWhen Wicket Wystri Warrick and Teebo tried to cross the valley, Joddar and the exiled Ewok Graak forced the two young Ewoks into a game of hunting where they were the prey. Joddar went after the Ewoks, but ended up falling prey to an Endorian swamp beast. Wicket and Teebo saved him and, in his gratitude, he granted them his protection, and in turn saved their lives.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Lizard_Warrior",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Valley_of_the_Lizard_Warriors",
+  "/wiki/Wicket_Wystri_Warrick/Legends",
+  "/wiki/Teebo/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Graak_(lawbreaker)",
+  "/wiki/Endorian_swamp_beast",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Joddar",
+  "/wiki/Ewoks_4"
+ ]
+}

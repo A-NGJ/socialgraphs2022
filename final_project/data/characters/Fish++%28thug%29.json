@@ -1,0 +1,52 @@
+{
+ "name": "Fish  (thug)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Orman"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fish was a human male thug who worked for the club owner Orman on the planet Lianna. He was the newest of Orman's thugs and was rather small and wiry, making him rather unintimidating. He also lacked co-ordination, strength and common sense and was generally unpopular. Even his fellow thugs considered betraying him on several occasions just to be rid of him. At some point during his employment he was ordered to attack a group of Alliance to Restore the Republic agents.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Orman",
+  "/wiki/Planet/Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "name": "Filian",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "26 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "X'Ting"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Filian was a male X'Ting who was the partner of G'Mai Duris and Regent on the council that was formed by the Five Families of Cestus Cybernetics before the outbreak of the Clone Wars. He fought in a duel with Caiza Quill, but Caiza killed him; after which Duris was forced to replace him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/26_BBY/Legends",
+  "/wiki/X%27Ting",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/G%27Mai_Duris",
+  "/wiki/Five_Families_of_Cestus_Cybernetics",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Caiza_Quill",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Hive",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

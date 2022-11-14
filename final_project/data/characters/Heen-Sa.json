@@ -1,0 +1,40 @@
+{
+ "name": "Heen-Sa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Heen-Sa was a Voss Mystic in training. Heen-Sa was among the candidates Sophia Farash identified to the Barsen'thor who was on Voss looking for an ally. Farash stated that Heen-Sa was sympathetic toward the Sith Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Athal-Je",
+  "/wiki/Voss_Mystics",
+  "/wiki/Sophia_Farash",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

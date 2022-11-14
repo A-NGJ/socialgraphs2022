@@ -1,0 +1,64 @@
+{
+ "name": "Jaytee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Garos Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jaytee was a male Human who lived on Garos IV and served as an operator with the Committee of Seven for Garosian Unification.\nJaytee attended the University of Garos as a young man, and was a contemporary of Alexandra Winger during her education. He worked as an operator with the Garos Resistance, serving in the underground's operations center alongside Winger, Wink Tasion, Mika Kaebra, and others. Manning his intercept station, Jaytee helped monitor communications between TK-32 and his commanding officer and gain a fix on their location, and later helped uncover an Imperial plot to ship vital components from Garan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Committee_of_Seven_for_Garosian_Unification",
+  "/wiki/University_of_Garos",
+  "/wiki/Alexandra_Winger",
+  "/wiki/Wink_Tasion",
+  "/wiki/Mika_Kaebra",
+  "/wiki/TK-32",
+  "/wiki/Galactic_Empire",
+  "/wiki/Garan",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Whispers_in_the_Dark",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

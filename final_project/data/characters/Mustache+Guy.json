@@ -1,0 +1,62 @@
+{
+ "name": "Mustache Guy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 13 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Mustache Guy\" was a human male who got shot while TD-H4 was selling a data cube.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/13_BBY",
+  "/wiki/Corellia",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/TD-H4",
+  "/wiki/Data_cube",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mustache_Guy",
+  "/wiki/Most_Wanted",
+  "/wiki/Most_Wanted_(audiobook)",
+  "/wiki/Han_Solo",
+  "/wiki/Qi%27ra",
+  "/wiki/Standard_year",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide",
+  "/wiki/32_BBY",
+  "/wiki/31_BBY"
+ ]
+}

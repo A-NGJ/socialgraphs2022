@@ -1,0 +1,69 @@
+{
+ "name": "Lenz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "New Apsolon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Workers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lenz was the leader of the Workers, in 41 BBY. His face was marked by the paralyzing drug that the Absolutes used on their prisoners.\nHe took care of Alani and Eritha when their father, Ewane, was imprisoned. Later, he helped Jedi Master Qui-Gon Jinn and his Padawan Obi-Wan Kenobi finding Tahl, telling them where they could find a probe droid to trail her kidnapper, Balog.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/New_Apsolon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Workers",
+  "/wiki/41_BBY/Legends",
+  "/wiki/Absolutes",
+  "/wiki/Alani",
+  "/wiki/Eritha",
+  "/wiki/Ewane",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Tahl",
+  "/wiki/Probe_droid/Legends",
+  "/wiki/Balog_(Human)",
+  "/wiki/Jedi_Apprentice:_The_Ties_That_Bind",
+  "/wiki/Jedi_Apprentice:_The_Death_of_Hope",
+  "/wiki/Jedi_Apprentice:_The_Call_to_Vengeance",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Brombek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Slide\" Brombek was a Human male outlaw tech. Brombek refused to work without sufficient compensation.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Outlaw_tech/Legends",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition"
+ ]
+}

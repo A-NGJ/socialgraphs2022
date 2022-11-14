@@ -1,0 +1,60 @@
+{
+ "name": "Gemmy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Haruun Kal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balawai"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gemmy was a Balawai woman who lived in Haruun Kal during the Clone Wars.\nShe was the wife of a member of the militia of Pelek Baw and mother of two children. During the Summertime War she was pregnant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Wookieepedia:Duplicate_articles#How_articles_should_be_merged",
+  "/wiki/Gemmie",
+  "/wiki/Talk:Gemmy",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Haruun_Kal/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Balawai",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Pelek_Baw",
+  "/wiki/Summertime_War",
+  "/wiki/Shatterpoint_(novel)"
+ ]
+}

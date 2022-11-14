@@ -1,0 +1,68 @@
+{
+ "name": "Qibbu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Qibbu's Hut"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qibbu was a Hutt and owned Qibbu's Hut, a shady cantina/hotel in Coruscant's Entertainment district. Before the Clone Wars, the entrepreneur owed Kal Skirata half a million credits. After Skirata became involved in the GAR he waived the debt. In exchange, Qibbu provided the use of the top floor of his business as a base of operations, and free meals to the Mandalorian. Qibbu had ties to the criminal element of Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Qibbu%27s_Hut/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Kal_Skirata",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Republic_Commando:_Triple_Zero",
+  "/wiki/Order_66:_A_Republic_Commando_Novel",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

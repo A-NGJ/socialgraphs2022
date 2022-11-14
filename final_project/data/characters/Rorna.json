@@ -1,0 +1,35 @@
+{
+ "name": "Rorna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rorna was a female Devaronian mercenary, who worked to Kars Tal-Korla to catch Borgin Kaa and make gain access to the apartment's access panel, which was on the same network as Adelhard's personal access panel.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaronian",
+  "/wiki/Gender",
+  "/wiki/Kars_Tal-Korla",
+  "/wiki/Borgin_Kaa",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rorna",
+  "/wiki/Aftermath_(novel)",
+  "/wiki/Aftermath_(audiobook)"
+ ]
+}

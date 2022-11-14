@@ -1,0 +1,79 @@
+{
+ "name": "Nebelish",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3951 BBY Korriban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nebelish was a Human male Jedi Knight who served the Jedi Order during the time of the Jedi Civil War. In 3951 BBY, he was found dead in the Tomb of Ludo Kressh on Korriban by Meetra Surik. The body contained a datapad belonging to the late Jedi. He had gone mad and killed a few other Jedi with whom he was studying the tomb.\nThe polygon model of the corpse of Nebelish was actually the one used for Dustil Onasi in Star Wars: Knights of the Old Republic. This was used because Dustil was to appear in the sequel, but the scenes were cut, therefore leaving only the model in the game engine.\nThe corpse of Nebelish is labeled Dead Jedi, his name is only identified by his datapad.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Korriban",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Brown",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Shyrack/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Death/Legends",
+  "/wiki/Tomb_of_Ludo_Kressh",
+  "/wiki/Ludo_Kressh",
+  "/wiki/Meetra_Surik",
+  "/wiki/Datapad/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Dustil_Onasi",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

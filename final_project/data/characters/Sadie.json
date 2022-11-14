@@ -1,0 +1,47 @@
+{
+ "name": "Sadie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Abyssin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jungle Lust"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sadie was a male Abyssin working as a bartender in the Jungle Lust on Belsavis in 12 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Abyssin/Legends",
+  "/wiki/Sadie_(female)",
+  "/wiki/Jungle_Lust",
+  "/wiki/Belsavis/Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sadie",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

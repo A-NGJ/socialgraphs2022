@@ -1,0 +1,65 @@
+{
+ "name": "Piris",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free AlliancesGalactic Alliance Defense Force",
+      "Galactic Alliance Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Piris was a male Quarren captain in the Galactic Alliance Defense Force. He commanded the Alliance warship Bounty during the Second Galactic Civil War.\nHe joined Admiral Cha Niathal during the battle at Fondor and was one of the Galactic Alliance captains loyal to her following the end of the battle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Defense_Force",
+  "/wiki/Captain/Legends",
+  "/wiki/Bounty_(warship)",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Admiral/Legends",
+  "/wiki/Cha_Niathal",
+  "/wiki/Second_Battle_of_Fondor",
+  "/wiki/Fondor/Legends",
+  "/wiki/Legacy_of_the_Force:_Sacrifice",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

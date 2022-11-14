@@ -1,0 +1,55 @@
+{
+ "name": "Jesfa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zaltin Corporation",
+      "Ashern"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jesfa was a male Human security officer that used to work for the Zaltin Corporation on the planet Thyferra.\nDuring the Bacta War, Zaltin's rival, Xucphra Corporation, took over Thyferra with the help of Ysanne Isard, the former Director of Imperial Intelligence. Jesfa joined the Ashern rebels as a commando fighting along with Sixtus Quin and Iella Wessiri Antilles and helped infiltrate the Xucphra Corporate Headquarters.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zaltin_Corporation",
+  "/wiki/Ashern",
+  "/wiki/Planet/Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Bacta_War",
+  "/wiki/Xucphra_Corporation",
+  "/wiki/Ysanne_Isard",
+  "/wiki/Director_of_Imperial_Intelligence",
+  "/wiki/Commando/Legends",
+  "/wiki/Sixtus_Quin",
+  "/wiki/Iella_Wessiri_Antilles",
+  "/wiki/Xucphra_Corporate_Headquarters",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

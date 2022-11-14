@@ -1,0 +1,65 @@
+{
+ "name": "Kinfarg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pzob"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Klaggs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kinfarg was a male Gamorrean who was possibly the alpha-male of the Klagg clan. He was captured by the Eye of Palpatine where he and many warriors of his clan were indoctrinated by The Will.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pzob/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Klagg_clan",
+  "/wiki/Eye_of_Palpatine",
+  "/wiki/The_Will",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kinfarg",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "CZ-1076",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "Stormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "CZ-1076 was a human stormtrooper of the First Order.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/First_Order",
+  "/wiki/Stormtrooper_Corps_(First_Order)",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/CZ-1076",
+  "/wiki/Join_the_Resistance:_Escape_from_Vodran",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

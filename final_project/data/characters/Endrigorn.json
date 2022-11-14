@@ -1,0 +1,37 @@
+{
+ "name": "Endrigorn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rakrir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rakririan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Endrigorn was a Rakririan dealer who dealt in light sculptures, holo-art and precious gems.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rakrir",
+  "/wiki/Rakririan",
+  "/wiki/Light_sculpture",
+  "/wiki/Holographic_art",
+  "/wiki/Coruscant_Nights_I:_Jedi_Twilight"
+ ]
+}

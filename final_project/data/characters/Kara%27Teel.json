@@ -1,0 +1,69 @@
+{
+ "name": "Kara'Teel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "before 8 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Djo family",
+      "Singing Mountain Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kara'Teel was the youngest daughter of Augwynne Djo who died while saving her mother from Gethzerion's assassination attempt.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kara",
+  "/wiki/Dathomir/Legends",
+  "/wiki/8_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Gender/Legends",
+  "/wiki/Djo_family",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Augwynne_Djo",
+  "/wiki/Gethzerion",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Cracken%27s_Threat_Dossier",
+  "/wiki/The_Dark_Side_Sourcebook"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Effor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Verpine"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Effor was a Verpine who worked at an arena where gladiator droids fought.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Verpine",
+  "/wiki/Color",
+  "/wiki/Gladiator_droid",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Effor",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Always_Bet_on_Chop"
+ ]
+}

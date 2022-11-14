@@ -1,0 +1,74 @@
+{
+ "name": "Lexim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lexim's hunting ground"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lexim was a male human who ran a hunting business on a forest planet. Around 4 BBY Garazeb Orrelios picked up Lexim's distress call, and he, Alyson, Wad, and Greve were attacked by gundarks.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Lexim%27s_hunting_ground",
+  "/wiki/Hunting",
+  "/wiki/Unidentified_planet_(Lexim)",
+  "/wiki/4_BBY",
+  "/wiki/Garazeb_Orrelios",
+  "/wiki/Distress_signal",
+  "/wiki/Alyson",
+  "/wiki/Wad",
+  "/wiki/Greve_(hunter)",
+  "/wiki/Gundark",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lexim",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Becoming_Hunted",
+  "/wiki/Star_Wars_Rebels_Magazine_10"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Marku",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marku was a Chiss female who served as a lieutenant of the Sith Empire. During the Dantooine Incursion, Marku was stationed in a hidden Imperial base on Dantooine. She worked on behalf of Darth Xarion and was tasked with making sure the Nova Blades were punished and their walker was shut down in the Nova Blade Camp.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Dantooine_Incursion",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Darth_Xarion",
+  "/wiki/Nova_Blades",
+  "/wiki/Walker/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Skarabda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skarabda was a Hutt female who served as the chief diplomatic envoy of the Hutt Clan during the High Republic Era.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Gender",
+  "/wiki/Hutt_Clan",
+  "/wiki/High_Republic_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Skarabda",
+  "/wiki/The_High_Republic_Adventures_(2021)_6",
+  "/wiki/The_High_Republic_Adventures_(2021)_7"
+ ]
+}

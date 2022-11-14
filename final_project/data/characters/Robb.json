@@ -1,0 +1,48 @@
+{
+ "name": "Robb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thirsty Bantha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Robb was the Besalisk owner of the cantina Thirsty Bantha in Mos Entha on Tatooine. Before settling down, he made a living as a bounty hunter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Besalisk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thirsty_Bantha",
+  "/wiki/Cantina/Legends",
+  "/wiki/Mos_Entha/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Robb",
+  "/wiki/Star_Wars:_Cantina"
+ ]
+}

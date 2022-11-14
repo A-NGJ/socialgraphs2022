@@ -1,0 +1,64 @@
+{
+ "name": "Deca Brun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gala"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Galacian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Offworld Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Deca Brun ran for governor in the Galacian Gubernatorial election in 44 BBY. He received widespread support, as he promised reform and prosperity. However, Brun had made a deal with Offworld Mining Corporation, promising them exclusive mining rights which would have caused extensive environmental damage in exchange for campaign funding. Obi-Wan Kenobi discovered this deal, and this was revealed before the election. Thus Wila Prammi, another candidate, won the election by a vast majority.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Deca_Brun",
+  "/wiki/Gala",
+  "/wiki/Galacian",
+  "/wiki/Gender/Legends",
+  "/wiki/Offworld_Mining_Corporation",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Veda_(Galacian)",
+  "/wiki/Governor/Legends",
+  "/wiki/Galacian_Gubernatorial_election,_44_BBY",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Wila_Prammi",
+  "/wiki/Jedi_Apprentice:_The_Mark_of_the_Crown",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

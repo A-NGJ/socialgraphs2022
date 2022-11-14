@@ -1,0 +1,36 @@
+{
+ "name": "Alarik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Deltron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alarik was a male Deltron and the only son of Brisha Shard. His two sisters were Bellen and Viqi.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/King/Legends",
+  "/wiki/Kingdom_of_Devit",
+  "/wiki/Alarik_X",
+  "/wiki/Deltron_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Brisha_Shard",
+  "/wiki/Bellen",
+  "/wiki/Viqi",
+  "/wiki/SkyeWalkers:_A_Clone_Wars_Story"
+ ]
+}

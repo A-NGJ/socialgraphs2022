@@ -1,0 +1,49 @@
+{
+ "name": "Gulley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Gulley was an New Republic Lieutenant onboard the Volant during the Black Fleet Crisis. Gulley had been Plat Mallar's check pilot during Mallar's training as an escort pilot.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Volant",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/Plat_Mallar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gulley",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

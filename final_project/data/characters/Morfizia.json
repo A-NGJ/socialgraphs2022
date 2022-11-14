@@ -1,0 +1,57 @@
+{
+ "name": "Morfizia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Moraga"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Moragan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morfizia was a female Moragan and the wife of Morfizo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Moraga",
+  "/wiki/Moragan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Morfizo",
+  "/wiki/Kanan_12"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "name": "Myrrack",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Myrrack was a renowned Mon Calamari artist. In 0 BBY, he was tasked with repairing the Dro ceremonial fountain, unknowingly saving it from destruction.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Dro_ceremonial_fountain",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Young_Jedi_Knights:_Diversity_Alliance"
+ ]
+}

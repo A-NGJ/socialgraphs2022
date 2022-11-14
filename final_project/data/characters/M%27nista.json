@@ -1,0 +1,46 @@
+{
+ "name": "M'nista",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Ragez D'Asta"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "M'nista was a male Human aide to Baron Ragez D'Asta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ragez_D%27Asta",
+  "/wiki/Baron/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/M%27nista",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_6",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

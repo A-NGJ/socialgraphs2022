@@ -1,0 +1,36 @@
+{
+ "name": "Signaler",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Subnode"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kud'ar Mub'at"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Signaler was a subnode created by Kud'ar Mub'at to assist him. Signaler's main priorities were to notify Kud'ar Mub'at when a foreign ship was approaching his web.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Subnode",
+  "/wiki/Kud%27ar_Mub%27at",
+  "/wiki/The_Mandalorian_Armor",
+  "/wiki/Databank_(original)"
+ ]
+}

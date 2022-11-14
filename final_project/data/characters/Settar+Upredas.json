@@ -1,0 +1,62 @@
+{
+ "name": "Settar Upredas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Contraband Resale Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Settar Upredas was a Rattataki male merchant who worked for the Contraband Resale Corporation, selling items on Vaiken Spacedock during the Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Contraband_Resale_Corporation",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Galactic_War",
+  "/wiki/Cartel_Market"
+ ]
+}

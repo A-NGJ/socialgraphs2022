@@ -1,0 +1,38 @@
+{
+ "name": "Ma'thu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Diversity Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ma'thu was a Sullustan tactical officer who served the Diversity Alliance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Diversity_Alliance",
+  "/wiki/Officer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ma%27thu",
+  "/wiki/Young_Jedi_Knights:_The_Emperor%27s_Plague"
+ ]
+}

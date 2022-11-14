@@ -1,0 +1,33 @@
+{
+ "name": "Nyantolo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nyantolo was a Rodian scout who was part of an expedition exploring the swamps of Wyndigal 2. During the expedition, he came too close to an unknown creature. The creature suddenly swept Nyantolo's legs out from under him, and crushed his head with its strong beak.\nAfter Nyantolo's death, his comrade named the creature a \"nyantolo\" in his honor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nyantolo_(creature)",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Wyndigal_2",
+  "/wiki/Creatures_of_the_Galaxy"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Jang",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Emerald"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jang was a female Rodian podracer pilot. She drove an emerald pod whose color matched that of her scales. At one point, she participated in an edition of the Boonta Eve Classic on Tatooine, which was ultimately won by the Jawa racer Haza.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Podracer",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jang_Li-Li",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Pilot",
+  "/wiki/Boonta_Eve_Classic",
+  "/wiki/Tatooine",
+  "/wiki/Jawa",
+  "/wiki/Choose_Your_Destiny:_A_Podracer_Mission"
+ ]
+}

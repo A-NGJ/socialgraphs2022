@@ -1,0 +1,37 @@
+{
+ "name": "Kren' Ger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vorn tiger"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Pra'Thima Ghan'ta"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kren' Ger was a Vorn tiger and the creature companion of the Jedi beast master Pra'Thima Ghan'ta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vorn_tiger",
+  "/wiki/Pra%27Thima_Ghan%27ta",
+  "/wiki/Jedi/Legends",
+  "/wiki/Beast_master",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

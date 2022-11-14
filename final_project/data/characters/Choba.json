@@ -1,0 +1,65 @@
+{
+ "name": "Choba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Void Station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red/Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Choba was a Dug torturer employed by Jib Kopatha. He was killed by Sheel Odala when she, together with Chewbacca, attempted to rescue Han Solo from Kopatha's torture room.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Void_Station",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jib_Kopatha",
+  "/wiki/Death/Legends",
+  "/wiki/Sheel_Odala",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Choba",
+  "/wiki/Star_Wars:_Empire:_Idiot%27s_Array",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

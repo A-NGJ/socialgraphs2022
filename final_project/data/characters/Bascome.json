@@ -1,0 +1,65 @@
+{
+ "name": "Bascome",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thyferran Home Defense Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bascome was a male Human pilot of Elite Squadron, which was part of the Thyferran Home Defense Corps, the military force comprised of Thyferran personnel. The Defense Force was created by former Director of Imperial Intelligence Ysanne Isard to help augment the forces she had brought to the planet Thyferra after fleeing from Coruscant. Bascome participated in the destruction of the Halanit colony.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thyferran_Home_Defense_Corps",
+  "/wiki/Pilot/Legends",
+  "/wiki/Elite_Squadron",
+  "/wiki/Thyferran",
+  "/wiki/Director_of_Imperial_Intelligence",
+  "/wiki/Ysanne_Isard",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Battle_of_Halanit",
+  "/wiki/Halanit",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bascome",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

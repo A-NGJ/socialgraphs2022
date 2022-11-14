@@ -1,0 +1,48 @@
+{
+ "name": "Apnok'k",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gree"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gree Enclave"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Apnok'k was a Gree who lived during the Galactic War between the Sith Empire and the Galactic Republic. Apnok'k sold Gree technology aboard the Harrower-class dreadnought Ziost Shadow.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gree_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gree_Enclave/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Gree_technology",
+  "/wiki/Harrower-class_dreadnought",
+  "/wiki/Ziost_Shadow",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

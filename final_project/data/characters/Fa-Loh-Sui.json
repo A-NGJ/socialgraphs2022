@@ -1,0 +1,45 @@
+{
+ "name": "Fa-Loh-Sui",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tiss'sharl"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tiss'shar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fa-Loh-Sui was a Tiss'shar assassin. Beautiful and deadly, she caught the eye of Abin-Ral-Xufush, who courted her for a time. He would later name his flagship after her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fa-Loh-Sui_(corvette)",
+  "/wiki/Tiss%27sharl",
+  "/wiki/Tiss%27shar",
+  "/wiki/Gender/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Abin-Ral-Xufush",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

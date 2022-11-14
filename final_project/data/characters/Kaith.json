@@ -1,0 +1,55 @@
+{
+ "name": "Kaith",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Cybernetic right hand"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Paramexor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kaith was Janq Paramexor's consort. She was a cyborg Human.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cybernetics",
+  "/wiki/House_Paramexor",
+  "/wiki/Janq_Paramexor",
+  "/wiki/Cyborg/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kaith",
+  "/wiki/West_End_Games",
+  "/wiki/Guild_Justice",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

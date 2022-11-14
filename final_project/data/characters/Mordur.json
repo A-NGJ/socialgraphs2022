@@ -1,0 +1,72 @@
+{
+ "name": "Mordur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mordur was an Imperial admiral during the Galactic Civil War.\nMordur conspired with Guildmaster Orrk of Vandelhelm to kill members of the royal house of Vandelhelm. The Admiral had converted a drone barge into his personal command center, from which he could control a large convoy of barges filled with valuable processed ore. With the siblings dead, the guild would stop working, and the price for Vandelhelm's valuable ore would skyrocket. Mordur planned to use the ore to carve out a small empire for himself.\nThe plot almost succeeded, but he was eventually defeated by Han Solo, when he attempted to send the convoy on a course for the system's sun, denying the ore to the Rebel Alliance. Solo blasted the bridge-window, sending the Admiral flying into space.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Guildmaster",
+  "/wiki/Orrk",
+  "/wiki/Vandelhelm/Legends",
+  "/wiki/Converted_drone_barge",
+  "/wiki/Drone_barge/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars_(1977)_98",
+  "/wiki/The_Essential_Guide_to_Characters",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

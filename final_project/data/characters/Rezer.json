@@ -1,0 +1,53 @@
+{
+ "name": "Rezer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Moff Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rezer was a male Human Moff and member of the Moff Council and was on the Anakin Solo during the Battle of Uroro Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Moff/Legends",
+  "/wiki/Council_of_Moffs/Legends",
+  "/wiki/Anakin_Solo_(Imperial_II-class_Star_Destroyer)",
+  "/wiki/Battle_of_Uroro_Station",
+  "/wiki/Legacy_of_the_Force:_Invincible",
+  "/wiki/41_ABY",
+  "/wiki/Second_Battle_of_Fondor",
+  "/wiki/Voryam_Bhao",
+  "/wiki/Jowar",
+  "/wiki/Drikl_Lecersen",
+  "/wiki/Krom_Rethway",
+  "/wiki/Kosimo_Westermal"
+ ]
+}

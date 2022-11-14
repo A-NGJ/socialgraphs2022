@@ -1,0 +1,61 @@
+{
+ "name": "Passk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Passk's Oddities"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Passk was a Trandoshan male living during the Galactic Civil War. He owned the curiosity shop Passk's Oddities on Martle Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Passk%27s_Oddities",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Martle_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Passk",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Perlemian_Haul_(adventure)",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Core_Rulebook"
+ ]
+}

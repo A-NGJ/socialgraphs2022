@@ -1,0 +1,71 @@
+{
+ "name": "Brylin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Herdessa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Herdessan Guild",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brylin was a Human male who was an elder Spokesman of the Herdessan Guild and the autocratic ruler of the planet Herdessa during the Galactic Civil War. Favorably disposed towards the Galactic Empire, he supervised the Herdessan slave trade and allied with the Imperial Warlord Lumiya some time after the Battle of Endor. His regime was brought down by the revolting Herdessan population after a failed attempt to capture Alliance leader Mon Mothma and her delegation in 4 ABY, and Brylin and his advisors were apprehended by the Alliance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Herdessa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Herdessan_Guild",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Lumiya",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mon_Mothma/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Star_Wars_(1977)_88"
+ ]
+}

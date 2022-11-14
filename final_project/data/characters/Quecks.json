@@ -1,0 +1,49 @@
+{
+ "name": "Quecks",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Phindar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Phindian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quecks was the Major of the Sentient Property Crime Bureau of the Phindar Station. He was responsible for checking if droids in the spaceport were properly licensed. When Asajj Ventress and a droid battalion arrived at the spaceport, Quecks ordered the retreat, instead of fighting against the droids.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Phindar/Legends",
+  "/wiki/Phindian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Sentient_Property_Crime_Bureau",
+  "/wiki/Phindar_Station",
+  "/wiki/Droid/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/Yoda:_Dark_Rendezvous",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

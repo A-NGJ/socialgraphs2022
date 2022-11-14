@@ -1,0 +1,66 @@
+{
+ "name": "Scabby",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3631 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Womp rat"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dakk'ik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scabby was a pet womp rat owned by the Jawa scavenger Dakk'ik. After Dakk'ik joined the salvaging crew of Blizz, he went with them to Hoth and took Scabby with him. Unfortunately, Scabby could not survive the cold temperature of Hoth and perished.\nScabby appears in Star Wars: The Old Republic: Knights of the Fallen Empire during the Blizz Alliance alert mission.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/3631_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Womp_rat/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Dakk%27ik",
+  "/wiki/Jawa/Legends",
+  "/wiki/Scavenger/Legends",
+  "/wiki/Blizz",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

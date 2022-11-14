@@ -1,0 +1,56 @@
+{
+ "name": "Jiktha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jiktha was a male Jawa junk peddler who lived in Mos Espa during the waning years of the Galactic Republic. In 32 BBY, he was wanted by Jabba the Hutt for selling him a faulty droid. Eventually, Jango Fett claimed the bounty on Jiktha some time after the Battle of Naboo.\nJiktha's bounty is 1,000 credits alive and 500 dead.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

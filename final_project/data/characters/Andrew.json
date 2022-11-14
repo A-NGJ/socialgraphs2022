@@ -1,0 +1,77 @@
+{
+ "name": "Andrew",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance",
+      "Resistance Army",
+      "Resistance Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Andrew was a Human male who served as a lieutenant in the Resistance 30 years after the Battle of Endor. He helped General Leia Organa, Finn, C-3PO and BB-8 collect fuel, ammo and Wookiee Cookies for the Millennium Falcon shortly before the Battle of Starkiller Base.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Resistance_Army",
+  "/wiki/Lieutenant",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Endor",
+  "/wiki/General",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Finn",
+  "/wiki/C-3PO",
+  "/wiki/BB-8",
+  "/wiki/Fuel",
+  "/wiki/Wookiee_Cookie/LEGO",
+  "/wiki/Millennium_Falcon",
+  "/wiki/Battle_of_Starkiller_Base",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Krim",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pyke"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Tezzka Krim"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Marg Krim"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Oba Diah"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Pyke Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krim was a family of Pykes affiliated with the Pyke Syndicate. Marg Krim was a powerful member within the organization.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pyke",
+  "/wiki/Tezzka_Krim",
+  "/wiki/Marg_Krim",
+  "/wiki/Oba_Diah",
+  "/wiki/Pyke_Syndicate",
+  "/wiki/Asajj_Ventress",
+  "/wiki/Quinlan_Vos",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Dark_Disciple",
+  "/wiki/Dark_Disciple_(audiobook)",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Deal_No_Deal",
+  "/wiki/Dangerous_Debt",
+  "/wiki/Together_Again",
+  "/wiki/The_Phantom_Apprentice"
+ ]
+}

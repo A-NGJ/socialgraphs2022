@@ -1,0 +1,51 @@
+{
+ "name": "Puloh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Anzat"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Before 36 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anzati"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Puloh was a male Anzati and part of a group that learned the assassins' arts from Torgo Tahn. He was killed by Tahn during a training session sometime before 36 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Anzat/Legends",
+  "/wiki/36_BBY/Legends",
+  "/wiki/Anzat_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Torgo_Tahn",
+  "/wiki/Aurra%27s_Song"
+ ]
+}

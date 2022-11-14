@@ -1,0 +1,77 @@
+{
+ "name": "Geneer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Duro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green-blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Government of Duro"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duchess Geneer was a female Duros, and the last sovereign to rule Duro. She was removed from office by the corporations that dominated the planet. She was later entombed in the Valley of Royalty, in a monument of the same name.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Valley_of_Royalty",
+  "/wiki/Monument_of_Duchess_Geneer",
+  "/wiki/Mission_from_Mount_Yoda",
+  "/wiki/Coruscant_and_the_Core_Worlds",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Duros",
+  "/wiki/Star_Wars_Gamer_2",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_14",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

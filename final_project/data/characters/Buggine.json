@@ -1,0 +1,35 @@
+{
+ "name": "Buggine",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Buggine was a Hutt active during the Imperial Era. Among her courtesans were Pompey Pavel-Martinus, who compared Buggine to Ziro Desilijic Tiure.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Gender",
+  "/wiki/Imperial_Era",
+  "/wiki/Pompey_Pavel-Martinus",
+  "/wiki/Ziro_Desilijic_Tiure",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Buggine",
+  "/wiki/Star_Wars:_Smuggler%27s_Guide"
+ ]
+}

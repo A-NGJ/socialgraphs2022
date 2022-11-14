@@ -1,0 +1,56 @@
+{
+ "name": "Kuthara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireInquisitorius",
+      "Inquisitorius"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Probus Tesla"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kuthara was a male Falleen Force-sensitive and Inquisitor. He was Probus Tesla's Master in the College of the Inquisition.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Falleen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Inquisitorius/Legends",
+  "/wiki/Probus_Tesla",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/College_of_the_Inquisition",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kuthara",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

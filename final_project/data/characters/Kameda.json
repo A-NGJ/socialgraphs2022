@@ -1,0 +1,53 @@
+{
+ "name": "Kameda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kameda was a Human male captain who served in the Imperial Navy under the command Admiral Daala prior to the Battle of Yavin.\nFollowing an ambush by members of the Rebel Alliance, it was Kameda's duty to inform Grand Moff Tarkin that Daala had been injured during the battle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Kameda",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Natasi_Daala",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Attack_on_the_first_Death_Star",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Grand_Moff/Legends",
+  "/wiki/Wilhuff_Tarkin/Legends",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

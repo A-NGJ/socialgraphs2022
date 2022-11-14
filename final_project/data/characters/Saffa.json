@@ -1,0 +1,54 @@
+{
+ "name": "Saffa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Lavender"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Graf family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Saffa was a female Twi'lek who worked for the Graf family at Everbloom, the family estate.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Saffa_(disambiguation)",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Graf_family",
+  "/wiki/Everbloom",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Saffa",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)"
+ ]
+}

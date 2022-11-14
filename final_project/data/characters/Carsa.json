@@ -1,0 +1,61 @@
+{
+ "name": "Carsa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "7 ABY aboard Freedom"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Carsa was a male Human lieutenant on the Imperial Star Destroyer Freedom. He died when a monitor exploded in his face during the Battle of Thyferra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Freedom",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Battle_of_Thyferra",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Carsa",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

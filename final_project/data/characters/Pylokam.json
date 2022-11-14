@@ -1,0 +1,51 @@
+{
+ "name": "Pylokam",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pylokam was an aged Human male who sold health food in the Mos Eisley marketplace in 0 BBY. He sold food without sugars, salts, or artificial additives. Predne Balu held a watch at his stand while looking for Obi-Wan Kenobi.\nIn the audio dramatization of \"Nightlily: The Lovers' Tale,\" the character was voiced by Bill Raymond.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Sugar/Legends",
+  "/wiki/Salt/Legends",
+  "/wiki/Predne_Balu",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Nightlily:_The_Lovers%27_Tale",
+  "/wiki/Bill_Raymond",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

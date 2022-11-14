@@ -1,0 +1,53 @@
+{
+ "name": "Bosk-toth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bosk-toth was a minor Quara Aqualish crime lord. He worked from a base in Quantill City, on the planet Ando. Bosk-Toth illegally captured Andoan mineral-fish, selling the extracted sedrellium on the black market during the height of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toth",
+  "/wiki/Ando/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Quara/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Quantill_City",
+  "/wiki/Planet/Legends",
+  "/wiki/Andoan_mineral-fish",
+  "/wiki/Sedrellium",
+  "/wiki/Black_market/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Ando_Project",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

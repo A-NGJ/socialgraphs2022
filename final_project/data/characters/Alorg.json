@@ -1,0 +1,63 @@
+{
+ "name": "Alorg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lo's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Flesh Mongers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alorg was the leader of the Flesh Mongers pirates during or prior to 32 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lo%27s_species",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Flesh_Mongers",
+  "/wiki/Pirate",
+  "/wiki/32_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Alorg",
+  "/wiki/Star_Wars_(2015)_26",
+  "/wiki/Size_Matters_Not_(Galactic_Adventures_Storybook_Collection)",
+  "/wiki/Galactic_Adventures_Storybook_Collection",
+  "/wiki/Size_Matters_Not",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Bnugor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bnugor was a male Gamorrean who had a pet snuzzleguff called Snowball. The Gamorrean lost Snowball on Mynock 7 Space Station but later recovered it at the Farrimmer Cafe owned by the old Filvian H'nib Statermast.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Snuzzleguff",
+  "/wiki/Snowball_(snuzzleguff)",
+  "/wiki/Mynock_7_Space_Station",
+  "/wiki/Farrimmer_Cafe",
+  "/wiki/Filvian",
+  "/wiki/H%27nib_Statermast",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

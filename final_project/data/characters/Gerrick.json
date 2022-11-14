@@ -1,0 +1,53 @@
+{
+ "name": "Gerrick",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gerrick was a young male Human Force-sensitive who studied to become a Jedi during the Galactic Civil War.\nA Force-sensitive Human, Gerrick received some form of training in the ways of the Force by the tie of the Galactic Civil War. However, Gerrick had knowledge of lightsaber combat and owned a lightsaber. During his life, Gerrick encountered an individual who was armed with a blaster pistol who attacked him at a distance of four meters. Gerrick managed to deflect at least one bolt back at his attacker using his lightsaber and attacked. Gerrick also once met a Gamorrean named Draughckt on Seltos and encountered him once again a year later.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Jedi_training/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Lightsaber_combat/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Blaster_pistol/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Draughckt",
+  "/wiki/Seltos",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition"
+ ]
+}

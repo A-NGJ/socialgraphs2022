@@ -1,0 +1,62 @@
+{
+ "name": "Dorma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bellassa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dorma's Cafe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dorma was an inhabitant of Bellassa, and was the proprietor of a dining establishment known as Dorma's Cafe in the Cloud Lake District of Ussa, during the last years of the Galactic Republic and the early part of the Galactic Empire. She was a good cook with a warm smile on her broad, plain face.\nAfter the Empire took over Bellassa, her business dwindled. She would occasionally provide a meal to the orphan Trever Flume.\nWhile she provided some small talk to Obi-Wan Kenobi, she ended the conversation when Obi-Wan began to ask about her former neighbors, Olin and Lands. In order to protect her establishment, she kicked Obi-Wan out when stormtroopers raided a nearby art gallery.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bellassa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dorma%27s_Cafe",
+  "/wiki/Cloud_Lake",
+  "/wiki/Ussa",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Trever_Flume",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Olin_and_Lands",
+  "/wiki/The_Last_of_the_Jedi:_The_Desperate_Mission",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Geenor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ceriun"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 1000 BBY",
+      "Ceriun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Geenor was a farmer on the planet Ceriun about 1000 BBY. He was an associate of Flass and Tenno who together worked on the fields to collect dung weed. Hoping a Sith would discover them and train them, they waited until a Sith came and slaughtered the group.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ceriun",
+  "/wiki/1000_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Flass",
+  "/wiki/Tenno",
+  "/wiki/Dung_weed",
+  "/wiki/Sith/Legends",
+  "/wiki/Tattooed_Sith_Lord",
+  "/wiki/All_for_You",
+  "/wiki/Star_Wars_Tales_17",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

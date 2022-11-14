@@ -1,0 +1,72 @@
+{
+ "name": "H'Raak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "59 BBY"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tusken Raider"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "H'Raak was a male Tusken Raider who disagreed with the ideas of A'Yark. H'Raak was killed by A'Yark and his bantha was given to her youngest son, A'Deen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/59_BBY/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/A%27Yark/Legends",
+  "/wiki/Bantha/Legends",
+  "/wiki/A%27Deen",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

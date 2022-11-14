@@ -1,0 +1,47 @@
+{
+ "name": "Byrec",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Byrec was a male Trandoshan who lived during the Galactic Civil War. He resided on Nova Orion Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Nova_Orion_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Byrec",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

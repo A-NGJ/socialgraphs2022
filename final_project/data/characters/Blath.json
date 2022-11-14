@@ -1,0 +1,47 @@
+{
+ "name": "Blath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chay Praysh"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Blath was a tired Bith medic for Chay Praysh on Torpris. His duty was to ensure the health of the Drach'nam's slaves toiling in the nutrient slime pits in the bowels of Praysh's fortress. He was sympathetic, but nervous with the pressure of regularly incurring his employer's temper, working a job under the lens of a surveillance camera.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chay_Praysh",
+  "/wiki/Torpris",
+  "/wiki/Drach%27nam",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Blath",
+  "/wiki/Jade_Solitaire",
+  "/wiki/Tales_from_the_New_Republic"
+ ]
+}

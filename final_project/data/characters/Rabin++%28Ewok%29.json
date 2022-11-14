@@ -1,0 +1,62 @@
+{
+ "name": "Rabin  (Ewok)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red-brown and grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Bright Tree Village"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rabin was an Ewok who lived on the moon of Endor during the Battle of Endor. Aside from being a beast tamer, he was known as a thief, a loner, a hunter, and a survivor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rabin",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Endor_Limited",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_90",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

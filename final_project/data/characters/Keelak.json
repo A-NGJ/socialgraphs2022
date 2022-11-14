@@ -1,0 +1,48 @@
+{
+ "name": "Keelak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tauntaun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keelak was a tauntaun cow who was part of a herd of tauntauns that were captured and domesticated by the Rebels of Echo Base on Hoth. She eventually challenged Murra, the matriarch of the herd, for a leadership role, though their fight was eventually broken up by Leia Organa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hoth",
+  "/wiki/Tauntaun",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Echo_Base",
+  "/wiki/Murra_(tauntaun)",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/She_Will_Keep_Them_Warm",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

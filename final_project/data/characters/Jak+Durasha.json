@@ -1,0 +1,65 @@
+{
+ "name": "Jak Durasha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lankashiir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Durasha family",
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jak Durasha was a Human male who was one of Reise Durasha's sons and served on board the Relentless during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lankashiir",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Durasha_family",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Adion_Lang",
+  "/wiki/Reise_Durasha",
+  "/wiki/Relentless_(Vanko)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/A_Certain_Point_of_View_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

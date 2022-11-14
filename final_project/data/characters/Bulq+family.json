@@ -1,0 +1,50 @@
+{
+ "name": "Bulq family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Ruul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Jedi Order",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Bulq family was a wealthy Weequay family from Ruul, a moon of Sriluur, which they also owned. Jedi Master Sora Bulq was a member of this family.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Ruul_(moon)",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Sora_Bulq/Legends",
+  "/wiki/Databank_(original)",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

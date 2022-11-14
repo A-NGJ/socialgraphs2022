@@ -1,0 +1,50 @@
+{
+ "name": "Sax Hastur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Nashtah Squadron",
+      "Nashtah Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sax Hastur was a human male who served as the commanding officer of Nashtah Squadron.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Nashtah_Squadron",
+  "/wiki/Commanding_officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sax_Hastur",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Last_Call_at_the_Zero_Angle",
+  "/wiki/Star_Wars_Insider_156"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "name": "Ambak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ambak was a Mon Calamari physicist. Ambak proposed that there was a distance from a planet beyond which moons could exist or be created by the accretion of left-over matter. Inside of this distance, moons would not form due to the mother planet's gravitational pull. The distance was relative to the planet's size and natural gravity. This proposal became known as the Ambak limit.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Physicist",
+  "/wiki/Planet/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Gravity/Legends",
+  "/wiki/Ambak_limit",
+  "/wiki/Galaxy_Guide_2:_Yavin_and_Bespin",
+  "/wiki/Galaxy_Guide_2:_Yavin_and_Bespin_(Second_Edition)"
+ ]
+}

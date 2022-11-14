@@ -1,0 +1,62 @@
+{
+ "name": "Ekma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Koros-Strohna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yu'shaa; Jeedai heresy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ekma was a Yuuzhan Vong Shamed One who lived in the ruins of Coruscant beneath Yuuzhan'tar, along with Vuurok I'pan. He venerated the Jedi Knights after the death of Ganner Rhysode.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koros-Strohna",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Nom_Anor",
+  "/wiki/Jeedai_heresy",
+  "/wiki/Shamed_Ones",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Coruscant/Legends#Yuuzhan'tar",
+  "/wiki/Vuurok_I%27pan",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Ganner_Rhysode",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_I:_Remnant",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

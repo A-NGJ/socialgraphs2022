@@ -1,0 +1,69 @@
+{
+ "name": "Lintreyst",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lintreyst was a male human who served as the Minister of Finance of Alderaan toward the end of Queen Breha Organa's reign.\nLintreyst was first introduced in Eclipse, a short story within the book From a Certain Point of View.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Alderaan",
+  "/wiki/0_BBY",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/House_of_Organa",
+  "/wiki/Minister_of_Finance",
+  "/wiki/Alderaanian_monarchy",
+  "/wiki/Breha_Organa",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lintreyst",
+  "/wiki/Eclipse_(short_story)",
+  "/wiki/From_a_Certain_Point_of_View",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

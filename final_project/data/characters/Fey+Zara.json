@@ -1,0 +1,41 @@
+{
+ "name": "Fey Zara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fey Zara was a Twi'lek female who was the keeper of a cantina, where she offered people quests for the holotables.\nFey Zara first appeared in the 2015 mobile game Star Wars: Galaxy of Heroes, however she was unnamed until Version Update 5/23/2018 where she gave players quests for the holotables.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Fey_Zara%27s_cantina",
+  "/wiki/Holotable",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_Galaxy_of_Heroes",
+  "/wiki/2018",
+  "/wiki/Electronic_Arts"
+ ]
+}

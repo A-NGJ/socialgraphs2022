@@ -1,0 +1,59 @@
+{
+ "name": "Enjikket",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Enjikket was a Jawa of Nebit's tribe. A scouting mission for R2-D2 in the Jundland Wastes was his and his brother Yeelhoy's first hunt. He was the youngest member of the scouting party, and a nephew of scout leader Dathcha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Nebit/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Jundland_Wastes/Legends",
+  "/wiki/Yeelhoy",
+  "/wiki/Dathcha/Legends",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/The_Complete_Star_Wars_Trilogy_Scrapbook",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_20",
+  "/wiki/StarWars.com",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Bluebrow",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bluebrow was an Ithorian pirate and a fairy tale character appearing in some songs and rhymes taught to younglings across the Core Worlds. Like Princess Chaia of Alderaan, his character was fictional, but rooted in fact.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ithorian",
+  "/wiki/Gender",
+  "/wiki/Youngling",
+  "/wiki/Core_Worlds",
+  "/wiki/Prince",
+  "/wiki/Chaia",
+  "/wiki/Alderaan",
+  "/wiki/The_High_Republic:_Into_the_Dark",
+  "/wiki/The_High_Republic:_Into_the_Dark_(audiobook)"
+ ]
+}

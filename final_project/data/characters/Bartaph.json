@@ -1,0 +1,52 @@
+{
+ "name": "Bartaph",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bartaph was a female Human who served as a colonel in the Republic Army during the Galactic War between the Galactic Republic and the resurgent Sith Empire. After Warden Graal disappeared during the riots that resulted from the Imperial attack on the prison planet Belsavis, Bartaph was sent to Belsavis in order to serve as the prison's new warden.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Colonel/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Warden/Legends",
+  "/wiki/Graal_(Warden)",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Prison/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Brak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hapes Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brak was one of the bodyguards of Prince Isolder during the time of the Second Galactic Civil War and wasn't fond of Jedi like many other Hapans.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapan",
+  "/wiki/Gender/Legends",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Isolder",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Jedi/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brak",
+  "/wiki/Legacy_of_the_Force:_Tempest"
+ ]
+}

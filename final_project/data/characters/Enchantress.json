@@ -1,0 +1,50 @@
+{
+ "name": "Enchantress",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ushruu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Enchantress was a Force-sensitive human female from the planet Ushruu. A worshipper of the Vathyr, she used her slaves to contruct a temple of fear in the side of the chasm it resided in.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ushruu",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Force-sensitive",
+  "/wiki/Planet",
+  "/wiki/Vathyr",
+  "/wiki/Slavery",
+  "/wiki/Chasm_(Ushruu)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Enchantress",
+  "/wiki/The_Mighty_Chewbacca_in_the_Forest_of_Fear!",
+  "/wiki/The_Mighty_Chewbacca_in_the_Forest_of_Fear!_(audiobook)"
+ ]
+}

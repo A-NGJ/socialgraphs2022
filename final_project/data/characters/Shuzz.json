@@ -1,0 +1,37 @@
+{
+ "name": "Shuzz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shuzz was a male Kubaz who frequented the Lazy Bergruutfa Cantina on Betha II.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lazy_Bergruutfa_Cantina",
+  "/wiki/Betha_II",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Counterstrike_(Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_8",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Four_-_The_Best_of_the_Journal",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

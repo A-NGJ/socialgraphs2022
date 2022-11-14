@@ -1,0 +1,48 @@
+{
+ "name": "Durmag",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ploovo's Protocol Team"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Durmag was a force-pike-wielding Gamorrean mercenary. He worked as muscle on Socorro for the Twi'lek gangster Abdi-Badawzi before he was traded to Ploovo Two-For-One for a previous favor and became a member of Ploovo's Protocol Team. Although he enjoyed working for Abdi-Badawzi, he did not mind the move, because it meant a greater chance of physical action against people that owed Ploovo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ploovo%27s_Protocol_Team",
+  "/wiki/Force_pike/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Socorro/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Abdi-Badawzi",
+  "/wiki/Ploovo_Two-For-One/Legends",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

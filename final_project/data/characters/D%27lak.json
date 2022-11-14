@@ -1,0 +1,36 @@
+{
+ "name": "D'lak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "D'lak was a minor ryll Spice merchant in the Outer Rim. He has buyers up and down the Corellian Run Trade Route.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ryll/Legends",
+  "/wiki/Spice_merchant",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Corellian_Run_Trade_Route",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/D%27lak",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

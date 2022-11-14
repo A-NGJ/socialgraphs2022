@@ -1,0 +1,63 @@
+{
+ "name": "Seegree",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mon Calamari Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seegree was a female Mon Calamari and the administrator of Foamwander City. She also was a key member of the Calamarian Council.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mon_Calamari_Council",
+  "/wiki/Foamwander_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Seegree",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

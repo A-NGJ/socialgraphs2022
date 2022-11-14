@@ -1,0 +1,48 @@
+{
+ "name": "Puddra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Puddra was a stormtrooper who was assigned to the detention area of the Imperial energy mining facility on the planet Mimban.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Energy_mining/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Mimban/Legends",
+  "/wiki/Splinter_of_the_Mind%27s_Eye",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

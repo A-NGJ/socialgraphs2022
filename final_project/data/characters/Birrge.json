@@ -1,0 +1,45 @@
+{
+ "name": "Birrge",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chandrila"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Birrge was an old Sanitation Worker in Hanna City on Chandrila.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hanna_City/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Birrge",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

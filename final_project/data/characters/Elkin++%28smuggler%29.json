@@ -1,0 +1,51 @@
+{
+ "name": "Elkin  (smuggler)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Car'das smugglers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elkin was a male Human smuggler and a member of Talon Karrde's organization in 19 ABY. He was stationed aboard the Starry Ice as a gunner under Commander Shirlee Faughn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Car%27das_smugglers",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Talon_Karrde",
+  "/wiki/Smugglers%27_Alliance",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Starry_Ice",
+  "/wiki/Commander/Legends",
+  "/wiki/Shirlee_Faughn",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

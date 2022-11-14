@@ -1,0 +1,53 @@
+{
+ "name": "Mirrix",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mirrix was one of the wives of King Sha-Mar Ma-dred of Kashir.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashir",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Sha-Mar_Ma-dred",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mirrix",
+  "/wiki/A_Jedi%27s_Weapon",
+  "/wiki/Star_Wars_Tales_12"
+ ]
+}

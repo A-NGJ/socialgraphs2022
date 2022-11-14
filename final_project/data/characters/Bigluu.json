@@ -1,0 +1,36 @@
+{
+ "name": "Bigluu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Herglic"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bigluu was a Herglic bouncer at the Corusca Gem Casino. He had a severe gambling addiction, and although he dreamed of opening his own casino someday, he generally wasted all his money gambling instead of saving it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Herglic/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corusca_Gem_Casino",
+  "/wiki/Gambling/Legends",
+  "/wiki/Casino/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bigluu",
+  "/wiki/Wizards.com",
+  "/wiki/Positive_ID"
+ ]
+}

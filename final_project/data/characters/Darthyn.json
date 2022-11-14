@@ -1,0 +1,52 @@
+{
+ "name": "Darthyn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darthyn was a male Human who lived during the Cold War between the Galactic Republic and the Sith Empire. He made his living as a merchant on board Carrick Station.\nDarthyn first appeared in Star Wars: The Old Republic, a video game released by BioWare in 2011, as a Tython planetary commendation vendor on board Carrick Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Merchant/Legends",
+  "/wiki/Carrick_Station",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Video_game",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/Tython/Legends"
+ ]
+}

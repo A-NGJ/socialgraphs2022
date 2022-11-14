@@ -1,0 +1,52 @@
+{
+ "name": "Kroydon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Saurin"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tonk's crew"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kroydon was a Saurin who was a member of a crew lead by Tonk.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Saurin",
+  "/wiki/Color",
+  "/wiki/Tonk%27s_crew",
+  "/wiki/Tonk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kroydon",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/The_Wrong_Crowd"
+ ]
+}

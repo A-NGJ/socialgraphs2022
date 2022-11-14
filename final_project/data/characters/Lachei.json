@@ -1,0 +1,72 @@
+{
+ "name": "Lachei",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey-brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lachei was a female Selonian scout who worked with the civilian resistance on Corellia during the Galactic War between the Sith Empire and the Galactic Republic. During the Battle of Corellia, Lachei located the command unit of the hunter droids the bounty hunter Vermilion was using to hunt Selonians, and Republic forces were able to end the droids' threat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Vermilion_(bounty_hunter)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

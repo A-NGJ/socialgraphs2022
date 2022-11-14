@@ -1,0 +1,50 @@
+{
+ "name": "Halley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mr. Halley was a member of the crew of the New Republic CR90 corvette FarStar. He served in the cee-cee as officer of the watch during the Battle of Galtea.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/CR90_corvette/Legends",
+  "/wiki/FarStar",
+  "/wiki/Battle_of_Galtea",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Halley",
+  "/wiki/The_DarkStryder_Campaign_(series)",
+  "/wiki/Traitor_in_our_Midst",
+  "/wiki/The_DarkStryder_Campaign",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

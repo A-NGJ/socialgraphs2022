@@ -1,0 +1,49 @@
+{
+ "name": "Ku'amar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ku'amar was a Twi'lek and the cousin of Tru'eb Cholakk. Ku'amar kidnapped Tru'eb and gave him to slavers, thus preventing Tru'eb from fulfilling his dream of becoming a head-clan member of the city of Kala'uun.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tru%27eb_Cholakk",
+  "/wiki/Slavery/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Kala%27uun/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Big_Quince_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "name": "Beeznusa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Freerago's Satellite Diner and Motel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beeznusa was an old male Dug waiter in Freerago's Satellite Diner and Motel. He had only one eye and a star map tattoo on one of his legs.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Dug",
+  "/wiki/Gender",
+  "/wiki/Freerago%27s_Satellite_Diner_and_Motel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Beeznusa",
+  "/wiki/STET!",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

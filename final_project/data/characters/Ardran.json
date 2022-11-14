@@ -1,0 +1,81 @@
+{
+ "name": "Ardran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireSithSith Academy",
+      "Sith",
+      "Sith Academy"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "One apprentice"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ardran was a Human male Overseer of the Sith Academy on Korriban during the Cold War between the Galactic Republic and the resurgent Sith Empire. Adran had an apprentice who was disliked by Lord Thrain for their privileged attitude, which meant that the apprentice would most likely never become a full Sith.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_Academy_(Korriban)",
+  "/wiki/Ardran%27s_apprentice",
+  "/wiki/Overseer_(Sith)",
+  "/wiki/Korriban",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Thrain",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ardran",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Duan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Sith military",
+      "Sith military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duan was a female Human officer who served Darth Malak's Sith Empire during the Jedi Civil War. In 3956 BBY, she was stationed on Manaan. During her stay, she was known to be a heavy drinker.\nDuan will only have a conversation if Revan is a male. If Revan is a woman, Duan simply tells the female Revan to back-off and leave her alone.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Sith_military_(Jedi_Civil_War)",
+  "/wiki/Revan/Legends",
+  "/wiki/Sith_officer",
+  "/wiki/Darth_Malak",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/3956_BBY",
+  "/wiki/Manaan/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Freff",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nightbrothers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Freff was a Dathomirian Zabrak and a member of the Nightbrothers of Dathomir. He and the other members of his tribe served the Nardithi Nightsister Jerserra.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Dathomir",
+  "/wiki/Zabrak",
+  "/wiki/Dathomirian",
+  "/wiki/Gender",
+  "/wiki/Nightbrothers",
+  "/wiki/Nardithi_Nightsisters",
+  "/wiki/Jerserra",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Freff",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Mezza",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ryn"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red-orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mezza was the leader of one of two clans of Ryn refugees stranded on the planet Duro during the Yuuzhan Vong War. She was an aging female with graying, red-orange fur.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryn/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Hair/Legends",
+  "/wiki/The_New_Jedi_Order:_Balance_Point",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

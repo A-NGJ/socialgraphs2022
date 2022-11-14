@@ -1,0 +1,50 @@
+{
+ "name": "Laine",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Laine was a pilot trained by Soontir Fel at the Prefsbelt IV Naval Academy. He mocked Tycho Celchu for being from pacifistic Alderaan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Soontir_Fel/Legends",
+  "/wiki/Imperial_Naval_Academy",
+  "/wiki/Tycho_Celchu/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Laine",
+  "/wiki/X-Wing_Rogue_Squadron_25"
+ ]
+}

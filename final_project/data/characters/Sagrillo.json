@@ -1,0 +1,39 @@
+{
+ "name": "Sagrillo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tassaa Bareesh"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sagrillo was a Twi'lek employee of Hutt crime lord Tassaa Bareesh in 3643 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Tassaa_Bareesh",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/The_Old_Republic:_Fatal_Alliance",
+  "/wiki/The_Old_Republic:_Fatal_Alliance_(audiobook)"
+ ]
+}

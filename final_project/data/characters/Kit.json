@@ -1,0 +1,57 @@
+{
+ "name": "Kit",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tintinna"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shug Ninx"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kit was a Tintinna associate of the mechanic Shug Ninx. When the spacer first met the Tintinna, he mistook the being for a non-sentient animal. He found the Tintinna incredibly cute, so he took him in as a pet on his ship and named him Kit. Within two days, the Tintinna organized Ninx's tools by size, shape, and function and performed some repairs on the ship. Ninx realized his mistake and took Kit on as a partner rather than a pet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kit_(disambiguation)",
+  "/wiki/Tintinna",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Shug_Ninx",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

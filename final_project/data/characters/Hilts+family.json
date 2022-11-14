@@ -1,0 +1,51 @@
+{
+ "name": "Hilts family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Hilts family was a Human Sith family of the Lost Tribe of Sith.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Kesh",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Sith/Legends",
+  "/wiki/Slippery_Hilts",
+  "/wiki/Varner_Hilts%27_mother",
+  "/wiki/Varner_Hilts",
+  "/wiki/Iliana_Hilts",
+  "/wiki/Takara_Hilts",
+  "/wiki/Lost_Tribe_of_the_Sith:_Pantheon",
+  "/wiki/Lost_Tribe_of_the_Sith:_Secrets",
+  "/wiki/Lost_Tribe_of_the_Sith:_Pandemonium",
+  "/wiki/Star_Wars:_Lost_Tribe_of_the_Sith%E2%80%94Spiral"
+ ]
+}

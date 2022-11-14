@@ -1,0 +1,36 @@
+{
+ "name": "Humajum",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Humajum was a female Besalisk contact of the Gran criminal Oobolo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Besalisk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Oobolo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Humajum",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Roll_of_the_Dice",
+  "/wiki/Star_Wars_Insider_135"
+ ]
+}

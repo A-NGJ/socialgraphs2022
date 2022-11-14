@@ -1,0 +1,50 @@
+{
+ "name": "Erf",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rej Taunt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Erf was a Weequay male who worked for Rej Taunt. In 43 ABY, he and another Weequay working for Taunt accompanied Tobb Jadak and Flitcher Poste on a mission to Holess to capture a Colicoid with a connection to Taunt's rival, Lestra Oxic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rej_Taunt",
+  "/wiki/43_ABY",
+  "/wiki/Tobb_Jadak",
+  "/wiki/Flitcher_Poste",
+  "/wiki/Holess",
+  "/wiki/Colicoid/Legends",
+  "/wiki/Lestra_Oxic",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

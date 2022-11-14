@@ -1,0 +1,38 @@
+{
+ "name": "Ghador",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivax Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ghador was a male boss of the Ivax Syndicate. During the Iron Blockade, he attempted to secede from the Syndicate and found his own criminal empire on Zhanox.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gender",
+  "/wiki/Ivax_Syndicate",
+  "/wiki/Crime_lord",
+  "/wiki/Iron_Blockade",
+  "/wiki/Zhanox",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

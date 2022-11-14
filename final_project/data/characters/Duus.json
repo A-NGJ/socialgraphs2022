@@ -1,0 +1,59 @@
+{
+ "name": "Duus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "the Cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duus was a Tarasin male living in Nirama's public asteroid.\nAs he had left his native planet Cularin in 34 BBY, Duus had been the subject of a search and then regarded as a traitor by the Tarasin.\nIn 31 BBY, Duus was a member of the Cell, a group trying to oust Nirama from control of the Cularin system's crime.\nThis was a name on a list of Cell members that the Gamemaster could assign whatever role and skills necessary to challenge the players when the Cell tested the skills they claimed they were good at. This character's skill would depend on the player character's and a dice roll. Should the player character compete with this person, Duus would appear dead soon afterwards, killed by The Cell because the PC could filter Duus's name as a Cell member.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Cell",
+  "/wiki/Nirama%27s_public_asteroid",
+  "/wiki/34_BBY/Legends",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Nirama",
+  "/wiki/Cularin_system",
+  "/wiki/TopWorld"
+ ]
+}

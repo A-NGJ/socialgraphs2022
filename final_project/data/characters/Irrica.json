@@ -1,0 +1,50 @@
+{
+ "name": "Irrica",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorensla kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Irrica the Hutt was a Hutt member of the Gorensla kajidic. She led the clan's operations in the Toydarian city of Riar, and was very concerned when Walisi, a Toydarian merchant affiliated with the kajidic, disappeared. Although she had an arrogant personality, Irrica was intelligent.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Gender",
+  "/wiki/Gorensla",
+  "/wiki/Kajidic",
+  "/wiki/Toydaria",
+  "/wiki/City",
+  "/wiki/Riar",
+  "/wiki/Walisi",
+  "/wiki/Toydarian",
+  "/wiki/Merchant",
+  "/wiki/Walisi%27s_kidnapping",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

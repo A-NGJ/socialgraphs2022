@@ -1,0 +1,75 @@
+{
+ "name": "Calister",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Imperial Officer Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Calister was a male human Imperial officer who held the rank of commander in the Galactic Empire. Commander Calister arrived to pick up Imperial spy Lyle Kullan after he sent out a distress signal.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Imperial_officer",
+  "/wiki/Commander",
+  "/wiki/Ambush_in_the_Valo_system",
+  "/wiki/Spy",
+  "/wiki/Lyle_Kullan",
+  "/wiki/Distress_signal",
+  "/wiki/Category:Galactic_Empire_stubs",
+  "/wiki/Wookieepedia",
+  "/wiki/Special:EditPage/Calister",
+  "/wiki/Star_Wars_Adventures_(2020)",
+  "/wiki/Squad_Goals,_Part_2",
+  "/wiki/Star_Wars_Adventures_(2020)_12"
+ ]
+}

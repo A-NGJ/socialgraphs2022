@@ -1,0 +1,51 @@
+{
+ "name": "Kallyx",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kallyx the Piner was a bounty hunter operating during the time leading up to the Clone Wars.\nA corrupt Human bounty hunter, Kallyx was known as the Piner, an ancient world meaning \"to torture.\" Taking a bounty on the Jedi Master Tobar Ka-Teen posted by Black Sun, Ka-Teen successfully captured the Ithorian. Torturing him for weeks using knives, Ka-Teen successfully manipulated Kallyx, deceiving her through a complex web of lies. Kallyx's torture ended when a Jedi strike force rescued Ka-Teen.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Tobar_Ka-Teen/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Knife/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Nexus_of_Power"
+ ]
+}

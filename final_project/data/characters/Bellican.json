@@ -1,0 +1,53 @@
+{
+ "name": "Bellican",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bellican was a judge sent to the Penumbra Spaceport for the trial of Roan Lands and Dona Telamark on the True Justice, along with Tomay Alcorn, the attorney, and Sam Weller, the law clerk. However, this was prevented when Solace impersonated him; also, Trever Flume, as Weller, and Oryon, as Alcorn, went with Solace.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Penumbra_Spaceport",
+  "/wiki/Roan_Lands",
+  "/wiki/Dona_Telamark",
+  "/wiki/True_Justice",
+  "/wiki/Oryon",
+  "/wiki/Sam_Weller",
+  "/wiki/Fy-Tor-Ana",
+  "/wiki/Trever_Flume",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bellican",
+  "/wiki/The_Last_of_the_Jedi:_A_Tangled_Web",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

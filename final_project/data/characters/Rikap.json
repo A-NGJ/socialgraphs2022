@@ -1,0 +1,48 @@
+{
+ "name": "Rikap",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lant Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mister Rikap was a Lant Mining Corporation employee. He worked as a sensor technician on the Asteroid Prospector AP-300 The Pulverizer.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lant_Mining_Corporation",
+  "/wiki/Sensor/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Asteroid_Prospector_AP-300",
+  "/wiki/The_Pulverizer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rikap",
+  "/wiki/Flashpoint!_Brak_Sector"
+ ]
+}

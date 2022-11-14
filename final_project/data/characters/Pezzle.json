@@ -1,0 +1,53 @@
+{
+ "name": "Pezzle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "33 BBY",
+      "Karfeddion"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pezzle was a Human on Karfeddion. One day he entered the Tipsy Mynock to collect payment from a mercenary named Lope. To demonstrate Lope's worthiness to accompany Captain Arwen Cohl on a Nebula Front attack on the Eriadu Trade Summit, Lope killed Pezzle and his three companions with a blaster.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Karfeddion/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Tipsy_Mynock",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Lope_(individual)",
+  "/wiki/Captain/Legends",
+  "/wiki/Arwen_Cohl",
+  "/wiki/Nebula_Front/Legends",
+  "/wiki/Eriadu_Trade_Summit",
+  "/wiki/Blaster/Legends",
+  "/wiki/Cloak_of_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

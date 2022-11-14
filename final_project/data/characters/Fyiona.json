@@ -1,0 +1,54 @@
+{
+ "name": "Fyiona",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fyonia, nicknamed Lawless Fyonia, was a female Human smuggler. During the third Galactic War she was stationed in the of Invasion Zone on Manaan, where he provided training to other Smugglers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Manaan/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Legacy_of_the_Sith"
+ ]
+}

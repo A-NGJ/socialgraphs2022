@@ -1,0 +1,79 @@
+{
+ "name": "Phraken-Nal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow-orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phraken-Nal was a male Voss commander who lived during the Galactic War between the Galactic Republic and the Sith Empire. Around 3640 BBY, Phraken-Nal assisted the Hero of Tython and Tala-Reh in search to rescue Valen-Da and stop Lord Fulminiss from spreading chaos on the planet Voss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3640_BBY",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Tala-Reh",
+  "/wiki/Valen-Da",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Fulminiss",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

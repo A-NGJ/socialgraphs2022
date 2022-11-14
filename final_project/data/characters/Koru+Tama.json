@@ -1,0 +1,61 @@
+{
+ "name": "Koru Tama",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red",
+      "white and blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koru Tama was a Togruta aide to Senator Evran, Republic diplomat on Voss. When the Havoc Squad Major arrived to accomplish several military objectives for Evran, Koru Tama provided him with additional objectives, such as recovering Voss artifacts and destroying Gormak snipers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Evran",
+  "/wiki/Voss",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Gormak/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

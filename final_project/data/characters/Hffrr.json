@@ -1,0 +1,47 @@
+{
+ "name": "Hffrr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Agaris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Agarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hffrr was a male Agarian who helped the Graf family escape Imperial captivity on the planet Agaris.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Agaris",
+  "/wiki/Agarian",
+  "/wiki/Gender",
+  "/wiki/Graf_family",
+  "/wiki/Galactic_Empire",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hffrr",
+  "/wiki/Adventures_in_Wild_Space:_The_Rescue"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Chewbacca's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chewbacca's family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Wookiee was the mother of Chewbacca and the mate of Attichitcuk. She and Attichitcuk lived in the city of Rwookrrorro on the planet Kashyyyk.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Chewbacca%27s_family",
+  "/wiki/Chewbacca",
+  "/wiki/Attichitcuk",
+  "/wiki/Rwookrrorro",
+  "/wiki/Planet",
+  "/wiki/Kashyyyk",
+  "/wiki/Star_Wars:_The_Complete_Visual_Dictionary,_New_Edition"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Bular",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ahakista"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Ahakista"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black/gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bular was a Human male councilman who lived on the planet Ahakista during the Galactic Civil War. In 0 ABY, he was killed by Darth Vader for failing to destroy Dunlan's forces.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ahakista/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Council",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Dunlan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bular",
+  "/wiki/Rebellion_7",
+  "/wiki/Rebellion_8",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

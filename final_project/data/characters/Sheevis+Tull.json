@@ -1,0 +1,44 @@
+{
+ "name": "Sheevis Tull",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Atrivis 7"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sheevis Tull was the father of Sheeka Tull and a younger daughter. He and his wife died during a range war on Atrivis 7. Prior to his death, he taught Sheeka to fly.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Atrivis_7",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sheeka_Tull",
+  "/wiki/Sheeka_Tull%27s_sister",
+  "/wiki/The_Cestus_Deception"
+ ]
+}

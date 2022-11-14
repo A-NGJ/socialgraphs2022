@@ -1,0 +1,45 @@
+{
+ "name": "Gadsle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gadsle was a noted Twi'lek Spheroids player during the reign of the Galactic Empire, although he lost more often than he won.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spheroids",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galladinium%27s_Fantastic_Technology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

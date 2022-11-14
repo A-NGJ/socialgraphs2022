@@ -1,0 +1,58 @@
+{
+ "name": "Sadoll",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sadoll was a Human male archaeologist working on Voss during the Galactic War. He was acquainted with Koru Tama, aide to Senator Evran, and Tama convinced Havoc Squad to retrieve a number of relics from the Old Paths region and deliver them to Sadoll at Kri-Ta Outpost.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Archaeology/Legends",
+  "/wiki/Voss",
+  "/wiki/Galactic_War",
+  "/wiki/Koru_Tama",
+  "/wiki/Senator/Legends",
+  "/wiki/Evran",
+  "/wiki/Havoc_Squad",
+  "/wiki/Old_Paths",
+  "/wiki/Kri-Ta_Outpost",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Inntak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chattza Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Inntak was a male Rodian bounty hunter.\nA member of the dominant Chattza Clan—though with little clan loyalty—he only took bounties for rogue Rodians and those that had angered Navik the Red. Inntak maintained a secret contact with Entukan Yesosko, leader of the Rodian Galactic Drama Troupe, who informed him whenever wanted Rodians attended their performances.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chattza_Clan",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Navik",
+  "/wiki/Entukan_Yesosko",
+  "/wiki/Rodian_Galactic_Drama_Troupe",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Inntak",
+  "/wiki/West_End_Games",
+  "/wiki/Street_Drama",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Mullmoy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mullmoy was a human male doctor who operated on Ferrix. In 5 BBY, the doctor talked with Jezzi about Maarva Andor's condition.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Andor",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Doctor",
+  "/wiki/Ferrix",
+  "/wiki/5_BBY",
+  "/wiki/Jezzi",
+  "/wiki/Maarva_Andor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mullmoy",
+  "/wiki/Andor_(television_series)",
+  "/wiki/One_Way_Out"
+ ]
+}

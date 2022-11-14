@@ -1,0 +1,61 @@
+{
+ "name": "Ha'laa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ha'laa was a male Twi'lek lieutenant of the Galactic Republic. In the aftermath of the Battle of Corellia during the Galactic War he was posted at Carrick Station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Galactic_War",
+  "/wiki/Carrick_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ha%27laa",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

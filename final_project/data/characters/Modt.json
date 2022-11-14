@@ -1,0 +1,58 @@
+{
+ "name": "Modt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free AlliancesCoruscanti Immigration Service",
+      "Coruscanti Immigration Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Modt was a Duros inspector in the Coruscanti Immigration Service. He was responsible for finding neutron pixie spice which undercover Jedi Knight Bazel Warv was carrying.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Red",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Coruscanti_Immigration_Service",
+  "/wiki/Neutron_Pixie",
+  "/wiki/Spice/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Bazel_Warv",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Modt",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

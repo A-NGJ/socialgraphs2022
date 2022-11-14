@@ -1,0 +1,52 @@
+{
+ "name": "Piddock",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Geonosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Piddock was the Geonosian duke of Gogum Hive. He traded with the Gand bounty hunter Vrixx'tt during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/Gogum_Hive",
+  "/wiki/Gand/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Vrixx%27tt",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Piddock",
+  "/wiki/The_Long_Arm_of_the_Hutt"
+ ]
+}

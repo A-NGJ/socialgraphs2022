@@ -1,0 +1,70 @@
+{
+ "name": "Generet",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 0 ABY and 3 ABY",
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human",
+      "surgically altered to resemble a Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence",
+      "Destabilization",
+      "Destabilization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Generet was a Human Imperial agent for Imperial Intelligence's Destabilization branch. He allowed his appearance to be surgically altered so that he resembled a Mon Calamari, and participated in the Calamari Project, an effort incite war between the Mon Calamari and the Quarren.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Dac",
+  "/wiki/Human/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Destabilization",
+  "/wiki/Captain/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Calamari_Project",
+  "/wiki/Quarren/Legends",
+  "/wiki/Death_in_the_Undercity",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

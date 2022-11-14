@@ -1,0 +1,48 @@
+{
+ "name": "Canno Wix",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Valarian's gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Canno Wix was a male Devaronian pirate in league with the Whiphid crime lady Valarian and her gang.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaronian",
+  "/wiki/Gender",
+  "/wiki/Valarian%27s_gang",
+  "/wiki/Pirate",
+  "/wiki/Whiphid",
+  "/wiki/Crime_lord",
+  "/wiki/Valarian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Canno_Wix",
+  "/wiki/Choose_Your_Destiny:_An_Escape_Mission"
+ ]
+}

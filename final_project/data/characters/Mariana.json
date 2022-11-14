@@ -1,0 +1,49 @@
+{
+ "name": "Mariana",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bellassa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mariana was a native of Bellassa who owned and operated a custom tailoring shop known as Mariana's Exquisite Designs and Alterations, during the last years of the Galactic Republic and the rise of the Galactic Empire. Under the Republic, her shop had catered to mostly wealthy clients of the city of Ussa. However, after the Empire took over the planet she fell on hard times and agreed to take in Imperial sewing jobs. This alienated her Bellassan customers who thereafter boycotted the shop, and though it remained empty most days, Mariana was working through the night sewing and tailoring uniforms for the local Imperial garrison and prison.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bellassa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mariana%27s_Exquisite_Designs_and_Alterations",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Rise_of_the_Empire_era",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Ussa",
+  "/wiki/The_Last_of_the_Jedi:_The_Desperate_Mission",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

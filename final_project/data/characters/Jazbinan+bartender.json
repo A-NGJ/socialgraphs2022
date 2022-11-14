@@ -1,0 +1,52 @@
+{
+ "name": "Jazbinan bartender",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jazbina"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jazbinan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This bartender was a Jazbinan who tended bar on Jazbina.\nHe was serving drinks at his bar and watched in shock when 3DVO transmitted a broadcast of an imprisoned Prepredenko, their monarch. He tried to maintain a business-as-usual attitude, continuing to serve drinks. He offered a new drink to a regular named Sebb. Sebb refused, believing the barkeep would laugh at his lack of desire to drink, even after what they had just witnessed. Contrary to Sebb's belief, the bartender refused to laugh.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jazbina/Legends",
+  "/wiki/Jazbinan",
+  "/wiki/Gender/Legends",
+  "/wiki/3DVO",
+  "/wiki/Prepredenko",
+  "/wiki/Sebb",
+  "/wiki/Vader%27s_Quest_3",
+  "/wiki/Vader%27s_Quest_4"
+ ]
+}

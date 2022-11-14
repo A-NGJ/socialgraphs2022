@@ -1,0 +1,67 @@
+{
+ "name": "Nattis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nattis was a Human male who worked as a specialist in the resurgent Sith Empire during the Galactic War. As part of the Imperial strike team dispatched to The Tomb on Belsavis, Nattis and his superior Master Sergeant Hayg engaged a group of Esh-kha armed with highly advanced blasters. Hayg's objective was to deal with Republic forces, and so it fell to Nattis to recruit a fellow Imperial who could retrieve the dangerous technology from the Esh-kha.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/The_Tomb",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Master_Sergeant/Legends",
+  "/wiki/Hayg",
+  "/wiki/Esh-kha",
+  "/wiki/Blaster/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Domoru Krev",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith civilization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Domoru Krev was a male Sith warlord who lived at some point before the end of the Hundred-Year Darkness. The armored soldiers who served Lord Krev were known to wear lanvarok gauntlets on their left arms.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hundred-Year_Darkness/Legends",
+  "/wiki/Armor/Legends",
+  "/wiki/Domoru_Krev_soldier",
+  "/wiki/Lanvarok",
+  "/wiki/Limb/Legends",
+  "/wiki/Book_of_Sith:_Secrets_from_the_Dark_Side"
+ ]
+}

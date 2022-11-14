@@ -1,0 +1,54 @@
+{
+ "name": "Jintar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Beviin"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jintar was a Human male Mandalorian and the husband of Dinua Jeban. He had two children with her, Shalk and Briila.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Beviin",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Dinua_Jeban",
+  "/wiki/Shalk",
+  "/wiki/Briila",
+  "/wiki/Legacy_of_the_Force:_Sacrifice",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

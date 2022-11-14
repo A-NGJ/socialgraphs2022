@@ -1,0 +1,64 @@
+{
+ "name": "Saluup Fing",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Koros-Strohna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Warrior caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Saluup Fing was a member of the Warrior caste of the Yuuzhan Vong. A Supreme Commander, Fing was placed in charge of the defenses of Yuuzhan'tar while Warmaster Nas Choka led the Yuuzhan Vong fleet during the Defense of Mon Calamari. While the armada was engaged at Mon Calamari, Zonama Sekot entered the Coruscant system, causing massive damage to Yuuzhan'tar. After some order was restored, Saluup Fing requested permission from Warmaster Choka to attack Zonama Sekot, but Choka ordered him to keep his fleet in their current positions, as the armada at Mon Calamari was already on their way back to Yuuzhan'tar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koros-Strohna",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Warrior_caste",
+  "/wiki/Supreme_Commander_(Yuuzhan_Vong_rank)",
+  "/wiki/Coruscant/Legends#Yuuzhan'tar",
+  "/wiki/Warmaster",
+  "/wiki/Nas_Choka",
+  "/wiki/Yuuzhan_Vong_fleet",
+  "/wiki/Defense_of_Mon_Calamari_(Yuuzhan_Vong_War)",
+  "/wiki/Dac",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Coruscant_system/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

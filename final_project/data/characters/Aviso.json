@@ -1,0 +1,66 @@
+{
+ "name": "Aviso",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aviso was a male Human starship captain who served the Confederacy of Independent Systems during the Clone Wars. In about 21 BBY, Aviso traveled to the planet Dorin to collect the XNA-580—a device developed by the Kel Dor Raahan Ma'ase that could manipulate the brainwaves of most species—on behalf of the Confederate leader Count Dooku.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dorin/Legends",
+  "/wiki/XNA-580",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Raahan_Ma%27ase",
+  "/wiki/Species/Legends",
+  "/wiki/Count/Legends",
+  "/wiki/Dooku/Legends",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_Dooku%27s_Secret_Army"
+ ]
+}

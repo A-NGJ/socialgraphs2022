@@ -1,0 +1,24 @@
+{
+ "name": "Kamar Th'Marn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kamar Th'Marn was a famous Mon Calamari philosopher.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Wretched_Hives_of_Scum_%26_Villainy",
+  "/wiki/Philosopher/Legends"
+ ]
+}

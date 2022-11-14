@@ -1,0 +1,49 @@
+{
+ "name": "Pormfil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kerestian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Car'das smugglers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pormfil was a male Kerestian engineer on board the Wild Karrde in 19 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kerestian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Car%27das_smugglers",
+  "/wiki/Engineer/Legends",
+  "/wiki/Wild_Karrde",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Rallan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tratlin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicDnalvec MilitiaSandwind Team",
+      "Dnalvec Militia",
+      "Sandwind Team"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rallan was a male Tratlin who served as a Rebel agent and a member of the Sandwind Team on Sriluur.\nPrior to the formation of the Sandwind Team, Rallan was a solo operative in Meirm City on Sriluur. For years, he fed supplies to the Dnalvec Militia in addition to his \"standard\" assignments for the Rebellion.\nIn the Sandwind Team, Rallan served as the first officer under Jodar Frein.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tratlin",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Dnalvec_Militia",
+  "/wiki/Sandwind_Team_(Sriluur)",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Meirm_City",
+  "/wiki/Jodar_Frein",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Shellshock",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3638 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shaclaw"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White and purple"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shellshock was a massive shaclaw that was infected with the rakghoul plague during the resurgence of the plague on Alderaan. It resided in King's Pass until it was killed by individuals working for the Hyland Organization for Rakghoul Neutralization.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3638_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Shaclaw",
+  "/wiki/Color/Legends",
+  "/wiki/Rakghoul_plague",
+  "/wiki/Rakghoul_pandemic",
+  "/wiki/King%27s_Pass",
+  "/wiki/The_Hyland_Organization_for_Rakghoul_Neutralization",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

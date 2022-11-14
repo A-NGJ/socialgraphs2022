@@ -1,0 +1,56 @@
+{
+ "name": "Immich",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Open Circle Fleet",
+      "Open Circle Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Immich was a human female who served in the Galactic Republic Navy with the military rank of admiral. During the Clone Wars, Immich commanded a Venator-class Star Destroyer of the Open Circle Fleet and was personally protected by two 501st Legion elite troopers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Republic",
+  "/wiki/Open_Circle_Fleet",
+  "/wiki/Galactic_Republic_Navy",
+  "/wiki/Military_rank",
+  "/wiki/Admiral",
+  "/wiki/Clone_Wars",
+  "/wiki/Venator-class_Star_Destroyer",
+  "/wiki/501st_Legion",
+  "/wiki/Trooper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Immich",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

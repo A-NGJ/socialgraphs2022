@@ -1,0 +1,47 @@
+{
+ "name": "Daoud Vari",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vernet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Daoud Vari was a resident of the planet Vernet who had lost his legs. As a result, he was not conscripted by the Galactic Empire when they established a base on the world.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vernet",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Vernet_Imperial_Army_Training_Camp",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Draw",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

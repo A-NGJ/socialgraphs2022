@@ -1,0 +1,29 @@
+{
+ "name": "Panicking Pedestrian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Any"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Any"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Panicking Pedestrian is a character in LEGO Star Wars: The Skywalker Saga. They can be found by any gender or species as well as being found on all planets. They are frightened by someone or something and will not care to talk with the player and instead run from them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Minn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canto Casino and Racetrack"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Minn was a young Devaronian female croupier and a colleague of Kaljach Sonmi at the Canto Casino in the city of Canto Bight on the planet Cantonica.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaronian",
+  "/wiki/Gender",
+  "/wiki/Canto_Casino_and_Racetrack",
+  "/wiki/Kaljach_Sonmi",
+  "/wiki/City",
+  "/wiki/Canto_Bight",
+  "/wiki/Planet",
+  "/wiki/Cantonica",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Minn",
+  "/wiki/The_Ride",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

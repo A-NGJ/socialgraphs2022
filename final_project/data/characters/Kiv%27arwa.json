@@ -1,0 +1,58 @@
+{
+ "name": "Kiv'arwa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Illarreen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Poss'Nomin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rim Commercial Mining"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kiv'arwa was a male Poss'Nomin explorer who worked for Rim Commercial Mining.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Illarreen",
+  "/wiki/Poss%27Nomin",
+  "/wiki/Gender/Legends",
+  "/wiki/Rim_Commercial_Mining",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kiv%27arwa",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

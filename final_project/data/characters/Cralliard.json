@@ -1,0 +1,42 @@
+{
+ "name": "Cralliard",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.95 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cralliard, also known as Cralliard the Hunter, was a Humanoid male bounty hunter. He was employed by Moff Bandor to hunt prisoners in his Game Chambers. He was armed with a hunting blaster.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Bandor",
+  "/wiki/Game_Chambers",
+  "/wiki/Hunting_blaster/Legends",
+  "/wiki/The_Game_Chambers_of_Questal"
+ ]
+}

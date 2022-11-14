@@ -1,0 +1,41 @@
+{
+ "name": "Raeda-Ke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raeda-Ke was a Voss Healer Mystic who was slain by the Gormak chieftain Althu during the Galactic War. A bounty was issued on Althu's head for the crime.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss_(species)",
+  "/wiki/Voss_Mystics",
+  "/wiki/Death/Legends",
+  "/wiki/Gormak/Legends",
+  "/wiki/Chief/Legends",
+  "/wiki/Althu",
+  "/wiki/Galactic_War",
+  "/wiki/Bounty/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

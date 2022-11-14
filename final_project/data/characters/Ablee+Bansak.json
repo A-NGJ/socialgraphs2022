@@ -1,0 +1,49 @@
+{
+ "name": "Ablee Bansak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chief Technician Ablee Bansak was a mid-level maintenance technician working at Estaria Central Starport. He managed a team of ten technicians and was also a member of the Rebel cell that maintained the Estaria Cache alongside Cargo Supervisor Hev Lissona and Freight Administrator Ela Harns.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Chief_Technician",
+  "/wiki/Technician/Legends",
+  "/wiki/Estaria_Central_Starport",
+  "/wiki/Rebel_cell",
+  "/wiki/Estaria_Cache",
+  "/wiki/Hev_Lissona",
+  "/wiki/Ela_Harns",
+  "/wiki/Hideouts_%26_Strongholds"
+ ]
+}

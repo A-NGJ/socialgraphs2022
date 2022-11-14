@@ -1,0 +1,53 @@
+{
+ "name": "Do'naal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Do'naal was a bearded male Human who served the Rebel Alliance during the Galactic Civil War. While appearing to be loyal to the Alliance, he was in fact an Imperial Intelligence mole, responsible for compromising the identities of several Rebel agents including Vewin on Kelada, and Rixen on Kuat.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Vewin",
+  "/wiki/Kelada/Legends",
+  "/wiki/Rixen",
+  "/wiki/Kuat/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Dead_End_Drop",
+  "/wiki/Shadows_of_the_Empire_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

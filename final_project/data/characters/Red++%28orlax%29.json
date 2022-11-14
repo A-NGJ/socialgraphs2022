@@ -1,0 +1,68 @@
+{
+ "name": "Red  (orlax)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3627 BBY",
+      "Dxun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Orlax"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Red was a female orlax developed in Czerka Corporation's CI-004 Research Facility on Dxun. Around 3627 BBY, an outbreak on the facility led to Red escaping and killing Wen Radler. Soon after, she was killed by a strike team sent to handle the situation.\nRed was able to expel hydrochloric acid from her body.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Dxun/Legends",
+  "/wiki/Orlax",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/CI-004_Research_Facility",
+  "/wiki/Death/Legends",
+  "/wiki/Wen_Radler",
+  "/wiki/Mission_to_Dxun",
+  "/wiki/Hydrochloric_acid",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

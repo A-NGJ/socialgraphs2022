@@ -1,0 +1,67 @@
+{
+ "name": "Batza",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Kajidic",
+     "values": [
+      "Toborro"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Batza was a Twi'lek male under the employ of Veedrig during the time of the Conquest of Makeb. After Veedrig was deposed of his position as project lead of Project Failsafe, the young Twi'lek was given more useful responsibilities on the construction of the Ark.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Black",
+  "/wiki/Color/Legends",
+  "/wiki/Toborro",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Veedrig",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/The_Ark",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Batza",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

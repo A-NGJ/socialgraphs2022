@@ -1,0 +1,64 @@
+{
+ "name": "Kodin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quara Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kodin was a male Aqualish droid and junk dealer on Nar Shaddaa. He met Meetra Surik, who was searching for IT-31. Kodin had stolen IT-31 from Tien Tubb. Surik secured the droid's release from Kodin after TT-32-GE3 asked her to, realizing that IT-31 was not actually destroyed. IT-31 returned to Tien Tubb.\nIt is possible to sell T3-M4 to him for about 500 credits. You can also provoke him into a fight and kill him. You can also buy a HK droid processor from him to rebuild HK-47.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Quara/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/IT-31",
+  "/wiki/Tien_Tubb",
+  "/wiki/TT-32-GE3",
+  "/wiki/T3-M4",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/HK-47",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/Knights_of_the_Old_Republic_II:_The_Sith_Lords:_Prima_Official_Game_Guide"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "name": "Clarelle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clarelle was a short-tempered, dark-skinned Human woman who resided in Mos Shuuta on the planet Tatooine during the time of the Galactic Civil War. She operated a stable and made a living by renting out Dewbacks.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mos_Shuuta",
+  "/wiki/Planet/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dewback/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Escape_from_Mos_Shuuta",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Beginner_Game"
+ ]
+}

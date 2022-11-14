@@ -1,0 +1,53 @@
+{
+ "name": "Grenal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Toola"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Whiphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.7 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grenal was the Whiphid chief security officer of Neftali in the Socorro system. He gained the prestigious title of Spearmaster shortly after his arrival on Neftali and was the tribal and spiritual leader of his people on that planet.\nThe Whiphid shaman was one of the most successful hunters on Neftali and was consequently in high demand as a guide.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toola/Legends",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Neftali/Legends",
+  "/wiki/Socorro_system",
+  "/wiki/Spearmaster",
+  "/wiki/Shaman/Legends",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Lyssk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lyssk was a male Trandoshan hunter. He was active in the Anoat sector when the Galactic Empire established a blockade there. At the time, Lyssk had accumulated a number of jagannath points that exceeded most other Trandoshans of his age. Although the blockade made it more difficult to gain new points, Lyssk chose to interpret the situation as a test from the Scorekeeper.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Trandoshan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hunting",
+  "/wiki/Anoat_sector",
+  "/wiki/Galactic_Empire",
+  "/wiki/Iron_Blockade",
+  "/wiki/Time",
+  "/wiki/Jagannath_point",
+  "/wiki/Scorekeeper",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

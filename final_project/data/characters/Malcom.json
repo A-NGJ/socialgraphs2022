@@ -1,0 +1,53 @@
+{
+ "name": "Malcom",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malcom was an Imperial Moff who governed Brema sector during the Galactic Civil War.\nMalcom struggled to halt the spread of Pinacism, a religion, throughout his sector.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Republic_trooper",
+  "/wiki/Jace_Malcom",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Brema_sector",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Pinacism",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Malcom",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "name": "Countdown",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Countdown\" was an Imperial TIE/sk x1 experimental air superiority fighter pilot during the Galactic Civil War. He had short brown hair and light-colored skin. \"Countdown\" was stationed on Scarif during the battle near the Citadel Tower, where they entered a dogfight with an T-65B X-wing starfighter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/TIE/sk_x1_experimental_air_superiority_fighter",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Scarif",
+  "/wiki/Battle_of_Scarif",
+  "/wiki/Citadel_Tower",
+  "/wiki/Starfighter_combat",
+  "/wiki/T-65B_X-wing_starfighter",
+  "/wiki/Star_Wars:_Starfighter_Missions",
+  "/wiki/Star_Wars:_X-Wing_Miniatures_Game",
+  "/wiki/TIE_Striker_Expansion_Pack",
+  "/wiki/Star_Wars:_X-Wing_Second_Edition",
+  "/wiki/Galactic_Empire_Conversion_Kit",
+  "/wiki/TIE/sk_Striker_Expansion_Pack",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

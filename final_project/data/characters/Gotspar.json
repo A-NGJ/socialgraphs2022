@@ -1,0 +1,41 @@
+{
+ "name": "Gotspar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Herglic"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gotspar was a Herglic who worked as a bartender at the Green Mist Tavern on Lamuir IV. For the right price he was also an information broker.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Herglic/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Green_Mist_Tavern",
+  "/wiki/Lamuir_IV",
+  "/wiki/Information_broker/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Mecetti_File",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

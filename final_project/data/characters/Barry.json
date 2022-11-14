@@ -1,0 +1,35 @@
+{
+ "name": "Barry",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barry was a young Human male who worked in the Free Access Grill on the planet Narg.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Free_Access_Grill",
+  "/wiki/Planet/Legends",
+  "/wiki/Narg",
+  "/wiki/The_Abduction",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures"
+ ]
+}

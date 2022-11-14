@@ -1,0 +1,35 @@
+{
+ "name": "O'lif Khaz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "O'lif Khaz was a male Kubaz holovid director.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Holovid/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/O%27lif_Khaz",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/A_Campaign_Guide_to_the_Centrality",
+  "/wiki/Star_Wars_Gamer_5"
+ ]
+}

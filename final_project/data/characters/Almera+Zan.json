@@ -1,0 +1,74 @@
+{
+ "name": "Almera Zan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jaxus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Almera Zan was an Alliance to Restore the Republic agent sent to Demophon to find missing agent Enid Vahr. After her squad's starship was shot down over the planet, only Almera, Grashk, Roz, and their leader Tamarc survived. Tamarc was later killed by panicking Sla Kar. The Demophon mission was her first field mission, and she lacked confidence and was trigger happy as a result.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jaxus",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Demophon",
+  "/wiki/Enid_Vahr",
+  "/wiki/Grashk",
+  "/wiki/Roz",
+  "/wiki/Tamarc",
+  "/wiki/Sla_Kar",
+  "/wiki/West_End_Games",
+  "/wiki/The_Beginning_of_the_End",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

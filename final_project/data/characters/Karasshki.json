@@ -1,0 +1,53 @@
+{
+ "name": "Karasshki",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karasshki was a female Wookiee elder, who was a leader of the planet Kashyyyk. In 7 ABY, she hired Han and Lando to find a mysterious serial killer the Wookiees knew as \"The Long Man\" who has been kidnapping and killing young Wookiees.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/7_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Karasshki",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

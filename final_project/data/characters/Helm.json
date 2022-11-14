@@ -1,0 +1,49 @@
+{
+ "name": "Helm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Helm, along with his partner, Vandel, were independent prospectors who were the first beings to discover the planet Vandelhelm, with the planet eventually being named after them. After penetrating the asteroid belt which encompassed the world circa 3000 BBY, they located several rich veins of metals and ores. After claiming the planet for the Galactic Republic, the two spacers relocated their families to the planet, and founded the Metalsmiths' Guild. The two families were considered royalty for the next millennia.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Vandel",
+  "/wiki/Planet/Legends",
+  "/wiki/Vandelhelm/Legends",
+  "/wiki/Asteroid_belt",
+  "/wiki/3000_BBY",
+  "/wiki/Guild_of_Metalsmiths",
+  "/wiki/Planet_Hoppers",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

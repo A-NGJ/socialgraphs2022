@@ -1,0 +1,45 @@
+{
+ "name": "Sazaar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Targonn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Targonnian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sazaar was a male Targonnian who revolted againt Craw.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Targonn/Legends",
+  "/wiki/Targonnian",
+  "/wiki/Gender/Legends",
+  "/wiki/Craw",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sazaar",
+  "/wiki/Droids_(1995)_7"
+ ]
+}

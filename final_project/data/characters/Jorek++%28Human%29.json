@@ -1,0 +1,57 @@
+{
+ "name": "Jorek  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jorek was a male Human who sold stimulants and medpacs at Wardpost Duvaal in the Alsakan Lowlands on Alderaan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jorek_(Yinchorri)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Stimulant/Legends",
+  "/wiki/Medpac/Legends",
+  "/wiki/Wardpost_Duvaal",
+  "/wiki/Alsakan_Lowlands",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jorek_(Human)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

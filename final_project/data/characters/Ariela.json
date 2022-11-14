@@ -1,0 +1,53 @@
+{
+ "name": "Ariela",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ariela was a Human female from Alderaan who later lived on Tatooine.\nAriela supported Ariq Joanson's idea to make peace with the Tusken Raiders and the Jawas. She was in love with Eyvind, who, at their wedding, was killed by Tuskens. She was then captured by the Sand People, but later saved by Ariq Joanson and Wimateeka.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Ariq_Joanson",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Eyvind/Legends",
+  "/wiki/Wimateeka",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ariela",
+  "/wiki/Drawing_the_Maps_of_Peace:_The_Moisture_Farmer%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

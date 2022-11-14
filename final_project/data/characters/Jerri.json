@@ -1,0 +1,38 @@
+{
+ "name": "Jerri",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Des'maric Pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jerri was a young Human and member of the Des'maric Pirates. Jerri earned Miktiss's trust quickly, and became one of his lieutenants, gaining command of one of the group's Skipray Blastboats.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Des%27maric_Pirates",
+  "/wiki/Miktiss",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/GAT-12_Skipray_Blastboat",
+  "/wiki/The_DarkStryder_Campaign"
+ ]
+}

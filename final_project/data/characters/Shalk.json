@@ -1,0 +1,73 @@
+{
+ "name": "Shalk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "33 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Beviin"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shalk was the son of Jintar and Dinua Jeban and the brother of Briila. Both Shalk and Briila witnessed the awakening of Sintas Vel.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mandalore/Legends",
+  "/wiki/33_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Beviin",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Jintar",
+  "/wiki/Dinua_Jeban",
+  "/wiki/Briila",
+  "/wiki/Sintas_Vel",
+  "/wiki/Legacy_of_the_Force:_Sacrifice",
+  "/wiki/Legacy_of_the_Force:_Revelation"
+ ]
+}

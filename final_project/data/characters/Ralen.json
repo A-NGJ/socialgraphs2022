@@ -1,0 +1,62 @@
+{
+ "name": "Ralen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corulag"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ralen was a male Human from the planet Corulag, who served in the Republic Navy during the Clone Wars. He attained the rank of Captain and commanded the Venator-class Star Destroyer Solidarity during the Battle of Tirahnn.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corulag/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Venator-class_Star_Destroyer/Legends",
+  "/wiki/Solidarity_(Venator-class)",
+  "/wiki/Battle_of_Tirahnn_(Clone_Wars)",
+  "/wiki/Galaxy_at_War"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Husk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicAurek Squad",
+      "Grand Army of the RepublicAurek Squad",
+      "Aurek Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Husk was a clone commando who participated in the Clone Wars.\nHusk was the leader of Aurek Squad, a squad of four clone commandos. During the Clone Wars, Husk and his squad traveled to the planet Tirahnn in a LAAT/s to carry out a mission there in preparation for a Republic attack. They arrived on the planet undetected by the orbiting Separatist fleet, but were forced to crash-land due to unforeseen weather conditions. They were then attacked by a roggwart, but were able to kill the creature.\nAfterwards, Husk and the commandos set out on BARC speeders and carried out their primary objective, the sabotage of the main CIS vehicle depot on the planet. Shortly afterwards, the Republic began its main attack and Husk and the other commandos succeeded in blocking the main escape route for the Confederacy troops. He then used his comlink to contact a group of Republic agents and asked them to block off a secondary escape route by destroying a bridge.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Aurek_Squad",
+  "/wiki/Commander/Legends",
+  "/wiki/Clone_commando/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Aurek_Squad_(Galactic_Republic)",
+  "/wiki/Squad/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tirahnn/Legends",
+  "/wiki/Low_Altitude_Assault_Transport/stealth/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Fleet/Legends",
+  "/wiki/Roggwart/Legends",
+  "/wiki/BARC_speeder/Legends",
+  "/wiki/Battle_of_Tirahnn_(Clone_Wars)",
+  "/wiki/Comlink/Legends",
+  "/wiki/Galaxy_at_War"
+ ]
+}

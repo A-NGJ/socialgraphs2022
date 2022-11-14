@@ -1,0 +1,42 @@
+{
+ "name": "Erbaly Nap'tee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Erbaly Nap'tee was an old Nikto woman who lived on Tatooine at the end of the Clone Wars. She was a frequent patron of Dannar's Claim, where her interactions with Annileen Calwell were typified by dementia that prevented her from remembering Annileen or any other employees of the Claim.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Dannar%27s_Claim",
+  "/wiki/Annileen_Calwell",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

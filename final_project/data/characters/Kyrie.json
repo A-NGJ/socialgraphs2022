@@ -1,0 +1,43 @@
+{
+ "name": "Kyrie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kyrie was a female human who was the aide senator to Ghirra Starros on Coruscant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ghirra_Starros",
+  "/wiki/Coruscant",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kyrie",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)",
+  "/wiki/The_High_Republic:_Into_the_Dark"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Baajik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chadra-Fan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Baajik was a Chadra-Fan male who served as a double agent to both the Alliance to Restore the Republic and the Hutts. In 3 ABY he was killed on Ord Mantell by bounty hunter Cypher Bos.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Hutt/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cypher_Bos",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Baajik",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Double_Cross_on_Ord_Mantell",
+  "/wiki/Star_Wars_Galaxy_Magazine_5"
+ ]
+}

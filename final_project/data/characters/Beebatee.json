@@ -1,0 +1,46 @@
+{
+ "name": "Beebatee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Frizznoth"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Parapa Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beebatee was a Frizznoth male who was a member of Parapa Cartel. He was a cousin of Parazeen Parapa who he grew up with",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Frizznoth",
+  "/wiki/Gender",
+  "/wiki/Parapa_Cartel",
+  "/wiki/Parazeen_Parapa",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Beebatee",
+  "/wiki/STET!",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

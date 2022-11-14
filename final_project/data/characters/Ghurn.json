@@ -1,0 +1,63 @@
+{
+ "name": "Ghurn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ghurn was a male Human who lived during the waning years of the Galactic Republic, and he worked as a high-ranking Republic official. When the Republic agents Klieri and Yrssk went missing while investigating the Deluge Experiment on the planet Nyriaan, Ghurn hired a group of individuals to investigate the agents' disappearance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Klieri",
+  "/wiki/Yrssk",
+  "/wiki/Deluge_Experiment",
+  "/wiki/Planet/Legends",
+  "/wiki/Nyriaan/Legends",
+  "/wiki/Wizards_of_the_Coast",
+  "/wiki/The_Perfect_Storm",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

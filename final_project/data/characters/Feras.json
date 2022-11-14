@@ -1,0 +1,68 @@
+{
+ "name": "Feras",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Feras was a male Human Sith Lord of the Sith Empire. During the Battle of Corellia he resided at the Incorporation Spaceport on Corellia, where he asked an Imperial to meet with Darth Charnus.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Incorporation_Spaceport",
+  "/wiki/Corellia/Legends",
+  "/wiki/Darth_Charnus",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Feras",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

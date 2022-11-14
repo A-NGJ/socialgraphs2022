@@ -1,0 +1,40 @@
+{
+ "name": "Plakot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Qunaalac kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plakot was a Hutt of the Qunaalac kajidic who lived during the era of the Galactic Civil War. Plakot was one of the main lieutenants of Marlo, the leader of the Qunaalac clan. Plakot oversaw Qunaalac's legitimate manufacturing operations, which were used as a cover for the clan's counterfeit merchandise business. She often negotiated with Qunaalac's rival Hutt clans for support and smoothed over disagreements that arose due to the aggressive style that Qunaalac frequently demonstrated in its business dealings.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Qunaalac",
+  "/wiki/Kajidic",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Marlo/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

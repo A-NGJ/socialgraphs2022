@@ -1,0 +1,48 @@
+{
+ "name": "Derc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zeltros"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeltron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Derc was a character from the popular holodrama Zeltrons in Love. He was a male Zeltron who had a friendship with Jojo. He once became infatuated with Leia Organa  and tried to use Essence of Zeltros in order to maximize his chances of seducing her.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zeltros/Legends",
+  "/wiki/Zeltron/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Holodrama/Legends",
+  "/wiki/Zeltrons_in_Love",
+  "/wiki/Jojo_(holodrama_character)",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Essence_of_Zeltros",
+  "/wiki/Wizards.com",
+  "/wiki/Zeltros:_Pleasure_Planet"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Nohogg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "14 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Haxion Brood"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nohogg, known as \"Grand Moff\" Nohogg, was a male humanoid bounty hunter who worked as a bounty hunter for the Haxion Brood crime syndicate during the Imperial Era.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/14_BBY",
+  "/wiki/Humanoid",
+  "/wiki/Gender",
+  "/wiki/Haxion_Brood",
+  "/wiki/Bounty_hunter",
+  "/wiki/Imperial_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nohogg",
+  "/wiki/Star_Wars_Jedi:_Fallen_Order",
+  "/wiki/Death",
+  "/wiki/Template:JFODate"
+ ]
+}

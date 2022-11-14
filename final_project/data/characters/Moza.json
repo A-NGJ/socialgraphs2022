@@ -1,0 +1,77 @@
+{
+ "name": "Moza",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Telosian Restoration Project",
+      "Galactic Republic",
+      "Chodo Habat's herd"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moza was an Ithorian and the primary representative of Chodo Habat on Citadel Station. Moza approached Meetra Surik about assisting with the restoration of Telos IV by thwarting Czerka Corporation and the Exchange who sought to undermine the work of the Ithorians.\nWhile Moza attempts to contact the Exile first, the player has a few chances to either reject contact or to reject Moza's plea for assistance. If the player does so, Jana Lorso, of Czerka Corporation contacts the Exile. If the player agrees to aid Lorso, then Chodo and Moza will refuse to speak with them.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Telosian_Restoration_Project",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Chodo_Habat%27s_herd",
+  "/wiki/Chodo_Habat",
+  "/wiki/Citadel_Station",
+  "/wiki/Meetra_Surik",
+  "/wiki/Telos_IV",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Exchange",
+  "/wiki/Jana_Lorso",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

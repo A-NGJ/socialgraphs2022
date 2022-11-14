@@ -1,0 +1,35 @@
+{
+ "name": "Gerba",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gerba was a male Hutt. One of his employee, Viron Ghartoth, presented him with Paralyngian dire slug in fruit sauce. Ghartoth was unaware that this would cause an allergic reaction in the Hutt, and from his sickbed Gerba ordered for Ghartoth to be slowly devoured by his captive acklay.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Viron_Ghartoth",
+  "/wiki/Paralyngian_dire_slug",
+  "/wiki/Fruit/Legends",
+  "/wiki/Sauce/Legends",
+  "/wiki/Acklay/Legends",
+  "/wiki/Enter_the_Unknown"
+ ]
+}

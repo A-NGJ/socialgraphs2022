@@ -1,0 +1,37 @@
+{
+ "name": "Q-Viza",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Q-Viza was a Mon Calamari mathematician who was credited with developing the Mon Calamari cavitation hyperdrive.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Cavitation_hyperdrive",
+  "/wiki/The_Essential_Atlas",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

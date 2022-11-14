@@ -1,0 +1,66 @@
+{
+ "name": "Cavic",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cavic was a human male bounty hunter and former member of the Galactic Empire who was an associate of Beilert Valance. Cavic set up a number of outposts in asteroid fields, hidden from the Empire.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Bounty_hunter",
+  "/wiki/Beilert_Valance",
+  "/wiki/Asteroid_field",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cavic",
+  "/wiki/Target_Vader_6"
+ ]
+}

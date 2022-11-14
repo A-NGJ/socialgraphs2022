@@ -1,0 +1,75 @@
+{
+ "name": "Duroc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 21 BBY",
+      "Valsedian asteroid belt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duroc was a male Gamorrean and part of a contingent of pirates hired by the Hutts as security for a secret base in the Valsedian asteroid belt. The group came under attack by Dark Acolyte Asajj Ventress and Duroc was Force-choked and hurled against a wall with crushing force.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Valsedian_asteroid_belt",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Pirate/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Dark_Acolytes",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Telekinesis/Legends",
+  "/wiki/The_Clone_Wars:_The_Valsedian_Operation"
+ ]
+}

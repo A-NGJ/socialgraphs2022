@@ -1,0 +1,39 @@
+{
+ "name": "Amdra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Contraband Resale Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Amdra was a Hutt representative of the Contraband Resale Corporation—a company owned by the Hutt Cartel—residing on Vaiken Spacedock during the Galactic War.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Hutt/Legends",
+  "/wiki/Contraband_Resale_Corporation",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Galactic_War",
+  "/wiki/Cartel_Market"
+ ]
+}

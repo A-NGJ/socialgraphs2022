@@ -1,0 +1,63 @@
+{
+ "name": "Control Aleph-One",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "7 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Control Aleph-One was the callsign of a male Human assigned to Revos Spaceport's Bunker Aleph-One. During Wraith Squadron's Mission to Storinal, Garik Loran and Atril Tabanne stormed the bunker. Aleph-One tried to draw his blaster but was shot by Tabanne in the face, instantly killing him.\nHe had a daughter named Sakira, which was used as the code in order to recall the spaceport's TIE Fighter's back to base.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Revos_Spaceport",
+  "/wiki/Bunker_Aleph-One",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Mission_to_Storinal",
+  "/wiki/Garik_Loran",
+  "/wiki/Atril_Tabanne",
+  "/wiki/Blaster/Legends",
+  "/wiki/Sakira",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

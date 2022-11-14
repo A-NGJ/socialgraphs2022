@@ -1,0 +1,43 @@
+{
+ "name": "Gawyn Arden",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gawyn Arden was a descendent of Deredith Arden, founder of Salis D'aar on Bakura. A vocal opponent of the Galactic Empire, Arden was arrested by Governor Wilek Nereus during a purge of the Bakuran government. Tortured by Imperial Intelligence, Arden did not survive despite the best efforts of Medical Supervisor Sena Pakkallo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Deredith_Arden",
+  "/wiki/Salis_D%27aar/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Wilek_Nereus",
+  "/wiki/Bakuran",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Sena_Pakkallo",
+  "/wiki/The_Truce_at_Bakura_Sourcebook"
+ ]
+}

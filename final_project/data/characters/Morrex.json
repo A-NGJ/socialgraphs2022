@@ -1,0 +1,46 @@
+{
+ "name": "Morrex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rusher's Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Morrex was a male Besalisk who lived during the Republic Dark Age. He worked for the mercenary group Rusher's Brigade, serving as the comm station operator of the Diligence, the group's transport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Besalisk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rusher%27s_Brigade",
+  "/wiki/Republic_Dark_Age",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Diligence_(New_Sith_Wars)",
+  "/wiki/Transport/Legends",
+  "/wiki/Knight_Errant_(novel)"
+ ]
+}

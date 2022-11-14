@@ -1,0 +1,49 @@
+{
+ "name": "Lorrir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorrir was a human Imperial Starfighter Pilot who flew a TIE Interceptor at Brentaal IV during combat against T-65B X-wing starfighters and held the military rank of lieutenant.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lorrir",
+  "/wiki/Lorrir/Legends",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/TIE/IN_interceptor",
+  "/wiki/Brentaal_IV",
+  "/wiki/T-65B_X-wing_starfighter",
+  "/wiki/Military_rank",
+  "/wiki/Lieutenant",
+  "/wiki/Star_Wars:_X-Wing_Second_Edition",
+  "/wiki/Skystrike_Academy_Squadron_Pack",
+  "/wiki/Ultimate_Star_Wars",
+  "/wiki/Pilot"
+ ]
+}

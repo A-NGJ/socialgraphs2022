@@ -1,0 +1,33 @@
+{
+ "name": "Anirak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Anirak was a female Devaronian. She was married to Skerrit.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Skerrit",
+  "/wiki/West_End_Games",
+  "/wiki/A_Necessary_Evil",
+  "/wiki/Creatures_of_the_Galaxy"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Garcy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Phaeda"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicPhaeda militia",
+      "Phaeda militia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garcy was a male Human from the planet of Phaeda. He was a member of the Phaeda militia, and took part in the assault against Mandalorian Neo-Crusaders at the Battle of Essien.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Phaeda/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Phaeda_militia",
+  "/wiki/Sarge_(Phaeda)",
+  "/wiki/Planet/Legends",
+  "/wiki/Mandalorian_Neo-Crusaders/Legends",
+  "/wiki/Battle_of_Essien",
+  "/wiki/Knights_of_the_Old_Republic:_War_1"
+ ]
+}

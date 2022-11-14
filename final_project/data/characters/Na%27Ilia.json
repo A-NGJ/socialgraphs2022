@@ -1,0 +1,41 @@
+{
+ "name": "Na'Ilia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Na'Ilia was a Tarasin on Cularin. On one occasion Na'Ilia helped Mother Dariana record a message on a datachip regarding Liriana and the Wyrd.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Mother_(title)/Legends",
+  "/wiki/Dariana",
+  "/wiki/Datachip/Legends",
+  "/wiki/Liriana",
+  "/wiki/Wyrd",
+  "/wiki/Wizards.com",
+  "/wiki/Liriana:_Dark_Force_Witch_of_Cularin"
+ ]
+}

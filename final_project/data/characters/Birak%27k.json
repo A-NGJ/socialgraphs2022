@@ -1,0 +1,66 @@
+{
+ "name": "Birak'k",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gree"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gree Enclave"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Birak'k was a male Gree living during the Galactic War between the Galactic Republic and the Sith Empire. Upon the reappearance of the ancient Gree starship Gray Secant, Birak'k set up a shop inside the Republic Recon Post while the Republic assisted the Gree with their research.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gree_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gree_Enclave/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Gray_Secant",
+  "/wiki/Republic_Recon_Post",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

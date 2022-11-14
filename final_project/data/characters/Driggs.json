@@ -1,0 +1,58 @@
+{
+ "name": "Driggs",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Drall"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Marcha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Driggs was a male Drall servant of Marcha at her estate on Drall who had served her longer than Ebrihim had lived.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drall_(planet)",
+  "/wiki/Drall/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marcha",
+  "/wiki/Ebrihim",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Driggs",
+  "/wiki/Assault_at_Selonia",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

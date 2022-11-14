@@ -1,0 +1,58 @@
+{
+ "name": "Corl'ya",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bothawui"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corl'ya was a male Bothan who worked as an agent for the Rebel Alliance during the Galactic Civil War. In 3 ABY, at the request of the Alliance, Corl'ya traveled from Bothawui to Kwenn Space Station, to deliver a datacard to a group of Alliance agents. However, after he arrived on the station, he was captured by a group of Bothans from a rival faction, who believed that they should have the glory of carrying out an important mission for the Alliance. The Alliance agents helped Corl'ya to escape and he gave them the datacard. He then planned to return to Bothawui and publicly shame his attackers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothawui/Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Kwenn_Space_Station/Legends",
+  "/wiki/Datacard/Legends",
+  "/wiki/Child_of_Light"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Lady Greelanx",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lady Greelanx was the wife of Imperial Admiral Winstel Greelanx. She was disliked by the admiral, who had two mistresses. The two of them had two grown children, a son and a daughter and had a grandchild on the way in 4 BBY. She was widowed when Winstel died at the hands of Darth Vader.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Winstel_Greelanx",
+  "/wiki/4_BBY/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/The_Hutt_Gambit"
+ ]
+}

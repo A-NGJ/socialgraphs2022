@@ -1,0 +1,57 @@
+{
+ "name": "Fawn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Frozen Wampas"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fawn was a human male resident of Black Spire Outpost on Batuu, who played in a band with the Togruta Neelo.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Frozen_Wampas",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Batuu",
+  "/wiki/Togruta",
+  "/wiki/Neelo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fawn",
+  "/wiki/Category:Audio_files_of_Fawn",
+  "/wiki/A_Crash_of_Fate",
+  "/wiki/A_Crash_of_Fate_(audiobook)"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Noss Prisht",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mrlsst"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mrlssi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mrlsst Trade and Science Academy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noss Prisht was a male Mrlssi who served as an aide to President Gyr Keela of the Mrlsst Academy. In 4 ABY, he introduced Wedge Antilles to Keela and assisted Rogue Squadron during the Phantom Affair.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mrlsst/Legends",
+  "/wiki/Mrlssi",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mrlsst_Trade_and_Science_Academy",
+  "/wiki/Aide/Legends",
+  "/wiki/President/Legends",
+  "/wiki/Gyr_Keela",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Phantom_Project",
+  "/wiki/Star_Wars:_X-Wing_Rogue_Squadron:_The_Phantom_Affair"
+ ]
+}

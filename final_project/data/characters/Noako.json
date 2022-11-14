@@ -1,0 +1,43 @@
+{
+ "name": "Noako",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jiramma"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noako was a Hutt of the Jiramma kajidic who lived during the reign of the Galactic Empire. Noako became engaged in a gang war against the rival Hutt Sinasu, and he hired the bounty hunter group Cordol's Chain to attack agents of his adversary.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Jiramma",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sinasu",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cordol%27s_Chain",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Crates_of_Krayts",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Beta",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

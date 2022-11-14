@@ -1,0 +1,33 @@
+{
+ "name": "Din Tinray",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Din Tinray was a deaf, female Sullustan. Since deaf Sullustans were not active at all, she went to see a physician for help, Doctor Rachael Tikaris. Tikaris was able to create an ear for her, and after surgery, Din was welcomed back into society.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Din_(disambiguation)",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Rachael_Tikaris",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

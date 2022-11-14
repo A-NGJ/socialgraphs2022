@@ -1,0 +1,46 @@
+{
+ "name": "Cisvin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mustafarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cisvin was a male Mustafarian junk dealer on Nova Orion Station in 1 ABY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mustafarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Junk_dealer/Legends",
+  "/wiki/Nova_Orion_Station",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

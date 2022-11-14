@@ -1,0 +1,32 @@
+{
+ "name": "Odeon Farnish",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lexlar"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Three feet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Odeon Farnish was a Lexlar customs official. Farnish wanted a promotion, so thorough searches were conducted in hopes of catching minor infractions, but serious smugglers willing to offer bribes were allowed to pass. The inspector was zealous and greedy, with a working knowledge of bureaucratic procedure.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lexlar",
+  "/wiki/Foot/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Bureaucrat/Legends",
+  "/wiki/Star_Wars:_The_Roleplaying_Game_(first_edition)"
+ ]
+}

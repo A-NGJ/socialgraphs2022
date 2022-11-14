@@ -1,0 +1,62 @@
+{
+ "name": "Briscol",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Celwis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yubal"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Xodlak'phr'ooa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Briscol was a male yubal belonging to the family of Lakphro, Lakansu, and Lakris on the Chiss Ascendancy world of Celwis. Lakris once zapped Briscol with her lure stick, causing him to \"walk funny\" for two days.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Celwis",
+  "/wiki/Yubal",
+  "/wiki/Gender",
+  "/wiki/Xodlak%27phr%27ooa",
+  "/wiki/Lakansu",
+  "/wiki/Lakris",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Planet",
+  "/wiki/Lure_stick",
+  "/wiki/Standard_day",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Thrawn_Ascendancy:_Greater_Good",
+  "/wiki/Thrawn_Ascendancy:_Greater_Good_(audiobook)"
+ ]
+}

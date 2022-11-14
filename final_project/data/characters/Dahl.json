@@ -1,0 +1,58 @@
+{
+ "name": "Dahl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Samaria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Samarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Aaren Larker"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dahl was a male Samarian who served as an aide to Aaren Larker, a liaison to the Samarian resistance in the time immediately after the Clone Wars' end.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Samaria",
+  "/wiki/Samarian",
+  "/wiki/Gender/Legends",
+  "/wiki/Aaren_Larker",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dahl",
+  "/wiki/The_Last_of_the_Jedi:_Return_of_the_Dark_Side",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

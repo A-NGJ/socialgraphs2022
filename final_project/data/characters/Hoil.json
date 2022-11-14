@@ -1,0 +1,65 @@
+{
+ "name": "Hoil",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Monor II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sunesi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Agapos the Ninth's resistance group"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hoil was a Sunesi man who lived on Monor II during the Galactic Civil War. He was one of many of his world's citizens who followed King Agapos the Ninth in his underground resistance movement when the Imperials began to occupy the planet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Monor_II",
+  "/wiki/Sunesi",
+  "/wiki/Gender/Legends",
+  "/wiki/Agapos_the_Ninth",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Only_Droids_Serve_the_Maker",
+  "/wiki/Star_Wars_Adventure_Journal_10",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

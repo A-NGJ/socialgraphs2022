@@ -1,0 +1,66 @@
+{
+ "name": "Calia",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Calia was a Twi'lek female lieutenant of the Galactic Republic during the Galactic War with the reconstituted Sith Empire. In 3642 BBY she was stationed at the Outpost Senth on Hoth, where she tasked a Republic citizen to fight the Terror Brigade's Onslaught in exchange for them handing over captured Imperial Moff Yoren.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3642_BBY",
+  "/wiki/Outpost_Senth",
+  "/wiki/Hoth/Legends",
+  "/wiki/Terror_Brigade",
+  "/wiki/Onslaught_(Terror_Brigade)",
+  "/wiki/Moff/Legends",
+  "/wiki/Yoren",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

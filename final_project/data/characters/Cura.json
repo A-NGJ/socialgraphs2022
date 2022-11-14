@@ -1,0 +1,70 @@
+{
+ "name": "Cura",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nam Chorios"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY",
+      "Nam Chorios"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Theran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Oldtimers",
+      "Theran Listeners"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cura was a female Theran Listener adept whose dead body was, in 44 ABY, discovered by her fellow Therans with signs of what appeared to be torture.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nam_Chorios/Legends",
+  "/wiki/44_ABY",
+  "/wiki/Theran",
+  "/wiki/Gender/Legends",
+  "/wiki/Oldtimer",
+  "/wiki/Theran_Listener",
+  "/wiki/Taru_Durn",
+  "/wiki/Death/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cura",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)"
+ ]
+}

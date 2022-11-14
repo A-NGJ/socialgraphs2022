@@ -1,0 +1,39 @@
+{
+ "name": "Croll Jenkins",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Croll Jenkins was a human male who assisted Han Solo and Chewbacca in smuggling Rathtars for King Prana on Twon Ketee.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Han_Solo",
+  "/wiki/Chewbacca",
+  "/wiki/Rathtar",
+  "/wiki/King",
+  "/wiki/Grevoth_Prana_IX",
+  "/wiki/Twon_Ketee/LEGO",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Croll_Jenkins",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

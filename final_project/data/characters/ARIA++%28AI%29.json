@@ -1,0 +1,47 @@
+{
+ "name": "ARIA  (AI)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Artificial intelligence"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female programming"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "ARIA was an artificial intelligence in charge of the CI-004 Research Facility, a Czerka Corporation base on the planet Dxun in 3627 BBY.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Artificial_intelligence/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/CI-004_Research_Facility",
+  "/wiki/Planet/Legends",
+  "/wiki/Dxun/Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

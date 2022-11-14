@@ -1,0 +1,46 @@
+{
+ "name": "Gelnar Tol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gelnar Tol was a male Duros starship designer who was forced to serve the Galactic Empire. After being abducted by the Empire, he was among a group forced to work on the Sarlacc Project.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Sarlacc_Project",
+  "/wiki/Wizards.com",
+  "/wiki/The_Core_of_Corruption"
+ ]
+}

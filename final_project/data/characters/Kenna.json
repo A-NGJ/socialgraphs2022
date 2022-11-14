@@ -1,0 +1,41 @@
+{
+ "name": "Kenna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kenna was a male Twi'lek collector, active during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mace_Windu/Legends",
+  "/wiki/Collector/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/The_Collector",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.42"
+ ]
+}

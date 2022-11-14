@@ -1,0 +1,59 @@
+{
+ "name": "Amasi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wyrd"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Amasi was a female Tarasin who was a member of the Wyrd. She wore street clothes and was armed with a blaster and a dagger.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Wyrd",
+  "/wiki/Blaster/Legends",
+  "/wiki/Dagger/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Amasi",
+  "/wiki/Wizards.com",
+  "/wiki/News_of_the_Wyrd"
+ ]
+}

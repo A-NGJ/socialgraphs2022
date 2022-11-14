@@ -1,0 +1,48 @@
+{
+ "name": "Rydge",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Distraction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rydge was a Trandoshan who worked as a security guard for the band Distraction, along with his brothers Stydge and Xydge. When the band traveled to the ship Sleemo Poya Jeedai to perform at a concert, Rydge and his brothers accompanied them and met with some spacers who were providing additional security during the event. He and his brothers co-operated with them in investigating the threat posed to the event by Niklas Cories.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Distraction",
+  "/wiki/Stydge",
+  "/wiki/Xydge",
+  "/wiki/Sleemo_Poya_Jeedai",
+  "/wiki/Spacer/Legends",
+  "/wiki/Niklas_Cories",
+  "/wiki/Wizards.com",
+  "/wiki/With_the_Band"
+ ]
+}

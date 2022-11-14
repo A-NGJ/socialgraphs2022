@@ -1,0 +1,48 @@
+{
+ "name": "Gwinnec Strov",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chadra-Fan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Univamp StarParts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gwinnec Strov was the Chadra-Fan owner of Univamp StarParts at the starport on Betha II.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Univamp_StarParts",
+  "/wiki/Betha_II_Starport",
+  "/wiki/Betha_II",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gwinnec_Strov",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Counterstrike_(Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

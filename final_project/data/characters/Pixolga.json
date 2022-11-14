@@ -1,0 +1,61 @@
+{
+ "name": "Pixolga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Anti-Artist Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pixolga was a male Dug who served the Anti-Artist Federation during the waning years of the Galactic Republic. In 32 BBY, he was wanted by the Pixelito Art Guild for claiming that painted paw prints by a tamed nexu did not constitute true art. His accusations had resulted in severe profit loss. His bounty worth 6,000 credits alive, and only 3,000 credits dead, was claimed by Jango Fett.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anti-Artist_Federation",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Pixelito_Art_Guild",
+  "/wiki/Nexu/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

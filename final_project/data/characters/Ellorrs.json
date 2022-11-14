@@ -1,0 +1,33 @@
+{
+ "name": "Ellorrs",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ellorrs was a Duros hero. In the Duros legends, he brought traders from other systems to Duro.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ohwun_De_Maal/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_system/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

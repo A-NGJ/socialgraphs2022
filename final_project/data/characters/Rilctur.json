@@ -1,0 +1,47 @@
+{
+ "name": "Rilctur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rilctur was a General in the Imperial Navy. The Rilctur carbine was named after him.\nRilctur is mentioned in the description of the Rilctur carbine, a weapon found in the ShadowWeave caverns on Kashyyyk in Rage of the Wookiees.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Rilctur_carbine",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

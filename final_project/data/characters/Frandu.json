@@ -1,0 +1,50 @@
+{
+ "name": "Frandu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "New Republic Pilots Commission",
+      "New Republic Pilots Commission"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Frandu, also known as  The Rodian, was a male Rodian pilot who served in the New Republic Defense Fleet and the New Republic Pilots Commission.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/New_Republic",
+  "/wiki/New_Republic_Pilots_Commission",
+  "/wiki/Pilot",
+  "/wiki/New_Republic_Defense_Fleet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Frandu",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "name": "Nido",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nido was a Rodian male who resided on Vaced. In 43 ABY, Tobb Jadak and Flitcher Poste arrived on Vaced in search of Quip Fargil. They encountered Nido at the Vaced Spaceport and the Rodian gave the pair the directions to Fargil's cabin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vaced/Legends",
+  "/wiki/43_ABY",
+  "/wiki/Tobb_Jadak",
+  "/wiki/Flitcher_Poste",
+  "/wiki/Quip_Fargil",
+  "/wiki/Vaced_Spaceport",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nido",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

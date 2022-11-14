@@ -1,0 +1,62 @@
+{
+ "name": "Ortoggan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kadas'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fa'athra gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ortoggan was a Kadas'sa'Nikto male mercenary in the employ of Voontara Fa'athra. In 3643 BBY, he was killed by a bounty hunter on the grounds of Fa'athra's Palace on Nal Hutta.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Kadas%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fa%27athra_gang",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Voontara_Fa%27athra",
+  "/wiki/Death/Legends",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Fa%27athra%27s_Palace",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

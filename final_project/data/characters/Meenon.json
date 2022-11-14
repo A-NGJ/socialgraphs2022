@@ -1,0 +1,68 @@
+{
+ "name": "Meenon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Meenon was the King of Senali in 44 BBY, and the father of Yaana.\nThe laws of Rutan and Senali made the kings of the planet and the moon exchange their firstborns when they were seven years old, in order to avoid a war. When Leed, King Frane's son, was kidnapped by some accomplices of Taroon, Frane blamed the Senali, and the two kingdoms were near a war. Finally, King Frane accepted Leed's wish to stay in Senali and agreed with Taroon to be his successor and the future King of Rutan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/King/Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Yaana",
+  "/wiki/Rutan/Legends",
+  "/wiki/Leed",
+  "/wiki/Frane",
+  "/wiki/Taroon",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

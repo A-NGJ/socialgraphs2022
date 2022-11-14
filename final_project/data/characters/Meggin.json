@@ -1,0 +1,43 @@
+{
+ "name": "Meggin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified red-skinned species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Meggin was a red-skinned humanoid male who worked on Skree, a space station.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_red-skinned_species",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Humanoid",
+  "/wiki/Skree",
+  "/wiki/Space_station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Meggin",
+  "/wiki/Adventures_in_Wild_Space:_The_Nest",
+  "/wiki/Adventures_in_Wild_Space:_The_Steal"
+ ]
+}

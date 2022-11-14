@@ -1,0 +1,42 @@
+{
+ "name": "Polien Frue",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Taarna Renay"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Polien Frue was a Sullustan who was a partner with Taarna Renay. He was the co-pilot of her freighter and helped her out of trouble.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Taarna_Renay",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

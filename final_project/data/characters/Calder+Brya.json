@@ -1,0 +1,34 @@
+{
+ "name": "Calder Brya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Calder Brya was a male Human who lived on the planet Coruscant. His disarming, self-deprecating sense of humor made it easy for him to connect with people, even those who might otherwise dismiss him based on his upper-crust status.\nAside from being a rich socialite with a million credits in his account, Brya was also a fit and skilled shockball player, if not much of a fighter. He was also very well-connected with the highest levels of Coruscant society.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Shockball/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

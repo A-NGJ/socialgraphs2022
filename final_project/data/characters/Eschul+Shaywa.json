@@ -1,0 +1,51 @@
+{
+ "name": "Eschul Shaywa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eschul Shaywa was a Human female, born on the planet Coruscant. By the reign of the Galactic Empire, Shaywa was a contributor for Imperial Center Today, and wrote a piece on the history of the ancient Taung and Zhell peoples as remembered through the Dha Werda Verda.\nEschul Shaywa was introduced in the second installment of Jason Fry's official Star Wars Blog series, \"The Essential Guide to Warfare: Author's Cut,\" entitled \"Ancient Coruscant.\"",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Center_Today",
+  "/wiki/Taung/Legends",
+  "/wiki/Zhell/Legends",
+  "/wiki/Dha_Werda_Verda",
+  "/wiki/Jason_Fry",
+  "/wiki/Star_Wars_Blog",
+  "/wiki/Star_Wars:_The_Essential_Guide_to_Warfare_Author%27s_Cut",
+  "/wiki/StarWars.com"
+ ]
+}

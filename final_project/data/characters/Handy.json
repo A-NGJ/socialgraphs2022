@@ -1,0 +1,60 @@
+{
+ "name": "Handy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Handy was a young Human male who lived on Cloud City during the Galactic Civil War. During the subjugation of Cloud City by Imperial forces in 3 ABY, Handy was truanting from school with his friend, Allania Jakien in the Ugnaught tunnels. While attempting to reach their parents, the pair came across a stormtrooper patrol. Handy was caught by one, to which he responded by kicking the stormtrooper in the face.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Occupation_of_Bespin",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/School",
+  "/wiki/Allania_Jakien",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Little_Girl_Lost",
+  "/wiki/Galaxy_Guide_3:_The_Empire_Strikes_Back",
+  "/wiki/The_Movie_Trilogy_Sourcebook"
+ ]
+}

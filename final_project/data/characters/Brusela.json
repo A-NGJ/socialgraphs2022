@@ -1,0 +1,35 @@
+{
+ "name": "Brusela",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brusela was a Human female who was the grandmother of Bria Tharen.\nRenn Tharen, wanting to honor his mother and mother-in-law both, yet not wanting his daughter to be stuck with either of their names, combined the first syllables of their names, Brusela and Iaphagena, to make Bria.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bria_Tharen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brusela",
+  "/wiki/Renn_Tharen",
+  "/wiki/Iaphagena",
+  "/wiki/Rebel_Dawn"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Selro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Selro was a Male Zabrak private of the Galactic Republic stationed on Taris during the Cold War. In 3643 BBY, he asked a passerby to deal with a potential rakghoul release situation at the Project Quell Research Lab.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Private/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Rakghoul",
+  "/wiki/Project_Quell",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

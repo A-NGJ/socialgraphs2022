@@ -1,0 +1,49 @@
+{
+ "name": "Rosk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Rosk was the navigator on the Imperial Dreadnaught Pride of the Senate. He served under Captain Soontir Fel.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Dreadnaught-class_heavy_cruiser",
+  "/wiki/Pride_of_the_Senate",
+  "/wiki/Captain/Legends",
+  "/wiki/Soontir_Fel/Legends",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

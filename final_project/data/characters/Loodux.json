@@ -1,0 +1,38 @@
+{
+ "name": "Loodux",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Loodux was an insane male Rodian assassin. At some point during galactic history, the Mon Calamari ambassador Nuukol hired Loodux to murder the Quarren Tsillog outside the Quarren embassy. However, Loodux's assassination attempt failed and he was defeated by a group of agents.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Nuukol",
+  "/wiki/Death/Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Tsillog",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

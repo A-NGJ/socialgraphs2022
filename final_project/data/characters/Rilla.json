@@ -1,0 +1,71 @@
+{
+ "name": "Rilla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bellassa"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "18 BBY",
+      "Jedi asteroid"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Eleven"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rilla was a Human female who lived during the Clone Wars and became a resistance fighter and member of The Eleven during the formation of the Galactic Empire which was established by Emperor Palpatine. She was present in the Jedi asteroid when Obi-Wan Kenobi arrived to search for Ferus Olin. Rilla was pleased and agreed to help him in searching for the missing Jedi. She remained in the asteroid until Darth Vader and the Imperials were able to find the secret base and Rilla was perished in the destruction.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bellassa/Legends",
+  "/wiki/18_BBY/Legends",
+  "/wiki/Jedi_asteroid",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Eleven",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Ferus_Olin",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/The_Last_of_the_Jedi:_The_Desperate_Mission",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

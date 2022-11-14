@@ -1,0 +1,38 @@
+{
+ "name": "Gundar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gundar was a male Human bodyguard who served Aryn Dro Thul aboard the Tradewyn following the Yuuzhan Vong War's end.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Aryn_Dro_Thul",
+  "/wiki/Tradewyn",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gundar",
+  "/wiki/Dark_Nest_I:_The_Joiner_King",
+  "/wiki/Dark_Nest_III:_The_Swarm_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

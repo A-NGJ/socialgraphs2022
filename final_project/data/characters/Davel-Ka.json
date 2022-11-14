@@ -1,0 +1,59 @@
+{
+ "name": "Davel-Ka",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Davel-Ka was a male Voss Mystic living on Voss many years before the planet was discovered by the galactic society. He had a vision that prevented a great healer Medo-Ja from helping a dying member of the Three.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Writings_of_Medo-Ja",
+  "/wiki/Planet/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Medo-Ja",
+  "/wiki/Three",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

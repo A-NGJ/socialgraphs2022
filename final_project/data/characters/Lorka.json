@@ -1,0 +1,37 @@
+{
+ "name": "Lorka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lorka was a male Hutt crime lord on the planet Nar Shaddaa during the Galactic Civil War. He had a mining operation in the Wild Space but it was annihilated by Reog's Regiment.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Wild_Space/Legends",
+  "/wiki/Reog%27s_Regiment",
+  "/wiki/Dangerous_Covenants"
+ ]
+}

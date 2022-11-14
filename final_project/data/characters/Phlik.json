@@ -1,0 +1,62 @@
+{
+ "name": "Phlik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shistavanen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corporal Phlik was a male Shistavanen soldier for the Rebel Alliance. In 3 ABY he was stationed at Mos Eisley on Tatooine as a recruiter.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shistavanen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Corporal/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Phlik",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Tales_from_Mos_Eisley:_Light_Duty",
+  "/wiki/Star_Wars_Galaxy_Magazine_4"
+ ]
+}

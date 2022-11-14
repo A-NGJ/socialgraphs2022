@@ -1,0 +1,50 @@
+{
+ "name": "Miko  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Genarius"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miko was a male Human, who lived in Oluna Biqua on Genarius during the Clone Wars.\nWhile Miko was a teenager, he was infected with the gas Trinex-M, along with the rest of the population of Oluna Biqua. It drove him insane and gave him the power to use the Force. He attacked the Heroes of Cularin with Force lightning.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Genarius",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Oluna_Biqua",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Trinex-M",
+  "/wiki/The_Force/Legends",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Force_lightning/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Miko_(Human)",
+  "/wiki/No_Place_Like_Home"
+ ]
+}

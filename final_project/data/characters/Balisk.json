@@ -1,0 +1,80 @@
+{
+ "name": "Balisk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zakuul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Knights of Zakuul"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Balisk was a male Human and a member of the Knights of Zakuul. He and his husband lived on Zakuul, and in 3631 BBY he was assigned as the replacement partner for the Knight Novo, whose previous partner Tanek had died during the pursuit of the Outlander. Novo was determined to hunt down the Outlander for Tanek's death, and so the pair tracked down the Outlander at the Razor in Breaktown and tried to arrest the fugitive, only to be defeated.\nBalisk appears at the Razor encounter regardless of player choices. The Outlander can kill Novo and Balisk for Dark Side points or spare them for Light Side points.\nIf spared, Balisk will send an encrypted e-mail to the Outlander, thanking him for sparing him and letting him return to his husband.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zakuul",
+  "/wiki/Human/Legends",
+  "/wiki/Zakuulan",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Knights_of_Zakuul",
+  "/wiki/3631_BBY",
+  "/wiki/Novo",
+  "/wiki/Tanek",
+  "/wiki/Alliance_Commander",
+  "/wiki/Razor_(Zakuul)",
+  "/wiki/District_1327",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

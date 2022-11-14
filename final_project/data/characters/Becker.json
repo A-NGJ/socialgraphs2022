@@ -1,0 +1,52 @@
+{
+ "name": "Becker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Becker was a dark-skinned Human member of the Rebellion.\nBecker was imprisoned at Balis-Baurgh prison where he met and befriended Junas Turner and Grael the Ewok. After Turner and Grael escaped the prison, they intended to mount a rescue mission to recover Becker and fellow Alliance prisoner Lon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Becker_(security_guard)",
+  "/wiki/Wukkar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Balis-Baurgh",
+  "/wiki/Balis-Baurgh_prison",
+  "/wiki/Junas_Turner",
+  "/wiki/Grael",
+  "/wiki/Ewok/Legends",
+  "/wiki/Lon",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Escape_from_Balis-Baurgh",
+  "/wiki/Star_Wars_Adventure_Journal_1"
+ ]
+}

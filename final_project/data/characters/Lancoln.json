@@ -1,0 +1,51 @@
+{
+ "name": "Lancoln",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lord Dixton"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lancoln was a Human male bodyguard tasked with protecting Governor-General Dixton of the Fakir sector. He had been privately hired by Dixton, as the Governor-General did not trust in the abilities of Imperial bodyguards.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Dixton",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Governor-General/Legends",
+  "/wiki/Fakir_sector/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lancoln",
+  "/wiki/West_End_Games",
+  "/wiki/Tests_of_the_Godking",
+  "/wiki/Star_Wars_Campaign_Pack",
+  "/wiki/Classic_Campaigns"
+ ]
+}

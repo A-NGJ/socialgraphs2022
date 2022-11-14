@@ -1,0 +1,50 @@
+{
+ "name": "Lu San",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Xifal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gossam"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lu San was a male Gossam residing on Nar Shaddaa. In 19 BBY, he accompanied Rej Taunt to Xifal to serve as an intermediary between Taunt and the Colicoids so that Taunt could pick up an order of buzz droids. During the visit, San was killed by the Colicoids during a feeding frenzy.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Xifal",
+  "/wiki/Gossam/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Rej_Taunt",
+  "/wiki/Colicoid/Legends",
+  "/wiki/Pistoeka_sabotage_droid/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Deena Kinnet",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Deena Kinnet was a wealthy female Human. She worked as a doctor. Later in her life, she became a spy working for the Galactic Empire. She owned Q-3PO.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Deena_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Q-3PO",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Boble",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Madame Boble was a Bakuran female and an acquaintance of Gaeriel Captison. She took on the task of looking after Gaerial's daughter Malinza Thanas while Gaerial was away with the Bakuran fleet during the First Corellian Insurrection.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Gender/Legends",
+  "/wiki/Gaeriel_Captison",
+  "/wiki/Malinza_Thanas",
+  "/wiki/Corellian_Crisis",
+  "/wiki/Assault_at_Selonia"
+ ]
+}

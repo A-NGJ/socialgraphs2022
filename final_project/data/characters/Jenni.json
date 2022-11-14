@@ -1,0 +1,54 @@
+{
+ "name": "Jenni",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jenni was a female human assassin who operated in the Anoat sector. Initially, she worked for the Galactic Empire. However, after she was saved by a member of the Alliance to Restore the Republic, she found a new calling in life and decided to use her skills to protect the innocent.\nSeveral months into the Imperial blockade of the Anoat sector, Jenni was recruited by the Smuggler, who sent her on assorted missions.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Assassin",
+  "/wiki/Anoat_sector",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Standard_month",
+  "/wiki/Iron_Blockade",
+  "/wiki/The_Smuggler"
+ ]
+}

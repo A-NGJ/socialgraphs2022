@@ -1,0 +1,49 @@
+{
+ "name": "Sivor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Geonosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sivor was a Geonosian worker drone under Duke Piddock. He ran errands and was a droid technician. He was killed by Teemo's spy, Thweek in a gladiatorial bout.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/Piddock",
+  "/wiki/Droid/Legends",
+  "/wiki/Teemo",
+  "/wiki/Thweek",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sivor",
+  "/wiki/The_Long_Arm_of_the_Hutt"
+ ]
+}

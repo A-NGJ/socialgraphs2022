@@ -1,0 +1,37 @@
+{
+ "name": "Poolin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lanteeban"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Poolin was a female who lived in Torbel, a village on the planet Lanteeb during the Clone Wars. She was given a comlink after Jacklin and Devi convinced Obi-Wan Kenobi and Anakin Skywalker to provide shelter for the villagers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Torbel",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Jacklin",
+  "/wiki/Devi_(miner)",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Clone_Wars_Gambit:_Siege",
+  "/wiki/Clone_Wars_Gambit:_Siege_(audiobook)"
+ ]
+}

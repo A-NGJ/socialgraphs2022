@@ -1,0 +1,83 @@
+{
+ "name": "Nash",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Aquilae"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Aquilaean Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nash was a Human male from the planet of Aquilae and a member of the Aquilaean Council under the reign of King Kayos. When the threat of a war arose between Aquilae and Cos Dashit's New Galactic Empire, Nash feared that the actions of the Aquilean General Luke Skywalker would lead to their demise.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Aquilae_(The_Star_Wars)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Aquilaean_Council",
+  "/wiki/Planet/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Kayos",
+  "/wiki/Cos_Dashit",
+  "/wiki/New_Galactic_Empire",
+  "/wiki/General/Legends",
+  "/wiki/Luke_Skywalker_(The_Star_Wars)",
+  "/wiki/The_Star_Wars_1"
+ ]
+}

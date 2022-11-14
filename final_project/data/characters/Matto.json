@@ -1,0 +1,64 @@
+{
+ "name": "Matto",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Port Nowhere"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Matto was a female Twi'lek who was as a Security Officer of the Galactic Republic during the Galactic War. In 3642 BBY she was part of the escort that accompanied a Republic Senator and Darmas Pollaran to Port Nowhere alongside Kuthana, Presk, and Rowost when Port Nowhere got under attack by the Voidwolf's fleet before Pollaran was able to drive the frigate out.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Port_Nowhere",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Darmas_Pollaran",
+  "/wiki/Kuthana",
+  "/wiki/Presk",
+  "/wiki/Rowost",
+  "/wiki/Harridax_Kirill",
+  "/wiki/Frigate/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

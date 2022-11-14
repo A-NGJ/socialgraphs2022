@@ -1,0 +1,76 @@
+{
+ "name": "Elrod's owner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nadiem"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Human owned an eopi named Elrod and lived on the planet Nadiem.\nPrior to the Battle of Nadiem, Republic forces evacuated Elrod's owner from his town. Despite his wishes, the man was forced to leave his eopi behind, as it would have taken the space of three people on the evacuation ships.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nadiem/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gray",
+  "/wiki/Blue",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Eopi",
+  "/wiki/Elrod",
+  "/wiki/Planet/Legends",
+  "/wiki/Battle_of_Nadiem",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Low_Altitude_Assault_Transport/infantry/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(comics)",
+  "/wiki/Hide_in_Plain_Sight",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_Volume_2"
+ ]
+}

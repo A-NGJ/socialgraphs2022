@@ -1,0 +1,81 @@
+{
+ "name": "Shri-Lan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shikaakwa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Queen HadiyaDespot Army",
+      "Despot Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Shri-Lan was a Devaronian female who served as the \"Left Fist\" of Queen Hadiya during the Despot War. After the defeat of the Despot Army at the Battle of Tython, Shri-Lan was banished from her homeworld of Shikaakwa and exiled on Nox with the others Generals of Hadiya's Inner Circle.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shikaakwa",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Hadiya",
+  "/wiki/Despot_Army",
+  "/wiki/General/Legends",
+  "/wiki/Despot_War",
+  "/wiki/Battle_of_Tython",
+  "/wiki/Exile_(punishment)/Legends",
+  "/wiki/Nox",
+  "/wiki/Dawn_of_the_Jedi:_The_Prisoner_of_Bogan_4"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Dawn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Theta Squadron",
+      "Theta Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Dawn\" was the nickname of a female TIE pilot who flew as Theta Thirteen in the Galactic Empire's Theta Squadron.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Dawn_(disambiguation)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Theta_Squadron_(Galactic_Empire)",
+  "/wiki/TIE_pilot",
+  "/wiki/Theta_Thirteen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dawn",
+  "/wiki/Amara_Kel%27s_Rules_for_TIE_Pilot_Survival_(Probably)",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

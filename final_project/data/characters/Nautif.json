@@ -1,0 +1,39 @@
+{
+ "name": "Nautif",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sälãi Käsi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nautif was the cousin of Eaden Vrill, and as of 2 BBY, was one of the two surviving members of Sälãi Käsi.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/S%C3%A4l%C3%A3i_K%C3%A4si",
+  "/wiki/Eaden_Vrill",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nautif",
+  "/wiki/Shadow_Games"
+ ]
+}

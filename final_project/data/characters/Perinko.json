@@ -1,0 +1,47 @@
+{
+ "name": "Perinko",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Perinko was a male Toydarian during the Clone Wars that supported the Galactic Republic after his species joined with the galactic government.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Perinko",
+  "/wiki/HoloNet_News_%E2%80%94_A_Galaxy_Divided_(Part_1)"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "name": "Paul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "3661 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Ginger"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mantellian Separatist Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Paul was a male Human son of Iero and Ellis, living on Ord Mantell during the Separatist War. One day, he was kidnapped by Mantellian Separatists, who put him on rage-inducing stimulants. For several years Paul lived as a blood-thirsty maniac, taking the name \"Bonecrusher\" while forgetting his own. However, in 3643 BBY his mother send a friend from the Galactic Republic to find him inside Mannett Point. Paul was taken off the stimulants and left the Separatists willingly. However, he was still in danger to others due to extreme aggressiveness, and to avoid facing his parents like this fled Ord Mantell until the effects of the stims wore off.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/3661_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mantellian_Separatist_Movement",
+  "/wiki/Iero",
+  "/wiki/Ellis_(Ord_Mantell)",
+  "/wiki/Separatist_War",
+  "/wiki/3643_BBY",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Mannett_Point",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Serik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Serik was a Human male who served as an officer in the Galactic Republic during the Galactic War. Stationed on Belsavis, he discovered that the Rattataki found a way to coordinate their movements in the jungle with military precision. He sent a Republic-allied individual to bring a protocol droid to decipher the secret code.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

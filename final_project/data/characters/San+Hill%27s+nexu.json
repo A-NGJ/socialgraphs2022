@@ -1,0 +1,37 @@
+{
+ "name": "San Hill's nexu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nexu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "San Hill"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This nexu was a young cub that San Hill once kept as a pet.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nexu/Legends",
+  "/wiki/San_Hill/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/San_Hill%27s_nexu",
+  "/wiki/The_Eyes_of_Revolution"
+ ]
+}

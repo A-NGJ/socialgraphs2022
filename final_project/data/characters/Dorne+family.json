@@ -1,0 +1,48 @@
+{
+ "name": "Dorne family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Dorne family was a Human family from Dromund Kaas, the capital of the reconstituted Sith Empire. A highly prestigious family with a history of Imperial service, the Dorne family counted Vasil Dorne and his children, Aleksei and Elara, among its members.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Capital/Legends",
+  "/wiki/Vasil_Dorne",
+  "/wiki/Aleksei_Dorne",
+  "/wiki/Elara_Dorne",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/The_Holonet",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

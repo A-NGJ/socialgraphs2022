@@ -1,0 +1,53 @@
+{
+ "name": "Marcus Sione",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kuat"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "13 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marcus Sione was a freelance technology guru during the height of the New Order. Known as \"The Wizard\" among his peers, Sione had worked off-the-grid on the industrial world of Kuat since his youth. For this reason, the Empire put forth their best efforts to find and capture the young lad, but to no avail. Marcus always seemed to have an escape route, even in the worst of situations. This led many to believe that he was Force-sensitive to some degree. His archrival, Lucius Rothingham, devoted his life to capturing Marcus.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/13_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Lucius_Rothingham",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

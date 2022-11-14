@@ -1,0 +1,47 @@
+{
+ "name": "Plin Shardona",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicSandwind Team",
+      "Sandwind Team"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Plin Shardona was a young Human male who served as a Rebel agent and a member of the Sandwind Team on Sriluur.\nHe was in charge of field procurement for the group's missions.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Sandwind_Team_(Sriluur)",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Plin_Shardona",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

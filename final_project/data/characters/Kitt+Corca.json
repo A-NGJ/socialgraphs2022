@@ -1,0 +1,65 @@
+{
+ "name": "Kitt Corca",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Cluster Casino"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kitt Corca was a Chiss male living on Nar Shaddaa during the Galactic War who worked at Star Cluster Casino during a Soovada event.\nKitt Corca appears in Star Wars: The Old Republic: Knights of the Eternal Throne as a Nightlife event vendor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Cluster_Casino",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Soovada",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

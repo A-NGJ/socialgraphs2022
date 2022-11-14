@@ -1,0 +1,43 @@
+{
+ "name": "Pira",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bivall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pira was a Bivall female doctor in the Tabor Hospital on Protobranch. She was trapped in the hospital when a solar storm disabled the planet's technology, but was rescued, along with several younglings, by the Jedi Padawans Dooku and Sifo-Dyas.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Bivall",
+  "/wiki/Doctor",
+  "/wiki/Pira_Ten",
+  "/wiki/Gender",
+  "/wiki/Tabor_Hospital",
+  "/wiki/Protobranch",
+  "/wiki/Medcenter",
+  "/wiki/Protobranch_solar_storm",
+  "/wiki/Planet",
+  "/wiki/Youngling",
+  "/wiki/Jedi",
+  "/wiki/Padawan",
+  "/wiki/Dooku",
+  "/wiki/Sifo-Dyas",
+  "/wiki/Dooku:_Jedi_Lost",
+  "/wiki/Dooku:_Jedi_Lost_(script)"
+ ]
+}

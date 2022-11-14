@@ -1,0 +1,49 @@
+{
+ "name": "Royke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified school"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Royke was a Besalisk male and a student at a school on Merokia. He often harassed Karr Nuq Sin, a fellow student who was sensitive to the Force.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Besalisk",
+  "/wiki/Gender",
+  "/wiki/Unidentified_school",
+  "/wiki/Merokia",
+  "/wiki/Karr_Nuq_Sin",
+  "/wiki/Force-sensitive",
+  "/wiki/The_Force",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Royke",
+  "/wiki/Force_Collector",
+  "/wiki/Force_Collector_(audiobook)"
+ ]
+}

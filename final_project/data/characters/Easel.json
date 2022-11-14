@@ -1,0 +1,53 @@
+{
+ "name": "Easel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Valltii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zerpen Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Easel was a male Valltii scientist.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Valltii",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Zerpen_Industries",
+  "/wiki/Scientist",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Easel",
+  "/wiki/Catalyst:_A_Rogue_One_Novel",
+  "/wiki/Catalyst:_A_Rogue_One_Novel_(audiobook)"
+ ]
+}

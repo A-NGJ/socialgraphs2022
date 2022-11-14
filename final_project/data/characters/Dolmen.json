@@ -1,0 +1,63 @@
+{
+ "name": "Dolmen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dolmen was a Human male and Imperial Army captain. Dolmen's shuttle was shot down by Rebels on approach to the Emperor's Retreat in 1.5 ABY. Dolmen survived and was rescued, and the Rebels who had attacked him were eliminated.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Brown",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Emperor%27s_Retreat/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dolmen",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

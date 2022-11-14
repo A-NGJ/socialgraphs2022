@@ -1,0 +1,49 @@
+{
+ "name": "Klemp",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Restored Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klemp was a male Human Imperial officer. In 13 ABY he was one of the leaders of the Restored Empire faction.\nHe attempted to complement the visiting Kir Kanos, but was harshly rebuked by General Vota.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Restored_Empire",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Kir_Kanos",
+  "/wiki/General/Legends",
+  "/wiki/Bernard_Vota",
+  "/wiki/Crimson_Empire_III:_Empire_Lost_3"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "name": "Katcho",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Katcho was a Human male Sergeant of the Galactic Republic during the Galactic War. At some point during his service he spend three months as an Imperial prisoners, but were eventually able to return to service. In 3642 BBY he was stationed on Hoth and led a joint assault on the main base of the Hailstorm Brotherhood - the Chilling Death Spire together with Imperial Sergeant Ennlicher. Katcho refused to trust the Imperial to uphold the temporary truce they had, but was proven wrong when after death of Master Sav the Imperials showed no sign of intending to betray the Republic.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Hailstorm_Brotherhood",
+  "/wiki/Chilling_Death_Spire",
+  "/wiki/Ennlicher",
+  "/wiki/Sav",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Balto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kalarba"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Balto was a male Human from Kalarba. He was the husband of Lilta, and the couple had several kids together. Balto helped Baron Pitareeze escape the clutches of Olag Greck.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kalarba/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Lilta",
+  "/wiki/Baron/Legends",
+  "/wiki/Pitareeze",
+  "/wiki/Olag_Greck",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Balto",
+  "/wiki/Droids_(1994)_1"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Karke",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Phindar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Phindian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karke was a female Phindian from Phindar who was a good friend of Senior Anthropologist Mammon Hoole and an anthropologist in her own right.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Phindar/Legends",
+  "/wiki/Phindian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Senior_Anthropologist",
+  "/wiki/Mammon_Hoole",
+  "/wiki/Sentientologist",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Karke",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

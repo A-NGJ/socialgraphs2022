@@ -1,0 +1,47 @@
+{
+ "name": "Erkwil",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pacithhip"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Erkwil was a Pacithhip male who lived on Tatooine. He was a spice dealer and an ex-convict.\nOne evening, Erkwil was taking shelter in Tosche Station from a sand storm when stormtroopers entered. Fearful of being arrested for spice possession, Erkwil tried to sell his drugs to some out-of-towners, and when that failed, tried to hide the spice in their belongings. The stormtroopers were encouraged by an elderly local, Ezrim, and eventually tried to arrest the visitors. Erkwil successfully avoided drawing any attention to himself.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Pacithhip/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Tosche_Station/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Ezrim",
+  "/wiki/Wizards.com",
+  "/wiki/A_Night_at_Tosche_Station"
+ ]
+}

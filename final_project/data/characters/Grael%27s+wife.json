@@ -1,0 +1,58 @@
+{
+ "name": "Grael's wife",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Panshee tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ewok Grael had a wife who was the mother to his young son, Ponto. She was a member of the Ewok Panshee tribe.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Panshee",
+  "/wiki/Grael",
+  "/wiki/Ponto",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Escape_from_Balis-Baurgh",
+  "/wiki/Star_Wars_Adventure_Journal_1"
+ ]
+}

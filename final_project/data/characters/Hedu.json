@@ -1,0 +1,61 @@
+{
+ "name": "Hedu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "19 ABY",
+      "Dennogra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Anjiliac kajidic",
+      "Bomu Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hedu was a female Rodian who was the leader of the Bomu Clan.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Dennogra/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anjiliac",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Bomu_Clan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hedu",
+  "/wiki/Scourge_(novel)"
+ ]
+}

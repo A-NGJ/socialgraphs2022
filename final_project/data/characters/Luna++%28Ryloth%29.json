@@ -1,0 +1,62 @@
+{
+ "name": "Luna  (Ryloth)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twi'lek Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Luna was a Twi'lek who fought for Cham Syndulla's resistance movement during the Clone Wars.\nThe moon crescent on top of Luna's grave is fitting, as \"Luna\" is Latin for Earth's moon.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Luna_(Ryloth)",
+  "/wiki/Luna_(Ryloth)/Legends",
+  "/wiki/Ryloth",
+  "/wiki/22_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Twi%27lek_Resistance",
+  "/wiki/Cham_Syndulla",
+  "/wiki/Clone_Wars",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Liberty_on_Ryloth",
+  "/wiki/Moon/Legends",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

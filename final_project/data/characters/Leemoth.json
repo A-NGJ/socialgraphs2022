@@ -1,0 +1,58 @@
+{
+ "name": "Leemoth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Leemoth was a Duros male surgeon who served the Galactic Republic during the Clone Wars on Drongar. He specialized in amphibious and semi-aquatic species. He survived the attack of the Separatist forces against the medical center, and the RMSU was moved to a new location. When the Republic forces discovered that the Bota had become useless, Leemoth and the rest of the personnel left Drongar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Drongar/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Republic_Mobile_Surgical_Unit/Legends",
+  "/wiki/Bota",
+  "/wiki/MedStar_I:_Battle_Surgeons",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/MedStar:_Intermezzo",
+  "/wiki/Star_Wars_Insider_83",
+  "/wiki/MedStar_II:_Jedi_Healer"
+ ]
+}

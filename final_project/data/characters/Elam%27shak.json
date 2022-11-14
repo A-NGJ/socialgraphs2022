@@ -1,0 +1,60 @@
+{
+ "name": "Elam'shak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clan Shak"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elam'shak was a Twi'lek member of the Clan Shak and was the brother of Koh'shak, Troa'shak and Wrou'shak. He served as the Fan Master at the Kala'uun Starport.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Shak",
+  "/wiki/Koh%27shak",
+  "/wiki/Troa%27shak",
+  "/wiki/Wrou%27shak",
+  "/wiki/Fan_Master",
+  "/wiki/Kala%27uun_Starport",
+  "/wiki/Platt%27s_Starport_Guide",
+  "/wiki/Kala%27uun/Legends"
+ ]
+}

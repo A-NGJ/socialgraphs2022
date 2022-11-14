@@ -1,0 +1,65 @@
+{
+ "name": "Quarn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quarn was a Human male who was a captain in the military forces of House Organa on the planet Alderaan during the Cold War between the Galactic Republic and the Sith Empire. Stationed at Wardpost Luurdes, he received the slaves who had been freed from the Killik-controlled House Syrush estate on the orders of Elz Organa.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Wardpost_Luurdes",
+  "/wiki/Slavery/Legends",
+  "/wiki/Killik/Legends",
+  "/wiki/House_Syrush_(estate)",
+  "/wiki/Elz_Organa",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

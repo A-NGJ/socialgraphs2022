@@ -1,0 +1,68 @@
+{
+ "name": "Lem-Ofars",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lem-Ofars was an male Human Mandalorian who lived during the Cold War. Residing in Toxic Lake Garrison on the planet Taris, he managed a vendor stand and sold armor. He wore blue Mandalorian armor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Toxic_Lake_Garrison",
+  "/wiki/Taris/Legends",
+  "/wiki/Armor/Legends",
+  "/wiki/Mandalorian_armor/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

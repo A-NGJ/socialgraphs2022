@@ -1,0 +1,48 @@
+{
+ "name": "Maysano",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lutrillian"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Pink"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maysano was a wanted Lutrillian criminal who was active during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Maysano",
+  "/wiki/Maysano/Legends",
+  "/wiki/Lutrillian",
+  "/wiki/Color",
+  "/wiki/Clone_Wars",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Lightsaber_Lost",
+  "/wiki/Assassin_(episode)",
+  "/wiki/StarWars.com"
+ ]
+}

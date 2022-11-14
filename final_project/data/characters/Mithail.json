@@ -1,0 +1,54 @@
+{
+ "name": "Mithail",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mithail was a male Human individual who was the son of Yander, a native miner of Ord Cestus, who once was the partner of Sheeka Tull. He had a brother, Tarl, and a sister, Tonoté. He was the youngest of his siblings.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yander_(Ord_Cestus)",
+  "/wiki/Miner/Legends",
+  "/wiki/Sheeka_Tull",
+  "/wiki/Tarl_(Ord_Cestus)",
+  "/wiki/Tonot%C3%A9",
+  "/wiki/The_Cestus_Deception"
+ ]
+}

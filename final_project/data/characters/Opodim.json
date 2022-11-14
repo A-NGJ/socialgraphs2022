@@ -1,0 +1,46 @@
+{
+ "name": "Opodim",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Danoor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Minister Opodim was a Human male from the planet Danoor. He was one of the four government ministers who ruled the planet and, like his compatriots, was responsible for the well-being of five hundred thousand citizens.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Danoor",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Minister",
+  "/wiki/Planet/Legends",
+  "/wiki/The_DarkStryder_Campaign_(series)",
+  "/wiki/Galaxy%27s_Edge",
+  "/wiki/The_Kathol_Outback"
+ ]
+}

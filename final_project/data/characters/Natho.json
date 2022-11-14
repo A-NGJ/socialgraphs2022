@@ -1,0 +1,62 @@
+{
+ "name": "Natho",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorran resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Natho was a Twi'lek male worker who joined the Balmorran resistance during the Cold War between the Galactic Republic and the resurgent Sith Empire.\nDuring the battle on Balmorra, he secretly worked at a Imperial-controlled Okara Droid Factory and planned on making the droids turn against the Empire and fight on the Republic's side. He tasked a Republic spacer to use the transmitter on the relay droids outside the factory and upload the virus.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Battle_of_Balmorra_(Great_Galactic_Wars)",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Natho",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Kantuck",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gigoran"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Graf family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kantuck was a Gigoran who was the personnel bodyguard of Matriarch Catriona Graf.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gigoran",
+  "/wiki/Color",
+  "/wiki/Graf_family",
+  "/wiki/Catriona_Graf",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kantuck",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)"
+ ]
+}

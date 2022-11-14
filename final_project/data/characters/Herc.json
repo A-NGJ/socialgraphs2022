@@ -1,0 +1,74 @@
+{
+ "name": "Herc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Herc was a clone trooper captain in command of the Eighteenth Battalion under Jedi Master Bant Eerin during the Clone Wars. He led his forces, together with Eerin's Padawan, on the Trandoshan moon Akoshissss against the Separatist Droid Army in the Battle of Akoshissss.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_trooper_captain",
+  "/wiki/Eighteenth_Battalion",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Bant_Eerin/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Bant_Eerin%27s_Padawan",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Akoshissss",
+  "/wiki/Separatist_Droid_Army/Legends",
+  "/wiki/Battle_of_Akoshissss",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Way_of_the_Jedi"
+ ]
+}

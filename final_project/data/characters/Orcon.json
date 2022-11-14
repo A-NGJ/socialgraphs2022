@@ -1,0 +1,62 @@
+{
+ "name": "Orcon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Underwater dweller"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green and yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orcon was an aquatic being who lived underwater on the Forest Moon of Endor. He rode a devil serpent, which he controlled with a trident.\nHe would often invade the Underwater Kingdom to steal food pearls from the Underwater dwellers.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Underwater_dweller",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Water/Legends",
+  "/wiki/Devil_serpent",
+  "/wiki/Orcon%27s_trident",
+  "/wiki/Underwater_Kingdom",
+  "/wiki/Food_pearl",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Orcon",
+  "/wiki/Ewoks_9"
+ ]
+}

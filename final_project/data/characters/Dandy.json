@@ -1,0 +1,86 @@
+{
+ "name": "Dandy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicTorrent Company",
+      "Grand Army of the RepublicTorrent Company",
+      "Torrent Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dandy was a nickname of a clone trooper who served in the Grand Army of the Republic during the Clone Wars. In 21 BBY, Dandy was one of the troopers from Torrent Company to serve alongside Captain Rex during the Battle of Lanteeb.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Torrent_Company/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/CT-7567/Legends",
+  "/wiki/Battle_of_Lanteeb",
+  "/wiki/Clone_Wars_Gambit:_Siege",
+  "/wiki/Clone_Wars_Gambit:_Siege_(audiobook)"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Sanani",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voorpak"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Ryoo Naberrie"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sanani was a pet voorpak owned by Ryoo Naberrie as a child. Naberrie would often play with Sanani, sharing many imaginary adventures.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Voorpak/Legends",
+  "/wiki/Ryoo_Naberrie/Legends",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_105",
+  "/wiki/Databank_(original)"
+ ]
+}

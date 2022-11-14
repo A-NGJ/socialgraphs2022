@@ -1,0 +1,42 @@
+{
+ "name": "Heltiss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Heltiss was an Ithorian doctor who ran the medical center in Isttu Village aboard the Ithorian Herdship Bazaar. Heltiss was considered to be one of the finest physicians from Ithor.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Medcenter/Legends",
+  "/wiki/Isttu_Village",
+  "/wiki/Ithorian_Herdship/Legends",
+  "/wiki/Bazaar_(Ithorian_Herdship)",
+  "/wiki/Graveyard_of_Alderaan",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Two"
+ ]
+}

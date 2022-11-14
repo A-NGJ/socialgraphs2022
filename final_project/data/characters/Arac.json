@@ -1,0 +1,54 @@
+{
+ "name": "Arac",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicFarStar",
+      "FarStar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Arac was a young officer who served aboard the FarStar as a medic. He treated Captain Kaiya Adrimetrum after the ship was hit by a lightstorm in the Kathol Rift.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/FarStar",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Medic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Kaiya_Adrimetrum",
+  "/wiki/Lightstorm",
+  "/wiki/Kathol_Rift/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arac",
+  "/wiki/The_DarkStryder_Campaign_(series)",
+  "/wiki/The_Saga_Nears_Its_End",
+  "/wiki/Endgame"
+ ]
+}

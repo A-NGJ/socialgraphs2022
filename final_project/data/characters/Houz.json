@@ -1,0 +1,49 @@
+{
+ "name": "Houz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Houz was a human male who lived in a farming community on the outskirts of Black Spire Outpost on Batuu. He was recruited into the Resistance through his friend Dolin.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Resistance",
+  "/wiki/Farm",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Batuu",
+  "/wiki/Dolin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Houz",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire_(audiobook)"
+ ]
+}

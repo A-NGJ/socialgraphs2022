@@ -1,0 +1,45 @@
+{
+ "name": "Corvin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Just under 2 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corvin was a Human man, who lived on the planet Dalicron-4 during the waning years of the Galactic Republic.\nCorvin lived on Dalicron-4, with his wife and his son, Zanner. In 3 ABY, Zanner went missing during a storm and Corvin feared that his son had been swept into a river. However, a group of Alliance to Restore the Republic agents found Zanner in a nearby wood.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Planet/Legends",
+  "/wiki/Dalicron-4",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Zanner",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Child_of_Light",
+  "/wiki/Soulsaber_(adventure)",
+  "/wiki/Light_and_Dark_(adventure)"
+ ]
+}

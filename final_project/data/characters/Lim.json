@@ -1,0 +1,62 @@
+{
+ "name": "Lim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zixon"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lim was a Zixon female who guided members of the Resistance that arrived to assist her species with First Order forces on Minfar.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Zixon",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Jem_Arafoot",
+  "/wiki/Species",
+  "/wiki/First_Order",
+  "/wiki/Minfar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lim",
+  "/wiki/Spark_of_the_Resistance",
+  "/wiki/Spark_of_the_Resistance_(audiobook)"
+ ]
+}

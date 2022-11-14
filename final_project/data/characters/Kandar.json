@@ -1,0 +1,38 @@
+{
+ "name": "Kandar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kandar was the Duros pilot and astrogator of the pirate Urias Xhaxin's Nebulon-B escort frigate Free Lance.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Astrogation/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Urias_Xhaxin",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Free_Lance",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kandar",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_I:_Onslaught",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

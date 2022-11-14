@@ -1,0 +1,36 @@
+{
+ "name": "Glarret",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Glarret was an aged male Rodian who worked as Xaverri's assistant until Han Solo and Chewbacca took over for him.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Xaverri",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Glarret",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "SB-3709",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "Stormtrooper corps",
+      "Stormtrooper corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "SB-3709, nicknamed \"Patch,\" was a human male stormtrooper who served the First Order.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/First_Order",
+  "/wiki/Stormtrooper_Corps_(First_Order)",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/SB-3709",
+  "/wiki/Join_the_Resistance:_Escape_from_Vodran",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

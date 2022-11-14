@@ -1,0 +1,60 @@
+{
+ "name": "Crovessk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Trandosha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Revessa Global Shipping",
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crovessk was the CEO of Trandosha's Revessa Global Shipping. He scheduled an appeal to the Senate through contacts with Trade Federation Representative Lott Dod. When Senator Yarua heard this, he withdrew his delegation from peace talks being held with the Trandoshans.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandosha/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Revessa_Global_Shipping",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Lott_Dod/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Yarua/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_50"
+ ]
+}

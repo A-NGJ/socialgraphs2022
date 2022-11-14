@@ -1,0 +1,51 @@
+{
+ "name": "Ratoog",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Friends of Paran"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ratoog was a Gamorrean male who lived on the planet Derilyn during the reign of the Galactic Empire. He was a member of the Friends of Paran, an anti-Imperial resistance group, and he served the organization as a droid and computer specialist. Ratoog wore a linguibox on his belt, which translated his speech from Gamorrean to Basic. He was also a successful sabacc player.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Friends_of_Paran",
+  "/wiki/Planet/Legends",
+  "/wiki/Derilyn",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Computer/Legends",
+  "/wiki/Linguibox",
+  "/wiki/Gamorrean_(language)",
+  "/wiki/Galactic_Basic_Standard/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Operation:_Elrood_(book)"
+ ]
+}

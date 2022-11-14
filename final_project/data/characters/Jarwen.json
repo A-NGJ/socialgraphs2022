@@ -1,0 +1,44 @@
+{
+ "name": "Jarwen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jarwen was a cadet at the Galactic Empire's Carida Academy. During a training exercise, Jarwen's TIE fighter was hit by a cannon, causing it to explode.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Imperial_cadet",
+  "/wiki/Carida_Academy",
+  "/wiki/TIE/ln_space_superiority_starfighter",
+  "/wiki/Cannon",
+  "/wiki/Han_Solo_-_Imperial_Cadet_2",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

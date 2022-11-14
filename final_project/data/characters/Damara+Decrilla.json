@@ -1,0 +1,44 @@
+{
+ "name": "Damara Decrilla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Mecetti"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Damara Decrilla was a Lady of House Mecetti.\nShe has represented her house in the Vor-cal but was not particularly enthusiastic about it.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Mecetti",
+  "/wiki/Lord/Legends",
+  "/wiki/Vor-cal",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

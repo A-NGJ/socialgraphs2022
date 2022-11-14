@@ -1,0 +1,83 @@
+{
+ "name": "Dalern",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mantellian Separatist Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dalern was a Human male Mantellian Separatist Officer during the Separatist War against the Galactic Republic, which was backing the Ord Mantell Central Authority. He was stationed in the Separatist Base on Mannett Point when a promising Republic trooper infiltrated the base and was eventually captured by the trooper along with a teammate. The Republic soldiers attempted to retrieve info from Dalern but the former proved useless and so, Zora executed him where he stood.",
+ "base_url": "https://starwars.fandom.com/",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mantellian_Separatist_Movement",
+  "/wiki/Officer/Legends",
+  "/wiki/Separatist_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Ord_Mantell_Central_Authority",
+  "/wiki/Separatist_Base",
+  "/wiki/Mannett_Point",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Mission_to_Mannett_Point_(Havoc_Squad)",
+  "/wiki/Zora",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}
