@@ -1,0 +1,70 @@
+{
+ "name": "Tann",
+ "display_name": "Tann",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Toprawa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tann was a Human male who was the brother of Toprawan Rebel Surna and a skilled pilot and captain of the Rust Bucket, which he bought with financing from the crimelord Jabba the Hutt.\nTann made a modest and legitimate living working cargo runs to Toprawa's neighboring planets, until the Empire blockaded Toprawa following a rebel attack on the Imperial base that was responsible for designing the original Death Star Superlaser. Unable to leave the planet, Tann was out of work, being an ambitious, but often unlucky gambler any savings he had were soon lost to the Seven card comet tables. Tann could not keep the payments on his ship and it was impounded by agents of his financier Jabba the Hutt.\nThe captain of the Rust Bucket found new work when his sister and her comrades freed his ship and convinced him to fly them off planet in a bid to find and rejoin the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sev%27rance_Tann",
+  "/wiki/Tann_Gella",
+  "/wiki/Toprawa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Surna",
+  "/wiki/Pilot/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Rust_Bucket",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Death_Star/Legends",
+  "/wiki/Superlaser/Legends",
+  "/wiki/Seven_card_comet",
+  "/wiki/Starship/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/The_Bounty_Hunter",
+  "/wiki/The_Lost_Jedi_Adventure_Game_Book"
+ ]
+}

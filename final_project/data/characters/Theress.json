@@ -1,0 +1,70 @@
+{
+ "name": "Theress",
+ "display_name": "Theress",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Teral"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Theress was a captain in House Teral's security force. During the Cold War, House Ulgo attacked the Teral estate, and Theress's forces were aided by a Jedi Consular.\nBeing head of security, Theress was completely loyal to House Teral. He was completely willing to defend House Teral's final holding to his last breath, regardless of the overwhelming odds against him. Nevertheless, he was more than happy to welcome the Jedi's assistance, and was both grateful and impressed by the Consular's display in battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Teral",
+  "/wiki/Captain/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/House_Ulgo",
+  "/wiki/House_Teral_(estate)",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Theress",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

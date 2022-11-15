@@ -1,0 +1,51 @@
+{
+ "name": "Tran",
+ "display_name": "Tran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tran was a Human male who served as captain of the Imperial prison ship True Justice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/True_Justice",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tran",
+  "/wiki/The_Last_of_the_Jedi:_A_Tangled_Web"
+ ]
+}

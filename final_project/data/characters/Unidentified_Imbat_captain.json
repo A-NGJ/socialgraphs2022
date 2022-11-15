@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Imbat_captain",
+ "display_name": "Unidentified Imbat captain",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Imbat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Offworld Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This captain was the lead Imbat serving the Offworld Corporation on Bandomeer. Obi-Wan Kenobi used the Force to get the captain to let Obi-Wan and Guerra Derida get to the box with the broken circle on it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Imbat",
+  "/wiki/Gender/Legends",
+  "/wiki/Offworld_Mining_Corporation",
+  "/wiki/Bandomeer/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Guerra_Derida",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Imbat_captain",
+  "/wiki/Jedi_Apprentice:_The_Dark_Rival"
+ ]
+}

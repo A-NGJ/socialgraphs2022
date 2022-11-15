@@ -1,0 +1,47 @@
+{
+ "name": "Gresh_Manaa",
+ "display_name": "Gresh Manaa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Delaya"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gresh Manaa was a Human male who served as the Prime Minister of Delaya during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Delaya/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prime_Minister_(Delaya)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gresh_Manaa",
+  "/wiki/Rebel_Force:_Hostage"
+ ]
+}

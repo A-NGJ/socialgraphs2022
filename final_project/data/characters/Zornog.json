@@ -1,0 +1,64 @@
+{
+ "name": "Zornog",
+ "display_name": "Zornog",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sooma"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sooman"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zornog was the Sooman King of Sooma.\nWhen General Sludd tried to usurp the throne of nearby Alzar, he tricked Alzarian heir Prince Plooz into running away to Sooma on a freighter, where the child met Zornog. Plooz was rescued by C-3PO and R2-D2.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sooma",
+  "/wiki/Sooman",
+  "/wiki/Gender/Legends",
+  "/wiki/King/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Sludd",
+  "/wiki/Alzar",
+  "/wiki/Alzarian/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Plooz",
+  "/wiki/Freighter/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zornog",
+  "/wiki/Droids_(1986)_4",
+  "/wiki/Ewoks_10",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

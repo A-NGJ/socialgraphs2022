@@ -1,0 +1,32 @@
+{
+ "name": "Sonnos",
+ "display_name": "Sonnos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sonnos was a Hutt who lived during the first years of the Galactic Empire. After the Human Deggar Feps angered Sonnos, he attempted to flee the planet Nal Hutta aboard the starship Lost Lady, hoping to escape from the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Deggar_Feps",
+  "/wiki/Planet/Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Lost_Lady",
+  "/wiki/Wizards.com",
+  "/wiki/The_Nebula_Assassin"
+ ]
+}

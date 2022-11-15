@@ -1,0 +1,61 @@
+{
+ "name": "The_Red_Brine",
+ "display_name": "The Red Brine",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivax Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Red Brine was an alias used by a male Mon Calamari warrior who served the Ivax Syndicate, in the Anoat sector. A real one-man commando squad, he served the Syndicate to the best of his ability by eliminating enemies with great efficiency.\nIn the 2015 iOS video game Star Wars: Uprising, the red Brine was one of the many crew members that could be sent on Crew Runs for helpful items.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ivax_Syndicate",
+  "/wiki/Anoat_sector",
+  "/wiki/Commando",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/The_Red_Brine",
+  "/wiki/2015",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

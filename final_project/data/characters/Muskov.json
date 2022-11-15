@@ -1,5 +1,6 @@
 {
  "name": "Muskov",
+ "display_name": "Muskov",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Chief Muskov was the leader of the Cloud Police, which protected Cloud City on the planet Bespin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Special:Upload",

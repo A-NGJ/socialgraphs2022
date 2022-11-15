@@ -1,5 +1,6 @@
 {
  "name": "Sever",
+ "display_name": "Sever",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Sever was a female Human member of the Dire Skulls pirate gang operating on Mek-Sha.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

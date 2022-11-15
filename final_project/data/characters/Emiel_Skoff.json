@@ -1,0 +1,57 @@
+{
+ "name": "Emiel_Skoff",
+ "display_name": "Emiel Skoff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.76 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Darakin University",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Emiel Skoff was an intellectual who sought out the means by which the Alliance to Restore the Republic could defeat the Empire.\nEmiel taught at Darakin University and was well respected as an educator who went above and beyond. When the Galactic Empire assumed control of the curriculum, he left to continue his studies without Imperial intervention. He eventually made his way to the Minos Cluster where he learned that the Empire had declared a planet in the Gesaril system as being 'off-limits.' He believed that there was information there that would help the Alliance to Restore the Republic.\nTough-minded when it came to academics, Emiel was very naive about the galaxy as a whole and was content to immerse himself into his research. He was always disheveled with scraps of paper tucked into every pocket and rarely taking the time to groom himself properly.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Darakin_University",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Minos_Cluster/Legends",
+  "/wiki/Gesaril_system",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters_(Second_Edition)"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Clines_family",
+ "display_name": "Clines family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "First member(s)",
+     "values": [
+      "Willer Clines"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Tazan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Prominence",
+     "values": [
+      "Galactic Civil War"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Clines family consisted of Willer Clines and his two daughters, Flaenella and Jastina. They lived in Tazan City. Willer and Jastina supported the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Willer_Clines",
+  "/wiki/Tazan",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Flaenella_Clines",
+  "/wiki/Jastina_Clines",
+  "/wiki/Tazan_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Ultimate_Core_Dump"
+ ]
+}

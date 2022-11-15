@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_warrior_commander",
+ "display_name": "Unidentified warrior commander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong empireWarrior caste",
+      "Warrior caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified warrior was a Yuuzhan Vong commander who fought at the Battle of the World-Well. He refused to use poison against Ganner Rhysode because he found it dishonorable, and he knew that it could kill the World Brain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Warrior_caste",
+  "/wiki/Commander/Legends",
+  "/wiki/Battle_of_the_World-Well",
+  "/wiki/Poison/Legends",
+  "/wiki/Ganner_Rhysode",
+  "/wiki/World_Brain",
+  "/wiki/The_New_Jedi_Order:_Traitor"
+ ]
+}

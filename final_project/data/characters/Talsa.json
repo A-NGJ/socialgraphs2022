@@ -1,0 +1,54 @@
+{
+ "name": "Talsa",
+ "display_name": "Talsa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Talsa was in command of the X-wing starfighter wing stationed at the Advance Base Baskarn under the command of Colonel Riskin.\nShe was driven by vengeance towards the Empire who had done great injustice to her in the past. She constantly drove her pilots to performing their best. She was a very skilled pilot, but tended to focus too much on killing Imperials, sometimes at the cost of achieving the objective of the mission.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Talsa_(tree)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/T-65_X-wing_starfighter/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Fighter_wing/Legends",
+  "/wiki/Advance_Base_Baskarn",
+  "/wiki/Colonel/Legends",
+  "/wiki/Riskin",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Way_of_the_Yrashu",
+  "/wiki/Star_Wars_Adventure_Journal_2"
+ ]
+}

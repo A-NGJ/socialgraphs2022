@@ -1,0 +1,40 @@
+{
+ "name": "Jeela_Cthon",
+ "display_name": "Jeela Cthon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jeela Cthon was a female Human, who lived on the planet Coruscant during the time of the Clone Wars.\nJeela was married to Geo Cthon and together, they owned and operated Lucky You, a service that used amateur actors to allow people to pretend that they had a better life. In 19 BBY, the Dark Jedi Garth Ezzar visited Lucky You and when he left, Cthon saw him putting his helmet on and getting on his speeder bike. She realized that Ezzar would kill her if he knew that she had seen him, so she kept the knowledge to herself.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Geo_Cthon",
+  "/wiki/Lucky_You",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Garth_Ezzar",
+  "/wiki/Garth_Ezzar%27s_speeder_bike",
+  "/wiki/A_Hero_Seeks_Not_Vengeance"
+ ]
+}

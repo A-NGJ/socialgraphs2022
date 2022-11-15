@@ -1,0 +1,63 @@
+{
+ "name": "Tura_Omega",
+ "display_name": "Tura Omega",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "68/67 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tura Omega was a female Human who was the wife of Xanatos and the mother of Granta Omega. When her son was three years old, she flew with him to Nierport VII, where she worked at the gas station for years on the moon.\nBecause of Granta's brilliance, Tura eventually found a sponsor for him: Senator Sano Sauro of Eeropha.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Xanatos",
+  "/wiki/Granta_Omega",
+  "/wiki/Nierport_VII",
+  "/wiki/Senator/Legends",
+  "/wiki/Sano_Sauro",
+  "/wiki/Eeropha",
+  "/wiki/Jedi_Quest:_The_Master_of_Disguise",
+  "/wiki/Jedi_Quest:_The_Shadow_Trap",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

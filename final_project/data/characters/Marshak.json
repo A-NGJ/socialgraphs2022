@@ -1,5 +1,6 @@
 {
  "name": "Marshak",
+ "display_name": "Marshak",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Marshak was a friend of Lando Calrissian. He was a Corellian smuggler, and tricked Han Solo, misinforming him of the true nature of the Kessel Run.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

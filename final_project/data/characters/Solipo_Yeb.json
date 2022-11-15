@@ -1,0 +1,55 @@
+{
+ "name": "Solipo_Yeb",
+ "display_name": "Solipo Yeb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solipo Yeb was a Human male who wore an Andalian cloak. He was a member of the Galactic Senate circa 19 BBY. Yeb was one of the many thousands of mourners to attend the funeral of Senator Padmé Amidala.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Andalian_cloak",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Funeral_of_Padm%C3%A9_Amidala",
+  "/wiki/Senator/Legends",
+  "/wiki/Padm%C3%A9_Amidala/Legends",
+  "/wiki/Star_Wars:_Revenge_of_the_Sith:_The_Visual_Dictionary",
+  "/wiki/Star_Wars:_The_Complete_Visual_Dictionary",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Ask_Lobot",
+  "/wiki/Star_Wars_Insider_102",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

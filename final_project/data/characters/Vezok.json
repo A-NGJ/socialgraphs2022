@@ -1,0 +1,60 @@
+{
+ "name": "Vezok",
+ "display_name": "Vezok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vezok was a male Selonian living on Corellia during the Galactic War. During the Battle of Corellia in 3640 BBY he was captured by the Imperial forces, leaving behind some explosives.\nVezok appears in game files for Star Wars: The Old Republic under npc.location.corellia.class.trooper.forward_momentum category. He does not appear during Trooper class mission \"Forward Momentum\" in the live version of the game.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Corellia/Legends",
+  "/wiki/Selonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/3640_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

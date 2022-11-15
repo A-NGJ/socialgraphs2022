@@ -1,0 +1,56 @@
+{
+ "name": "Emmi_Stonelaw",
+ "display_name": "Emmi Stonelaw",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vernet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Emmi Stonelaw was a chorba-farmer who lived on the planet Vernet. She was married to Arn, and had two sons, Kristoff and Yuri. Emmi and Arn also agreed to foster Mair Koda, the daughter of a family friend after her mother ran off with a Wroonian smuggler, leaving her father unable to deal with raising his daughter and earning a living as a freighter captain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vernet",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_chorba-root",
+  "/wiki/Farmer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Arn_Stonelaw",
+  "/wiki/Kristoff_Stonelaw",
+  "/wiki/Yuri_Stonelaw",
+  "/wiki/Mair_Koda",
+  "/wiki/Wroonian/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Draw",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

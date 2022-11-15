@@ -1,5 +1,6 @@
 {
  "name": "Podiry",
+ "display_name": "Podiry",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Podiry was a human male stormtrooper in Darth Vader's First Legion during the Imperial Era. He served under Commander Kimmund's command in the Galactic Empire's first battle with the Grysks over Batuu.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

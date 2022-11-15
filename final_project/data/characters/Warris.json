@@ -1,0 +1,69 @@
+{
+ "name": "Warris",
+ "display_name": "Warris",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Tall"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Warris was a Corellian recruiter with the New Republic on Coruscant during the Black Fleet Crisis. When he and his supervisor turned down Plat Mallar, they both received an earful from Admiral Ackbar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/Plat_Mallar",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gial_Ackbar/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Warris",
+  "/wiki/Shield_of_Lies"
+ ]
+}

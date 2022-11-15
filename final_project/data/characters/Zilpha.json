@@ -1,0 +1,45 @@
+{
+ "name": "Zilpha",
+ "display_name": "Zilpha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zilpha was a Human female who served as the secretary of Yeorg Captison at the time of the Invasion of Bakura.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yeorg_Captison",
+  "/wiki/Invasion_of_Bakura",
+  "/wiki/The_Truce_at_Bakura"
+ ]
+}

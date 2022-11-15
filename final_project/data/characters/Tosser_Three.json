@@ -1,0 +1,47 @@
+{
+ "name": "Tosser_Three",
+ "display_name": "Tosser Three",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Stassia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tosser Three was a Stassian sportsbeing who played the game of ringer. They were questioned by Corporal Valon Rizz who was looking into Reye Sedeya's lucky winning streak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Stassia",
+  "/wiki/Human/Legends",
+  "/wiki/Stassian",
+  "/wiki/Sports",
+  "/wiki/Ringer",
+  "/wiki/Corporal/Legends",
+  "/wiki/Valon_Rizz",
+  "/wiki/Reye_Sedeya",
+  "/wiki/Gambling/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tosser_Three",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Ringers",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

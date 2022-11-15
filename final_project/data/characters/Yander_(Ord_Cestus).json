@@ -1,0 +1,60 @@
+{
+ "name": "Yander_(Ord_Cestus)",
+ "display_name": "Yander  (Ord Cestus)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Prior to 22 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yander was a Human male miner who is the father of Tarl, Tonoté, and Mithail and lived on Ord Cestus during the time of the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems. Some time after his first wife tragically died, he married a smuggler named Sheeka Tull. Sadly, Yander passed away during the war.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tarl_(Ord_Cestus)",
+  "/wiki/Tonot%C3%A9",
+  "/wiki/Mithail",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Sheeka_Tull",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

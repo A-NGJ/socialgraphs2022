@@ -1,5 +1,6 @@
 {
  "name": "Linna",
+ "display_name": "Linna",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Linna was a Human female who piloted an A-wing under Pash Cracken's Ace Squadron.\nOne of her engines had a problem and they made a stopover at the Empress-class space station for repairs.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

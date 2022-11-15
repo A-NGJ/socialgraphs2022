@@ -1,0 +1,46 @@
+{
+ "name": "Watchwing",
+ "display_name": "Watchwing",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ruping"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Beast Riders"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Olko Baz"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Watchwing was a Ruping owned by Olko Baz, a member of the Clazca, a tribe of the Beast Riders on Onderon during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ruping/Legends",
+  "/wiki/Beast_Riders",
+  "/wiki/Olko_Baz",
+  "/wiki/Clazca",
+  "/wiki/Onderon/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Operation:_Shadowpoint"
+ ]
+}

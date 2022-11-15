@@ -1,5 +1,6 @@
 {
  "name": "Kella",
+ "display_name": "Kella",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kella was a female Human merchant selling stimulants on Nar Shaddaa during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

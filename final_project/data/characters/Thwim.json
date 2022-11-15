@@ -1,0 +1,72 @@
+{
+ "name": "Thwim",
+ "display_name": "Thwim",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kubindi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lady Valarian's criminal empireLucky Despot Hotel \u0026 Casino",
+      "Lucky Despot Hotel \u0026 Casino"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thwim was a Kubaz security guard employed by the Whiphid, Lady Valarian. He worked at the front reception area of the Lucky Despot Hotel \u0026 Casino shortly before the Battle of Yavin. Thwim was acquaintances with the Bith jizz musician known as Doikk Na'ts, and ushered Doikk and the rest of his band, the Modal Nodes, into the Star Chamber Café. Thwim was present when enforcers for Jabba Desilijic Tiure as well as Imperial stormtroopers raided the casino disrupting the wedding of Lady Valarian and D'Wopp.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubindi/Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Valarian/Legends",
+  "/wiki/Lucky_Despot",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Jizz/Legends",
+  "/wiki/Doikk_Na%27ts/Legends",
+  "/wiki/Modal_Nodes",
+  "/wiki/Star_Chamber_Caf%C3%A9",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Wedding_of_Valarian_and_D%27Wopp",
+  "/wiki/D%27Wopp",
+  "/wiki/We_Don%27t_Do_Weddings:_The_Band%27s_Tale",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

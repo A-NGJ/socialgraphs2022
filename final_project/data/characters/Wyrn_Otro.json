@@ -1,0 +1,70 @@
+{
+ "name": "Wyrn_Otro",
+ "display_name": "Wyrn Otro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galentro Heavy Works",
+      "Pentastar Alignment"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wyrn Otro worked for Galentro Heavy Works corporation, unswervingly loyal as he regarded it as his only family. He represented the corporation at the Pentastar Talks in 7 ABY. While he signed the Pentastar Alignment Treaty, recognizing the need to align with a party to avoid being absorbed into the New Republic, he had personal reservations about Moff Ardus Kaine, worrying that the formation of the Pentastar Alignment was only a way to gain personal power.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galentro_Heavy_Works",
+  "/wiki/Pentastar_Alignment",
+  "/wiki/Pentastar_Talks",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Pentastar_Alignment_Treaty",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Ardus_Kaine",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Pentastar_Alignment",
+  "/wiki/Star_Wars_Adventure_Journal_3",
+  "/wiki/The_Best_of_the_Star_Wars_Adventure_Journal,_Issues_1-4",
+  "/wiki/Gamemaster_Toolkit:_Live-Action_Adventures",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Four_-_The_Best_of_the_Journal"
+ ]
+}

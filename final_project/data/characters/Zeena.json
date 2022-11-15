@@ -1,0 +1,79 @@
+{
+ "name": "Zeena",
+ "display_name": "Zeena",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Swoop racing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zeena was a yellow-skinned female Twi'lek living in Ahto City on the planet Manaan in and around 3956 BBY. As an amateur swoop racer, she would refuse to talk to anyone unless they were a racer as well.\nIf the player does choose to race on Manaan's swoop track, then Zeena will talk, albeit grudgingly. As you rise up the ranks she will become more and more open to the player.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Manaan/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Ahto_City",
+  "/wiki/Planet/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Swoop/Legends",
+  "/wiki/Ahto_City_swoop_track",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

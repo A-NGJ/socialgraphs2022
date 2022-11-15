@@ -1,5 +1,6 @@
 {
  "name": "Morq",
+ "display_name": "Morq",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Morq was a male Kowakian monkey-lizard kept as a pet by Milo Graf. He was fond of eating, and regarded clip beetles as a treat.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Kowakian_monkey-lizard",

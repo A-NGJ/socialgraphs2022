@@ -1,0 +1,33 @@
+{
+ "name": "Naxxis_Bats",
+ "display_name": "Naxxis Bats",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dashade"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Naxxis Bats was a male Dashade that lived in the period of the Jedi Civil War. He was a critic of the Jedi Council, describing them as \"twelve blind swordsmen  seek only to acquiesce never to resist.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dashade/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Jedi_Council/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

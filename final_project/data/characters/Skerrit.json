@@ -1,5 +1,6 @@
 {
  "name": "Skerrit",
+ "display_name": "Skerrit",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Skerrit was a male Devaronian. He was married to Anirak. Skerrit conspired with fellow Devaronian Tosha to transport a cargo of bandara to Devaron.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Devaronian/Legends",

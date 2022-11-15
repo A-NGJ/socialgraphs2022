@@ -1,0 +1,48 @@
+{
+ "name": "T%27ar_Ta%27avon",
+ "display_name": "T'ar Ta'avon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Romar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chadra-Fan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "T'ar Ta'avon was an outlaw tech that lived on the edge of Romar starport in a warehouse. Tar repaired and modified starships here.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Romar",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Outlaw_tech/Legends",
+  "/wiki/Romar_starport",
+  "/wiki/Starship/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/T%27ar_Ta%27avon",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

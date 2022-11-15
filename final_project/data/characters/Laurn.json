@@ -1,5 +1,6 @@
 {
  "name": "Laurn",
+ "display_name": "Laurn",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Laurn was a Human female who worked for Ditto, leader of a Swoop gang on Hallitron-7. In 18 BBY, she and her boss were hired by Ferus Olin to escort him to a spaceport on the planet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hallitron-7",

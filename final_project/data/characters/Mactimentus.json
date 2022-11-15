@@ -1,5 +1,6 @@
 {
  "name": "Mactimentus",
+ "display_name": "Mactimentus",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Mactimentus was a Tritonite who resided on Triton Besh. He represented the Domains of Triton and greeted newcomers at Triton Besh Port with a copy of the Rules of Law for the Domains of Triton.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Triton/Legends",

@@ -1,0 +1,81 @@
+{
+ "name": "Scolex_Grath",
+ "display_name": "Scolex Grath",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Scolex Grath was a Human male who lived during the Galactic Civil War. He was a member of Black Sun who lived in the city of Doaba Guerfel on Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Scolex_Grath",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Doaba_Guerfel/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Scolex_Grath",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

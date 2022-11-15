@@ -1,0 +1,37 @@
+{
+ "name": "Mart_Mattin%27s_mother",
+ "display_name": "Mart Mattin's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This human female was the mother of Mart Mattin, and the wife of Mart Mattin's father. Sometime during his lifetime, Mart began using his mother's surname.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Parent",
+  "/wiki/Mart_Mattin",
+  "/wiki/Marriage",
+  "/wiki/Mart_Mattin%27s_father",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/A_Youth_Unpromising",
+  "/wiki/StarWars.com"
+ ]
+}

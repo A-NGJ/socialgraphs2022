@@ -1,5 +1,6 @@
 {
  "name": "Sata",
+ "display_name": "Sata",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Sata was an Umbaran female technician hired by Gozetta who temporarily worked alongside Lina and Milo Graf.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Umbaran",

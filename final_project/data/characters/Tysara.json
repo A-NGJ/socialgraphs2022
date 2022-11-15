@@ -1,0 +1,52 @@
+{
+ "name": "Tysara",
+ "display_name": "Tysara",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tysara was a female Tarasin who lived during the waning years of the Galactic Republic.\nTysara lived on the planet Cularin, where she was the Mother of a Tarasin irstat. During the time of the Clone Wars, a number of Tarasin were kidnapped by the slaver Haast Aath, so Tysara hired the Heroes of Cularin to rescue them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Mother_(title)/Legends",
+  "/wiki/Irstat",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Haast_Aath",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Counterstrike_(Living_Force)",
+  "/wiki/Counterstrike"
+ ]
+}

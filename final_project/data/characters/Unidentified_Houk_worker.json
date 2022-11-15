@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Houk_worker",
+ "display_name": "Unidentified Houk worker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Houk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mek-Sha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3626 BBY, a Houk male worker was living in the space station Mek-Sha. A representative of the Feast of Prosperity provided the worker with a donation to help him with his health problems.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Houk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mek-Sha",
+  "/wiki/3626_BBY",
+  "/wiki/Space_station/Legends",
+  "/wiki/Feast_of_Prosperity",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Houk_worker",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

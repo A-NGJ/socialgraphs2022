@@ -1,0 +1,64 @@
+{
+ "name": "Gall_(individual)",
+ "display_name": "Gall  (individual)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Engebo V"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Outer Rim Oreworks Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gall was a male Human who served as the sheriff of the Landing, on the planet Engebo V. A former miner employed by Outer Rim Oreworks, he lost an eye in a mining accident for which he was given a huge compensation and the position of security chief at the ORO mines. When ORO pulled out of the Engebo V mines, Gall accepted a position with Jaffro Davengatt, leading the security team that protected Davengatt's nerf ranches. Gall was one of the few beings to escape Engebo V, after the Madman's Fortune crashed onto the planet and released a swarm of skekfish.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Landing",
+  "/wiki/Gall/Legends",
+  "/wiki/Engebo_V",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Outer_Rim_Oreworks_Company",
+  "/wiki/Planet/Legends",
+  "/wiki/Jaffro_Davengatt",
+  "/wiki/Nerf/Legends",
+  "/wiki/Madman%27s_Fortune",
+  "/wiki/Skekfish",
+  "/wiki/Wizards.com",
+  "/wiki/Death,_Dirt,_and_the_Nerf_Rancher%27s_Daughter",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

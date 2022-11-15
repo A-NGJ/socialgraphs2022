@@ -1,5 +1,6 @@
 {
  "name": "Mordak",
+ "display_name": "Mordak",
  "side_bars": [
   {
    "name": "Physical description",
@@ -39,7 +40,7 @@
   }
  ],
  "content": "Mordak was an Imperial captain who served the Galactic Empire. He joined Darth Vader in an expedition to Malagarr, but later defected to the Rebel Alliance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

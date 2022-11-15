@@ -1,0 +1,46 @@
+{
+ "name": "Tannan",
+ "display_name": "Tannan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tannan was a student at the same civilian academy on Alderaan that Conn Doruggan attended. He and Pul were friends and wegsphere teammates with Doruggan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Conn_Doruggan",
+  "/wiki/Pul",
+  "/wiki/Wegsphere",
+  "/wiki/The_Truce_at_Bakura_Sourcebook"
+ ]
+}

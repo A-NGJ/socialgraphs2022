@@ -1,0 +1,68 @@
+{
+ "name": "Uggorda",
+ "display_name": "Uggorda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "5 ABY",
+      "Christophsis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Church of the Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uggorda was a female Duros who was a member of the Church of the Force. She traveled to the planet Christophsis with four other pilgrims to follow the orders of Brin Izisca and return a crate of kyber crystals back to where they belonged. On the eighth day she was attacked by kyaddak creatures, but she survived. On the tenth day she was killed when a stalactite crushed her head in a cave.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/5_ABY",
+  "/wiki/Christophsis",
+  "/wiki/Duros",
+  "/wiki/Gender",
+  "/wiki/Church_of_the_Force",
+  "/wiki/Planet",
+  "/wiki/Pilgrim",
+  "/wiki/Brin_Izisca",
+  "/wiki/Kyber_crystal",
+  "/wiki/Standard_day",
+  "/wiki/Kyaddak",
+  "/wiki/Death",
+  "/wiki/Cave",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Uggorda",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

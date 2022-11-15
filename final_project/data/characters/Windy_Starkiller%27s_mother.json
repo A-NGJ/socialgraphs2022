@@ -1,0 +1,63 @@
+{
+ "name": "Windy_Starkiller%27s_mother",
+ "display_name": "Windy Starkiller's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of Windy Starkiller lived on Tatooine with her husband and their son. She and her husband sometimes visited the Lars homestead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Windy_Starkiller%27s_mother",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Windy_Starkiller",
+  "/wiki/Windy_Starkiller%27s_father",
+  "/wiki/Lars_homestead",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Windy_Starkiller%27s_mother",
+  "/wiki/Luke_Skywalker%27s_Walkabout"
+ ]
+}

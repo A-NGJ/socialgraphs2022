@@ -1,5 +1,6 @@
 {
  "name": "Ferana",
+ "display_name": "Ferana",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ferana was a convor owned by the Jedi Master Lene Kostana.\nFerana appeared in the audiobook Dooku: Jedi Lost, written by Cavan Scott and published in 2019.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Convor",

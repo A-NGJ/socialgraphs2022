@@ -1,0 +1,67 @@
+{
+ "name": "Arlo_Tyre",
+ "display_name": "Arlo Tyre",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Alashan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Arlo Tyre joined the Rebellion after an Imperial raid on his home planet cost him everything he held dear. He became a Master Scout and was partnered with Wadie Firestone to investigate the loss of communications with an archeological team on Alashan. Despite being a seasoned veteran, Tyre was killed investigating the ruins, cut down by a mysterious beam of energy, caused by the Guardian of Forever.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arlo_(disambiguation)",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Alashan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Wadie_Firestone",
+  "/wiki/Death/Legends",
+  "/wiki/Guardian_of_Forever",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arlo_Tyre",
+  "/wiki/World_of_Fire!",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

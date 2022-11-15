@@ -1,0 +1,50 @@
+{
+ "name": "Biull_Sangtwo",
+ "display_name": "Biull Sangtwo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Narg"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Biull Sangtwo was a Human male from the planet Narg. A farmer, he ran a scam with the protocol droid RT-56/X whereby they would convince offworlders to purchase the droid for a small fee with the intention of reselling it at a higher price. Once the deal was done, the droid would slip away and return to Sangtwo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Narg",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Farmer/Legends",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/RT-56/X",
+  "/wiki/Droid/Legends",
+  "/wiki/The_Abduction",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures"
+ ]
+}

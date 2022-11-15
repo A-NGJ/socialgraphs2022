@@ -1,0 +1,51 @@
+{
+ "name": "Temarit",
+ "display_name": "Temarit",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lonaste's clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Temarit was a female Ugnaught who lived in Ugnaught Town on Bespin during the Galactic Civil War. She was the oldest aunt of Lonaste.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ugnaught",
+  "/wiki/Gender",
+  "/wiki/Lonaste%27s_clan",
+  "/wiki/Ugnaught_Town",
+  "/wiki/Bespin",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Lonaste",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Temarit",
+  "/wiki/Bespin_Escape",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back_(audiobook)"
+ ]
+}

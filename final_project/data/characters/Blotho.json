@@ -1,5 +1,6 @@
 {
  "name": "Blotho",
+ "display_name": "Blotho",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Blotho was a Gamorrean mercenary working for Jerec in 5 ABY. He was a cousin of Brollo.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gamorrean/Legends",

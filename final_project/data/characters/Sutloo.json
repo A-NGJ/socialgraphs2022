@@ -1,0 +1,35 @@
+{
+ "name": "Sutloo",
+ "display_name": "Sutloo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sutloo was the owner and operator of Sutloo's Trading Post on Seregar. He was an older, pot-bellied man who was one of the original settlers on Seregar. He made a meager living but was happy with his life. He enjoyed meeting new people and lived very simply.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sutloo%27s_Trading_Post",
+  "/wiki/Seregar",
+  "/wiki/West_End_Games",
+  "/wiki/Seregar_Turnabout",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

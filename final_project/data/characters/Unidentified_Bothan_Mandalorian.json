@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Bothan_Mandalorian",
+ "display_name": "Unidentified Bothan Mandalorian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Protectors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A golden-furred, unidentified Bothan was one of the Mandalorian Protectors serving with Boba Fett at Caluula Station in 29 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Mandalorian_Protectors/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Caluula_Station",
+  "/wiki/29_ABY/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Bort",
+ "display_name": "Bort",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Bort was a male human mercenary who was active during the early Age of the Empire. At some point, he was hired by the big game huntress Gozetta.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

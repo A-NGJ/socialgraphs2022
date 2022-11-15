@@ -1,0 +1,66 @@
+{
+ "name": "Chaff_Korus",
+ "display_name": "Chaff Korus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Green Squadron",
+      "Green Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chaff Korus was a human male who was a pilot in the Rebel Alliance at the time of the Galactic Civil War. He flew as part of Green Squadron under the callsign Green Six. Shortly before the Battle of Yavin, he participated in an attack on the planet Scarif to help secure the plans for the Death Star.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Green_Squadron_(Rebel_Alliance)",
+  "/wiki/Rebel_pilot",
+  "/wiki/Time",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Callsign",
+  "/wiki/Green_Six",
+  "/wiki/Battle_of_Yavin",
+  "/wiki/Battle_of_Scarif",
+  "/wiki/Planet",
+  "/wiki/Scarif",
+  "/wiki/Death_Star_plans",
+  "/wiki/DS-1_Death_Star_Mobile_Battle_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chaff_Korus",
+  "/wiki/Rogue_One:_A_Star_Wars_Story",
+  "/wiki/Star_Wars:_Rogue_One:_The_Ultimate_Visual_Guide"
+ ]
+}

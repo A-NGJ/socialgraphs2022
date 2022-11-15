@@ -1,0 +1,51 @@
+{
+ "name": "Thula",
+ "display_name": "Thula",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thula was a talented swindler and smuggler. She and the Umbaran Squa Tront were employed by the Black Sun agent Kaird. They both had to infiltrate into the sending system and managed to steal the Bota. Then, they had to encase the product in carbonite and sent it to Kaird, in order to be property of the Black Sun. Instead of following the Nediji's plan, Thula and Squa betrayed Kaird and filled the carbonite case with explosives. Kaird narrowly escaped death and vowed revenge, but Thula and Squa had flown away.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Falleen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Umbaran/Legends",
+  "/wiki/Squa_Tront",
+  "/wiki/Kaird",
+  "/wiki/Bota",
+  "/wiki/Carbonite/Legends",
+  "/wiki/Nediji",
+  "/wiki/MedStar_II:_Jedi_Healer",
+  "/wiki/Coruscant_Nights_I:_Jedi_Twilight"
+ ]
+}

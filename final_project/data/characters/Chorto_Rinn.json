@@ -1,0 +1,82 @@
+{
+ "name": "Chorto_Rinn",
+ "display_name": "Chorto Rinn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eagle's network"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chorto Rinn was a Human male living during the Cold War. He headed the White Wing, a branch of the Eagle's network on the moon Nar Shaddaa, and oversaw the network's dealings with VerveGen Corporation. He was killed by Imperial Agent Cipher Nine, who infiltrated VerveGen around 3643 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eagle%27s_network",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/White_Wing_(group)",
+  "/wiki/Moon/Legends",
+  "/wiki/VerveGen_Corporation",
+  "/wiki/Imperial_Agent",
+  "/wiki/Cipher_Nine",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

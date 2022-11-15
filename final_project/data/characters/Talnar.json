@@ -1,0 +1,53 @@
+{
+ "name": "Talnar",
+ "display_name": "Talnar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talnar was an Alliance procurement officer. When he was 45 years old, Talnar was forced to crash land on the primitive world of Naalol when his ship, the Golden Jewel, was irreparably damaged by Imperial forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Standard_year",
+  "/wiki/Naalol/Legends",
+  "/wiki/Golden_Jewel",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Talnar",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Talnar%27s_Rescue",
+  "/wiki/Star_Wars_Gamer_5",
+  "/wiki/Wizards.com",
+  "/wiki/Talnar%27s_Tatooine_Traitor"
+ ]
+}

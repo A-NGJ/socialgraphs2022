@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_messenger_Jedi",
+ "display_name": "Unidentified messenger Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Jedi served as messenger for the Dantooine Enclave Council during the Mandalorian War. He received a message from accused Jedi Zayne Carrick for Master Vandar Tokare.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Dantooine_Enclave_Council",
+  "/wiki/Mandalorian_War",
+  "/wiki/Zayne_Carrick",
+  "/wiki/Vandar_Tokare",
+  "/wiki/Knights_of_the_Old_Republic_4"
+ ]
+}

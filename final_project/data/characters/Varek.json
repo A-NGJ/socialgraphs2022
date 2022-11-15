@@ -1,0 +1,79 @@
+{
+ "name": "Varek",
+ "display_name": "Varek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Ryen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varek was a male Human Jedi Padawan living during the Galactic War. In 3642 BBY he, along with Cassius, Eli and Ashara Zavros was brought to Taris to train under Jedi Masters Ryen and Ocera, whose philosophy was that Padawans best learned the travails of using the Force through firsthand experience of the galaxy.\nVarek appears in Star Wars: The Old Republic during the Sith Inquisitor class mission on Taris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Ryen",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Cassius",
+  "/wiki/Eli",
+  "/wiki/Ashara_Zavros",
+  "/wiki/Taris/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Ocera",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

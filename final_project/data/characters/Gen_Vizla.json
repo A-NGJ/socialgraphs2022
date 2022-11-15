@@ -1,0 +1,83 @@
+{
+ "name": "Gen_Vizla",
+ "display_name": "Gen Vizla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Vizla"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gen Vizla was a male Human Mandalorian and a member of Clan Vizla, living during the Cold War. On Vaiken Spacedock he worked with fellow Mandalorian, Braum Bourne to help train promising bounty hunters. During the Great Hunt , Gen and Braum helped give tips to the future Grand Hunt Champion, both becoming very impressed with the young bounty hunter.\nGen Vizla can be found both on Vaiken Spacedock and in the Mandalorian enclave on Dromund Kaas. In the German version of Star Wars: The Old Republic, his last name is spelled \"Vizsla,\" similar to Pre Vizsla and Tor Vizsla.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Clan_Vizla",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Braum_Bourne",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Great_Hunt_(c._3643_BBY)",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gen_Vizla",
+  "/wiki/Mandalorian_enclave",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Pre_Vizsla/Legends",
+  "/wiki/Tor_Vizsla"
+ ]
+}

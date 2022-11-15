@@ -1,0 +1,59 @@
+{
+ "name": "Vreet_Harak",
+ "display_name": "Vreet Harak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Fennesa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Grand Horn Ranch Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vreet Harak was a third-generation male Human nerf herder who worked for the Grand Horn Ranch Corporation on Fennesa. He had the appearance of a typical nerf herder and didn't smell that nice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fennesa",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Grand_Horn_Ranch_Corporation",
+  "/wiki/Nerf/Legends",
+  "/wiki/Nerf_herder/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Mountain_Nerf",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

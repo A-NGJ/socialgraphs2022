@@ -1,0 +1,38 @@
+{
+ "name": "Kong_Zhang",
+ "display_name": "Kong Zhang",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Heaven-earth corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kong Zhang was a Hutt that was secretly in league with the Heaven-earth corporation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Heaven-earth_corporation",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kong_Zhang",
+  "/wiki/The_Vow_of_Silver_Dawn"
+ ]
+}

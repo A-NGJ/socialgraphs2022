@@ -1,5 +1,6 @@
 {
  "name": "Jolis",
+ "display_name": "Jolis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Jolis was a Human male Sergeant who served the Galactic Republic during the Cold War against the resurgent Sith Empire.\nStationed on Balmorra, he led a Republic squadron until they were ambushed by Imperial anti-aircraft guns. He tasked a Republic spacer to recover the stolen databanks out of their crashed fighters and demolish the anti-aircraft guns before more Republic squadrons fall.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,48 @@
+{
+ "name": "Youngster",
+ "display_name": "Youngster",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Youngster\" was the nickname of a TIE fighter pilot who served within the Galactic Empire. As a member of the Imperial Starfighter Corps, Youngster flew a TIE fighter during combat alongside other TIE fighters near planet Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Youngster",
+  "/wiki/Youngster/Legends",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/TIE/ln_space_superiority_starfighter",
+  "/wiki/Starfighter",
+  "/wiki/Planet",
+  "/wiki/Coruscant",
+  "/wiki/Star_Wars:_X-Wing_Miniatures_Game",
+  "/wiki/Imperial_Assault_Carrier_Expansion_Pack",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

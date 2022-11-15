@@ -1,0 +1,39 @@
+{
+ "name": "Regec_Sloom",
+ "display_name": "Regec Sloom",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Regec Sloom was a smuggler who operated the YT-1210 light freighter Starspin alongside his partner, Cev Malanx.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/YT-1210_light_freighter/Legends",
+  "/wiki/Starspin_(YT-1210_light_freighter)",
+  "/wiki/Cev_Malanx",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Regec_Sloom",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Counterstrike_(Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

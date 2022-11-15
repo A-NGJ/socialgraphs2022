@@ -1,0 +1,42 @@
+{
+ "name": "Warwick",
+ "display_name": "Warwick",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Warwick was an Ewok who hid on a ridge alongside Wicket, Paploo, Teebo, and the Endor strike team as the latter discussed how to infiltrate the shield generator bunker on the forest moon of Endor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Wicket_Wystri_Warrick/Legends",
+  "/wiki/Paploo/Legends",
+  "/wiki/Teebo/Legends",
+  "/wiki/Endor_strike_team/Legends",
+  "/wiki/Endor_shield_generator_bunker",
+  "/wiki/Star_Wars_Episode_VI:_Return_of_the_Jedi_(novel)",
+  "/wiki/StarWars.com"
+ ]
+}

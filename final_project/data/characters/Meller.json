@@ -1,5 +1,6 @@
 {
  "name": "Meller",
+ "display_name": "Meller",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Meller was a male Human supply officer of the reconstituted Sith Empire living during the Cold War and stationed on Tatooine in Mos Ila.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,77 @@
+{
+ "name": "Splice",
+ "display_name": "Splice",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicExcelsior Company",
+      "Grand Army of the RepublicExcelsior Company",
+      "Excelsior Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Splice\" was the nickname of a clone trooper medic who served in Excelsior Company.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Excelsior_Company",
+  "/wiki/Clone_trooper_medic",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Splice",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Lost_Legion"
+ ]
+}

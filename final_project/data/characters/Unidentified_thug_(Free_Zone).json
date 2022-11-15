@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_thug_(Free_Zone)",
+ "display_name": "Unidentified thug  (Free Zone)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Light blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rattataki male thug operated in the Free Zone during the War against Zakuul. He requested an item from a smuggler, who lost her associate Rhax acquiring it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Free_Zone",
+  "/wiki/War_against_Zakuul",
+  "/wiki/Unidentified_smuggler_(Free_Zone)",
+  "/wiki/Rhax",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_thug_(Free_Zone)",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

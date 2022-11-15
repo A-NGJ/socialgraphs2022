@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_Republic_sensor_officer",
+ "display_name": "Unidentified Republic sensor officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Military",
+      "Republic Military",
+      "Darth Marr's task force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a Human Male who served as a sensor officer for the Galactic Republic during the Galactic War. He was among the Republic personnel who joined Darth Marr's task force, and was on the bridge of Darth Marr's flagship shortly before the first skirmish with the Eternal Fleet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Darth_Marr%27s_task_force",
+  "/wiki/Galactic_War",
+  "/wiki/Darth_Marr",
+  "/wiki/Darth_Marr%27s_flagship",
+  "/wiki/First_skirmish_with_the_Eternal_Fleet",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "name": "Boba_Fett%27s_bantha",
+ "display_name": "Boba Fett's bantha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bantha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "A Tusken Raider tribe"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Boba Fett"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A bantha was owned by Boba Fett until around 9 ABY when he set her free.\nAround 9 ABY, Boba Fett rode the bantha to the palace once occupied by Jabba the Hutt with the intent to retrieve his ship. After seeing the amount of guards at the palace, he decided to hold off. He later saw lights in the sky that led him to Fennec Shand. After seeing to Fennec's wounds, Boba, the bantha, and Fennec returned to the area around the palace, where Boba set the bantha free.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Tatooine",
+  "/wiki/Bantha",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Unidentified_Tusken_Raider_tribe",
+  "/wiki/Boba_Fett",
+  "/wiki/9_ABY",
+  "/wiki/Boba_Fett%27s_Palace",
+  "/wiki/Jabba_Desilijic_Tiure",
+  "/wiki/Slave_I",
+  "/wiki/Fennec_Shand",
+  "/wiki/The_Book_of_Boba_Fett",
+  "/wiki/Chapter_3:_The_Streets_of_Mos_Espa",
+  "/wiki/Chapter_4:_The_Gathering_Storm",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars",
+  "/wiki/Databank_(website)",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/A_Certain_Point_of_View_(Star_Wars_Insider)",
+  "/wiki/Star_Wars_Insider_213",
+  "/wiki/Mission_to_Arvala-7",
+  "/wiki/The_Mandalorian",
+  "/wiki/Chapter_1:_The_Mandalorian",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/Star_Wars_Insider_202",
+  "/wiki/Second_rescue_of_Grogu",
+  "/wiki/Chapter_16:_The_Rescue",
+  "/wiki/%27ABY-BBY%27_dating_system"
+ ]
+}

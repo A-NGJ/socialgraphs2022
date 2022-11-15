@@ -1,0 +1,75 @@
+{
+ "name": "Song",
+ "display_name": "Song",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Tagge",
+      "Tagge's mercenaries",
+      "Tagge's mercenaries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Song was a Duros mercenary served in the mercenary unit of Ronen Tagge, scion of the House of Tagge. The Duros and several other mercenaries were sent by Tagge to pursue Doctor Eustacia Okka, who Tagge wished to use to find the legendary Rings of Vaale. Okka escaped with the crew of the rogue archaeologist Doctor Chelli Aphra, embarking on their own mission to find the Rings. The mercenaries followed the crew to the Rings' home, the city of Vaale on the planet Dianth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Music",
+  "/wiki/Duros",
+  "/wiki/Color",
+  "/wiki/House_of_Tagge",
+  "/wiki/Tagge%27s_mercenaries",
+  "/wiki/Mercenary",
+  "/wiki/Ronen_Tagge",
+  "/wiki/Doctor",
+  "/wiki/Eustacia_Okka",
+  "/wiki/Rings_of_Vaale",
+  "/wiki/Archaeologist",
+  "/wiki/Chelli_Lona_Aphra",
+  "/wiki/City",
+  "/wiki/Vaale",
+  "/wiki/Planet",
+  "/wiki/Dianth",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Song",
+  "/wiki/Doctor_Aphra_(2020)_1",
+  "/wiki/Doctor_Aphra_(2020)_2",
+  "/wiki/Doctor_Aphra_(2020)_3",
+  "/wiki/Doctor_Aphra_(2020)_4",
+  "/wiki/Doctor_Aphra_(2020)_5",
+  "/wiki/Doctor_Aphra_(2020)_7",
+  "/wiki/Doctor_Aphra_(2020)_16",
+  "/wiki/Doctor_Aphra_(2020)_18",
+  "/wiki/Doctor_Aphra_(2020)_23",
+  "/wiki/Doctor_Aphra_(2020)_25"
+ ]
+}

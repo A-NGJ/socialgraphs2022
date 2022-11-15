@@ -1,0 +1,48 @@
+{
+ "name": "Aken_(Ferroan)",
+ "display_name": "Aken  (Ferroan)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aken was a female Ferroan who flew a Sekotan ship to pick up the Solos from the Millennium Falcon and take them to Zonama Sekot's surface.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aken_(Acclamator-class)",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Ferroan",
+  "/wiki/Gender/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aken_(Ferroan)",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

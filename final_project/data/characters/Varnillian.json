@@ -1,0 +1,66 @@
+{
+ "name": "Varnillian",
+ "display_name": "Varnillian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varnillian was a human female who served as a Gunnery Chief within the Imperial Navy of the Galactic Empire. At one point, Varnillian served within a control center and pointed at one of the screens. She had blonde hair and light skin, and she wore a type of Imperial weapons technician uniform.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Varnillian",
+  "/wiki/Niclara_Varnillian",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy",
+  "/wiki/Chief_gunnery_officer",
+  "/wiki/Hair",
+  "/wiki/Imperial_weapons_technician",
+  "/wiki/Star_Wars:_Armada",
+  "/wiki/Onager-class_Star_Destroyer_Expansion_Pack",
+  "/wiki/Upgrade_Card_Collection"
+ ]
+}

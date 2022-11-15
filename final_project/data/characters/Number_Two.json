@@ -1,0 +1,80 @@
+{
+ "name": "Number_Two",
+ "display_name": "Number Two",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "31 BBY",
+      "above Ova"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Caucasian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Number Two was the callsign of the second in command aboard Captain Cautious's freighter. He disliked working under Captain Cautious and regularly complained about him to his colleagues. In 31 BBY during a routine freight job he was killed when the freighter he was on was destroyed by the Infinity Gate above the planet Ova. His last action was to inform the captain how much he hated him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Number_Two_(AT-AT)",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Ova",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain_Cautious",
+  "/wiki/Captain_Cautious%27s_freighter",
+  "/wiki/Freighter/Legends",
+  "/wiki/Infinity_Gate",
+  "/wiki/Star_Wars_(1998)_23"
+ ]
+}

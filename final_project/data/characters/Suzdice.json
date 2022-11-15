@@ -1,0 +1,29 @@
+{
+ "name": "Suzdice",
+ "display_name": "Suzdice",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clawdite"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suzdice was a Clawdite stage actor. Suzdice claimed to find exercise of the Clawdite species' shape-shifting abilities to be excruciatingly painful.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Clawdite/Legends",
+  "/wiki/Actor/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Changeling/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Clawdites",
+  "/wiki/Star_Wars_Gamer_10"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Vintul_Qat",
+ "display_name": "Vintul Qat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Warrior caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vintul Qat was a warrior of the Yuuzhan Vong. At the time of the Yuuzhan Vong occupation of Wayland, Vintul was the Commander of a warship, and attempted to intercept the YZ-775 transport, No Luck Required.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Warrior_caste",
+  "/wiki/Wayland",
+  "/wiki/Commander/Legends",
+  "/wiki/YZ-775_medium_transport",
+  "/wiki/Transport/Legends",
+  "/wiki/No_Luck_Required",
+  "/wiki/Emissary_of_the_Void",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

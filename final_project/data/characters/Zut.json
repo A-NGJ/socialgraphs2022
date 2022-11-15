@@ -1,0 +1,54 @@
+{
+ "name": "Zut",
+ "display_name": "Zut",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Phlog"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zut was a male Phlog who lived on the Forest Moon of Endor. He was the mate of Dobah and the father of Hoom and Nahkee.\nZut was voiced by Joe Matheson.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Phlog/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dobah",
+  "/wiki/Hoom",
+  "/wiki/Nahkee",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zut",
+  "/wiki/Joe_Matheson",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/Rampage_of_the_Phlogs",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/StarWars.com",
+  "/wiki/Creatures_of_Endor",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

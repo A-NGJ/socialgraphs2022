@@ -1,0 +1,67 @@
+{
+ "name": "Vrake",
+ "display_name": "Vrake",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Imperial Officer Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vrake was a human male Imperial officer who once forced a tracker named Gorlan Seba to lead an expedition into the the Zoess, a large forest near the city Tavuu on the planet Radhii to locate rebels who escaped imprisonment.\nTheir expedition was halted by a hologram recording of Leia Organa, who spread the message of the destruction of the second Death Star and the death of the Emperor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Imperial_officer",
+  "/wiki/Vrake_(species)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Gorlan_Seba",
+  "/wiki/Zoess",
+  "/wiki/Forest",
+  "/wiki/City",
+  "/wiki/Tavuu",
+  "/wiki/Planet",
+  "/wiki/Radhii",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Prison",
+  "/wiki/Hologram",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Battle_of_Endor",
+  "/wiki/DS-2_Death_Star_II_Mobile_Battle_Station",
+  "/wiki/Death",
+  "/wiki/Darth_Sidious",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vrake",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Turning_Point_(Jason_Hough)",
+  "/wiki/Star_Wars_Insider_169"
+ ]
+}

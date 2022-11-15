@@ -1,0 +1,42 @@
+{
+ "name": "Risstenni%27s_mate",
+ "display_name": "Risstenni's mate",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Wookiee lived in the settlement Kiirloor on the planet Cularin during the time of the Clone Wars, with his mate Risstenni and their son Chywarra. In circa 21 BBY, Chywarra was abducted by the Wyrd and Risstenni was captured by them while searching for her son. Risstenni's mate subsequently found a toy ryyk blade belonging to Chywarra in a wood located near to Cloud Mountain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kiirloor",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Risstenni",
+  "/wiki/Chywarra",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Wyrd",
+  "/wiki/Ryyk_blade/Legends",
+  "/wiki/Cloud_Mountain",
+  "/wiki/From_the_Trees"
+ ]
+}

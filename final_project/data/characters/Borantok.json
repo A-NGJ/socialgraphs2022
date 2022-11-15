@@ -1,5 +1,6 @@
 {
  "name": "Borantok",
+ "display_name": "Borantok",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Borantok was a male Trandoshan who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Trandoshan/Legends",

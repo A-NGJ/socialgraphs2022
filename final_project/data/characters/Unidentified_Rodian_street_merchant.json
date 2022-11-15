@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Rodian_street_merchant",
+ "display_name": "Unidentified Rodian street merchant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian street merchant resided in Dreshdae on Korriban almost four thousand years prior to Battle of Yavin and dealt in Pazaak cards, adrenal stimulants, and tach glands. In 3993 BBY, he approached Duron Qel-Droma, Shaela Nuur and Guun Han Saresh, who were on Korriban on a mission for the Jedi Order. The three Jedi were more interested in dealing information pertaining to their mission.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shadows_and_Light",
+  "/wiki/Merchant/Legends",
+  "/wiki/Dreshdae",
+  "/wiki/Korriban",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Pazaak/Legends",
+  "/wiki/Adrenaline_stimulator",
+  "/wiki/Tach/Legends",
+  "/wiki/3993_BBY",
+  "/wiki/Duron_Qel-Droma",
+  "/wiki/Shaela_Nuur",
+  "/wiki/Guun_Han_Saresh",
+  "/wiki/Cleansing_of_Korriban",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars_Tales_23"
+ ]
+}

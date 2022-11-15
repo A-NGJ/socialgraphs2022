@@ -1,5 +1,6 @@
 {
  "name": "Ackickig",
+ "display_name": "Ackickig",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Ackickig was a male Jawa that lived in the galaxy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lucasfilm_Ltd.",

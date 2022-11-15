@@ -1,0 +1,36 @@
+{
+ "name": "Slug_(Koorivar)",
+ "display_name": "Slug  (Koorivar)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Koorivar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slug was a member of the Koorivar species who fell into debt to Daegen Lok—a former member of the Je'daii Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koorivar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Daegen_Lok",
+  "/wiki/Je%27daii_Order",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slug_(Koorivar)",
+  "/wiki/Dawn_of_the_Jedi:_The_Prisoner_of_Bogan_3"
+ ]
+}

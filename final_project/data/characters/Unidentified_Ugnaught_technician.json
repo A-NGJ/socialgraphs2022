@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_Ugnaught_technician",
+ "display_name": "Unidentified Ugnaught technician",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Ugnaught was a technician in Cloud City. Jaxxon T. Tumperakki asked him for help on where to find Platform Nine Ninety-Seven, but he gave false information.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ugnaught",
+  "/wiki/Gender",
+  "/wiki/Technician",
+  "/wiki/Cloud_City",
+  "/wiki/Jaxxon_T._Tumperakki",
+  "/wiki/Platform_Nine_Ninety-Seven",
+  "/wiki/Fake_It_Till_You_Make_It",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

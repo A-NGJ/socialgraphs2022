@@ -1,5 +1,6 @@
 {
  "name": "Protarius",
+ "display_name": "Protarius",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Agent Protarius was a male Twi'lek who served the Republic Strategic Information Service during the Cold War. Stationed on Balmorra, he tasked a Republic spacer to track down and eliminate the merciless Sith Lord Dakron who had recently landed on the planet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

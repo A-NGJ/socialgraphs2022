@@ -1,0 +1,53 @@
+{
+ "name": "Tanisuldees",
+ "display_name": "Tanisuldees",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dressellian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanisuldees was a male Dressellian who served the Galactic Republic during the Clone Wars on Drongar. He also was the field assistant of Filba the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dressellian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Drongar/Legends",
+  "/wiki/Filba",
+  "/wiki/Hutt/Legends",
+  "/wiki/MedStar_I:_Battle_Surgeons"
+ ]
+}

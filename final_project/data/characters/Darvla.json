@@ -1,5 +1,6 @@
 {
  "name": "Darvla",
+ "display_name": "Darvla",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Madame Darvla was responsible for dressing dinner guests onboard the Arkanian Legacy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Arkanian/Legends",

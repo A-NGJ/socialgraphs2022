@@ -1,5 +1,6 @@
 {
  "name": "Kloo",
+ "display_name": "Kloo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kloo was a Trandoshan member of the Organization working on the Darkside station. He spent some quality time in 32 BBY incarcerated in cells on Tolea Biqua.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kloo_horn/Legends",

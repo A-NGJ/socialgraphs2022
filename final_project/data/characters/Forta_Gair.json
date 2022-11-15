@@ -1,0 +1,74 @@
+{
+ "name": "Forta_Gair",
+ "display_name": "Forta Gair",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zakuul"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3631 BBY",
+      "Star Fortress above Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Empire",
+      "Project Exarch",
+      "Project Exarch"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Forta Gair  was a female Human Exarch of the Eternal Empire of Zakuul. She commanded the Star Fortress above Belsavis until 3631 BBY, when the Commander of the Anti-Zakuul Alliance boarded the Star Fortress and killed her, overloading the Sun Generator and destroying the entire battlestation in process.\nForta Gair appears in Star Wars: The Old Republic: Knights of the Fallen Empire as the final boss of the Belsavis Star Fortress.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zakuul",
+  "/wiki/3631_BBY",
+  "/wiki/Belsavis_Star_Fortress",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Zakuulan",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Project_Exarch",
+  "/wiki/Exarch",
+  "/wiki/Alliance_Commander",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Star_Fortress",
+  "/wiki/Sun_Generator",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

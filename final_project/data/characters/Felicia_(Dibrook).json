@@ -1,0 +1,51 @@
+{
+ "name": "Felicia_(Dibrook)",
+ "display_name": "Felicia  (Dibrook)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Felicia was a human female refugee who was captured by the Yuuzhan Vong during the Battle of Dibrook. She and the other refugees were taken to a Shaper research facility, where they were transformed into thralls. Felicia would later attack a man who recognized her during a rescue mission to save the refugees.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Battle_of_Dibrook",
+  "/wiki/Shaper_research_facility",
+  "/wiki/Thrall",
+  "/wiki/Rescue_Mission_to_Dibrook",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Invasion:_Rescues_5"
+ ]
+}

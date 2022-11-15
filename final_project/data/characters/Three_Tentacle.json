@@ -1,0 +1,35 @@
+{
+ "name": "Three_Tentacle",
+ "display_name": "Three Tentacle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Three Tentacle\" was a male Quarren living in the Coruscant Underworld in 40 ABY. He helped guard the World Brain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Coruscant_underworld",
+  "/wiki/40_ABY",
+  "/wiki/World_Brain",
+  "/wiki/Legacy_of_the_Force:_Tempest"
+ ]
+}

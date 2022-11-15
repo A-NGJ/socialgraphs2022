@@ -1,5 +1,6 @@
 {
  "name": "Brolis",
+ "display_name": "Brolis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Brolis was a Republic commander who served in the Grand Army of the Republic after the start of the Clone Wars, and was one of the few survivors in the disastrous Battle of Axion.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

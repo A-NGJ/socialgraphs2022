@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Star_Tours_droid_supervisor",
+ "display_name": "Unidentified Star Tours droid supervisor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Tours"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Mon Calamari male droid supervisor gave orders to droids working at the Star Tours spaceport, including R2-D7 and I.D.A., a droid that was difficult to motivate..\nThe Mon Calamari was a puppet created by and performed by Lynette Eklund. He appeared on a video screen in an area of the original Star Tours queue, exclusive to the Tokyo Disneyland version of the ride.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Brown",
+  "/wiki/Star_Tours/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/R2-D7",
+  "/wiki/Inventory_Droid_Assistant",
+  "/wiki/Star_Tours_(real-world)",
+  "/wiki/Complete_Guide_to_Star_Tours"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Lola",
+ "display_name": "Lola",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Lola was a perky and talkative Twi'lek dancer who went to Darkside on one payday along with the band that Nirama had sent. During a break, she had a short conversation with one of Nirama's spies. She had not heard of the Cell, but had heard that some people were not fond of Nirama's leadership, though she was not sure why.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

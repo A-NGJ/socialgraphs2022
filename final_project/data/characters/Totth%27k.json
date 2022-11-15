@@ -1,0 +1,38 @@
+{
+ "name": "Totth%27k",
+ "display_name": "Totth'k",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gree"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Master Totth'k was a Gree who controlled the Totth'k Lotos, a rejuvenation pool located on the planet Malanose in the Gree Enclave.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gree_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Master_(Gree)",
+  "/wiki/Totth%27k_Lotos",
+  "/wiki/Planet/Legends",
+  "/wiki/Malanose",
+  "/wiki/Gree_Enclave/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Gree_Enclave",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Verpine_Hive_Mother",
+ "display_name": "Unidentified Verpine Hive Mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Verpine"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Hive Mother ruled the Roche system during the Imperial Period. During the Blockade of the Roche system, the Hive Mother was taken prisoner by the Galactic Empire and forced to remain in her quarters under guard so that the Empire could control the system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Verpine/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Roche_system",
+  "/wiki/Imperial_Period",
+  "/wiki/Blockade_of_the_Roche_system",
+  "/wiki/Hive_Mother",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Gender",
+  "/wiki/Star_system/Legends",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

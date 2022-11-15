@@ -1,0 +1,51 @@
+{
+ "name": "Tott_Varula",
+ "display_name": "Tott Varula",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hedrett Observation Lounge"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tott Varula was a male Twi'lek who worked as a bartender in the Hedrett Observation Lounge during the time of the Clone Wars.\nVarula was happy to try and make any drink a customer asked him for, although there were gaps in his knowledge. He was an associate of Veneziano Haas and Haas once commed him, to ask him to make a table in the bar available to the Heroes of Cularin, and to give them free drinks. Shortly afterwards, he watched a speech by Senator Lavina Wren on the bar's holoscreen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Tott_Doneeta",
+  "/wiki/Gender/Legends",
+  "/wiki/Hedrett_Observation_Lounge",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Veneziano_Haas",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Senator/Legends",
+  "/wiki/Lavina_Durada-Vashne_Wren",
+  "/wiki/Viewscreen/Legends",
+  "/wiki/Incursion"
+ ]
+}

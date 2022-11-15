@@ -1,5 +1,6 @@
 {
  "name": "Hutch",
+ "display_name": "Hutch",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -67,7 +68,7 @@
   }
  ],
  "content": "Hutch was a human male who lived on Onderon and joined the Onderon rebels against the Separatists during the Clone Wars. He was killed by Separatist battle droids during the Onderonian Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hutch",

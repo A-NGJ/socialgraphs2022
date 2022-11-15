@@ -1,0 +1,28 @@
+{
+ "name": "Si_Qurr",
+ "display_name": "Si Qurr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Abinyshi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Si Qurr was an Abinyshi poet. By the time of the Galactic Civil War, Qurr had passed away",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Abinyshi",
+  "/wiki/Poet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Enbo",
+ "display_name": "Enbo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Enbo was a Human who lived in the city Calimondretta on the planet Syned during the Republic Dark Age, working as an aide to the Sith Lord Arkadia Calimondra.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

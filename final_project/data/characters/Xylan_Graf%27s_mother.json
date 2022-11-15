@@ -1,0 +1,50 @@
+{
+ "name": "Xylan_Graf%27s_mother",
+ "display_name": "Xylan Graf's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Graf family",
+      "Graf Holdings",
+      "Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human female was the mother of Xylan Graf and the daughter of Catriona Graf.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Graf_family",
+  "/wiki/Xylan_Graf",
+  "/wiki/Catriona_Graf",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Xylan_Graf%27s_mother",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)"
+ ]
+}

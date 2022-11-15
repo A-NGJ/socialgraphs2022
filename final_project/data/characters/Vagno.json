@@ -1,0 +1,38 @@
+{
+ "name": "Vagno",
+ "display_name": "Vagno",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Langhesi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vagno was a male Langhesi who lived during the waning years of the Galactic Republic. In 29 BBY, he helped create Jabitha.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Langhesi",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/29_BBY/Legends",
+  "/wiki/Jabitha",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vagno",
+  "/wiki/Rogue_Planet",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

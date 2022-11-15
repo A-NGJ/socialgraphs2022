@@ -1,0 +1,87 @@
+{
+ "name": "Tomrus",
+ "display_name": "Tomrus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "12 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tomrus was a Human male born on Cloud City. His parents had emigrated there from elsewhere in the Outer Rim decades earlier and worked at Bespin Motors. From an early age he showed an aptitude for gambling, con games, and especially engineering. When Cloud City was occupied by the Galactic Empire, his mother was killed. When his father returned to his homeworld, Tomrus joined the Alliance to Restore the Republic as a technician.\nIn 6 ABY, he joined the engineering group under Lieutenant Anselm, who developed a respect for Tomrus, despite calling him \"the kid\". In 9 ABY, he was one of the team members that Anselm chose to accompany him to the Katana fleet. He was wounded while defending the Katana.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/12_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Bespin_Motors/Legends",
+  "/wiki/Occupation_of_Bespin",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/6_ABY/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Anselm",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Katana_fleet",
+  "/wiki/Katana",
+  "/wiki/Dark_Force_Rising",
+  "/wiki/Dark_Force_Rising_(unabridged_audiobook)",
+  "/wiki/Dark_Force_Rising_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook"
+ ]
+}

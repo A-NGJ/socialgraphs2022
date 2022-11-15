@@ -1,5 +1,6 @@
 {
  "name": "Bizu",
+ "display_name": "Bizu",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Bizu was a Twi'lek male who was the son of Yendor, a pilot in both the Alliance to Restore the Republic and New Republic. Yendor was forced to leave Bizu behind on their homeworld of Ryloth when he joined the Alliance during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ryloth",

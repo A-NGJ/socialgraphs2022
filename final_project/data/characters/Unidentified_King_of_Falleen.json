@@ -1,0 +1,83 @@
+{
+ "name": "Unidentified_King_of_Falleen",
+ "display_name": "Unidentified King of Falleen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Falleen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Falleen male was the King of Falleen during the Clone Wars.\nIn the early stages of the Clone Wars, the Confederacy of Independent Systems led an attack on the Falleen homeworld of the same name. Asajj Ventress infiltrated a temple and defeated the king's four Dashade bodyguards. The assault was a diversion, however, allowing Count Dooku to also infiltrate the temple undetected. Dooku held his ignited lightsaber to the king's throat demanding he lower the shields surrounding the temple and cede the planet to the Separatist cause.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Falleen_(planet)/Legends",
+  "/wiki/Falleen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Count/Legends",
+  "/wiki/Dooku/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/Dashade/Legends",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/The_Clone_Wars:_The_Fall_of_Falleen"
+ ]
+}

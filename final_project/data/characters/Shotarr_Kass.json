@@ -1,0 +1,76 @@
+{
+ "name": "Shotarr_Kass",
+ "display_name": "Shotarr Kass",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jiroch-Reslia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tunroth"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun",
+      "Sprax"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shotarr Kass was a Tunroth who worked as the chief bodyguard for Black Sun Vigo Sprax.\nWhen he was just a child, Kass' family was killed during the Reslian Purge. He chose to become a Tunroth Hunter in order to preserve the Tunroth culture and ideals.\nKass had a preference for wearing leather jerkins, which earned him his nickname \"The Strap\". He was also well-educated, having a particular interest in the history and culture of the Wookiees. He spoke fluent Shyriiwook and even studied the Wookiee martial art of Wrruushi, though the form was impossible for Kass to use.\nDue to his pride in his job, Kass had a hatred for Prince Xizor's \"Shadow Killer\" Ket Maliss, who was sometimes chosen over Kass for important assignments.\nKass had a pet nashtah named Klirun.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jiroch-Reslia",
+  "/wiki/Tunroth",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Sprax",
+  "/wiki/Vigo/Legends",
+  "/wiki/Reslian_Purge",
+  "/wiki/Tunroth_Hunter",
+  "/wiki/Leather/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Shyriiwook/Legends",
+  "/wiki/Unarmed_combat",
+  "/wiki/Wrruushi",
+  "/wiki/Prince/Legends",
+  "/wiki/Xizor/Legends",
+  "/wiki/Ket_Maliss",
+  "/wiki/Nashtah",
+  "/wiki/Klirun_(nashtah)",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

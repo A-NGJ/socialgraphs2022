@@ -1,5 +1,6 @@
 {
  "name": "Edikar",
+ "display_name": "Edikar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -62,7 +63,7 @@
   }
  ],
  "content": "Edikar was a Human male General who served the Sith Empire during the Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

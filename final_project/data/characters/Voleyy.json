@@ -1,0 +1,46 @@
+{
+ "name": "Voleyy",
+ "display_name": "Voleyy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Males"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voleyy was a male Human guard in the New Republic detention center during Tycho Celchu's trial.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Tycho_Celchu/Legends",
+  "/wiki/Trial_of_Tycho_Celchu",
+  "/wiki/X-Wing:_The_Krytos_Trap"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Shell_(slicer)",
+ "display_name": "Shell  (slicer)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shell was a slicer who, along with Deke, sliced into a New Republic Intelligence Service database in the Pawalo District of Coruscant. Lieutenant Marcham Prace was aware of the crime, having placed a tracker on Deke. Shell was stunned and arrested, and the data she stole recovered.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Deke",
+  "/wiki/New_Republic_Intelligence_Service",
+  "/wiki/Pawalo_District",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Marcham_Prace",
+  "/wiki/Cracken%27s_Threat_Dossier"
+ ]
+}

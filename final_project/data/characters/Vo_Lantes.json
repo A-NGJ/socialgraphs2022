@@ -1,0 +1,50 @@
+{
+ "name": "Vo_Lantes",
+ "display_name": "Vo Lantes",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vo Lantes was a Rebel Alliance agent tasked with acquiring supplies. He was part of the network set up by logistics agent Redda Macrebe. He owned and operated a chain of used droid lots along the Trax Tube. This allowed him to provide specially modified droids and money to Rebel cells along the trade route. Vo Lantes's primary headquarters was on Deysum III.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Redda_Macrebe",
+  "/wiki/Droid/Legends",
+  "/wiki/Trax_Tube/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Deysum_III",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Cracken%27s_Rebel_Operatives_(article)",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

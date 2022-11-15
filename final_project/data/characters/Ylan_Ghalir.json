@@ -1,0 +1,48 @@
+{
+ "name": "Ylan_Ghalir",
+ "display_name": "Ylan Ghalir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ylan Ghalir was a male Mon Calamari who designed and produced the Leviathan Power Armor for use by the Rebel Alliance. Ghalir was captured by the Empire and taken to an Imperial prison.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Leviathan_Power_Armor",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Outlaw_Battle_Armor",
+  "/wiki/Star_Wars_Adventure_Journal_3"
+ ]
+}

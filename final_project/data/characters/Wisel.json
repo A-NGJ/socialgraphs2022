@@ -1,0 +1,26 @@
+{
+ "name": "Wisel",
+ "display_name": "Wisel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nalroni"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wisel was a Nalroni who owned a weapons shop on Vergesso Base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nalroni/Legends",
+  "/wiki/Wisel%27s",
+  "/wiki/Vergesso_Base",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

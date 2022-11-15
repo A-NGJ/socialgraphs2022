@@ -1,0 +1,47 @@
+{
+ "name": "Yassat",
+ "display_name": "Yassat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Walkway Collective"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yassat was a male Human survivor of the Battle of Coruscant. He banded together with a community near the ruins of what was once the Catier Walkway. He acted as a scout for the \"Walkway Collective,\" exploring the strange Vongformed landscape of Coruscant and scavenging food and supplies.\nYassat encountered Irek Ismaren, who had escaped after years of living in suspended animation underground. Yassat called the powerful Force user \"Lord Nyax.\" He had been pursued by Nyax at least once, managing to escape by leading him in the direction of a rival group of survivors, a savage group who had turned to cannibalism in their desperation to survive. Nyax slaughtered them all, which slowed him down just long enough for Yassat to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Walkway_Collective",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Catier_Walkway",
+  "/wiki/Terraforming/Legends",
+  "/wiki/Irek_Ismaren",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_II:_Rebel_Stand"
+ ]
+}

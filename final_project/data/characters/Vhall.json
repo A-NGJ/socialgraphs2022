@@ -1,0 +1,64 @@
+{
+ "name": "Vhall",
+ "display_name": "Vhall",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nothoiin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vhall was a Nothoiin who piloted a Nothoiin swoop during the liberation of Nothoiin. Assigned to be an honor guard during the Goldskin Parade, he was incapacitated by members of Team Dosho.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nothoiin_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/The_Runaway_Ride",
+  "/wiki/Nothoiin_swoop",
+  "/wiki/Liberation_of_Nothoiin",
+  "/wiki/Nothoiin/Legends",
+  "/wiki/Honor_guard",
+  "/wiki/Goldskin_Parade",
+  "/wiki/Team_Dosho",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vhall",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.50"
+ ]
+}

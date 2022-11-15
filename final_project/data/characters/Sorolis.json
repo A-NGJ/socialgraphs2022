@@ -1,0 +1,76 @@
+{
+ "name": "Sorolis",
+ "display_name": "Sorolis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "the Foundry"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Miraluka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorolis was a male Miraluka Jedi Master of the Galactic Republic living during the Galactic War. In 3642 BBY he was part of the team defending Revan on the Foundry space station. He was killed by an Imperial strike team during the Battle of the Foundry.\nMaster Sorolis appears in Star Wars: The Old Republic during the \"Foundry\" flashpoint.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Foundry_(space_station)",
+  "/wiki/Miraluka/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Revan/Legends",
+  "/wiki/Battle_of_the_Foundry",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Mavis",
+ "display_name": "Mavis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Mavis was a young Human female child who participated in the evacuation of Yavin 4. She had a brother named Tarn.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_Rebel_pilot_(Arbra)",
+ "display_name": "Unidentified Rebel pilot  (Arbra)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Rebel pilot was stationed at Haven Base on the planet Arbra. Following R2-D2, C-3PO and Chewbacca's ordeal with the Darker, the pilot found the trio and told them Luke Skywalker was looking for them and that their \"vacation\" was over. Though the pilot was unaware of the droid's recent adventure, C-3PO was offended by the remark.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blue",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Haven_Base",
+  "/wiki/Arbra/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Darker",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Star_Wars_(1977)_67"
+ ]
+}

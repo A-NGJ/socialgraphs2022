@@ -1,5 +1,6 @@
 {
  "name": "Ichor",
+ "display_name": "Ichor",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Ichor was a black-furred male tooka owned by the Dathomirian witch Falta.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ichor_(disambiguation)",

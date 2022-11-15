@@ -1,0 +1,77 @@
+{
+ "name": "Sliver_(Human)",
+ "display_name": "Sliver  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Daimar Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sliver was a male Human who worked for Daimar Intelligence, an intelligence organization that operated on the planet Daimar. Following the formation of the Galactic Empire, Daimar refused to submit to the new regime and the Empire blockaded the planet. King Mitar, the ruler of Daimar, realized that the planet would eventually have to surrender, so he arranged for his grand-daughter Wilena and a small group of individuals that he didn't want to be captured by the Empire to leave Daimar in the starship Wasaka and make contact with Mitar's son Prince Torrin, who led an off-world resistance group. Sliver accompanied the group and the Wasaka successfully made it past the blockade and transported Sliver and the rest of the passengers to the planet Byrsym, where they made contact with Torrin's organization. They then flew aboard the Wasaka to Dantooine, where they rendezvoused with Torrin and his group.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lamont_Dynasty_of_Daimar",
+  "/wiki/Daimar_Intelligence",
+  "/wiki/Planet/Legends",
+  "/wiki/Daimar",
+  "/wiki/Declaration_of_a_New_Order",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Blockade_of_Daimar",
+  "/wiki/King/Legends",
+  "/wiki/Mitar",
+  "/wiki/Wilena",
+  "/wiki/Starship/Legends",
+  "/wiki/Wasaka",
+  "/wiki/Prince/Legends",
+  "/wiki/Torrin",
+  "/wiki/Blockade/Legends",
+  "/wiki/Byrsym",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

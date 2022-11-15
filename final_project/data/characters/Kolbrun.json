@@ -1,5 +1,6 @@
 {
  "name": "Kolbrun",
+ "display_name": "Kolbrun",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Kolbrun was a male Human Acolyte of the Sith Empire who was studying at the Sith Academy on Korriban during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

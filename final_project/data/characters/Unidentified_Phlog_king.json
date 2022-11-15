@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Phlog_king",
+ "display_name": "Unidentified Phlog king",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Forest Moon of Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Phlog"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Many generations before the Galactic Civil War, a king ruled over the Phlogs who lived in the land of Simoom on the Forest Moon of Endor. At some point, his subjects decided to build a palace for him, which prompted them to chop down all the trees of the land to build it. Because of that, Simoom became a desert, and the Ewok tribes who lived there were forced to flee to other side of the Forest Moon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Endor_(planet)/Legends",
+  "/wiki/Phlog/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/How_the_Ewoks_Saved_the_Trees:_An_Old_Ewok_Legend",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Desert_of_Simoom",
+  "/wiki/Phlog_king%27s_palace",
+  "/wiki/Tree/Legends",
+  "/wiki/Desert/Legends",
+  "/wiki/Ewok/Legends"
+ ]
+}

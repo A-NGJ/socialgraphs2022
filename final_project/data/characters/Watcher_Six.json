@@ -1,0 +1,76 @@
+{
+ "name": "Watcher_Six",
+ "display_name": "Watcher Six",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Watcher Six was a female Human Watcher within the Imperial Intelligence of the Sith Empire. Along with fellow Watcher Seven and Watcher Nine, she was a new-generation Watcher - the latest achievement of the eugenics program that made their skills superior even to that of Watcher Two and Watcher Five. However, this later proved a liability when the Star Cabal targeted Imperial Intelligence. In the holorecording of Cabal meeting that Cipher Nine retrieved from Belsavis was hidden a signal fine-tuned to affect eugenically-bred Watchers, which put every Watcher present in the Intelligence Headquarters - including Watcher Six and the current Keeper in deep coma, dealing the first of a series of serious blows to the organization.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/General/Legends",
+  "/wiki/Arkos_Rakton",
+  "/wiki/Darth_Baras",
+  "/wiki/Watcher_(Imperial_Intelligence)",
+  "/wiki/Watcher_Seven",
+  "/wiki/Watcher_Nine",
+  "/wiki/Shara_Jenn",
+  "/wiki/Watcher_X",
+  "/wiki/Star_Cabal",
+  "/wiki/Cipher_Nine",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Keeper_(Imperial_Intelligence)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

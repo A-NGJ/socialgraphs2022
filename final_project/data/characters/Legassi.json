@@ -1,5 +1,6 @@
 {
  "name": "Legassi",
+ "display_name": "Legassi",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Yeoman Legassi was a male Mon Calamari crewmember onboard the Adamantine, where he died of the Death Seed plague in 13 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

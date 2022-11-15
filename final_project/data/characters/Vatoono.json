@@ -1,0 +1,58 @@
+{
+ "name": "Vatoono",
+ "display_name": "Vatoono",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty Hunters' Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vatoono was a male Rodian and a member of the Bounty Hunters' Guild. In 1 ABY, he became one of the guild's top 10 most wanted fugitives, for \"accidents\" involving the deaths of some of his Guild colleagues, which turned out to be deliberate murders. An unknown bounty hunter tracked him down and killed him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Sony"
+ ]
+}

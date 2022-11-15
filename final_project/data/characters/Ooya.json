@@ -1,5 +1,6 @@
 {
  "name": "Ooya",
+ "display_name": "Ooya",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Ooya was a female Dathomiri witch of the Singing Mountain Clan who had made a pass at Isolder.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dathomir/Legends",

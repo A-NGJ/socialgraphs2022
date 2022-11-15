@@ -1,0 +1,46 @@
+{
+ "name": "Tan",
+ "display_name": "Tan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tan was a Gamorrean male who worked with the smuggler Jayko. After Jayko retired from being a smuggler, he wrote the book A Smuggler's Life. Jayko mentioned Tan in the book, leading the Gamorrean to become famous.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tan_(disambiguation)",
+  "/wiki/Gamorrean",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Smuggler",
+  "/wiki/Jayko",
+  "/wiki/Book",
+  "/wiki/A_Smuggler%27s_Life",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tan",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge_-_Episode_10"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Undro",
+ "display_name": "Undro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gen'Dai"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Undro was a male Gen'Dai who was the leader of the White Maw during the early year of the Galactic War. Undro and all the other White Maw bosses perished in an Imperial attack at their base in Coldstone Canyon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Gen%27Dai",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Coldstone_Canyon",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Kal_(Human)",
+ "display_name": "Kal  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kal was a male Human, who lived on Cularin and was a teenager during the time of the Clone Wars. After there were some riots in the city of Gadrin, Kal and the Tarasin Dannik, were sent by the Cularin Militia to tail the Heroes of Cularin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kal_(disambiguation)",
+  "/wiki/Cularin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Gadrin",
+  "/wiki/Tarasin",
+  "/wiki/Dannik",
+  "/wiki/Cularin_Militia",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Night%27s_Promise"
+ ]
+}

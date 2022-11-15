@@ -1,0 +1,68 @@
+{
+ "name": "Zarfeen",
+ "display_name": "Zarfeen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blackish purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zarfeen was a female Rodian bounty hunter.\nEmployed by the Black Sun crime syndicate's Clezo, she was sent by the group to retrieve Celis Mott's lost treasure when word got out that Marka Durn had discovered the horde. Sadly, it was too little too late, and the treasure eluded her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Clezo",
+  "/wiki/Celis_Mott",
+  "/wiki/Marka_Durn",
+  "/wiki/West_End_Games",
+  "/wiki/The_Treasure_of_Celis_Mott",
+  "/wiki/Instant_Adventures"
+ ]
+}

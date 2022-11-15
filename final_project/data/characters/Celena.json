@@ -1,5 +1,6 @@
 {
  "name": "Celena",
+ "display_name": "Celena",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Celena was a human female who ran an artist commune on the planet Nooroyo at the beginning of the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

@@ -1,0 +1,57 @@
+{
+ "name": "Trex",
+ "display_name": "Trex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel",
+      "Teemo the Hutt",
+      "Teemo the Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trex was a Trandoshan bounty hunter in the employ of Hutt Cartel crime lord Teemo, and the former captain and owner of the Krayt Fang, a reddish-brown-colored YT-1300 light freighter that was stolen from him by a group of adventurers while it was grounded for maintenance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Teemo",
+  "/wiki/Hutt/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Krayt_Fang",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trex",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Escape_from_Mos_Shuuta",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Beginner_Game",
+  "/wiki/The_Long_Arm_of_the_Hutt"
+ ]
+}

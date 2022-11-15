@@ -1,0 +1,52 @@
+{
+ "name": "Sprocket",
+ "display_name": "Sprocket",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White and blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sprocket was a male Mon Calamari medic who participated in the Hunters of the Outer Rim tournament on the planet Vespaara.\nSprocket is one of the playable characters in the 2022 competitive combat game Star Wars: Hunters, published by Zynga and Lucasfilm Games.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hunters_of_the_Outer_Rim",
+  "/wiki/Planet",
+  "/wiki/Vespaara",
+  "/wiki/2022",
+  "/wiki/Star_Wars:_Hunters",
+  "/wiki/Zynga",
+  "/wiki/Lucasfilm_Games",
+  "/wiki/Star_Wars",
+  "/wiki/StarWars.com"
+ ]
+}

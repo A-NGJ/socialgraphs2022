@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Gand_bounty_hunter_(The_Rig)",
+ "display_name": "Unidentified Gand bounty hunter  (The Rig)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gand"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crimson Nova"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Gand bounty hunter was present on the Rig when Mace Windu arrived to demand to know who in the Bounty Hunters' Guild posted bounties on the Jedi. This hunter was killed by Windu after attempting to attack him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Gand/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Crimson_Nova",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/The_Rig",
+  "/wiki/Mace_Windu/Legends",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Mission_to_the_Rig",
+  "/wiki/Republic_66"
+ ]
+}

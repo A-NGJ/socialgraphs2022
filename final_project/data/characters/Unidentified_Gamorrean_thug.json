@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_Gamorrean_thug",
+ "display_name": "Unidentified Gamorrean thug",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Teemo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The unidentified Gamorrean thug was a guard on the Mos Shuuta Grill \u0026 Cantina, serving the crime lord Teemo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Teemo",
+  "/wiki/Security_guard/Legends",
+  "/wiki/Mos_Shuuta_Grill_%26_Cantina",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gamorrean_thug",
+  "/wiki/The_Long_Arm_of_the_Hutt"
+ ]
+}

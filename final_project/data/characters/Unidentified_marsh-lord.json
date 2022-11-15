@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_marsh-lord",
+ "display_name": "Unidentified marsh-lord",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Safrifa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Safrifan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This safrifan male was a marsh-lord of a tribe on planet Safrifa. His son was kidnapped by the rival tribe. He hired Ty Yorrick to rescue his son.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Safrifa",
+  "/wiki/Safrifan",
+  "/wiki/Gender",
+  "/wiki/Unidentified_marsh-lord%27s_son",
+  "/wiki/Ty_Yorrick",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_marsh-lord",
+  "/wiki/The_High_Republic:_The_Rising_Storm",
+  "/wiki/The_High_Republic:_The_Rising_Storm_(audiobook)"
+ ]
+}

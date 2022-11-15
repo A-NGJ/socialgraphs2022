@@ -1,5 +1,6 @@
 {
  "name": "Dimbu",
+ "display_name": "Dimbu",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Dimbu was a Cragmoloid employed as a bouncer at the Kinyen cantina Chorba Chuggers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Cragmoloid",

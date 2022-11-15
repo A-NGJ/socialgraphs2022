@@ -1,0 +1,42 @@
+{
+ "name": "Unidentified_Glymphid_Podracer",
+ "display_name": "Unidentified Glymphid Podracer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Glymphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified individual was a Glymphid male podracer who resided on the planet Muunilinst.\nIn 0 ABY, the Glymphid was among the five podracers who raced against the Rebel pilot Luke Skywalker, who ultimately won the race on the outskirts of Pilaan, the capital city of Muunilinst.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Glymphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Podracer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Muunilinst/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Muunilinst_Podrace",
+  "/wiki/Pilaan",
+  "/wiki/Capital/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Rebel_Force:_Target"
+ ]
+}

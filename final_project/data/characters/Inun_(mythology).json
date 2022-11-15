@@ -1,0 +1,46 @@
+{
+ "name": "Inun_(mythology)",
+ "display_name": "Inun  (mythology)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Inun was a blind Twi'lek, famous in Twi'lek mythology for crossing the Bright Lands of Ryloth.\nIn his honor, many males in Ryloth were named after him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lourna_Dee",
+  "/wiki/Inun",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bright_Lands",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Gand_scavenger",
+ "display_name": "Unidentified Gand scavenger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gand"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Migrant Merchants' Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This scavenger was a Gand who worked for Aulus G'luun. When Republic security forces barricaded the Migrant Merchants' Guild on the planet of Coruscant, this Gand was captured. Interrogated by a Jedi Consular, the Gand revealed information concerning a network of computerized signals that the Gand and the other scavengers used to pass around a Jedi artifact known as the Noetikon. With this information, the Consular eventually lured Aulus G'luun out of hiding and persuaded him to relinquish the Noetikon of Science, in exchange for allowing him and his fellow Gands to leave the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gand/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Migrant_Merchants%27_Guild",
+  "/wiki/Aulus_G%27luun",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Computer/Legends",
+  "/wiki/Scavenger/Legends",
+  "/wiki/Jedi_artifact/Legends",
+  "/wiki/Noetikon",
+  "/wiki/Noetikon_of_Science",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gand_scavenger",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

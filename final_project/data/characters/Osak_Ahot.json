@@ -1,0 +1,49 @@
+{
+ "name": "Osak_Ahot",
+ "display_name": "Osak Ahot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Osak Ahot was a Human male farmer who lived in a farm on the edge of the Dune Sea, where his family had lived for generations on Tatooine.\nIn 1 ABY, Osak hired a hunter to kill dangerous creatures that haunted the surrounding area of his farm, because he feared that they might move close to the farm and attack him and his children.\nOsak Ahot was mentioned in the description of a mission called \"Help me...\", that was available to players of Star Wars Galaxies at mission terminals on Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Farmer/Legends",
+  "/wiki/Dune_Sea/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Osak_Ahot",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

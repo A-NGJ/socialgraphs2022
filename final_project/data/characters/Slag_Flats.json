@@ -1,0 +1,57 @@
+{
+ "name": "Slag_Flats",
+ "display_name": "Slag Flats",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slag Flats was a female Ithorian crime lord on Tatooine. She was killed by Jodo Kast during his hunt for Adar Tallon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Jodo_Kast",
+  "/wiki/Adar_Tallon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slag_Flats",
+  "/wiki/Tatooine_Manhunt",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/The_History_of_the_Mandalorians",
+  "/wiki/Star_Wars_Insider_80"
+ ]
+}

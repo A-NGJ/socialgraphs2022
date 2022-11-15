@@ -1,5 +1,6 @@
 {
  "name": "O-Uni",
+ "display_name": "O-Uni",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "O-Uni was a young Keganite sent to the Re-Learning Circle.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kegan",

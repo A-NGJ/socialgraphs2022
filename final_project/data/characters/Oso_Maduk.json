@@ -1,0 +1,49 @@
+{
+ "name": "Oso_Maduk",
+ "display_name": "Oso Maduk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Baron Benton Kaldo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oso Maduk was a male Duros criminal who worked for Baron Benton Kaldo, a crime lord on the Centerpoint Station, during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baron/Legends",
+  "/wiki/Benton_Kaldo",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Centerpoint_Station",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/The_Corellian_Shuffle",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

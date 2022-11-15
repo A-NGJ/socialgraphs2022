@@ -1,0 +1,48 @@
+{
+ "name": "Janna_(Sullustan)",
+ "display_name": "Janna  (Sullustan)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Janna was a female Sullustan, who lived on Cularin during the time of the Clone Wars.\nWhen she was ten, she was separated from her parents during riots in Gadrin, but she found them again with the help of the Heroes of Cularin. Shortly afterward, she met with them in a warehouse, to tell them that many children in Gadrin were disappearing.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Janna",
+  "/wiki/Cularin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Gadrin",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Night%27s_Promise",
+  "/wiki/Night%27s_Friend"
+ ]
+}

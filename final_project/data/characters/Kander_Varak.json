@@ -1,0 +1,70 @@
+{
+ "name": "Kander_Varak",
+ "display_name": "Kander Varak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order military",
+      "First Order military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kander Varak was a human male who served as a major in the First Order. Varak was placed in charge of a bacta production plant on Tevel, in which the native Tevellans were forced to work. Finn and Poe Dameron of the Resistance embarked on a mission to Tevel after the Tevellans requested assistance, and met Varak, disguised as medical workers. Varak initially played along with their disguise, but revealed he had known who the Resistance operatives were, capturing Dameron. With the help of the Tevellans, Finn was able to retake the production facility, freeing Dameron. Varak was captured, and the Resistance members decided to abandon him and his forces on a deserted world where they would be unable to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/First_Order_military",
+  "/wiki/Major",
+  "/wiki/Bacta",
+  "/wiki/Tevel",
+  "/wiki/Homeworld",
+  "/wiki/Tevellan",
+  "/wiki/Finn",
+  "/wiki/Poe_Dameron",
+  "/wiki/Resistance",
+  "/wiki/Mission_to_Tevel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kander_Varak",
+  "/wiki/Choose_Your_Destiny:_A_Finn_%26_Poe_Adventure"
+ ]
+}

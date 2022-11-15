@@ -1,0 +1,87 @@
+{
+ "name": "Unidentified_Bespin_technician",
+ "display_name": "Unidentified Bespin technician",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cloud City"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human male technician worked on Cloud City, a tibanna gas mining colony on the planet Bespin, having worked on the city for ten years. Shortly following Cloud City's occupation by the Galactic Empire, former Baron Administrator Lando Calrissian undertook a mission to the city, alongside Princess Leia Organa and Luke Skywalker of the Rebel Alliance. Calrissian intended to rescue his friend Lobot and sabotage Cloud City's operations to prevent the Empire from receiving any benefit. In doing so, Calrissian had the byproducts from tibanna processing released back into the atmosphere, contaminating the supply. The technician noticed the issue, reporting it to Captain Tanch of the Empire, but was unable to prevent it. Tanch ordered the technician to shut off the venting, but was locked out of the system by Lobot, who had been connected to the city's Central Processing after the Empire took control. The stormtroopers that Tanch sent down to Central Processing failed to succeed in taking control, allowing Calrissian to continue contaminating the tibanna that surrounded the city.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Cloud_City",
+  "/wiki/Tibanna",
+  "/wiki/Gas",
+  "/wiki/Mining",
+  "/wiki/Planet",
+  "/wiki/Bespin",
+  "/wiki/City",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Empire",
+  "/wiki/Baron_Administrator",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Mission_to_Cloud_City",
+  "/wiki/Prince",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Lobot",
+  "/wiki/Atmosphere",
+  "/wiki/Technician",
+  "/wiki/Captain",
+  "/wiki/Tanch",
+  "/wiki/Central_Processing",
+  "/wiki/Stormtrooper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Bespin_technician",
+  "/wiki/Star_Wars_(2020)_3",
+  "/wiki/Star_Wars_(2020)_4"
+ ]
+}

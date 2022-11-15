@@ -1,0 +1,50 @@
+{
+ "name": "Sonnds",
+ "display_name": "Sonnds",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hijado"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sonnds was a Human male from Hijado. Sonnds, like most Hijadoans, was long-lived and was far more older than she appeared. When Doctor Parlay Thorp called attention to the apparent lack of elderly people among the Hijadoans, Noneen informed her that Sonnds was 140 years old.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hijado",
+  "/wiki/Human/Legends",
+  "/wiki/Hijadoan",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Parlay_Thorp",
+  "/wiki/Noneen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sonnds",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

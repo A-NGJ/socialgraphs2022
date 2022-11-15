@@ -1,0 +1,46 @@
+{
+ "name": "Taratan",
+ "display_name": "Taratan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Doornik-319"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taratan was a Kubaz captive of the Yevetha from Doornik-319. He along with all the other Yevethan captives escaped thanks to the help of the Fallanassi Enara.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Doornik-319",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yevetha",
+  "/wiki/Fallanassi/Legends",
+  "/wiki/Enara",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

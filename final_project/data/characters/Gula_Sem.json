@@ -1,0 +1,67 @@
+{
+ "name": "Gula_Sem",
+ "display_name": "Gula Sem",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Contraband Resale Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gula Sem was a male Weequay living during the Galactic War. Employed by Basuda the Hutt of the Contraband Resale Corporation, he resided him with him on Carrick Station selling embargoed items to Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Contraband_Resale_Corporation",
+  "/wiki/Galactic_War",
+  "/wiki/Basuda",
+  "/wiki/Hutt/Legends",
+  "/wiki/Carrick_Station",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cartel_Market"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Odrell_Vorbaal",
+ "display_name": "Odrell Vorbaal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pau'an"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Odrell Vorbaal was a Pau'an male who owned The Slag Pit, a gambling den located on Nar Shaddaa. He was also a spice dealer backed by the Black Sun. He primarily sold gliterstim.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pau%27an/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Slag_Pit",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Glitterstim/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

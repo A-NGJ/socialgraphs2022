@@ -1,0 +1,52 @@
+{
+ "name": "Kenix_Jir",
+ "display_name": "Kenix Jir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Thyrsian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sun Guard",
+      "Order of the Sith Lords",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kenix Jir was a member of the Sun Guard of Thyrsus. He was used by the Galactic Empire as a cloning template.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jir",
+  "/wiki/Thyrsian",
+  "/wiki/Gender/Legends",
+  "/wiki/Sun_Guard",
+  "/wiki/Order_of_the_Sith_Lords",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Thyrsus/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Jedi_Apprentice_Special_Edition:_The_Followers",
+  "/wiki/Retcon",
+  "/wiki/Galaxy_at_War"
+ ]
+}

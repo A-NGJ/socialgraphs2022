@@ -1,0 +1,49 @@
+{
+ "name": "Lev_Palik",
+ "display_name": "Lev Palik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel AllianceRecon team 05",
+      "Recon team 05"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lev Palik was a male Human, who worked as a sniper for the Recon team 05, a special unit of the Rebel Alliance during the First Galactic Civil War. Along with his spotter, Wren Cristol, Palik and his teammates were ordered to take up a position near to an enemy bunker during a conflict on an unknown world. When a group of allied agents were sent to attack the bunker, they rendezvoused with Palik and Cristol, to learn more about it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Recon_team_05",
+  "/wiki/Sniper/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wren_Cristol",
+  "/wiki/Planet/Legends",
+  "/wiki/Galaxy_at_War"
+ ]
+}

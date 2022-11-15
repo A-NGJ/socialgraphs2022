@@ -1,5 +1,6 @@
 {
  "name": "Efrik",
+ "display_name": "Efrik",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Efrik was a human male who was a member of the Path of the Open Hand.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

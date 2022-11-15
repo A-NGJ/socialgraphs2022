@@ -1,0 +1,55 @@
+{
+ "name": "Cladus_Glynn",
+ "display_name": "Cladus Glynn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cladus Glynn was an officer in the Imperial Security Bureau, and was stationed on Kothlis during the height of the Galactic Civil War.\nHis role was to locate any Rebel Alliance personnel moving through the Kothlis system, specifically at the Kothlis shadowport. To help him gather information, Glynn assumed the guise of Gart, the drunken spacer who claimed to know the location of a ganjuko graveyard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Gart_(Human)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Kothlis/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Kothlis_system",
+  "/wiki/Kothlis_shadowport",
+  "/wiki/Ganjuko",
+  "/wiki/West_End_Games",
+  "/wiki/The_Ganjuko_Graveyard",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

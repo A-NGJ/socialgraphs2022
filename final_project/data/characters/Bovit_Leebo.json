@@ -1,0 +1,29 @@
+{
+ "name": "Bovit_Leebo",
+ "display_name": "Bovit Leebo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bovit Leebo was a famed Rodian holographer. Leebo captured the famous image of Ka'Pa the Hutt which would later be featured in Riccix's Revised Basic Holodictionary. The image fell into public domain after the Rodian holographer was killed by Ka'Pa's agent.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Holographer/Legends",
+  "/wiki/Ka%27Pa",
+  "/wiki/Hutt/Legends",
+  "/wiki/Riccix%27s_Revised_Basic_Holodictionary",
+  "/wiki/Wizards.com",
+  "/wiki/Hutt!_Hutt!_Hutt!"
+ ]
+}

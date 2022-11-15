@@ -1,0 +1,80 @@
+{
+ "name": "Suzoku",
+ "display_name": "Suzoku",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial MilitaryFifth InfantryFirst Battalion",
+      "Fifth InfantryFirst Battalion",
+      "First Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suzoku was a male Human Private of the First Battalion in the Fifth Infantry of the Imperial Military. In 3643 BBY Suzoku and his unit were stationed on Balmorra where they were sent to retrieve the plans for a neutron detonator from the Colicoid-infested ruins of Bugtown. Unfortunately, Lieutenant Piloc's incompetence led to Suzoku and half of the battalion being killed by the Colicoids. Before his death, Suzoku recorded one final holomessage, implicating Piloc in his death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Fifth_Infantry",
+  "/wiki/First_Battalion",
+  "/wiki/Private/Legends",
+  "/wiki/Colicoid/Legends",
+  "/wiki/Bugtown",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Piloc",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

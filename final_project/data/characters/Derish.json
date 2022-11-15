@@ -1,5 +1,6 @@
 {
  "name": "Derish",
+ "display_name": "Derish",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Derish was a Sith Warrior trainer who was stationed on Nar Shaddaa. He once trained the Emperor's Wrath.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

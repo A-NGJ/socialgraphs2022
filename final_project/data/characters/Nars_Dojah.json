@@ -1,0 +1,49 @@
+{
+ "name": "Nars_Dojah",
+ "display_name": "Nars Dojah",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nars Dojah was the Twi'lek male quartermaster for the Galactic Republic forces at RMSU-7 on Drongar. He achieved this position because of the death of Filba the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Quartermaster/Legends",
+  "/wiki/Republic_Mobile_Surgical_Unit_7",
+  "/wiki/Drongar/Legends",
+  "/wiki/Filba",
+  "/wiki/Hutt/Legends",
+  "/wiki/MedStar_II:_Jedi_Healer",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

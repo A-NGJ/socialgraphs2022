@@ -1,5 +1,6 @@
 {
  "name": "Scraps",
+ "display_name": "Scraps",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Scraps was a clone commando and the captain of a squad in the Grand Army of the Republic during the Clone Wars. He wore white armor with red markings.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Special:Upload",

@@ -1,0 +1,70 @@
+{
+ "name": "Yanne",
+ "display_name": "Yanne",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Almania"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kueller",
+      "Almanian Government"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yanne was Kueller's assistant after Femon who was chosen because he expressed his opinion even if it was not in sync with Kueller's. After Kueller's death in 17 ABY, Yanne assumed control of Almania and opened talks with the New Republic. However, he was soon overthrown by Gant, an assistant Kueller had trained to replace Yanne.\nThe Essential Chronology calls him \"Yane,\" and The Complete Star Wars Encyclopedia refers to him as \"Yanee.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yan%C3%A9/Legends",
+  "/wiki/Almania/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kueller",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Femon",
+  "/wiki/17_ABY/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Gant",
+  "/wiki/The_Essential_Chronology_(real-world_book)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Jot%27s_father",
+ "display_name": "Jot's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Jot was a male Jawa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Jawa",
+  "/wiki/Gender",
+  "/wiki/Jot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jot%27s_father",
+  "/wiki/Stories_in_the_Sand",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

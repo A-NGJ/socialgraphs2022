@@ -1,0 +1,98 @@
+{
+ "name": "Triton_Squad_Leader",
+ "display_name": "Triton Squad Leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicTriton Squad",
+      "Triton Squad",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Triton Squad Leader was a clone trooper lieutenant who led Triton Squad into the depths of the Kashyyyk jungles to chase fugitive Wookiees following the Battle of Kashyyyk, most notable of whom was Chewbacca. He and all of his squad were ambushed and killed in the conflict.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Triton_Squad",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Clone_trooper_lieutenant",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Battle_of_Kashyyyk/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Squad/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Triton_Squad_Leader",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(comics)",
+  "/wiki/Descent",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_Volume_4"
+ ]
+}

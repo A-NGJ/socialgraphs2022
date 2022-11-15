@@ -1,0 +1,62 @@
+{
+ "name": "Gal_Kalling",
+ "display_name": "Gal Kalling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kuat Drive Yards"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gal Kalling was a human male who served as the Executive Chief of Security at the Kuat Drive Yards Orbital Array. In 0 ABY, Kalling greeted Darth Vader when the Sith Lord visited Kuat Orbital and informed Vader of an ongoing investigation that Kalling was conducting on the whereabouts of Birra Seah, another employee of Kuat Drive Yards. Darth Vader dismissed the report, informing Kalling that Seah was of no interest to him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Kuat_Drive_Yards/Legends",
+  "/wiki/Kuat_Drive_Yards_Orbital_Array",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Birra_Seah",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars_(2013)_13"
+ ]
+}

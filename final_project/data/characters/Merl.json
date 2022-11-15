@@ -1,5 +1,6 @@
 {
  "name": "Merl",
+ "display_name": "Merl",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -61,7 +62,7 @@
   }
  ],
  "content": "Merl was the owner and bartender of a tavern located in Old Town on the planet of Centares. He smuggled food to Tyler Lucian until killed in a firefight with Beilert Valance, who was searching for Lucian.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Centares/Legends",

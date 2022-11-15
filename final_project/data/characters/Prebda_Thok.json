@@ -1,0 +1,39 @@
+{
+ "name": "Prebda_Thok",
+ "display_name": "Prebda Thok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Boztrok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Prebda Thok was a Hutt art collector who owned one of the most valuable properties on the planet Boztrok.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Boztrok",
+  "/wiki/Hutt/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

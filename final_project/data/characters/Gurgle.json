@@ -1,5 +1,6 @@
 {
  "name": "Gurgle",
+ "display_name": "Gurgle",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Gurgle was a Quarren underworld boss on Dac.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

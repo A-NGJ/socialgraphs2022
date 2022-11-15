@@ -1,0 +1,78 @@
+{
+ "name": "Keekrim_Pon",
+ "display_name": "Keekrim Pon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Bounty Hunters Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keekrim Pon was a Corellian Human male bounty hunter. An influential bounty hunter clan leader, in the aftermath of the conclusion of the New Sith Wars, on the suggestion of the Galactic Senate Pon came together with the influential hunters Saya Ksi, Teesoo and Thrassk to re-found the defunct Bounty Hunters' Guild as the \"New Bounty Hunters Guild.\" Pon also helped to co-author the Bounty Hunters' Creed, the guiding set of principles by which members of the new Guild were expected to abide.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/New_Sith_Wars",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Saya_Ksi",
+  "/wiki/Teesoo",
+  "/wiki/Thrassk",
+  "/wiki/Bounty_Hunters%27_Creed",
+  "/wiki/The_Bounty_Hunter_Code:_From_the_Files_of_Boba_Fett"
+ ]
+}

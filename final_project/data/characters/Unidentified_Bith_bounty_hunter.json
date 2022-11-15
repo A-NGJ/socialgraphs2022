@@ -1,0 +1,85 @@
+{
+ "name": "Unidentified_Bith_bounty_hunter",
+ "display_name": "Unidentified Bith bounty hunter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Centares"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Bith worked as a bounty hunter during the Galactic Civil War.\nThis bounty hunter was part of a bounty hunter group on Centares shortly after the Battle of Yavin. When the name of the Rebel pilot who destroyed the first Death Star was revealed, Vader and his stormtroopers killed the Bith, along with every other individual who heard it.\nThis unidentified Bith was created by Star Wars artist Dave Gibbons for Vader's Quest 1 of the Vader's Quest series of comics, published in 1999 by Dark Horse Comics.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Bith",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Centares/Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Dave_Gibbons",
+  "/wiki/Vader%27s_Quest_1",
+  "/wiki/Vader%27s_Quest",
+  "/wiki/1999",
+  "/wiki/Dark_Horse_Comics"
+ ]
+}

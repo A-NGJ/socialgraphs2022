@@ -1,5 +1,6 @@
 {
  "name": "Inntak",
+ "display_name": "Inntak",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Inntak was a male Rodian bounty hunter.\nA member of the dominant Chattza Clan—though with little clan loyalty—he only took bounties for rogue Rodians and those that had angered Navik the Red. Inntak maintained a secret contact with Entukan Yesosko, leader of the Rodian Galactic Drama Troupe, who informed him whenever wanted Rodians attended their performances.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodia/Legends",

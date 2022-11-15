@@ -1,0 +1,58 @@
+{
+ "name": "Qulo_Ecls",
+ "display_name": "Qulo Ecls",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "none"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qulo Ecls was the Sullustan owner of Gelgelar Outfitters, a general store located in Gelgelar's starport.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gelgelar_Outfitters",
+  "/wiki/Gelgelar/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

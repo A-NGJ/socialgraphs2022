@@ -1,0 +1,61 @@
+{
+ "name": "Zabin",
+ "display_name": "Zabin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kubindi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zabin Hive"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zabin was a Kubaz Queen. She presided over the Zabin Hive on Kubindi. Her offspring include Garindan and Udin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubindi/Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zabin_Hive",
+  "/wiki/Queen/Legends",
+  "/wiki/Garindan",
+  "/wiki/Udin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zabin",
+  "/wiki/Star_Wars_Missions_6:_The_Search_for_Grubba_the_Hutt",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

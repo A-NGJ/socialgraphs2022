@@ -1,5 +1,6 @@
 {
  "name": "Skurvis",
+ "display_name": "Skurvis",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Skurvis was a Krish who died in 2 ABY on Ord Simres.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/2_ABY/Legends",

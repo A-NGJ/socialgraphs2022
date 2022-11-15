@@ -1,0 +1,57 @@
+{
+ "name": "Soprin",
+ "display_name": "Soprin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Soprin was a female Human Doctor working for Czerka Corporation before the Great Galactic War. She was part of the team under Director Antayen which worked on Tatooine excavating The Imprisoned One's mind prison. She was critical of Doctor Lerek and expressed relief when he left the team. However, Lerek's concerns have proved justified, as The Imprisoned One broke free and killed and enslaved all personnel present at Czerka base at that time.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Director/Legends",
+  "/wiki/Antayen",
+  "/wiki/Tatooine/Legends",
+  "/wiki/The_Imprisoned_One%27s_mind_prison",
+  "/wiki/Lerek",
+  "/wiki/The_Imprisoned_One",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

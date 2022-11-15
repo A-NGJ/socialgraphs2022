@@ -1,0 +1,68 @@
+{
+ "name": "Vanithrast",
+ "display_name": "Vanithrast",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "The Maelstrom"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resurgent Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vanithrast was a male Human Sith Lord of the Sith Empire stationed within a secret prison in the Maelstrom Nebula during the Galactic War. He came face to face with the strike team sent to rescue the imprisoned Jedi Master Revan. Vanithrast was not strong enough to defeat the strike team and met his death in the prison.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/3642_BBY",
+  "/wiki/The_Maelstrom",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Maelstrom_Prison",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_the_Maelstrom",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vanithrast",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

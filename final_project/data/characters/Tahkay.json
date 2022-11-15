@@ -1,0 +1,64 @@
+{
+ "name": "Tahkay",
+ "display_name": "Tahkay",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hiromi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hiromi Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tahkay was a Hiromi chief navigator of the Hiromi Empire starship Kuratcha. He took part in Operation: Glorious Destiny and the Battle of Zeltros in 4 ABY.\nTahkay's name may be a pun off George Hosato Takei, the actor who played helmsman Hikaru Sulu on Star Trek.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Hiromi",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hiromi_Empire",
+  "/wiki/Starship/Legends",
+  "/wiki/Kuratcha",
+  "/wiki/Operation:_Glorious_Destiny",
+  "/wiki/Battle_of_Zeltros",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Star_Wars_(1977)_104",
+  "/wiki/Star_Wars_(1977)_106"
+ ]
+}

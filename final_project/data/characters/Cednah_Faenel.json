@@ -1,0 +1,49 @@
+{
+ "name": "Cednah_Faenel",
+ "display_name": "Cednah Faenel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cednah Faenel was a female Human Alderaanian noblewoman who lived on Alderaan. She loved dancing, and spent a significant amount of money to restore the Grand Theater in the city of Belleau-a-Lir. She attended the launch of the luxury repulsortrain Gem of Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Grand_Theater",
+  "/wiki/Belleau-a-Lir",
+  "/wiki/Repulsortrain",
+  "/wiki/Gem_of_Alderaan",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_constabulary_officer",
+ "display_name": "Unidentified constabulary officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A constabulary officer was a political prisoner at Stars' End in 2 BBY.\nDuring the Liberation of Stars' End, the stasis booths began to shut down and the prisoners started to emerge. Han Solo recognized the uniform of a planetary constabulary, and requested the officer assist with the ordering of the prisoners. During the breakout, he and a few prisoners held a upper landing in the stairwell against an Espo strike. He also dispatched a few defenders to a lower landing as lookouts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Constable/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Stars%27_End/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Liberation_of_Stars%27_End",
+  "/wiki/Stasis_booth",
+  "/wiki/Security_Police",
+  "/wiki/Han_Solo_at_Stars%27_End"
+ ]
+}

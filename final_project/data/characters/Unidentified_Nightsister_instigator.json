@@ -1,0 +1,84 @@
+{
+ "name": "Unidentified_Nightsister_instigator",
+ "display_name": "Unidentified Nightsister instigator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dathomirian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified female was a member of the Nightsisters during the Galactic Civil War. She was capable of using Force lightning and enjoyed engaging in combat.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Dathomirian",
+  "/wiki/Gender/Legends",
+  "/wiki/Nightsisters/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Force_lightning/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Nightsister_instigator",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Agents_of_Deception"
+ ]
+}

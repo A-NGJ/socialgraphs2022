@@ -1,0 +1,49 @@
+{
+ "name": "Tooch",
+ "display_name": "Tooch",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sedri"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Razort"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Karak"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tooch was a pet Razort owned by Sedrian Karak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sedri/Legends",
+  "/wiki/Razort",
+  "/wiki/Karak",
+  "/wiki/Sedrian",
+  "/wiki/Battle_for_the_Golden_Sun"
+ ]
+}

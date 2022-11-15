@@ -1,5 +1,6 @@
 {
  "name": "Dvorad",
+ "display_name": "Dvorad",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Dvorad was a Pantoran criminal who operated on the planet Hovun IV. Tobias Beckett and his crew undertook a heist to acquire Dvorad's supply of blank ID chips, during which Dvorad was killed by a creature that attacked his ship.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Heist_on_Hovun_IV",

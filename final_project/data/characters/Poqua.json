@@ -1,5 +1,6 @@
 {
  "name": "Poqua",
+ "display_name": "Poqua",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Poqua was a female Human Commodore in the New Republic and commander of Task Force Gemstone during the Black Fleet Crisis.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

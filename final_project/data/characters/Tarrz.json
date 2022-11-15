@@ -1,0 +1,75 @@
+{
+ "name": "Tarrz",
+ "display_name": "Tarrz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY",
+      "Ylesia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "t'landa Til"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Besadii"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarrz was a male t'landa Til who was the head Sacredot of Colony Nine on the spice-factory world of Ylesia. He was killed by the mercenary Sniquux when Jabba the Hutt made a deal with the fledgling Rebel Alliance to have all priests on the world assassinated in preparation for the Battle of Ylesia. While strolling through his courtyard with his fellow priests, Tarrz became victim to a well-set trap orchestrated by Sniquux. The mercenary had rigged the courtyard with monofilament wires and had played an old recording of a thota, causing he and his fellow priests to panic and dismember themselves as they rushed for the exits.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Ylesia/Legends",
+  "/wiki/T%27landa_Til",
+  "/wiki/Gender/Legends",
+  "/wiki/Besadii/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Sniquux",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Battle_of_Ylesia",
+  "/wiki/Thota",
+  "/wiki/Rebel_Dawn"
+ ]
+}

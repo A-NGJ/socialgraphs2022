@@ -1,0 +1,48 @@
+{
+ "name": "Ral_Nalmar",
+ "display_name": "Ral Nalmar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nalmar crime family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ral Nalmar was the husband of Emie Nalmar, and the father of Elana Nalmar. He was also the head of the Nalmar crime family operating out of Genesia. He was killed during the attack on the Nalmar mansion perpetrated by Qual'om Soach's forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nalmar_crime_family",
+  "/wiki/Emie_Nalmar",
+  "/wiki/Elana_Nalmar",
+  "/wiki/Genesia",
+  "/wiki/Nalmar_residence",
+  "/wiki/Qual%27om_Soach",
+  "/wiki/Flashpoint!_Brak_Sector"
+ ]
+}

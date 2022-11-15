@@ -1,0 +1,48 @@
+{
+ "name": "Nofft_Masst",
+ "display_name": "Nofft Masst",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Seregar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nofft Masst was a male Human. He was the son of Ordrin Masst. He ran the repair facility in Storrd Township on Seregar with his brother Burdek.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Seregar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ordrin_Masst",
+  "/wiki/Storrd_Township",
+  "/wiki/Burdek_Masst",
+  "/wiki/West_End_Games",
+  "/wiki/Seregar_Turnabout",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

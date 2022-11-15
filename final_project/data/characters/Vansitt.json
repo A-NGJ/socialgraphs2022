@@ -1,0 +1,48 @@
+{
+ "name": "Vansitt",
+ "display_name": "Vansitt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vansitt was the owner of a Mos Espa establishment that educated potential slaves in a variety of skills and disciplines, including assassination and political blackmail.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vansitt",
+  "/wiki/Episode_I_Adventures_5:_The_Ghostling_Children",
+  "/wiki/Episode_I_Adventures_6:_The_Hunt_for_Anakin_Skywalker",
+  "/wiki/Episode_I_Adventures_8:_Trouble_on_Tatooine"
+ ]
+}

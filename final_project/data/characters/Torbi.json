@@ -1,0 +1,70 @@
+{
+ "name": "Torbi",
+ "display_name": "Torbi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Parnassos"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "24 ABY",
+      "Parnassos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torbi was a human female who was the child of Siv and either Torben or Keldo. She was born and raised by Siv in a Con Star Mining Corporation facility, Calliope Station, for the first ten years of her life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Parnassos",
+  "/wiki/24_ABY",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Siv",
+  "/wiki/Torben",
+  "/wiki/Keldo",
+  "/wiki/Con_Star_Mining_Corporation",
+  "/wiki/Calliope_Station",
+  "/wiki/Standard_year",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Torbi",
+  "/wiki/Phasma_(novel)",
+  "/wiki/Phasma_(audiobook)",
+  "/wiki/Black_Spire:_Return_to_a_Shattered_Planet",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire",
+  "/wiki/Hosnian_Cataclysm",
+  "/wiki/Battle_of_Batuu",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY",
+  "/wiki/Batuu",
+  "/wiki/%27ABY-BBY%27_dating_system",
+  "/wiki/Template:Galaxy%27s_Edge_Date",
+  "/wiki/Reproduction"
+ ]
+}

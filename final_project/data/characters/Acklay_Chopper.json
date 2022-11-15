@@ -1,0 +1,53 @@
+{
+ "name": "Acklay_Chopper",
+ "display_name": "Acklay Chopper",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Geonosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Acklay Chopper was a notorious Geonosian slavemaster and fight manager of the Petranaki arena. He gave combat training to gladiators and slaves who fought in the arenas of Geonosis. A scar ran down Acklay Chopper's right side, and he walked with a heavy limp.\nAcklay Chopper was born into the Stalgasin hive as a nameless and wingless drone. He served for a long time as a Petranaki gladiator, until he fought an acklay in his final match. The acklay wounded him, but he recovered and killed the animal with a thrust to the roof of its mouth. Cutting off the head of the acklay, he threw it to the watching Archduke Hadiss the Vaulted.\nAcklay Chopper was rewarded with his new position. In addition to his regular duties, he would occasionally take his charges to the Ebon Sea to capture acklays to use in fights.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Petranaki_arena",
+  "/wiki/Slavery/Legends",
+  "/wiki/Stalgasin_hive/Legends",
+  "/wiki/Petranaki/Legends",
+  "/wiki/Acklay/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Archduke/Legends",
+  "/wiki/Hadiss/Legends",
+  "/wiki/Ebon_Sea",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

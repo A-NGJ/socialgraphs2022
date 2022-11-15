@@ -1,0 +1,83 @@
+{
+ "name": "Yama_Dex",
+ "display_name": "Yama Dex",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "c. 19 ABY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Ginger"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Engineering Corporation",
+      "Records Department",
+      "Records Department",
+      "First Order",
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yama Dex was a human female employee of the Corellian Engineering Corporation's Records Department, working for the First Order under Executive Records Officer Winshur Bratt. After being mistreated and abused by Bratt, Dex chose to assist a Resistance team on a mission to Corellia, and eventually accompanied the Resistance offworld.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/19_ABY",
+  "/wiki/Corellia",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Corellian_Engineering_Corporation",
+  "/wiki/Records_Department",
+  "/wiki/First_Order",
+  "/wiki/Resistance",
+  "/wiki/Executive_Records_Officer",
+  "/wiki/Winshur_Bratt",
+  "/wiki/Mission_to_Corellia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yama_Dex",
+  "/wiki/Resistance_Reborn",
+  "/wiki/Resistance_Reborn_(audiobook)",
+  "/wiki/Star_Wars",
+  "/wiki/Standard_year",
+  "/wiki/Standard_day",
+  "/wiki/Battle_of_Crait",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY"
+ ]
+}

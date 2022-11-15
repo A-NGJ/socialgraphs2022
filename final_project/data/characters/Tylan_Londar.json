@@ -1,0 +1,57 @@
+{
+ "name": "Tylan_Londar",
+ "display_name": "Tylan Londar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tylan Londar was a male Human who served the Galactic Empire as an Imperial officer. Londar was based in the Imperial Data Processing Facility on the planet Tazan and sometime after the destruction of the planet Alderaan, he encountered a team of Rebel Alliance agents that had infiltrated the base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Imperial_Data_Processing_Facility",
+  "/wiki/Planet/Legends",
+  "/wiki/Tazan",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mission_to_Tazan",
+  "/wiki/Ultimate_Core_Dump"
+ ]
+}

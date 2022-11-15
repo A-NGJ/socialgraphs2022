@@ -1,0 +1,42 @@
+{
+ "name": "Mott_Besup",
+ "display_name": "Mott Besup",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mott Besup was a male technician who worked in the Undercity of Coruscant during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Undercity_(Taris)",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mott_Besup",
+  "/wiki/HoloNet_News_%E2%80%94_A_Galaxy_Divided_(Part_4)"
+ ]
+}

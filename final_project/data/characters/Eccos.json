@@ -1,5 +1,6 @@
 {
  "name": "Eccos",
+ "display_name": "Eccos",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Eccos was a female Anx who was in charge of mining at Pryce Mining.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Anx",

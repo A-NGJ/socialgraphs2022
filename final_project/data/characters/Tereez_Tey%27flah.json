@@ -1,0 +1,48 @@
+{
+ "name": "Tereez_Tey%27flah",
+ "display_name": "Tereez Tey'flah",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tereez Tey'flah was a female Bothan and member of the Rebel cell on Cloud City led by Card Captor.\nShe worked with Garul in the attempt to rescue the families of several Alliance members",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Card_Captor",
+  "/wiki/Garul",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Cloud_Cover",
+  "/wiki/Star_Wars_Gamer_3"
+ ]
+}

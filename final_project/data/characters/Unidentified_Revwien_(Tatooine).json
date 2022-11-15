@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Revwien_(Tatooine)",
+ "display_name": "Unidentified Revwien  (Tatooine)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Revwien"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green and yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a member of the Revwien species. It had a green body and a yellow seed case. It was present on Tatooine in 0 BBY outside Chalmun's Spaceport Cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Revwien/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Seed/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Chalmun%27s_Spaceport_Cantina/Legends",
+  "/wiki/Droids_(1986)_6"
+ ]
+}

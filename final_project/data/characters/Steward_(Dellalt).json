@@ -1,0 +1,84 @@
+{
+ "name": "Steward_(Dellalt)",
+ "display_name": "Steward  (Dellalt)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dellalt"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Survivors"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Mission Commander"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Steward was the overseer of the treasure vaults of Xim the Despot, located on the planet of Dellalt, in 1 BBY.\nThe Steward was a tall, broad-shouldered man with a full head of white hair and matching forked beard. He spoke with a hearty and charming voice. He was one the elite Survivors whose duty it was to protect the treasure of Xim at all costs. So, once the secret was out, it was he who ordered the Mission Commander to awaken the Guardian Corps to eradicate J'uoch's mining camp, believing the crew and passengers of the Millennium Falcon already dead. After the gates of the vaults were breached, near the end of the recovery mission, the Steward was shot and killed by Gallandro while trying to defend the treasure to the last. He, like all Survivors, was hypno-imprinted during childhood.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dellalt/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Survivors_(Dellalt)",
+  "/wiki/Mission_Commander",
+  "/wiki/Xim/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Guardian_Corps",
+  "/wiki/J%27uoch%27s_mining_camp",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Mission_to_Dellalt",
+  "/wiki/Gallandro/Legends",
+  "/wiki/Hypno-imprinting",
+  "/wiki/Han_Solo_and_the_Lost_Legacy",
+  "/wiki/The_New_Essential_Chronology"
+ ]
+}

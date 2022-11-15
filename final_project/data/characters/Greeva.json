@@ -1,5 +1,6 @@
 {
  "name": "Greeva",
+ "display_name": "Greeva",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Greeva was a female Human quartermaster of the Sith Empire, stationed on Taris during the Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",

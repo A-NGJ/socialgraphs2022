@@ -1,0 +1,53 @@
+{
+ "name": "Vitkins",
+ "display_name": "Vitkins",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vitkins was a Human male corporal who served as a Pop-Dog  on Vandor-3 by 44 ABY. He and his partner, Sergeant Dobi, were called in to a small dwelling to investigate reports of domestic disturbance. The two Pop-Dogs then found themselves caught in a trap set up by the Quad-Linked Militant Pacifists, a fictitious terrorist organization that served as a front for Wraith Squadron, and Vitkins and Dobi were then tied up. They were later discovered and freed by some of their fellow soldiers who followed up on their investigation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Corporal/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Stavin_Thaal",
+  "/wiki/Vandor-3",
+  "/wiki/44_ABY",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Dobi",
+  "/wiki/Quad-Linked_Militant_Pacifists",
+  "/wiki/Wraith_Squadron",
+  "/wiki/X-Wing:_Mercy_Kill",
+  "/wiki/X-Wing:_Mercy_Kill_(audiobook)"
+ ]
+}

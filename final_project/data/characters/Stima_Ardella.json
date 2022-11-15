@@ -1,0 +1,66 @@
+{
+ "name": "Stima_Ardella",
+ "display_name": "Stima Ardella",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Galantos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Hammer pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stima Ardella was the leader of the Black Hammer pirates. Based primarily from the planet Galantos, she terrorized the local Fia, and was known to scour the Widek Bypass in her flagship, the Smokeswimmer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galantos",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black_Hammer_pirates",
+  "/wiki/Planet/Legends",
+  "/wiki/Fia",
+  "/wiki/Widek_Bypass",
+  "/wiki/Smokeswimmer",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

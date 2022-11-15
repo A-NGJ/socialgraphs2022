@@ -1,0 +1,57 @@
+{
+ "name": "Zira",
+ "display_name": "Zira",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Feeorin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zira was a female Feeorin pirate who during 3 BBY along with Grillo attacked a luxury train on the planet Tyegin. During the attack, they set the train on fire and stole Lando Calrissian's money and escaped.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Feeorin",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Pirate",
+  "/wiki/3_BBY",
+  "/wiki/Grillo",
+  "/wiki/Luxury_train",
+  "/wiki/Planet",
+  "/wiki/Tyegin",
+  "/wiki/Train",
+  "/wiki/Fire",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Currency",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zira",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Off_the_Rails"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Vig",
+ "display_name": "Vig",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Vig was a Human male stormtrooper officer who served the Galactic Empire during the Galactic Civil War. He was assigned to Jerec's battle group where he oversaw the looting of the side-chambers of the Valley of the Jedi, in search for valuable artifacts and technologies that could help Jerec repay the corporate sponsors of his fleet.\nVig was a large Human male with a large, non-regulation mustache and short red hair. He was known for both his vast courage and his even greater competence, and was not afraid to use capital punishment to enforce his authority.\nIn the audio adaptation of Dark Forces: Jedi Knight, he was voiced by Gary Groomes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Jerec_(Inquisitor)",
+  "/wiki/Vengeance_Battle_Group",
+  "/wiki/Valley_of_the_Jedi",
+  "/wiki/Dark_Forces:_Jedi_Knight_audio_drama",
+  "/wiki/Gary_Groomes",
+  "/wiki/Dark_Forces:_Jedi_Knight"
+ ]
+}

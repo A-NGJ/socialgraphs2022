@@ -1,0 +1,47 @@
+{
+ "name": "Jagged_Fang",
+ "display_name": "Jagged Fang",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Varactyl"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jagged Fang was the name of a particularly strong and dangerous varactyl that lived on the planet Kashyyyk at the time of the Galactic Civil War. It could be found in the jungles near the city of Kachirho, where the planet wasn't completely covered with kilometer-high wroshyr trees.\nIn 1 ABY, a beast master who wanted to obtain a varactyl egg to train one of these creatures was sent to a varactyl nesting place by the Rodian hunter Pirus Gue. The adventurer had to fight and kill Jagged Fang who guarded the eggs savagely.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Varactyl/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kachirho/Legends",
+  "/wiki/Wroshyr_tree/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Beast_master",
+  "/wiki/Rodian/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Pirus_Gue",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Star_Wars_Galaxies:_The_Total_Experience:_Prima_Official_Game_Guide",
+  "/wiki/Star_Wars_Galaxies:_The_Complete_Guide:_Prima_Official_Game_Guide"
+ ]
+}

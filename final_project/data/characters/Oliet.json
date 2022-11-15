@@ -1,5 +1,6 @@
 {
  "name": "Oliet",
+ "display_name": "Oliet",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Oliet was one of the Peacekeepers of the Outbound Flight Colony in 22 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

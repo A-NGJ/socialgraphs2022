@@ -1,0 +1,46 @@
+{
+ "name": "Tionthes_Turi",
+ "display_name": "Tionthes Turi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sundari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tionthes Turi was a Sundar engineer who worked alongside a Garosian named Tork Winger to end the Garosian Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sundari_(planet)",
+  "/wiki/Human",
+  "/wiki/Sundar",
+  "/wiki/Engineer/Legends",
+  "/wiki/Garosian",
+  "/wiki/Tork_Winger",
+  "/wiki/Garosian_Civil_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tionthes_Turi",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Turning_Point_(Charlene_Newcomb)",
+  "/wiki/Star_Wars_Adventure_Journal_5",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Tzeel",
+ "display_name": "Tzeel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Distraction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tzeel was a female Human who was a member of the band Distraction, serving as the band's percussionist. She traveled to the Hutt yacht after the band was hired to perform aboard the ship.\nTzeel wore white-colored make-up on her face, which glowed when lights were shined onto her during the band's concerts. She liked the effect a lot, so she wore the make-up all of the time, never removing it. She spoke using jerky words and frequently made hand gestures.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Distraction",
+  "/wiki/Hutt/Legends",
+  "/wiki/Yacht/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/With_the_Band"
+ ]
+}

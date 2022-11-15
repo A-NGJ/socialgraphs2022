@@ -1,5 +1,6 @@
 {
  "name": "O-Nena",
+ "display_name": "O-Nena",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "O-Nena was a female Human Keganite who was sent to the Re-Learning Circle.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kegan",

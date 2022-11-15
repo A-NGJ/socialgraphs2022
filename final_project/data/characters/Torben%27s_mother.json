@@ -1,0 +1,62 @@
+{
+ "name": "Torben%27s_mother",
+ "display_name": "Torben's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Parnassos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Scyre"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female human was the mother of Torben. When Torben told his mother that he wanted to stay in the Nautilus forever, she used to tell him that it was normal for the bird to love captivity,\nuntil it longs to fly again.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Parnassos",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Scyre",
+  "/wiki/Torben",
+  "/wiki/Parent",
+  "/wiki/Nautilus",
+  "/wiki/Bird",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Torben%27s_mother",
+  "/wiki/Phasma_(novel)",
+  "/wiki/Phasma_(audiobook)"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Hallem_Celaar",
+ "display_name": "Hallem Celaar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hallem Celaar was a professor hailing from Naboo. He was greatly admired in academic circles for his studies on plant life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Professor/Legends",
+  "/wiki/Plant/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hallem_Celaar",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Peril_in_the_Ionosphere",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

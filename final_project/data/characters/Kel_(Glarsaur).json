@@ -1,0 +1,50 @@
+{
+ "name": "Kel_(Glarsaur)",
+ "display_name": "Kel  (Glarsaur)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gelgelar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Glarsaur"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kel was a young Glarsaur living on the planet Gelgelar. While some of his fellow Glarsaurs planned an attack on the Sullustan's Krevk Settlement, Kel was more focused on capturing a reeho he had spied in a maugesh tree.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gelgelar/Legends",
+  "/wiki/Glarsaur",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Krevk_Settlement",
+  "/wiki/Reeho_(bird)",
+  "/wiki/Maugesh_tree",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Breath_of_Gelgelar",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

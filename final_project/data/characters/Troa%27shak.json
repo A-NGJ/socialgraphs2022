@@ -1,0 +1,63 @@
+{
+ "name": "Troa%27shak",
+ "display_name": "Troa'shak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clan Shak",
+      "Kala'uun Starport"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Troa'shak was a Twi'lek member of the Shak clan and was the brother of Koh'shak, Elam'shak and Wrou'shak. He served as the Water Keeper at the Kala'uun Starport.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Shak",
+  "/wiki/Kala%27uun_Starport",
+  "/wiki/Koh%27shak",
+  "/wiki/Elam%27shak",
+  "/wiki/Wrou%27shak",
+  "/wiki/Water_Keeper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Troa%27shak",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

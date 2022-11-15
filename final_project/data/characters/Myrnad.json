@@ -1,5 +1,6 @@
 {
  "name": "Myrnad",
+ "display_name": "Myrnad",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Myrnad was an officer of the Galactic Republic living during the Cold War. Stationed on Corellia, Myrnad managed a small shop, also teaching the knowledge of biochemistry to others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

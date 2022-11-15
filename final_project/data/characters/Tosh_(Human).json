@@ -1,0 +1,49 @@
+{
+ "name": "Tosh_(Human)",
+ "display_name": "Tosh  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tosh was a Human male colonel in the New Republic who commanded the rear guard of speeders during the Battle of Yag'Dhul.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tosh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Speeder/Legends",
+  "/wiki/Battle_of_Yag%27Dhul_(29_ABY)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tosh_(Human)",
+  "/wiki/The_New_Jedi_Order:_Ylesia"
+ ]
+}

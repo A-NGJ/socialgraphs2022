@@ -1,5 +1,6 @@
 {
  "name": "Reelo",
+ "display_name": "Reelo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Liuetenant Reelo was a Rodian male member of the Galactic Republic military present on Carrick Station during the struggle against the reconstituted Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Reelo_Baruk",

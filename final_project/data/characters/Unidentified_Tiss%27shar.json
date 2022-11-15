@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_Tiss%27shar",
+ "display_name": "Unidentified Tiss'shar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tiss'sharl"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tiss'shar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Tiss'shar was present on Tiss'sharl in 0 ABY. The Tiss'shar kept tabs on President Si-Di-Ri for Darth Vader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tiss%27sharl",
+  "/wiki/Tiss%27shar",
+  "/wiki/0_ABY/Legends",
+  "/wiki/President_of_the_Tiss%27sharl_League",
+  "/wiki/Si-Di-Ri",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Empire_31"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Korro",
+ "display_name": "Korro",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Captain Korro was a human member of Naboo's Royal Security Forces. In the aftermath of the Battle of Endor, where the Alliance to Restore the Republic defeated the autocratic Galactic Empire, Korro served as Queen Sosha Soruna's head of security.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Naboo",

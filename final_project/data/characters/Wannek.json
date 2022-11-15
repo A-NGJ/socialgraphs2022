@@ -1,0 +1,77 @@
+{
+ "name": "Wannek",
+ "display_name": "Wannek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mustafar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mustafarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vylip F'alma's clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wannek was a Northern Mustafarian female who lived on Mustafar during the Imperial Era. Wannek accompanied the priestess of his clan and assisted Lady Corvax's descendant in preventing Darth Vader from activating the Aeon Engine. She also helped eliminate the darkghast.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mustafar",
+  "/wiki/Mustafarian",
+  "/wiki/Northern_Mustafarian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Vylip_F%27alma%27s_clan",
+  "/wiki/ZO-E3",
+  "/wiki/Imperial_Era",
+  "/wiki/Priestess_(Mustafarian)",
+  "/wiki/Lord",
+  "/wiki/Corvax",
+  "/wiki/Corvax_descendant",
+  "/wiki/Battle_on_Mustafar",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Aeon_Engine",
+  "/wiki/Darkghast",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wannek",
+  "/wiki/Vader_Immortal:_A_Star_Wars_VR_Series_%E2%80%93_Episode_I",
+  "/wiki/Vader_Immortal:_A_Star_Wars_VR_Series_%E2%80%93_Episode_II",
+  "/wiki/Vader_Immortal:_A_Star_Wars_VR_Series_%E2%80%93_Episode_III"
+ ]
+}

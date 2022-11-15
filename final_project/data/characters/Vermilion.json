@@ -1,0 +1,91 @@
+{
+ "name": "Vermilion",
+ "display_name": "Vermilion",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "31 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fathier"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Chestnut"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canto Bight racetrack"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Fibs Nibbelt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vermilion was a fathier filly owned by Fibs Nibbelt. Born in 31 ABY to Crimson Pavane and Cinnabar, she grew up to become a racing fathier. Ridden by the jockey Krin Kallibin, Vermilion participated in a race that occurred shortly before the Battle of Crait.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Vermilion_(disambiguation)",
+  "/wiki/31_ABY",
+  "/wiki/Fathier",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Canto_Bight_racetrack",
+  "/wiki/Reproduction",
+  "/wiki/Crimson_Pavane",
+  "/wiki/Cinnabar_(fathier)",
+  "/wiki/Jockey",
+  "/wiki/Krin_Kallibin",
+  "/wiki/Battle_of_Crait",
+  "/wiki/The_Ride",
+  "/wiki/Canto_Bight_(novella_collection)",
+  "/wiki/The_Last_Jedi:_Rose_Tico:_Resistance_Fighter",
+  "/wiki/Rose_Tico",
+  "/wiki/Finn",
+  "/wiki/Mission_to_Canto_Bight",
+  "/wiki/Canto_Bight",
+  "/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+  "/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY"
+ ]
+}

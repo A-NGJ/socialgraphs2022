@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Imperial_warden",
+ "display_name": "Unidentified Imperial warden",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male human worked as a warden at the Imperial Detention Center \u0026 Labor Camp LEG-817 on Wobani.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Warden",
+  "/wiki/Imperial_Detention_Center_%26_Labor_Camp_LEG-817",
+  "/wiki/Wobani",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Imperial_warden",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

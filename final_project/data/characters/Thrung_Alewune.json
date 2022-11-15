@@ -1,0 +1,42 @@
+{
+ "name": "Thrung_Alewune",
+ "display_name": "Thrung Alewune",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ho'Din"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Violet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thrung Alewune was a male Ho'Din pirate, who worked for Armanda Durkin. He enjoyed rejecting Ho'Din stereotypes, showing no gentleness and preferring technology to nature. He disagreed with Durkin's code against killing, and suggested that she retire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Armanda_Durkin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thrung_Alewune",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley"
+ ]
+}

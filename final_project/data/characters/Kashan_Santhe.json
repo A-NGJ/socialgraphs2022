@@ -1,0 +1,85 @@
+{
+ "name": "Kashan_Santhe",
+ "display_name": "Kashan Santhe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lianna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Olive"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Santhe/Sienar Technologies",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kashan Santhe was a member of the Santhe family that controlled the Santhe Corporation and its subsidiaries Santhe/Sienar Technologies and Santhe Security. He was the son of Phillip Santhe and the grandson of Lady Valles Santhe. Like his father he was an Engineer by trade.\nKashan had been a Rebel sympathizer since his student days and was an agent for the Rebel Alliance. He went away to school in the Core Worlds where he made numerous aristocratic friends of questionable loyalty to the Empire. Although he believed that his grandmother was unaware of his ties to the Rebellion this was not true and indeed much of the information passed onto the Alliance by Kashan was leaked by Lady Santhe.\nHe was a dashing man with a slight build and dark hair. he was brash and had a tendency to take on more that he could cope with. He both loved and feared his grandmother. His father, Philip Santhe, was unaware of his rebel connections.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Santhe/Sienar_Technologies",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Santhe_family/Legends",
+  "/wiki/Santhe_Corporation/Legends",
+  "/wiki/Santhe_Security",
+  "/wiki/Phillip_Santhe",
+  "/wiki/Lord/Legends",
+  "/wiki/Valles_Santhe",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Mission_to_Lianna",
+  "/wiki/Wretched_Hives_of_Scum_%26_Villainy"
+ ]
+}

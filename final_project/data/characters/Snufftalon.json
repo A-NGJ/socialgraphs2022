@@ -1,0 +1,62 @@
+{
+ "name": "Snufftalon",
+ "display_name": "Snufftalon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Questal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shilley's"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snufftalon was a big Wookiee and the bouncer of the Shilley's cantina in Questal.\nOnce, a swoop gang got in trouble with him, and this fight brought the attention of some members of the Alliance, which were trying to find agent Tiree.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Questal/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shilley%27s",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Tan_Shilley",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Tay_Vanis",
+  "/wiki/The_Game_Chambers_of_Questal",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Five"
+ ]
+}

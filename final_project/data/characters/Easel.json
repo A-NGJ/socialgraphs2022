@@ -1,5 +1,6 @@
 {
  "name": "Easel",
+ "display_name": "Easel",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Easel was a male Valltii scientist.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Valltii",

@@ -1,0 +1,50 @@
+{
+ "name": "Tonn-Glon",
+ "display_name": "Tonn-Glon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lew'el"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tonn-Glon was a twelve-year old Lew'elan who was the twin brother of Aya-Glon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lew%27el",
+  "/wiki/Human",
+  "/wiki/Lew%27elan",
+  "/wiki/Gender",
+  "/wiki/Standard_year",
+  "/wiki/Twin",
+  "/wiki/Aya-Glon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tonn-Glon",
+  "/wiki/The_Legends_of_Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker_(audiobook)"
+ ]
+}

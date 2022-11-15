@@ -1,0 +1,70 @@
+{
+ "name": "Zender",
+ "display_name": "Zender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zender was a Human male captain who served the resurgent Sith Empire during the Galactic War.\nDuring the fighting in the Government District on Corellia, Zender and his unit managed to corner a sizable resistance force, but the rebels have constructed several repeating blasters to halt the Imperial advance. From the Decimus's Rise, Zender convinced an Imperial hero to deal with the rebels, after which Zender's forces were able to overwhelm the rebel defenses and reduce the resistance's numbers in the area.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Governmental_Sector",
+  "/wiki/Corellia/Legends",
+  "/wiki/Repeating_blaster/Legends",
+  "/wiki/Imperial_Central_Command_(Corellia)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Sylond",
+ "display_name": "Sylond",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sylond's Speeder Rentals"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sylond was an Aquala Aqualish who ran Sylond's Speeder Rentals in Quantill City on the planet Ando. He was a friend of Koral-tae.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sylond%27s_Speeder_Rentals",
+  "/wiki/Aquala/Legends",
+  "/wiki/Quantill_City",
+  "/wiki/Planet/Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Koral-tae",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Ando_Project",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

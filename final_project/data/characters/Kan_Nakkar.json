@@ -1,0 +1,49 @@
+{
+ "name": "Kan_Nakkar",
+ "display_name": "Kan Nakkar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kan Nakkar was a male Yevetha of a low-ranking caste, who served his people as a scout. During his career, Nakkar was tasked with discovering more about the wider galaxy beyond the Yevethan homeworld N'zoth, and he was dispatched to investigate the planet J't'p'tan, a duty that Nakkar loathed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Gender/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/J%27t%27p%27tan",
+  "/wiki/Wizards.com",
+  "/wiki/J%27t%27p%27tan:_Temples_and_Tybis"
+ ]
+}

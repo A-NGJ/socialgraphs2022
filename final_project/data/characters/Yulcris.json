@@ -1,0 +1,43 @@
+{
+ "name": "Yulcris",
+ "display_name": "Yulcris",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.3 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yulcris was a muscular male humanoid. He worked for Moff Bandor, hunting prisoners in the Moff's Game Chambers. He was armed with a blaster and vibro-ax.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Moff/Legends",
+  "/wiki/Bandor_(Moff)",
+  "/wiki/Game_Chambers",
+  "/wiki/Blaster/Legends",
+  "/wiki/Vibro-ax/Legends",
+  "/wiki/The_Game_Chambers_of_Questal"
+ ]
+}

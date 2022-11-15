@@ -1,0 +1,59 @@
+{
+ "name": "Unidentified_New_Republic_Tarnab_diplomat",
+ "display_name": "Unidentified New Republic Tarnab diplomat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarnab"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Tarnab represented some constituency as a diplomat. He had a pet clodhopper.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarnab/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Clodhopper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_New_Republic_Tarnab_diplomat",
+  "/wiki/The_Wildlife_of_Star_Wars:_A_Field_Guide"
+ ]
+}

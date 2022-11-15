@@ -1,5 +1,6 @@
 {
  "name": "Aviso",
+ "display_name": "Aviso",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Aviso was a male Human starship captain who served the Confederacy of Independent Systems during the Clone Wars. In about 21 BBY, Aviso traveled to the planet Dorin to collect the XNA-580—a device developed by the Kel Dor Raahan Ma'ase that could manipulate the brainwaves of most species—on behalf of the Confederate leader Count Dooku.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

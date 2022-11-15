@@ -1,0 +1,75 @@
+{
+ "name": "Makala_Fardi",
+ "display_name": "Makala Fardi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thabeska"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fardi clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Makala Fardi was a human female living on the planet Thabeska during the first year of the Galactic Empire. She was a member of the Fardi clan, and the older sister of Hedala Fardi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Thabeska",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Fardi_clan",
+  "/wiki/Planet",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Empire",
+  "/wiki/Hedala_Fardi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Makala_Fardi",
+  "/wiki/Ahsoka_(novel)",
+  "/wiki/Ahsoka_(audiobook)"
+ ]
+}

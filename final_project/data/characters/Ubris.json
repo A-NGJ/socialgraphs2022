@@ -1,0 +1,49 @@
+{
+ "name": "Ubris",
+ "display_name": "Ubris",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hapes Consortium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ubris was a female Hapan warrior that served the royal family of the Hapes Consortium for two generations, including as a personal guard to Prince Isolder during the Yuuzhan Vong War. She was with the prince when an assassin attempted to kill him from atop a blizcot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapan",
+  "/wiki/Gender/Legends",
+  "/wiki/Hapes_Consortium/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Isolder",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Blizcot",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/The_New_Jedi_Order:_Dark_Journey",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "name": "Vox_(Defel)",
+ "display_name": "Vox  (Defel)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Defel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vox was a female Defel and informant born during the rule of Emperor Palpatine. She matched bounty postings to available hunters to maintain their anonymity. In this way, Vox arranged for an illegally posted bounty to be placed on Narloch.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wade_Vox",
+  "/wiki/Dak_Vox",
+  "/wiki/Defel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Narloch",
+  "/wiki/West_End_Games",
+  "/wiki/Elusive_(adventure)",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

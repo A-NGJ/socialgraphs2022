@@ -1,0 +1,44 @@
+{
+ "name": "Unidentified_Legislative_Youth_Program_trainee",
+ "display_name": "Unidentified Legislative Youth Program trainee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A unidentified young trainee lived on Keren and was a member of the Legislative Youth Program. In 65 BBY, the trainee was a passenger on the Naboo starship Jafan III and compared notes with Palpatine about their experience on Chandrila.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Keren/Legends",
+  "/wiki/Legislative_Youth_Program/Legends",
+  "/wiki/65_BBY/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Jafan_III",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

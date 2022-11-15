@@ -1,0 +1,38 @@
+{
+ "name": "Twolz",
+ "display_name": "Twolz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Twolz was a Human male smuggler and Dannen Lifehold's mentor. A decent man, he taught Dannen everything he knew. Twolz was killed when Imperial stormtroopers raided his operation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Dannen_Lifehold",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Breaking_Free:_The_Adventures_of_Dannen_Lifehold",
+  "/wiki/Star_Wars_Adventure_Journal_1"
+ ]
+}

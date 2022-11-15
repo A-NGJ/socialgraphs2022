@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Nautolan_youngling_(Ossus)",
+ "display_name": "Unidentified Nautolan youngling  (Ossus)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Nautolan Jedi youngling was onboard a J-1 shuttle when Cade Skywalker and Shado Vao left Ossus.\nOn one page, in two different panels, this Nautolan is colored both green and blue.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Jedi/Legends",
+  "/wiki/Youngling/Legends",
+  "/wiki/J-1_shuttle",
+  "/wiki/Cade_Skywalker",
+  "/wiki/Shado_Vao",
+  "/wiki/Ossus/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Legacy_(2006)_1"
+ ]
+}

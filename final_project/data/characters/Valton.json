@@ -1,0 +1,69 @@
+{
+ "name": "Valton",
+ "display_name": "Valton",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Valton was a New Republic officer and commander of the Xiytiar-class transport Sungrass during the Zsinj campaign. He was tall and tan, and though he looked weathered, Wedge Antilles surmised that the man had several years of fight left in him. Valton also seemed possessed of intelligence, and had an unmemorable face that would have most likely fit in with a janitor's uniform as well as a military officer's.\nAt the time of the Battle of Kuat, Valton had been an officer for many years, having come in contact with the Imperial II-class Star Destroyer Ill Wind and the Immobilizer 418 cruiser Emperor's Net both before the death of the Emperor Palpatine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Xiytiar-class_transport",
+  "/wiki/Sungrass",
+  "/wiki/Hunt_for_Zsinj",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Battle_of_Kuat_(Hunt_for_Zsinj)",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Ill_Wind",
+  "/wiki/Immobilizer_418_cruiser/Legends",
+  "/wiki/Emperor%27s_Net",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/X-Wing:_Iron_Fist"
+ ]
+}

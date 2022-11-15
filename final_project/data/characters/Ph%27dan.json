@@ -1,5 +1,6 @@
 {
- "name": "Ph'dan",
+ "name": "Ph%27dan",
+ "display_name": "Ph'dan",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Ph'dan was a male H'drachi leader in 0 ABY. He was killed by Glott after giving him information about Mora.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/M%27haeli/Legends",

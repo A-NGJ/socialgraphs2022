@@ -1,5 +1,6 @@
 {
  "name": "Lannix",
+ "display_name": "Lannix",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Lannix was a Palliduvan male pirate who lived on Noaxson during the First Order-Resistance War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Palliduvan",

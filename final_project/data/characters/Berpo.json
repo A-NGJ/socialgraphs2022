@@ -1,5 +1,6 @@
 {
  "name": "Berpo",
+ "display_name": "Berpo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Berpo was a Toydarian criminal who worked for Zelice Sturm on Tolea Biqua during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Toydarian/Legends",

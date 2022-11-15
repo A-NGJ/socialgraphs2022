@@ -1,5 +1,6 @@
 {
  "name": "Hotshot",
+ "display_name": "Hotshot",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -63,7 +64,7 @@
   }
  ],
  "content": "\"Hotshot\" was the nickname of a clone cadet who was a part of the Clone Youth Brigade during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hotshot",

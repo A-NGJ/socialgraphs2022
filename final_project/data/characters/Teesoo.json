@@ -1,0 +1,58 @@
+{
+ "name": "Teesoo",
+ "display_name": "Teesoo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Bounty Hunters Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teesoo was a Rodian bounty hunter clan leader from the planet Rodia who was active during the years following the end of the New Sith Wars. Teesoo joined with the influential hunters Thrassk, Saya Ksi and Keekrim Pon to re-found the ancient Bounty Hunters' Guild of old as the \"New Bounty Hunters Guild,\" and together, they drafted the Bounty Hunters' Creed, a set of guidelines by which all bounty hunters were expected to abide.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/New_Sith_Wars",
+  "/wiki/Hunting/Legends",
+  "/wiki/Thrassk",
+  "/wiki/Saya_Ksi",
+  "/wiki/Keekrim_Pon",
+  "/wiki/Bounty_Hunters%27_Creed",
+  "/wiki/Bounty/Legends",
+  "/wiki/The_Bounty_Hunter_Code:_From_the_Files_of_Boba_Fett"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Matthew",
+ "display_name": "Matthew",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Matthew was a male Rodian who lived during the Galactic Civil War",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

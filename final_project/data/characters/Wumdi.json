@@ -1,0 +1,72 @@
+{
+ "name": "Wumdi",
+ "display_name": "Wumdi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Etti IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Etti"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wumdi was an Etti Vigo of Black Sun during Prince Xizor's reign.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Etti_IV/Legends",
+  "/wiki/Etti",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Vigo/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Xizor/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wumdi",
+  "/wiki/Shadows_of_the_Empire_(novel)",
+  "/wiki/West_End_Games",
+  "/wiki/The_Obvious_Scapegoat",
+  "/wiki/Shadows_of_the_Empire_Sourcebook",
+  "/wiki/Shadows_of_the_Empire:_Evolution",
+  "/wiki/Pirates_%26_Privateers",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook"
+ ]
+}

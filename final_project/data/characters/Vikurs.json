@@ -1,0 +1,72 @@
+{
+ "name": "Vikurs",
+ "display_name": "Vikurs",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vikurs was a Human male who served as an agent of the resurgent Sith Empire during the Cold War on Alderaan. At some point, the Jedi uncovered an old holocron composed of historical intel about House of Thul's former crimes and barbaric acts and Vikurs and his men were able to discover the Jedi's discovery by intercepting a SIS' communication. Knowing that House Thul's status could be harmed if the holocron's contents were released to the public, Vikurs tasked an Imperial-aligned individual to retrieve it, from the Jedi and House of Organa forces on the Organa dig site, and then give it to the Sith Lord Urduun at Outpost Bolym. At that time, Vikurs was suffering from temporary chest pain due to an indigestion and was taking anti-stress medication.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Holocron/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Organa_dig_site",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Urduun",
+  "/wiki/Outpost_Bolym",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

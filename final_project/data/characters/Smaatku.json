@@ -1,0 +1,75 @@
+{
+ "name": "Smaatku",
+ "display_name": "Smaatku",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nishmar system"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 19 ABY",
+      "Guat'a"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gordelian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smaatku was a Gordelian male warlord who resided on the planet Guat'a. He was a rare exception of his species, building a strong organization on Guat'a while being in league with the Osako pirates. He was killed by the Spice Runners of Kijimi during a heist.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nishmar_system",
+  "/wiki/19_ABY",
+  "/wiki/Guat%27a",
+  "/wiki/Gordelian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Warlord",
+  "/wiki/Planet",
+  "/wiki/Osako_pirates",
+  "/wiki/Death",
+  "/wiki/Spice_Runners_of_Kijimi",
+  "/wiki/Heist_on_Guat%27a",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Smaatku",
+  "/wiki/Poe_Dameron:_Free_Fall",
+  "/wiki/Poe_Dameron:_Free_Fall_(audiobook)",
+  "/wiki/Standard_year",
+  "/wiki/Poe_Dameron",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/Hosnian_Cataclysm",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY",
+  "/wiki/18_ABY"
+ ]
+}

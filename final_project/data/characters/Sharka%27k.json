@@ -1,5 +1,6 @@
 {
- "name": "Sharka'k",
+ "name": "Sharka%27k",
+ "display_name": "Sharka'k",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Sharka'k was a Gree artisan who created the Sharka'k Noor, but died before he was able pass the secrets of the Sharka'k Noor on to his apprentice.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gree_(species)/Legends",

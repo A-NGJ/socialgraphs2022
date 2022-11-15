@@ -1,0 +1,71 @@
+{
+ "name": "Trol",
+ "display_name": "Trol",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sulon"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY",
+      "Sulon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trol was a teenage Human male who was living on Sulon during the early part of the Galactic Civil War. In 1 BBY, he was one of the twenty-six Rebel resistance fighters that served under Morgan Katarn at the G-Tap; armed with an SLM launcher, he and his companion Jen were part of the missile team.\nVester's Corellian light freighter approached and Morgan ordered the pair to destroy that assault ship. Jen loaded his tube and Trol attempted to get a lock, hidden behind some boulders. The SLM hit the underside of the ship but Vester, its experienced pilot, returned it to its position. Trot felt anxiety while Jen loaded a second missile; once it was launched, the missile was hit by a laser, and the explosion killed the pair.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sulon",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Morgan_Katarn",
+  "/wiki/G-Tap",
+  "/wiki/SLM",
+  "/wiki/Jen_(Human)",
+  "/wiki/Vester",
+  "/wiki/Corellian_light_freighter",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire_audio_drama"
+ ]
+}

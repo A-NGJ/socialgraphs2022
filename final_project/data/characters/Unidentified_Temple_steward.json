@@ -1,0 +1,69 @@
+{
+ "name": "Unidentified_Temple_steward",
+ "display_name": "Unidentified Temple steward",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Vaklin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female served as steward of the Temple of Imperfect Repose on Vaklin until 19 BBY. She was killed during the Vaklin insurgency, when Darth Vader ordered an orbital bombardment of the temple.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Vaklin",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Temple_of_Imperfect_Repose",
+  "/wiki/Death/Legends",
+  "/wiki/Vaklin_insurgency",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Orbital_bombardment/Legends",
+  "/wiki/Purge_%E2%80%93_The_Tyrant%27s_Fist_2"
+ ]
+}

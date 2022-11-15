@@ -1,0 +1,74 @@
+{
+ "name": "Sona_Lerenga",
+ "display_name": "Sona Lerenga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 0 ABY and 3 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Survey Corps",
+      "Imperial Survey Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sona Lerenga was a scout serving aboard the Imperial Survey Corps Far*Reach IV PQR Wanderer at the time of its crash on the crystalline world of Isis.\nA swarthy looking rogue, Lerenga was forced to settle for a career in the Imperial Survey Corps rather than the Imperial Navy, after his father publicly embarrassed the Empire.\nLerenga displayed outlandish behavior, often taking silly chances just for the thrill of it, to compensate for having his ambitions frustrated.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Survey_Corps/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Far*Reach_IV_PQR",
+  "/wiki/Wanderer",
+  "/wiki/Time/Legends",
+  "/wiki/Crystal/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Isis",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/The_Isis_Coordinates"
+ ]
+}

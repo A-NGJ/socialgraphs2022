@@ -1,5 +1,6 @@
 {
  "name": "Drisk",
+ "display_name": "Drisk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Drisk was a Pau'an aide who served alongside Tolteck on Starlag XIX.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Special:Upload",

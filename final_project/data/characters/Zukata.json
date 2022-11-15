@@ -1,0 +1,45 @@
+{
+ "name": "Zukata",
+ "display_name": "Zukata",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zukata was a Rodian female who worked for an organization making atlas or droid upgrades in the period of the Galactic Civil War. At some point after the Battle of Yavin, Zukata came at the Rii Jenks Cantina on the planet Formos in order to find her brother Godon Netakka, a bounty hunter on the trail of the Aqualish smuggler Bandin Dobah. There, she encountered a group of off-world adventurers who had been hired to recover the droid R4-W9, which had been stolen by Dobah. They agreed to help her, to find his brother meaning to find the Aqualish.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Rii_Jenks_Cantina",
+  "/wiki/Planet/Legends",
+  "/wiki/Formos/Legends",
+  "/wiki/Godon_Netakka",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Bandin_Dobah",
+  "/wiki/R4-W9",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Trouble_Brewing",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook"
+ ]
+}

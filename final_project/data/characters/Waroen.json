@@ -1,0 +1,66 @@
+{
+ "name": "Waroen",
+ "display_name": "Waroen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireYsanne Isard's forces",
+      "Ysanne Isard's forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Waroen was a male Human who served in the Imperial Navy at the time of the Bacta War.\nA pale, red-haired young officer with a brisk, efficient manner, Waroen served as the primary aide to Captain Joak Drysso on the bridge of the Super Star Destroyer Lusankya during the Battle of Thyferra. As the ship's lead sensor officer, he manned the primary sensor console; it was his duty to keep the ship's commander updated with the ship's situation during attacks.\nAs the battle drew to a close, Drysso brazenly declared himself a Grand Admiral and threatened to ram the damaged Super Star Destroyer into Thyferra itself. In reaction to this, Waroen shot and killed the elder officer, surrendering the ship to the ex-Rogues under Wedge Antilles.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Ysanne_Isard",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Bacta_War",
+  "/wiki/Captain/Legends",
+  "/wiki/Joak_Drysso",
+  "/wiki/Super_Star_Destroyer/Legends",
+  "/wiki/Lusankya/Legends",
+  "/wiki/Battle_of_Thyferra",
+  "/wiki/Sensor/Legends",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/7_ABY/Legends"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Vettle",
+ "display_name": "Vettle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Muzara"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vettle was the son of Tallov Kersk and his wife. He settled on the planet Muzara with his family, including his uncle and aunt and cousin Cavvie—in 4000 BBY. The family were the first settlers from the Brentaal League to encounter the planet's native species, the Muza.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Muzara",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tallov_Kersk",
+  "/wiki/Tallov_Kersk%27s_wife",
+  "/wiki/Planet/Legends",
+  "/wiki/Karn_(settler)",
+  "/wiki/Karn%27s_wife",
+  "/wiki/Cavvie",
+  "/wiki/4000_BBY/Legends",
+  "/wiki/Brentaal_League",
+  "/wiki/Species/Legends",
+  "/wiki/Muza",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vettle",
+  "/wiki/West_End_Games",
+  "/wiki/Ruins_of_Kabus-Dabeh",
+  "/wiki/Tales_of_the_Jedi_Companion",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

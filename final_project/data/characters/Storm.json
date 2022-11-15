@@ -1,0 +1,52 @@
+{
+ "name": "Storm",
+ "display_name": "Storm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tico family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Storm was the father of Hue Tico, who in turn was the father of Paige and Rose Tico.\nHe was one of the first settlers on Hays Minor along with his wife, Etta.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Storm_(disambiguation)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Tico_family",
+  "/wiki/Hue_Tico",
+  "/wiki/Paige_Tico",
+  "/wiki/Rose_Tico",
+  "/wiki/Hays_Minor",
+  "/wiki/Marriage",
+  "/wiki/Etta",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Storm",
+  "/wiki/The_Last_Jedi:_Bomber_Command"
+ ]
+}

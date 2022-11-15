@@ -1,5 +1,6 @@
 {
  "name": "Gargun",
+ "display_name": "Gargun",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -63,7 +64,7 @@
   }
  ],
  "content": "Gargun was a Human male commander who served in the reconstituted Sith Empire's military during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3643_BBY",

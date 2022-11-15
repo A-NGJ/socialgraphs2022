@@ -1,0 +1,72 @@
+{
+ "name": "Zorneth",
+ "display_name": "Zorneth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zorneth was an Ithorian that made and named the savorium herb. At one point, the botanist owned C-3PO and R2-D2.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Savorium_herb",
+  "/wiki/C-3PO/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zorneth",
+  "/wiki/Droids_(1995)_2",
+  "/wiki/Droids_(1995)_4",
+  "/wiki/Droids_(1995)_5",
+  "/wiki/Droids_(1995)_7",
+  "/wiki/Droids_(1995)_8",
+  "/wiki/The_Essential_Guide_to_Droids",
+  "/wiki/C-3PO:_Tales_of_the_Golden_Droid",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_125",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

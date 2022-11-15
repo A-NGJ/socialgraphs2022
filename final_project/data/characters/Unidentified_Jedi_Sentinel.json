@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Jedi_Sentinel",
+ "display_name": "Unidentified Jedi Sentinel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human Jedi Sentinel lived at some point during Galactic History.\nThis character was depicted on the \"Jedi Sentinel\" card of the Champions of the Force, the base set of the Star Wars Galaxies Trading Card Game, which was illustrated by artist Nate Temple. Most cards of the game depict the events of the Galactic Civil War, though exceptions such as the Wall of light were rare, but still possible. Therefore, it is impossible to determine the time period this Jedi lived in without additional information.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Sentinel/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wall_of_light",
+  "/wiki/Template:SWGTCG"
+ ]
+}

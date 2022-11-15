@@ -1,0 +1,71 @@
+{
+ "name": "Vatri_Kulan",
+ "display_name": "Vatri Kulan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vatri Kulan was a female Human who served in the Republic Army. During the Galactic War, she was stationed at the Galactic Republic's Outpost Cresh on the planet Hoth.\nVatri appears in the video game Star Wars: The Old Republic, released by BioWare in 2011, as a Stims Vendor for Republic players on Hoth. The Star Wars: The Old Republic Explorer's Guide, released alongside the game, identified her as \"Vatri Kulan.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Outpost_Cresh",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

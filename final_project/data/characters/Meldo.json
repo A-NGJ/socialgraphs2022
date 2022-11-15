@@ -1,5 +1,6 @@
 {
  "name": "Meldo",
+ "display_name": "Meldo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Agent Meldo was a Togruta male who served in the Republic Strategic Information Service during the Cold War and the renewed war between the Galactic Republic and the resurgent Sith Empire on Quesh. He recruited a Republic spacer to help him to extract a defecting Imperial scientist, Doctor Orlian.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Togruta/Legends",

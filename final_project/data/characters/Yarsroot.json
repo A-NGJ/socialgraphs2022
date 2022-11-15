@@ -1,0 +1,30 @@
+{
+ "name": "Yarsroot",
+ "display_name": "Yarsroot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ho'Din"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarsroot was a Ho'Din chef who worked on the Lady Luck during the Yuuzhan Vong War. He was a part of the plan to turn over the Myrkr strike team so they could destroy the voxyn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Lady_Luck/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Myrkr_strike_team",
+  "/wiki/Voxyn",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarsroot",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star"
+ ]
+}

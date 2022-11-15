@@ -1,0 +1,65 @@
+{
+ "name": "Vol_Kolla",
+ "display_name": "Vol Kolla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vol Kolla was a male Rattataki Mandalorian who worked as a mercenary for the resurgent Sith Empire during the Cold War.\nStationed on Dromund Kaas, he and his team were assigned by the Imperials to stop a group of rebel slaves that have gotten their hands on large mining drills and plan to use them to bring down the colossus. Kolla and his team completely failed and were forced to retreat from the Nalis Quarry. As an Imperial individual arrived, he asked the individual to take over his task by preventing the rebels from succeeding.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Slavery/Legends",
+  "/wiki/Nalis_Quarry",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vol_Kolla",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

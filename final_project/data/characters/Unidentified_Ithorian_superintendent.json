@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Ithorian_superintendent",
+ "display_name": "Unidentified Ithorian superintendent",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bedlam Institution for the Criminally Demented"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian superintendent managed the Bedlam Institution for the Criminally Demented on the world of Bedlam.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bedlam_Institution_for_the_Criminally_Demented",
+  "/wiki/Planet/Legends",
+  "/wiki/Bedlam/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ithorian_superintendent",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

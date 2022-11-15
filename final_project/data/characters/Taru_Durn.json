@@ -1,0 +1,81 @@
+{
+ "name": "Taru_Durn",
+ "display_name": "Taru Durn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nam Chorios"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Theran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark",
+      "graying"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "OldtimerTheran Listeners",
+      "Theran Listeners"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taru Durn was a male Theran and Oldtimer, as well as the head of the healer hall of Hweg Shul, Nam Chorios. A Master Theran Listener, he taught Jedi Grand Master Luke Skywalker the technique of mnemotherapy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nam_Chorios/Legends",
+  "/wiki/Theran",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Oldtimer",
+  "/wiki/Theran_Listener",
+  "/wiki/Taselda",
+  "/wiki/Hweg_Shul",
+  "/wiki/Listener-Master",
+  "/wiki/Jedi/Legends",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Mnemotherapy",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taru_Durn",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)"
+ ]
+}

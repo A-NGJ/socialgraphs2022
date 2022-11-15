@@ -1,0 +1,67 @@
+{
+ "name": "Lialla_Tane",
+ "display_name": "Lialla Tane",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Golden"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Naboo Underground"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lialla Tane was a member of the Naboo Underground resistance group established after the Trade Federation's Invasion of Naboo. Her parents had been captured and held prisoner by the Trade Federation. Her father, Kyu Tane, was the Naboo Minister of Culture. Not having the means to rescue them herself, she contacted a group of colleagues in the Naboo Underground movement, who agreed to rescue her parents.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Naboo_Underground",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Kyu_Tane",
+  "/wiki/Minister_of_Culture/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lialla_Tane",
+  "/wiki/Star_Wars:_Invasion_of_Theed_Adventure_Game"
+ ]
+}

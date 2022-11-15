@@ -1,5 +1,6 @@
 {
  "name": "Melos",
+ "display_name": "Melos",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Melos was a Devaronian pirate who was hunted down on Ord Mantell by the bounty hunters Koshka Frost, Viktor Hel and \"Doctor\" Krandak.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Devaronian",

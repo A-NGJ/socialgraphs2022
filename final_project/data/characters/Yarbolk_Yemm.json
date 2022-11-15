@@ -1,0 +1,48 @@
+{
+ "name": "Yarbolk_Yemm",
+ "display_name": "Yarbolk Yemm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chadra-Fan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "TriNebulon News"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarbolk Yemm was a male Chadra-Fan reporter for the TriNebulon News and was investigating Loronar Corporation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/TriNebulon_News/Legends",
+  "/wiki/Loronar_Corporation/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarbolk_Yemm",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

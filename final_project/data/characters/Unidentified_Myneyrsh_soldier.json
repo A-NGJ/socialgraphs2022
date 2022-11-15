@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_Myneyrsh_soldier",
+ "display_name": "Unidentified Myneyrsh soldier",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Vaklin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Myneyrsh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Myneyrsh soldier served in the Vaklin insurgency against the forces of the Galactic Empire. In battle she wielded a blaster rifle and wore a shift that covered most of her body.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY",
+  "/wiki/Vaklin",
+  "/wiki/Myneyrsh",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Vaklin_insurgency",
+  "/wiki/Galactic_Empire",
+  "/wiki/Blaster_rifle/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Myneyrsh_soldier",
+  "/wiki/Purge_%E2%80%93_The_Tyrant%27s_Fist_1"
+ ]
+}

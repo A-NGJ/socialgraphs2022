@@ -1,0 +1,72 @@
+{
+ "name": "Yage_family",
+ "display_name": "Yage family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Skywalker family"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire",
+      "Empire-in-exile"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Yage family was a notable family. Rulf Yage, Moff of the Fel Empire, was a descendant of the family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Skywalker_family/Legends",
+  "/wiki/Fel_Empire",
+  "/wiki/Darth_Krayt%27s_Galactic_Empire",
+  "/wiki/Empire-in-exile",
+  "/wiki/Gunn_Yage",
+  "/wiki/Rulf_Yage",
+  "/wiki/Moff/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Legacy_(2006)_8",
+  "/wiki/Legacy_(2006)_1",
+  "/wiki/Legacy_(2006)_14",
+  "/wiki/Legacy_(2006)_15",
+  "/wiki/Legacy_(2006)_19",
+  "/wiki/Legacy_(2006)_37",
+  "/wiki/Legacy_(2006)_38",
+  "/wiki/Legacy_(2006)_39",
+  "/wiki/Legacy_(2006)_40",
+  "/wiki/Legacy_(2006)_43",
+  "/wiki/Legacy_(2006)_44",
+  "/wiki/Legacy_(2006)_45",
+  "/wiki/Legacy_(2006)_46",
+  "/wiki/Legacy_(2006)_48",
+  "/wiki/Legacy%E2%80%94War_1",
+  "/wiki/Legacy%E2%80%94War_2",
+  "/wiki/Legacy%E2%80%94War_3",
+  "/wiki/Legacy%E2%80%94War_4",
+  "/wiki/Legacy%E2%80%94War_5",
+  "/wiki/Legacy%E2%80%94War_6",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Wookieepedia:Manual_of_Style"
+ ]
+}

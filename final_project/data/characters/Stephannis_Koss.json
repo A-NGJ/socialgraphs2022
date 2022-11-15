@@ -1,0 +1,65 @@
+{
+ "name": "Stephannis_Koss",
+ "display_name": "Stephannis Koss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bonadan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corporate Sector Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stephannis Koss was a Human male from the planet Bonadan who worked for the Corporate Sector Authority as a biological engineer. During the Galactic Civil War, when Koss was twenty-seven years old, the engineer developed several new enzymes for the CSA to improve crop production. Koss eventually came to the conclusion that the enzymes could be used to develop dangerous diseases, but he was publicly denounced by the CSA as a corporate agitator who had been bribed by a rival corporation, forcing him to go into hiding. Koss fled the Corporate Sector and was sighted on Kwenn Space Station, and Territorial Administrator Thaive of the CSA subsequently issued a bounty of 15,000 for Koss' capture and return to CSA territory, so that he could be placed on trial.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bonadan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Kwenn_Space_Station/Legends",
+  "/wiki/Territorial_Administrator",
+  "/wiki/Thaive",
+  "/wiki/Bounty/Legends",
+  "/wiki/Credit",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

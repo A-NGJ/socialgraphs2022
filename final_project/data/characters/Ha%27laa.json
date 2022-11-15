@@ -1,5 +1,6 @@
 {
- "name": "Ha'laa",
+ "name": "Ha%27laa",
+ "display_name": "Ha'laa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Ha'laa was a male Twi'lek lieutenant of the Galactic Republic. In the aftermath of the Battle of Corellia during the Galactic War he was posted at Carrick Station.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

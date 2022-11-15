@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Weequay_navigator",
+ "display_name": "Unidentified Weequay navigator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY",
+      "Darksaber",
+      "Hoth asteroid field"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Besadii kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Weequay served as the main navigator aboard Durga the Hutt's Darksaber battlestation. He was killed when Durga accidentally executed him instead of the Twi'lek security chief.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Darksaber_(superweapon)",
+  "/wiki/Hoth_asteroid_field",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Besadii/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Durga_Besadii_Tai",
+  "/wiki/Hutt/Legends",
+  "/wiki/Battlestation",
+  "/wiki/Unidentified_Twi%27lek_security_chief",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Weequay_navigator",
+  "/wiki/Darksaber_(novel)"
+ ]
+}

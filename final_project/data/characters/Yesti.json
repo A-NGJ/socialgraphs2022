@@ -1,0 +1,44 @@
+{
+ "name": "Yesti",
+ "display_name": "Yesti",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ensign Yesti was the communications officer of the Super Star Destroyer Lusankya during the Bacta War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Joak_Drysso",
+  "/wiki/Ensign/Legends",
+  "/wiki/Communications_officer",
+  "/wiki/Super_Star_Destroyer/Legends",
+  "/wiki/Lusankya/Legends",
+  "/wiki/Bacta_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yesti",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

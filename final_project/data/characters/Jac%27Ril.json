@@ -1,5 +1,6 @@
 {
- "name": "Jac'Ril",
+ "name": "Jac%27Ril",
+ "display_name": "Jac'Ril",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Jac'Ril was a male Twi'lek smuggler and patron of the Thirsty Bantha cantina in Mos Entha on Tatooine around the time of the Galactic Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

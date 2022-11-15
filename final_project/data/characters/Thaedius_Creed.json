@@ -1,0 +1,61 @@
+{
+ "name": "Thaedius_Creed",
+ "display_name": "Thaedius Creed",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "CreedCon Construction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thaedius Creed was a male Human, who lived during the waning years of the Galactic Republic.\nCreed founded and lead the construction company CreedCon Construction. During the Clone Wars, he and a group of investors secured the rights to build a race track through the jungles of the planet Cularin. However, a group of his construction workers, who were building a bridge for the course, were captured by the Dark Jedi Raik Muun. Creed sent a security team to find them, but they too disappeared. In order to find his missing employees, he sent the protocol droid W2-7AY to find the Heroes of Cularin and request that they come and meet him at the CreedCon office, in Hedrett. The heroes met with him and set out to find the missing workers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/CreedCon_Construction",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Raik_Muun",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/W2-7AY",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/CreedCon_office",
+  "/wiki/Hedrett",
+  "/wiki/Force_Concession",
+  "/wiki/Force_Contention"
+ ]
+}

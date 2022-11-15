@@ -1,5 +1,6 @@
 {
  "name": "Baldy",
+ "display_name": "Baldy",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Baldy was a Human male thug working for Nuso Esva on Poln Major.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

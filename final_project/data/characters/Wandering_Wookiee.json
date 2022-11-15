@@ -1,0 +1,50 @@
+{
+ "name": "Wandering_Wookiee",
+ "display_name": "Wandering Wookiee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wandering Wookiee was a very friendly Wookiee who had traveled across multiple planets and locations in the galaxy.\nThe Wandering Wookiee is a character is LEGO Star Wars: The Skywalker Saga, and is unlocked after the player talks with him in all 33 of his locations around the galaxy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/The_galaxy",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wandering_Wookiee",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga",
+  "/wiki/LEGO"
+ ]
+}

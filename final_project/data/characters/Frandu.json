@@ -1,5 +1,6 @@
 {
  "name": "Frandu",
+ "display_name": "Frandu",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Frandu, also known as  The Rodian, was a male Rodian pilot who served in the New Republic Defense Fleet and the New Republic Pilots Commission.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Rodian",

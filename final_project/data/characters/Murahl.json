@@ -1,5 +1,6 @@
 {
  "name": "Murahl",
+ "display_name": "Murahl",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Lieutenant Murahl was a spaceport Customs official on Kaal.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

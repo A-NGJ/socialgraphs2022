@@ -1,0 +1,39 @@
+{
+ "name": "Garqi_bafforr_grove",
+ "display_name": "Garqi bafforr grove",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garqi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bafforr tree"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A grove of bafforr trees grew on Garqi, in the Pesktda Xenobotanical Garden.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garqi/Legends",
+  "/wiki/Bafforr_tree",
+  "/wiki/Pesktda_Xenobotanical_Garden",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_II:_Ruin",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

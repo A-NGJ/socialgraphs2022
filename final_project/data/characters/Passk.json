@@ -1,5 +1,6 @@
 {
  "name": "Passk",
+ "display_name": "Passk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Passk was a Trandoshan male living during the Galactic Civil War. He owned the curiosity shop Passk's Oddities on Martle Station.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Trandoshan/Legends",

@@ -1,0 +1,57 @@
+{
+ "name": "Rat_(Human)",
+ "display_name": "Rat  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rat was a male Human who worked as an information broker on the moon Nar Shaddaa during the time of the Galactic Civil War.\nIn 3 ABY, Rat met with a group of Rebel Alliance agents on Nar Shaddaa, whom sought to learn information regarding the Dark Jedi Thaum Rystra. However, the Hutt Brinojja sent a group of thugs to capture Rat, and they attacked Rat and the agents. The agents subsequently fled Nar Shaddaa in their YT-1300 light freighter Lazy Katarn, and Rat accompanied them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Rat/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Thaum_Rystra",
+  "/wiki/Hutt/Legends",
+  "/wiki/Brinojja",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Lazy_Katarn",
+  "/wiki/Soulsaber_(adventure)",
+  "/wiki/Light_and_Dark_(adventure)"
+ ]
+}

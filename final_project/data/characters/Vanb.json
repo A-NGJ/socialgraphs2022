@@ -1,0 +1,36 @@
+{
+ "name": "Vanb",
+ "display_name": "Vanb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vanb was a male Sullustan bartender working at a cantina in the Wroona starport during the reign of the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blaine_Hansom",
+  "/wiki/Wroona/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vanb",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition,_Revised_and_Expanded"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Slarm_(Gungan)",
+ "display_name": "Slarm  (Gungan)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Otolla Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gungan societyGungan High Council",
+      "Gungan High Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rep Slarm was a Gungan, one of the many who served on Boss Rugor Nass' Council. Slarm was known as the best bubble wort engineer in Otoh Gunga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Slarm_(Human)",
+  "/wiki/Naboo/Legends",
+  "/wiki/Otolla/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gungan_society",
+  "/wiki/Gungan_High_Council/Legends",
+  "/wiki/Rep/Legends",
+  "/wiki/Boss/Legends",
+  "/wiki/Rugor_Nass/Legends",
+  "/wiki/Bubble_wort/Legends",
+  "/wiki/Otoh_Gunga/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace_(video_game)",
+  "/wiki/Secrets_of_Naboo",
+  "/wiki/Star_Wars:_The_Phantom_Menace:_The_Expanded_Visual_Dictionary"
+ ]
+}

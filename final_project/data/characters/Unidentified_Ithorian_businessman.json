@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Ithorian_businessman",
+ "display_name": "Unidentified Ithorian businessman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian businessman founded the Far Orbit Resort and Lodge on Athiss. He was later bought out by his Rodian partner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Far_Orbit_Resort_and_Lodge",
+  "/wiki/Athiss/Legends",
+  "/wiki/Gender",
+  "/wiki/Rodian/Legends",
+  "/wiki/Unidentified_Rodian_business_partner",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Lost_Knowledge",
+  "/wiki/Star_Wars:_Force_and_Destiny_Beta"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Mordaph_Clafdatha",
+ "display_name": "Mordaph Clafdatha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Mordaph Clafdatha was an officer who served in the Imperial Starfleet during the Galactic Civil War.\nCaptain Clafdatha and Lieutenant Jord Kraas compiled the report V492771R225Y which detailed the capabilities and specifications of select starships used by the Galactic Empire, Rebel Alliance and other neutral parties, delivered in an incomplete form to Darth Vader, along with a plea for forgiveness regarding its state.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Jord_Kraas",
+  "/wiki/Technical_Specifications:_Spacecraft_of_the_Imperium_and_the_Rebel_Alliance",
+  "/wiki/Starship/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/The_Farlander_Papers",
+  "/wiki/X-Wing:_The_Official_Strategy_Guide",
+  "/wiki/X-Wing_Collector%27s_CD-ROM:_The_Official_Strategy_Guide"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Cooper",
+ "display_name": "Cooper",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Cooper was a human male who operated for the Resistance on Batuu. He requested assistance with performing diagnostics on a T-70 X-wing starfighter.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

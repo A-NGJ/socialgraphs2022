@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_customs_officer",
+ "display_name": "Unidentified customs officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Humanoid customs officer was responsible for overseeing Docking Bay 94 in 0 ABY. He accepted a modest bribe of one hundred credits from the crew of the Alabak's Gold, an Alliance to Restore the Republic ship.\nThis officer is visually similar to the non-canon character Skreen, the technical director of the Manifold Mollusk Matrix and Matrimony Association from Lusaanda.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine_Manhunt",
+  "/wiki/Docking_Bay_94/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Alabak%27s_Gold",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Skreen",
+  "/wiki/Manifold_Mollusk_Matrix_and_Matrimony_Association",
+  "/wiki/Lusaanda"
+ ]
+}

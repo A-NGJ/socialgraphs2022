@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Imperial_officer_(sniper)",
+ "display_name": "Unidentified Imperial officer  (sniper)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human officer served the Galactic Empire during the Galactic Civil War. At some point he was accompanied by a stormtrooper when he found himself in the crosshairs of a hostile sniper.\nThis character was depicted on the \"Sure Shot\" card of the Champions of the Force, the base set of the Star Wars Galaxies Trading Card Game, which was illustrated by artist Svetlin Velinov.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Sniper/Legends",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Svetlin_Velinov",
+  "/wiki/Template:SWGTCG"
+ ]
+}

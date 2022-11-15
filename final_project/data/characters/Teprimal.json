@@ -1,0 +1,55 @@
+{
+ "name": "Teprimal",
+ "display_name": "Teprimal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teprimal was an New Republic captain and starfighter instructor about the Nebulon-B Frigate Tedevium. He worked with Colonel Atton Repness, and was a conspirator in the colonel's black-market scheme. Lara Notsil recorded a conversation between Repness and Teprimal about the theft and subsequent sale of an A-wing starfighter. Notsil exposed Teprimal along with Repness when she secretly passed the information along to Director of New Republic Intelligence Airen Cracken.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Tedevium",
+  "/wiki/Colonel/Legends",
+  "/wiki/Atton_Repness",
+  "/wiki/Gara_Petothel",
+  "/wiki/RZ-1_A-wing_interceptor/Legends",
+  "/wiki/Director_of_New_Republic_Intelligence",
+  "/wiki/Airen_Cracken/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teprimal",
+  "/wiki/X-Wing:_Iron_Fist"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Trence_Vosh",
+ "display_name": "Trence Vosh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trence Vosh was an Alderaanian male Human who served the Galactic Republic as the captain of the Dreadnaught-class heavy cruiser Leviathan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Dreadnaught-class_heavy_cruiser",
+  "/wiki/Leviathan_(Dreadnaught-class)",
+  "/wiki/Starships_of_the_Galaxy"
+ ]
+}

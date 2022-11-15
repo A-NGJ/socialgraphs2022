@@ -1,0 +1,27 @@
+{
+ "name": "Zobara",
+ "display_name": "Zobara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zobara was a Hutt of old who wandered the galaxy, like his fellow Hutt, Noh. He had also supposedly ascended to god-hood.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Noh",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zobara",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

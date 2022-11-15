@@ -1,0 +1,62 @@
+{
+ "name": "Zooki",
+ "display_name": "Zooki",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zooki was a male Rodian who lived on Coruscant during the Cold War. He worked for Gambo, a Black Sun enforcer. Zooki met all of Gambo's visitors in the Dealer's Den, and warned a traveling hero that he shouldn't try to arrest Gambo. The hero did it anyway, either convincing Gambo to leave or knocking him out.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Gambo",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Dealer%27s_Den",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zooki",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

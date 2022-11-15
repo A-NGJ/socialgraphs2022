@@ -1,5 +1,6 @@
 {
  "name": "Gidd",
+ "display_name": "Gidd",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Gidd was a legendary Cerean female warrior who supposedly traveled from the stars.\nMany female Cereans were named after her.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Cerea/Legends",

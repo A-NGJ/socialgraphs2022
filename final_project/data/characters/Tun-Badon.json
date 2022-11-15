@@ -1,0 +1,65 @@
+{
+ "name": "Tun-Badon",
+ "display_name": "Tun-Badon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 1032 BBY",
+      "Gazzari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sanyassan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rusher's BrigadeSerraknife Battalion",
+      "Serraknife Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tun-Badon was a male Sanyassan who lived during the Republic Dark Age. He was a member of the mercenary group Rusher's Brigade and commanded the unit Serraknife Battalion. Rusher's Brigade fought for the Sith Lord Daiman during the Battle of Gazzari, and Tun-Badon and the rest of Serraknife Battalion were killed during the engagement.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1032_BBY/Legends",
+  "/wiki/Gazzari",
+  "/wiki/Sanyassan",
+  "/wiki/Gender/Legends",
+  "/wiki/Rusher%27s_Brigade",
+  "/wiki/Serraknife_Battalion",
+  "/wiki/Republic_Dark_Age",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Daiman",
+  "/wiki/Battle_of_Gazzari",
+  "/wiki/Death/Legends",
+  "/wiki/Knight_Errant_(novel)"
+ ]
+}

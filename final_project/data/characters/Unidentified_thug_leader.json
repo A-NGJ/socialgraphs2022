@@ -1,0 +1,73 @@
+{
+ "name": "Unidentified_thug_leader",
+ "display_name": "Unidentified thug leader",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified ruffian group",
+      "Darth Krayt's Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A thug led a group of ruffians aboard the Wheel in 137 ABY. Imperial agent Morrigan Corde hired him to approach rival agent Jor Torlin due to his resemblance to Cade Skywalker. Torlin was hunting for Skywalker, and Corde needed the thug and his posse to get Torlin's attention in order to establish contact. A brawl ensued, and the thug was carried away by his friends after a sound beating.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Unidentified_ruffian_group",
+  "/wiki/Darth_Krayt%27s_Galactic_Empire",
+  "/wiki/The_Wheel/Legends",
+  "/wiki/137_ABY",
+  "/wiki/Agent/Legends",
+  "/wiki/Morrigan_Corde",
+  "/wiki/Jor_Torlin",
+  "/wiki/Cade_Skywalker",
+  "/wiki/Hunting/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_thug_leader",
+  "/wiki/Legacy_(2006)_9"
+ ]
+}

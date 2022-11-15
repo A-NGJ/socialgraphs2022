@@ -1,0 +1,75 @@
+{
+ "name": "Yet_Jub",
+ "display_name": "Yet Jub",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Ilum"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yet Jub was a male Sullustan commander in the Republic Army, he aided Supreme Commander Rans along with Commanders Jiyan Dar and Caroowar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Ilum/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Supreme_Commander",
+  "/wiki/Rans",
+  "/wiki/Jiyan_Dar",
+  "/wiki/Caroowar",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

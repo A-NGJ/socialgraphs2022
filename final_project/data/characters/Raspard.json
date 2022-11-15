@@ -1,5 +1,6 @@
 {
  "name": "Raspard",
+ "display_name": "Raspard",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Raspard was a female Human mercenary member of the InterStellar Regulators. During the Conquest of Makeb, she contacted the Regulator post 2X9 in Communications Bunker 75 for the all-clear signal.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

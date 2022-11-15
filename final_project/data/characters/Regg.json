@@ -1,5 +1,6 @@
 {
  "name": "Regg",
+ "display_name": "Regg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Regg was a male Rodian bartender working in Mos Ila's Siltshift cantina on Tatooine during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

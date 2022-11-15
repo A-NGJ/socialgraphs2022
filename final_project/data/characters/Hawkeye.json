@@ -1,5 +1,6 @@
 {
  "name": "Hawkeye",
+ "display_name": "Hawkeye",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -57,7 +58,7 @@
   }
  ],
  "content": "\"Hawkeye\" was the nickname for a clone trooper that served in the Grand Army of the Republic during the Clone Wars. Hawkeye joined Jedi General Mace Windu, Clone Commander CT-411 \"Ponds,\" and \"Trapper\" on Malastare, where they encountered the Zillo Beast. As the Republic soldiers tried to escape, Hawkeye was trampled to death by the creature. The others managed to escape, however.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hawkeye",

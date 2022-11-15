@@ -1,0 +1,65 @@
+{
+ "name": "Tralie_Masoon",
+ "display_name": "Tralie Masoon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Hazel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Hyland Organization for Rakghoul Neutralization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tralie Masoon was a Human female employee of the Hyland Organization for Rakghoul Neutralization during the era of the Galactic War. She was present during the rakghoul pandemic on Alderaan, stationed in the medical tent near Castle Organa where she was organizing THORN efforts in the area and recruiting Republic volunteers for various tasks in the rakghoul tunnels. Later, she also assisted THORN in Anchorhead on Tatooine and in the Blastfield Shipyards on Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/The_Hyland_Organization_for_Rakghoul_Neutralization",
+  "/wiki/Galactic_War",
+  "/wiki/Rakghoul_pandemic",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Castle_Organa",
+  "/wiki/Rakghoul_tunnels",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Blastfield_Shipyards",
+  "/wiki/Corellia/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

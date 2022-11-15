@@ -1,0 +1,60 @@
+{
+ "name": "Tayala_Lees",
+ "display_name": "Tayala Lees",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kinyen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Office of Agricultural Export"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tayala Lees was a female farmer who ran the Ayanee Farming Cluster, a group of six silvergrass farms. Under orders from the Office of Agricultural Export, Lees funneled ten percent of her farms' crops to the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kinyen/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Office_of_Agricultural_Export",
+  "/wiki/Farmer/Legends",
+  "/wiki/Ayanee_Farming_Cluster",
+  "/wiki/Silvergrass",
+  "/wiki/Farm/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

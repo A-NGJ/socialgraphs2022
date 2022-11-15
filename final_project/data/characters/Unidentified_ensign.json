@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_ensign",
+ "display_name": "Unidentified ensign",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "13 ABY",
+      "Endor over RZ7-6113-23"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicNew Republic Defense Fleet",
+      "New Republic Defense Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human served as an ensign aboard the New Republic Dauntless-class heavy cruiser Endor. In 13 ABY, the Endor went on a patrol near the planetoid RZ7-6113-23 and intercepted two TIE/sr starfighters. They followed the starfighters until the ensign detected large energy spike coming from the planetoid and warned the captain, who then realized the trap and ordered a withdrawal. The order came too late as the Endor was destroyed by a single blast from the fully charged cannon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Endor_(Dauntless-class)",
+  "/wiki/RZ7-6113-23",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Unidentified_captain_(Endor)",
+  "/wiki/Dauntless-class_heavy_cruiser",
+  "/wiki/Planetoid/Legends",
+  "/wiki/TIE/sr_starfighter",
+  "/wiki/Ambush_at_RZ7-6113-23",
+  "/wiki/Crimson_Empire_III:_Empire_Lost_1"
+ ]
+}

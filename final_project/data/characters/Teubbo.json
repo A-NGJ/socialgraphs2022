@@ -1,0 +1,43 @@
+{
+ "name": "Teubbo",
+ "display_name": "Teubbo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teubbo was a Hutt economist who became a supporter of the Imperial warlord Zsinj in the time following the Battle of Endor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Time/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teubbo",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

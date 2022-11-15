@@ -1,0 +1,69 @@
+{
+ "name": "Vop",
+ "display_name": "Vop",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Song of the Clouds"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vop the Usurer was a male Rodian tyrant. He had a reputation for an abrasive style and an odor of cheap raava.\nVop's main rival was a Bimm named Ritinki. The two had agreed to meet aboard the Ithorian Herdship Song of the Clouds to discuss a possible alliance. While among the Ithorians, Vop had planned to purchase a sealed lockbox containing an infamous Hapan Gun of Command, desired by many crime lords in the Outer Rim. Rintinki found out about the arrangements, and in an attempt to spoil the transaction and acquire the gun for himself, had Vop's cyborg accountant Lyle Lippstroot neutralized and replaced with a duplicate.\nUnbeknown to either of the crimelords, Guttu the Hutt also desired the box and had dispatched a team to steal it. When Vop and Ritinki's meeting did go ahead, Vop was shot in the back during an ensuing firefight. The gun was captured by Guttu's agents, who decided to sell it to the Rebel Alliance for a profit instead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Song_of_the_Clouds",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Raava",
+  "/wiki/Bimm/Legends",
+  "/wiki/Ritinki",
+  "/wiki/Ithorian_Herdship/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Lockbox",
+  "/wiki/Hapan",
+  "/wiki/Gun_of_Command",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Cyborg/Legends",
+  "/wiki/Lyle_Lippstroot",
+  "/wiki/Guttu",
+  "/wiki/Hutt/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Great_Herdship_Heist",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

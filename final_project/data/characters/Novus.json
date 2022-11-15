@@ -1,5 +1,6 @@
 {
  "name": "Novus",
+ "display_name": "Novus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Novus was a male Twi'lek Fallanassi.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

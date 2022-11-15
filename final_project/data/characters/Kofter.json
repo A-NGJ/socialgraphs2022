@@ -1,5 +1,6 @@
 {
  "name": "Kofter",
+ "display_name": "Kofter",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kofter was a Human male thug working for Nuso Esva on Poln Major. Luke Skywalker killed Kofter with his Lightsaber.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/0_ABY/Legends",

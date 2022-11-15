@@ -1,0 +1,56 @@
+{
+ "name": "Kabul_family",
+ "display_name": "Kabul family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Lorn Kabul"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Otunia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Kabul Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Kabul family was a Human family based on Otunia.\nFor generations they owned Kabul Industries which also served as a prison camp, as most of Otunia's criminals were sentences to work there by the Otunian authorities. Kabul Industries ceased to exist after the mines were blown up by a family member who sought revenge on another.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Lorn_Kabul",
+  "/wiki/Otunia",
+  "/wiki/Kabul_Industries",
+  "/wiki/Seth_Kabul",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Arista_Kabul",
+  "/wiki/Grissom_(Gamorrean)",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Three_Against_the_Galaxy",
+  "/wiki/Star_Wars_Tales_3"
+ ]
+}

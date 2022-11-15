@@ -1,0 +1,48 @@
+{
+ "name": "Thothash",
+ "display_name": "Thothash",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cult of Ki Sazen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thothash was a male Nikto living during the Cold War and a member of the Cult of Ki Sazen, a Nikto cult that worshiped the fallen Jedi Ki Sazen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cult_of_Ki_Sazen",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Ki_Sazen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thothash",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

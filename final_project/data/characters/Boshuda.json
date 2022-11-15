@@ -1,5 +1,6 @@
 {
  "name": "Boshuda",
+ "display_name": "Boshuda",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Boshuda was a Kashyyyk bolstyngar that placed second in the Annual Mid-Rim Domesticated Sub-Sentient Show. When the winner, a wilwog named Itipiniwi won, it became excited, thus annoying the sensitive bolstyngar. Boshuda ate the wilwog and was subsequently awarded Best in Show due to forfeit since the rules never dealt with the winner being eaten.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bolstyngar",

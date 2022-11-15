@@ -1,0 +1,57 @@
+{
+ "name": "Vultar_the_Ugly",
+ "display_name": "Vultar the Ugly",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Pior to 0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vultar the Ugly was a Trandoshan criminal killed by cyborg bounty hunter Gorm the Dissolver many years before the Battle of Yavin. Gorm removed Vultar's left forearm and grafted it onto his own body.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Gorm_(cyborg)",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vultar_the_Ugly",
+  "/wiki/The_Essential_Guide_to_Droids",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_116"
+ ]
+}

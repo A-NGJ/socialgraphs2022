@@ -1,0 +1,39 @@
+{
+ "name": "Spa_Fon",
+ "display_name": "Spa Fon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lonjair"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spa Fon was a male Lonjair who dealt in stolen and wanted goods. He supplied art collector Shulf'aa with two Ves Volette light sculptures.\nDuring his investigation of the sculptor's murder, Jax Pavan, along with Den Dhur, paid a visit to Fon. Unbeknownst to the two, Fon pretended to be a bodyguard and had a Nuknog droid act as him. Pavan questioned Fon at length regarding his possible involvement in the murder and taking offense, ordered the leader of his bodyguards, Sele, to dispatch the two. Pavan defeated Sele while Dhur caught the real Fon trying to escape. Using the Force, Pavan was able to determine that Fon wasn't lying about not being involved in the murder.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lonjair",
+  "/wiki/Gender/Legends",
+  "/wiki/Jax_Pavan",
+  "/wiki/Shulf%27aa",
+  "/wiki/Ves_Volette",
+  "/wiki/Den_Dhur",
+  "/wiki/Nuknog/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Sele_(Cathar)",
+  "/wiki/The_Force/Legends",
+  "/wiki/Coruscant_Nights_II:_Street_of_Shadows"
+ ]
+}

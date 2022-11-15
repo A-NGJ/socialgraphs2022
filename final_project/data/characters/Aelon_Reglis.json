@@ -1,0 +1,49 @@
+{
+ "name": "Aelon_Reglis",
+ "display_name": "Aelon Reglis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chandrila"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aelon Reglis was a gambler and family man from Chandrila.\nAelon Reglis was a gambler from the planet Chandrila. Wanting to live adventures among the stars, he bought the Adventurer, a Crescent-class transport Mark II built by Hyrotii Corporation. Soon after making the purchase, Reglis met a bureaucrat from Chandrila, fell in love with her, married her and had a child, Lynx. Reglis settled and, during the weekends, he sat on his parked ship to daydream.\nLynx Reglis eventually graduated in the Imperial Academy. Aelon gave her the Adventurer as a present, hoping she could get more profit from the ship that he did.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gambling/Legends",
+  "/wiki/Adventurer_(Crescent-class)",
+  "/wiki/Crescent-class_Transport",
+  "/wiki/Hyrotii_Corporation/Legends",
+  "/wiki/Lynx_Reglis",
+  "/wiki/Imperial_Academy/Legends",
+  "/wiki/Stock_Ships"
+ ]
+}

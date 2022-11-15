@@ -1,0 +1,43 @@
+{
+ "name": "Ssiskor",
+ "display_name": "Ssiskor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kriekaal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kriek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ssiskor was a kulai shaman of the Kriek. According to legend, Ssiskor provoked the goddess Br'lai, who rose up and destroyed an alien force that had tried to claim Kriekaal as their own.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kriekaal",
+  "/wiki/Kriek",
+  "/wiki/Kulai",
+  "/wiki/Shaman/Legends",
+  "/wiki/Deity/Legends",
+  "/wiki/Br%27lai",
+  "/wiki/Alien/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Scouts%27_Dispatch",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Gungan_gambler",
+ "display_name": "Unidentified Gungan gambler",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gungan male who met once with Sylvestri Yarrow, spoke the common language with such a bizarre dialect that he inevitably seemed frivolous and a little foolish of it: all because it made it easier to free his chosen ones from their credits in the port game caves.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gungan",
+  "/wiki/Gender",
+  "/wiki/Sylvestri_Yarrow",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gungan_gambler",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)"
+ ]
+}

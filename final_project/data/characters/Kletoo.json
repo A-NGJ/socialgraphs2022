@@ -1,5 +1,6 @@
 {
  "name": "Kletoo",
+ "display_name": "Kletoo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kletoo was a Rodian mercenary. He delivered a parcel to a man known only as \"D\" in a back alley bar in Tolea Biqua. After the exchange was made, Kletoo was forcefully escorted outside the by two Trandoshan henchmen and killed.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

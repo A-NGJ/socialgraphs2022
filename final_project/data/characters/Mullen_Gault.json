@@ -1,0 +1,96 @@
+{
+ "name": "Mullen_Gault",
+ "display_name": "Mullen Gault",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "44 BBY",
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Moisture farmer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mullen Gault was a male Human moisture farmer, son of Orrin Gault and brother of the twins Varan and Veeka Gault.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Orrin_Gault",
+  "/wiki/Varan_Gault",
+  "/wiki/Veeka_Gault",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mullen_Gault",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

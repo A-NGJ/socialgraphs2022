@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_Toydarian_merchant",
+ "display_name": "Unidentified Toydarian merchant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Toydarian merchant operated in Vashka City on the planet Vashka. During the mission to Vashka, Bazine Netal inquired about the latest baffleweave technology with the Toydarian and drove a hard bargain on a ripped gray and black shirt. She however threatened to gut him if his goods were counterfeit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Toydarian",
+  "/wiki/Gender",
+  "/wiki/Merchant",
+  "/wiki/Vashka_City",
+  "/wiki/Planet",
+  "/wiki/Vashka",
+  "/wiki/Mission_to_Vashka",
+  "/wiki/Bazine_Netal",
+  "/wiki/Baffleweave",
+  "/wiki/Color",
+  "/wiki/The_Perfect_Weapon"
+ ]
+}

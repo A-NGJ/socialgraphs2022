@@ -1,5 +1,6 @@
 {
  "name": "Bluebrow",
+ "display_name": "Bluebrow",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Bluebrow was an Ithorian pirate and a fairy tale character appearing in some songs and rhymes taught to younglings across the Core Worlds. Like Princess Chaia of Alderaan, his character was fictional, but rooted in fact.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ithorian",

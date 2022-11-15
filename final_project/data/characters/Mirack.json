@@ -1,5 +1,6 @@
 {
  "name": "Mirack",
+ "display_name": "Mirack",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Mirack was a male Nephran who was part of a pirate crew led by Grox.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Nephran",

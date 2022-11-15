@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_Gungan_priest",
+ "display_name": "Unidentified Gungan priest",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Gungan priest worshiped the Oma-Oma deity and encouraged other Gungans to be worthy of his gift of life.\nThis character was depicted on the \"Gungan Priest\" card of the Champions of the Force, the base set of the Star Wars Galaxies Trading Card Game, which was illustrated by artist Spark Lee.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Priest_(disambiguation)",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Oma-Oma",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Template:SWGTCG"
+ ]
+}

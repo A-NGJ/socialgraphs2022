@@ -1,0 +1,67 @@
+{
+ "name": "Umbrag",
+ "display_name": "Umbrag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 21 BBY",
+      "a freighter en route to Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Skakoan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Techno Union",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Umbrag was a Skakoan living during the Clone Wars, who was an overseer in the Techno Union.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Skakoan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Techno_Union/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Overseer_(CIS)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Umbrag",
+  "/wiki/The_Clone_Wars:_Secret_Missions_1:_Breakout_Squad",
+  "/wiki/The_Clone_Wars:_Secret_Missions_2:_Curse_of_the_Black_Hole_Pirates",
+  "/wiki/The_Clone_Wars:_Secret_Missions_3:_Duel_at_Shattered_Rock",
+  "/wiki/The_Clone_Wars:_Secret_Missions_4:_Guardians_of_the_Chiss_Key",
+  "/wiki/The_Clone_Wars:_Strange_Allies"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Kirroo",
+ "display_name": "Kirroo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kirroo was a Wookiee who was being held captive by the Galactic Empire on the planet Corellia. He was rescued by Han, Qi'ra, and Tsuulo. Kirroo worked for Jenra.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Wookiee",

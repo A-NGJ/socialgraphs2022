@@ -1,5 +1,6 @@
 {
  "name": "Peblak",
+ "display_name": "Peblak",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Peblak was a male Ugnaught who lived on Nal Hutta during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ugnaught/Legends",

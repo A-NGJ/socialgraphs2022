@@ -1,0 +1,31 @@
+{
+ "name": "Venorra",
+ "display_name": "Venorra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Venorra was a Gamorrean and a member of the same clan as Ortugg. Venorra sold Ortugg into Jabba the Hutt's service.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Ortugg",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Ortugg%27s_Letter_Home",
+  "/wiki/The_Star_Wars_Sourcebook",
+  "/wiki/Star_Wars_Sourcebook_(Second_Edition)",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

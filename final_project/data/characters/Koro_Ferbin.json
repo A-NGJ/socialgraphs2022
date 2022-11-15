@@ -1,0 +1,46 @@
+{
+ "name": "Koro_Ferbin",
+ "display_name": "Koro Ferbin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Alien"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koro Ferbin was a male alien, who worked as an information broker during the waning years of the Galactic Republic.\nIn c. 22 BBY, during the time of the Clone Wars, Ferbin was present in the Outlander Club on the planet Coruscant when he was approached by a Jedi Padawan. The Padawan was trying to find out who was responsible for a recent attack on the Galactic Senate, and wanted to obtain this information from Ferbin. After seeing that the Padawan was carrying a large amount of credits, Ferbin happily divulged the information, revealing that the bounty hunter Vogg Barakk was responsible for the attack, and that Barakk was hiding out in the Works district of Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Outlander_Club/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Sector_943",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_Crisis_on_Coruscant"
+ ]
+}

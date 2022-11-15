@@ -1,0 +1,37 @@
+{
+ "name": "Tyra",
+ "display_name": "Tyra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyra was a thirteen year old human female who at some point traveled to Canto Bight aboard the Wayward Current.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Standard_year",
+  "/wiki/Canto_Bight",
+  "/wiki/Wayward_Current",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tyra",
+  "/wiki/The_Legends_of_Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker_(audiobook)"
+ ]
+}

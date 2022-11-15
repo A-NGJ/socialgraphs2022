@@ -1,0 +1,58 @@
+{
+ "name": "Markos_Tor",
+ "display_name": "Markos Tor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Markos Tor was a Human male officer in the Alliance Fleet. Injured in combat, he was sent to recuperate on Stronghold with his wife and child. During his convalescence, the Charon attacked the planet, and Tor led the Alliance defenders.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Alliance_Fleet",
+  "/wiki/Stronghold_(planet)",
+  "/wiki/Charon",
+  "/wiki/Battle_of_Stronghold",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Markos_Tor",
+  "/wiki/Otherspace_II:_Invasion"
+ ]
+}

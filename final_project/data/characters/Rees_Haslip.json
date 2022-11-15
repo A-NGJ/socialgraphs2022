@@ -1,0 +1,55 @@
+{
+ "name": "Rees_Haslip",
+ "display_name": "Rees Haslip",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "RH Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rees Haslip was the founder of RH Mining Corporation on the planet Garos IV. Haslip's daughter, Keriin, took over control of the company.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rees",
+  "/wiki/Garos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/RH_Mining_Corporation",
+  "/wiki/Planet/Legends",
+  "/wiki/Keriin_Haslip",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rees_Haslip",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Turning_Point_(Charlene_Newcomb)",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

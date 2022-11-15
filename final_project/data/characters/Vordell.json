@@ -1,0 +1,65 @@
+{
+ "name": "Vordell",
+ "display_name": "Vordell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vordell was a male Human smuggler from Corellia. He was known for being ruthless and not having a conscience. He was overweight and wore oversized shirts to hide his girth, and had a thick goatee of brown hair that matched the wavy, but graying, hair on his head.\nVordell was the pilot of the Lost Opportunity, a Ghtroc 720 freighter.\nVordell discovered the floating wreckage of the battleship Starworm and sold its location to many people, including Sude Raalo and Geelo.\nHe was caught by Imperial Customs officers from the Imperial customs corvette Auditor. He sold out his allies to prevent himself from getting sent to the spice mines of Kessel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Shirt",
+  "/wiki/Hair/Legends",
+  "/wiki/Lost_Opportunity",
+  "/wiki/Class_720_freighter",
+  "/wiki/Freighter/Legends",
+  "/wiki/Lucrehulk-class_battleship",
+  "/wiki/Starworm",
+  "/wiki/Sude_Raalo",
+  "/wiki/Geelo",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Light_corvette/Legends",
+  "/wiki/Auditor_(corvette)",
+  "/wiki/Spice/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

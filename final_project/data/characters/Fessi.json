@@ -1,5 +1,6 @@
 {
  "name": "Fessi",
+ "display_name": "Fessi",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Fessi was an Human female who worked as a dancer in Orman's Sky Palace on the planet Lianna.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

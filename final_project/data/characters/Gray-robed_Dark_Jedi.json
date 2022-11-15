@@ -1,0 +1,60 @@
+{
+ "name": "Gray-robed_Dark_Jedi",
+ "display_name": "Gray-robed Dark Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Darth Malak"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a Dark Jedi in Revan's Sith Empire. When Darth Malak seized control of the Empire, this Dark Jedi swore allegiance to the new Dark Lord and was considered by Malak to be one of his three most powerful followers.\nThis Dark Jedi was a wielder of Jar'Kai combat.\nThis Dark Jedi appears only in the non-canon dark side ending in Star Wars: Knights of the Old Republic, where he is killed by Revan and Bastila Shan. As this event does not occur in the official Star Wars chronology, he is assumed to have lived through the Jedi Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Darth_Malak",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Jar%27Kai/Legends",
+  "/wiki/Lightsaber_combat/Legends",
+  "/wiki/Canon",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/Bastila_Shan",
+  "/wiki/Star_Wars",
+  "/wiki/Jedi_Civil_War"
+ ]
+}

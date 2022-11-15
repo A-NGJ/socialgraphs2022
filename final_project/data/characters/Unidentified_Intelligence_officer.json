@@ -1,0 +1,68 @@
+{
+ "name": "Unidentified_Intelligence_officer",
+ "display_name": "Unidentified Intelligence officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female agent worked for the Sith Empire during the Cold War. She was seen on Korriban working with an Inquisitor Arzanon, searching for traitor acolytes in the Sith Academy who wanted to throw down the Sith Emperor's order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Korriban",
+  "/wiki/Sith_Inquisitor",
+  "/wiki/Arzanon",
+  "/wiki/Sith_Acolyte",
+  "/wiki/Sith_Academy_(Korriban)",
+  "/wiki/Tenebrae",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

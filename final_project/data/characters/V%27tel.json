@@ -1,0 +1,38 @@
+{
+ "name": "V%27tel",
+ "display_name": "V'tel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jeedai heresy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "V'tel was a subordinate acolyte and rival of Yu'shaa in the Jeedai heresy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Jeedai_heresy",
+  "/wiki/Nom_Anor",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_human_miner",
+ "display_name": "Unidentified human miner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "34 ABY",
+      "Pressy's Tumble"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human miner worked at a refinery complex on the asteroid Pressy's Tumble, which was owned by the First Order. He organized a strike due to the harsh living and working conditions on the mining colony. However, Captain Phasma arrived with four stormtroopers and executed him along with other strikers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/34_ABY",
+  "/wiki/Pressy%27s_Tumble",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Pressy%27s_Tumble_refinery_complex",
+  "/wiki/Asteroid",
+  "/wiki/First_Order",
+  "/wiki/Strike_at_Pressy%27s_Tumble",
+  "/wiki/Captain",
+  "/wiki/Phasma",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Death",
+  "/wiki/Before_the_Awakening",
+  "/wiki/The_Force_Awakens:_Finn%27s_Story"
+ ]
+}

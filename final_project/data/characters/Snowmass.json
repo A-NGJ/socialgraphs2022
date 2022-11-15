@@ -1,0 +1,57 @@
+{
+ "name": "Snowmass",
+ "display_name": "Snowmass",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Regosh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Molpol's Traveling Circus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snowmass was an albino rancor in Molpol's Traveling Circus. After the Black Hole Pirates forced a landing by a small fleet of ships maintained by the circus to land on the moon of Regosh, the pirates stole the circus' lander. None of the remaining craft had the capacity to evacuate the larger circus animals, including Snowmass, so they were left to adapt to the moon's native habitat. Snowmass was said to be enjoying freedom in the wild.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Regosh",
+  "/wiki/Rancor/Legends",
+  "/wiki/Molpol%27s_Traveling_Circus",
+  "/wiki/Albino",
+  "/wiki/Black_Hole_Gang/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Circus/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/C-9979_landing_craft/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

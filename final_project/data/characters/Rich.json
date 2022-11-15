@@ -1,5 +1,6 @@
 {
  "name": "Rich",
+ "display_name": "Rich",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Rich was a young Human male technician in the Rebel Alliance. He was stationed at Yavin 4 at the time of the battle there and was an admirer of Luke Skywalker.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

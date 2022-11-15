@@ -1,5 +1,6 @@
 {
  "name": "Baan",
+ "display_name": "Baan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "\"Big Bantha\" Baan was a male Human involved in illicit contraband in the city Iziz on the planet Onderon, in 3627 BBY. That year, he was defeated by an individual fighting the illegal trade and arrested by Iziz city guards.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

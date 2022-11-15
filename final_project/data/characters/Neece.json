@@ -1,5 +1,6 @@
 {
  "name": "Neece",
+ "display_name": "Neece",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Neece was a Rutan prison employee. He controlled the entries into this prison. Three of these entries were Qui-Gon Jinn, Padawan Obi-Wan Kenobi, and Drenna.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rutan/Legends",

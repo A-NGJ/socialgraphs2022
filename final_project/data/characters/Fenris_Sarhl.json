@@ -1,0 +1,58 @@
+{
+ "name": "Fenris_Sarhl",
+ "display_name": "Fenris Sarhl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "COMPNOR",
+      "CompForce",
+      "COMPNOR",
+      "CompForce",
+      "CompForce"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fenris Sarhl was a male Human who held the rank of major in CompForce, the military wing of the Galactic Empire's Commission for the Preservation of the New Order. At some point during the Galactic Civil War, he was deployed to Demnadi, following attacks and riots organized by the Alliance to Restore the Republic. When the planet's administrator, Governor Cathers, questioned how many squads Sarhl's relief force consisted of, the major answered that he was the only one who was sent.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fenris_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commission_for_the_Preservation_of_the_New_Order/Legends",
+  "/wiki/CompForce/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Demnadi",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Cathers",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

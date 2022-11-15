@@ -1,5 +1,6 @@
 {
  "name": "Harrum",
+ "display_name": "Harrum",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Sergeant Harrum was a Weequay male who served the Galactic Republic during the Cold War.\nStationed on Nar Shaddaa, he believed that the Sith Empire was hiring mercenaries to fight their illegal battles on the planet. He tasked a Republic spacer to search the Imperial mercenary camp and find proof that the Empire hired them for these illegal raids.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Weequay/Legends",

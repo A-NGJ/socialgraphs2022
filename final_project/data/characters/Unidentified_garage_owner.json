@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_garage_owner",
+ "display_name": "Unidentified garage owner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Klatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This garage owner lived on Klatooine, who acquired the Klatooinian Barada from his parents. Barada was sold due to being a disrespectful child and became the garage owner's indentured servant.\nAt a later date, the owner was challenged by Jabba the Hutt to a game of sabacc. Jabba rigged the game, and the garage owner soon lost both his garage and Barada.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Klatooine/Legends",
+  "/wiki/Klatooinian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Barada/Legends",
+  "/wiki/Youngling/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/The_Essential_Guide_to_Characters"
+ ]
+}

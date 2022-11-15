@@ -1,0 +1,71 @@
+{
+ "name": "V-Haad",
+ "display_name": "V-Haad",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keganite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Tall"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Balding"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "V-Haad was a tall, balding male Human, one of two Hospitality Guides who introduced Jedi Knights Obi-Wan Kenobi and Qui-Gon Jinn to the planet of Kegan. His female counterpart was O-Rina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/Keganite",
+  "/wiki/Gender/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Hospitality_Guide",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/O-Rina",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/V-Haad",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

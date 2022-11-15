@@ -1,5 +1,6 @@
 {
  "name": "Bristow",
+ "display_name": "Bristow",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Bristow was a male Human Imperial captain on Shramar in 25 ABY during the Yuuzhan Vong War, fighting in the Battle of Shramar alongside Kaye Galfridian against the Yuuzhan Vong's ground forces.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

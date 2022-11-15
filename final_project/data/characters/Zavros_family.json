@@ -1,0 +1,53 @@
+{
+ "name": "Zavros_family",
+ "display_name": "Zavros family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "First member(s)",
+     "values": [
+      "Kalatosh Zavros"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Earliest appearance",
+     "values": [
+      "Jedi Civil War"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Zavros family was a Force-sensitive family of Togruta that existed as early as the Jedi Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Kalatosh_Zavros",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

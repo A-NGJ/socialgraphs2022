@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Resistance_recruit",
+ "display_name": "Unidentified Resistance recruit",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Resistance recruit was a red-haired Human member of the Resistance recruited at Batuu's Black Spire Outpost by Vi Moradi. The youth was fleeing a pair of First Order stormtroopers with a stolen datacard through the outpost until Moradi helped him hide.\nThe new recruit soon boarded an Intersystem Transport Ship with other Resistance members and headed into space escorted by two X-wings, one flown by Poe Dameron. They were quickly intercepted by a Resurgent-class Star Destroyer, which has exited hyperspace. The Star Destroyer dispatched three TIE fighters but Dameron's fighter quickly destroyed the enemy ships. Dameron and the recruit then waved to each other before their ships jumped to lightspeed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Batuu",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Vi_Moradi",
+  "/wiki/First_Order",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Datacard",
+  "/wiki/Intersystem_Transport_Ship",
+  "/wiki/T-70_X-wing_starfighter",
+  "/wiki/Poe_Dameron",
+  "/wiki/Finalizer",
+  "/wiki/Resurgent-class_Star_Destroyer",
+  "/wiki/Hyperspace",
+  "/wiki/Star_Destroyer",
+  "/wiki/TIE/fo_space_superiority_fighter",
+  "/wiki/Lightspeed",
+  "/wiki/Star_Wars_Galaxy_of_Adventures",
+  "/wiki/Rise_of_the_Resistance"
+ ]
+}

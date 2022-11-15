@@ -1,5 +1,6 @@
 {
  "name": "Basz",
+ "display_name": "Basz",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Basz was a Mon Calamari male who struck a deal with the pirate Rance to kidnap Princess Roola the Hutt with the help of Pashda the Hutt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Mon_Calamari",

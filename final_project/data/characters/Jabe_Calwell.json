@@ -1,0 +1,71 @@
+{
+ "name": "Jabe_Calwell",
+ "display_name": "Jabe Calwell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "35 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Moisture farmer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jabe Calwell, was the son of Dannar and Annileen Calwell, two Human Merchants of the Pika Oasis. He was also the brother of Kallie Calwell.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/35_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Dannar_Calwell",
+  "/wiki/Annileen_Calwell",
+  "/wiki/Merchant/Legends",
+  "/wiki/Pika_Oasis/Legends",
+  "/wiki/Kallie_Calwell",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jabe_Calwell",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

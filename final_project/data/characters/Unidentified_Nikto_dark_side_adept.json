@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Nikto_dark_side_adept",
+ "display_name": "Unidentified Nikto dark side adept",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Order of the Sith Lords",
+      "Galactic Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Darth Sidious"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Nikto Dark Side Adept was trained by the Dark Lord of the Sith Darth Sidious. This adept was subjected to the effects of orbalisks by Palpatine, but could not handle the immense pain caused by the creatures. Recollecting upon the Nikto while making notes in his Book of Sith, Palpatine declared his former student to be useless.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Nikto",
+  "/wiki/Nikto/Legends",
+  "/wiki/Order_of_the_Sith_Lords",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Dark_Side_Adept",
+  "/wiki/Sith_training",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Orbalisk",
+  "/wiki/Book_of_Sith",
+  "/wiki/Book_of_Sith:_Secrets_from_the_Dark_Side"
+ ]
+}

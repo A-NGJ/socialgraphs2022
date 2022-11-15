@@ -1,0 +1,62 @@
+{
+ "name": "Thichis_Kuras",
+ "display_name": "Thichis Kuras",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kuat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thichis Kuras was a Moff in the Galactic Empire.\nA native of Kuat and a member of one of the planet's lesser noble families, Thichis Kuras was appointed a Moff by Emperor Palpatine as the Empire required an individual who could balance the various needs of the Imperial Military, the independent-minded Kuati nobility, and the increased industrial starship production and ordnance research.\nAs anti-Imperial activity increased during his reign, Moff Kuras began to crack down hard on violators. He created and enforced new military protocols, enlarged the security force, and supported the anti-insurgency work of the Imperial Security Bureau and COMPNOR.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Imperial_Military/Legends",
+  "/wiki/Kuati/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Commission_for_the_Preservation_of_the_New_Order/Legends",
+  "/wiki/The_Force_Unleashed_Campaign_Guide"
+ ]
+}

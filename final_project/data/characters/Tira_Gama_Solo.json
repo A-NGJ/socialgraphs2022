@@ -1,0 +1,66 @@
+{
+ "name": "Tira_Gama_Solo",
+ "display_name": "Tira Gama Solo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tralus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian sector"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tira Gama Solo was a Human female who was the mother of Tiion Sal-Solo and Jonash Solo. She was the grandmother of Han Solo and Thrackan Sal-Solo. She was married to Denn Solo. After she gave birth, the planet was attacked by pirates, forcing the family to flee. Splitting up in the confusion, Tira took Tiion while Den fled with Jonash, never to be seen again. When she returned to Corellia, her father erased her memories of her husband, to ease her loss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tralus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_sector/Legends",
+  "/wiki/Tiion_Sal-Solo",
+  "/wiki/Jonash_Solo",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Thrackan_Sal-Solo",
+  "/wiki/Denn_Solo",
+  "/wiki/Pirate/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tira_Gama_Solo",
+  "/wiki/The_Paradise_Snare",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

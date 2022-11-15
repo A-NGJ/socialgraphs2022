@@ -1,0 +1,80 @@
+{
+ "name": "Facet_Anamor",
+ "display_name": "Facet Anamor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Lorrd"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Facet Anamor was a female Human and the daughter of Druth Anamor.\nFacet was Executive Personnel Officer at the Imperial Research Station on the planet Toprawa and an associate of Havet Storm. Storm used this relationship with Facet to gain access to the Death Star Superlaser schematics her father had been working on. Storm then passed these plans onto the Rebellion. For this betrayal, Facet sought revenge.\nDisguised as an assassin named Diamond, Facet attacked Havet and some Rebel forces on Toprawa with a unit of Stormtroopers. She killed the Rebel leader Vermilion, but was wounded by Havet.\nDespite her wounds, Facet managed to escape from the Imperial base before the Rebels demolished it to cover their tracks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Lorrd/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Druth_Anamor",
+  "/wiki/Toprawa/Legends",
+  "/wiki/Havet_Storm",
+  "/wiki/Death_Star/Legends",
+  "/wiki/Superlaser/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Diamond_(bounty_hunter)",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Vermilion_(Rebel_Alliance)",
+  "/wiki/Jedi_Dawn",
+  "/wiki/The_Lost_Jedi_Adventure_Game_Book",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Death_in_the_Slave_Pits_of_Lorrd",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Underworld:_A_Galaxy_of_Scum_and_Villainy",
+  "/wiki/Star_Wars_Insider_89",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

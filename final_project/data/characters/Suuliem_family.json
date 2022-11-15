@@ -1,0 +1,36 @@
+{
+ "name": "Suuliem_family",
+ "display_name": "Suuliem family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Suuliem family was a Sullustan family. One member of this family occasionally flew as co-pilot for the smuggler Platt Okeefe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Platt_Okeefe/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Smuggler%27s_Log",
+  "/wiki/Star_Wars_Adventure_Journal_1",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Amatha_Fetz",
+ "display_name": "Amatha Fetz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lianna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tion Hauling"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Amatha Fetz was a Human female from the planet Lianna. She worked her way from the lower classes through hard work, a head for business, and a little piracy. Fetz was eventually accepted by the Liann upper class by owning her own shipping firm, Tion Hauling.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tion_Hauling",
+  "/wiki/Planet/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Liann",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Amatha_Fetz",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Tegg",
+ "display_name": "Tegg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Peace Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tegg was an Ugnaught member of the Peace Brigade during the Yuuzhan Vong War serving on Esfandia Long-Range Communications Base. He is best known for his actions at the Battle of Esfandia, where he attacked Galactic Alliance Commander Ashpidar by trying to electrocute her sensitive head-cones and stealing Yuuzhan Vong villip she discovered earlier. While trying to get away and call Yuuzhan Vong forces he was discovered by Leia Organa Solo and later taken care of by her daughter Jaina Solo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Peace_Brigade",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Esfandia_Long-Range_Communications_Base",
+  "/wiki/Battle_of_Esfandia",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Commander/Legends",
+  "/wiki/Ashpidar",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Villip",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

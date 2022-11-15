@@ -1,0 +1,52 @@
+{
+ "name": "Vryyyr",
+ "display_name": "Vryyyr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vryyyr was a male Wookiee who lived during the Galactic Civil War. He served as the leader of the hunters who resided in Kachirho. He made a living by taking off-world hunters into the Shadowlands of Kashyyyk's forests to track down and kill dangerous creatures.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Kachirho/Legends",
+  "/wiki/Shadowlands/Legends",
+  "/wiki/Forest/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vryyyr",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Star_Wars_Galaxy_Magazine"
+ ]
+}

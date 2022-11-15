@@ -1,0 +1,35 @@
+{
+ "name": "Uublu",
+ "display_name": "Uublu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uublu was a female Ithorian who worked as a medic during the Clone Wars and accompanied Strike Force Cularin on their mission to the Ando system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Strike_Force_Cularin",
+  "/wiki/Mission_to_the_Ando_system",
+  "/wiki/Ando_system/Legends",
+  "/wiki/Decision:_Almas"
+ ]
+}

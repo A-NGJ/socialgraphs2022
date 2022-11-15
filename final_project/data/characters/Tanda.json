@@ -1,0 +1,69 @@
+{
+ "name": "Tanda",
+ "display_name": "Tanda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green-brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanda the Hutt was a spaceport director who was in charge of part of Nal Hutta's imports and exports during the Galactic Civil War. Following the Battle of Yavin, he was kidnapped by the Zann Consortium.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tanda_(disambiguation)",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Urai_Fen",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Zann_Consortium/Legends",
+  "/wiki/Star_Wars:_Empire_at_War:_Forces_of_Corruption",
+  "/wiki/Star_Wars:_Empire_at_War:_Forces_of_Corruption_Expansion:_Prima_Official_Game_Guide"
+ ]
+}

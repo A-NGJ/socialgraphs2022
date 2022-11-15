@@ -1,5 +1,6 @@
 {
  "name": "Sandcat",
+ "display_name": "Sandcat",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -62,7 +63,7 @@
   }
  ],
  "content": "Sandcat was the nickname of a clone trooper who served in the Grand Army of the Republic during the Clone Wars against the Confederacy of Independent Systems. In 21 BBY, he became a member of Gold Squadron under the command of Jedi General Anakin Skywalker during the Battle of Lanteeb.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kamino/Legends",

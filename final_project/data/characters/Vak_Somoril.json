@@ -1,0 +1,60 @@
+{
+ "name": "Vak_Somoril",
+ "display_name": "Vak Somoril",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vak Somoril was a male Human who served as a colonel in the Imperial Security Bureau. In 0.5 ABY, he was assigned to the Imperial-class Star Destroyer Reprisal. During this tour, a group of Imperial stormtroopers killed ISB Major Drelfin after he confronted them for refusing to kill civilians on Teardrop.\nSomoril attempted to track them down, but was alarmed when Emperor's Hand Mara Jade demanded Reprisal's assistance. Assuming she was after the deserters and that he would be held responsible, Somoril attempted to deceive her, not realizing that her mission had nothing to do with the deserters. Somoril, in cooperation with Reprisal's captain, Kendal Ozzel, would later assign a pair of ISB stormtroopers to assist Jade in her infiltration of a pirate group. Only later did he realize that her mission had nothing to do with him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Reprisal_(Imperial_II-class)",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Drelfin",
+  "/wiki/Teardrop",
+  "/wiki/Emperor%27s_Hand/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Captain/Legends",
+  "/wiki/Kendal_Ozzel/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Allegiance_(novel)",
+  "/wiki/Allegiance_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

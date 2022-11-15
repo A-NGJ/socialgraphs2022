@@ -1,5 +1,6 @@
 {
  "name": "Khungata",
+ "display_name": "Khungata",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Khungata was an Ewok of Bright Tree Village on the forest moon of Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

@@ -1,0 +1,40 @@
+{
+ "name": "Tamo",
+ "display_name": "Tamo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Savrip"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Supreme Coronet City Diplomat Protection"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tamo was a male Mantellian Savrip who worked for Supreme Coronet City Diplomat Protection.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mantellian_Savrip",
+  "/wiki/Supreme_Coronet_City_Diplomat_Protection",
+  "/wiki/Gender",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tamo",
+  "/wiki/The_High_Republic:_Midnight_Horizon",
+  "/wiki/Midnight_Horizon"
+ ]
+}

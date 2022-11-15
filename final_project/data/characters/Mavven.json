@@ -1,5 +1,6 @@
 {
  "name": "Mavven",
+ "display_name": "Mavven",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Mavven was a Besalisk male arms dealer.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Besalisk/Legends",

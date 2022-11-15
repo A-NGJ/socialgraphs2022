@@ -1,0 +1,61 @@
+{
+ "name": "Stroon",
+ "display_name": "Stroon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Starhunter's Intergalactic Menagerie"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stroon was the owner of the Starhunter's Intergalactic Menagerie as well as the captain of a Starhunter menagerie ark.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Starhunter%27s_Intergalactic_Menagerie",
+  "/wiki/Starhunter_menagerie_ark",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Stroon",
+  "/wiki/Star_Wars:_Droids:_The_Adventures_of_R2-D2_and_C-3PO",
+  "/wiki/Coby_and_the_Starhunters",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Teril_Nyl",
+ "display_name": "Teril Nyl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Before 32 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teril Nyl was a Human female and the wife of Darca Nyl. She was considered beautiful. She died from complications after giving birth to their son Neas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Teril_Nyl",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Darca_Nyl",
+  "/wiki/Neas_Nyl",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teril_Nyl",
+  "/wiki/Nomad",
+  "/wiki/Rebellion_6",
+  "/wiki/Rebellion_7"
+ ]
+}

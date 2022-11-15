@@ -1,0 +1,65 @@
+{
+ "name": "Yalla",
+ "display_name": "Yalla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Wobani"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Azure"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yalla was a female Mirialan cell mate of Jyn Erso in the Imperial Detention Center \u0026 Labor Camp LEG-817 on Wobani. She was aggressive and a rebel. She had other rebel friends in this prison. They caused a riot but the stormtroopers defeated the rebellion. She was killed by a stormtrooper.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_BBY",
+  "/wiki/Wobani",
+  "/wiki/Mirialan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jyn_Erso",
+  "/wiki/Imperial_Detention_Center_%26_Labor_Camp_LEG-817",
+  "/wiki/Stormtrooper",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yalla",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

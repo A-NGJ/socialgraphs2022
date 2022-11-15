@@ -1,0 +1,54 @@
+{
+ "name": "Solls",
+ "display_name": "Solls",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Elomin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Alliance Army",
+      "Alliance Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solls was a male Elomin who served as in the military forces of the Alliance to Restore the Republic during the Galactic Civil War. Solls served under Sergeant Janeth when he was a rookie and scouted an area along with his commanding officer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Elomin",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Alliance_Army",
+  "/wiki/Alliance_Military",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Sergeant",
+  "/wiki/Janeth",
+  "/wiki/Scout",
+  "/wiki/Commanding_officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Solls",
+  "/wiki/Forged_in_Battle"
+ ]
+}

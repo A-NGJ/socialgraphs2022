@@ -1,0 +1,37 @@
+{
+ "name": "Ttul%27Thar",
+ "display_name": "Ttul'Thar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kian'thar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "MadisCorp"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ttul'Thar was a Kian'thar businessbeing who worked as a mediator for MadisCorp.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kian%27thar",
+  "/wiki/MadisCorp",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

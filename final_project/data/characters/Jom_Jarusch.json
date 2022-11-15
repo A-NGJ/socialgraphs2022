@@ -1,0 +1,65 @@
+{
+ "name": "Jom_Jarusch",
+ "display_name": "Jom Jarusch",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "At least 180 years before the Battle of Takodana"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren/Mon Calamari hybrid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Takodana Castle"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jom Jarusch was a male Quarren/Mon Calamari hybrid who served in the cooking staff at Takodana Castle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Takodana",
+  "/wiki/Quarren",
+  "/wiki/Mon_Calamari",
+  "/wiki/Hybrid",
+  "/wiki/Gender",
+  "/wiki/Takodana_Castle",
+  "/wiki/Chef",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jom_Jarusch",
+  "/wiki/A_Recipe_for_Death",
+  "/wiki/Tales_from_a_Galaxy_Far,_Far_Away:_Aliens:_Volume_I",
+  "/wiki/Strono_Tuggs",
+  "/wiki/Star_Wars:_The_Force_Awakens:_The_Visual_Dictionary",
+  "/wiki/Standard_century"
+ ]
+}

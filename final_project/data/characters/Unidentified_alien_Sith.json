@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_alien_Sith",
+ "display_name": "Unidentified alien Sith",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Sith fortress"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Alien"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Sith of an alien species within the Sith Empire was killed when the Sith's fortress was destroyed by the xenophobic Sith Lord Darth Ikoral's flagship Red Reaper.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Unidentified_Sith_fortress",
+  "/wiki/Alien/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Species/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Destruction_of_a_Sith_fortress",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth_Ikoral",
+  "/wiki/Red_Reaper",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

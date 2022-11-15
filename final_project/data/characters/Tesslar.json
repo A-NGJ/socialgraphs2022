@@ -1,0 +1,66 @@
+{
+ "name": "Tesslar",
+ "display_name": "Tesslar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Reddish"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shamel's gang",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tesslar was a male Human bounty hunter working for the Galactic Empire during the Galactic Civil War.\nA male Human orphan, Tesslar made a living during his adolescence as a member of the smuggler Shamel's gang. Stealing speeders for the gang throughout his youth, Tesslar eventually learned how to fire a blaster and cut ties with Shamel and ventured into the wider galaxy. Becoming a bounty hunter, Tesslar quickly found work with the Galactic Empire, detesting any hunter aligned with a guild or working independently.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Shamel",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Speeder/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tesslar",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

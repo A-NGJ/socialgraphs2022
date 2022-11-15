@@ -1,0 +1,68 @@
+{
+ "name": "Vrrisk",
+ "display_name": "Vrrisk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Trandosha"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Gavos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Oridelve Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vrrisk was a male Trandoshan who worked for Oridelve Incorporated on the planet Gavos. He was killed in the mining complex during the Gavos Droid Revolution.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandosha/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Gavos",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Oridelve_Incorporated",
+  "/wiki/Planet/Legends",
+  "/wiki/Gavos_Droid_Revolution",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Debts_to_Pay",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Game_Master%27s_Kit"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Norky",
+ "display_name": "Norky",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Norky was a child from a bipedal species who lived with his parents on the forest moon of Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

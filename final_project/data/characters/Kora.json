@@ -1,5 +1,6 @@
 {
  "name": "Kora",
+ "display_name": "Kora",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kora was the daughter of an Imperial Customs Hewat. She lived on Yityl during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Wert_Jopi",
+ "display_name": "Wert Jopi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wert Jopi was a Gungan on Naboo who was believed to be Force-sensitive.\nIn 1 ABY, Ebenn Q3 Baobab hired a guide under the pretense of escorting \"that Jedi Knight, what's-his-name\" into Moenia for dinner. The real reason for bringing Jopi into Moenia was unknown.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Ebenn_Q3_Baobab/Legends",
+  "/wiki/Moenia/Legends"
+ ]
+}

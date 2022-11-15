@@ -1,0 +1,46 @@
+{
+ "name": "Giant_Wampa_Creature",
+ "display_name": "Giant Wampa Creature",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wampa"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White",
+      "gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Giant Wampa Creature was a large wampa and the master of a large ice cave on the planet Hoth by 3 ABY.\nThe Giant Wampa Creature appears in the game Super Star Wars: The Empire Strikes Back as the first boss of the game, fought by Luke Skywalker. The wampa was so large that only its head and arms were visible on screen. The wampa attacked by extending one arm to the middle of the screen to slash, then exhaling a blast of frigid air that could freeze an opponent. When its enemy was hit and frozen, the wampa often laughed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wampa/Legends",
+  "/wiki/Unkajo/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Super_Star_Wars:_The_Empire_Strikes_Back",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Super_Empire_Strikes_Back_Official_Game_Secrets",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Game_Room",
+  "/wiki/Star_Wars_Galaxy_Magazine_3"
+ ]
+}

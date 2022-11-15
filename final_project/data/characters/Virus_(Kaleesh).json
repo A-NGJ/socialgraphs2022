@@ -1,0 +1,76 @@
+{
+ "name": "Virus_(Kaleesh)",
+ "display_name": "Virus  (Kaleesh)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaleesh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cada Bliss"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Virus was a Kaleesh male criminal partner and bodyguard of Cada Bliss during the Cold War.\nIn 3643 BBY, the Virus and his partner Cada Bliss acquired a Twi'lek artifact called the Star of Kala'unn. Bliss' old enemy Vette wanted to reclaim it, so she went with Darth Baras' Sith apprentice to confront the criminals at the Nar Shaddaa spaceport. Despite putting up a fight, the Virus was killed and his partner Cada was forced to give up the Star of Kala'unn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Kaleesh/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cada_Bliss",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Star_of_Kala%27unn",
+  "/wiki/Vette",
+  "/wiki/Darth_Baras",
+  "/wiki/Empire%27s_Wrath",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

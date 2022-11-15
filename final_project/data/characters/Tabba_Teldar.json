@@ -1,0 +1,39 @@
+{
+ "name": "Tabba_Teldar",
+ "display_name": "Tabba Teldar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tabba Teldar was a human female who was the mother of the bounty hunter Mercurial Swift. Tabba lived in a house in Coronet City on the planet Corellia and was sometimes sent credits by her son.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Parent",
+  "/wiki/Bounty_hunter",
+  "/wiki/Mercurial_Swift",
+  "/wiki/Coronet_City",
+  "/wiki/Planet",
+  "/wiki/Corellia",
+  "/wiki/Credit",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

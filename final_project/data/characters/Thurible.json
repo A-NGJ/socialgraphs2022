@@ -1,0 +1,67 @@
+{
+ "name": "Thurible",
+ "display_name": "Thurible",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thurible was a male human who lived on the jungle planet Teth. He served as majordomo for Wanbo the Hutt, whom he handled all of the day-to-day operations of his master's palace for. Thurible was seen as the real power on Teth due to Wanbo's stupidity and large spice habit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hutt_Clan",
+  "/wiki/Jungle",
+  "/wiki/Planet",
+  "/wiki/Teth",
+  "/wiki/Majordomo",
+  "/wiki/Wanbo",
+  "/wiki/Hutt",
+  "/wiki/Hutt_palace_of_Teth",
+  "/wiki/Spice",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thurible",
+  "/wiki/Master_%26_Apprentice",
+  "/wiki/Master_%26_Apprentice_(audiobook)"
+ ]
+}

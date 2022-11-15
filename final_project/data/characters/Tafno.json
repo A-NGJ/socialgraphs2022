@@ -1,0 +1,53 @@
+{
+ "name": "Tafno",
+ "display_name": "Tafno",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tafno was an officer in the Imperial Navy who promised aid to Parco Ein for Verkuyl in the form of two Dreadnaughts after Ein learned of a New Republic fleet that was in position to liberate Verkuyl from Daven Quarle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Parco_Ein",
+  "/wiki/Verkuyl",
+  "/wiki/Dreadnaught-class_heavy_cruiser",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Daven_Quarle",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tafno",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Conflict_of_Interest",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Rook",
+ "display_name": "Rook",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Rook was an Aqualish male inmate of the Cog Hive Seven prison by the year 33 BBY. He served the weapons designer Iram Radique, who operated out of the prison.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rook_(disambiguation)",

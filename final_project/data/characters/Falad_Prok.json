@@ -1,0 +1,52 @@
+{
+ "name": "Falad_Prok",
+ "display_name": "Falad Prok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jorga Sune"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Falad Prok was a male Human who worked for Jorga Sune in Iritsa. He was barely out of his teens, but had worked as an errand boy, spy, thief and special messenger.\nHe met up with a group of bounty hunters who he had learned were after Hahz Fallone and provided them with a datachip that had the schematics and layout of his compound.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jorga_Sune",
+  "/wiki/Iritsa",
+  "/wiki/Spy/Legends",
+  "/wiki/Thief/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Hahz_Fallone",
+  "/wiki/Datachip/Legends",
+  "/wiki/Fallone_compound",
+  "/wiki/West_End_Games",
+  "/wiki/The_Black_Sphere",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

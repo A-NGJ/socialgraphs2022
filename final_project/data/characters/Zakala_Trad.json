@@ -1,0 +1,66 @@
+{
+ "name": "Zakala_Trad",
+ "display_name": "Zakala Trad",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zakala Trad was a female Zabrak bounty hunter who served the Sith Empire during the Cold War.\nDuring the Cold War, she sold specialized gear for bounty hunters in the Combat Training section of Vaiken Spacedock.\nTrad first appeared in the video game Star Wars: The Old Republic as a level 50 Battlemaster PVP Gear vendor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

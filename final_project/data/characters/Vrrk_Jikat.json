@@ -1,0 +1,49 @@
+{
+ "name": "Vrrk_Jikat",
+ "display_name": "Vrrk Jikat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nazzri"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nazzar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vrrk Jikat was a Nazzar who trained Qrrrl Toq in the ways of the Ulizra.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nazzri/Legends",
+  "/wiki/Nazzar",
+  "/wiki/Gender/Legends",
+  "/wiki/Qrrrl_Toq",
+  "/wiki/Ulizra",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vrrk_Jikat",
+  "/wiki/Tales_of_the_Jedi_Companion",
+  "/wiki/Power_of_the_Jedi_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

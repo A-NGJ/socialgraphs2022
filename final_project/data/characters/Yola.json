@@ -1,0 +1,53 @@
+{
+ "name": "Yola",
+ "display_name": "Yola",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Miraluka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yola was a female Miraluka Jedi Master stationed on Carrick Station during the Cold War between the Galactic Republic and the reconstituted Sith Empire. Yola served as a Jedi Consular and combat instructor.\nYola appears in the game files for Star Wars: The Old Republic. She was originally going to serve as a Jedi Consular trainer but the content was cut. Yola's file can be found on Jedipedia.https://swtor.jedipedia.net/en/npc/master-yola",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Yola",
+  "/wiki/Canon",
+  "/wiki/Miraluka/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Carrick_Station",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Jedi_Consular",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

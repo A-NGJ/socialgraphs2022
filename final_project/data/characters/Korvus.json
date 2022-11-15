@@ -1,5 +1,6 @@
 {
  "name": "Korvus",
+ "display_name": "Korvus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Korvus was a Human male doctor of Alien Control of the Sith Empire during the Cold War. Stationed on Taris, he developed a serum that would break the Cathar settlers of their stubborn fight-to-the-death attitude.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

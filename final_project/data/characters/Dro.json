@@ -1,5 +1,6 @@
 {
  "name": "Dro",
+ "display_name": "Dro",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Dro was Callista Ming's uncle. He didn't like having fun and believed others shouldn't.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

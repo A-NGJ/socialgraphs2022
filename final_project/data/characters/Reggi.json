@@ -1,5 +1,6 @@
 {
  "name": "Reggi",
+ "display_name": "Reggi",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Reggi was a male Human with whom Lando Calrissian tried to negotiate in order to hire the Soskin Guard to protect his mining shipments from Varn. Reggi requested 50,000 credits a month for the Guard to work for Calrissian, a payment Lando refused.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

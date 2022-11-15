@@ -1,0 +1,55 @@
+{
+ "name": "Goss_(Sith_Lord)",
+ "display_name": "Goss  (Sith Lord)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Goss was a Human male Sith Lord of the Sith Empire. During the Cold War with the Galactic Republic, he was present at a party on Kaas City, the same party that Lord Zash went to cover up her trace of planning Darth Skotia's assassination which her apprentice eventually executed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Darth_Zash",
+  "/wiki/Darth_Skotia",
+  "/wiki/Darth_Nox",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

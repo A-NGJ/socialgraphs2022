@@ -1,0 +1,82 @@
+{
+ "name": "Terkuss",
+ "display_name": "Terkuss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Plesstil"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "14 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Terkuss was a corporal in the Imperial Army under General Freja Covell. He originally resisted being drafted, only acquiescing when the Imperials threatened to raze his home. However, Terkuss was a bully at heart, and soon grew to enjoy serving as an Imperial soldier. He was transferred by General Covell to Wayland as part of Grand Admiral Thrawn's Mount Tantiss project to serve as a template for clone soldiers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Plesstil",
+  "/wiki/14_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Dark_Force_Rising_Sourcebook",
+  "/wiki/Corporal/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Freja_Covell",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Wayland",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Mount_Tantiss_project",
+  "/wiki/Cloning/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Terkuss",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook"
+ ]
+}

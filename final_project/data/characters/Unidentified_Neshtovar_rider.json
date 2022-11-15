@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Neshtovar_rider",
+ "display_name": "Unidentified Neshtovar rider",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keshiri"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Neshtovar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 5000 BBY, a Keshiri rider of the Neshtovar volunteered to assist the geologist Adari Vaal during her trial.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Keshiri",
+  "/wiki/Neshtovar",
+  "/wiki/5000_BBY/Legends",
+  "/wiki/Geologist/Legends",
+  "/wiki/Adari_Vaal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Neshtovar_rider",
+  "/wiki/Lost_Tribe_of_the_Sith:_Skyborn"
+ ]
+}

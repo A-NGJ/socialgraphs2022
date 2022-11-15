@@ -1,0 +1,67 @@
+{
+ "name": "Bon_Yoth",
+ "display_name": "Bon Yoth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Basteel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bon Yoth was a male human who served in the Rebel Alliance before he argued with General Carlist Rieekan and left the Alliance. He was the contact of Princess Leia Organa on the planet Basteel in the mission known as Operation Yellow Moon. He helped to place a hyper-transceiver beacon in the Corva sector in an attempt to distract the Galactic Empire from the Alliance Fleet gathering over Sullust in order to launch its assault on the second Death Star at Endor. However, he wasn't interested in rejoining the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Basteel",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/General",
+  "/wiki/Carlist_Rieekan",
+  "/wiki/Prince",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Operation_Yellow_Moon",
+  "/wiki/Corva_sector",
+  "/wiki/Galactic_Empire",
+  "/wiki/Rebel_Alliance_Navy",
+  "/wiki/Sullust",
+  "/wiki/DS-2_Death_Star_II_Mobile_Battle_Station",
+  "/wiki/Endor",
+  "/wiki/Moving_Target:_A_Princess_Leia_Adventure",
+  "/wiki/Moving_Target:_A_Princess_Leia_Adventure_(audiobook)"
+ ]
+}

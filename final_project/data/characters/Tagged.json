@@ -1,0 +1,41 @@
+{
+ "name": "Tagged",
+ "display_name": "Tagged",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tagged was a human who served as a stormtrooper in the Galactic Empire.\nTagged appears as a skin in the Star Wars Rebels Skin Pack for Minecraft Star Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Stormtrooper",
+  "/wiki/Minecraft_Star_Wars",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

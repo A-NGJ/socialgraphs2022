@@ -1,0 +1,59 @@
+{
+ "name": "Wyjus-Miin",
+ "display_name": "Wyjus-Miin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wyjus-Miin was a Zabrak male merchant who sold stimulants with an astromech droid in the lobby of Deucalon Spaceport on the moon Nar Shaddaa during the Cold War between the Galactic Republic and the reconstituted Sith Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Merchant/Legends",
+  "/wiki/Stimulant/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/Deucalon_Spaceport",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)"
+ ]
+}

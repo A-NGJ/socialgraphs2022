@@ -1,5 +1,6 @@
 {
  "name": "Flatakk",
+ "display_name": "Flatakk",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Flatakk was a male humanoid bounty hunter affiliated with the Haxion Brood crime syndicate.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/14_BBY",

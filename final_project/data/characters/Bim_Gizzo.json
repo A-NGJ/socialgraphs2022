@@ -1,0 +1,61 @@
+{
+ "name": "Bim_Gizzo",
+ "display_name": "Bim Gizzo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Cybernetic left arm"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cybot Galactica"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bim Gizzo was a male Bothan information broker who worked during the Galactic Civil War for the droid manufacturer Cybot Galactica. At some point, he and his partner Brom attempted to plant a datacard belonging to their employer's rival, Industrial Automaton, onto a patron at the cantina the Sleeping Rancor. A pair of Industrial Automaton security personnel then arrived looking for the card and a fight ensued. During the fight Brom shot a sleeping Ronto outside the bar, which then when on rampage, causing significant damage to the cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cybernetics/Legends",
+  "/wiki/Cybot_Galactica/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Brom_(thug)",
+  "/wiki/Datacard/Legends",
+  "/wiki/Industrial_Automaton/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Sleeping_Rancor",
+  "/wiki/Ronto/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/A_Quick_Stopover",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Ogo_Buugi",
+ "display_name": "Ogo Buugi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ogo Buugi was a male Bith doctor in the Galactic Alliance who operated on Mara Jade Skywalker.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Dark_Nest_III:_The_Swarm_War"
+ ]
+}

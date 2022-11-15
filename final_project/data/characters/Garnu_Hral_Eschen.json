@@ -1,0 +1,50 @@
+{
+ "name": "Garnu_Hral_Eschen",
+ "display_name": "Garnu Hral Eschen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nim Drovis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drovian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garu Hral Eschen was a male Drovian. He was killed, along with his whole family by Gopso'o warriors. Though his manner of death is unknown, he was apparently disemboweled. His descendant Knezex Hral Piksoar would later work for the New Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nim_Drovis",
+  "/wiki/Drovian",
+  "/wiki/Gender/Legends",
+  "/wiki/Gopso%27o",
+  "/wiki/Death/Legends",
+  "/wiki/Knezex_Hral_Piksoar",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Garnu_Hral_Eschen",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

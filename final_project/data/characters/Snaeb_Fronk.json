@@ -1,0 +1,52 @@
+{
+ "name": "Snaeb_Fronk",
+ "display_name": "Snaeb Fronk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snaeb Fronk was a male Human who served the Galactic Empire. During the Galactic Civil War, Fronk came to suspect that Tehlan Aleece, the niece of the Imperial Moff Venram Krax, was secretly an agent of the Rebel Alliance, and after he was assigned to escort Aleece to a party on the planet Corellia, he revealed to her his suspicions. However, a group of agents sent by the Alliance to extract Aleece prevented Fronk from informing his superiors of Aleece's betrayal of the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Tehlan_Aleece",
+  "/wiki/Moff/Legends",
+  "/wiki/Venram_Krax",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Wizards_of_the_Coast",
+  "/wiki/Extracting_Aleece",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

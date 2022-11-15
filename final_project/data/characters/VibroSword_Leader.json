@@ -1,0 +1,47 @@
+{
+ "name": "VibroSword_Leader",
+ "display_name": "VibroSword Leader",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Graying"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "VibroSword Leader was the call sign of the pilot who led VibroSword Squadron in 40 ABY. He served in Operation Roundabout and piloted an Eta-5 interceptor, as did the rest of his squadron including Syal Antilles. He was present during a debacle in which Syal killed an overly aggressive Corellian operative, and attempted to remove her rank, but was reprimanded for his sharpness by Shalla Nelprin, who had intervened in the matter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Call_sign",
+  "/wiki/Pilot/Legends",
+  "/wiki/VibroSword_Squadron",
+  "/wiki/40_ABY",
+  "/wiki/Operation_Roundabout",
+  "/wiki/Eta-5_interceptor",
+  "/wiki/Syal_Antilles",
+  "/wiki/Corellian/Legends",
+  "/wiki/Shalla_Nelprin",
+  "/wiki/Legacy_of_the_Force:_Betrayal"
+ ]
+}

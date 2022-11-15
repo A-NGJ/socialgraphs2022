@@ -1,5 +1,6 @@
 {
- "name": "Ba'tra",
+ "name": "Ba%27tra",
+ "display_name": "Ba'tra",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "General Ba'tra was a Bothan officer in charge of the mine activities over Coruscant during the Battle of Coruscant. He was onboard the Orbital Defense Headquarters before it was destroyed, but escaped on the Lady Luck with Lando Calrissian and helped rescue Ben Skywalker.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bothan/Legends",

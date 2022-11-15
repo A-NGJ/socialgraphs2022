@@ -1,5 +1,6 @@
 {
  "name": "Genko",
+ "display_name": "Genko",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Genko was a male Toydarian who worked for Bargos for decades.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Toydaria/Legends",

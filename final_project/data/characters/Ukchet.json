@@ -1,0 +1,48 @@
+{
+ "name": "Ukchet",
+ "display_name": "Ukchet",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ukchet was a Jawa scout of Nebit's tribe. He was the first to spot R2-D2 in the Jundland Wastes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Nebit/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Jundland_Wastes/Legends",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/StarWars.com",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

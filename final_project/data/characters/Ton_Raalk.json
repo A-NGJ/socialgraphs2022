@@ -1,0 +1,68 @@
+{
+ "name": "Ton_Raalk",
+ "display_name": "Ton Raalk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Duskhan League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ton Raalk was a male Yevetha and the Proctor of Giat Nor in 16 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Gender/Legends",
+  "/wiki/Duskhan_League",
+  "/wiki/Proctor_(Yevethan)",
+  "/wiki/Giat_Nor",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ton_Raalk",
+  "/wiki/Shield_of_Lies",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

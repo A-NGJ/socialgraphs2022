@@ -1,5 +1,6 @@
 {
  "name": "Gherd",
+ "display_name": "Gherd",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Gherd was a male nanak owned by Harra the Hutt that helped J-Squadron escape the stronghold.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Egips",

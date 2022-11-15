@@ -1,5 +1,6 @@
 {
  "name": "Insurgent",
+ "display_name": "Insurgent",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Insurgent was a Human male who lived during the Galactic Civil War. He served as an agent for the Imperial group Black Epsilon on Dantooine.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

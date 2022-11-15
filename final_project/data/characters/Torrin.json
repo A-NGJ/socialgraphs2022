@@ -1,0 +1,65 @@
+{
+ "name": "Torrin",
+ "display_name": "Torrin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Daimar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lamont Dynasty of Daimar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torrin was the son of King Mitar and of the Lamont Dynasty of Daimar. His siblings were Erra and Rondar, and was the uncle of Princess Winera. After the Empire had set up its blockade around Daimar, King Mitar sent Torrin's niece, Winera, Alet Komain, and Jedi Shen-Ji Collun to the planet Byrsym  for their protection. Torrin received them safely and protected them there, while his brother Rondar and his father remained at Daimar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Daimar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lamont_Dynasty_of_Daimar",
+  "/wiki/King/Legends",
+  "/wiki/Mitar",
+  "/wiki/Erra",
+  "/wiki/Rondar",
+  "/wiki/Prince/Legends",
+  "/wiki/Winera",
+  "/wiki/Alet_Komain",
+  "/wiki/Jedi/Legends",
+  "/wiki/Shen-Ji_Collun",
+  "/wiki/Byrsym",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

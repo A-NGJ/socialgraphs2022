@@ -1,0 +1,90 @@
+{
+ "name": "Elric_Organa",
+ "display_name": "Elric Organa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicHouse of Organa",
+      "House of Organa",
+      "Sith EmpireHouse of Thul",
+      "House of Thul"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elric Organa was a Human male who betrayed the House of Organa in favor of House of Thul during the Alderaan Civil War.\nIn 3643 BBY, Elric Organa betrayed House Organa and decided to join the Empire by serving as a spy for House Thul. However, Agent Tyuth learned of Elric's betrayal and tasked a Republic citizen to arrest him. Elric refused and tried to fight his way out until he was killed by the individual.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/House_of_Thul",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Tyuth",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Snar_Extruct",
+ "display_name": "Snar Extruct",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Urkupp"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "Before 3996 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dashade"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snar Extruct was a Dashade Jedi and a survivor of the destruction of Urkupp living in the years proceeding the passage of the Ruusan Reformations of the Galactic Republic. Extruct befriended the Jedi Battlemaster Skarch Vaunk, traveling to the Jedi Temple on Coruscant to serve as sparring partner to the great Anx Jedi Master.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Urkupp",
+  "/wiki/3996_BBY",
+  "/wiki/Dashade/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Ruusan_Reformation",
+  "/wiki/Jedi_Battlemaster",
+  "/wiki/Skarch_Vaunk",
+  "/wiki/Jedi_Temple",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Anx/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/The_Jedi_Path:_A_Manual_for_Students_of_the_Force_(real-life_book)",
+  "/wiki/The_New_Essential_Chronology"
+ ]
+}

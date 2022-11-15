@@ -1,0 +1,50 @@
+{
+ "name": "Iziz_Cantina_waitress",
+ "display_name": "Iziz Cantina waitress",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female served as the waitress for the Iziz Cantina in Iziz, on the planet Onderon, during the time leading up to the Onderon Civil War. She was hired by Bahima, the owner of the cantina, following the repeated destruction of his serving droids. Although she was not considered a great waitress by the cantina patrons, the Beast Riders enjoyed having her around for \"entertainment.\" She was present at the cantina during Meetra Surik's investigation into the murder of Captain Sullio.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Unidentified_Iziz_cantina",
+  "/wiki/Iziz/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Onderon_Civil_War",
+  "/wiki/Bahima",
+  "/wiki/Cantina/Legends",
+  "/wiki/Service_droid/Legends",
+  "/wiki/Beast_Riders",
+  "/wiki/Meetra_Surik",
+  "/wiki/Captain/Legends",
+  "/wiki/Sullio",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

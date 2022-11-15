@@ -1,0 +1,74 @@
+{
+ "name": "Qes_Dollis",
+ "display_name": "Qes Dollis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's Criminal Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qes Dollis was the manager of the Sandstorm Shipping Concern, located at Mos Eisley on Tatooine.\nQes attempted to gain control of Jabba the Hutt's smuggling operation after the death of the Hutt in 4 ABY. His efforts put him at odds with Kisa Shaki, who had taken over the Swift Hutt Spacer's Service Depot at the same time. As a result, supporters of both criminals began a gang war. The Rebel Alliance attempted to bring the conflict to an end as a result.\nQes Dollis' efforts appear to have come to naught, as Talon Karrde was reported to have eventually inherited control of much of Jabba's smuggler contacts on Tatooine.\nQes fancied himself a civilized businessbeing, intelligent, and charming.\nSecrets of Tatooine makes it clear that Qes Dollis would not become a major figure in Tatooine's smuggling community, though only by inference, since Lady Valarian's attempts to take over the smuggling business are said to have failed due to the smugglers joining with Karrde.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_Criminal_Empire",
+  "/wiki/Sandstorm_Shipping_Concern",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Kisa_Shaki",
+  "/wiki/Swift_Hutt_Spacer%27s_Service_Depot",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Talon_Karrde",
+  "/wiki/Valarian/Legends",
+  "/wiki/Rebellion_Era_Sourcebook",
+  "/wiki/Secrets_of_Tatooine"
+ ]
+}

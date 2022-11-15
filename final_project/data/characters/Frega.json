@@ -1,5 +1,6 @@
 {
  "name": "Frega",
+ "display_name": "Frega",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Frega was the Navigation master onboard the Grand Imperial Navy and former Imperial ship Tobay.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

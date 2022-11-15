@@ -1,0 +1,55 @@
+{
+ "name": "Tarl_(Yuuzhan_Vong_War)",
+ "display_name": "Tarl  (Yuuzhan Vong War)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial RemnantStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarl was a stormtrooper in the Imperial Remnant during the Yuuzhan Vong War, serving under Lieutenant Stalgis aboard the frigate Widowmaker. On a mission to Munlali Mafir, he was infected with a Jostran which was removed by Tekli, a Jedi Knight who was part of the mission. Tarl was a close friend of Lieutenant Stalgis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Stalgis",
+  "/wiki/Widowmaker_(frigate)",
+  "/wiki/Munlali_Mafir",
+  "/wiki/Jostran",
+  "/wiki/Tekli",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

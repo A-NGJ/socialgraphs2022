@@ -1,5 +1,6 @@
 {
  "name": "Moegid",
+ "display_name": "Moegid",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "Moegid was a Verpine smuggler and slicer.\nIn 19 ABY, Moegid accompanied Han Solo, Lando Calrissian, and Lobot on their mission to find Bastion. Using the unique Verpine bio-frequencies, he controlled Lobot from onboard Lando's personal starship, the Lady Luck, using him to slice into Imperial files looking for a copy of the Caamas Document. This plan failed when Imperials realized the nature of the plot, and began scanning Verpine frequencies. Calrissian and Solo were eventually captured, but later freed.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nickel_One",

@@ -1,0 +1,65 @@
+{
+ "name": "Tal_Burren",
+ "display_name": "Tal Burren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tal Burren was a grade-four tech of Imperial Intelligence as of 4 ABY. His superior was Ivak.\nA dark-skinned Human male, he made the jump from grade-four all the way to the hitherto nonexistent grade-thirteen by helping Ysanne Isard override Mara Jade's tampering with the Imperial Palace's computer system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Ysanne_Isard",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Ivak",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Imperial_Palace/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tal_Burren",
+  "/wiki/Mara_Jade_%E2%80%93_By_the_Emperor%27s_Hand_3",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Star_Wars:_Mara_Jade_%E2%80%93_By_the_Emperor%27s_Hand"
+ ]
+}

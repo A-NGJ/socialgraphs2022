@@ -1,5 +1,6 @@
 {
  "name": "Kalhar",
+ "display_name": "Kalhar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Kalhar was a Mantellian Savrip who was a famous brawler and gladiator.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Kalhar",

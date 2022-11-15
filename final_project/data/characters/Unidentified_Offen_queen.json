@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Offen_queen",
+ "display_name": "Unidentified Offen queen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "5983 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Offen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Offens"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A queen was the leader of the Offen people in 17 ABY. She was born in 5983 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/5983_BBY",
+  "/wiki/Offen",
+  "/wiki/17_ABY",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/17_ABY/Legends",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

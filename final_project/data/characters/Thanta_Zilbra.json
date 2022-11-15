@@ -1,0 +1,39 @@
+{
+ "name": "Thanta_Zilbra",
+ "display_name": "Thanta Zilbra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thanta Zilbra was a smuggler who crashed on a planet with a native fungus with tremendous healing properties. Obtaining sponsorship from the New Republic, Zilbra established a colony on the planet, now known as Thanta Zilbra to harvest Zilbra fungus. Zilbra was killed when the planet was destroyed during the Corellian Crisis, but did insist his four sons and two daughters evacuate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thanta_Zilbra_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Fungus/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Thanta_Zilbra_(planet)",
+  "/wiki/Zilbra_fungus",
+  "/wiki/Corellian_Crisis",
+  "/wiki/Cracken%27s_Threat_Dossier"
+ ]
+}

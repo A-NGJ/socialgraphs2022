@@ -1,5 +1,6 @@
 {
  "name": "Erloi",
+ "display_name": "Erloi",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Erloi was a Human male native to the planet Fyodos. He was the son of Tseeach, shaman of the Roh tribe. Erloi was in training to one day become a shaman himself.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Fyodos",

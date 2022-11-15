@@ -1,5 +1,6 @@
 {
  "name": "O-Yani",
+ "display_name": "O-Yani",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "O-Yani was an old Keganite who looked after the children of her Living Circle. She was the grandmother of V-Onin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kegan",

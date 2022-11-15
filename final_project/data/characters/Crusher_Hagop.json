@@ -1,0 +1,74 @@
+{
+ "name": "Crusher_Hagop",
+ "display_name": "Crusher Hagop",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "14 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Right arm"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Haxion Brood"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crusher Hagop was a Male humanoid bounty hunter affiliated with the Haxion Brood crime syndicate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/14_BBY",
+  "/wiki/Humanoid",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Limb",
+  "/wiki/Haxion_Brood",
+  "/wiki/Bounty_hunter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Crusher_Hagop",
+  "/wiki/Star_Wars_Jedi:_Fallen_Order",
+  "/wiki/Death",
+  "/wiki/Template:JFODate"
+ ]
+}

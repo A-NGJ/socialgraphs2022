@@ -1,0 +1,54 @@
+{
+ "name": "Josta_Cracken",
+ "display_name": "Josta Cracken",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Josta Cracken was a Human female from Corellia who lived during the Galactic Civil War.\nShe eventually moved to Contruum and married Airen Cracken in the days before the Rebellion. They had two children, Pash and Dena.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cracken_(disambiguation)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Contruum/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Airen_Cracken/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Pash_Cracken",
+  "/wiki/Dena_Cracken",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Small_Favors",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Cracken%27s_Rebel_Field_Guide_(sourcebook)"
+ ]
+}

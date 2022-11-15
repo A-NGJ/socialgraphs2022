@@ -1,0 +1,65 @@
+{
+ "name": "Sor-Nak",
+ "display_name": "Sor-Nak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sor-Nak was a male Voss living on Voss during the Galactic War. When Voss Mystic Alor-Wan had a vision about a Sith, who would destroy the Voss way of life, Sor-Nak confronted Lord Kallig upon their arrival onto the Voss Orbital Docking Station, but the vision prevented him from using force to dissuade the Sith. As Kallig was preparing to depart Voss with a Gormak traveler, Hadrik, Sor-Nak again tried to stop them, as no Gormak was allowed to ever leave Voss.\nSor-Nak appears in Star Wars: The Old Republic during the Sith Inquisitor class mission on Voss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Voss_Mystics",
+  "/wiki/Alor-Wan",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth_Nox",
+  "/wiki/Voss_Orbital_Docking_Station",
+  "/wiki/Gormak/Legends",
+  "/wiki/Hadrik",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

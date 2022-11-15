@@ -1,0 +1,50 @@
+{
+ "name": "Winati",
+ "display_name": "Winati",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "New Apsolon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Winati was a Human female miner who worked for the Workers. In 41 BBY, she participated in a secret meeting of a group of miners under the leadership of Irini. After Lenz had informed the group that the Absolutes had begun to monitor the workers, she and Mohn were commissioned to try and find suitable places for their meeting.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/New_Apsolon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Workers",
+  "/wiki/41_BBY/Legends",
+  "/wiki/Irini",
+  "/wiki/Lenz",
+  "/wiki/Absolutes",
+  "/wiki/Mohn",
+  "/wiki/Jedi_Apprentice:_The_Ties_That_Bind"
+ ]
+}

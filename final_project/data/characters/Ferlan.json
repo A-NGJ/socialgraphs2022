@@ -1,5 +1,6 @@
 {
  "name": "Ferlan",
+ "display_name": "Ferlan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ferlan was a Human female agent for the Imperial Security Bureau. She gained her position through family politics and favors.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

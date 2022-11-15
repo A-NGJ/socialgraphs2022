@@ -1,0 +1,49 @@
+{
+ "name": "Pon_Svale",
+ "display_name": "Pon Svale",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebellion era"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pole Svale was a minister who supported the Weequay ambassador Uli Aaregil.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rebellion_era",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pon_Svale",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Credit_Denied",
+  "/wiki/Star_Wars_Adventure_Journal_16"
+ ]
+}

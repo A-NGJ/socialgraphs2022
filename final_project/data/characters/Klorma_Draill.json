@@ -1,0 +1,39 @@
+{
+ "name": "Klorma_Draill",
+ "display_name": "Klorma Draill",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Klorma Draill was a female Human, who lived during the time of the Galactic Civil War.\nDraill was a HoloNet starlet and she also became the mistress of Governor Zerex of the planet Ord Adinorr. When Zerex secured a promotion to become the Moff of the Meridian sector, Draill attended a celebratory party that he held in his mansion, on Ord Adinorr.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/HoloNet/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Zerex",
+  "/wiki/Planet/Legends",
+  "/wiki/Ord_Adinorr",
+  "/wiki/Moff/Legends",
+  "/wiki/Meridian_sector/Legends",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

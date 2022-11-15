@@ -1,0 +1,45 @@
+{
+ "name": "Zovaren",
+ "display_name": "Zovaren",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cadomai Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snivvian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zovaren was a male Snivvian poet during the time of the Galactic Republic. He and his people were freed from Thalassian slavers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cadomai_Prime/Legends",
+  "/wiki/Snivvian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Thalassian_slavers/Legends",
+  "/wiki/Rebellion_Era_Sourcebook"
+ ]
+}

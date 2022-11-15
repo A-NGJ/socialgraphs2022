@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Car%27das_pilot",
+ "display_name": "Unidentified Car'das pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Car'das"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female was at the controls of the Wild Karrde in 9 ABY when the ship happened upon the stranded Luke Skywalker and R2-D2 in deep space.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Car%27das/Legends",
+  "/wiki/Wild_Karrde",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Realspace/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Car%27das_pilot",
+  "/wiki/Heir_to_the_Empire"
+ ]
+}

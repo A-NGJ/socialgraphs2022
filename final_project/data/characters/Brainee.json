@@ -1,5 +1,6 @@
 {
  "name": "Brainee",
+ "display_name": "Brainee",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Brainee was a male Siniteen associate of the Rodian bounty hunter Greedo during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Brainee",

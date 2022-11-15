@@ -1,0 +1,54 @@
+{
+ "name": "Yarroq",
+ "display_name": "Yarroq",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarroq was a male Trandoshan and gang leader, whose name in his native Dosh literally meant \"Hunts Without Effort.\". He kidnapped the Alliance spy Renci Tosh when her Z-95 Headhunter crashed on Ord Mantell shortly after the Battle of Yavin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dosh/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Renci_Tosh",
+  "/wiki/Z-95_Headhunter/Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Rendezvous_at_Ord_Mantell",
+  "/wiki/Star_Wars_Gamer_1",
+  "/wiki/Wizards.com",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

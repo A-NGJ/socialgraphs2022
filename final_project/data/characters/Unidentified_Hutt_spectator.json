@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Hutt_spectator",
+ "display_name": "Unidentified Hutt spectator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "On the moon Nar Shaddaa, a Hutt spectator watched a fight organized by the Quarren crime lord Durrsk. However, when Durrsk was murdered by his own fighter, Tyrnia Masak, as revenge, the Hutt was also killed. Its family placed a bounty on Masak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Durrsk",
+  "/wiki/Death/Legends",
+  "/wiki/Tyrnia_Masak",
+  "/wiki/Bounty/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Tyrnia_Masak:_Pit_Fighter"
+ ]
+}

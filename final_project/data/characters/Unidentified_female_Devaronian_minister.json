@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_female_Devaronian_minister",
+ "display_name": "Unidentified female Devaronian minister",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Devaronian dignitary was a minister of the planet Devaron during the Clone Wars. She was present with Jedi Master Bolla Ropal and a fellow minister at the Temple of Eedit on her planet when it came under attack from Separatist forces under the command of Duros bounty hunter Cad Bane.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Bolla_Ropal/Legends",
+  "/wiki/Unidentified_male_Devaronian_minister",
+  "/wiki/Temple_of_Eedit/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cad_Bane/Legends",
+  "/wiki/The_Clone_Wars:_Act_on_Instinct"
+ ]
+}

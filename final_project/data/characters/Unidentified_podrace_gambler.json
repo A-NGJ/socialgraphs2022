@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_podrace_gambler",
+ "display_name": "Unidentified podrace gambler",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A podrace gambler stood in Watto's box to view the Boonta Eve Classic in 32 BBY, and bet on Anakin Skywalker to win the race.\nAnakin did win, and since Watto bet against Skywalker, he had to pay this individual after the race.\nThis individual can be seen twice in Star Wars: Episode I The Phantom Menace. The first is in Watto's box during the first lap of the race, and the second is after the race when Watto is forced to pay them a presumably hefty sum, due to the Toydarian later complaining to Qui-Gon Jinn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Watto/Legends",
+  "/wiki/Boonta_Eve_Classic_(32_BBY)",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends"
+ ]
+}

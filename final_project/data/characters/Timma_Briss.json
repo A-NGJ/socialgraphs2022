@@ -1,0 +1,51 @@
+{
+ "name": "Timma_Briss",
+ "display_name": "Timma Briss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corulag"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Timma Briss was a Human female from Corulag. She worked as a slicer at Boztrok spaceport until she stole some important files from docking bay owner and crime lord Pok Nar-Ten. She managed to elude the corrupt businessman by finding work with the starship mechanic Bolabo Hujaan who worked on Byblos. She was an associate of Kn'ik Th'ronik.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corulag/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Boztrok",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Pok_Nar-Ten",
+  "/wiki/Bolabo_Hujaan",
+  "/wiki/Byblos/Legends",
+  "/wiki/Kn%27ik_Th%27ronik",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

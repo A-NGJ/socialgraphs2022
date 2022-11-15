@@ -1,0 +1,52 @@
+{
+ "name": "Litassa_Colay",
+ "display_name": "Litassa Colay",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chibias"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Litassa Colay was a female Human and the Director of Offworld Special Events on Chibias.\nShortly after the Battle of Endor, Emperor's Hand Mara Jade stole her ID datacard in the Chibias concert hall and used her name as an alias to rescue Zakarisz Ghent.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chibias",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Offworld_Special_Events",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Emperor%27s_Hand/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Datacard/Legends",
+  "/wiki/Chibias_concert_hall",
+  "/wiki/Zakarisz_Ghent",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Handoff",
+  "/wiki/Star_Wars_Gamer_10"
+ ]
+}

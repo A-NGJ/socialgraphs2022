@@ -1,5 +1,6 @@
 {
  "name": "Mamazooz",
+ "display_name": "Mamazooz",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Mamazooz was a Culisetto female and the mother of Cribiriz Idollax and Sribiriz.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Special:Upload",

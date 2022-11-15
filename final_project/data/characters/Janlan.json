@@ -1,5 +1,6 @@
 {
  "name": "Janlan",
+ "display_name": "Janlan",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Janlan was a Near-Human male member of a merchant consortium operating in the Eschaton system. In 2 ABY, members of the consortium agreed to a meeting with members of the Alliance to Restore the Republic in order to provide the Alliance with material for the construction of Echo Base on Hoth. However, Janlan betrayed both sides, notifying the Galactic Empire of when and where the meeting was supposed to take place.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/2_ABY/Legends",

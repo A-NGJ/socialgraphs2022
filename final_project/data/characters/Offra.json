@@ -1,5 +1,6 @@
 {
  "name": "Offra",
+ "display_name": "Offra",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Offra was a Hutt and a rival of Skeedo the Hutt during the Cold War. Offra hired individuals to deliver an arms shipment to the military on the planet Skeressa. However, the shipment was hijacked by Skeedo's minions.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

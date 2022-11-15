@@ -1,0 +1,61 @@
+{
+ "name": "Tammala",
+ "display_name": "Tammala",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tammala was an Ewok hermit and inventor present on the Forest Moon before the destruction of the Second Death Star. He was exiled from Bright Tree Village by Logray for his experiments with gliders. After the Ewoks agreed to aid the Rebel Alliance, a few members of the Strike Force were taken to see Tammala by Wicket.\nHe lived in a hut perched high up in one of Endor's enormous trees. He was easily convinced to aid in the preparations for the attack and trained other Ewoks in flying the primitive flying machines.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Forest_Moon",
+  "/wiki/Death_Star_II/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Logray/Legends",
+  "/wiki/Wicket_Wystri_Warrick/Legends",
+  "/wiki/Tree/Legends",
+  "/wiki/Rebellion_Era_Sourcebook"
+ ]
+}

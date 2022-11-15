@@ -1,0 +1,51 @@
+{
+ "name": "Wole_Vahn",
+ "display_name": "Wole Vahn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Noetikon of Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wole Vahn was a male Human Jedi Master of the Jedi Order. He lived sometime before the Great Galactic War, and he was considered one of the greatest Jedi Masters of the Order during his time. His wisdom, knowledge, and personality was later imprinted on the Noetikon of Light, and Vahn's personality inhabited the device along with Masters Noab Hulis and Nomi Da-Boda.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Noetikon_of_Light",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Noab_Hulis",
+  "/wiki/Nomi_Sunrider",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

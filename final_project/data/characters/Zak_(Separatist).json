@@ -1,0 +1,83 @@
+{
+ "name": "Zak_(Separatist)",
+ "display_name": "Zak  (Separatist)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mantellian Separatist Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zak was a Human male Mantellian Separatist during the Cold War and Separatist War against the Galactic Republic, which was backing the Mantellian Government. He resided in Oradam village with his wife, Jaller when they were poisoned by a bomb's radiation, the same powerful bomb the Separatists had stolen from the Republic. He and his wife traveled to Fort Garnik to ask for supplies but the Republic troopers refused giving any assistance, ignoring the intel Zak wanted to exchange. Eventually a Republic sergeant found the wounded couple and accepted to exchange medical supplies for Zak's information.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zak_(disambiguation)",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mantellian_Separatist_Movement",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Separatist_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Ord_Mantell_Central_Authority",
+  "/wiki/Oradam_village",
+  "/wiki/Jaller",
+  "/wiki/ZR-57_orbital_strike_bomb",
+  "/wiki/Fort_Garnik",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

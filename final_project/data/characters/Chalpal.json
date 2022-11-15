@@ -1,5 +1,6 @@
 {
  "name": "Chalpal",
+ "display_name": "Chalpal",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Chalpal was a Wookiee with tan fur.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Wookiee",

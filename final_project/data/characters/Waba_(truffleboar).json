@@ -1,0 +1,51 @@
+{
+ "name": "Waba_(truffleboar)",
+ "display_name": "Waba  (truffleboar)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Truffleboar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Dolin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Waba was a truffleboar owned by the farmer Dolin on Batuu. When Dolin left his farming community to join the Resistance, he took Waba with him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Truffleboar",
+  "/wiki/Waba",
+  "/wiki/Gender",
+  "/wiki/Dolin",
+  "/wiki/Farmer",
+  "/wiki/Batuu",
+  "/wiki/Farm",
+  "/wiki/Resistance",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Waba_(truffleboar)",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire_(audiobook)"
+ ]
+}

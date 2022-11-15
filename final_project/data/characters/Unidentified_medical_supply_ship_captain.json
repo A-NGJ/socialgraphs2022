@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_medical_supply_ship_captain",
+ "display_name": "Unidentified medical supply ship captain",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male captain of a medical supply ship ferried cargo to the Farpoint Medical Center in 41 ABY. He was an overly obese man, with his belly hanging over the belt of his trousers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Unidentified_medical_supply_ship",
+  "/wiki/Farpoint_Medical_Center",
+  "/wiki/41_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_medical_supply_ship_captain",
+  "/wiki/Riptide_(novel)"
+ ]
+}

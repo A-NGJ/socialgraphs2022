@@ -1,0 +1,47 @@
+{
+ "name": "Woorta_Woorta",
+ "display_name": "Woorta Woorta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Makem Te"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Swokes Swokes"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Woorta Woorta was a female Swokes Swokes who lived in the city of Thousand Thousand on Makem Te. She was the daughter of the Sassa district caliph.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Makem_Te/Legends",
+  "/wiki/Swokes_Swokes/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thousand_Thousand",
+  "/wiki/Sassa_district",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Woorta_Woorta",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

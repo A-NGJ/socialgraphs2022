@@ -1,0 +1,43 @@
+{
+ "name": "Themog",
+ "display_name": "Themog",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Themog was a criminal operating in the town of Corestrike on the planet Chrona. A former Corellian Security Force officer, Themog retired in disgrace after being injured while trying to shake down a suspect for a higher bribe to look the other way.\nSettling on Chrona, Themog was associated with a lot of the crime that plague the town of Corestrike. He retained the assassin droid BG-12, and was in a romantic relationship with Lady Moira Kruger. Their relationship allowed him to hide out at the Grinder Dance Hall, and to corrupt her vote on the Magistrate Council.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corestrike",
+  "/wiki/Planet/Legends",
+  "/wiki/Chrona/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Assassin_droid/Legends",
+  "/wiki/BG-12",
+  "/wiki/Lord/Legends",
+  "/wiki/Moira_Kruger",
+  "/wiki/The_Grinder_Dance_Hall",
+  "/wiki/Magistrate_Council",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Heroes_Need_Not_Apply",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

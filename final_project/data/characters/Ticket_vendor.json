@@ -1,0 +1,64 @@
+{
+ "name": "Ticket_vendor",
+ "display_name": "Ticket vendor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Mottled yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This ticket vendor, a male Chevin, sold tickets to the Tatooine Boonta Eve Classic during the time of the Invasion of Naboo.\nDuring selling tickets, the Ticket Vendor wore a Beige all-covering cloak and a visor-like headpiece.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Boonta_Eve_Classic/Legends",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace_(video_game)",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

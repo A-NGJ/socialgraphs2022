@@ -1,0 +1,46 @@
+{
+ "name": "Tirsan",
+ "display_name": "Tirsan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Sometime BBY",
+      "Hollast VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Esoomian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tirsan was an Esoomian guard who worked for Glorga the Hutt.\nDuring the Second Hollastin Insurrection, a group of smugglers busted into Glorga's throneroom and killed Tirsan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galactic_Standard_Calendar",
+  "/wiki/Hollast_VII",
+  "/wiki/Esoomian/Legends",
+  "/wiki/Glorga",
+  "/wiki/Hutt/Legends",
+  "/wiki/Second_Hollastin_Insurrection",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tirsan",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Wanted_by_Cracken_(Star_Wars_Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_4"
+ ]
+}

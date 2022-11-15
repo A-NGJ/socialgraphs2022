@@ -1,0 +1,38 @@
+{
+ "name": "Thorn_(flight_instructor)",
+ "display_name": "Thorn  (flight instructor)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Thorn was a flight instructor on Kashyyyk. In 24 ABY, he taught Sirrakuk to fly a BTL Y-wing starfighter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thorn_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Flight_instructor/Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/24_ABY/Legends",
+  "/wiki/Sirrakuk",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Young_Jedi_Knights:_Delusions_of_Grandeur"
+ ]
+}

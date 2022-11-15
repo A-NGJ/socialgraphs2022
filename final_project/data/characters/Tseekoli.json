@@ -1,0 +1,44 @@
+{
+ "name": "Tseekoli",
+ "display_name": "Tseekoli",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tseekoli was a Rodian female residing on Mek-Sha during the All Worlds Ultimate Swoop Rally. She owned a shipping business and was a friend of the swoop racer Veerla Mere.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mek-Sha",
+  "/wiki/All_Worlds_Ultimate_Swoop_Rally",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Veerla_Mere",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tseekoli",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

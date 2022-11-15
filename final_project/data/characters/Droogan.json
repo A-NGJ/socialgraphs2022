@@ -1,5 +1,6 @@
 {
  "name": "Droogan",
+ "display_name": "Droogan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Droogan was a male Khramboan vendor on Coruscant during the Clone Wars. He managed to swindle the protocol droid C-3PO out of thirty two credits when the droid was shopping for jogan fruit.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Droogan",

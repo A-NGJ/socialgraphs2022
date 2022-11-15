@@ -1,0 +1,54 @@
+{
+ "name": "Wyrlan",
+ "display_name": "Wyrlan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wyrlan was an officer in the Galactic Alliance Guard who was with Ben Skywalker when he had made his first kill during a raid on suspected Corellian terrorists. He would later guard Ben along with Garsi as Tahiri Veila tortured former GAG officer Lon Shevu to death. After Ben nuetralized Tahiri with their weapons, Wyrlan and Garsi willingly allowed Ben to escape after threatening them with death if they tried to stop him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Wyrlan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Ben_Skywalker",
+  "/wiki/Corellian/Legends",
+  "/wiki/Garsi",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Lon_Shevu",
+  "/wiki/Legacy_of_the_Force:_Betrayal",
+  "/wiki/Legacy_of_the_Force:_Invincible",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

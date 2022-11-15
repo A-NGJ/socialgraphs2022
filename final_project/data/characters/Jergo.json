@@ -1,5 +1,6 @@
 {
  "name": "Jergo",
+ "display_name": "Jergo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Jergo was a Kubaz male who earned a living as an information broker in Mos Espa on Tatooine.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kubaz/Legends",

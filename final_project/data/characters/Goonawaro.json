@@ -1,5 +1,6 @@
 {
  "name": "Goonawaro",
+ "display_name": "Goonawaro",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Goonawaro was a male Ithorian Jedi who served the Jedi Order during the Galactic War between the Galactic Republic and the resurgent Sith Empire.\nIn 3642 BBY, he reported that the Empire's attempts to mine Quesh venom are slowly poisoning the planet. He sent a Republic spacer to destroy the Venom Tanks.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ithorian/Legends",

@@ -1,0 +1,74 @@
+{
+ "name": "Vondruln",
+ "display_name": "Vondruln",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial NavyAdmiral Harkov's fleet",
+      "Imperial NavyAdmiral Harkov's fleet",
+      "Admiral Harkov's fleet",
+      "Alliance to Restore the RepublicAlliance Fleet",
+      "Alliance Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vondruln was a male Human officer who formerly served in the Imperial Navy.\nWhile under the command of Admiral Harkov at the Battle for Honor during the Galactic Civil War, Vondruln worked as an adviser to the admiral during his defection to the Rebel Alliance.\nVondruln informed Harkov of the transfer of Maarek Stele to the Victory-class Star Destroyer Protector. Possessing this information, Vondruln made arrangements for \"an accident\" to eliminate Stele, which precipitated the \"Battle for Honor\". Stele was able to evade the conspiracy to destroy him, fleeing to the safety of the Nebulon-B2 frigate Osprey and the Secret Order, leading to the Galactic Empire's discovery of Harkov's plot.\nAfterwards, Admiral Harkov executed Vondruln for his failure to kill Stele.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Admiral_Harkov%27s_fleet",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Fleet",
+  "/wiki/Admiral/Legends",
+  "/wiki/Harkov",
+  "/wiki/Battle_for_Honor",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Maarek_Stele/Legends",
+  "/wiki/Victory-class_Star_Destroyer/Legends",
+  "/wiki/Protector_(Victory_I-class)",
+  "/wiki/Nebulon-B2_frigate",
+  "/wiki/Osprey",
+  "/wiki/Prophets_of_the_Dark_Side",
+  "/wiki/TIE_Fighter:_The_Official_Strategy_Guide",
+  "/wiki/TIE_Fighter_Collector%27s_CD-ROM:_The_Official_Strategy_Guide"
+ ]
+}

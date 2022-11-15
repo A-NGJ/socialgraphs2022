@@ -1,0 +1,42 @@
+{
+ "name": "Unidentified_Sakiyan_posting_agent",
+ "display_name": "Unidentified Sakiyan posting agent",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Sakiyan individual was an agent at a posting agency. Ezra Bridger and Bossk were on a mission to the posting agency to gain access to the Imperial Enforcement DataCore. Bossk paid the agent to get through.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sakiyan",
+  "/wiki/Galactic_Empire",
+  "/wiki/Posting_agency_(Capital_City_spaceport)",
+  "/wiki/Ezra_Bridger",
+  "/wiki/Bossk%27wassak%27Cradossk",
+  "/wiki/Imperial_Enforcement_DataCore",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Sakiyan_posting_agent",
+  "/wiki/Ezra%27s_Gamble"
+ ]
+}

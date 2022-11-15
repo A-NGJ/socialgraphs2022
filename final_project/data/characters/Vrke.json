@@ -1,0 +1,47 @@
+{
+ "name": "Vrke",
+ "display_name": "Vrke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Inquisitorius"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vrke was a member of the Imperial Inquisitorius.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Inquisitorius/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vrke",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Jump_to_Lightspeed"
+ ]
+}

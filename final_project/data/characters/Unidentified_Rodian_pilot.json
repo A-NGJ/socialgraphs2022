@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Rodian_pilot",
+ "display_name": "Unidentified Rodian pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Rodian pilot was once stuck on the Mezeg sector freight terminal during an inspection by stormtroopers on all departing ships for stowaways. While waiting, he struck up a conversation with fellow pilot Nyreen Vollen, who was actually trying to smuggle two Jedi off the terminal and into the planet Mandalore. The Rodian complained to Vollen how the inspection was ruining his schedule, as well as his dislike for the Jedi Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Mezeg_sector",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Nyreen_Vollen",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rodian_pilot",
+  "/wiki/Imperial_Commando:_501st"
+ ]
+}

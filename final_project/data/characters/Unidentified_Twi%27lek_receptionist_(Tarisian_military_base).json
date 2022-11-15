@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Twi%27lek_receptionist_(Tarisian_military_base)",
+ "display_name": "Unidentified Twi'lek receptionist  (Tarisian military base)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Twi'lek receptionist in the employ of the Sith Empire was posted in the main lobby of the Tarisian military base. She wore a combat suit.\nThis Twi'lek had worked on the base before the Sith's occupation of Taris. Once the Galactic Republic was forced out, it was then converted into the headquarters for the Sith government on the planet, led by a Force-sensitive Sith Governor. She was on post during Revan's intrusion as part of his effort to steal the launch codes that would enable him and his companions to leave the planet.\nShe challenged the group at first, threatening to raise the alarm and thus lead to a firefight with Sith troopers stationed inside, though after she was persuaded not too, she left peacefully.\nShould the player fail to successfully bribe the receptionist, the player may still opt to threaten her with violence. If the player then decides to not let her go, she will raise the alarm so as to warn the Sith personnel of Revan's presence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Sith/Legends",
+  "/wiki/Tarisian_military_base",
+  "/wiki/Combat_suit",
+  "/wiki/Taris/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Sith_Governor",
+  "/wiki/Revan/Legends",
+  "/wiki/Sith_trooper_(Sith_Empire)",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

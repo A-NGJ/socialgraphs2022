@@ -1,0 +1,38 @@
+{
+ "name": "Torsteen",
+ "display_name": "Torsteen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Svivreni"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torsteen was a male Svivreni crimelord who lived during the Galactic Civil War.\nTorsteen owned a scavenger droid, Bruthus, and wanted to use it for salvage and recycling of space debris in the Corporate Sector for profit. During the operation, Bruthus kept the best waste and sold it himself, without Torsteen knowing it. As a result, Torsteen only obtained marginal profit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Svivreni",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Bruthus",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Torsteen",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Toria_Tell%27s_Droid_Journal_(article)",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

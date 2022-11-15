@@ -1,0 +1,46 @@
+{
+ "name": "Nan_Syboeseb",
+ "display_name": "Nan Syboeseb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sanads of Rorkee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nan Syboeseb was a female Human waitress-in-training working in the restaurant of the Sanads of Rorkee hotel. She was clumsy, but shrewd.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nan_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sanads_of_Rorkee",
+  "/wiki/Waiter/Legends",
+  "/wiki/Hotel/Legends",
+  "/wiki/Head_in_the_Clouds"
+ ]
+}

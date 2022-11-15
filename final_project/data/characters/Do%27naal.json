@@ -1,5 +1,6 @@
 {
- "name": "Do'naal",
+ "name": "Do%27naal",
+ "display_name": "Do'naal",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Do'naal was a bearded male Human who served the Rebel Alliance during the Galactic Civil War. While appearing to be loyal to the Alliance, he was in fact an Imperial Intelligence mole, responsible for compromising the identities of several Rebel agents including Vewin on Kelada, and Rixen on Kuat.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

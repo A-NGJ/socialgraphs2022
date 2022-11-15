@@ -1,0 +1,45 @@
+{
+ "name": "Zereldspidar",
+ "display_name": "Zereldspidar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cadomai Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snivvian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zereldspidar was a male Snivvian who became a charismatic, although evil, dictator of the Snivvian homeworld, Cadomai Prime. The product of a rare Snivvian genetic defect that resulted in male twin births, Zereldspidar developed a personality disorder which manifested itself in sociopathic behavior. After rising to power on Cadomai, he was eventually ousted by the forces of the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cadomai_Prime/Legends",
+  "/wiki/Snivvian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies"
+ ]
+}

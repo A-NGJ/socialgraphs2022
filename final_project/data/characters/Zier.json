@@ -1,0 +1,62 @@
+{
+ "name": "Zier",
+ "display_name": "Zier",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Besadii"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zier was a member of the Besadii Hutt clan and was one of Durga Besadii Tai's primary rivals for clan leader in the wake of Aruk Besadii Aora's death. He was also Durga's cousin.\nWhen Black Sun destroyed all opposition to Durga's leadership, Durga made Zier his lieutenant in an effort to keep his enemies as close as possible. He was a skilled Hutt and kept great track of Besadii's financial matters, even going so far as to challenge Durga on several occasions when he felt that the Hutt lord was spending too many credits on searching for his parent's killer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Zier",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Besadii/Legends",
+  "/wiki/Durga_Besadii_Tai",
+  "/wiki/Aruk_Besadii_Aora",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Rebel_Dawn",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

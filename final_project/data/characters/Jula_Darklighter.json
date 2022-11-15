@@ -1,0 +1,67 @@
+{
+ "name": "Jula_Darklighter",
+ "display_name": "Jula Darklighter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Darklighter family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jula Darklighter was the brother of Huff Darklighter, the husband of Silya Darklighter, and the father of Rasca and Gavin Darklighter.\nJula bought the Lars moisture farm from Throgg. Together with his wife, he maintained the farm for several seasons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darklighter_family",
+  "/wiki/Huff_Darklighter",
+  "/wiki/Silya_Darklighter",
+  "/wiki/Rasca_Darklighter",
+  "/wiki/Gavin_Darklighter",
+  "/wiki/Lars_homestead",
+  "/wiki/Throgg",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/Tatooine_Ghost",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/4_ABY/Legends"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Parnet",
+ "display_name": "Parnet",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "General Parnet served aboard the Imperial Star Destroyer Mark II Interrogator where he was in charge of ground forces under High Inquisitor Tremayne.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

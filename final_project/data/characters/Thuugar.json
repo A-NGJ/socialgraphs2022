@@ -1,0 +1,54 @@
+{
+ "name": "Thuugar",
+ "display_name": "Thuugar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gamorr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thuugar was a Gamorrean \"leg-breaker\" who was once hired on the planet Gamorr by a smuggler who owned a YT-1300 freighter. The price for his services was 50 credits per day.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Gamorr/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thuugar",
+  "/wiki/Shadis",
+  "/wiki/Corellian_Smuggler",
+  "/wiki/Shadis_27"
+ ]
+}

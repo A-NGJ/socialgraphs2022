@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Droc_Syndic",
+ "display_name": "Unidentified Droc Syndic",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy",
+      "Droc family",
+      "Droc family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Chiss syndic represented the Droc family in the Chiss Syndicure. They once served on a tribunal that investigated Senior Captain Thrawn's actions during the attack on the Paataatus. During the tribunal, the syndic criticized Admiral Ar'alani's defense of Thrawn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Droc_family",
+  "/wiki/Chiss_Syndicure",
+  "/wiki/Gender",
+  "/wiki/Senior_Captain",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Attack_on_the_Paataatus",
+  "/wiki/Syndic",
+  "/wiki/Admiral",
+  "/wiki/Ar%27alani",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Droc_Syndic",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising_(audiobook)"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Revis",
+ "display_name": "Revis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Revis was a Human male doctor of the Sith Empire who lived during the Cold War.\nStationed on Balmorra and suffering from Kanju's disease, he asked a Sith Empire-aligned individual to upload data from a spike.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

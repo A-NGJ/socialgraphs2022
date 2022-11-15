@@ -1,0 +1,53 @@
+{
+ "name": "Shran_Etison",
+ "display_name": "Shran Etison",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tuttin IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shran Etison was a male Human who lived on the planet Tuttin IV. When the Galactic Empire took over the planet, Tendis Ancum and his wife, Jioie, left their son Ryley in the care of Shran while they left for Beltrix III.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tuttin_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Tendis_Ancum",
+  "/wiki/Jioie_Ancum",
+  "/wiki/Ryley_Ancum",
+  "/wiki/Beltrix_III",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shran_Etison",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Rebel_Bass",
+  "/wiki/Star_Wars_Gamer_6"
+ ]
+}

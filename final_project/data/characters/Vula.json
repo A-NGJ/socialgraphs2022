@@ -1,0 +1,78 @@
+{
+ "name": "Vula",
+ "display_name": "Vula",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bumani Exchange Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vula was a Human female who worked as a receptionist for the Bumani Exchange Corporation, a front for the Exchange, on Citadel Station over Telos IV.\nOne day, Koobis paged her and said that Meetra Surik was coming to see Loppak Slusk. When she came in, Vula told her she didn't have an appointment. Despite that, Surik got in. On her way out, after her encounter with Slusk and Luxa, she asked Surik not to kill her. Surik told her to leave the Exchange Suites if she wanted to live. She quickly did so.\nWhen first meeting Vula the player has several options:\nPersuade/Force persuade her, or tell her you don't have an appointment. If the latter is chosen, or you fail the persuade check, four Gamorreans attack you in the next room.\nAfter your first fight in the Exchange Suites, you can optionally decide to kill Vula, thus gaining dark side points.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bumani_Exchange_Corporation",
+  "/wiki/Exchange",
+  "/wiki/Citadel_Station",
+  "/wiki/Light_side_of_the_Force/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/Canon",
+  "/wiki/Koobis_(First_Jedi_Purge)",
+  "/wiki/Meetra_Surik",
+  "/wiki/Loppak_Slusk",
+  "/wiki/Skirmishes_on_Citadel_Station",
+  "/wiki/Luxa",
+  "/wiki/Gamorrean/Legends"
+ ]
+}

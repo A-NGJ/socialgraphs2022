@@ -1,5 +1,6 @@
 {
  "name": "Shurgg",
+ "display_name": "Shurgg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Shurgg was a female Quarren thief who worked for the Cerean Force adept Pal-Nada at some point during galactic history. The Cerean operated a starship theft operation and on multiple occasions, he used a front organization called Interplanetary Acquisitions to distract starship owners while Shurrg disguised herself as a port authority safety officer and stole the distracted owners' ships.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Quarren/Legends",

@@ -1,0 +1,62 @@
+{
+ "name": "Tomarian",
+ "display_name": "Tomarian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tomarian was a human male who owned a theater and held the Tomarian's Annual Festival of Light Gala. During the gala, a criminal crew broke in and used gas to subdue everyone at the gala. They took Tomarian hostage because he owed the crew's leader, Telsla, credits that he never paid him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tomarian%27s_theater",
+  "/wiki/Tomarian%27s_Annual_Festival_of_Light_Gala",
+  "/wiki/Telsla%27s_crew",
+  "/wiki/Gas",
+  "/wiki/Telsla",
+  "/wiki/Credit",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tomarian",
+  "/wiki/Star_Wars_Adventures_(2020)",
+  "/wiki/The_Incident,_Part_1",
+  "/wiki/Star_Wars_Adventures_(2020)_5",
+  "/wiki/The_Incident,_Part_2",
+  "/wiki/Star_Wars_Adventures_(2020)_6"
+ ]
+}

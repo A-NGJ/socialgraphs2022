@@ -1,0 +1,36 @@
+{
+ "name": "Stel%27s_uncle",
+ "display_name": "Stel's uncle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The uncle of Stel was a male human who owned a repair shop on Lothal.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Stel",
+  "/wiki/Stel%27s_uncle%27s_repair_shop",
+  "/wiki/Lothal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Stel%27s_uncle",
+  "/wiki/Adventures_in_Wild_Space:_The_Dark"
+ ]
+}

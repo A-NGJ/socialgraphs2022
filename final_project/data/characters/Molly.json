@@ -1,5 +1,6 @@
 {
  "name": "Molly",
+ "display_name": "Molly",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Molly was a rib-cat owned by the con artist Loonoo. One of several rib-cats belonging to Loonoo, Molly resided in his apartment in the Corellian Sector on Nar Shaddaa and subsisted on rats while their owner was away on long cons.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Nar_Shaddaa",

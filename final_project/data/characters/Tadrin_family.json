@@ -1,0 +1,74 @@
+{
+ "name": "Tadrin_family",
+ "display_name": "Tadrin family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Family"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Cassandran Worlds"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Spira",
+      "Shulxi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Esselian conglomerate",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Tadrin family was a prominent family in the Cassandran Worlds of the Outer Rim Territories. Around a century before the fall of the Galactic Republic, Cassander Tadrin the head of the Esselian conglomerate, which controlled twenty-four agriworlds. He later discovered the star systems that came to be known as the Cassandran Worlds. His many descendants continued to live in the region during the time of the Galactic Empire. One member of the family was Luthus Tadrin, who became Governor of the Tadrin sector due to his Imperial sympathies.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cassandran_Worlds/Legends",
+  "/wiki/Spira/Legends",
+  "/wiki/Shulxi",
+  "/wiki/Esselian_conglomerate",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Standard_century/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cassander_Tadrin",
+  "/wiki/Agriworld/Legends",
+  "/wiki/Star_system/Legends",
+  "/wiki/Luthus_Tadrin",
+  "/wiki/Governor/Legends",
+  "/wiki/Tadrin_sector",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Missed_Chance",
+  "/wiki/Star_Wars_Adventure_Journal_7",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

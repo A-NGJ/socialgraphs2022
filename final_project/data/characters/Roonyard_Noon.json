@@ -1,0 +1,47 @@
+{
+ "name": "Roonyard_Noon",
+ "display_name": "Roonyard Noon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sy Myrth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sy Myrthian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roonyard Noon was a Sy Myrthian lawyer whose wife and three children were aboard the hijacked Elegant Wake. He claimed, along with other relatives, that the standard silent running procedure for passing through the Merson asteroid belt was botched by crew incompetence, and that the BoSS data would back their claims.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sy_Myrth/Legends",
+  "/wiki/Sy_Myrthian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/HoloNet_News_Vol._531_46",
+  "/wiki/Elegant_Wake",
+  "/wiki/Merson_asteroid_belt",
+  "/wiki/Bureau_of_Ships_and_Services/Legends",
+  "/wiki/HoloNet_News/Legends"
+ ]
+}

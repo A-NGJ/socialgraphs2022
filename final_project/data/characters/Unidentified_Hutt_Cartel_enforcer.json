@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Hutt_Cartel_enforcer",
+ "display_name": "Unidentified Hutt Cartel enforcer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male enforcer worked for the Hutt Cartel on Nar Shaddaa. When rumors that the Guiding Hand gang was led by a Jedi reached the Cartel, the enforcer was sent to confront Tharan Cedrax, who had been seen working with a Jedi Knight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Guiding_Hand",
+  "/wiki/Tharan_Cedrax",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Hutt_Cartel_enforcer",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

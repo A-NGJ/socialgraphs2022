@@ -1,0 +1,49 @@
+{
+ "name": "VibroSword_Ten",
+ "display_name": "VibroSword Ten",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "VibroSword Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "VibroSword Ten was a Mon Calamari pilot who served in VibroSword Squadron in 40 ABY during Operation Roundabout. He flew an Eta-5 interceptor like his wingmates, and flew alongside Syal Antilles during the operation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/VibroSword_Squadron",
+  "/wiki/Pilot/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Operation_Roundabout",
+  "/wiki/Eta-5_interceptor",
+  "/wiki/Syal_Antilles",
+  "/wiki/Legacy_of_the_Force:_Betrayal"
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "name": "Unidentified_Rodian_warlord",
+ "display_name": "Unidentified Rodian warlord",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian warlord lived during the Rise of the Empire era, and gave a gift of a RHTC-560 Hunter Trainer droid and RHTC-560 HT Drones to Imperial Captain Aron Harcourt prior to 3 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Rise_of_the_Empire_era",
+  "/wiki/RHTC-560_Hunter_Trainer",
+  "/wiki/Droid/Legends",
+  "/wiki/RHTC-560_HT_Drone",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Aron_Harcourt",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Empire_28"
+ ]
+}

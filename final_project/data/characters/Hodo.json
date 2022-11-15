@@ -1,5 +1,6 @@
 {
  "name": "Hodo",
+ "display_name": "Hodo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Hodo was a pilot of the New Republic Defense Fleet who commanded Black Flight of the 24th Bombardment Squadron, attached to the Fifth Battle Group. Hodo was in constant competition with Esege Tuketu for squadron command.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

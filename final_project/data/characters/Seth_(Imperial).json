@@ -1,0 +1,48 @@
+{
+ "name": "Seth_(Imperial)",
+ "display_name": "Seth  (Imperial)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seth was a Human male Imperial pilot who was stationed on the Imperial II-class Star Destroyer Ravagor during an attack on Aguarl 3 in 0 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Imperial_II-class_Star_Destroyer/Legends",
+  "/wiki/Ravagor",
+  "/wiki/Aguarl_3",
+  "/wiki/0_ABY/Legends",
+  "/wiki/River_of_Chaos_1"
+ ]
+}

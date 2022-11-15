@@ -1,5 +1,6 @@
 {
  "name": "Clawfish",
+ "display_name": "Clawfish",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Clawfish was a Quarren outlaw tech who established the Event Horizon cantina on Rrudobar, an orbital city over Duro. He had but one remaining facial tentacle, and became enraged whenever inquired about it.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Quarren/Legends",

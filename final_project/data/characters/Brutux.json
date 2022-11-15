@@ -1,5 +1,6 @@
 {
  "name": "Brutux",
+ "display_name": "Brutux",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Brutux was a hushstalker that belonged to Skrrll. The rib-cat Warm Face reminded Skrrll of Brutux.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hushstalker",

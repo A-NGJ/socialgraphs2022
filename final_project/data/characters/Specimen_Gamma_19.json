@@ -1,0 +1,61 @@
+{
+ "name": "Specimen_Gamma_19",
+ "display_name": "Specimen Gamma 19",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3639 BBY",
+      "Theoretika"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jurgoran"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Specimen Gamma 19 was a bio-engineered jurgoran that was kept aboard the Theoretika, a research vessel operated by the Czerka Corporation. About one century before 3639 BBY, an accident happened. The specimen consumed Orgglo, a researcher stationed aboard the Theoretika, down to the marrow of his bones. This prompted Vipp, the science officer aboard the vessel, to place the creature in suspended animation. In 3639 BBY, various individuals who sought to recover the only remaining schematics for the HK-51 series assassin droid woke up the specimen and slew it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3639_BBY",
+  "/wiki/Theoretika",
+  "/wiki/Jurgoran",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Orgglo",
+  "/wiki/Bone/Legends",
+  "/wiki/HK-51_series_assassin_droid",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2012",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

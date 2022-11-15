@@ -1,5 +1,6 @@
 {
  "name": "Lorana",
+ "display_name": "Lorana",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Lorana was the female human owner of The Labyrinth, a cantina on Kelada.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lorana",

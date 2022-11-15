@@ -1,0 +1,49 @@
+{
+ "name": "TK-40121",
+ "display_name": "TK-40121",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Scarif Deployment",
+      "Scarif Deployment"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-40121 was the designation of a stormtrooper who was part of the Galactic Empire's Scarif Deployment that guarded the Citadel Tower's data hub on Scarif.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Scarif_Deployment",
+  "/wiki/Operating_number",
+  "/wiki/Stormtrooper",
+  "/wiki/Citadel_Tower",
+  "/wiki/Scarif_vault",
+  "/wiki/Scarif",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TK-40121",
+  "/wiki/Rogue_One:_A_Star_Wars_Story",
+  "/wiki/Star_Wars:_Rogue_One:_The_Ultimate_Visual_Guide",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

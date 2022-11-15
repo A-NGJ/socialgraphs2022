@@ -1,5 +1,6 @@
 {
  "name": "Sarinte",
+ "display_name": "Sarinte",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Sarinte was a male Human ensign of the Sith Empire living during the Cold War. Stationed on Tatooine in Mos Ila Spaceport, he directed fellow Imperials arriving on the planet to the local branch of the Imperial Reclamation Service.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

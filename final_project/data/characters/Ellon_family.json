@@ -1,0 +1,40 @@
+{
+ "name": "Ellon_family",
+ "display_name": "Ellon family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Dodz"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ellon family lived on the planet Dodz during the Imperial Period. The family was largely killed by Governor Kugg, save for Jost Ellon, who proved instrumental in the dictator's overthrow.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Dodz",
+  "/wiki/Planet/Legends",
+  "/wiki/Imperial_Period",
+  "/wiki/Death/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Kugg",
+  "/wiki/Jost_Ellon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Droids_(1986)_1",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

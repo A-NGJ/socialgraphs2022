@@ -1,0 +1,63 @@
+{
+ "name": "Miwy_Joy",
+ "display_name": "Miwy Joy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twi'lek Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miwy Joy was a Twi'lek who fought for Cham Syndulla's resistance movement during the Clone Wars. Joy was killed with other Twi'leks by the Confederacy of Independent Systems.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Miwy_Joy",
+  "/wiki/Miwy_Joy/Legends",
+  "/wiki/Ryloth",
+  "/wiki/22_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Twi%27lek_Resistance",
+  "/wiki/Cham_Syndulla",
+  "/wiki/Clone_Wars",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Liberty_on_Ryloth",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

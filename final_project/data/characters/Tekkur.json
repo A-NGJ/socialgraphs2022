@@ -1,0 +1,56 @@
+{
+ "name": "Tekkur",
+ "display_name": "Tekkur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Invisible Hand cantina"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tekkur was a male Quarren who worked as a bouncer in the Invisible Hand cantina on Coruscant.\nHe found his work in the cantina to be relatively quiet, as the clientele were generally peaceful. After he had been there for about a year, the Imperial Security Bureau agent Tavik Moern and some Quarren thugs became involved in a firefight with some Alderaanian Resistance agents in the cantina. Tekkur switched his blaster to stun and tried to fire at anyone who he thought was causing significant damage to the premises.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Invisible_Hand_cantina",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Tavik_Moern",
+  "/wiki/Alderaanian_Resistance",
+  "/wiki/Blaster/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/A_Reckoning_of_Wraiths"
+ ]
+}

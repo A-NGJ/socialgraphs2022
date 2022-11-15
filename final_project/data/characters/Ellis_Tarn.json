@@ -1,0 +1,68 @@
+{
+ "name": "Ellis_Tarn",
+ "display_name": "Ellis Tarn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ellis Tarn was a male Devaronian who was one of the leaders of the White Maw. During the Galactic War, he was killed when the Empire invaded Coldstone Canyon and killed every leader of the White Maw.\nIn the video game Star Wars: The Old Republic he can be spared by offering the White Maw leaders the option to surrender.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Galactic_War",
+  "/wiki/Death/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Coldstone_Canyon",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

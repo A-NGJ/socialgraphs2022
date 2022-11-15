@@ -1,0 +1,64 @@
+{
+ "name": "Terek_Rogriss",
+ "display_name": "Terek Rogriss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "11 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Terek Rogriss was the son of Admiral Teren Rogriss. Born in 11 BBY, when he came of age he followed his father into service in the Imperial Navy. When the elder Rogriss defected in 13 ABY, General Wedge Antilles promised to get word to Terek and his sister Asori, and offer them the ability to join their father.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/11_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Admiral/Legends",
+  "/wiki/Teren_Rogriss",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Asori_Rogriss",
+  "/wiki/X-Wing:_Starfighters_of_Adumar"
+ ]
+}

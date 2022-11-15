@@ -1,0 +1,60 @@
+{
+ "name": "Yassia_Koth",
+ "display_name": "Yassia Koth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Interplanetary Component Exchange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yassia Koth was a female Zabrak of the Interplanetary Component Exchange stationed on the Vaiken Spacedock living during the Cold War and Galactic War.\nYassia Koth appears in the Star Wars: The Old Republic Cartel Market as an Interplanetary Component Exchange vendor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Interplanetary_Component_Exchange",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Cartel_Market",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

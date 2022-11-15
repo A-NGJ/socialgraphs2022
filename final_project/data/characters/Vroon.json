@@ -1,0 +1,57 @@
+{
+ "name": "Vroon",
+ "display_name": "Vroon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "S'krrr"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "S'krrr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "S'krrr"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vroon was the S'krrr caretaker of the Sikadian Gardens. A follower of an ancient cult which worshiped drog beetles, he used his position to kill the garden's predatory shreevs in order to allow the drog population thrive. He was eventually killed by the insects.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/S%27krrr",
+  "/wiki/0_ABY/Legends",
+  "/wiki/S%27krrr_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Sikadian_Garden",
+  "/wiki/Drog",
+  "/wiki/Shreev",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vroon",
+  "/wiki/Galaxy_of_Fear:_The_Swarm",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

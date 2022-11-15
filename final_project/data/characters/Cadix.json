@@ -1,5 +1,6 @@
 {
  "name": "Cadix",
+ "display_name": "Cadix",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Cadix was a Human male lieutenant of the Galactic Republic during the Galactic War. In 3642 BBY he was stationed at the Outpost Cresh on Hoth, where he helped decipher sensitive information retrieved from a corpse of a Chiss defector by a Republic citizen.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

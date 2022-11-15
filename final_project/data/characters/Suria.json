@@ -1,0 +1,63 @@
+{
+ "name": "Suria",
+ "display_name": "Suria",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Agent Suria was a Twi'lek female who worked for the Republic Strategic Information Service during the Galactic War. Holding the rank of Field Agent, she was stationed on Quesh in 3642 BBY where she tasked a fellow Republic citizen with checking on her subordinate Agent Meldo, who missed two scheduled comm checks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Suria_system",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Galactic_War",
+  "/wiki/Quesh",
+  "/wiki/3642_BBY",
+  "/wiki/Meldo",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

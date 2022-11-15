@@ -1,5 +1,6 @@
 {
  "name": "Kenpa",
+ "display_name": "Kenpa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Kenpa was a Sullustan male Jedi Master of the Jedi Order during the struggle between the Galactic Republic and the reconstituted Sith Empire. He sold items aboard the Republic's Carrick Station.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullustan/Legends",

@@ -1,0 +1,49 @@
+{
+ "name": "Roenni%27s_father",
+ "display_name": "Roenni's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Roenni was a male Human from the planet Melida/Daan. He worked as a starfighter mechanic, giving Roenni familiarity with all types of aerial vehicles.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Roenni",
+  "/wiki/Planet/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Roenni%27s_father",
+  "/wiki/Jedi_Apprentice:_The_Uncertain_Path"
+ ]
+}

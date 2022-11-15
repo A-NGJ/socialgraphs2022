@@ -1,0 +1,44 @@
+{
+ "name": "Sw%27isi",
+ "display_name": "Sw'isi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mashi Horansi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sw'isi was a Mashi Horansi male who was a member of the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mashi_Horansi",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planets_of_the_Galaxy,_Volume_One",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

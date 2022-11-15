@@ -1,5 +1,6 @@
 {
  "name": "Dojundo",
+ "display_name": "Dojundo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Dojundo the Hutt was an emissary from the Hutt Empire. He was the first Hutt to find Vodran, a planet in the Si'Klaata Cluster, and wanted to recruit the native Vodrans for the Hutts' war with Xim the Despot.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

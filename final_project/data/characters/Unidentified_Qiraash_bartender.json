@@ -1,0 +1,29 @@
+{
+ "name": "Unidentified_Qiraash_bartender",
+ "display_name": "Unidentified Qiraash bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Qiraash"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a Qiraash bartender on the planet Vaced.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Qiraash/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Vaced/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Qiraash_bartender",
+  "/wiki/The_Clone_Wars:_Secret_Missions_3:_Duel_at_Shattered_Rock"
+ ]
+}

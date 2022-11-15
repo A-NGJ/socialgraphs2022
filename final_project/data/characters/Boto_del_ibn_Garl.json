@@ -1,0 +1,58 @@
+{
+ "name": "Boto_del_ibn_Garl",
+ "display_name": "Boto del ibn Garl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vaufthau Processing Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boto del ibn Garl was the local administrator of Vaufthau Processing Industries on Goroth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vaufthau_Processing_Industries",
+  "/wiki/Goroth_Prime",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Boto_del_ibn_Garl",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

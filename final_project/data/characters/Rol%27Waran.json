@@ -1,5 +1,6 @@
 {
- "name": "Rol'Waran",
+ "name": "Rol%27Waran",
+ "display_name": "Rol'Waran",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Rol'Waran was a male Twi'lek employed by the Hutts to oversee spice shipment on the Starmaster.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

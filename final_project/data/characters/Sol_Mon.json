@@ -1,0 +1,69 @@
+{
+ "name": "Sol_Mon",
+ "display_name": "Sol Mon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Grappa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sol Mon was a Human male and the leader of a pirate gang that rose to power during the Galactic Empire's fragmentation following the Battle of Endor. He engaged in several trips across the galaxy, acquiring a fleet of small, black-market-modified starfighters and the pirates to crew them.\nHe was hired by Grappa the Hutt to raid various cargo transports, both those of the New Republic and the Empire. Sol Mon fled from Grappa after Black Sun uncovered Grappa's treachery.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Grappa_(Hutt)",
+  "/wiki/Pirate/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_1",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_3",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_4",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_5",
+  "/wiki/Star_Wars_Handbook_2:_Crimson_Empire",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Tront"
+ ]
+}

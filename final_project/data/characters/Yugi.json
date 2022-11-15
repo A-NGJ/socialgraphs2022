@@ -1,0 +1,56 @@
+{
+ "name": "Yugi",
+ "display_name": "Yugi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "36 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Flakax"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Directors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yugi was a Flakax Joiner, sent along with Tito, assigned to assassinate Han Solo and Leia Organa by the Squibs known as the Directors. He failed in his mission and was sliced in two by Leia's lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/36_ABY",
+  "/wiki/Flakax",
+  "/wiki/Directors",
+  "/wiki/Joiner",
+  "/wiki/Tito",
+  "/wiki/Assassin/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Squibs",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Dark_Nest_III:_The_Swarm_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Ortolan_monk",
+ "display_name": "Ortolan monk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ortolan monk lived in Trid on Danuta. He was encountered by Jan Ors during her search for Kyle Katarn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Trid",
+  "/wiki/Danuta",
+  "/wiki/Jan_Ors",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire"
+ ]
+}

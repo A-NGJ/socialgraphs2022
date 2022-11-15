@@ -1,0 +1,27 @@
+{
+ "name": "Zona_Dreon",
+ "display_name": "Zona Dreon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Skakoan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zona Dreon was a member of the Skakoan species.\nZona Dreon was created by Ann Margaret Lewis for The New Essential Guide to Alien Species, published in 2006.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Skakoan/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Ann_Margaret_Lewis_(real_person)",
+  "/wiki/The_New_Essential_Guide_to_Alien_Species",
+  "/wiki/2006"
+ ]
+}

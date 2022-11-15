@@ -1,0 +1,39 @@
+{
+ "name": "Tarula",
+ "display_name": "Tarula",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarula was a male Dug, who lived during the early years of the Galactic Empire. He lived on the planet Byrsym, where he worked for the Toydarian merchant Ballon. When a group of agents from the planet Daimar attempted to contact Ballon while in the cantina Emthuul's, Tarula sat at the cantina's bar and watched over Ballon, without making it obvious what he was doing.\nTarula pretended to be stupid and pugnacious to get people to underestimate him. However, he was in fact shrewd, competent and very practical.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Byrsym",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Ballon",
+  "/wiki/Daimar",
+  "/wiki/Cantina/Legends",
+  "/wiki/Emthuul%27s",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

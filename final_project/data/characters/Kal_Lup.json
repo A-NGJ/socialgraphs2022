@@ -1,0 +1,37 @@
+{
+ "name": "Kal_Lup",
+ "display_name": "Kal Lup",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shistavanen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kal Lup was a female Shistavanen who owned Lup's Wares and Supplies with her husband Tar Lup. Kal was nice and friendly to customers, but she didn't like anybody poking into her business.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shistavanen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lup%27s_Wares_and_Supplies",
+  "/wiki/Tar_Lup",
+  "/wiki/Tatooine_Manhunt",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Mos_Eisley_Adventure_Set"
+ ]
+}

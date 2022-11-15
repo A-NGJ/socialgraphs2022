@@ -1,5 +1,6 @@
 {
  "name": "Alugomes",
+ "display_name": "Alugomes",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Alugomes was an Iakaru spice dealer active during the time of the New Republic. The dealer was invited by Zeva Bliss of the Spice Runners of Kijimi to a summit on Kijimi. Bliss intended to execute the criminals she had gathered, but the Spice Runner Poe Dameron prevented her plans, allowing the criminal guests to escape.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Iakaru",

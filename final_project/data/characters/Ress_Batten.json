@@ -1,0 +1,97 @@
+{
+ "name": "Ress_Batten",
+ "display_name": "Ress Batten",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ress Batten was a female human from the planet Alderaan who served as a lieutenant aboard the Tantive IV. She accompanied Princess Leia Organa to Crait where they unknowingly came across a base being operated by Organa's father, Bail Organa. She was later brought into the rebellion by Captain Raymus Antilles shortly before the fleet was evacuated from Paucris Major.\nBatten also attended the ceremony where Organa was officially invested as crown princess of Alderaan. When Organa walked past Batten in the palace Throne room Organa noted that she looked too bowled over to react.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Alderaan",
+  "/wiki/Human",
+  "/wiki/Alderaanian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/House_of_Organa",
+  "/wiki/Planet",
+  "/wiki/Lieutenant",
+  "/wiki/Tantive_IV",
+  "/wiki/Prince",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Crait",
+  "/wiki/Crait_outpost",
+  "/wiki/Parent",
+  "/wiki/Bail_Prestor_Organa",
+  "/wiki/Captain",
+  "/wiki/Raymus_Antilles",
+  "/wiki/Fleet",
+  "/wiki/Evacuation_of_Paucris_Major",
+  "/wiki/Paucris_Major",
+  "/wiki/Coronation_of_the_Alderaanian_heir",
+  "/wiki/Crown",
+  "/wiki/Royal_Palace_of_Alderaan",
+  "/wiki/Throne",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ress_Batten",
+  "/wiki/Leia,_Princess_of_Alderaan",
+  "/wiki/Leia,_Princess_of_Alderaan_(audiobook)",
+  "/wiki/Leia_Organa:_Ordeal_of_the_Princess"
+ ]
+}

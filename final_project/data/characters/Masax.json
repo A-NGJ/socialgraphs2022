@@ -1,5 +1,6 @@
 {
  "name": "Masax",
+ "display_name": "Masax",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Masax was a male Human living during the Cold War. He resided on Nar Shaddaa, working as a merchant at the Promenade.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

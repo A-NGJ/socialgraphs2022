@@ -1,0 +1,49 @@
+{
+ "name": "Graaf_Savraan",
+ "display_name": "Graaf Savraan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Graaf Savraan, also known as \"The Graaf\", was a Human known as a noble relative of the governor of Salliche during the early days of the Galactic Empire, and supposedly critical of Palpatine's rise to power and his actions during the Clone Wars. In reality, he was an undercover agent of the Imperial Security Bureau during the early days of the Galactic Empire. Graaf's reputation as a disgruntled noble with significant resources made him an instrumental part of an ambush on Salliche at Docking Bay 723, intended to lure dissenters into being captured and imprisoned by Imperial forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Salliche/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/The_Force_Unleashed_Campaign_Guide"
+ ]
+}

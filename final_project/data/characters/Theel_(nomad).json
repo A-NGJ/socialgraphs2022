@@ -1,0 +1,59 @@
+{
+ "name": "Theel_(nomad)",
+ "display_name": "Theel  (nomad)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "c.15 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Theel was a male Human hailing from the Mid Rim world Ord Mantell. Theel's older sister Alva was married to a scrapper named Evun, and together they lived in the Scraplands salvaging waste for profit. During the Galactic Civil War, Theel and his family were ambushed by Savrips on their journey to Fifth Wheel. Wearing survival gear and a homemade slugthrower rifle, Evun and Alva attempted to hold off the Savrips while Theel guarded the children.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/15_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mid_Rim",
+  "/wiki/Planet/Legends",
+  "/wiki/Alva",
+  "/wiki/Evun",
+  "/wiki/Scraplands/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Mantellian_Savrip/Legends",
+  "/wiki/Fifth_Wheel",
+  "/wiki/Slugthrower_rifle/Legends",
+  "/wiki/Mask_of_the_Pirate_Queen"
+ ]
+}

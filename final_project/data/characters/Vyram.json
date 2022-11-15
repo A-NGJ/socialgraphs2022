@@ -1,0 +1,65 @@
+{
+ "name": "Vyram",
+ "display_name": "Vyram",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Freedom resistance movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vyram was a Human male from Bakura who worked as a slicer during the time of the Yuuzhan Vong War. He was one of the core members of the Freedom resistance movement, and a close friend of its founder, Malinza Thanas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Freedom_resistance_movement",
+  "/wiki/Slicer/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Malinza_Thanas",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee"
+ ]
+}

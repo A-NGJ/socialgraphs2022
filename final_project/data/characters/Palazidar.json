@@ -1,5 +1,6 @@
 {
  "name": "Palazidar",
+ "display_name": "Palazidar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Palazidar was a t'landa Til Sacredot who once fell asleep while performing the Exultation on the Mountain of the Exalted on the planet Ylesia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/T%27landa_Til",

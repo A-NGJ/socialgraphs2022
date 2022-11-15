@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Besalisk_caterer",
+ "display_name": "Unidentified Besalisk caterer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Mandalorian Wars, a male Besalisk worked as a caterer on the planet Taris. In 3969 BBY, he served the Jedi from the Jedi Tower.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Besalisk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/3969_BBY",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Tower",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Besalisk_caterer",
+  "/wiki/Knights_of_the_Old_Republic_1"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Dem_Keval",
+ "display_name": "Dem Keval",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chandrila"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dem Keval was a Chandrilan who was appointed as Imperial governor of the planet Tasariq. Tasked with governing the world and ensuring that Tasariq remained free as long as the appropriate taxes were paid, Governor Keval levied a heavy tariff on off-world goods.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Chandrilan/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tasariq",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Tasariq:_The_Crystal_Planet",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

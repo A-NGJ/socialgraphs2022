@@ -1,0 +1,77 @@
+{
+ "name": "Sanola_Ti",
+ "display_name": "Sanola Ti",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order",
+      "Jedi Coalition"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sanola Ti was a niece of Kirana Ti and one of the young Jedi Knights in Luke Skywalker's New Jedi Order during the Second Galactic Civil War. Sanola was described as a good, studious Jedi who had inherited her aunt's skills as a pilot. She was one of many Jedi who flew StealthX starfighters during the conflict, flying as both Skywalker's wingman and as Wedge Antilles' wingman in Rakehell Squadron.\nDuring the operation to destroy Centerpoint Station, Sanola and the Rakehells engaged Rogue Squadron. She suffered significant battle damage and was ordered by Antilles to pull out of the engagement.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Jedi_Coalition",
+  "/wiki/Kirana_Ti",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Jedi/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/StealthX",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Rakehell_Squadron",
+  "/wiki/Centerpoint_Station",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Legacy_of_the_Force:_Fury",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Everything_You_Always_Wanted_to_Know_about_the_Nightsisters_but_Were_Afraid_to_Ask",
+  "/wiki/Star_Wars_Insider_122",
+  "/wiki/Holocron_continuity_database",
+  "/wiki/Leland_Chee",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Nightsisters/Legends"
+ ]
+}

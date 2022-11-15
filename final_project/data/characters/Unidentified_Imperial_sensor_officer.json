@@ -1,0 +1,77 @@
+{
+ "name": "Unidentified_Imperial_sensor_officer",
+ "display_name": "Unidentified Imperial sensor officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3636 BBY",
+      "Wild Space"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireDarth Marr's task force",
+      "Darth Marr's task force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female served the resurgent Sith Empire as a sensor officer onboard Darth Marr's flagship during the late Galactic War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/3636_BBY",
+  "/wiki/Wild_Space/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Darth_Marr%27s_task_force",
+  "/wiki/Sensor_officer/Legends",
+  "/wiki/Darth_Marr",
+  "/wiki/Darth_Marr%27s_flagship",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

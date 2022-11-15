@@ -1,0 +1,72 @@
+{
+ "name": "Sosa",
+ "display_name": "Sosa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sosa was a Human female minister in the Galactic Republic during the Galactic War. A special envoy to the Gree Enclave, she received a message from unit Na-TaK regarding a crisis situation on Asation. After recruiting a Republic strike team to deal with the threat on Carrick Station, Sosa directed them to Republic Major Cobus on the Valor-class cruiser Gav Daragon, who would commanding the operation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Minister",
+  "/wiki/Galactic_War",
+  "/wiki/Gree_Enclave/Legends",
+  "/wiki/Na-TaK",
+  "/wiki/Asation",
+  "/wiki/Carrick_Station",
+  "/wiki/Major/Legends",
+  "/wiki/Cobus",
+  "/wiki/Valor-class_cruiser",
+  "/wiki/Gav_Daragon_(Valor-class)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

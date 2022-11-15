@@ -1,0 +1,45 @@
+{
+ "name": "Zussh",
+ "display_name": "Zussh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Khil"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rusher's Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zussh was a Khil who lived during the Republic Dark Age, and served as a member of the mercenary force Rusher's Brigade.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Khil",
+  "/wiki/Gender/Legends",
+  "/wiki/Rusher%27s_Brigade",
+  "/wiki/Republic_Dark_Age",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Knight_Errant_(novel)"
+ ]
+}

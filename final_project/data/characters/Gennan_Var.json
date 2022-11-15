@@ -1,0 +1,34 @@
+{
+ "name": "Gennan_Var",
+ "display_name": "Gennan Var",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gennan Var was a male Twi'lek bounty hunter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Heavy_Lifting",
+  "/wiki/Instant_Adventures"
+ ]
+}

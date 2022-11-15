@@ -1,5 +1,6 @@
 {
  "name": "Kladak",
+ "display_name": "Kladak",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Kladak was a Hutt crime lord during the time of the Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Category:Articles_to_be_expanded",

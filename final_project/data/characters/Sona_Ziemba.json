@@ -1,0 +1,48 @@
+{
+ "name": "Sona_Ziemba",
+ "display_name": "Sona Ziemba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sona Ziemba lived on Alderaan, and informed Ferus Olin about native flowers which only bloom for one day in Alderaan, and about the festival that is held on that day. She was later interrogated by Ferus and Hydra about whether she knew anything about a Force-Sensitive toddler. She had a husband named Dartan and a female child named Tula.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ferus_Olin",
+  "/wiki/Hydra_(Grand_Inquisitor)",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Dartan_Ziemba",
+  "/wiki/Tula_Ziemba",
+  "/wiki/The_Last_of_the_Jedi:_Master_of_Deception"
+ ]
+}

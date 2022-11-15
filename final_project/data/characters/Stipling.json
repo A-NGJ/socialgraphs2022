@@ -1,0 +1,48 @@
+{
+ "name": "Stipling",
+ "display_name": "Stipling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Stipling was an Imperial Officer working for the Imperial Resource Procurement Bureau during the height of the New Order. He was in charge of a detail searching for the raw materials for the Imperial war machine.\nHe and his team were captured by Bel Att in Yen-2. The destruction of their shuttle killed them all.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Imperial_Resource_Procurement_Bureau",
+  "/wiki/New_Order/Legends",
+  "/wiki/Bel_Att",
+  "/wiki/Yen-2",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

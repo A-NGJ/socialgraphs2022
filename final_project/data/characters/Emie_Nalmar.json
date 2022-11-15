@@ -1,0 +1,35 @@
+{
+ "name": "Emie_Nalmar",
+ "display_name": "Emie Nalmar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Emie Nalmar was the wife of Ral Nalmar, and the mother of Elana Nalmar. She was killed during the attack on the Nalmar mansion perpetrated by Qual'om Soach's forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ral_Nalmar",
+  "/wiki/Elana_Nalmar",
+  "/wiki/Nalmar_mansion",
+  "/wiki/Qual%27om_Soach",
+  "/wiki/Flashpoint!_Brak_Sector"
+ ]
+}

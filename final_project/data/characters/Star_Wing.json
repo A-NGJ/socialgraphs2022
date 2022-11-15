@@ -1,0 +1,45 @@
+{
+ "name": "Star_Wing",
+ "display_name": "Star Wing",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duinuogwuin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "80 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Star Wing was a Duinuogwuin male, 80 meters in length. His underbelly was silver, while the scales on his back were a pale blue color. Star Wing lived for centuries in The Drift before deciding to explore other parts of the galaxy. However, the Star Dragon almost suffocated while traversing the Drift due to lack of oxygen. Fortunately for the intrepid explorer, Star Wing encountered a group of Rebels and was able to communicate with them its need for oxygen using its latent Force sensitivity. Having gaining sufficient nutrition from them, he continued on his way.\nThe Duinuogwuin later encountered the same group of Rebels when they were under attack from the Scourge Pirates. Star Wing was able to return their kindness by attacking the pirates' Impasse with a blast of superheated gas from his stomach.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duinuogwuin/Legends",
+  "/wiki/Alpha-class_Xg-1_Star_Wing/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Drift",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Oxygen/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Scourge_Pirates",
+  "/wiki/Impasse",
+  "/wiki/Operation:_Elrood_(book)"
+ ]
+}

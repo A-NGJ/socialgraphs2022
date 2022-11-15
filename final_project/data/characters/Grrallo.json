@@ -1,5 +1,6 @@
 {
  "name": "Grrallo",
+ "display_name": "Grrallo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Grrallo was a male Wookiee who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashyyyk/Legends",

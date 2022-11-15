@@ -1,0 +1,28 @@
+{
+ "name": "Xzuhal",
+ "display_name": "Xzuhal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xzuhal was a Falleen scout operating near the Unknown Regions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Falleen/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Xzuhal",
+  "/wiki/Shadows_of_the_Empire_Sourcebook"
+ ]
+}

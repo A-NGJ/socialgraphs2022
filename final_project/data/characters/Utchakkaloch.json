@@ -1,0 +1,62 @@
+{
+ "name": "Utchakkaloch",
+ "display_name": "Utchakkaloch",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Tan"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Utchakkaloch, more commonly known as Chakk, was a male Wookiee who was the son of Dewlannamapia and was also Han Solo's \"adopted brother\". Known as Chakk to his friends, this dark brown Wookiee met Han Solo at Chewbacca's wedding to Mallatobuck. He was later present at the funeral of Chewbacca. Chakk was distantly related to Chewbacca, through a second cousin three times removed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Dewlannamapia",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Mallatobuck/Legends",
+  "/wiki/The_Paradise_Snare",
+  "/wiki/Rebel_Dawn",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial"
+ ]
+}

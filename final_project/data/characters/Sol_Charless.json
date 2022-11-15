@@ -1,0 +1,70 @@
+{
+ "name": "Sol_Charless",
+ "display_name": "Sol Charless",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Durkteel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snivvian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dijon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sol Charless, nicknamed \"Li'l Sol\", was a young Snivvian male who lived in Lund Gourley on the planet Durkteel. He was often bullied by Fikk, a male Saurin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Durkteel",
+  "/wiki/Snivvian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Lund_Gourley",
+  "/wiki/Planet",
+  "/wiki/Fikk",
+  "/wiki/Saurin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sol_Charless",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Tales_from_Wild_Space:_Mattis_Makes_a_Stand",
+  "/wiki/Star_Wars_Adventures_(2017)_4"
+ ]
+}

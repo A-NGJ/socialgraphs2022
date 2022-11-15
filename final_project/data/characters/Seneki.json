@@ -1,5 +1,6 @@
 {
  "name": "Seneki",
+ "display_name": "Seneki",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Seneki was a female Squib.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Squib/Legends",

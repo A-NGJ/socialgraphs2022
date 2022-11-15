@@ -1,5 +1,6 @@
 {
  "name": "Ashe",
+ "display_name": "Ashe",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ashe was a member of the Alliance to Restore the Republic stationed on Rafft. He was a mechanic stationed in a township two hundred kilometers from the Rebel base on the planet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

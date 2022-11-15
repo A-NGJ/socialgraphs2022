@@ -1,0 +1,73 @@
+{
+ "name": "Dev_(clone_trooper)",
+ "display_name": "Dev  (clone trooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the RepublicYayax Squad",
+      "Grand Army of the RepublicYayax Squad",
+      "Yayax Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dev was a Clone commando and a member of Yayax Squad, who was born on Kamino and trained by the Mandalorian Rav Bralor. He participated in the Battle of Coruscant and later defected from the GAR and traveled to Mandalore along with the rest of Yayax Squad.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Yayax_Squad",
+  "/wiki/Clone_commando/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Rav_Bralor",
+  "/wiki/Battle_of_Coruscant/Legends",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Order_66:_A_Republic_Commando_Novel",
+  "/wiki/Imperial_Commando:_501st"
+ ]
+}

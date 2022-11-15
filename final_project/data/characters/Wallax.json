@@ -1,0 +1,88 @@
+{
+ "name": "Wallax",
+ "display_name": "Wallax",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wallax was a male Human who held the rank of sergeant in the Imperial Navy of the Sith Empire during the Cold War. In 3643 BBY, the corrupt sergeant was hired by the bounty hunter Tarro Blood to arrest a rival bounty hunter, and Wallax and a squad of his men intercepted the hunter in the Nexus Room cantina in Kaas City, the Empire's capital on Dromund Kaas. However, when Blood contacted Wallax during the \"arrest\" to confirm his success, Wallax's men grew suspicious of their commander's intentions and demanded in on the pay. Nonetheless, the bounty hunter killed Wallax and all of his men.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Navy_(Sith_Empire)",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Tarro_Blood",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Nexus_Room",
+  "/wiki/Cantina/Legends",
+  "/wiki/Kaas_City",
+  "/wiki/Capital/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

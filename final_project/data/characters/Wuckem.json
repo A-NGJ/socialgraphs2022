@@ -1,0 +1,53 @@
+{
+ "name": "Wuckem",
+ "display_name": "Wuckem",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Makem Te"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Swokes Swokes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Congress of Caliphs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wuckem was a Swokes Swokes caliph, one of several who ruled over various portions of the city Thousand Thousand on the planet Makem Te. The caliph lived in a palace at the center of the city.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Makem_Te/Legends",
+  "/wiki/Swokes_Swokes/Legends",
+  "/wiki/Congress_of_Caliphs",
+  "/wiki/Caliph",
+  "/wiki/Thousand_Thousand",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wuckem",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

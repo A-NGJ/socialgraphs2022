@@ -1,0 +1,39 @@
+{
+ "name": "Tossonnu",
+ "display_name": "Tossonnu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tossonnu was an outlaw Wookiee who belonged to a secret network, and worked to get fugitive Wookiees to a safe place.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tossonnu",
+  "/wiki/Tooth_and_Claw",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

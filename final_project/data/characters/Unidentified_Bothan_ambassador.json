@@ -1,0 +1,73 @@
+{
+ "name": "Unidentified_Bothan_ambassador",
+ "display_name": "Unidentified Bothan ambassador",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bothawui"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 40 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Bothan ambassador was the head of Bothawui's delegation to the Galactic Alliance Senate. When a large number of True Victory Party members began to be assassinated by the Galactic Alliance Guard on Coruscant, he withdrew his delegation from the Senate in protest, which allowed the Law Enforcement Tools Provision to be passed. Shortly later he himself was assassinated, which caused Bothawui to recall its entire representation from Coruscant and prepare three cruiser fleets for Corellian service.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothawui/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Senate",
+  "/wiki/True_Victory_Party",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Law_Enforcement_Tools_Provision",
+  "/wiki/Cruiser/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/Senator/Legends",
+  "/wiki/Bothan_sector",
+  "/wiki/Mak_Sezala",
+  "/wiki/Tiurrg_Drey%27lye"
+ ]
+}

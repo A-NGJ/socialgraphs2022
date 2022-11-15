@@ -1,0 +1,57 @@
+{
+ "name": "Weblin",
+ "display_name": "Weblin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Weblin was a Regional Governor serving the Galactic Republic and later the Galactic Empire as a Moff.\nWhen Emperor Palpatine declared his Galactic Empire in 19 BBY, Weblin became Grand Moff of Sector 6 and assumed the role of commander of the 6th Sector Army, better known as Black Sword Command.\nA fleet tender of the Imperial Navy, the Moff Weblin, was later named after him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Declaration_of_a_New_Order",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Grand_Moff/Legends",
+  "/wiki/Sector_6",
+  "/wiki/Sixth_Negative_Regions",
+  "/wiki/Fleet_tender",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Moff_Weblin",
+  "/wiki/Shield_of_Lies",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

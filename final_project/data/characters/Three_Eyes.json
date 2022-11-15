@@ -1,0 +1,49 @@
+{
+ "name": "Three_Eyes",
+ "display_name": "Three Eyes",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3656 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Three Eyes\" was the nickname given to a Gran crime lord by his slave Vette, a Twi'lek child he owned during the Great Galactic War. Three Eyes acquired Vette around 3656 BBY, but not long afterwards he crossed the more powerful crime lord Nok Drayen and was killed as a result.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Vette",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Nok_Drayen",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia",
+  "/wiki/Risha_Drayen",
+  "/wiki/Carbonite/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Template:TOR_dates/1",
+  "/wiki/3664_BBY"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Ruur_Night_Herald",
+ "display_name": "Ruur Night Herald",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Killik"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ruur"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ruur Night Herald was a Killik that held the position of Night Herald among the Ruur Killik hive on the planet Alderaan during the Alderaan Civil War. The Killik was slain by Republic forces that invaded the Ruur Killik Burrows.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Killik/Legends",
+  "/wiki/Ruur",
+  "/wiki/Night_Herald",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Death/Legends",
+  "/wiki/Ruur_Killik_Burrows",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

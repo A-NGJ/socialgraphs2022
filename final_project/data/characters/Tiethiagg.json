@@ -1,0 +1,47 @@
+{
+ "name": "Tiethiagg",
+ "display_name": "Tiethiagg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiethiagg was the first great poet and philosopher of the Ithorians. He was adept at understanding the Ithorian's herd culture and its relationship with the individual, and how each individual needed to contribute to the health of Ithor as a whole. Some sociologists contended that Ithorian culture was largely dedicated to his metaphors.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Poet/Legends",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition,_Revised_and_Expanded"
+ ]
+}

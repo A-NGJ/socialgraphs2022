@@ -1,0 +1,30 @@
+{
+ "name": "Anorad_Estuan",
+ "display_name": "Anorad Estuan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dactrurian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Anorad Estuan was a renowned Dactrurian actor. The Estuan Theater aboard the luxury liner Kuari Princess was named in their honor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dactrurian",
+  "/wiki/Actor/Legends",
+  "/wiki/Estuan_Theater",
+  "/wiki/Luxury_liner/Legends",
+  "/wiki/Kuari_Princess/Legends",
+  "/wiki/Riders_of_the_Maelstrom_(West_End_Games)",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three"
+ ]
+}

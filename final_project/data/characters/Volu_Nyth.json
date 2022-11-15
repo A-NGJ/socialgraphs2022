@@ -1,0 +1,74 @@
+{
+ "name": "Volu_Nyth",
+ "display_name": "Volu Nyth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kuat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "Rogue Squadron",
+      "Rogue Squadron",
+      "Jedi Coalition",
+      "Rakehell Squadron",
+      "Rakehell Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Volu Nyth was a Kuati pilot who joined Rogue Squadron during the siege of Borleias and flew in that series of battles. After the Yuuzhan Vong War, she retired from military service; during the Second Galactic Civil War, Wedge Antilles recruited her into Rakehell Squadron, an independent unit supporting Luke Skywalker's Jedi faction. There, she flew in the raid on the Anakin Solo, coming up against her former unit while providing cover.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Jedi_Coalition",
+  "/wiki/Rakehell_Squadron",
+  "/wiki/Battle_of_Borleias_(Yuuzhan_Vong_War;_Second)",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Anakin_Solo_(Imperial_II-class_Star_Destroyer)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Volu_Nyth",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_I:_Rebel_Dream",
+  "/wiki/Legacy_of_the_Force:_Fury",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

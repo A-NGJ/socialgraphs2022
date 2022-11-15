@@ -1,5 +1,6 @@
 {
  "name": "Colf",
+ "display_name": "Colf",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Lieutenant Colf was a stormtrooper stationed aboard the Reprisal in 0.5 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Flitta",
+ "display_name": "Flitta",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Flitta was a female rada-cat that was killed by Darth Momin when he was a child.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Darth_Momin%27s_destruction_of_a_city",

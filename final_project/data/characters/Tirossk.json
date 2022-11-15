@@ -1,0 +1,65 @@
+{
+ "name": "Tirossk",
+ "display_name": "Tirossk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "New Republic Defense Fleet",
+      "Rapid Response Task Force",
+      "New Republic Defense Fleet",
+      "Rapid Response Task Force",
+      "Rapid Response Task Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Tirossk was a male Bothan who commanded the Lancer, a Corellian frigate that was part of the New Republic's Rapid Response Task Force.\nIn 5 ABY, Tirossk participated in the Battle of Mindor. When General Luke Skywalker's flagship Justice was destroyed by Lord Shadowspawn's gravity bomb, Tirossk became the unofficial commander of the Rapid Response Task Force by virtue of his seniority.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Rapid_Response_Task_Force",
+  "/wiki/Captain/Legends",
+  "/wiki/Lancer_(freightliner)",
+  "/wiki/Corellian/Legends",
+  "/wiki/Frigate/Legends",
+  "/wiki/5_ABY/Legends",
+  "/wiki/Battle_of_Mindor",
+  "/wiki/General/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Flagship/Legends",
+  "/wiki/Justice_(MC80_Liberty_type_Star_Cruiser)",
+  "/wiki/Lord/Legends",
+  "/wiki/Cronal",
+  "/wiki/Gravity_bomb",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tirossk",
+  "/wiki/Luke_Skywalker_and_the_Shadows_of_Mindor"
+ ]
+}

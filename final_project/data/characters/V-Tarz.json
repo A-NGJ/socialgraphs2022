@@ -1,0 +1,62 @@
+{
+ "name": "V-Tarz",
+ "display_name": "V-Tarz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Learning Circle"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "V-Tarz was a gruff Truant Guide at the Learning Circle on Kegan. He apprehended Obi-Wan Kenobi and Siri Tachi during a truant sweep, mistakenly thinking they were students escaping from the Learning Circle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/Human/Legends",
+  "/wiki/Keganite",
+  "/wiki/Gender/Legends",
+  "/wiki/Learning_Circle",
+  "/wiki/Truant_Guide",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Siri_Tachi/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/V-Tarz",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

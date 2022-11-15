@@ -1,0 +1,66 @@
+{
+ "name": "Zho_Krazhmir",
+ "display_name": "Zho Krazhmir",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Sometime BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong empireWarrior caste",
+      "Warrior caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zho Krazhmir was Supreme Commander of the Yuuzhan Vong forces in the First Battle of Zonama Sekot, and the one who agreed to take Vergere back to the rest of the fleet in return for calling off the attack.\nFor his discovery of Zonama Sekot, he was granted a new leg implant. However, it never developed properly, and he died in his sleep from it several years later, long before the Yuuzhan Vong War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Supreme_Commander_(Yuuzhan_Vong_rank)",
+  "/wiki/Rasi_Tuum_family",
+  "/wiki/Zho_Rasi_Tuum",
+  "/wiki/Galactic_Standard_Calendar",
+  "/wiki/Gender/Legends",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Warrior_caste",
+  "/wiki/First_Battle_of_Zonama_Sekot",
+  "/wiki/Vergere",
+  "/wiki/Fleet/Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/The_New_Jedi_Order:_Destiny%27s_Way",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

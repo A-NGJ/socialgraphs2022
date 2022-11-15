@@ -1,0 +1,70 @@
+{
+ "name": "Trubor",
+ "display_name": "Trubor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chadra"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "24 ABY",
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chadra-Fan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trubor was a male Chadra-Fan Senator of the New Republic who represented the planet Chadra.\nDuring the Battle of Ryloth, where Trubor was present, he was killed in the crossfire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chadra",
+  "/wiki/24_ABY/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Chadra-Fan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Battle_of_Ryloth_(Diversity_Alliance_Crisis)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trubor",
+  "/wiki/Young_Jedi_Knights:_The_Emperor%27s_Plague",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "name": "Vamasto_Maja",
+ "display_name": "Vamasto Maja",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Savareen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vamasto Maja was one of the oldest female human who lived on Savareen in the Pnakotic Coast village on the Pnakotic Coast. She was the supervisor of rebuilding of the refining plant. She was also present when Tobias Beckett's crew came to Savareen in 10 BBY to refine Coaxium that they had stolen from Kessel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Savareen",
+  "/wiki/Human",
+  "/wiki/Savarian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Pnakotic_Coast_village",
+  "/wiki/Pnakotic_Coast",
+  "/wiki/Tobias_Beckett",
+  "/wiki/Beckett%27s_gang",
+  "/wiki/10_BBY",
+  "/wiki/Coaxium",
+  "/wiki/Kessel",
+  "/wiki/Solo:_A_Star_Wars_Story",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide",
+  "/wiki/Proclamation_of_the_New_Order",
+  "/wiki/Galactic_Empire",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/19_BBY"
+ ]
+}

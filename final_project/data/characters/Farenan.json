@@ -1,5 +1,6 @@
 {
  "name": "Farenan",
+ "display_name": "Farenan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Farenan was a female Human who was located on the moon of Nal Hutta, Nar Shaddaa. She made her living as a stims vendor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

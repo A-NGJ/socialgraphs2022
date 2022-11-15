@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_Republic_soldier_(Foundry_Uprising)",
+ "display_name": "Unidentified Republic soldier  (Foundry Uprising)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3678 BBY",
+      "Begeren"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Human was a soldier in the Galactic Republic and fought in the Foundry Uprising during the Great Galactic War. He was killed on the planet Begeren in 3678 BBY by Sith apprentice Teneb Kel during the Invasion of Begeren.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3678_BBY",
+  "/wiki/Begeren",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/The_Old_Republic,_Blood_of_the_Empire_Act_1:_Shades_of_the_Sith",
+  "/wiki/Soldier/Legends",
+  "/wiki/Foundry_Uprising",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Darth_Thanaton",
+  "/wiki/Invasion_of_Begeren"
+ ]
+}

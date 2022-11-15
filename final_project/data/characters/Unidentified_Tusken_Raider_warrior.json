@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Tusken_Raider_warrior",
+ "display_name": "Unidentified Tusken Raider warrior",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified Tusken Raider tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Tusken Raider was a warrior who belonged to a tribe and lived in a village on the planet Tatooine. According to legend, the warrior made it her destiny to find and kill Krayt for the destruction it caused.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_Tusken_Raider",
+  "/wiki/Tatooine",
+  "/wiki/Tusken_Raider",
+  "/wiki/Gender",
+  "/wiki/Warrior",
+  "/wiki/Unidentified_Tusken_Raider_village_(Krayt)",
+  "/wiki/Planet",
+  "/wiki/Death",
+  "/wiki/Krayt",
+  "/wiki/The_Knight_%26_the_Dragon",
+  "/wiki/Myths_%26_Fables"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Kirter",
+ "display_name": "Kirter",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Kirter was a male Human who served the reconstituted Sith Empire. Stationed on Nar Shaddaa, he trained Imperial Intelligence agents.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

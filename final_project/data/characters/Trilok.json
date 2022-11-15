@@ -1,0 +1,67 @@
+{
+ "name": "Trilok",
+ "display_name": "Trilok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 231 BBY",
+      "Restitution"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gormak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nihil",
+      "Pan Eyta's Tempest",
+      "Pan Eyta's Tempest"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trilok was a Gormak male and the new lieutenant of Pan Eyta during the High Republic Era. He helped to capture Lourna Dee and occupy the prison ship Restitution. He killed when Quin reprogrammed Pan's Scavange droids and they attacked they own team.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/231_BBY",
+  "/wiki/Lourna_Dee_(prison_ship)",
+  "/wiki/Gormak",
+  "/wiki/Gender",
+  "/wiki/Nihil",
+  "/wiki/Pan_Eyta%27s_Tempest",
+  "/wiki/Pan_Eyta",
+  "/wiki/High_Republic_Era",
+  "/wiki/Lourna_Dee",
+  "/wiki/Quin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trilok",
+  "/wiki/The_High_Republic:_Tempest_Runner",
+  "/wiki/The_High_Republic:_Tempest_Runner_(script)"
+ ]
+}

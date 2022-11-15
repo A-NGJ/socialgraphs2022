@@ -1,0 +1,40 @@
+{
+ "name": "Jak_(technician)",
+ "display_name": "Jak  (technician)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jak  was a member of a class-seven retrieval team capable of handling ZR-57 orbital strike bombs. After one such bomb was almost set off on Voss, Jak and Garen were brought in to safely retrieve it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Class-seven_retrieval_team",
+  "/wiki/ZR-57_orbital_strike_bomb",
+  "/wiki/Voss",
+  "/wiki/Garen",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

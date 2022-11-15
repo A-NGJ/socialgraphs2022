@@ -1,0 +1,52 @@
+{
+ "name": "Kova_(Twi%27lek)",
+ "display_name": "Kova  (Twi'lek)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kova was a Force-sensitive Rutian Twi'lek female who pulled off a heist with a crew during the rule of the Galactic Empire after buying weapons from a Toydarian named Nel Henol. She wielded a lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kova_(disambiguation)",
+  "/wiki/Twi%27lek",
+  "/wiki/Rutian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Force-sensitive",
+  "/wiki/Galactic_Empire",
+  "/wiki/Toydarian",
+  "/wiki/Nel_Henol",
+  "/wiki/Lightsaber",
+  "/wiki/Gadgets_and_Gear",
+  "/wiki/Starships_and_Speeders"
+ ]
+}

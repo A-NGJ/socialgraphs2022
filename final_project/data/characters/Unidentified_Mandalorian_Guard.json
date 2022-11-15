@@ -1,0 +1,68 @@
+{
+ "name": "Unidentified_Mandalorian_Guard",
+ "display_name": "Unidentified Mandalorian Guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New MandaloriansMandalorian Royal Guard",
+      "Mandalorian Royal Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "When Jedi Master Obi-Wan Kenobi arrived to Mandalore, this Mandalorian guard said that Duchess Satine Kryze was waiting for him. He then brought Kenobi to the Palace where he would meet with the Duchess.\nThe Mandalorian Guard was voiced by Matt Lanter, who also voiced Anakin Skywalker in The Clone Wars TV series.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Mandalorians/Legends",
+  "/wiki/Mandalorian_Royal_Guard",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/Satine_Kryze/Legends",
+  "/wiki/Matt_Lanter",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/The_Mandalore_Plot",
+  "/wiki/Voyage_of_Temptation",
+  "/wiki/StarWars.com"
+ ]
+}

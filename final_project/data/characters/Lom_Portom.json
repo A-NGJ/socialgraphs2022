@@ -1,0 +1,71 @@
+{
+ "name": "Lom_Portom",
+ "display_name": "Lom Portom",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "44 BBY",
+      "Troiken"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stark Commercial Combine"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lom Portom was one of the co-directors of the Stark Commercial Combine. Alongside fellow co-director Trodos, he led the Stark Collective forces in the Fifth Battle of Qotile in 44 BBY. During the battle, Portom was trapped with his troops in a cave and devoured by challat eaters.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Troiken/Legends",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Stark_Commercial_Combine",
+  "/wiki/Trodos",
+  "/wiki/Fifth_Battle_of_Qotile",
+  "/wiki/Challat_eater",
+  "/wiki/Star_Wars_(1998)_36",
+  "/wiki/Star_Wars_(1998)_37",
+  "/wiki/Star_Wars_(1998)_38",
+  "/wiki/Star_Wars_(1998)_39",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

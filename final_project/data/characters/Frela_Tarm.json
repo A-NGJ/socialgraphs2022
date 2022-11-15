@@ -1,0 +1,60 @@
+{
+ "name": "Frela_Tarm",
+ "display_name": "Frela Tarm",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY",
+      "Moon Maiden"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Frela Tarm was a Human female scientist who helped develop the nanokillers that targeted Boba Fett and Hapan Queen Mother Tenel Ka Djo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/44_ABY",
+  "/wiki/Moon_Maiden",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Nanovirus",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Hapan",
+  "/wiki/Queen_Mother",
+  "/wiki/Tenel_Ka_Djo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Frela_Tarm",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

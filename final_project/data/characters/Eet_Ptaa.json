@@ -1,0 +1,59 @@
+{
+ "name": "Eet_Ptaa",
+ "display_name": "Eet Ptaa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eet Ptaa was a male Jawa clan leader who lived on Tatooine during the Galactic Civil War. His fortress was destroyed by Tusken Raiders.\nIn 1 ABY, his clan was threatened with death and extinction when dangerous creatures attacked the clan. Ptaa hired an experienced hunter to track down and kill the beasts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Eet_Ptaa",
+  "/wiki/Swap_Meet:_The_Jawa%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

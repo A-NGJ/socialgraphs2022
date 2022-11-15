@@ -1,0 +1,63 @@
+{
+ "name": "Zadalgo",
+ "display_name": "Zadalgo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sebolto's drug cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zadalgo was a male Dug who worked as a death stick dealer for Sebolto's gang during the years following the Battle of Naboo.\nAbout 10 years before the First Battle of Geonosis, the Pixelito Grand Council issued a bounty for his capture in connection with several crimes. The bounty, which was worth 5,000 credits alive and 2,500 credits dead was later claimed by the notorious bounty hunter Jango Fett during his attempt to get to Sebolto.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sebolto%27s_drug_cartel",
+  "/wiki/Death_stick/Legends",
+  "/wiki/Sebolto",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/First_Battle_of_Geonosis/Legends",
+  "/wiki/Pixelito_Grand_Council",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

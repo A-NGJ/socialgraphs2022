@@ -1,0 +1,53 @@
+{
+ "name": "Tavik_Moern",
+ "display_name": "Tavik Moern",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tavik Moern was a male Human who worked for the Galactic Republic during the Clone Wars until he joined the Galactic Empire after the war ended. He later joined the Imperial Security Bureau and was sent on a mission to capture a group of Alderaanian Resistance fighters on Coruscant. He contacted the Resistance and posed under the alias Pavel Trenol, pretending that he was a weapons technician who had worked on the Sarlacc Project and wanted to give them details of this in return for help. He confronted and was questioned by a team of Resistance fighters in the Invisible Hand cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Alderaanian_Resistance",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Sarlacc_Project",
+  "/wiki/Invisible_Hand_cantina",
+  "/wiki/Wizards.com",
+  "/wiki/A_Reckoning_of_Wraiths"
+ ]
+}

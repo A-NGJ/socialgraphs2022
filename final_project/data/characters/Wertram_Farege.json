@@ -1,0 +1,38 @@
+{
+ "name": "Wertram_Farege",
+ "display_name": "Wertram Farege",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wetram Farege was a Human male who worked for the Iskalloni after the Battle of Endor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Iskalloni",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wertram_Farege",
+  "/wiki/West_End_Games",
+  "/wiki/The_Iskallon_Factor",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

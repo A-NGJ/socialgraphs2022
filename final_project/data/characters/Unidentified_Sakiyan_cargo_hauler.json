@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_Sakiyan_cargo_hauler",
+ "display_name": "Unidentified Sakiyan cargo hauler",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Sakiyan was active during the Clone Wars. The Sakiyan helped get Savage Opress to Lotho Minor, but he was jettisoned out of the ship by Opress once they arrived.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_Sakiyan_cargo_hauler",
+  "/wiki/Unidentified_Sakiyan_cargo_hauler/Legends",
+  "/wiki/Sakiyan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Brothers",
+  "/wiki/Clone_Wars",
+  "/wiki/Savage_Opress",
+  "/wiki/Lotho_Minor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Sakiyan_cargo_hauler",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/StarWars.com"
+ ]
+}

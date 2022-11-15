@@ -1,5 +1,6 @@
 {
  "name": "Kirbi",
+ "display_name": "Kirbi",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kirbi was a Human female Jedi Master who served the Jedi Order and the Galactic Republic during the Cold War against the resurgent Sith Empire. On Taris, Kirbi and a team of Jedi attempted to find a way to reverse the rakghoul plague, but were killed by nekghouls.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3643_BBY",

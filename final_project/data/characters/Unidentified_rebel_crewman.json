@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_rebel_crewman",
+ "display_name": "Unidentified rebel crewman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Phoenix Cell",
+      "Phoenix Cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a human male who served in the Rebel Alliance. In 2 BBY, at Chopper Base, he attempted to prevent Ezra Bridger from stealing an RZ-1T trainer to go off on an unauthorized mission.\nThe rebel crewman is voiced by Dee Bradley Baker, who also voices Captain Rex on Rebels and the clone troopers in Star Wars: The Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Phoenix_Cell",
+  "/wiki/2_BBY",
+  "/wiki/Chopper_Base",
+  "/wiki/Ezra_Bridger",
+  "/wiki/RZ-1T_trainer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_rebel_crewman",
+  "/wiki/Dee_Bradley_Baker",
+  "/wiki/Rex",
+  "/wiki/Clone_trooper",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Star_Wars_Rebels",
+  "/wiki/Twin_Suns_(episode)"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Tyyx",
+ "display_name": "Tyyx",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyyx was a male Rodian who made his living selling tips on Podracing in the club on Coruscant known as the Outlander Club.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tyyx",
+  "/wiki/Tyyx/Legends",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Podracing",
+  "/wiki/Coruscant",
+  "/wiki/Outlander_Club",
+  "/wiki/Star_Wars:_Complete_Locations_(2016)"
+ ]
+}

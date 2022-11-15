@@ -1,0 +1,36 @@
+{
+ "name": "Rake_Gahree%27s_brother",
+ "display_name": "Rake Gahree's brother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The brother of Rake Gahree was a human male.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Rake_Gahree",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rake_Gahree%27s_brother",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Sons_of_the_Sky",
+  "/wiki/Star_Wars_Rebels_Magazine_33"
+ ]
+}

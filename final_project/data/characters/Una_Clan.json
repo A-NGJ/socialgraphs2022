@@ -1,0 +1,74 @@
+{
+ "name": "Una_Clan",
+ "display_name": "Una Clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "First member(s)",
+     "values": [
+      "Komad Fortuna"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Bib Fortuna"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Earliest appearance",
+     "values": [
+      "During the Jedi Civil War"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Twi'lek Clan Council",
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Una Clan or House Una was a famous Twi'lek family on Ryloth. Among its members were Komad Fortuna, during the Jedi Civil War, as well as Bib Fortuna and Ob Fortuna, during the Galactic Civil War. \"Una\" meant \"graceful\" in Twi'leki.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fortuna_family",
+  "/wiki/Una_Clan",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Komad_Fortuna",
+  "/wiki/Bib_Fortuna/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Twi%27lek_Clan_Council",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Ob_Fortuna",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Twi%27leki/Legends",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

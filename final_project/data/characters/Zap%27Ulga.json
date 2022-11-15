@@ -1,0 +1,63 @@
+{
+ "name": "Zap%27Ulga",
+ "display_name": "Zap'Ulga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sebolto's drug cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zap'Ulga was a male Dug under Sebolto's employ and was also involved with pirate activity and Nexu poaching. He was wanted by Senator Ask Aak for connections to a series of raids on Republic freighters carrying relief supplies to Malastare.\nThe bounty, which was worth 4,000 credits alive and 2,000 credits dead was later claimed by the notorious bounty hunter Jango Fett during his attempt to get to Sebolto.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sebolto%27s_drug_cartel",
+  "/wiki/Sebolto",
+  "/wiki/Nexu/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Ask_Aak/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Jango_Fett",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

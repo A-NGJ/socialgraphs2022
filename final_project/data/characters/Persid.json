@@ -1,5 +1,6 @@
 {
  "name": "Persid",
+ "display_name": "Persid",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Persid was a captain in charge of the Republic fleet in orbit above Onderon during the new conflict between the Galactic Republic and Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Zabrak/Legends",

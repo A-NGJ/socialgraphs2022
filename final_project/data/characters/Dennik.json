@@ -1,5 +1,6 @@
 {
  "name": "Dennik",
+ "display_name": "Dennik",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Dennik was a Human male captain of the Republic Army living during the Galactic War. Part of the Republic forces deployed to the planet Denova, he assisted the Republic forces in the fighting against Kephess's renegade forces.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

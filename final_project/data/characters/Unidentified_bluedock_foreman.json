@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_bluedock_foreman",
+ "display_name": "Unidentified bluedock foreman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Chiss foreman worked at a bluedock located in the Chiss Ascendancy. He supervised repairs to the heavy cruiser Springhawk and complained to Ufsa'mak'ro about the work he had to do.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Gender",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Bluedock",
+  "/wiki/Heavy_cruiser",
+  "/wiki/Springhawk",
+  "/wiki/Ufsa%27mak%27ro",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_bluedock_foreman",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising_(audiobook)"
+ ]
+}

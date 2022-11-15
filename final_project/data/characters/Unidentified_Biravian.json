@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Biravian",
+ "display_name": "Unidentified Biravian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Biravian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicCoruscant Security Force",
+      "Coruscant Security Force",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Biravian was a female officer who worked for the Coruscant Security Force during the Clone Wars. After the war, she believed in Chancellor Palpatine's lies about the Jedi betraying the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Biravian",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Coruscant_Security_Force/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Biravian",
+  "/wiki/Order_66:_A_Republic_Commando_Novel"
+ ]
+}

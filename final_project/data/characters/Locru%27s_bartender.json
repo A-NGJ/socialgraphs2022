@@ -1,0 +1,39 @@
+{
+ "name": "Locru%27s_bartender",
+ "display_name": "Locru's bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The bartender at Locru's Central Saloon was a grizzled Human male. He made no protest nor demand for reparations after Warto and Han Solo started a bar fight.\nThis character can't be Locru himself, who was already dead by the time of the story.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Locru%27s_Central_Saloon",
+  "/wiki/Warto",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Locru",
+  "/wiki/Star_Wars_(1977)_7",
+  "/wiki/Star_Wars_(1977)_8",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Starhoppers_of_Aduba-3",
+  "/wiki/Star_Wars_Gamer_4"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Uurk",
+ "display_name": "Uurk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Emmer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uurk was a Gamorrean peace officer on the planet Emmer.\nHe was not a typical Gamorrean. He was perceptive and keen-witted, and extremely honorable. He partnered with K4-06B.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Emmer",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Police_officer/Legends",
+  "/wiki/K4-06B",
+  "/wiki/West_End_Games",
+  "/wiki/Elusive_(adventure)",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

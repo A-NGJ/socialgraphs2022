@@ -1,0 +1,64 @@
+{
+ "name": "Zanthe_Nadia",
+ "display_name": "Zanthe Nadia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pelagon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Pelagia",
+      "Alliance to Restore the Republic",
+      "Pelagia Freedom Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zanthe Nadia was the leader of the Rebel Alliance cell called the Pelagia Freedom Force that operated in the Tapani sector of the Colonies. She was a native of the planet Pelagon in the Pelagia Province and was devastated by the Imperial attack on her homeworld. She swore to hurt the Empire in any was possible but yearned for a chance to make a big hit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pelagon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Pelagia",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Pelagia_Freedom_Force",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Colonies/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Pelagia_Province",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

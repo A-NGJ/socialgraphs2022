@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Geonosian",
+ "display_name": "Unidentified Geonosian",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Geonosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unidentified Geonosian moved to Tatooine, and spent all his money preparing his house for storms only on his homeworld, Geonosis, believing that all desert planets were the same.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Geonosian",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Geonosis",
+  "/wiki/Desert",
+  "/wiki/Planet",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

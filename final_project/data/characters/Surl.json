@@ -1,0 +1,60 @@
+{
+ "name": "Surl",
+ "display_name": "Surl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Surl was a Human customs agent for the Cormond spaceport on Brentaal IV. He had a red trimmed beard, was heavy and rotund, and seemed to be perpetually sweating. His air of bureaucratic denseness belied his true nature, as an ambitious and corrupt agent of the Imperial Security Bureau.\nSurl had a talent for developing and maintaining spy networks. He had many contacts in diplomatic circles, on the street, in the market, in the black market, and even in the Rebel Alliance. He had a talent for getting what he wanted with forgery and bureaucratic doubletalk. All in all, he was an excellent agent for ISB, except that his ambition led him to skim off the top from credits he acquired and assets he impounded.\nSurl's lover was Dania, a member of a Brentaal IV Rebel cell almost as corrupt as Surl himself.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Cormond",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Brentaal_IV/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Black_market/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Dania",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Subo",
+ "display_name": "Subo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Subo was a Hutt crime lord who reigned over a sector of the Unknown Regions. Subo had an interest in the lost planet Endelaan, believing the planet had a means with which he could extend his life indefinitely. To find the planet, he planted an agent on board the starship Spiral Dancer, which was trying to find Endelaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Endelaan",
+  "/wiki/Starship/Legends",
+  "/wiki/Spiral_Dancer",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

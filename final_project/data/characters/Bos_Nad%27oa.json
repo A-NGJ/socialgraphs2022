@@ -1,0 +1,47 @@
+{
+ "name": "Bos_Nad%27oa",
+ "display_name": "Bos Nad'oa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kaltho"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bos Nad'oa was a male Ortolan who worked as chef for Kaltho, a Hutt crime lord during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kaltho",
+  "/wiki/Chef/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

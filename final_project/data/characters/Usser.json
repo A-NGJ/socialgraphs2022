@@ -1,0 +1,77 @@
+{
+ "name": "Usser",
+ "display_name": "Usser",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Usser was a male Sullustan who served as a sergeant in the Galactic Republic's army during the Galactic War against the Sith Empire. During the war, he was stationed on the neutral planet Voss within Camp Talanis in the Gormak Lands. There, he encountered several of the native Voss who were sympathetic to the Republic cause and volunteered to investigate a downed Republic walker near the camp. When they did not return, Usser became worried and sent a Republic aligned individual to check what had happened. The individual discovered that Gormak cyberbeasts had killed the volunteers, and after slaying the beasts, returned to give Usser the bad news.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Voss",
+  "/wiki/Camp_Talanis",
+  "/wiki/Gormak_Lands",
+  "/wiki/Voss_(species)",
+  "/wiki/Walker/Legends",
+  "/wiki/Gormak/Legends",
+  "/wiki/Ssorokk",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

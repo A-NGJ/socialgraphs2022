@@ -1,0 +1,47 @@
+{
+ "name": "Er_Dal",
+ "display_name": "Er Dal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kessarine"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Path of the Open Hand"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Er Dal was a Kessarine male who was a member of the Path of the Open Hand. He was one of Ferize's partners, and they had five children.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kessarine",
+  "/wiki/Gender",
+  "/wiki/Path_of_the_Open_Hand",
+  "/wiki/Ferize",
+  "/wiki/Youngling",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Er_Dal",
+  "/wiki/The_High_Republic:_Path_of_Deceit"
+ ]
+}

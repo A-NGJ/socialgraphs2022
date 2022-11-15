@@ -1,0 +1,31 @@
+{
+ "name": "Unidentified_Kubaz_vendor",
+ "display_name": "Unidentified Kubaz vendor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Kubaz vendor lived in Coronet City in 230 BBY. The Kubaz sold Ram a barat-karabak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kubaz",
+  "/wiki/Coronet_City",
+  "/wiki/230_BBY",
+  "/wiki/Ram_Jomaram",
+  "/wiki/Bonbrak",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Kubaz_vendor",
+  "/wiki/The_High_Republic:_Midnight_Horizon",
+  "/wiki/The_High_Republic:_Midnight_Horizon_(audiobook)"
+ ]
+}

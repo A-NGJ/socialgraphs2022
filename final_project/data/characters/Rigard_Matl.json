@@ -1,0 +1,59 @@
+{
+ "name": "Rigard_Matl",
+ "display_name": "Rigard Matl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "New Jedi Order",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rigard Matl was a TIE fighter pilot during virtually every major conflict from the Galactic Civil War to the Yuuzhan Vong War, fighting on one or the other—or even both—sides of the conflicts.\nDuring the Yuuzhan Vong War, he served with the Jedi on Eclipse Station, commanding Shocker Squadron. When the Jedi attacked and destroyed the Vong blockade at Talfaglio, Rigard was shot out of his starfighter and forced to evacuate, thus disrupting the rest of his pilots.\nMatl was a heavily scarred man; having fought in so many engagements over the years, he had gotten many battle scars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/New_Republic/Legends",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Pilot/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Jedi/Legends",
+  "/wiki/Eclipse_Station",
+  "/wiki/Shocker_Squadron",
+  "/wiki/Operation_Safe_Passage",
+  "/wiki/Talfaglio",
+  "/wiki/Starfighter/Legends",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

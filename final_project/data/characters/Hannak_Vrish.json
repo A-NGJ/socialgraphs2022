@@ -1,0 +1,63 @@
+{
+ "name": "Hannak_Vrish",
+ "display_name": "Hannak Vrish",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gilded Descent Casino"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hannak Vrish was a Twi'lek male who was the owner of Gilded Descent Casino on Corellia. During the Battle of Corellia the casino was transformed into Galactic Republic headquarters at the Blastfield Shipyards.\nIn 3640 BBY, he enlisted a Republic hero to help him restore several of his hidden cameras that have been rewired for use by the Sith Empire. Since he turned to betting on the outcome of the conflict, he was willing to aid the Republic war effort out of both loyalty and desire for profit. With the hero's help, he was able to rewire the cameras and use them to spy on Imperial movements.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gilded_Descent_Casino/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Corellia/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Blastfield_Shipyards",
+  "/wiki/3640_BBY",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

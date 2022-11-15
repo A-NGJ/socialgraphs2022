@@ -1,0 +1,36 @@
+{
+ "name": "Dovor_Dowwn",
+ "display_name": "Dovor Dowwn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dovor Dowwn was an Aqualish gang leader on Corellia. As he got older, he had to face more and more challenges from his underlings.\nIn 1 ABY, one of his lieutenants, Mindra, went rogue and set up covert smuggling depots to use as power bases to seize Dowwn's Corellian trade. When he found out, he ordered it destroyed. But before his men could attack the depot, it was destroyed by an agent of the Coronet Mining Corporation that had mining interests near Mindra's depot and had feared collateral damage.\nDowwn is mentioned in a mission called \"Gang War Threatens Mining Interests\" in Star Wars Galaxies, available at Mission Terminals on Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Mindra",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Coronet_Mining_Corporation",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

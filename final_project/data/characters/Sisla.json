@@ -1,5 +1,6 @@
 {
  "name": "Sisla",
+ "display_name": "Sisla",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Sisla was a Devaronian bounty hunter. Along with a group of fellow Devaronians, he once tracked the Sullustan Resh to a warehouse in The Works on Coruscant.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Devaronian/Legends",

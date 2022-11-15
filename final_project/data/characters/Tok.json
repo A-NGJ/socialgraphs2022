@@ -1,0 +1,57 @@
+{
+ "name": "Tok",
+ "display_name": "Tok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Roughly six months before the Battle of Scarif"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tok was a male Rodian who lived on the holy moon Jedha prior to the Galactic Civil War. He was married to Steya, with whom he had a son, Althin. The family lived in Jedha City, where Tok and Steya owned a store. He and his wife were killed during an attack by Saw Gerrera's Partisans, roughly six months prior to the Battle of Scarif.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Standard_month",
+  "/wiki/Battle_of_Scarif",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Moon",
+  "/wiki/Jedha",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Marriage",
+  "/wiki/Steya",
+  "/wiki/Reproduction",
+  "/wiki/Althin",
+  "/wiki/Jedha_City",
+  "/wiki/Saw_Gerrera",
+  "/wiki/Partisans",
+  "/wiki/Guardians_of_the_Whills_(novel)",
+  "/wiki/Guardians_of_the_Whills:_The_Manga",
+  "/wiki/StarWars.com",
+  "/wiki/Rogue_One:_A_Star_Wars_Story"
+ ]
+}

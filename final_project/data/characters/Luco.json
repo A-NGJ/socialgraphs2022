@@ -1,5 +1,6 @@
 {
  "name": "Luco",
+ "display_name": "Luco",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Luco was a Rodian who lived on Nirama's public asteroid in 31 BBY. He was sometimes seen in Hutt's Tail cantina running a game that involved shuffling three chips. He was quite skilled at cheating using sleight-of-hand tricks, and took in a lot of money with his game.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

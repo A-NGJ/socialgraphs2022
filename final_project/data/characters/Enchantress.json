@@ -1,5 +1,6 @@
 {
  "name": "Enchantress",
+ "display_name": "Enchantress",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "The Enchantress was a Force-sensitive human female from the planet Ushruu. A worshipper of the Vathyr, she used her slaves to contruct a temple of fear in the side of the chasm it resided in.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ushruu",

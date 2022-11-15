@@ -1,0 +1,93 @@
+{
+ "name": "Venco_Autem",
+ "display_name": "Venco Autem",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "23 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Autem family",
+      "Galactic RepublicSenate Guard",
+      "Senate Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Venco Autem was a Human male of the Autem family. He was the older brother of Sagoro, and like him, was a Senate Guard.\nVenco was corrupt, and took bribes; for this he was arrested by his own brother, expelled from the Guard, and sent to a prison world. There, he caught a terminal disease that was incurable by bacta or any other medical technology. He also experienced a new purpose of sorts: deciding that the Republic was corrupt beyond all repair, he wanted to try and assure its demise before he died.\nIn 23 BBY, Sagoro was assigned to investigate the assassination of Senator Jheramahd Greyshade while the successor, Simon Greyshade, was placed under the protection of the Jedi Knights. His investigation would eventually implicate his brother in the crime.\nVenco then used his nephew Reymet's naïveté to get his hands on Sagoro's Senate access code. With these codes, Venco entered the Senate for one final assassination attempt against the new Senator Greyshade.\nAs soon as Venco was implicated in the plot, Sagoro was taken off the case as the investigation turned towards the Autem family. Sagoro's commitment to protecting his charge, however, never wavered. Defying orders, Sagoro was there when Venco fired his shot. Greyshade lived, but Sagoro was forced to kill his brother, effectively eliminating his one chance to clear his involvement in the crimes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/23_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Autem_family",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senate_Guard/Legends",
+  "/wiki/Sagoro_Autem",
+  "/wiki/Bacta/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Jheramahd_Greyshade",
+  "/wiki/Simon_Greyshade/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Reymet_Autem",
+  "/wiki/Republic_47",
+  "/wiki/Republic_48",
+  "/wiki/Jedi:_Shaak_Ti",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Databank_(original)",
+  "/wiki/StarWars.com",
+  "/wiki/Viva_Space_Vegas!_The_History_of_the_Marvelous_Wheel"
+ ]
+}

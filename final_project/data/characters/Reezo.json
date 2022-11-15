@@ -1,5 +1,6 @@
 {
  "name": "Reezo",
+ "display_name": "Reezo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Reezo was a Rodian male who devoted his life to Corellia street racing. He was the older brother of Tsuulo.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Rodian",

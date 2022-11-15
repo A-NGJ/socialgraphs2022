@@ -1,0 +1,61 @@
+{
+ "name": "Korsin_family",
+ "display_name": "Korsin family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Korsin family was a Human Sith family of the Sith Empire and the Lost Tribe of Sith.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Kesh",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Sith/Legends",
+  "/wiki/Takara_Korsin",
+  "/wiki/Eldrak_Korsin",
+  "/wiki/Yaru_Korsin",
+  "/wiki/Seelah_Korsin",
+  "/wiki/Devore_Korsin",
+  "/wiki/Nida_Korsin",
+  "/wiki/Jariad_Korsin",
+  "/wiki/Donellan",
+  "/wiki/Crosscurrent",
+  "/wiki/Lost_Tribe_of_the_Sith:_Precipice",
+  "/wiki/Lost_Tribe_of_the_Sith:_Skyborn",
+  "/wiki/Lost_Tribe_of_the_Sith:_Paragon",
+  "/wiki/Lost_Tribe_of_the_Sith:_Savior",
+  "/wiki/Lost_Tribe_of_the_Sith:_Purgatory",
+  "/wiki/Lost_Tribe_of_the_Sith:_Pandemonium",
+  "/wiki/Fate_of_the_Jedi:_Omen",
+  "/wiki/Fate_of_the_Jedi:_Omen_(audiobook)"
+ ]
+}

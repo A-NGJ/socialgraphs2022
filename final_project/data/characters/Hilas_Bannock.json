@@ -1,0 +1,59 @@
+{
+ "name": "Hilas_Bannock",
+ "display_name": "Hilas Bannock",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yarnil"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hilas Bannack was a member of the Imperial Intelligence's Bureau of Operations, which was responsible for finding/reporting seditious movements and traitorous elements within territories held by the Galactic Empire. Born on the Outer Rim planet of Yarnil and known for spying on the various farmers and residents, Bannock's zeal caught the attention of COMPNOR and was immediately recruited.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yarnil",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Bureau_of_Operations/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Commission_for_the_Preservation_of_the_New_Order/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

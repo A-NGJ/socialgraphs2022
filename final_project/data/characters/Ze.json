@@ -1,0 +1,56 @@
+{
+ "name": "Ze",
+ "display_name": "Ze",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Leadership School"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ze was a male Humanoid member of a squad of young mercenaries that secretly trained at the elite Leadership School on Andara during the Republic Classic era, before the Clone Wars. Short and plump, with close-set green eyes and two pigtails that hung down his back, he was in charge of the group's communications.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Leadership_School",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Andara/Legends",
+  "/wiki/Republic_Classic_era",
+  "/wiki/Clone_Wars",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ze",
+  "/wiki/Jedi_Quest:_The_School_of_Fear"
+ ]
+}

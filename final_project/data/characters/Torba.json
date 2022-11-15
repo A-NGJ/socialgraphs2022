@@ -1,0 +1,47 @@
+{
+ "name": "Torba",
+ "display_name": "Torba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "5.5 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torba was a member of the Commerce Commission. He was killed when his ship exploded in hyperspace due to a faulty hyperdrive.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/6_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Torba",
+  "/wiki/Droids_(1994)_1"
+ ]
+}

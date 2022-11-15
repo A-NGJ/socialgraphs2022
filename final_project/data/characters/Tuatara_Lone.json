@@ -1,0 +1,47 @@
+{
+ "name": "Tuatara_Lone",
+ "display_name": "Tuatara Lone",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sluis Van"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuatara Lone was a female Human holo actress from Sluis Van. She was known for portraying madcap girls with odd lifestyles or nosy investigators capable of bluffing their way out of any problem. Wraith Squadron pilot Kell Tainer fell in love with her during his teen years, and was heartbroken when he learned that she was happily married with three children.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sluis_Van/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Pilot/Legends",
+  "/wiki/Kell_Tainer",
+  "/wiki/Standard_year/Legends",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

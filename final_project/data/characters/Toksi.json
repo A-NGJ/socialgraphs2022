@@ -1,0 +1,40 @@
+{
+ "name": "Toksi",
+ "display_name": "Toksi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toksi was a Rebel Alliance soldier who was a part of the contingent invited to the Candoras sector.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Candoras_sector",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Toksi",
+  "/wiki/Choices_of_One"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Kuykenda",
+ "display_name": "Kuykenda",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kuykenda was a Wookiee, the brother of Rakikta. Kuykenda was the bodyguard of Pret Swain.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookiee/Legends",

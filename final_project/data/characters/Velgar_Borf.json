@@ -1,0 +1,56 @@
+{
+ "name": "Velgar_Borf",
+ "display_name": "Velgar Borf",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Velgar Borf was an Imperial Customs officer stationed on the planet Derilyn. He was slightly overweight with unruly hair, and his uniform was often rumpled and stained. He attended the Imperial Naval Officers School due to family connections, but his attitude and lack of personal grooming marked him as a poor officer. However, Borf also had a knack for uncovering information, leading to his cracking of the Red Nalroni smuggling ring. The action resulted in a promotion he ill-deserved. After several years of substandard duty, Borf was eventually transferred to Derilyn as the head customs officer.\nBorf's unkempt appearance was partially an act; he did not care about his appearance, but he exaggerated it to keep people off guard. He was bribable, as long as it happened out of sight of anyone. He usually managed to place the blame on the other customs officers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Derilyn",
+  "/wiki/Red_Nalroni_smuggling_ring",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Theol_Dunoche",
+ "display_name": "Theol Dunoche",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Theol Dunoche was a male Human from Bespin. He was a charming freighter captain and gambler. A 6,500-credit bounty was issued for him because he kidnapped two Twi'lek girls and stole 25 kilograms of ryll. In reality, he saved the girls from being sold into slavery and escaped with them to Adner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Captain/Legends#Civilian_use",
+  "/wiki/Gambler/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Bounty/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Kilogram/Legends",
+  "/wiki/Ryll/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Adner",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Theol_Dunoche",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

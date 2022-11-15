@@ -1,0 +1,88 @@
+{
+ "name": "Unidentified_Pantoran_guard",
+ "display_name": "Unidentified Pantoran guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pantora"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Orto Plutonia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pantoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Pantoran AssemblyPantoran Guard",
+      "Pantoran Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified Pantoran guard was assigned to protect Chairman Chi Cho during the Battle of Orto Plutonia.\nPrior to the battle, this Pantoran Guard accompanied Chairman Cho, Senator Chuchi, Obi-Wan Kenobi, Captain Rex, and Anakin Skywalker to Orto Plutonia to investigate the disappearance of a clone security force. When it was discovered that the Talz were responsible for killing the clone troopers, tensions rose between the Talz and the Pantoran forces. Soon the Pantoran-Talz war erupted and this Pantoran became one of the many casualties when he was hit with a Talz spear while protecting the chairman. The Talz soldier that eliminated him would later be shot dead by another guard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pantora/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Orto_Plutonia/Legends",
+  "/wiki/Pantoran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Pantoran_Assembly/Legends",
+  "/wiki/Pantoran_Guard",
+  "/wiki/Chairman/Legends",
+  "/wiki/Chi_Cho/Legends",
+  "/wiki/Battle_of_Orto_Plutonia/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Riyo_Chuchi/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/CT-7567/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Talz/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Trespass",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

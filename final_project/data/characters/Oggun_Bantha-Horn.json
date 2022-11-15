@@ -1,0 +1,46 @@
+{
+ "name": "Oggun_Bantha-Horn",
+ "display_name": "Oggun Bantha-Horn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ranon Djlekh"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oggun Bantha-Horn was the Devaronian enforcer of Ranon Djelkh.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ranon_Djlekh",
+  "/wiki/Ranon_Djelkh",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Oggun_Bantha-Horn",
+  "/wiki/Secrets_of_Tatooine"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Kodo_Arr",
+ "display_name": "Kodo Arr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kodo Arr was a male Human who made a living as a smuggler during the time of the Clone Wars. He honed his smuggling skills by taking jobs transporting loads on the Hutt-controlled moon Nar Shaddaa, and he later became a resident of the city Tolea Biqua, on the planet Genarius. Arr proclaimed himself to be the \"best smuggler\" in the entire galaxy, and he regaled the patrons of Tolea Biqua's cantinas with stories of his exploits on Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Smuggler%27s_Trade"
+ ]
+}

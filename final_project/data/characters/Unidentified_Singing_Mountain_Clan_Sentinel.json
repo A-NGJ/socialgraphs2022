@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_Singing_Mountain_Clan_Sentinel",
+ "display_name": "Unidentified Singing Mountain Clan Sentinel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dathomirian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A witch of Dathomir was an Sentinel of Singing Mountain Clan during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/The_Shadow_Syndicate",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Singing_Mountain_Clan_Sentinel",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "name": "Swagg",
+ "display_name": "Swagg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "33 BBY",
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swagg was a male Chiss pirate operating in the Mid Rim shortly before the Battle of Naboo. Swagg was killed by Captain Roos Tarpals while stealing ancient Gungan art on Naboo.\nHe owned a trio of droids designated 3-S, 4-S and 5-S.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Mid_Rim",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Roos_Tarpals/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/3-S",
+  "/wiki/4-S",
+  "/wiki/5-S",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Swagg",
+  "/wiki/Episode_I_Adventures_10:_Festival_of_Warriors",
+  "/wiki/Episode_I_Adventures_11:_Pirates_from_Beyond_the_Sea",
+  "/wiki/Episode_I_Adventures_12:_The_Bongo_Rally"
+ ]
+}

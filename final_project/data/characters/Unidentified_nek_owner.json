@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_nek_owner",
+ "display_name": "Unidentified nek owner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lothal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a human male on the planet Lothal who owned neks. He grew up in Kinpany Gap, and when the area was mined by the Galactic Empire, he found a job providing security for an orchard's droid pickers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lothal",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/Nek",
+  "/wiki/Kinpany_Gap",
+  "/wiki/Mining",
+  "/wiki/Galactic_Empire",
+  "/wiki/Ollet_homestead",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_nek_owner",
+  "/wiki/Servants_of_the_Empire:_Edge_of_the_Galaxy"
+ ]
+}

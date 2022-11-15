@@ -1,0 +1,41 @@
+{
+ "name": "Prem_Nistt",
+ "display_name": "Prem Nistt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Core to Rim Shipping"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Prem Nisst was a Sullustan who worked for Core to Rim Shipping. Nisst commanded the medium freighter Space Drifter and was a staunch support of the Galactic Empire and the New Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Core_to_Rim_Shipping",
+  "/wiki/Captain/Legends",
+  "/wiki/Medium_freighter",
+  "/wiki/Space_Drifter",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Flashpoint!_Brak_Sector"
+ ]
+}

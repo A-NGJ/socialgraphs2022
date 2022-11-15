@@ -1,0 +1,37 @@
+{
+ "name": "Yeddu",
+ "display_name": "Yeddu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kadas'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yeddu was a male Kadas'sa'Nikto who lived in the Nikto Sector of Nar Shaddaa during the Cold War. When the Kintan Kings took over the sector, they killed his brother for not paying protection money, so Yeddu developed a plan to permanently disable the gang's swoop bikes with EMP charges.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kadas%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nikto_Sector",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Kintan_Kings",
+  "/wiki/Yeddu%27s_brother",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

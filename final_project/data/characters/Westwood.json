@@ -1,0 +1,61 @@
+{
+ "name": "Westwood",
+ "display_name": "Westwood",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shesharile 5"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Raging Banthas"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Westwood was the leader of the Raging Banthas swoop gang on the planet Shesharile 5.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shesharile_5",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Raging_Banthas",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Westwood",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Swoop_Gangs",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Hard_Luck",
+ "display_name": "Hard Luck",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fathier"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canto Bight racetrack"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hard Luck was a fathier stallion, owned by Defancio Storsilt, who was injured in a race by Pinrado Jozo. Lula Sooger, a young orphan, took care of the fathier after the accident.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Fathier",
+  "/wiki/Canto_Bight_racetrack",
+  "/wiki/Gender",
+  "/wiki/Defancio_Storsilt",
+  "/wiki/Pinrado_Jozo",
+  "/wiki/Lula_Sooger",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hard_Luck",
+  "/wiki/Hear_Nothing,_See_Nothing,_Say_Nothing",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

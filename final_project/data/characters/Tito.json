@@ -1,0 +1,65 @@
+{
+ "name": "Tito",
+ "display_name": "Tito",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "36 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Flakax"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Joiner"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tito was a Flakax Joiner who, with Yugi, was assigned by the Squibs  to assassinate Han and Leia Organa Solo. He failed in his mission, and was convinced by Han and Leia that the Directors and the Fefze were plotting to kill him and the other Flakax. They sent him back to the Directors, where he cut down Krafte and Seneki before being stopped .",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/36_ABY",
+  "/wiki/Flakax",
+  "/wiki/Gender/Legends",
+  "/wiki/Joiner",
+  "/wiki/Yugi",
+  "/wiki/Squib/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Fefze",
+  "/wiki/Krafte",
+  "/wiki/Seneki",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tito",
+  "/wiki/Dark_Nest_III:_The_Swarm_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

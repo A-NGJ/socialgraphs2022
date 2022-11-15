@@ -1,0 +1,66 @@
+{
+ "name": "Lohn_Genden",
+ "display_name": "Lohn Genden",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "47 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lohn Genden, a native of Alderaan, left the planet at the age of twenty-five, some twenty-two years before the planet was destroyed by the first Death Star. In the time before Alderaan's destruction, Genden joined a mercenary organization that worked for Imperial Intelligence.\nIn the year 1 ABY, he ambushed a luxury liner and held the passengers hostage while demanding the release of several prisoners of the Galactic Empire. Imperial authorities refused, and Genden destroyed the liner and all 10,000 passengers. He reemerged several months after the Battle of Endor and took command of a New Republic military base. He demanded this time, the release of prisoners being held in Republic prisons, but he was driven off before any further action occurred. He managed to elude capture, and escaped to his main base in the planet Gormdin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/47_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Death_Star/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Gormdin",
+  "/wiki/Wanted_by_Cracken_(sourcebook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "TG-421",
+ "display_name": "TG-421",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TG-421 was an Imperial stormtrooper serving under Captain Alijah Orr on Shesharile 5.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Alijah_Orr",
+  "/wiki/Shesharile_5",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Lumrunners",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

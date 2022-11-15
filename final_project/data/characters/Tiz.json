@@ -1,0 +1,47 @@
+{
+ "name": "Tiz",
+ "display_name": "Tiz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiz was a Galactic Alliance Guard trooper stationed on Ossus during the Second Galactic Civil War. She encountered Alema Rar, but was persuaded to let her pass. Alema also told her and her partner to have some fun and they began \"pulling at each others utilities.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Ossus/Legends",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Alema_Rar",
+  "/wiki/Legacy_of_the_Force:_Inferno"
+ ]
+}

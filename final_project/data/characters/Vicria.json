@@ -1,0 +1,55 @@
+{
+ "name": "Vicria",
+ "display_name": "Vicria",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mungra"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red-tawny"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vicria was a female Mungra with orange eyes and red-tawny hair. She ran a tapcafe in Makrin City on Shelkonwa. In 0.6 ABY Vicria let the Rebel leader, Leia Organa, work in her tapcafe while she was a fugitive on Shelkonwa, wanted by the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mungra",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Hair/Legends",
+  "/wiki/Tapcafe/Legends",
+  "/wiki/Makrin_City",
+  "/wiki/Shelkonwa",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Allegiance_(novel)",
+  "/wiki/Allegiance_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

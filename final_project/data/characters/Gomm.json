@@ -1,5 +1,6 @@
 {
  "name": "Gomm",
+ "display_name": "Gomm",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Gomm was a male human prisoner with a big head and thin body on the planet Jakku who worked at a kesium gas rig. After Norra Wexley and Mister Bones killed all the Imperial guards on that station he was rescued.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

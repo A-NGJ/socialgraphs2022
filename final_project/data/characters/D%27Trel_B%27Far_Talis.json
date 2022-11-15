@@ -1,0 +1,48 @@
+{
+ "name": "D%27Trel_B%27Far_Talis",
+ "display_name": "D'Trel B'Far Talis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Goroth Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gorothite"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "j'ber D'Trel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "D'Trel B'Far Talis was a Gorothite living on Goroth Prime.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Goroth_Prime",
+  "/wiki/Gorothite",
+  "/wiki/J%27ber_D%27Trel",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

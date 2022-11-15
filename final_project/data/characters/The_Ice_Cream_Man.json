@@ -1,0 +1,36 @@
+{
+ "name": "The_Ice_Cream_Man",
+ "display_name": "The Ice Cream Man",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ice Cream Man was a Human male who lived during the Galactic Civil War. He had a droid named Otonon Tracks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Otonon_Tracks",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/The_Ice_Cream_Man",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

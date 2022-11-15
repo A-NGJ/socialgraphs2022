@@ -1,0 +1,64 @@
+{
+ "name": "Valon_Rizz",
+ "display_name": "Valon Rizz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Stassia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valon Rizz was an Imperial investigator during the Galactic Civil War. He was a native of the planet Stassia and despite being a skilled investigator himself, he was mostly hired so that Governor Tren Pergallis could showcase him as an example of how far a native could go within the New Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Valon_(disambiguation)",
+  "/wiki/Stassia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Office_of_Criminal_Investigations/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Tren_Pergallis",
+  "/wiki/New_Order/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Ringers",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

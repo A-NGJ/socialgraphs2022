@@ -1,0 +1,51 @@
+{
+ "name": "Chardri_Tage",
+ "display_name": "Chardri Tage",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bail Organa's resistance movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chardri Tage was a human male pilot who worked for Bail Organa during the first year of the Galactic Empire. His copilot was Tamsin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Bail_Organa%27s_resistance_movement",
+  "/wiki/Pilot",
+  "/wiki/Bail_Prestor_Organa",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Empire",
+  "/wiki/Tamsin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chardri_Tage",
+  "/wiki/Ahsoka_(novel)",
+  "/wiki/Ahsoka_(audiobook)"
+ ]
+}

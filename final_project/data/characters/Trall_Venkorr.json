@@ -1,0 +1,42 @@
+{
+ "name": "Trall_Venkorr",
+ "display_name": "Trall Venkorr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trall Venkorr was a male Rattataki living during the Eternal Empire conquest. By 3630 BBY he was an escaped convict wanted by the Eternal Empire for assault and serial homicide. He was last seen in Wild Space and his wanted poster was displayed in the Overwatch.\nTrall Venkorr appears during Chapter 10: Anarchy in Paradise of Star Wars: The Old Republic: Knights of the Fallen Empire on a wanted holo-poster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Empire_conquest",
+  "/wiki/3630_BBY",
+  "/wiki/Eternal_Empire",
+  "/wiki/Wild_Space/Legends",
+  "/wiki/Overwatch",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

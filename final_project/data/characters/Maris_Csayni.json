@@ -1,0 +1,50 @@
+{
+ "name": "Maris_Csayni",
+ "display_name": "Maris Csayni",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maris Csayni was a Human female agent of Imperial Intelligence during the Galactic War.\nMaris Csayni was created for the video game Star Wars: The Old Republic, as a quest giver for Imperial players on Taris in the New Tarisian Dawn skyscraper. However, the entire New Tarisian Dawn area was removed prior to release due to severe memory leaks and other glitches in the area, and Csayni was cut along with the quests in the skyscraper.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Taris/Legends",
+  "/wiki/New_Tarisian_Dawn"
+ ]
+}

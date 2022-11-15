@@ -1,5 +1,6 @@
 {
  "name": "Masel",
+ "display_name": "Masel",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Masel was a male Koorivar who operated on Nar Shaddaa as an arms dealer and information broker.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Koorivar/Legends",

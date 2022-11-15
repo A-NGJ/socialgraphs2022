@@ -1,0 +1,66 @@
+{
+ "name": "Tevar_Shan",
+ "display_name": "Tevar Shan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Over 1.5 meters"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ronto-Rama Farms",
+      "Eopies Extraordinaire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tevar Shan was a Human male and owner of Ronto-Rama Farms on Tatooine and partial owner of Eopies Extraordinaire. He approached Leia Organa Solo at the Grand Event Center on Coruscant during the annual Coruscant Livestock Exchange and Exhibition to try to sell her both, and was politely turned down.\nTevar Shan was created by author Christie Golden for her first Star Wars novel, and the second novel in the nine-part Fate of the Jedi series, Fate of the Jedi: Omen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ronto-Rama_Farms",
+  "/wiki/Eopies_Extraordinaire",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Grand_Event_Center",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Coruscant_Livestock_Exchange_and_Exhibition",
+  "/wiki/Christie_Golden",
+  "/wiki/Star_Wars",
+  "/wiki/Star_Wars:_Fate_of_the_Jedi",
+  "/wiki/Fate_of_the_Jedi:_Omen",
+  "/wiki/Fate_of_the_Jedi:_Omen_(audiobook)"
+ ]
+}

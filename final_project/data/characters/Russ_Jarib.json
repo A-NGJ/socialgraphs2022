@@ -1,0 +1,56 @@
+{
+ "name": "Russ_Jarib",
+ "display_name": "Russ Jarib",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Roughly 1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corporate Sector Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Russ Jarib was a male Human who worked for the Corporate Sector Authority as an intelligence agent. Following the Battle of Endor, he was assigned to the planet Kirima under Kora Primo, the head of CSA intelligence on Kirima.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Kirima/Legends",
+  "/wiki/Kora_Primo",
+  "/wiki/West_End_Games",
+  "/wiki/Den_of_Spies",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

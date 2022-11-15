@@ -1,0 +1,53 @@
+{
+ "name": "Warmalo",
+ "display_name": "Warmalo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Arkadianate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Warmalo was a male Twi'lek, who served as an aide to the Sith Lord Arkadia Calimondra on the planet Syned during the Republic Dark Age. In 1032 BBY, Calimondra appointed him to become her new director of metallurgical operations. Following the Siege of Calimondretta, he escaped aboard Parlan Spinner's ship Diligence along with several Arkadianate citizens, who wanted to escape the Arkadianate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Arkadianate",
+  "/wiki/Aide/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Arkadia_Calimondra",
+  "/wiki/Planet/Legends",
+  "/wiki/Syned",
+  "/wiki/Republic_Dark_Age",
+  "/wiki/1032_BBY/Legends",
+  "/wiki/Siege_of_Calimondretta",
+  "/wiki/Parlan_Spinner",
+  "/wiki/Diligence_(New_Sith_Wars)",
+  "/wiki/Knight_Errant_(novel)"
+ ]
+}

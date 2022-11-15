@@ -1,0 +1,73 @@
+{
+ "name": "Yuun_(Bouncer)",
+ "display_name": "Yuun  (Bouncer)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ruusan"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "Between 1000 BBY and 990 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bouncer"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yuun was a young female Bouncer who followed Darovit around while he walked the Ruusan forests. She was with him when they discovered that the Senate was building a monument to the one hundred fallen Jedi in the Seventh Battle of Ruusan. She fled the scene when he was discovered by the Jedi Advisor Johun Othone.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bouncer",
+  "/wiki/Yuun_(Gand)",
+  "/wiki/Ruusan/Legends",
+  "/wiki/1000_BBY",
+  "/wiki/990_BBY",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Darovit",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Seventh_Battle_of_Ruusan",
+  "/wiki/Jedi_Ambassador",
+  "/wiki/Johun_Othone",
+  "/wiki/Darth_Bane:_Rule_of_Two",
+  "/wiki/Darth_Bane:_Rule_of_Two_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

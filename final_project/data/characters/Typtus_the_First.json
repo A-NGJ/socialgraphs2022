@@ -1,0 +1,57 @@
+{
+ "name": "Typtus_the_First",
+ "display_name": "Typtus the First",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Geonosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gehenbar hive"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Typtus the First was a legendary Geonosian of the Gehenbar hive.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gehenbar_hive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Typtus_the_First",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

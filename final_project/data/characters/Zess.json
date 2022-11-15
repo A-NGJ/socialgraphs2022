@@ -1,0 +1,57 @@
+{
+ "name": "Zess",
+ "display_name": "Zess",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guard Captain Zess was a Kel Dor member of Belsavis prison guard staff. During the Invasion of Belsavis he directed the Major of Havoc Squad to the location of wrongfully imprisoned Dagger Wing members. After all members of the squadron were accounted for, he arranged for their transit to Macula Station, from where the pilots were able to rejoin the war effort.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Belsavis_prison",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Major/Legends",
+  "/wiki/Havoc_Squad",
+  "/wiki/Dagger_Wing",
+  "/wiki/Macula_Station",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

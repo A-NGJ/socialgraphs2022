@@ -1,0 +1,67 @@
+{
+ "name": "Dara_Gion",
+ "display_name": "Dara Gion",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bacrana"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dara Gion was a Human female who served in the Rebel Alliance.\nShe was a commander in the Rebel Alliance and served in the Brak sector as the Personnel Officer of the Oracle Base. She also served as the liaison between the Special Ops Mission Groups and Brak sector Command.\nPrior to joining the Rebellion, she attended the Bacrana Educational Institute where she met Equa Felens. The two fell in love and later participated in an anti-Empire protest on Bacrana which was ruined by the thousands of deaths that were initiated by Moff Lesan Ramier. The couple eventually joined the Rebel Alliance with help of Trep Reskan and the Bacrana System Defense Force but later drifted apart.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bacrana/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Brak_sector",
+  "/wiki/Oracle_Base",
+  "/wiki/Bacrana_Educational_Institute",
+  "/wiki/Equa_Felens",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Lesan_Ramier",
+  "/wiki/Trep_Reskan",
+  "/wiki/Bacrana_System_Defense_Force",
+  "/wiki/Flashpoint!_Brak_Sector",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

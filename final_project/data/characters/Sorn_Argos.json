@@ -1,0 +1,42 @@
+{
+ "name": "Sorn_Argos",
+ "display_name": "Sorn Argos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorn Argos was a male Human spacer who once tried to pick up Leia Organa in the Lucky Star casino.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Lucky_Star_(Elerion)",
+  "/wiki/Casino/Legends",
+  "/wiki/Lucky_Stars",
+  "/wiki/Star_Wars_Tales_15"
+ ]
+}

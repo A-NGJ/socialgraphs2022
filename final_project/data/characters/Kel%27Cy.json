@@ -1,5 +1,6 @@
 {
- "name": "Kel'Cy",
+ "name": "Kel%27Cy",
+ "display_name": "Kel'Cy",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kel'Cy was a human female who worked as an inventory specialist for Hondo Ohnaka at Ohnaka Transport Solutions in Black Spire Outpost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

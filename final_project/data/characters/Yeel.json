@@ -1,0 +1,51 @@
+{
+ "name": "Yeel",
+ "display_name": "Yeel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Yeel was a Sullustan officer in the New Republic Army. He owed his position to Sien Sovv. He fought at the defense of Coruscant during the Yuuzhan Vong War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/New_Republic_Army",
+  "/wiki/Sien_Sovv",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yeel",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star"
+ ]
+}

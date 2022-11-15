@@ -1,0 +1,34 @@
+{
+ "name": "Smooch",
+ "display_name": "Smooch",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smooch was a female Tarasin. She was seen in Depatar, the City of Masks, in 31 BBY. Like all the visitors and many inhabitants, she was in disguise, particularly with a mask of Caarite and a costume covered with the repeated word \"Oink\". The frisky Smooch was having a good time dancing and smooching anything not fast enough to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Depatar",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Caarite",
+  "/wiki/Clouded_Paths"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_HoloNet_show_host",
+ "display_name": "Unidentified HoloNet show host",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "HoloNet News"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the All Worlds Ultimate Swoop Rally around 3626 BBY, a Sullustan male HoloNet News show host harassed his favorite swoop gang Blatant Beks for his swooping program.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/All_Worlds_Ultimate_Swoop_Rally",
+  "/wiki/3626_BBY",
+  "/wiki/HoloNet/Legends",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Blatant_Beks",
+  "/wiki/HoloNet_swooping_program",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Dantooine/Legends"
+ ]
+}

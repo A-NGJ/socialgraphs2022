@@ -1,0 +1,60 @@
+{
+ "name": "Lin_Prell",
+ "display_name": "Lin Prell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Duskhan League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lin Prell was the senior tender of Nil Spaar's breederies onboard the Intimidator. When confronted by two hairy beasts, he ran and hid from them to prolonge his life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Gender/Legends",
+  "/wiki/Duskhan_League",
+  "/wiki/Nil_Spaar",
+  "/wiki/Intimidator_(Executor-class)",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Shoran",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

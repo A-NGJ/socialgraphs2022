@@ -1,5 +1,6 @@
 {
  "name": "Kruqr",
+ "display_name": "Kruqr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kruqr was a scrawny male Human security guard on the Errant Venture around 11 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

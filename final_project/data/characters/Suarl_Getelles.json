@@ -1,0 +1,53 @@
+{
+ "name": "Suarl_Getelles",
+ "display_name": "Suarl Getelles",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suarl Getelles was the eldest daughter of Moff Tol Getelles. In 44 ABY, she was the owner of the Moon Maiden, a mine and secret laboratory on Hagamoor 3.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Moff/Legends",
+  "/wiki/Tol_Getelles",
+  "/wiki/44_ABY",
+  "/wiki/Moon_Maiden",
+  "/wiki/Mining/Legends",
+  "/wiki/Laboratory/Legends",
+  "/wiki/Hagamoor_3",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Suarl_Getelles",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

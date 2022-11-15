@@ -1,5 +1,6 @@
 {
  "name": "Londrod",
+ "display_name": "Londrod",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Londrod was an Human male speeder bike vendor who was stationed outside of Mos Ila on Tatooine, just outside of the Sith Imperial settlement there.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

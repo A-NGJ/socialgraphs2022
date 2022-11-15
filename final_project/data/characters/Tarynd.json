@@ -1,0 +1,49 @@
+{
+ "name": "Tarynd",
+ "display_name": "Tarynd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarynd was a young Human male who lived in the Coruscant underworld. In 44 ABY, he was the subject of a series of news reports by Madhi Vaandt on what he had to endure in Coruscant's slums.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant_underworld",
+  "/wiki/44_ABY",
+  "/wiki/Madhi_Vaandt",
+  "/wiki/Fate_of_the_Jedi:_Allies",
+  "/wiki/Fate_of_the_Jedi:_Allies_(audiobook)",
+  "/wiki/Fate_of_the_Jedi:_Ascension",
+  "/wiki/Fate_of_the_Jedi:_Ascension_(audiobook)"
+ ]
+}

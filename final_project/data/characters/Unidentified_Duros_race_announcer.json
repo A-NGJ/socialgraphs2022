@@ -1,0 +1,67 @@
+{
+ "name": "Unidentified_Duros_race_announcer",
+ "display_name": "Unidentified Duros race announcer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tarisian Season Opener"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Unidentified Duros race announcer was the announcer for the Tarisian Season Opener in 3956 BBY. He presented Revan as the winner of the Swoop race after besting the time of Redros, a member of the Black Vulkars gang in the Lower City. Brejik however, leader of the Black Vulkars, moved to withdraw the victory prize. In a clear violation of the season's most sacred traditions that the prize never be withdrawn, he protested to Brejik in vain, with the latter retorting that his traditions meant nothing to him and that he was the wave of the future.\nIn the following scuffle that erupted, the Duros along with a host of other racers, save for members of the Black Vulkars, fled the scene as the Jedi Bastila Shan and Revan fought and killed the assaulting gang members.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Duros",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tarisian_Season_Opener",
+  "/wiki/3956_BBY",
+  "/wiki/Revan/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Redros",
+  "/wiki/Black_Vulkars/Legends",
+  "/wiki/Lower_City",
+  "/wiki/Brejik",
+  "/wiki/Jedi/Legends",
+  "/wiki/Bastila_Shan",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

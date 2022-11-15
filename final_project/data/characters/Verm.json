@@ -1,0 +1,48 @@
+{
+ "name": "Verm",
+ "display_name": "Verm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jenet"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Invisible Shell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Verm was a male Jenet who served as a crony to Ludlo Lebauer, the ostensible leader of the criminal syndicate known as the Invisible Shell.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jenet/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Invisible_Shell",
+  "/wiki/Ludlo_Lebauer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Verm",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/The_Trouble_with_Squibs",
+  "/wiki/Star_Wars_Insider_67"
+ ]
+}

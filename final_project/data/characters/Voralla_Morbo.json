@@ -1,0 +1,72 @@
+{
+ "name": "Voralla_Morbo",
+ "display_name": "Voralla Morbo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Morbo's Place"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voralla Morbo was female Human who owned the Thyferran cantina Morbo's Place. She was sympathetic to the Rebellion, helping transport bacta and keeping a docking bay clear for them.\nShe had a history with Han Solo after a shipment of Norvanian grog went undelivered, and slugged him at the end of the mission to Thyferra.\nShe passed on information about an Imperial plot using contaminated bacta on Delrakkin.\nShe wore dark green coveralls and high boots, and wore her hair short.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Morbo%27s_Place",
+  "/wiki/Cantina/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Novanian_grog/Legends",
+  "/wiki/Delrakkin/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Voralla_Morbo",
+  "/wiki/Star_Wars_Missions_2:_Escape_from_Thyferra",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

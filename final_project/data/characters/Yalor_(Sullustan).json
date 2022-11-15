@@ -1,0 +1,63 @@
+{
+ "name": "Yalor_(Sullustan)",
+ "display_name": "Yalor  (Sullustan)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Ardan resistance",
+      "Ardan resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yalor was a Sullustan who held the rank of Major by the time of 0 ABY. He was the programmer of the Slave circuit that guided pilots through The Gauntlet.\nYalor was a Sullustan with pronounced jowls and a short stature. What set him apart in appearance was a cluster of birthmarks on his cheek that he believed to be a sign of luck.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Ardan_resistance",
+  "/wiki/Major/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Slave_circuit",
+  "/wiki/The_Gauntlet_(Arda_I)",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

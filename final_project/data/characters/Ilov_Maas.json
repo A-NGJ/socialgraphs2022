@@ -1,0 +1,66 @@
+{
+ "name": "Ilov_Maas",
+ "display_name": "Ilov Maas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Delphon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Senate",
+      "Imperial Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ilov Maas was a male Human Senator who represented Delphon in the Imperial Senate of the Galactic Empire. He was a vocal supporter of Emperor Palpatine, a trait that he instilled in his daughter, Nima.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Delphon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Nima_Maas",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ilov_Maas",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Unusual_Suspects",
+  "/wiki/Star_Wars_Gamer_6",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

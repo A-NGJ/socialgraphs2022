@@ -1,0 +1,51 @@
+{
+ "name": "Var_Narek%27s_father",
+ "display_name": "Var Narek's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Narek Family",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Var Narek's father was an Imperial who was cheated out of becoming the governor of Livien Magnus by Ellor Orgraal. This caused Var Narek's father hold resentment towards him because Ellor Orgraal let other people rank up, and so Var Narek, his son, had limited opportunities in the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Var_Narek%27s_father",
+  "/wiki/Human/Legends",
+  "/wiki/Gender",
+  "/wiki/Narek_Family",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Livien_Magnus",
+  "/wiki/Ellor_Orgraal",
+  "/wiki/Var_Narek",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

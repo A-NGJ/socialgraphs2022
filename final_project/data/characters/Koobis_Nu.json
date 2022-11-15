@@ -1,0 +1,62 @@
+{
+ "name": "Koobis_Nu",
+ "display_name": "Koobis Nu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicRogue Squadron",
+      "Rogue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koobis \"Target\" Nu was a young Rodian male who flew as Rogue Eight in Rogue Squadron during the campaign against Warlord Zsinj.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kelbis_Nu",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Koobis_Nu",
+  "/wiki/X-Wing:_Solo_Command",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Rogue_Eight/Legends",
+  "/wiki/Nawara_Ven",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Khe-Jeen_Slee"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Kauf_Ularno",
+ "display_name": "Kauf Ularno",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kauf Ularno was a male General in the Imperial Military and was the second-in-command to Governor Bidor Ferrouz of the Outer Rim Candoras sector. Although a rather unimaginative military mind, he was steadfastly loyal to the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Military/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Bidor_Ferrouz",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Candoras_sector",
+  "/wiki/Choices_of_One"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Houk_agent",
+ "display_name": "Unidentified Houk agent",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Houk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Houk agent was working for the Republic Strategic Information Service on the planet Nar Shaddaa, watching over the Hutt Morbo as part of Operation Transom. In 3640 BBY, he brawled with fellow agent Theron Shan, unaware of his allegiance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Houk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Planet/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Morbo",
+  "/wiki/Operation_Transom",
+  "/wiki/3640_BBY",
+  "/wiki/Theron_Shan",
+  "/wiki/The_Old_Republic:_Annihilation",
+  "/wiki/The_Old_Republic:_Annihilation_(audiobook)"
+ ]
+}

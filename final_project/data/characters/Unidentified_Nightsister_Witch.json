@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_Nightsister_Witch",
+ "display_name": "Unidentified Nightsister Witch",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dathomirian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Dathomirian witch was a member of the Nightsisters during the Galactic Civil War. She possessed the ability to generate Force lightning.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nightsisters/Legends",
+  "/wiki/Galactic_Hunters",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Force_lightning",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Nightsister_Witch",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game"
+ ]
+}

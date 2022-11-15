@@ -1,0 +1,45 @@
+{
+ "name": "Totoplat",
+ "display_name": "Totoplat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ishi Tib"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "none"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Desilijic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Totoplat was Jabba and Jiliac's chef at their residence on Nar Shaddaa and occasionally accompanied them on trips.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ishi_Tib/Legends",
+  "/wiki/Desilijic/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Jiliac_Desilijic_Tiron",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/The_Hutt_Gambit"
+ ]
+}

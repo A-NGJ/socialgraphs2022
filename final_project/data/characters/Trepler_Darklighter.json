@@ -1,0 +1,69 @@
+{
+ "name": "Trepler_Darklighter",
+ "display_name": "Trepler Darklighter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Darklighter family",
+      "Docking Bay 86"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trepler Darklighter was a Human male and a member of the Darklighter family.\nOriginally from Anchorhead, Darklighter built his own wealth—rumors said through smuggling. He owned Docking Bay 86 in Mos Eisley, though he lefts its management up to BX-9T, an administrative droid, as he spent most of his time away on resort worlds. He was distantly related to Huff and Jula Darklighter, and he allowed his relatives to occasionally use his docking bay. When Gavin Darklighter joined the New Republic, this privilege was extended to New Republic officials on business to Tatooine by the other Darklighters; it was regarded as the Darklighter family dock and it was possible that Trepler had passed the docking bay on to his relatives.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darklighter_family",
+  "/wiki/Docking_Bay_86",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/BX-9T",
+  "/wiki/Huff_Darklighter",
+  "/wiki/Jula_Darklighter",
+  "/wiki/Gavin_Darklighter",
+  "/wiki/New_Republic/Legends",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Galaxy_Guide_1:_A_New_Hope_(Second_Edition)",
+  "/wiki/Mos_Eisley_Adventure_Set",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_II:_Rebirth"
+ ]
+}

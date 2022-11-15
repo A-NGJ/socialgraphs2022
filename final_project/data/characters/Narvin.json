@@ -1,5 +1,6 @@
 {
  "name": "Narvin",
+ "display_name": "Narvin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Narvin was a male Nikto pirate in the Warbird gang.\nNarvin was voiced by David Shaughnessy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Nikto",

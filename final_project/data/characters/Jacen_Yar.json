@@ -1,0 +1,43 @@
+{
+ "name": "Jacen_Yar",
+ "display_name": "Jacen Yar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jacen Yar was a Kel Dor bounty hunter.\nYar led a party of bounty hunters to Almas after the destruction of Almas Academy, in an effort to capture any Jedi survivors. In the attempt, they encountered a group of salvagers called the Stalfonauts, and the ensuing fight left both parties all dead.\nA couple of years later, two Force-sensitive parasites—under the command of Inquisitor Valin Draco and the Gatekeeper of Darth Rivan's holocron—took control of the dead bodies, giving the illusion of the walking dead. These \"zombies\" were pitted against Jedi sympathizers trying to retrieve the Qornah Holocron.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Almas",
+  "/wiki/Almas_Academy",
+  "/wiki/Jedi/Legends",
+  "/wiki/Stalfonauts",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Inquisitorius/Legends",
+  "/wiki/Valin_Draco",
+  "/wiki/Gatekeeper",
+  "/wiki/Darth_Rivan%27s_holocron",
+  "/wiki/Qornah_Holocron",
+  "/wiki/Wizards.com",
+  "/wiki/Echoes_of_the_Jedi"
+ ]
+}

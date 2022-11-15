@@ -1,0 +1,72 @@
+{
+ "name": "Zerdran",
+ "display_name": "Zerdran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zerdran was a male Chiss Lieutenant of the Sith Empire living during the Galactic War. In 3642 BBY he was stationed at the Drift Hills Imperial Outpost on Hoth at the request of Moff Braynor. He recruited an Imperial hero to eliminate the Xesh commandos, an elite Galactic Republic unit entrenched in a nearby Ortolan outpost.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Drift_Hills_Imperial_Outpost",
+  "/wiki/Hoth/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Braynor",
+  "/wiki/Xesh_Squad",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

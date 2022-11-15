@@ -1,0 +1,69 @@
+{
+ "name": "Rigis_Corazon",
+ "display_name": "Rigis Corazon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 5 BBY and 2 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corazon Industries",
+      "Gryseium Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rigis Corazon purchased Gryseium Incorporated from founder Huegu Eib. Corazon attempted to use Gryseium Incorporated to corner the food market on Demophon, but failed due to a lack of a contract with the Demophonian government or the Galactic Empire. Sabel Axis Corazon, his daughter, later took control over the company after Corazon was assassinated by agents of a rival company.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/5_BBY/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corazon_Industries",
+  "/wiki/Gryseium_Incorporated",
+  "/wiki/Huegu_Eib",
+  "/wiki/Demophon",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sabel_Axis_Corazon",
+  "/wiki/Assassin/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Mynock_Conspiracy",
+  "/wiki/Supernova_(WEG)",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/3_ABY/Legends"
+ ]
+}

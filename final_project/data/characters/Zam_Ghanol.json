@@ -1,0 +1,59 @@
+{
+ "name": "Zam_Ghanol",
+ "display_name": "Zam Ghanol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Erli Prann"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zam Ghanol was a wiry, old Human woman with gray hair.\nShe was one of the pirates who followed Erli Prann in the Bilbringi system during the Yuuzhan Vong War aboard a Golan II space station. When caught between the Mon Mothma and the Yuuzhan Vong, Ghanol demanded that Prann turn the ship over to the Alliance. Prann initially refused, though after his crew mutinied and subdued him, Jedi Knight Jaina Solo was permitted to take the ship.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Erli_Prann",
+  "/wiki/Bilbringi_system",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Golan_II_Space_Defense_SpaceGun",
+  "/wiki/Space_station/Legends",
+  "/wiki/Mon_Mothma_(Imperial-class)",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Starship/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

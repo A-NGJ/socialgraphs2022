@@ -1,0 +1,86 @@
+{
+ "name": "Trebla%27s_assistant",
+ "display_name": "Trebla's assistant",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jinda"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Travelling Jindas"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Jinda dancer served as the assistant to Trebla the magician during the Travelling Jindas' performance to the Ewoks of Bright Tree Village in 3.5 ABY. He used his \"powers\" to levitate her, but in actual fact she was lifted from the ground via ropes and harness.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Jinda/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Travelling_Jindas",
+  "/wiki/Jinda_Dancers",
+  "/wiki/Trebla",
+  "/wiki/Magic",
+  "/wiki/Ewok/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Telekinesis/Legends",
+  "/wiki/Rope/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trebla%27s_assistant",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/The_Travelling_Jindas"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Jilia",
+ "display_name": "Jilia",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Jilia was a female Twi'lek who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

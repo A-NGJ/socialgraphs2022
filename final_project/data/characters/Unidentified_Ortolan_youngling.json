@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Ortolan_youngling",
+ "display_name": "Unidentified Ortolan youngling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Ortolan youngling was stationed on the Galactic Society of Creature Enthusiasts' Youngling Care Space Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ortolan",
+  "/wiki/Color",
+  "/wiki/Galactic_Society_of_Creature_Enthusiasts",
+  "/wiki/Youngling_Care_Space_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ortolan_youngling",
+  "/wiki/Star_Wars_Galactic_Pals",
+  "/wiki/Ortolan_(episode)",
+  "/wiki/Gungan_(episode)"
+ ]
+}

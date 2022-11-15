@@ -1,0 +1,52 @@
+{
+ "name": "Koon_Odan",
+ "display_name": "Koon Odan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Iridonian government"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koon Odan was a female Zabrak, who worked for the Iridonian government.\nFollowing the outbreak of a trade disagreement between Iridonia and Duro, Odan was sent to Cloud City on the planet Bespin, to negotiate a treaty with the Duros corporate official Belai Kaleeg. However, unknown to Odan, the Iridonian government also sent an assassin to Bespin, to kill Kaleeg and prevent the treaty from being signed. However, after the assassination attempt failed, the assassin was ordered to kill Odan instead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koon_(disambiguation)",
+  "/wiki/Odan_(disambiguation)",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Iridonia/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Belai_Kaleeg",
+  "/wiki/Assassin/Legends",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

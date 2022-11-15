@@ -1,0 +1,49 @@
+{
+ "name": "Booma_Ball_Bob",
+ "display_name": "Booma Ball Bob",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Booma Ball Bob was a male Weequay residing on Tatooine. He was in charge of the Booma Ball Game and would reward the winner a Kyber brick.\n\"Booma Ball Bob\" first appeared in a side game titled \"Shooting Gallery: Booma Ball\" in the 2022 non-canonical video game LEGO Star Wars: The Skywalker Saga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Weequay",
+  "/wiki/Color",
+  "/wiki/Gender",
+  "/wiki/Tatooine",
+  "/wiki/Kyber_brick",
+  "/wiki/2022",
+  "/wiki/Video_game",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

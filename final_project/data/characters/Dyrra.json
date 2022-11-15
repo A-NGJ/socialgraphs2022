@@ -1,5 +1,6 @@
 {
  "name": "Dyrra",
+ "display_name": "Dyrra",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Dyrra was an Imperial colonel in command of a scout training facility on the plant Moorja.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

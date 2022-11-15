@@ -1,0 +1,61 @@
+{
+ "name": "Sorka",
+ "display_name": "Sorka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Artiodac"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivax Syndicate",
+      "Data Seekers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorka was a female Artiodac who lived in the Anoat sector at the time of the Galactic Civil War. Despite her kind disposition, she served in the criminal Ivax Syndicate for some time, helping many people avoid the wrath of Voras the Hutt. Eventually, she joined the Data Seekers, a secret society whose members delved into the secrets of the sector.\nSeveral months into the Imperial blockade of the Anoat sector, Seeker Sorka was recruited by the Smuggler, who put her skills to good use on a variety of missions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Artiodac",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ivax_Syndicate",
+  "/wiki/Data_Seekers",
+  "/wiki/Anoat_sector",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Voras",
+  "/wiki/Hutt",
+  "/wiki/Sector",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Standard_month",
+  "/wiki/Galactic_Empire",
+  "/wiki/Iron_Blockade",
+  "/wiki/The_Smuggler"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Squedge_Eepsey",
+ "display_name": "Squedge Eepsey",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squedge Eepsey was a male Duros who lived in the city of Sahl-Evin on the planet Jenenma. Eepsey was a patron of the cantina The Hutt's Last Laugh in the Blinders district of Sahl Evin, and at some point during galactic history, a group of agents visited the cantina and encountered Eepsey. The Duros advised the individuals to avoid the cantina's fighting circle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Sahl-Evin",
+  "/wiki/Planet/Legends",
+  "/wiki/Jenenma",
+  "/wiki/Cantina/Legends",
+  "/wiki/The_Hutt%27s_Last_Laugh",
+  "/wiki/Blinders_district",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Put_Up_Your_Dukes"
+ ]
+}

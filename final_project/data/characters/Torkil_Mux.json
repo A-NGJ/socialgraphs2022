@@ -1,0 +1,27 @@
+{
+ "name": "Torkil_Mux",
+ "display_name": "Torkil Mux",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torkil Mux was an Arcona individual who was a pilot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Torkil_Mux",
+  "/wiki/Torkil_Mux/Legends",
+  "/wiki/Arcona",
+  "/wiki/Pilot",
+  "/wiki/Star_Wars:_Starfighter_Missions"
+ ]
+}

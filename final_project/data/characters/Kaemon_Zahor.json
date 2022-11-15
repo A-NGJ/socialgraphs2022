@@ -1,0 +1,64 @@
+{
+ "name": "Kaemon_Zahor",
+ "display_name": "Kaemon Zahor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Exchange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kaemon Zahor was a male Human of the Exchange present on Nar Shaddaa around 3643 BBY, when he was killed.\nKaemon Zahor appears in the video game Star Wars: The Old Republic as a Champion boss on Nar Shaddaa. He is not directly involved in any quests, but can be killed for loot and as part of the achievement. This article assumes 100% game completion, which means he was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Exchange",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

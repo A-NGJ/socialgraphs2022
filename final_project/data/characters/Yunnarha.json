@@ -1,0 +1,60 @@
+{
+ "name": "Yunnarha",
+ "display_name": "Yunnarha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivax Syndicate",
+      "The Smuggler"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yunnarha was a Rutian Twi'lek female who worked as a negotiator for the Ivax Syndicate during the time of the Iron Blockade. She was considered a rising star and contributed significant profits to the Syndicate.\nThe character of Yunnarha was created for the 2015 mobile game Star Wars: Uprising, which was developed by Kabam for iOS and Android platforms. Within the game, Yunnarha is a Tier I Crew Member whose skill is Enforcer, which provides a bonus on Crew Runs for the Ivax Syndicate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Rutian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ivax_Syndicate",
+  "/wiki/The_Smuggler",
+  "/wiki/Time",
+  "/wiki/Iron_Blockade",
+  "/wiki/2015",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Kabam",
+  "/wiki/IPhone",
+  "/wiki/Android"
+ ]
+}

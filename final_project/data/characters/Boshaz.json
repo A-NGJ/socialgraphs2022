@@ -1,5 +1,6 @@
 {
  "name": "Boshaz",
+ "display_name": "Boshaz",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Boshaz was a Trandoshan who resided in a slaver camp on Kashyyyk.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashyyyk/Legends",

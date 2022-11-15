@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_droid_maker",
+ "display_name": "Unidentified droid maker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Spectres"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The droid maker was a male Ugnaught who operated a droid shack in the secret rebel hideout known as the Haven. He constructed various droids for the Spectres, if given power cells and the proper parts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ugnaught",
+  "/wiki/Gender",
+  "/wiki/Spectres",
+  "/wiki/Ezra_Bridger",
+  "/wiki/Droid_shack",
+  "/wiki/Haven",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_droid_maker",
+  "/wiki/Star_Wars_Rebels:_Recon_Missions"
+ ]
+}

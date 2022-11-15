@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Rebel_pilot_1_(simulator)",
+ "display_name": "Unidentified Rebel pilot 1  (simulator)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Rebel pilot was a Human starfighter pilot in the Rebel Alliance. The pilot participated in a number of historical training simulations around the same time as Keyan Farlander.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Timeline_of_galactic_history/Legends",
+  "/wiki/Holosimulator",
+  "/wiki/Time/Legends",
+  "/wiki/Keyan_Farlander/Legends",
+  "/wiki/Star_Wars:_X-Wing",
+  "/wiki/Star_Wars:_X-Wing_Tour_of_Duty:_B-Wing"
+ ]
+}

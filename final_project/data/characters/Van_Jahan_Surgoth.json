@@ -1,0 +1,48 @@
+{
+ "name": "Van_Jahan_Surgoth",
+ "display_name": "Van Jahan Surgoth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stabmen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Van Jahan Surgoth was a male Human stabman who was a crewmember of a nagak canoe that patrolled the waters of the Sea of Jarad, on the planet Tralus. Surgoth was a quiet man, with an expressionless appearance, and he was willing to spend hours teaching students of the ways of the stabmen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stabmen",
+  "/wiki/Nagak",
+  "/wiki/Water/Legends",
+  "/wiki/Sea_of_Jarad",
+  "/wiki/Planet/Legends",
+  "/wiki/Tralus/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

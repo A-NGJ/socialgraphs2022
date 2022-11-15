@@ -1,0 +1,45 @@
+{
+ "name": "TD-328",
+ "display_name": "TD-328",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Stormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TD-328 was a stormtrooper who served the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Stormtrooper_Corps",
+  "/wiki/Stormtrooper",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TD-328",
+  "/wiki/Bump",
+  "/wiki/From_a_Certain_Point_of_View",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

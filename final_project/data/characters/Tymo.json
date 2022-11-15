@@ -1,0 +1,76 @@
+{
+ "name": "Tymo",
+ "display_name": "Tymo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "14 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Free Ryloth Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tymo was a male Twi'lek and member of the Free Ryloth Movement. He was aboard a hijacked Imperial transport when he was Force choked to death by Darth Vader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ryloth",
+  "/wiki/14_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Free_Ryloth_Movement",
+  "/wiki/Lords_of_the_Sith",
+  "/wiki/Mission_to_hijack_an_Imperial_weapons_shipment",
+  "/wiki/Galactic_Empire",
+  "/wiki/Transport",
+  "/wiki/Force_choke",
+  "/wiki/Death",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Lords_of_the_Sith_(audiobook)"
+ ]
+}

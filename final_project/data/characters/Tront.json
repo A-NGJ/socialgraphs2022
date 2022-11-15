@@ -1,0 +1,61 @@
+{
+ "name": "Tront",
+ "display_name": "Tront",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Grappa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tront was a Gamorrean pirate who worked for Grappa the Hutt under the command of Sol Mon. Tront hated droids, and never missed an opportunity to damage or destroy one, particularly 4/NG.\nTront, like many Gamorrean guards, wore a strap across his chest with an armor uniform underneath. He carried a Vibro-ax and a blaster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Grappa_(Hutt)",
+  "/wiki/Pirate/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Sol_Mon",
+  "/wiki/Droid/Legends",
+  "/wiki/4/NG",
+  "/wiki/Vibro-ax/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_1",
+  "/wiki/Crimson_Empire_II:_Council_of_Blood_5",
+  "/wiki/Star_Wars_Handbook_2:_Crimson_Empire",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_51"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Twi%27lek%27s_father",
+ "display_name": "Unidentified Twi'lek's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of a Twi'lek hired the bounty hunter Jango Fett to bring her back after she ran away to join the Black Sun with the Falleen Griph.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Neelda",
+  "/wiki/Unidentified_Twi%27lek_(Ord_Mantell)",
+  "/wiki/Bounty_hunter",
+  "/wiki/Jango_Fett",
+  "/wiki/Black_Sun",
+  "/wiki/Falleen",
+  "/wiki/Griph",
+  "/wiki/Age_of_Republic_-_Jango_Fett_1"
+ ]
+}

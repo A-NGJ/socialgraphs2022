@@ -1,5 +1,6 @@
 {
  "name": "Ghundrak",
+ "display_name": "Ghundrak",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ghundrak was an Imperial Moff who governed Thrasybule sector during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

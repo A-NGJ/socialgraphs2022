@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Jenet_Peace_Brigade_member",
+ "display_name": "Unidentified Jenet Peace Brigade member",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jenet"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ylesian RepublicPeace Brigade",
+      "Peace Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Jenet served as a member of the Peace Brigade during the Yuuzhan Vong War. When the Jedi Knights Jaina Solo and Lowbacca were attacked by the brigade, the Jenet participated. He was knocked out of the fight by a kick to the face by Solo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jenet/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ylesian_Republic",
+  "/wiki/Peace_Brigade",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Lowbacca",
+  "/wiki/The_New_Jedi_Order:_Ylesia"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Asran_Headows",
+ "display_name": "Asran Headows",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Museum"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Asran Headows was a Human male who served as the Master Curator of the Galactic Museum on Coruscant, during the years leading up to the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Museum",
+  "/wiki/Master_Curator",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Asran_Headows",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Republic_HoloNet_News_Core_Edition_14:3:22",
+  "/wiki/Star_Wars_Insider_66",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

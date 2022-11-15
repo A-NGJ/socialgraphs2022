@@ -1,0 +1,43 @@
+{
+ "name": "Vanar",
+ "display_name": "Vanar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vanar was a fashion designer contacted to design a wedding dress for Mara Jade's wedding to Luke Skywalker. He believed in the philosophy that \"minimal is maximal\" and his skimpy dresses reflected this. Mara rejected his dresses, but found an answer in Vanar's employee, Jari'kyn. Vanar knew Mara would like Jari'kyn's designs, so he fired her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Minimal_is_maximal",
+  "/wiki/Jari%27kyn",
+  "/wiki/Star_Wars:_Union",
+  "/wiki/Star_Wars:_The_Official_Starships_%26_Vehicles_Collection_27"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "name": "Gar_Granga",
+ "display_name": "Gar Granga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Believers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gar Granga was a male Mon Calamari Sith cult member, who lived during the waning years of the Galactic Republic.\nGranga was a member of the Believers and in circa 31 BBY, he conspired with the Gungan Kosa-Yin Hadu to try and kill the kaluthin, a plant on Almas that made the planet habitable.\nHe later became one of the bodyguards of Garvin Delquist, a former researcher who had gained control of the dark side of the Force through a Sith amulet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Believers",
+  "/wiki/Sith/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Kosa-Yin_Hadu",
+  "/wiki/Kaluthin",
+  "/wiki/Almas",
+  "/wiki/Planet/Legends",
+  "/wiki/Garvin_Delquist",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Sith_amulet",
+  "/wiki/The_Kaluthin_Are_Always_Greener",
+  "/wiki/A_Dark_Fortress"
+ ]
+}

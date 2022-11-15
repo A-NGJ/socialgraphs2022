@@ -1,5 +1,6 @@
 {
  "name": "Chary",
+ "display_name": "Chary",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Chary was a male bodyguard of Ars Veruna, serving under Captain Maris Magneta.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Naboo/Legends",

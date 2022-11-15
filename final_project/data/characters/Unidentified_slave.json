@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_slave",
+ "display_name": "Unidentified slave",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of SithKorsinite League",
+      "Korsinite League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unidentified slave on Kesh gained his freedom, and took the name of Korsin as a title for himself. He devoted his life to live like the first Grand Lord, and a century later many other Sith would pattern themselves after him, also taking the title of Korsin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Korsinite_League",
+  "/wiki/Yaru_Korsin",
+  "/wiki/Korsin",
+  "/wiki/Grand_Lord",
+  "/wiki/3000_BBY",
+  "/wiki/Lost_Tribe_of_the_Sith:_Sentinel"
+ ]
+}

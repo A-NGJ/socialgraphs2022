@@ -1,0 +1,46 @@
+{
+ "name": "Dragon_head",
+ "display_name": "Dragon head",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blue Dragon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Dragon head\" was a pirate and the leader of the Blue Dragon band.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Blue_Dragon",
+  "/wiki/Pirate",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dragon_head",
+  "/wiki/The_Vow_of_Silver_Dawn"
+ ]
+}

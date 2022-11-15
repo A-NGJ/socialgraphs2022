@@ -1,0 +1,40 @@
+{
+ "name": "Tripp",
+ "display_name": "Tripp",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tripp was a male Human who was part of Aeona Cantor's group that was opposed to Shadowspawn's rule on the planet Mindor.\nIn 5 ABY, he took part in seizing the Millennium Falcon from Han Solo when the latter came to Mindor to rescue General Luke Skywalker.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Aeona_Cantor",
+  "/wiki/Cronal",
+  "/wiki/Planet/Legends",
+  "/wiki/Mindor/Legends",
+  "/wiki/5_ABY/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Luke_Skywalker_and_the_Shadows_of_Mindor"
+ ]
+}

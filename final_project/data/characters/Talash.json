@@ -1,0 +1,48 @@
+{
+ "name": "Talash",
+ "display_name": "Talash",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talash was a female Drall agent of the Republic Strategic Information Service who was deployed at the Battle of Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drall/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Talash",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

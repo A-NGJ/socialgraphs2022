@@ -1,0 +1,60 @@
+{
+ "name": "J._M._Harrin",
+ "display_name": "J. M. Harrin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Edan II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Edan Spaceways"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain J. M. Harrin was in command of the Edan Spaceways trans-oceanic shuttle, EAV Bothan Whale. During the Galactic Civil War, he was working the seas of his homeworld, Edan II.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Edan_II/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Edan_Spaceways",
+  "/wiki/Captain/Legends",
+  "/wiki/Trans-oceanic_shuttle",
+  "/wiki/EAV_Bothan_Whale",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Introductory_Adventure_Game",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

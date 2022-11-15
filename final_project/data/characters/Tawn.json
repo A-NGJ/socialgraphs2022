@@ -1,0 +1,66 @@
+{
+ "name": "Tawn",
+ "display_name": "Tawn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tawn was a young Senali and the daughter of Jaret and Mesan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/Jaret",
+  "/wiki/Mesan_(Senali)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tawn",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace"
+ ]
+}

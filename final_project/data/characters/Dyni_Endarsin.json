@@ -1,0 +1,36 @@
+{
+ "name": "Dyni_Endarsin",
+ "display_name": "Dyni Endarsin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeltron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dyni Endarsin was a female Zeltron artist. She attended the launch of the luxury repulsortrain Gem of Alderaan, on Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zeltron/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Artist/Legends",
+  "/wiki/Repulsortrain",
+  "/wiki/Gem_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan"
+ ]
+}

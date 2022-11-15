@@ -1,0 +1,91 @@
+{
+ "name": "Denel_Moonrunner",
+ "display_name": "Denel Moonrunner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "18 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Denel Moonrunner was a Human male, and the son of two hidden Rebels, Lorn and Artis Moonrunner. When the Empire came to Rhamalai in 0 ABY, he was conscripted and given the identification number FR-231. He had a pet gorset named Chaser.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/18_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Lorn_Moonrunner",
+  "/wiki/Artis_Moonrunner",
+  "/wiki/Rhamalai",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Gorset",
+  "/wiki/Chaser_(gorset)",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

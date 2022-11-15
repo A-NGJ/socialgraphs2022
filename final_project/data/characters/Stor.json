@@ -1,0 +1,61 @@
+{
+ "name": "Stor",
+ "display_name": "Stor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 BBY",
+      "Carida"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stor was a Human male student who attended the Academy of Carida during the Imperial era. During his graduation in 4 BBY, he served as Cadet Company Commander; when his company was marching towards the cliff, he forgot to call halt, and as a result, the first rank fell to their deaths.\nStor later committed suicide by jumping off the same cliff. His death was upheld by the instructors at the Academy as a mark of honor and responsibility.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_BBY/Legends",
+  "/wiki/Carida/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Academy_of_Carida",
+  "/wiki/Rise_of_the_Empire_era",
+  "/wiki/Death/Legends",
+  "/wiki/Suicide/Legends",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire"
+ ]
+}

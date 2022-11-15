@@ -1,5 +1,6 @@
 {
  "name": "Sagrillo",
+ "display_name": "Sagrillo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Sagrillo was a Twi'lek employee of Hutt crime lord Tassaa Bareesh in 3643 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

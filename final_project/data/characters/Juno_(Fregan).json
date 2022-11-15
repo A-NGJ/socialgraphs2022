@@ -1,0 +1,57 @@
+{
+ "name": "Juno_(Fregan)",
+ "display_name": "Juno  (Fregan)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Frego"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fregan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cobral family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Juno was a male Fregan who loyally worked as an assistant for the criminal syndicate ruled by the Cobral family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Juno",
+  "/wiki/Frego",
+  "/wiki/Fregan",
+  "/wiki/Gender/Legends",
+  "/wiki/Cobral_family",
+  "/wiki/Jedi_Apprentice:_The_Only_Witness",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

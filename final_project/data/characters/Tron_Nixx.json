@@ -1,0 +1,62 @@
+{
+ "name": "Tron_Nixx",
+ "display_name": "Tron Nixx",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corlass"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tron Nixx was a male Human who worked as a pirate, serving with Drek Drednar as his main astrogator. Nixx had an uncanny sense of direction and his navigational skills rivaled even those of Sullustans. This was due to his Force-sensitivity, which he was unaware of.\nNixx grew up on Corlass, which was a world with a rich tradition of piracy; it was thus only natural that he himself would eventually become a pirate. His navigational skills first manifested themselves when he became lost in Quori City as a child, yet managed to find his way home safely. His skills were put to use when he began serving aboard a freighter. When he met Drednar, he defected from his ship and joined Drednar's pirates as an astronavigator.\nHis directional skills were particularly useful when navigating though asteroid fields and when locating hyperspace routes. He was not so much interested in the martial aspect of piracy, but more in challenges that the navigational aspects of piracy offered him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corlass",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Drek_Drednar",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Quori_City",
+  "/wiki/Freighter/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Asteroid_belt",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Stand_and_Deliver",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

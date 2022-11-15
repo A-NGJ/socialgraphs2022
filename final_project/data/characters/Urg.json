@@ -1,0 +1,51 @@
+{
+ "name": "Urg",
+ "display_name": "Urg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Elwis Bontraar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urg was a Gamorrean who worked for Elwis Bontraar as a guard onboard the Masquerade.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Elwis_Bontraar",
+  "/wiki/Masquerade",
+  "/wiki/Wizards.com",
+  "/wiki/Masquerade_(online_adventure)"
+ ]
+}

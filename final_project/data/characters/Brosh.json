@@ -1,5 +1,6 @@
 {
  "name": "Brosh",
+ "display_name": "Brosh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Brosh was a male Chiss soldier who was stationed at the Hand of Thrawn fortress on Nirauan in 19 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Chiss/Legends",

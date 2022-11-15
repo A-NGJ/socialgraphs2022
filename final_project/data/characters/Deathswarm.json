@@ -1,5 +1,6 @@
 {
  "name": "Deathswarm",
+ "display_name": "Deathswarm",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Deathswarm was a particularly large and dangerous Uwari beetle found in the upper levels of the Myyydril Caverns on Kashyyyk.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashyyyk/Legends",

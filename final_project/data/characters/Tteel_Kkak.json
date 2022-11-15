@@ -1,0 +1,73 @@
+{
+ "name": "Tteel_Kkak",
+ "display_name": "Tteel Kkak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kkak clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tteel Kkak was a Jawa sandcrawler captain. He discovered the wreck of Grizzid's ship, and reported the rancor contained within to Jabba Desilijic Tiure's lieutenants Bib Fortuna and Bidlo Kwerve.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kkak_clan",
+  "/wiki/Sandcrawler/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Grizzid",
+  "/wiki/Rancor/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Bib_Fortuna/Legends",
+  "/wiki/Bidlo_Kwerve/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tteel_Kkak",
+  "/wiki/A_Boy_and_His_Monster:_The_Rancor_Keeper%27s_Tale",
+  "/wiki/Tales_from_Jabba%27s_Palace",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

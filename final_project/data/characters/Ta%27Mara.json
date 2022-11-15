@@ -1,0 +1,37 @@
+{
+ "name": "Ta%27Mara",
+ "display_name": "Ta'Mara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ta'Mara was a female Tarasin, who lived on the planet Cularin during the time of the Galactic Republic. She worked as a cleaner at the house of the Cerean Waz-alem Amir, in the city of Hedrett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarasin",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Waz-alem_Amir",
+  "/wiki/Hedrett",
+  "/wiki/Mix_and_Match"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Cobral_father",
+ "display_name": "Cobral father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Frego"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 44 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fregan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cobral family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Cobral father was a male Fregan from the planet Frego. He was the husband of Zanita Cobral and father of three sons, Solan, Bard, and Rutin, He died circa 44 BBY of natural causes.\nThe Cobral father is never canonically named, only being referred to as \"Rutin's father.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Frego",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Fregan",
+  "/wiki/Gender/Legends",
+  "/wiki/Cobral_family",
+  "/wiki/Planet/Legends",
+  "/wiki/Zanita_Cobral",
+  "/wiki/Solan_Cobral",
+  "/wiki/Bard_Cobral",
+  "/wiki/Rutin_Cobral",
+  "/wiki/Death/Legends",
+  "/wiki/Canon",
+  "/wiki/Jedi_Apprentice:_The_Only_Witness"
+ ]
+}

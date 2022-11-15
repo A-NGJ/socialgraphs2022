@@ -1,0 +1,62 @@
+{
+ "name": "Tchaiko",
+ "display_name": "Tchaiko",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nothoiin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Noble Court",
+      "The Smuggler"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tchaiko, known as \"Tchaiko the Hand\" was a male Nothoiin. Once a low-level functionary in the Noble Court of the Anoat sector, he grew tired of that stifling life and chose to become a daring robber and raider. Nevertheless, he still aided worked in the interests of the Court, whether they wanted it or not.\nDuring the Galactic Empire's Iron Blockade of the Anoat sector, Meymik joined the crew of a young smuggler, assisting them on various missions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nothoiin_(species)",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Noble_Court",
+  "/wiki/The_Smuggler",
+  "/wiki/Anoat_sector",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Galactic_Empire",
+  "/wiki/Iron_Blockade",
+  "/wiki/Sector"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Rench",
+ "display_name": "Rench",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Captain Rench was an Imperial customs officer who threatened to impound Han Solo's ship for his dealing with Hutts. He placed a couple tracking devices on the Millennium Falcon, which Solo placed in an escape pod and used to lure Rench's pursuing corvette into a black hole.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

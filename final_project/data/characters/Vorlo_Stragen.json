@@ -1,0 +1,77 @@
+{
+ "name": "Vorlo_Stragen",
+ "display_name": "Vorlo Stragen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown facial hair"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vorlo Stragen was a male Human who worked for the Hutt Cartel on Nar Shaddaa during the Cold War between the Galactic Republic and the resurgent Sith Empire. In 3643 BBY Vorlo was tasked with the mission to stop the attacks at the Cartel's spice shipment from the Guiding Hand; for this he approached a young Jedi Knight that had just defeated the leader of the Guiding Hand, the crazy Jedi Master Duras Fain, demanding to have Fain handed to the Hutts but the Jedi Knight was able to negotiate with Vorlo to let the Jedi have Fain in exchange for a large sum of credits in compensation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3643_BBY",
+  "/wiki/Spice/Legends",
+  "/wiki/Guiding_Hand",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Duras_Fain",
+  "/wiki/Hutt/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Credit",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vorlo_Stragen",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

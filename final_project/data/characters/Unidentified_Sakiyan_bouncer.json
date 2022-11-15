@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Sakiyan_bouncer",
+ "display_name": "Unidentified Sakiyan bouncer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Quarek'k"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Sakiyan worked as the bouncer at Quarek'k, a seedy bar in the underlevels of the planet Coruscant. He let the bounty hunter Aurra Sing into the establishment when she bribed him with one hundred credits.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sakiyan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Quarek%27k",
+  "/wiki/Bouncer_(occupation)/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Undercity_(Taris)",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Aurra_Sing/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Sakiyan_bouncer",
+  "/wiki/Coruscant_Nights_II:_Street_of_Shadows"
+ ]
+}

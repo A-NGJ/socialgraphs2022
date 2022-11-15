@@ -1,0 +1,71 @@
+{
+ "name": "Tourou",
+ "display_name": "Tourou",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gold-Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tourou was a male Ferroan who lived on Zonama Sekot, during the Yuuzhan Vong War. He kidnapped Danni Quee under Sekot's influence. Jacen Solo later persuaded Tourou to take him and Saba Sebatyne to his leader as well.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Ferroan",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Danni_Quee",
+  "/wiki/Darth_Caedus",
+  "/wiki/Saba_Sebatyne",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

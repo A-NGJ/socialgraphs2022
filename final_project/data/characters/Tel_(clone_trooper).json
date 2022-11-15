@@ -1,0 +1,94 @@
+{
+ "name": "Tel_(clone_trooper)",
+ "display_name": "Tel  (clone trooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "32 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic35th Infantry",
+      "Grand Army of the Republic35th Infantry",
+      "35th Infantry"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tel was a clone trooper sergeant in the Grand Army of the Republic in the 35th Infantry who fought in the Battle of Gaftikar. During the battle he brought Omega Squad with him to take out the HoloNet center in Eyat. Before going into Eyat City, he told the Omegas of Gilad Pellaeon, whom he considered a good officer, for a non-clone.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tel",
+  "/wiki/Kamino/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/35th_Infantry",
+  "/wiki/Clone_trooper_sergeant",
+  "/wiki/Battle_of_Gaftikar",
+  "/wiki/Omega_Squad",
+  "/wiki/HoloNet/Legends",
+  "/wiki/Eyat",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Republic_Commando:_True_Colors",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

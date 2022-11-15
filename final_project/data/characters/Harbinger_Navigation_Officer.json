@@ -1,0 +1,65 @@
+{
+ "name": "Harbinger_Navigation_Officer",
+ "display_name": "Harbinger Navigation Officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3951 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This soldier served aboard the Harbinger as its Navigation Officer in 3951 BBY.\nShe served up until her death during Darth Sion's takeover of the ship along with his Sith Assassins. Meetra Surik discovered a series of holograms of the officer where she spoke with the captain about a mysterious vessel, the Ebon Hawk, and its passengers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Harbinger_Captain",
+  "/wiki/Harbinger_(Hammerhead-class)",
+  "/wiki/Officer/Legends",
+  "/wiki/Darth_Sion",
+  "/wiki/Starship/Legends",
+  "/wiki/Sith_Assassin",
+  "/wiki/Meetra_Surik",
+  "/wiki/Hologram/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Ebon_Hawk",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

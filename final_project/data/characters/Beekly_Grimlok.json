@@ -1,0 +1,68 @@
+{
+ "name": "Beekly_Grimlok",
+ "display_name": "Beekly Grimlok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kuat Drive Yards"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beekly Grimlok was a Rodian saboteur who referred himself as \"the best technological assassin of the New Order\". He was disgruntled with his former employer, Kuat Drive Yards, when he worked there because of the Yards' pro-Human stance and their largest customer, the Galactic Empire. When he was fired shortly after the Battle of Hoth, he started stealing the Yards' plans for many structure and vehicle designs for his revenge. He also blew up the Yards' products.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Kuat_Drive_Yards/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Beekly_Grimlok",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

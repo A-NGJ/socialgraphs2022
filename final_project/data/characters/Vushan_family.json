@@ -1,0 +1,53 @@
+{
+ "name": "Vushan_family",
+ "display_name": "Vushan family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kage"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Extinction of family name",
+     "values": [
+      "0 ABY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Kage Warriors",
+      "Partisans",
+      "Dreamers",
+      "Dreamers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Vushan family was a family of Kages who were all members of the Dreamers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kage",
+  "/wiki/0_ABY",
+  "/wiki/Kage_Warriors",
+  "/wiki/Partisans",
+  "/wiki/Dreamers",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Halia_Vushan",
+  "/wiki/Ru_Vushan",
+  "/wiki/Sadori_Vushan",
+  "/wiki/Battlefront_II:_Inferno_Squad",
+  "/wiki/Battlefront_II:_Inferno_Squad_(audiobook)"
+ ]
+}

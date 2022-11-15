@@ -1,0 +1,58 @@
+{
+ "name": "Vowluss",
+ "display_name": "Vowluss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Toola"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Whiphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vowluss was a Whiphid drop point agent on Ropagi II.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toola/Legends",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ropagi_II",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vowluss",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

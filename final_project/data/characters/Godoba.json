@@ -1,5 +1,6 @@
 {
  "name": "Godoba",
+ "display_name": "Godoba",
  "side_bars": [
   {
    "name": "Physical description",
@@ -39,7 +40,7 @@
   }
  ],
  "content": "Godoba, known as Godoba the Hutt and Godoba the Shrewd, was a Hutt crime lord and leader of the Shadow Syndicate on Nar Shaddaa during the Cold War. He decided to support the reconstituted Sith Empire in exchange for a mission from an Imperial spacer against holdings of the Exchange. He was also the owner of the Club Vertica Casino and five city sectors.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

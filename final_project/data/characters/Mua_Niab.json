@@ -1,0 +1,63 @@
+{
+ "name": "Mua_Niab",
+ "display_name": "Mua Niab",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mua Niab was a male Sullustan technician living during the Galactic War, who did not speak Galactic Basic Standard. In 3639 BBY he was called to repair a mobility-impaired droid AV-9R on the Carrick Station.\nMua Niab appears in the video game Star Wars: The Old Republic as a companion of the Operation courier for the \"Explosive Conflict\" operation. Originally present on the Carrick Station, he was moved to Gav Daragon with Update 4.0.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Basic_Standard/Legends",
+  "/wiki/3639_BBY",
+  "/wiki/AV-9R",
+  "/wiki/Carrick_Station",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Gav_Daragon_(Valor-class)"
+ ]
+}

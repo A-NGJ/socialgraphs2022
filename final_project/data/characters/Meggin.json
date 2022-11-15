@@ -1,5 +1,6 @@
 {
  "name": "Meggin",
+ "display_name": "Meggin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Meggin was a red-skinned humanoid male who worked on Skree, a space station.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Unidentified_red-skinned_species",

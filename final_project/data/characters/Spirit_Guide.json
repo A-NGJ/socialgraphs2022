@@ -1,0 +1,59 @@
+{
+ "name": "Spirit_Guide",
+ "display_name": "Spirit Guide",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nyenthi'Oris Graveyard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Spirit Guide, also called Spirit Healer, was a Wookiee mystic that watched over the Nyenthi'Oris Graveyard on Kashyyyk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nyenthi%27Oris_Graveyard",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Spirit_Guide",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_The_Complete_Guide:_Prima_Official_Game_Guide"
+ ]
+}

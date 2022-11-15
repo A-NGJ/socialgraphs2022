@@ -1,5 +1,6 @@
 {
  "name": "Nicta",
+ "display_name": "Nicta",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Nicta was Jacen Solo's childhood pet gort.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Yavin_4/Legends",

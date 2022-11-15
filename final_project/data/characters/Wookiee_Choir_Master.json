@@ -1,0 +1,63 @@
+{
+ "name": "Wookiee_Choir_Master",
+ "display_name": "Wookiee Choir Master",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wookiee Choir Master was a Male Wookiee who resided on Kashyyyk. He was upset that his bandmates were not in correct positions and were making a mockery of his performance. He wished that he could be a Jedi so that he could use The Force to move them into positions.\n\"Wookiee Choir Master\" first appeared in the side-puzzle \"Kachirho's Chorus\" in the 2022 non-canonical video game LEGO Star Wars: The Skywalker Saga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Star_Wars",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Wookiee_Choir",
+  "/wiki/Jedi",
+  "/wiki/The_Force",
+  "/wiki/Kachirho",
+  "/wiki/2022",
+  "/wiki/Video_game",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

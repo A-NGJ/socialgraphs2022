@@ -1,0 +1,75 @@
+{
+ "name": "Ubed_Yalla",
+ "display_name": "Ubed Yalla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ubed Yalla was a female Human Jedi Master who resided on the arid desert world of Tatooine in the settlement of Anchorhead. At some point in 3643 BBY, she trained a rising Jedi Consular who would later go on to earn the title of Barsen'thor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Ubed_Yalla",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Desert/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Barsen%27thor",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

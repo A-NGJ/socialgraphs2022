@@ -1,0 +1,73 @@
+{
+ "name": "Sheekla_Farrs",
+ "display_name": "Sheekla Farrs",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sheekla Farrs was a female Ferroan living on Zonama Sekot in 29 BBY. Her husband was Shappa. An airship pilot, she was tall and muscled.\nAlthough she and her husband were injured in the First Battle of Zonama Sekot, they both recovered for the planet's jump to hyperspace.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Ferroan",
+  "/wiki/Gender/Legends",
+  "/wiki/29_BBY/Legends",
+  "/wiki/Shappa_Farrs",
+  "/wiki/Pilot/Legends",
+  "/wiki/First_Battle_of_Zonama_Sekot",
+  "/wiki/Planet/Legends",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Rogue_Planet",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Unidentified_Mandalorian_Rally_Master",
+ "display_name": "Unidentified Mandalorian Rally Master",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3963 BBY",
+      "Jebble"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Neo-Crusaders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male Mandalorian Rally Master was a member of the Mandalorian Neo-Crusaders during the Mandalorian Wars. During the Battle of Jebble he was bitten by a rakghoul and shot by Wargo immediately afterwards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/3963_BBY",
+  "/wiki/Jebble",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian_Neo-Crusaders/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Rally_Master",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Battle_of_Jebble",
+  "/wiki/Rakghoul",
+  "/wiki/Wargo",
+  "/wiki/Knights_of_the_Old_Republic_26",
+  "/wiki/Knights_of_the_Old_Republic_27"
+ ]
+}

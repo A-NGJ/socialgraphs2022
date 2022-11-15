@@ -1,0 +1,40 @@
+{
+ "name": "Veyak_Ven%27ya",
+ "display_name": "Veyak Ven'ya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Veyak Ven'ya was a Bothan saboteur in the Alliance to Restore the Republic during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Saboteur/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Veyak_Ven%27ya",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Core_Rulebook"
+ ]
+}

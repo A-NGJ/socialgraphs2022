@@ -1,0 +1,65 @@
+{
+ "name": "Snrrrlagga",
+ "display_name": "Snrrrlagga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snrrrlagga was a male Wookiee slave who was employed by the Hutt cartels during the Galactic Civil War. After involving himself in affairs that would damage the career of Eugene Talmont, he was assassinated by a hired spacer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Slavery/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Eugene_Talmont",
+  "/wiki/Death/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Snrrrlagga",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

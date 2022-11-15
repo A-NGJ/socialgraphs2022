@@ -1,5 +1,6 @@
 {
  "name": "Kerkarr",
+ "display_name": "Kerkarr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Kerkarr was a male Ugnaught Engineer who served the Galactic Republic during the Galactic War.\nIn 3642 BBY, he tasked a Republic spacer to locate cold-resistant battle droids that were damaged in a crash landing and recover their design specs from the crash site.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ugnaught/Legends",

@@ -1,0 +1,48 @@
+{
+ "name": "Trefaren",
+ "display_name": "Trefaren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trefaren was an Imperial Admiral stationed on Corellia approximately in 3 BBY. Admiral Trefaren asked Bria Tharen to accompany him to a reception held by the Corellian government for Imperial officers. Unbeknownst to Trefaren, Bria was a Rebel spy who had infiltrated her way into the Imperial base and was using the admiral to dig up information on new weapons and ships the Galactic Empire was acquiring.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Bria_Tharen",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/The_Hutt_Gambit"
+ ]
+}

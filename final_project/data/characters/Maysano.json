@@ -1,5 +1,6 @@
 {
  "name": "Maysano",
+ "display_name": "Maysano",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Maysano was a wanted Lutrillian criminal who was active during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Maysano",

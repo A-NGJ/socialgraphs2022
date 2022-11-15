@@ -1,5 +1,6 @@
 {
  "name": "Lillald",
+ "display_name": "Lillald",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Lillald was a male Human Senator of the New Republic who served circa 16 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

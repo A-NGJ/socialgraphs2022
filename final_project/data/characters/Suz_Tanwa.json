@@ -1,0 +1,71 @@
+{
+ "name": "Suz_Tanwa",
+ "display_name": "Suz Tanwa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tanwa Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suz Tanwa was a famous Rodian treasure hunter and archaeologist. She was notable for her work in the Yavin system, where she tracked down the treasure of her ancestor, Suvam Tan on Yavin 22. She flew a starship called the Reeko.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tanwa_Clan",
+  "/wiki/Yavin:_The_Big_Red_One",
+  "/wiki/Archaeology/Legends",
+  "/wiki/Yavin_system/Legends",
+  "/wiki/Suvam_Tan",
+  "/wiki/Yavin_22",
+  "/wiki/Starship/Legends",
+  "/wiki/Reeko",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Suz_Tanwa",
+  "/wiki/Wizards.com"
+ ]
+}

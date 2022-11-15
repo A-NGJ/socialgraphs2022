@@ -1,5 +1,6 @@
 {
  "name": "Billan",
+ "display_name": "Billan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Billan was a male Human employee of the Czerka Corporation.\nIn 3956 BBY, Billan was assigned as the gatekeeper to the entrance of Anchorhead on Tatooine. He was known for his expediency and disdain of the bureaucratic mentality, as he would frequently allow known hunters to leave the city without having to go through the somewhat laborious process of verifying their hunting licenses.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

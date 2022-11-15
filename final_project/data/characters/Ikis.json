@@ -1,5 +1,6 @@
 {
  "name": "Ikis",
+ "display_name": "Ikis",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Ikis was a male Zygerrian slave trader who served aboard captain Onyx's ship as a mechanic during the Clone Wars. When the vessel was attacked by the Jedi, he managed to repair the ship's hyperdrive, after it was disabled by Anakin Skywalker, but was captured with the rest of the crew later.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Star_Wars:_The_Clone_Wars:_Slaves_of_the_Republic",

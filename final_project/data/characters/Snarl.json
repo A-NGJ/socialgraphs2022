@@ -1,0 +1,79 @@
+{
+ "name": "Snarl",
+ "display_name": "Snarl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hassk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Warbird gang",
+      "First Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snarl was a male Hassk pirate who served as a member of Kragan Gorr's pirate gang during the era of the New Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hassk",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Warbird_gang",
+  "/wiki/First_Order",
+  "/wiki/Kragan_Gorr",
+  "/wiki/New_Republic_Era",
+  "/wiki/New_Republic",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Snarl",
+  "/wiki/Star_Wars_Resistance",
+  "/wiki/Synara%27s_Score",
+  "/wiki/The_Doza_Dilemma",
+  "/wiki/Descent_(episode)",
+  "/wiki/No_Escape:_Part_2",
+  "/wiki/A_Quick_Salvage_Run",
+  "/wiki/Hunt_on_Celsor_3",
+  "/wiki/The_Engineer",
+  "/wiki/Kaz%27s_Curse",
+  "/wiki/The_Mutiny",
+  "/wiki/Databank_(website)"
+ ]
+}

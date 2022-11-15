@@ -1,0 +1,49 @@
+{
+ "name": "Wets_Tranoj",
+ "display_name": "Wets Tranoj",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Coruscant Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wets Tranoj was a Human male who served as a Coruscant Security Force police officer. In 22 BBY, Tranjo investigated the disappearance of Simon Greyshade's speeder and arrested Reymet Autem for the theft.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant_Security_Force/Legends",
+  "/wiki/Police_officer/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Simon_Greyshade/Legends",
+  "/wiki/XJ-6_airspeeder/Legends",
+  "/wiki/Reymet_Autem",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_56"
+ ]
+}

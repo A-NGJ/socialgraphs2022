@@ -1,0 +1,58 @@
+{
+ "name": "Tsskoat",
+ "display_name": "Tsskoat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivax Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tsskoat was a Trandoshan male who was a bounty hunter trainer on Bespin during the Iron Blockade of the Anoat sector. He was skilled in the use of bolas and flamethrowers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Trandoshan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ivax_Syndicate",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Bounty_hunter",
+  "/wiki/Bespin",
+  "/wiki/Iron_Blockade",
+  "/wiki/Anoat_sector",
+  "/wiki/Bola",
+  "/wiki/Flamethrower",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tsskoat"
+ ]
+}

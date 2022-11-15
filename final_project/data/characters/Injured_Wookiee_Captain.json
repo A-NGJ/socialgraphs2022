@@ -1,0 +1,62 @@
+{
+ "name": "Injured_Wookiee_Captain",
+ "display_name": "Injured Wookiee Captain",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Injured Wookiee Captain was a male Wookiee who resided on Kashyyyk during the Clone Wars. He was worried that his warriors were not going to live much longer fighting the remaining Clone troopers on Kachirho. He asked for assistance in their cause and to push back the clones.\n\"Injured Wookiee Captain\" first appeared in the side-mission \"Wook Troop\" in the 2022 non-canonical video game LEGO Star Wars: The Skywalker Saga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Star_Wars",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Clone_Wars",
+  "/wiki/Clone_trooper",
+  "/wiki/Kachirho",
+  "/wiki/2022",
+  "/wiki/Video_game",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

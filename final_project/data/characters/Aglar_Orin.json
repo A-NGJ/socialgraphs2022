@@ -1,0 +1,50 @@
+{
+ "name": "Aglar_Orin",
+ "display_name": "Aglar Orin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aglar Orin was a former TIE fighter pilot turned bounty hunter. Reasoning that he should receive better pay if he were to continue to risk his life for his work, Orin resigned from the Imperial Navy at the end of his mandatory term of service, and began his career as a bounty hunter. Orin enjoyed the thrill of the hunt so much that the credits soon became unimportant to him, and he began to take extreme risks. Aglar Orin was a rugged braggart whose hunting skills were matched by his riotous behavior.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/TIE_Series",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

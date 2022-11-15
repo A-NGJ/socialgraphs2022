@@ -1,0 +1,80 @@
+{
+ "name": "Valhoun",
+ "display_name": "Valhoun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valhoun was a male Human commander of the Galactic Republic and the leader of an elite unit called Valhoun's Vultures. During the Galactic War, he commanded his unit to many victories against the Sith Empire across the galaxy. He was killed by an Imperial-affiliated individual while on Taris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Commander/Legends",
+  "/wiki/Valhoun%27s_Vultures",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire",
+  "/wiki/Taris",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Valhoun",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

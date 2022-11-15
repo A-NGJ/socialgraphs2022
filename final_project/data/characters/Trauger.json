@@ -1,0 +1,49 @@
+{
+ "name": "Trauger",
+ "display_name": "Trauger",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Socorro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trauger was a bounty hunter. While pursuing a bounty on Socorro, Trauger threatened to kill an Ibhaan'I woman if a member of the tribe would not lead him to his bounty. The woman's son, Oceke, agreed to aid Trauger if he would let his mother go. Instead, Oceke guided Trauger to a field of gas. The gas emissions killed the bounty hunter immediately. From then on, the Ibhaan'I called the gas \"traugi'ha\"; Trauger gas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Socorro/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Ibhaan%27I",
+  "/wiki/Oceke",
+  "/wiki/Trauger_gas",
+  "/wiki/West_End_Games",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

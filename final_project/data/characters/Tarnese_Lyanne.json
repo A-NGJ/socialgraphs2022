@@ -1,0 +1,64 @@
+{
+ "name": "Tarnese_Lyanne",
+ "display_name": "Tarnese Lyanne",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sakiya"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarnese Lyanne was a male Sakiyan who was the Republic Admiral Tarnese Bleyd's pride-father in the wild world of Sakiya. His investments in Black Sun operations led the betrayal of Shiltu the Hutt, who ruined the Sakiyan and the whole Clan Tarnese.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sakiya",
+  "/wiki/Sakiyan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Tarnese_Bleyd",
+  "/wiki/Pride-father",
+  "/wiki/Shiltu",
+  "/wiki/Hutt/Legends",
+  "/wiki/Clan_Tarnese",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tarnese_Lyanne",
+  "/wiki/MedStar_I:_Battle_Surgeons"
+ ]
+}

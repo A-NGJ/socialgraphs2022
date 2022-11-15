@@ -1,0 +1,71 @@
+{
+ "name": "Vel_Pastar",
+ "display_name": "Vel Pastar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin system asteroid belt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vel Pastar was a grizzled and grumpy old Twi'lek who had been working with the smugglers in the Cularin system since Riboga the Hutt first came to power within the system. Like many others within the Organization, Pastar was not fond of the some of the changes which Nirama instituted when he took over from Riboga, and ended up joining the Cell.\nVel Pastar was often found in the haze-filled deepest corner of the Hutt's Tail cantina on Nirama's public asteroid, and would have his daughter, Kor, bring any new recruits in Red Sector to meet with him. He would measure the recruits' responses to his questions to see if they might be open to recruitment into the Cell, while himself maintaining an air of being vaguely supportive of Nirama.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vel",
+  "/wiki/Cularin_system_asteroid_belt",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Organization",
+  "/wiki/The_Cell",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/Riboga",
+  "/wiki/Hutt/Legends",
+  "/wiki/Nirama",
+  "/wiki/Hutt%27s_Tail",
+  "/wiki/Cantina/Legends",
+  "/wiki/Nirama%27s_public_asteroid",
+  "/wiki/Kor_Pastar",
+  "/wiki/Red_Sector",
+  "/wiki/TopWorld",
+  "/wiki/110_BBY",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Star_Wars_Roleplaying_Game",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

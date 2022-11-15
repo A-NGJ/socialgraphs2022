@@ -1,5 +1,6 @@
 {
  "name": "Carness",
+ "display_name": "Carness",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -61,7 +62,7 @@
   }
  ],
  "content": "Carness was a Human male Sergeant who served the Balmorran resistance during the Cold War. He tasked a Republic spacer to recover data recorders from some crashed Imperial ships. Carness believed that these recorders contained valuable intel on the Empire's planetary defenses.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Balmorra/Legends",

@@ -1,0 +1,50 @@
+{
+ "name": "Berra_Sane",
+ "display_name": "Berra Sane",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rhinnal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Berra Sane was a female Human native to the planet Rhinnal.\nShe lived in the village of Austogie, where she worked as a geologist and scout for the Kieger clan. She was unscrupulous in her work and sought to maximize the profitability of future land grabs. She had excellent arctic survival skills and could handle a variety of blaster and vibro weapons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Berra",
+  "/wiki/Rhinnal/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Austogie",
+  "/wiki/Scout/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Berra_Sane",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

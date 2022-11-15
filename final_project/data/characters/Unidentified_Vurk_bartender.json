@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Vurk_bartender",
+ "display_name": "Unidentified Vurk bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vurk"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cosmatanic Steppes bar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This bartender was a Vurk who worked at a bar on the Cosmatanic Steppes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Vurk",
+  "/wiki/Color",
+  "/wiki/Cosmatanic_Steppes_bar",
+  "/wiki/Cosmatanic_Steppes",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Vurk_bartender",
+  "/wiki/Doctor_Aphra:_An_Audiobook_Original",
+  "/wiki/Darth_Vader_(2015)_21"
+ ]
+}

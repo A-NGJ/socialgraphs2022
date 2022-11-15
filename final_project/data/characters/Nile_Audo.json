@@ -1,0 +1,39 @@
+{
+ "name": "Nile_Audo",
+ "display_name": "Nile Audo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nile Audo was an associate of Mal Biron, and acted as his contact on Nwarcol Point when the veteran smuggler was auditioning new recruits. Audo, along with a labor droid, provided the cargo to a crew of spacers after repeating the code phrase \"the mynocks are bad this month.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mal_Biron",
+  "/wiki/Nwarcol_Point",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Labor_droid/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Mynock/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Running_the_Sisar",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

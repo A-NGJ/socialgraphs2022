@@ -1,0 +1,75 @@
+{
+ "name": "Debbikin_the_Elder",
+ "display_name": "Debbikin the Elder",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cestus Cybernetics",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Debbikin the Elder was a member of the Cestus Cybernetics Family led by his son, Debbikin the Young.\nThe Families of Cestus Cybernetics aspired to overthrow the Regent G'Mai Duris from the government. The Jedi Knight Obi-Wan Kenobi and the Vippit Doolb Snoil managed to make the Regent give up trusting the Families. Finally, the Galactic Republic cruiser Nexu bombed the bunker where his son was hidden, resulting in Debbikin's death. The remaining members of the Families had formed an agreement with the Regent and the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cestus_Cybernetics",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Debbikin_the_Young",
+  "/wiki/Families_of_Cestus_Cybernetics",
+  "/wiki/G%27Mai_Duris",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Vippit",
+  "/wiki/Doolb_Snoil",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Nexu_(starship)",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

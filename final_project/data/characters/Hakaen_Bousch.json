@@ -1,0 +1,36 @@
+{
+ "name": "Hakaen_Bousch",
+ "display_name": "Hakaen Bousch",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hakaen Bousch was a male Mon Calamari physician. He attended the launch of the luxury repulsortrain Gem of Alderaan, on Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Repulsortrain",
+  "/wiki/Gem_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan"
+ ]
+}

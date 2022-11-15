@@ -1,0 +1,56 @@
+{
+ "name": "Tosh_(Imperial)",
+ "display_name": "Tosh  (Imperial)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tosh was an Imperial Army captain stationed on the planet Rhamalai. He informed General Yrros that the security systems were not yet installed on the planet, but Yrros replied that acquiring food for Imperial troops was their first priority, and Rhamalai was settled by technophobes, so one stormtrooper with a blaster rifle was enough to strike fear into the entire population.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tosh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhamalai",
+  "/wiki/General/Legends",
+  "/wiki/Naem_Yrros",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Blaster_rifle/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

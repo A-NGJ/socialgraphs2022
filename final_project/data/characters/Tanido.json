@@ -1,0 +1,66 @@
+{
+ "name": "Tanido",
+ "display_name": "Tanido",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanido was a Human male lieutenant who served the resurgent Sith Empire during the Cold War and Galactic War.\nA former member of Pierce's black ops team, Tanido was stationed on Hoth by 3640 BBY, when Lieutenant Pierce recalled him back for the old team. The occasion was special - General Arkos Rakton authorized Pierce to go after the Bastion, the Republic's best defended military complex on Corellia. Pierce trusted no one else except him old team to be qualified enough for the job. Tanido eagerly replied to Pierce's call and even prepared the special weapon he made for that exact occasion some time back. When the team was fully assembled, Rakton excused them for all other assignments and the team for the Bastion. Tanido's weapon lost power during the assault, but he managed to get it restored for when the fortress' gates were open. Pierce's team dealt with the security, killed the Bastion's commanding officer and took the base for the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Pierce%27s_black_ops_team",
+  "/wiki/3640_BBY",
+  "/wiki/Pierce",
+  "/wiki/General/Legends",
+  "/wiki/Arkos_Rakton",
+  "/wiki/Bastion_(Corellia)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Kel-Fi",
+ "display_name": "Kel-Fi",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Kel-Fi was a male Voss living in Voss-Ka on Voss. During the Galactic War he asked an outsider about the factions of the larger galaxy and what they meant for the Voss.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Voss_(species)",

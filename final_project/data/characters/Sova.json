@@ -1,0 +1,70 @@
+{
+ "name": "Sova",
+ "display_name": "Sova",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sova was a Human male corporal of the Galactic Empire who defected to the Alliance to Restore the Republic during the time of the Galactic Civil War.\nSova appears in the directory tree files for the 2003 massively multiplayer online roleplaying game Star Wars Galaxies: An Empire Divided. However, Sova is not known to have appeared on the video game's live servers as a proper non-player character. Nevertheless, an emulated depiction pulled from this character's Interchange File Format reveals what he would have looked like if he were added to the game.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Corporal/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/2003",
+  "/wiki/Video_game"
+ ]
+}

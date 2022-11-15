@@ -1,0 +1,53 @@
+{
+ "name": "Vektol",
+ "display_name": "Vektol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order Navy",
+      "First Order Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vektol was a human male who served as a captain within the First Order Navy, having command of the Mandator IV-class Siege Dreadnought Fulminatrix.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/First_Order",
+  "/wiki/First_Order_Navy",
+  "/wiki/Captain",
+  "/wiki/Mandator_IV-class_Siege_Dreadnought",
+  "/wiki/Fulminatrix",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vektol",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

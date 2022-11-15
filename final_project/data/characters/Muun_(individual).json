@@ -1,0 +1,60 @@
+{
+ "name": "Muun_(individual)",
+ "display_name": "Muun  (individual)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Muun was a Sullustan New Republic officer who was in a temporary command of the Bilbringi Shipyards before it was captured. He was soon transferred to Coruscant before it was captured. He owed his position to Sien Sovv.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Muun/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Near-Human",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Raik_Muun",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Bilbringi_Shipyards",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Sien_Sovv",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

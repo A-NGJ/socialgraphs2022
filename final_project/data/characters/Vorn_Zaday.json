@@ -1,0 +1,53 @@
+{
+ "name": "Vorn_Zaday",
+ "display_name": "Vorn Zaday",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent SystemsTrade Federation",
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vorn Zaday was a minor female Neimoidian dignitary in the Trade Federation, stationed aboard a Separatist starship during the Clone Wars. After the war ended and the birth of Galactic Empire, Vorn became skilled at sabacc, playing with fellow officers until she became a finalist in the Cloud City Sabacc Tournament on the planet Bespin in 17 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Starship/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Cloud_City_Sabacc_Tournament",
+  "/wiki/Planet/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/The_Queen_of_Air_and_Darkness"
+ ]
+}

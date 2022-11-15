@@ -1,0 +1,68 @@
+{
+ "name": "Tel_Trevura",
+ "display_name": "Tel Trevura",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Left eye"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tel Trevura was a Zabrak male who flew a Jumpmaster 5000. At some point, he engaged in a battle involving a RZ-1 A-wing interceptor and a TIE/IN interceptor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tel_Trevura",
+  "/wiki/Tel_Trevura/Legends",
+  "/wiki/Zabrak",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Eye",
+  "/wiki/Pilot",
+  "/wiki/Jumpmaster_5000",
+  "/wiki/RZ-1_A-wing_interceptor",
+  "/wiki/TIE/IN_interceptor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tel_Trevura",
+  "/wiki/Star_Wars:_Armada",
+  "/wiki/Rebellion_in_the_Rim",
+  "/wiki/Star_Wars:_X-Wing_Second_Edition",
+  "/wiki/Punishing_One_Expansion_Pack_(X-Wing:_Second_Edition)"
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "name": "Slim",
+ "display_name": "Slim",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Slim\" was the nickname of a clone trooper of the Galactic Republic. Early during the Clone Wars, Slim was on the planet Kamino, where he got into a fight with the trooper \"Heater,\" who had previously deserted from the Grand Army of the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kamino",
+  "/wiki/Human",
+  "/wiki/Cloning",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Color",
+  "/wiki/Galactic_Republic",
+  "/wiki/Grand_Army_of_the_Republic",
+  "/wiki/Clone_trooper",
+  "/wiki/Clone_Wars",
+  "/wiki/Planet",
+  "/wiki/Trooper",
+  "/wiki/Heater_(clone_trooper)",
+  "/wiki/Treason",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slim",
+  "/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_4",
+  "/wiki/Databank_(website)",
+  "/wiki/Clone_template",
+  "/wiki/Bounty_hunter",
+  "/wiki/Jango_Fett"
+ ]
+}

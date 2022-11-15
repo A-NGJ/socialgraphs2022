@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Brigian_prisoner",
+ "display_name": "Unidentified Brigian prisoner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Brigian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A prisoner was a member of the Brigian species. He was an assassin until interred in the prison world Despayre. There, he became infamous for killing a virevol with only a stick.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Brigian",
+  "/wiki/Gender/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Despayre",
+  "/wiki/Death/Legends",
+  "/wiki/Virevol",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

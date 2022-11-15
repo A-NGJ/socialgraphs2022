@@ -1,0 +1,60 @@
+{
+ "name": "Ya_Sethes",
+ "display_name": "ya Sethes",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Adumar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "ya Sethes was a female Human who served as a general in the Yedagon Confederacy. She assisted Red Flight—a New Republic veteran starfighter group—in planning strategies leading up to the Adumari Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adumar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Yedagon_Confederacy",
+  "/wiki/Red_Flight",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Adumari_Civil_War",
+  "/wiki/X-Wing:_Starfighters_of_Adumar"
+ ]
+}

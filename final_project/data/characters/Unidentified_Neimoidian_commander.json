@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Neimoidian_commander",
+ "display_name": "Unidentified Neimoidian commander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Neimoidian commander commanded the forces of the Confederacy of Independent Systems during the Battle over Kothlis. When he was informed that the Galactic Republic's forces nearly equaled those of the Confederacy, he chose to retreat.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Battle_over_Kothlis",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Neimoidian_commander",
+  "/wiki/The_Clone_Wars:_The_Wind_Raiders_of_Taloraan"
+ ]
+}

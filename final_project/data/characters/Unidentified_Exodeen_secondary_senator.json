@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Exodeen_secondary_senator",
+ "display_name": "Unidentified Exodeen secondary senator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Exodeen"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "17 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Exodeenian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Exodeen secondary senator was one of three senators representing the planet Exodeen in 17 ABY. This senator was second in seniority behind M'yet Luure, but ahead of junior senator R'yet Coome. In 17 ABY, the New Republic senate chamber was rocked by numerous explosions. This senator was one of the numerous senators killed by the explosions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Exodeen/Legends",
+  "/wiki/17_ABY/Legends",
+  "/wiki/Exodeenian",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/ChoF%C3%AF",
+  "/wiki/Senator/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/M%27yet_Luure",
+  "/wiki/R%27yet_Coome",
+  "/wiki/The_New_Rebellion"
+ ]
+}

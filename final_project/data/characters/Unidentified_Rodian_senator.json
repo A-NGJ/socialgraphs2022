@@ -1,0 +1,70 @@
+{
+ "name": "Unidentified_Rodian_senator",
+ "display_name": "Unidentified Rodian senator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Senate",
+      "Imperial Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian male was the senator of Rodia during the first weeks of the Galactic Empire.\nAfter the Clone Wars, in the first weeks of the Galactic Empire, he appeared along with many senators before the Emperor. The Rodian senator worried about the other species'  rights and safety.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Dark_Lord:_The_Rise_of_Darth_Vader",
+  "/wiki/Onaconda_Farr/Legends",
+  "/wiki/52_BBY/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Navik",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/25_ABY/Legends"
+ ]
+}

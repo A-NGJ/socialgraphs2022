@@ -1,0 +1,63 @@
+{
+ "name": "Vol_Barad",
+ "display_name": "Vol Barad",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Five Worlds"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vol Barad was the Deputy President of Corellia in 40 ABY and revealed the news to the citizens of Corellia of President Thrackan Sal-Solo's assassination.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Five_Worlds",
+  "/wiki/Deputy_President",
+  "/wiki/40_ABY",
+  "/wiki/President/Legends",
+  "/wiki/Thrackan_Sal-Solo",
+  "/wiki/Assassin/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vol_Barad",
+  "/wiki/Legacy_of_the_Force:_Bloodlines",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

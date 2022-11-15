@@ -1,0 +1,50 @@
+{
+ "name": "Kea_Ki_Trang",
+ "display_name": "Kea Ki Trang",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Palisade Starport Control"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kea Ki Trang was a Human male who worked as a traffic control officer at the Palisade Starport Control center on Kabal. During the height of the Galactic Civil War, Kea Ki Trang had thirteen years with Palisade Starport Control, and was on duty when the Asaari Wind, under the false identification Spiraling Shape tried to blast away from the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Palisade_Starport_Control",
+  "/wiki/Kabal/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Asaari_Wind",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Fair_Prey",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

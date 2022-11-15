@@ -1,5 +1,6 @@
 {
  "name": "Shay",
+ "display_name": "Shay",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Shay was a male Targonnian and leader of a rebellious splinter-group dedicated to the overthrow of Craw.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Targonn/Legends",

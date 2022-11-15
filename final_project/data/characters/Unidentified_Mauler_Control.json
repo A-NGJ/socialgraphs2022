@@ -1,0 +1,46 @@
+{
+ "name": "Unidentified_Mauler_Control",
+ "display_name": "Unidentified Mauler Control",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Unidentified individual was a Human who served aboard the Imperial-class Star Destroyer Mauler.\nIn 7 ABY, Warlord Zsinj launched an attack on the planet Kuat in his attempt to steal the newly constructed Executor-class Star Dreadnought Razor's Kiss. This unidentified individual assisted the operation by coordinating efforts between the boarding party on Razor's Kiss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Mauler",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Battle_of_Kuat_(Hunt_for_Zsinj)",
+  "/wiki/Planet/Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/Executor-class_Star_Dreadnought/Legends",
+  "/wiki/Razor%27s_Kiss",
+  "/wiki/X-Wing:_Iron_Fist"
+ ]
+}

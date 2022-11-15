@@ -1,0 +1,53 @@
+{
+ "name": "Roly_Umber",
+ "display_name": "Roly Umber",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Junior Academy of Applied Sciences",
+      "AppSci SaberCats",
+      "AppSci SaberCats"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Roly Umber was a human male who was a member of the grav-ball team AppSci SaberCats at Lothal's Junior Academy of Applied Sciences during Zare Leonis's time on the team as center striker. Umber played in the position of defender.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Junior_Academy_of_Applied_Sciences",
+  "/wiki/AppSci_SaberCats",
+  "/wiki/Grav-ball",
+  "/wiki/Lothal",
+  "/wiki/Zare_Leonis",
+  "/wiki/Time",
+  "/wiki/Center_striker",
+  "/wiki/Servants_of_the_Empire:_Edge_of_the_Galaxy",
+  "/wiki/Xenophobia",
+  "/wiki/Athletic_director"
+ ]
+}

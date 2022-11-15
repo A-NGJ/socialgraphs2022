@@ -1,0 +1,65 @@
+{
+ "name": "Tsiat",
+ "display_name": "Tsiat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keshiri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith",
+      "Abeloth"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tsiat was a male Keshiri Sith Master of the Lost Tribe of Sith present at the New Jedi Temple during the last battle between Abeloth and the Jedi; he was ordered to keep watch to their prisoner Wynn Dorvan, but Wynn managed to liberate himself and took Tsiat's blaster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Keshiri",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Abeloth",
+  "/wiki/Sith_Master/Legends",
+  "/wiki/New_Jedi_Temple",
+  "/wiki/Assault_on_the_New_Jedi_Temple",
+  "/wiki/Jedi/Legends",
+  "/wiki/Wynn_Dorvan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tsiat",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

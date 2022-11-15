@@ -1,0 +1,47 @@
+{
+ "name": "Zhul",
+ "display_name": "Zhul",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shaper caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zhul was one of Nen Yim's crèche-mates. He was a shaper adept on the worldship Baanu Ghezh.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Shaper_caste",
+  "/wiki/Nen_Yim",
+  "/wiki/Shaper_Adept",
+  "/wiki/Koros-Strohna",
+  "/wiki/Baanu_Ghezh",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy"
+ ]
+}

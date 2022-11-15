@@ -1,0 +1,49 @@
+{
+ "name": "Smiley_(Nexu)",
+ "display_name": "Smiley  (Nexu)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nexu"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Graballa the Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smiley was a nexu owned by the crime lord Graballa the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Nexu",
+  "/wiki/Color",
+  "/wiki/Graballa/LEGO",
+  "/wiki/Hutt",
+  "/wiki/Crime_lord",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Smiley_(Nexu)",
+  "/wiki/LEGO_Star_Wars:_The_Freemaker_Adventures",
+  "/wiki/The_Mines_of_Graballa"
+ ]
+}

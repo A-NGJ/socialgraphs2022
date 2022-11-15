@@ -1,5 +1,6 @@
 {
  "name": "Fufu",
+ "display_name": "Fufu",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Fufu was an Ewok major in the Galactic Empire before the Battle of Yavin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

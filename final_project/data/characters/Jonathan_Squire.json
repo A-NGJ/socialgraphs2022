@@ -1,0 +1,39 @@
+{
+ "name": "Jonathan_Squire",
+ "display_name": "Jonathan Squire",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jonathan Squire was a male Human, who lived during the time of the Galactic Civil War.\nSquire was present in Tyrena on the planet Corellia during the Festival of Love in 1 ABY. He started writing a letter to the woman he loved and a spacer sent by Dr. Schill assisted him in finishing the letter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Schill",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Tyrena/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Festival_of_Love",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Spacer/Legends"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Hostess",
+ "display_name": "Unidentified Hostess",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark-haired"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eriaduan consulate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A dark-haired human beauty with big blue eyes, she was attached in some way to the Eriaduan consulate on Malastare — host of the gala at which the Dug winners of the Vinta Harvest Classic were being feted. She got drunk and flirted with, at the time, Ambassador, Sheev Palpatine.\nFlirty and gossipy, she invited Sheev Palpatine to her bedroom while drunk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darth_Plagueis_(novel)"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Teak_Sidbam",
+ "display_name": "Teak Sidbam",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teak Sidbam was an Aqualish who was sometimes mistaken for Ponda Baba, another member of that species.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Teak_Sidbam",
+  "/wiki/Teak_Sidbam/Legends",
+  "/wiki/Aqualish",
+  "/wiki/Color",
+  "/wiki/Ponda_Baba",
+  "/wiki/Species",
+  "/wiki/The_Topps_Company,_Inc.",
+  "/wiki/Star_Wars:_Card_Trader",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

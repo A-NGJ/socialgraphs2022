@@ -1,0 +1,66 @@
+{
+ "name": "Whizzer",
+ "display_name": "Whizzer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Whizzer was an aging Twi'lek with ties to Jabba the Hutt's cartel on Tatooine.\nIn 3 ABY, he owed Jabba both credits and spice.\nWhizzer was waylaid once by Big Gizz, Spiker, and other members of Jabba's swoop gang. In an act of intimidation, Spiker pretended to kill Whizzer, but held back at the last second. Whizzer then bribed his way out of the confrontation by allowing Big Gizz to sample some of his Ryll.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Just_Another_Day%27s_Work",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Spice/Legends",
+  "/wiki/Gizman",
+  "/wiki/Spiker",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Ryll/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Shadows_of_the_Empire_Sourcebook"
+ ]
+}

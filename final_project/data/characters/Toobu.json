@@ -1,0 +1,29 @@
+{
+ "name": "Toobu",
+ "display_name": "Toobu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toobu was a large and powerful Hutt during the Cold War who acquired the Twi'lek Tivva as a slave.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Krata",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Tivva",
+  "/wiki/Slavery/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

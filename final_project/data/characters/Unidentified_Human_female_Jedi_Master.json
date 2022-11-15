@@ -1,0 +1,64 @@
+{
+ "name": "Unidentified_Human_female_Jedi_Master",
+ "display_name": "Unidentified Human female Jedi Master",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicJedi Order",
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female was a member of the Jedi High Council during the Great Sith War. She was opposed to Exar Kun's studies of The Force.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_High_Council/Legends",
+  "/wiki/Great_Sith_War/Legends",
+  "/wiki/Exar_Kun/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Human_female_Jedi_Master",
+  "/wiki/Timeline_10:_The_Exar_Kun_War"
+ ]
+}

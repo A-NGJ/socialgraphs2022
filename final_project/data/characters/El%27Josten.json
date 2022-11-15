@@ -1,5 +1,6 @@
 {
- "name": "El'Josten",
+ "name": "El%27Josten",
+ "display_name": "El'Josten",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "El'Josten was a was as a Human male Jedi Master who served as an instructor for Jedi on Onderon during third Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Special:Upload",

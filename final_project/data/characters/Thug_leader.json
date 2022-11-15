@@ -1,0 +1,76 @@
+{
+ "name": "Thug_leader",
+ "display_name": "Thug leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sun Guard",
+      "Order of the Sith Lords"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Sun Guard, known only as the Thug leader, was an underling of Darth Sidious, the Dark Lord of the Sith. During the Invasion of Naboo, he led a mercenary group that tried to kidnap Padmé Amidala. However, the plot failed, and he was killed by Captain Quarsh Panaka.\nIn 32 BBY, when Captain Quarsh Panaka tried to escort Padmé Amidala, the Queen of Naboo, to Senator Palpatine of Naboo, the Queen was kidnapped by the Thug leader and his henchmen, and taken to Coruscant's Restricted Area. Panaka rescued Amidala in the bowels of the city, and began to travel to the surface. In a darkened room just below Coruscant's surface, Panaka and Amidala were attacked by the Sun Guard. Wielding a vibro-ax, he fought Panaka, but was defeated and killed after a long struggle.\nThe Thug leader appears in the Star Wars: Episode I The Phantom Menace video game. The mission the leader appears in contradicts the Star Wars: Episode I The Phantom Menace film; Queen Amidala was not captured in the film and went straight to the Senate Building.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace_(video_game)",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sun_Guard",
+  "/wiki/Order_of_the_Sith_Lords",
+  "/wiki/Quarsh_Panaka/Legends",
+  "/wiki/Padm%C3%A9_Amidala/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Coruscant_mercenary",
+  "/wiki/Skirmish_at_Coruscant",
+  "/wiki/Captain/Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Restricted_Area",
+  "/wiki/Vibro-ax/Legends",
+  "/wiki/Senate_Building",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/Evil_Never_Dies:_The_Sith_Dynasties"
+ ]
+}

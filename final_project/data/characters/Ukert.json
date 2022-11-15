@@ -1,0 +1,55 @@
+{
+ "name": "Ukert",
+ "display_name": "Ukert",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Reclamation Services",
+      "Inc.",
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ukert was an Ugnaught smuggler of clan Ubskai who ran a small criminal empire on the planet Kothlis. He was known as a rival of Bothan crime lord, Maxeena Sov'lya. Ukert also owned the legitimate Reclamation Services, Inc. recycling operation on Kothlis. Ukert secretly served as a go-between for the Rebel Alliance, storing weapons from the Botha Ammunitions Corporation in recycling bins.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Reclamation_Services,_Inc.",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Ubskai",
+  "/wiki/Kothlis/Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Maxeena_Sov%27lya",
+  "/wiki/Botha_Ammunitions_Corporation",
+  "/wiki/West_End_Games",
+  "/wiki/Garbage_Run",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

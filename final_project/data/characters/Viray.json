@@ -1,0 +1,70 @@
+{
+ "name": "Viray",
+ "display_name": "Viray",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicDagger Wing",
+      "Dagger Wing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viray was a member of Dagger Wing, imprisoned on Belsavis along with the rest of the squadron for bombing thousands of Imperial civilians. During the Invasion of Belsavis the Republic decided to pardon Dagger Wing and return them to active duty. Havoc Squad Major fought through Belsavis to re-assemble the Dagger Wing, rescuing Viray from a firefight he and a fellow pilot Tobin Harlan were in. After all members of the squadron were accounted for, Guard Captain Zess arranged for their transit to Macula Station, from where the pilots were able to rejoin the war effort.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Dagger_Wing",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Havoc_Squad",
+  "/wiki/Major/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Tobin_Harlan",
+  "/wiki/Zess",
+  "/wiki/Macula_Station",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

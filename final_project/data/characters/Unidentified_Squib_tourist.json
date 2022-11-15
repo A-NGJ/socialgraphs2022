@@ -1,0 +1,30 @@
+{
+ "name": "Unidentified_Squib_tourist",
+ "display_name": "Unidentified Squib tourist",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Squib"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Squib tourist visited Piringiisi on the planet Sullust only to be the victim of a dianoga attack. The Squib survived and notified the authorities of the hazard in the mud pits.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Piringiisi",
+  "/wiki/Planet/Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Dianoga/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Squib_tourist",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

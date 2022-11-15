@@ -1,5 +1,6 @@
 {
  "name": "Morph",
+ "display_name": "Morph",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Morph was a Polydroxol smuggler who was associated with three other smugglers: Bruce Mercy, Durquist, and Ptak-Sok.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Polydroxol",

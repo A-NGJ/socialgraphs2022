@@ -1,0 +1,54 @@
+{
+ "name": "Wuglik",
+ "display_name": "Wuglik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dorumaa Spaceport"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wuglik was a Gamorrean, who lived on Dorumaa. He worked in Dorumaa Spaceport, as a cargo handler for Intergalactic Freight. He was a patron of the Cantina Oceana, which he visited several times a week. He was also good friends with the Ithorian Yatter and they would meet in the cantina to watch sport on the holovid together. On one occasion, they were in the cantina playing Bannak and watching the Galactic lightball playoffs, when Echari Di'San got into a fight with Rysko Barnt. Barnt was murdered shortly afterwards and a group of spacers who were investigating the incident asked Wuglik some questions about it. Wuglik thought that it was obvious that Di'San had killed Rysko.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dorumaa_Spaceport",
+  "/wiki/Dorumaa",
+  "/wiki/Intergalactic_Freight",
+  "/wiki/Cantina_Oceana",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Yatter",
+  "/wiki/Cantina/Legends",
+  "/wiki/Holovid/Legends",
+  "/wiki/Bannak",
+  "/wiki/Galactic_lightball_playoffs",
+  "/wiki/Echari_Di%27San",
+  "/wiki/Rysko_Barnt",
+  "/wiki/Plea_Bargain"
+ ]
+}

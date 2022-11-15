@@ -1,5 +1,6 @@
 {
  "name": "Partus",
+ "display_name": "Partus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Partus was a female Human and the navigator for Hawkbat. Partus and a few of the Hawkbat's crew were treated to drinks by Yokel Group during their mission to Storinal in order to gather information.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

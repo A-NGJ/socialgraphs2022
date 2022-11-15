@@ -1,5 +1,6 @@
 {
  "name": "Brougg",
+ "display_name": "Brougg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Brougg was a Rodian Minig Guild operative who lived in Cloud City on Bespin when the Galactic Empire occupied the planet. At that time, Brougg and other operatives were attacked by Tal Veridian and his team, hit them unconscious and took their dresses.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Rodian",

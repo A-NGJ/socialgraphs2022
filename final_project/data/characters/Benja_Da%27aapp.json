@@ -1,0 +1,47 @@
+{
+ "name": "Benja_Da%27aapp",
+ "display_name": "Benja Da'aapp",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gruvia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gruvian"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Benja Da'aapp was a Gruvian tourist often seen at Kuat Passenger Port. Da'aapp was always accompanied by Olall Da'aapp, though it is unclear how they were related. Both Gruvians were gregarious and talkative, often adopting random passing spacers as traveling companions, telling them endless tales of the places they had visited, and getting them to take pictures of them with one of their many recording devices.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gruvia",
+  "/wiki/Gruvian",
+  "/wiki/Kuat_Passenger_Port",
+  "/wiki/Olall_Da%27aapp",
+  "/wiki/Spacer/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Benja_Da%27aapp",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

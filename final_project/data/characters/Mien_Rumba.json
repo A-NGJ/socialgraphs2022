@@ -1,0 +1,60 @@
+{
+ "name": "Mien_Rumba",
+ "display_name": "Mien Rumba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black market precious mineral dealers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mien Rumba was a male Sullustan who was a former miner wanted by the SoroSuub Corporation for stealing jewels and selling them off.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_market/Legends",
+  "/wiki/Miner/Legends",
+  "/wiki/SoroSuub_Corporation/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

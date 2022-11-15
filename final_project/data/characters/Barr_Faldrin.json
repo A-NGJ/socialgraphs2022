@@ -1,0 +1,57 @@
+{
+ "name": "Barr_Faldrin",
+ "display_name": "Barr Faldrin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barr Faldrin was an Imperial agent trainer who made his home training agents on the planet of Corellia. At one point, he trained Cipher Nine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Imperial_agent",
+  "/wiki/Planet/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Cipher_Nine",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barr_Faldrin",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

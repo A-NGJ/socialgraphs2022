@@ -1,0 +1,52 @@
+{
+ "name": "Vuldo",
+ "display_name": "Vuldo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kalarba"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vuldo was a Kalarban who was once involved in illegal blaster building. He had forced Q-E, 2-E, and U-E to build the blasters for him. When the droids started to question his intentions, Vuldo shot U-E. He was eventually caught by C-3PO, R2-D2, and Nak Pitareeze.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kalarba/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Q-E",
+  "/wiki/2-E",
+  "/wiki/U-E",
+  "/wiki/Droid/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Nak_Pitareeze",
+  "/wiki/Droids_(1994)_5",
+  "/wiki/The_Essential_Guide_to_Droids"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Tunia",
+ "display_name": "Tunia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zelos II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zelosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tunia was a male Zelosian and the uncle of Celot Ratua Dil.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zelos_II",
+  "/wiki/Zelosian",
+  "/wiki/Gender/Legends",
+  "/wiki/Celot_Ratua_Dil",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

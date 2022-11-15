@@ -1,5 +1,6 @@
 {
- "name": "A'Deen",
+ "name": "A%27Deen",
+ "display_name": "A'Deen",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "A'Deen was a Tusken Raider and the youngest son of A'Yark. He was killed during the Comet Run Day Battle.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Tatooine/Legends",

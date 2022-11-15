@@ -1,0 +1,35 @@
+{
+ "name": "Marino_Pomana",
+ "display_name": "Marino Pomana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Latero"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marino Pomana was a Latero male who worked as the Head Chef at President Jamie Brasen's estate on Begamor",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Latero",
+  "/wiki/Gender",
+  "/wiki/Chef",
+  "/wiki/President",
+  "/wiki/Jamie_Brasen",
+  "/wiki/Begamor",
+  "/wiki/The_Vow_of_Silver_Dawn"
+ ]
+}

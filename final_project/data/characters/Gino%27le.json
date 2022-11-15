@@ -1,5 +1,6 @@
 {
- "name": "Gino'le",
+ "name": "Gino%27le",
+ "display_name": "Gino'le",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Gino'le was a male Anacondan doctor who served as the Chief of Medical Operations on board the Galactic Republic space station Starlight Beacon. He outfitted himself with cybernetic limbs in order to better care for patients.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Anacondan",

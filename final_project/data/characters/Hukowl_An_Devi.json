@@ -1,0 +1,69 @@
+{
+ "name": "Hukowl_An_Devi",
+ "display_name": "Hukowl An Devi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hukowl An Devi was a political advisor of the corrupt governor of the planet Telos IV, Crion.\nAfter the end of the Telosian Civil War and Crion's death, An Devi became the new governor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Advisor/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Crion",
+  "/wiki/Telosian_Civil_War",
+  "/wiki/Jedi%E2%80%94The_Dark_Side_2",
+  "/wiki/Jedi%E2%80%94The_Dark_Side_3",
+  "/wiki/Jedi%E2%80%94The_Dark_Side_4",
+  "/wiki/Jedi%E2%80%94The_Dark_Side_5"
+ ]
+}

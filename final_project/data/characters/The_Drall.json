@@ -1,0 +1,36 @@
+{
+ "name": "The_Drall",
+ "display_name": "The Drall",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Drall"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Drall was a male Drall who owned a store in Shove-Off Point, a shantytown in Dearic, on the planet Talus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Drall/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shove-Off_Point",
+  "/wiki/Dearic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Talus/Legends",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

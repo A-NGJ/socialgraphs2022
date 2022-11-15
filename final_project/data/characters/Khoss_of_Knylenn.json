@@ -1,0 +1,63 @@
+{
+ "name": "Khoss_of_Knylenn",
+ "display_name": "Khoss of Knylenn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kuat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Knylenn"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Khoss of Knylenn was a male Kuati merchant. The Human was running through the lobby of the Kuat Passenger Port when he dropped his bag containing money and a ticket for the Kuat City Express. Bounty hunter Zam Wesell snatched the bag, and knocked Khoss out. Using his ticket, she boarded the ferry en route to Kuat City. When the stewardess aboard the ferry questioned where Khoss was, Wesell replied the he had sudden business to tend to. Once in Kuat City, Wesell used Khoss's money to purchase clothing to help blend into the Kuati culture.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Knylenn",
+  "/wiki/Kuati/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Kuat_Passenger_Port",
+  "/wiki/Kuat_City_Express",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Zam_Wesell/Legends",
+  "/wiki/Kuat_City",
+  "/wiki/Star_Wars_Adventures_5:_The_Shape-Shifter_Strikes",
+  "/wiki/Slave_Ship"
+ ]
+}

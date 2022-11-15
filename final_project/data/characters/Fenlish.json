@@ -1,5 +1,6 @@
 {
  "name": "Fenlish",
+ "display_name": "Fenlish",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Fenlish was a Chiss student at the Syndic Mitth'raw'nuruodo training academy. Fenlish was assigned to collect weapons during the attack on the academy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Chiss/Legends",

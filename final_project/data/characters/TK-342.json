@@ -1,0 +1,52 @@
+{
+ "name": "TK-342",
+ "display_name": "TK-342",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-342 was a stormtrooper commander present at the pacification of Ghorman.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/DSD1_dwarf_spider_droid/Legends",
+  "/wiki/Stormtrooper_commander/Legends",
+  "/wiki/Battle_of_Ghorman",
+  "/wiki/Ghorman/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TK-342",
+  "/wiki/The_New_Essential_Guide_to_Droids"
+ ]
+}

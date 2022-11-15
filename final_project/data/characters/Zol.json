@@ -1,0 +1,46 @@
+{
+ "name": "Zol",
+ "display_name": "Zol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified alien woodsmen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zol was a member of a crew of green-skinned sapients who came to the forest moon of Endor in a Factory ship. Along with Rok, he used the indigenous foonars in an attempt to harvest lumber with the crew's harvester. The plan was stopped by the Ewoks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_alien_woodsmen",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Factory_ship",
+  "/wiki/Rok",
+  "/wiki/Foonar",
+  "/wiki/Harvester",
+  "/wiki/Ewok/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zol",
+  "/wiki/Ewoks_5"
+ ]
+}

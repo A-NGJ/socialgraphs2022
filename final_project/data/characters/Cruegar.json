@@ -1,5 +1,6 @@
 {
  "name": "Cruegar",
+ "display_name": "Cruegar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Cruegar was a Gran from Kinyen who later settled on the planet Tatooine and owned the Paddocks, a large open-air market in Mos Eisley.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kinyen/Legends",

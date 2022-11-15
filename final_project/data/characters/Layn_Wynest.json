@@ -1,0 +1,49 @@
+{
+ "name": "Layn_Wynest",
+ "display_name": "Layn Wynest",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krayt's Honor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Layn Wynest was a Human female crewperson on the Krayt's Honor. She often posed as the ship's captain, despite the fact that the real one was Siqo Vass. It was believed they did this due to Humanocentrism.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Krayt%27s_Honor/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Siqo_Vass/Legends",
+  "/wiki/Humanocentrism",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Layn_Wynest",
+  "/wiki/Databank_(original)",
+  "/wiki/Starships_of_the_Galaxy_(Saga_Edition)"
+ ]
+}

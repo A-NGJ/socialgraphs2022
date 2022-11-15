@@ -1,0 +1,74 @@
+{
+ "name": "Tivvik",
+ "display_name": "Tivvik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Koros-Strohna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong empire"
+     ]
+    },
+    {
+     "name": "Domain",
+     "values": [
+      "Domain Tivvik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Supreme Commander Tivvik was a member of Domain Tivvik and one of six Supreme Commanders that commanded the flotilla sent to attack Zonama Sekot during the Second Battle of Coruscant. Warmaster Nas Choka ordered Tivvik and Supreme Commander Sla Tsun to drive their mataloks into Zonama Sekot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koros-Strohna",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Domain_Tivvik",
+  "/wiki/Supreme_Commander_(Yuuzhan_Vong_rank)",
+  "/wiki/Shamed_Ones",
+  "/wiki/Intendant_caste",
+  "/wiki/Fal_Tivvik",
+  "/wiki/Flotilla/Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Battle_of_Yuuzhan%27tar",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Warmaster",
+  "/wiki/Nas_Choka",
+  "/wiki/Sla_Tsun",
+  "/wiki/Matalok",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

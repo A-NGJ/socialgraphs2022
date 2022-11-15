@@ -1,0 +1,59 @@
+{
+ "name": "Trix_Skylan",
+ "display_name": "Trix Skylan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trix Skylan was a Human female smuggler who was present in Farnel Outpost, the Galactic Republic's base on the planet Balmorra during the Galactic War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voidhound",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Farnel_Outpost",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trix_Skylan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_A-wing_pilot",
+ "display_name": "Unidentified A-wing pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This pilot was on the planet of Tozeer when Luke Skywalker arrived to rescue C-3PO. The pilot traded with Skywalker for a part he needed to repair his A-wing fighter. In exchange, he gave the Rebel an item he needed to complete his mission.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tozeer",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/RZ-1_A-wing_interceptor/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars:_Yoda_Stories"
+ ]
+}

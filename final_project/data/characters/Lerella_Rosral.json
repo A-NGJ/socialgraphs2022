@@ -1,0 +1,62 @@
+{
+ "name": "Lerella_Rosral",
+ "display_name": "Lerella Rosral",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Auratera"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senoloro"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lerella Rosral was the governor of the city of Senoloro on the planet Auratera. She served a life-term and was despised by some of her constituents due to her never-ending attempts to gain additional power.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lerella_Rosral",
+  "/wiki/Lerella_Rosral/Legends",
+  "/wiki/Auratera",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Senoloro",
+  "/wiki/Governor",
+  "/wiki/City",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lerella_Rosral",
+  "/wiki/Nexus_of_Power"
+ ]
+}

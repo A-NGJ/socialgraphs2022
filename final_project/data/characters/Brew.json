@@ -1,5 +1,6 @@
 {
  "name": "Brew",
+ "display_name": "Brew",
  "side_bars": [
   {
    "name": "Physical description",
@@ -27,7 +28,7 @@
   }
  ],
  "content": "\"Brew\" was the nickname of a TIE fighter pilot in the Galactic Empire's 204th Imperial Fighter Wing, nicknamed as such by the pilots of the New Republic due to the characteristics of their flying that distinguished them from other TIE pilots. \"Brew\" was one of the newer pilots the New Republic noted of their enemy roster following the campaign in the Cerberon system.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Telosian_guard",
+ "display_name": "Unidentified Telosian guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified guard was Human who lived on the planet Telos IV. Sometime in 44 BBY, the guard was part of the group that escorted the Jedi prisoners Qui-Gon Jinn and Obi-Wan Kenobi to their planned execution.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Day_of_Reckoning"
+ ]
+}

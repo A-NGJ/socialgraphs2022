@@ -1,0 +1,64 @@
+{
+ "name": "Watkin",
+ "display_name": "Watkin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "7th Fleet",
+      "Imperial Starfighter Corps",
+      "7th Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Watkin was a male TIE fighter pilot and a lieutenant in the Seventh Fleet's TIE forces, commanded by Grand Admiral Thrawn. He assisted during Thrawn's confrontation against the traitorous Grand Admiral Savit, commanding a squad.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/7th_Fleet",
+  "/wiki/Commodore",
+  "/wiki/Karyn_Faro",
+  "/wiki/Major",
+  "/wiki/Quach",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Lieutenant",
+  "/wiki/TIE_line",
+  "/wiki/Grand_Admiral",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Skirmish_against_the_Third_Fleet",
+  "/wiki/Treason",
+  "/wiki/Balanhai_Savit",
+  "/wiki/Squad",
+  "/wiki/Thrawn:_Treason",
+  "/wiki/Thrawn:_Treason_(audiobook)",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

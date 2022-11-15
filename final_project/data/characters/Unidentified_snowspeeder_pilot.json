@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_snowspeeder_pilot",
+ "display_name": "Unidentified snowspeeder pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This snowspeeder pilot was a member of the Rebel Alliance. During a battle with Imperial walkers, the pilot warned a Star Tours travel agency vessel to stay clear of the area when the ship accidentally flew directly into the combat zone.\nSince the Star Tours attraction visits one of three different planets during each segment of the ride, this snowspeeder pilot does not always appear. The pilot's dialogue is very similar to lines spoken by the original Star Tours ride's Red Leader. The snowspeeder pilot is portrayed by Rob Howe, a member of the fan group Rebel Legion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Tours:_The_Adventures_Continue",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/All_Terrain_Armored_Transport/Legends",
+  "/wiki/Star_Tours/Legends",
+  "/wiki/StarSpeeder_1000",
+  "/wiki/Star_Tours_(real-world)",
+  "/wiki/Red_Leader_(Star_Tours)",
+  "/wiki/Rebel_Legion",
+  "/wiki/StarWars.com"
+ ]
+}

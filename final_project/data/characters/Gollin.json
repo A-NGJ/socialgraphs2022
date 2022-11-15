@@ -1,5 +1,6 @@
 {
  "name": "Gollin",
+ "display_name": "Gollin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -47,7 +48,7 @@
   }
  ],
  "content": "Gollin was a human female who served as a general in the Galactic Empire. She was sent to Heva after a group of bounty hunters who were hunting down Darth Vader destroyed the Star Destroyer Formidable.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

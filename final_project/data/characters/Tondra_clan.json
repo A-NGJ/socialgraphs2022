@@ -1,0 +1,47 @@
+{
+ "name": "Tondra_clan",
+ "display_name": "Tondra clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Extended family"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Wroona"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Tondra clan was a Human extended family from the planet Wroona. The clan moved to Cloud City six decades prior to the Galactic Civil War. The clan made their living by harvesting and procession algae from Bespin's upper atmosphere using swoops with special airscoops on the front. During the Galactic Civil War, the clan was led by Chando Tondra.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Wroona/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Standard_decade/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Algae/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Atmosphere/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Airscoop",
+  "/wiki/Chando_Tondra",
+  "/wiki/Galaxy_Guide_2:_Yavin_and_Bespin_(Second_Edition)"
+ ]
+}

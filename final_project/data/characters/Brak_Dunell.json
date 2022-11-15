@@ -1,0 +1,55 @@
+{
+ "name": "Brak_Dunell",
+ "display_name": "Brak Dunell",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brak Dunell was a member of the Imperial Security Bureau. He used the alias Bel Janius when he posed as a Mrlsst Trade and Science Academy graduate and was the anonymous benefactor of the Pan-Tapani Historical Society.\nHe infiltrated the Justice Action Network terrorist group, during the Galactic Civil War. After the JAN failed to destroy an Imperial Torpedo Sphere, docked at Tallaan, this gave Dunell and the Empire the basis for staging a complete subjugation of Tapani sector.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Mrlsst_Trade_and_Science_Academy",
+  "/wiki/Pan-Tapani_Historical_Society",
+  "/wiki/Justice_Action_Network",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Unidentified_Torpedo_Sphere_(Tallaan)",
+  "/wiki/Tallaan",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Event_of_the_Season",
+  "/wiki/Tapani_Sector_Instant_Adventures",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

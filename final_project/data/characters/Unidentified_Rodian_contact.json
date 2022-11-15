@@ -1,0 +1,64 @@
+{
+ "name": "Unidentified_Rodian_contact",
+ "display_name": "Unidentified Rodian contact",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicRenegade Squadron",
+      "Renegade Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian contact was a male Rodian who lived in Tatooine's Mos Eisley spaceport. A few months after the Battle of Yavin, the Alliance to Restore the Republic dispatched Renegade Squadron to Mos Eisley to free a group of Rebel prisoners who were being held by the Hutt Cartel. When Renegade Squadron captured the cantina the Rodian was in at the time, he offered to bring the Rebels to where they were holding the captives. He led the Renegades across the street—with the Rebels protecting him from the local Imperial garrison that was attacking—to a sail barge hangar that the Hutts were using as a temporary prison for their captives. Renegade Squadron then freed the prisoners and took them back to their base on Boz Pity.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Renegade_Squadron/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Cantina/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Garrison/Legends",
+  "/wiki/Sail_barge/Legends",
+  "/wiki/Hangar/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Boz_Pity/Legends",
+  "/wiki/Star_Wars_Battlefront:_Renegade_Squadron"
+ ]
+}

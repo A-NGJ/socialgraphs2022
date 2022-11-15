@@ -1,0 +1,64 @@
+{
+ "name": "Xia_family",
+ "display_name": "Xia family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Family"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Heaven system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Prominence",
+     "values": [
+      "High Republic Era"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Heaven-earth corporation",
+      "Four great families",
+      "Four great families"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Xia family was a family active during the High Republic Era. The family always competed against the Nan family, but by a millennia-old custom, Heaven system politics forbade war between the four great families of the ruling corporation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Heaven_system",
+  "/wiki/High_Republic_Era",
+  "/wiki/Heaven-earth_corporation",
+  "/wiki/Four_great_families",
+  "/wiki/Nan_family",
+  "/wiki/Millennium",
+  "/wiki/Politics",
+  "/wiki/War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/The_Vow_of_Silver_Dawn"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Wuta",
+ "display_name": "Wuta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Bright Tree Village"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wuta was an Ewok scout on the forest moon of Endor. He tracked predators and searched for fallen trees to make tools. He was the first Ewok to notice the Galactic Empire when they began establishing a presence on Endor.\nAlthough the image of Wuta in Star Wars Insider 135 depicts him in a hood with the stitching on the right side of his head, his Decipher card image shows the stitching at the center.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Endor_(planet)/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Insider_135",
+  "/wiki/Category:Images_of_Wuta",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Endor_Limited",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_11",
+  "/wiki/The_Official_Star_Wars_Fact_File_90",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Rogues_Gallery_(Star_Wars_Insider)"
+ ]
+}

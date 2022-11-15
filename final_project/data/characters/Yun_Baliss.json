@@ -1,0 +1,66 @@
+{
+ "name": "Yun_Baliss",
+ "display_name": "Yun Baliss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Baliss"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yun Baliss was a Human male duke who was a member of House Baliss, a minor family on Alderaan that remained neutral when war broke out between the major houses, during the Cold War. When the Baliss estate was overrun by Killiks, Yun decided to capitalize on the chaos engulfing Alderaan and make the Teraan estate the new Baliss home.\nAfter the smuggler known as Ace stole a datapad from the Baliss estate to allow House Teraan to regain their lost fortune, the Duke sent his son Xin Baliss to exact vengeance against House Teraan by challenging Lenn Teraan to a blaster duel to the death. As Lenn had never mastered the blaster, he and his sister Cedonia persuaded Ace to stand as their champion, who killed Xin in the duel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Baliss",
+  "/wiki/Duke/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/House_Baliss_(estate)",
+  "/wiki/Killik/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Voidhound",
+  "/wiki/House_Teraan",
+  "/wiki/Xin_Baliss",
+  "/wiki/Lenn_Teraan",
+  "/wiki/Cedonia_Teraan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

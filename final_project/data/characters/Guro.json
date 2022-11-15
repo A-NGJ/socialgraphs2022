@@ -1,5 +1,6 @@
 {
  "name": "Guro",
+ "display_name": "Guro",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Guro was a male Sullustan and first mate on the CR90 corvette Stellar Damsel.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullustan/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Alvor_Cano",
+ "display_name": "Alvor Cano",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Iotra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Iotran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Iotran Braceman Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alvor Cano was a member of the Iotran Braceman Council and once put together a casefile on the pirate Clabburn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Iotra",
+  "/wiki/Iotran/Legends",
+  "/wiki/Iotran_Braceman_Council",
+  "/wiki/Pirate/Legends",
+  "/wiki/Clabburn_the_Elder",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Alvor_Cano",
+  "/wiki/Wizards.com",
+  "/wiki/Rough_and_Tundra"
+ ]
+}

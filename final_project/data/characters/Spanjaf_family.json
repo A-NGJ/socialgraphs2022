@@ -1,0 +1,69 @@
+{
+ "name": "Spanjaf_family",
+ "display_name": "Spanjaf family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Corulag"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Lothal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Empire",
+      "Junior Academy of Applied Sciences",
+      "Vocational School for Institutional Security",
+      "Garel City cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Spanjaf family, also known as the Spanjafs were a human family from the planet Corulag who settled on the Outer Rim world of Lothal several years after the end of the Clone Wars. Known members included Gandr and Jessa, who worked as data-security contractors for several Imperial ministries, and their teenage daughter Merei Spanjaf. Following the Transportation Ministry data breach, the Spanjafs fled to Garel with the help of the Spectres where they established new identities.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Dawn_of_Rebellion",
+  "/wiki/Human",
+  "/wiki/Corulag",
+  "/wiki/Lothal",
+  "/wiki/Galactic_Empire",
+  "/wiki/Junior_Academy_of_Applied_Sciences",
+  "/wiki/Vocational_School_for_Institutional_Security",
+  "/wiki/Garel_City_cell",
+  "/wiki/Planet",
+  "/wiki/Outer_Rim_Territories",
+  "/wiki/Clone_Wars",
+  "/wiki/Gandr_Spanjaf",
+  "/wiki/Jessa_Spanjaf",
+  "/wiki/Merei_Spanjaf",
+  "/wiki/Transportation_Ministry",
+  "/wiki/Garel",
+  "/wiki/Spectres",
+  "/wiki/Servants_of_the_Empire:_Edge_of_the_Galaxy",
+  "/wiki/Servants_of_the_Empire:_Rebel_in_the_Ranks",
+  "/wiki/Servants_of_the_Empire:_Imperial_Justice",
+  "/wiki/Servants_of_the_Empire:_The_Secret_Academy"
+ ]
+}

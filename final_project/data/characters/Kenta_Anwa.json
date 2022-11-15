@@ -1,0 +1,35 @@
+{
+ "name": "Kenta_Anwa",
+ "display_name": "Kenta Anwa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Silika"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kenta Anwa was a male Silika, who wanted to beat Dannen Lifehold—the defeater of Kemmel Attapi—and challenged him to a contest, which Anwa lost.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Silika",
+  "/wiki/Gender/Legends",
+  "/wiki/Dannen_Lifehold",
+  "/wiki/Kemmel_Attapi",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Breaking_Free:_The_Adventures_of_Dannen_Lifehold",
+  "/wiki/Star_Wars_Adventure_Journal_1"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "name": "Yintal",
+ "display_name": "Yintal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "25 ABY",
+      "Wayland"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yintal was a short Human male. In 16 ABY he was working as a doctor on Coruscant and treated Plat Mallar. As of 25 ABY he was an analyst for Fleet Intelligence. He was killed in 25 ABY when the Yuuzhan Vong attacked New Nystao in an attempt to silence Elan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Wayland",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Plat_Mallar",
+  "/wiki/New_Republic_Fleet_Intelligence",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Raid_on_Wayland_(25_ABY)",
+  "/wiki/New_Nystao",
+  "/wiki/Elan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yintal",
+  "/wiki/Shield_of_Lies",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

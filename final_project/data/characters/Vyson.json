@@ -1,0 +1,67 @@
+{
+ "name": "Vyson",
+ "display_name": "Vyson",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "8 ABY",
+      "Kathol Rift"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "FarStar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crewman Vyson was a Human male who served as a security officer aboard the FarStar during the Galactic Civil War. He was killed when the ship was hit by a lightstorm in the Kathol Rift.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/8_ABY/Legends",
+  "/wiki/Kathol_Rift/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/FarStar",
+  "/wiki/Crewman",
+  "/wiki/Security_officer/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lightstorm",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vyson",
+  "/wiki/The_DarkStryder_Campaign_(series)",
+  "/wiki/The_Saga_Nears_Its_End",
+  "/wiki/Endgame"
+ ]
+}

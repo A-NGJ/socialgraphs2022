@@ -1,0 +1,43 @@
+{
+ "name": "Tabor_(Human)",
+ "display_name": "Tabor  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Palisade Starport Control"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tabor was a Human who worked at the Palisade Starport Control on the planet Kabal, during the height of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Palisade_Starport_Control",
+  "/wiki/Planet/Legends",
+  "/wiki/Kabal/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tabor_(Human)",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Fair_Prey",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

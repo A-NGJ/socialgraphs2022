@@ -1,5 +1,6 @@
 {
  "name": "Davil",
+ "display_name": "Davil",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Davil was a male Xot who, along with Bidvel, operated a scrap pile on a remote planetoid around 3 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Xot",

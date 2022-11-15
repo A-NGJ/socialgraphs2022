@@ -1,0 +1,65 @@
+{
+ "name": "Lucos_Dannt",
+ "display_name": "Lucos Dannt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal House of Learning",
+      "Naboo Underground"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lucos Dannt was originally a headmaster at the Naboo Royal House of Learning.\nHowever, with the Invasion of Naboo in 32 BBY, he became a leader of a resistance group referred to as the Naboo Underground. He was well-informed about the development of the situation and had many contacts, including members of the Royal Naboo Security Forces. This made him a good at designing missions for his agents, which included liberation of prisoners and theft of weapons among other things.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Lucos_Dannt",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_House_of_Learning",
+  "/wiki/Naboo_Underground",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lucos_Dannt",
+  "/wiki/Star_Wars:_Invasion_of_Theed_Adventure_Game",
+  "/wiki/Star_Wars:_The_Official_Starships_%26_Vehicles_Collection_62"
+ ]
+}

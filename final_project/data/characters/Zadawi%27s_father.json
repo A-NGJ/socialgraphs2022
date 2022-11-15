@@ -1,0 +1,60 @@
+{
+ "name": "Zadawi%27s_father",
+ "display_name": "Zadawi's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Arkania"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arkanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A man was an the father of Zadawi. He was an Arkanian Offshoot who was forced to live in a slum in Arkania by the purebreds, along with his mother and his daughter. He worried over his mother and did not like Zadawi antagonizing her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arkania/Legends",
+  "/wiki/Arkanian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Zadawi",
+  "/wiki/Arkanian_Offshoot/Legends",
+  "/wiki/Zadawi%27s_grandmother",
+  "/wiki/Knights_of_the_Old_Republic_16"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Koam",
+ "display_name": "Koam",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Koam was a male Mon Calamari Republic trooper and sergeant in the Republic Army who was stationed on the planet Ilum during the Galactic War with the Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mon_Calamari/Legends",

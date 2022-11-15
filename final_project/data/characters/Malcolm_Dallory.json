@@ -1,0 +1,37 @@
+{
+ "name": "Malcolm_Dallory",
+ "display_name": "Malcolm Dallory",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malcolm Dallory was the father of Shella Rinou and the captain of a fleet of smugglers. He employed the Herglic Kelric as a troubleshooter for his trading empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shella_Rinou",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Herglic/Legends",
+  "/wiki/Kelric_(Herglic)",
+  "/wiki/West_End_Games",
+  "/wiki/A_Brief_Visit_to_Rodia",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Membe",
+ "display_name": "Membe",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Membe was a violent Aqualish who took refuge for the night in Tosche Station on Tatooine during a particularly violent sandstorm.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Aqualish/Legends",

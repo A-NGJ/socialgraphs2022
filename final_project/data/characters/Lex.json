@@ -1,5 +1,6 @@
 {
  "name": "Lex",
+ "display_name": "Lex",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Lex was a Human male who operated a syntonium crystal mine on Cirus II in 68 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Lex_(clone_trooper)",

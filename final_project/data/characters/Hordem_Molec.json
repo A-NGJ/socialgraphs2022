@@ -1,0 +1,62 @@
+{
+ "name": "Hordem_Molec",
+ "display_name": "Hordem Molec",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "After 19 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygerrian Slave Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hordem Molec was a Zygerrian Prince who was the son of King Atai Molec and older brother of Prince Sono Molec. He died sometime after the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Zygerrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zygerrian_Slave_Empire/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Atai_Molec/Legends",
+  "/wiki/Sono_Molec/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hordem_Molec",
+  "/wiki/Friends_Like_These"
+ ]
+}

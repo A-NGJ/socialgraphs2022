@@ -1,5 +1,6 @@
 {
  "name": "Nattle",
+ "display_name": "Nattle",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Nattle was a Human male logistics officer of the reconstituted Sith Empire. During the Cold War with the Galactic Republic, he was stationed on the Vaiken Spacedock where he managed the sales of stimulants.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

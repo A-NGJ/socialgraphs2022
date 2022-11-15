@@ -1,0 +1,54 @@
+{
+ "name": "Una_Poot",
+ "display_name": "Una Poot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Una Poot led an Alliance to Restore the Republic cell on Silver Station. She had lost several lovers to the Galactic Empire, one of whom was Force-sensitive.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Silver_Station",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Una_Poot",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/To_Fight_Another_Day",
+  "/wiki/Star_Wars_Adventure_Journal_6",
+  "/wiki/Only_Droids_Serve_the_Maker",
+  "/wiki/Star_Wars_Adventure_Journal_10",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

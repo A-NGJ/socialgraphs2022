@@ -1,0 +1,65 @@
+{
+ "name": "Toma_patrol_leader",
+ "display_name": "Toma patrol leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Oznek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toma"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This patrol leader was a male Toma soldier.\nIn 22 BBY, this Toma soldier encountered CT-7719 and his squad of clone troopers as they trekked through the jungles of his homeworld.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Oznek",
+  "/wiki/Toma",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/The_Clone_Wars:_The_Enemy_Within",
+  "/wiki/Soldier/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/CT-7719",
+  "/wiki/CT-7719%27s_squad",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Jungle/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Toma_patrol_leader"
+ ]
+}

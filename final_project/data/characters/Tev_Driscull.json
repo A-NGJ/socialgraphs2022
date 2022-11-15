@@ -1,0 +1,50 @@
+{
+ "name": "Tev_Driscull",
+ "display_name": "Tev Driscull",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tev Driscull was a Corellian Human male. He was a commodities shipper and the original owner of the Nova Whisper. He soon lost it at Elshandruu Pica to a privateer named Dharus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tev_(disambiguation)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Nova_Whisper",
+  "/wiki/Elshandruu_Pica",
+  "/wiki/Dharus",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tev_Driscull",
+  "/wiki/Stock_Ships"
+ ]
+}

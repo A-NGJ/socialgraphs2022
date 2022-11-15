@@ -1,5 +1,6 @@
 {
- "name": "Dru'Mdar",
+ "name": "Dru%27Mdar",
+ "display_name": "Dru'Mdar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Madd Markos was a Human male pilot who lived during the time of the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

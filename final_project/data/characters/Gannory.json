@@ -1,5 +1,6 @@
 {
  "name": "Gannory",
+ "display_name": "Gannory",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Gannory was a male Cerean who owned Gannory's Cantina on Mrinzebon. Vryant, a former Imperial, ran a gang in the area that threatened to burn his cantina down if he did not help them set up travelers so they could be mugged.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Cerean",

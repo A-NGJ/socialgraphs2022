@@ -1,5 +1,6 @@
 {
  "name": "Brunar",
+ "display_name": "Brunar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Brunar was a Human female officer in the Imperial Reclamation Service who served the Sith Empire on the Sith capital planet of Dromund Kaas where she trained fellow Sith in the skill of archaeology. She held the rank of Reclamation Captain.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

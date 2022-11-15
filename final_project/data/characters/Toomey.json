@@ -1,0 +1,73 @@
+{
+ "name": "Toomey",
+ "display_name": "Toomey",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 20 BBY",
+      "Paklan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toomey was a male Human on the planet Paklan during the Clone Wars. Around 20 BBY, Toomey was present outside a diner with a band of bounty hunters to assist him in capturing Darth Maul and Savage Opress, who took refuge on the planet. After sending a Falleen negotiator to use his pheromones on them, Toomey was shocked after the Falleen was brutally killed by the Sith Lords. After paying Zika his payment, he led the bounty hunters inside the diner and ordered the Nightbrothers to surrender until they were all killed by Savage.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Paklan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Darth_Maul/Legends",
+  "/wiki/Savage_Opress/Legends",
+  "/wiki/Falleen/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Zika",
+  "/wiki/Nightbrothers/Legends",
+  "/wiki/Darth_Maul%E2%80%94Death_Sentence_1"
+ ]
+}

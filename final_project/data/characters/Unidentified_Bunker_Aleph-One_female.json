@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_Bunker_Aleph-One_female",
+ "display_name": "Unidentified Bunker Aleph-One female",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unknown female bunker officer was assigned to Revos Spaceport's Bunker Aleph-One on the planet Storinal. During Wraith Squadron's Mission to Storinal, Garik Loran and Atril Tabanne stormed the bunker and killed her colleague when he tried to draw his blaster. When she refused to divulge the code to recall the spaceport's TIE Fighters, Loran ordered Tabanne to shoot her. She then cooperated and revealed that the code was the name of her dead colleague's daughter, Sakira.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Revos_Spaceport",
+  "/wiki/Bunker_Aleph-One",
+  "/wiki/Storinal",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Mission_to_Storinal",
+  "/wiki/Garik_Loran",
+  "/wiki/Atril_Tabanne",
+  "/wiki/Control_Aleph-One",
+  "/wiki/Blaster/Legends",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Sakira",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Remmy",
+ "display_name": "Remmy",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Remmy was a Human male engineer who was employed in the Balmorran Arms Factory during the Sith Empire's occupation of Balmorra. Remmy had worked with the combat medic Doc before his capture, and was more than willing to help Doc and a Jedi Knight break into the factory.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

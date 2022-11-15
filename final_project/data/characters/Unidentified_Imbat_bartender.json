@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Imbat_bartender",
+ "display_name": "Unidentified Imbat bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Imbat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a male Imbat who worked as a bartender in the Splendor Tavern on the planet Coruscant. Sometime in 43 BBY, Jedi Master Qui-Gon Jinn and his Padawan Obi-Wan Kenobi went to the Splendor Tavern looking for Helb, a broker for the criminal group Tech Raiders. Qui-Gon spoke to the bartender, who then directed him where Helb could be found.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Imbat",
+  "/wiki/Gender/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Splendor_Tavern",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/43_BBY/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Helb",
+  "/wiki/Tech_Raiders",
+  "/wiki/Jedi_Apprentice:_The_Deadly_Hunter",
+  "/wiki/Jedi_Quest:_Path_to_Truth"
+ ]
+}

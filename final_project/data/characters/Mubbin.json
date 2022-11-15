@@ -1,5 +1,6 @@
 {
  "name": "Mubbin",
+ "display_name": "Mubbin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Mubbin was a male Whiphid who searched under Plett's Well for treasure.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Whiphid/Legends",

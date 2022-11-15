@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_Kath_shopkeeper",
+ "display_name": "Unidentified Kath shopkeeper",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kath"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Kath male shopkeeper owned a shop on the Five Points station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kath_(species)",
+  "/wiki/Gender",
+  "/wiki/Five_Points",
+  "/wiki/Space_station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Kath_shopkeeper",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

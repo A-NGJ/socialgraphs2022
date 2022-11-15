@@ -1,0 +1,79 @@
+{
+ "name": "Turrant",
+ "display_name": "Turrant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Turrant was a Human male captain who served in the Imperial Army some time before the Galactic Civil War.\nThe officer was stationed in a settlement on the Corellian moon of Gus Talon. During the attempted arrest of a local Rebel cell led by Rallo, Turrant called for reinforcements from his superiors. In response to this, the Galactic Empire completely bombarded the town.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Lucky_(comic)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Garrison/Legends",
+  "/wiki/Gus_Talon_settlement",
+  "/wiki/Corellia/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Gus_Talon/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Rallo",
+  "/wiki/Bombing_of_Gus_Talon",
+  "/wiki/City/Legends",
+  "/wiki/Star_Wars_Tales_23"
+ ]
+}

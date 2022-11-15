@@ -1,0 +1,65 @@
+{
+ "name": "Terow",
+ "display_name": "Terow",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi OrderGalactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Terow was a Nautolan male Jedi Master of the Jedi Order. During the Galactic War between the Galactic Republic and the reconstituted Sith Empire he was stationed on Ilum where he taught Republic aligned individuals the skill of investigation.\nTerow appears only in the game files for Star Wars: The Old Republic as his character was cut from the game. Terow's file can be found on Jedipedia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Ilum/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/October_5",
+  "/wiki/2020"
+ ]
+}

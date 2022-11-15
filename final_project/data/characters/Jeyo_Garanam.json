@@ -1,0 +1,65 @@
+{
+ "name": "Jeyo_Garanam",
+ "display_name": "Jeyo Garanam",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance",
+      "Resistance Starfighter Corps",
+      "Resistance Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jeyo Garanam was a human male pilot in the Resistance, and a new recruit at the Resistance's base on Ajan Kloss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Resistance_Starfighter_Corps",
+  "/wiki/Resistance_pilot",
+  "/wiki/Resistance_base_(Ajan_Kloss)",
+  "/wiki/Ajan_Kloss",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jeyo_Garanam",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary"
+ ]
+}

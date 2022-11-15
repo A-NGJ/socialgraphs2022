@@ -1,0 +1,59 @@
+{
+ "name": "King_Kilassin",
+ "display_name": "King Kilassin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kilassin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "40 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The King Kilassin was a gigantic kilassin, a species of large, non-sentient reptile, that resided in the jungles of the planet Cularin. In about 19 BBY, a group of freelance agents confronted the criminal Len Markus next to the Heart Tree on Cularin, and Markus used a powerful Sith artifact to summon twelve kilassin to attack the agents. However, shortly afterward, the Heart Tree summoned the King Kilassin to attack Markus' kilassin, to counter the imbalance that had been created when Markus had summoned the creatures.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Kilassin",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Species/Legends",
+  "/wiki/Sentience/Legends",
+  "/wiki/Reptile/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Len_Markus",
+  "/wiki/Heart_Tree",
+  "/wiki/Darkstaff",
+  "/wiki/The_Eye_(roleplaying_adventure)"
+ ]
+}

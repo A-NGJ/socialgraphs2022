@@ -1,0 +1,62 @@
+{
+ "name": "Zoriis_Bafka",
+ "display_name": "Zoriis Bafka",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zoriis Bafka was a female Twi'lek with green skin, who was one of the professional swoop racers Revan met in Anchorhead in 3956 BBY. She considered swoop racing a business, and swoop racers like herself the \"product.\" She used to race under a different name when she was younger, but her career was not spectacular at that time. Revan was successful in beating Bafka's time in a swoop race.\nIf the player takes the Dark path through the game, they can insult or threaten Zoriis. Insults will result in her leaving, and threats can result in her giving you credits.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

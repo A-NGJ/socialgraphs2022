@@ -1,0 +1,60 @@
+{
+ "name": "Wolv",
+ "display_name": "Wolv",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wukkar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Iltarr City police",
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wolv was a police officer of the Iltarr City police on the planet Wukkar. He was corrupt and conducted certain activities for Black Sun.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wukkar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Iltarr_City_police",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Scoundrels",
+  "/wiki/Scoundrels_(audiobook)"
+ ]
+}

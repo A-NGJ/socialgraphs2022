@@ -1,0 +1,54 @@
+{
+ "name": "Renea_Luies",
+ "display_name": "Renea Luies",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shesharile 5"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Renea Luies was a customs official working at the spaceport in Gallisport on Shesharile 5. Luies was known to be accommodating to smugglers, and counted Shamus Falconi among his associates.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Shesharile_5",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Customs_official/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Gallisport",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Shamus_Falconi",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Lumrunners",
+  "/wiki/Star_Wars_Adventure_Journal_9",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

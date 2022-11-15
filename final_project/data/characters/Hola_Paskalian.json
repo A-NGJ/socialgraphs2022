@@ -1,0 +1,52 @@
+{
+ "name": "Hola_Paskalian",
+ "display_name": "Hola Paskalian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Pakkerd Light Transport",
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hola Paskalian was a female Human and the head of security for Pakkerd Light Transport on the planet Ession. She was a supporter of Warlord Zsinj and was recommended by Zsinj to succeed Vanter Raffin as the chief officer when he retired.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pakkerd_Light_Transport",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Planet/Legends",
+  "/wiki/Ession",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Vanter_Raffin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hola_Paskalian",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

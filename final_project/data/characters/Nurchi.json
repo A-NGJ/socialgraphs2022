@@ -1,5 +1,6 @@
 {
  "name": "Nurchi",
+ "display_name": "Nurchi",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Nurchi was a human junk dealer that lived on the planet Ferrix during the reign of the Galactic Empire. In 5 BBY, hoping to collect the money that Cassian Andor owed him, he enlisted the help of Vetch to intimidate Andor. However, his attempt was unsuccessful.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

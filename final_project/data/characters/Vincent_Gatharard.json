@@ -1,0 +1,67 @@
+{
+ "name": "Vincent_Gatharard",
+ "display_name": "Vincent Gatharard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vincent Gatharard was a male Human Imperial lieutenant, serving in the Imperial Navy. He was born on Coruscant and raised in a military academy. He enjoyed the power that his status as an Imperial officer gave him over his subordinates, and his ambition was to return to the academy where he grew up to become an instructor.\nA man of many talents, he was skilled at operation of repulsorlift vehicles, capital ship piloting, and gunnery, and was also a good leader with a keen investigative mind, and in addition he had insights into the procedures of Imperial bureaucracy.\nHe was dispatched to the mercenary's convention in Echnos City to delegate jobs and contracts. Here he realized that some of the individuals that the Empire had bounties on were actually present at the meeting, which resulted in a dramatic chase through the city.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Repulsorlift/Legends",
+  "/wiki/Capital_ship/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Gunner/Legends",
+  "/wiki/Echnos_City",
+  "/wiki/Bounty/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Enemies_for_Life",
+  "/wiki/Star_Wars_Adventure_Journal_4"
+ ]
+}

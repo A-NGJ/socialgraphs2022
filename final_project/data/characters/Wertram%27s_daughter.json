@@ -1,0 +1,52 @@
+{
+ "name": "Wertram%27s_daughter",
+ "display_name": "Wertram's daughter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keshiri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Keshiri was the daughter of Kesh resident Wertram and his wife. Her father, the tailor of Tahv, sent her to learn from geologist Adari Vaal.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Wertram%27s_daughter",
+  "/wiki/Kesh",
+  "/wiki/Keshiri",
+  "/wiki/Gender/Legends",
+  "/wiki/Wertram",
+  "/wiki/Wertram%27s_wife",
+  "/wiki/Tahv",
+  "/wiki/Geologist/Legends",
+  "/wiki/Adari_Vaal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wertram%27s_daughter",
+  "/wiki/Lost_Tribe_of_the_Sith:_Skyborn"
+ ]
+}

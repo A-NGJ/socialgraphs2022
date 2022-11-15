@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Xendekian",
+ "display_name": "Unidentified Xendekian",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Xendek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Xendekian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Xendekian was the planetary leader of the Xendekian people.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Xendek",
+  "/wiki/Xendekian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Xendekian",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Endangered,_Part_2",
+  "/wiki/Star_Wars_Adventures_(2017)_8"
+ ]
+}

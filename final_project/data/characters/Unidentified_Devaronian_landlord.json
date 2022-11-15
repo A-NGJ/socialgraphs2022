@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Devaronian_landlord",
+ "display_name": "Unidentified Devaronian landlord",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Devarorian rented an apartment to Sienn Sconn on Venaari.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sienn_Sconn",
+  "/wiki/Venaari",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/One_of_a_Kind_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Koop",
+ "display_name": "Koop",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Koop was a criminal who worked for the Sneevel Skraik.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Special:Upload",

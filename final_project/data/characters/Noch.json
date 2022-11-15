@@ -1,5 +1,6 @@
 {
  "name": "Noch",
+ "display_name": "Noch",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Noch was a Rodian male who supported the Galactic Republic during the Cold War against the resurgent Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

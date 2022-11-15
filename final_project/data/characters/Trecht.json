@@ -1,0 +1,52 @@
+{
+ "name": "Trecht",
+ "display_name": "Trecht",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trecht was a male Human Imperial surveillance officer who was stationed on Balmorra. He was monitoring a Republic operation at a location called Cave 52, on the orders of his superior, Major Tyrus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Gorinth_Brig",
+  "/wiki/Major/Legends",
+  "/wiki/Tyrus",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trecht",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

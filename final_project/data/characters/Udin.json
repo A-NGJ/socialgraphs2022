@@ -1,0 +1,69 @@
+{
+ "name": "Udin",
+ "display_name": "Udin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty hunter",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Udin was a Kubaz bounty hunter who was hired by Eugene Talmont to track down Han Solo after the Battle of Yavin. He took the commission aspiring to get a better position off of the planet Tatooine if he succeeded in capturing the bounty.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Eugene_Talmont",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Udin",
+  "/wiki/Star_Wars_Missions_5:_The_Hunt_for_Han_Solo",
+  "/wiki/Star_Wars_Missions_6:_The_Search_for_Grubba_the_Hutt",
+  "/wiki/Star_Wars_Missions_7:_Ithorian_Invasion",
+  "/wiki/Star_Wars_Missions_8:_Togorian_Trap",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

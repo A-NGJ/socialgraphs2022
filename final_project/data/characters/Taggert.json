@@ -1,0 +1,53 @@
+{
+ "name": "Taggert",
+ "display_name": "Taggert",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Taggert was a male Human Imperial Navy officer assigned to the Inquisitor. He was responsible for searching the freighter Seldom Different when it tried to reach the Nodgra system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Inquisitor_(Star_Destroyer)",
+  "/wiki/Freighter/Legends",
+  "/wiki/Seldom_Different",
+  "/wiki/Nodgra_system",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taggert",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Out_of_the_Cradle",
+  "/wiki/Star_Wars_Adventure_Journal_2"
+ ]
+}

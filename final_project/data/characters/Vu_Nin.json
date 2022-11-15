@@ -1,0 +1,70 @@
+{
+ "name": "Vu_Nin",
+ "display_name": "Vu Nin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance Military",
+      "Alliance Special Forces",
+      "Taskforce Shen",
+      "Alliance Special Forces",
+      "Taskforce Shen",
+      "Taskforce Shen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vu Nin was a Rebel trooper native to Alderaan, but she was off the planet when it was destroyed by the first Death Star. When she heard about the destruction of her homeworld, she applied for a position in the Special Forces team. She completed her training as an Infiltrator and requested a transfer to the Alderaanian Death Legion. Instead, she was assigned to Taskforce Shen. She was eventually promoted to First Lieutenant, acting as Mart Stevez's second in command.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vu_Chusker",
+  "/wiki/Cabrool_Nuum",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_Military/Legends",
+  "/wiki/Alliance_Special_Forces/Legends",
+  "/wiki/Taskforce_Shen",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Alderaanian_Death_Legion",
+  "/wiki/Mart_Stevez",
+  "/wiki/Rules_of_Engagement:_The_Rebel_SpecForce_Handbook",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_24"
+ ]
+}

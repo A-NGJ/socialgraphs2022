@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Quarren_Rebel_pilot",
+ "display_name": "Unidentified Quarren Rebel pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Quarren Rebel pilot was a starfighter pilot in the Rebel Alliance. The Quarren participated in a number of historical training simulations around the same time as Keyan Farlander.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Quarren/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Timeline_of_galactic_history/Legends",
+  "/wiki/Holosimulator",
+  "/wiki/Keyan_Farlander/Legends",
+  "/wiki/Star_Wars:_X-Wing",
+  "/wiki/Star_Wars:_X-Wing_Tour_of_Duty:_B-Wing"
+ ]
+}

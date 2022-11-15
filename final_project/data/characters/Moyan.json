@@ -1,5 +1,6 @@
 {
  "name": "Moyan",
+ "display_name": "Moyan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Colonel Moyan was a black-furred Bothan tactical officer on board Dodonna as of 40 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bothan/Legends",

@@ -1,0 +1,48 @@
+{
+ "name": "Trusty_Trikker",
+ "display_name": "Trusty Trikker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trusty Trikker's Guns \u0026 Ammo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trusty Trikker was a male Quarren living in Bartyn's Landing as of 29 BBY. Initially an outlaw, he lost one eye in a firefight decades before 29 BBY. He then decided to stop being a criminal and start a safer line of work selling and maintaining weapons. He owned and operated the business Trusty Trikker's Guns \u0026 Ammo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Trusty_Trikker%27s_Guns_%26_Ammo",
+  "/wiki/Bartyn%27s_Landing",
+  "/wiki/29_BBY/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Bartyn%27s_Landing_(article)",
+  "/wiki/Star_Wars_Gamer_7"
+ ]
+}

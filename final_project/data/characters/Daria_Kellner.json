@@ -1,0 +1,37 @@
+{
+ "name": "Daria_Kellner",
+ "display_name": "Daria Kellner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Daria Kellner was a tall, thin Human woman. She was an associate of Thadius Black on Demophon during the Galactic Civil War, where she helped smuggle political prisoners away from the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thadius_Black",
+  "/wiki/Demophon",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Infiltration_(RPG_adventure)",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

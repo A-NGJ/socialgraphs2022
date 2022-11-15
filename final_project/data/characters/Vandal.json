@@ -1,0 +1,62 @@
+{
+ "name": "Vandal",
+ "display_name": "Vandal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Vandal was a Human male soldier who served the Galactic Republic during the Cold War.\nDuring the Ord Mantell Civil War, Vandal was able to coordinate an attack on the Separatist Stronghold housed within Mount Avilatan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vandal",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Separatist_War",
+  "/wiki/Mount_Avilatan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

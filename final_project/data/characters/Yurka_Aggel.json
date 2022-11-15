@@ -1,0 +1,65 @@
+{
+ "name": "Yurka_Aggel",
+ "display_name": "Yurka Aggel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nizon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nazren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nizon resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yurka Aggel was an elderly female Nazren, who lived during the early years of the Galactic Empire and worked as a healer.\nAggel lived on Nizon, where she was a healer and considered a \"wise woman\" by the other Nazren. When the Empire came to Nizon, she witnessed her people becoming slaves, so she was pleased when they rose up against the Empire. During the battle, she gave a group of Alderaanian Resistance agents shelter in her house, after they were cornered by the advancing Imperial forces. However, some LM-432 crab droids that were working for Vril Vrakth, a Zabrak bounty hunter, burrowed into her house to attack the agents.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nizon",
+  "/wiki/Nazren",
+  "/wiki/Gender/Legends",
+  "/wiki/Nizon_resistance",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Battle_of_Nizon",
+  "/wiki/Alderaanian_Resistance",
+  "/wiki/LM-432_crab_droid/Legends",
+  "/wiki/Vril_Vrakth",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_First_to_Strike"
+ ]
+}

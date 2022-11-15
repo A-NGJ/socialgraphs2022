@@ -1,0 +1,71 @@
+{
+ "name": "Odis_P._Valyn",
+ "display_name": "Odis P. Valyn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cell Block Command"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Odis P. Valyn was a Human male major of the Galactic Republic stationed on Belsavis during the Galactic War. At the time of the invasion of Belsavis around 3641 BBY he was part of Cell Block Command in the Maximum Security Section, where he asked a Republic citizen to strike a blow against the Esh-kha forces in the area.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cell_Block_Command",
+  "/wiki/Major/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/3641_BBY",
+  "/wiki/Maximum_Security_Section",
+  "/wiki/Esh-kha",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

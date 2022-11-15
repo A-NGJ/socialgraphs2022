@@ -1,5 +1,6 @@
 {
- "name": "Mont'Kar'oh",
+ "name": "Mont%27Kar%27oh",
+ "display_name": "Mont'Kar'oh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Mont'Kar'oh was a Duinuogwuin scientist who resided on the Hapan world Charubah. Considered to be a great scientist, Mont'Kar'oh's works were stored in the galleries and vaults of Star Home.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Duinuogwuin/Legends",

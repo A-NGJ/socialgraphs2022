@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Rodian_partner",
+ "display_name": "Unidentified Rodian partner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A nasty-looking Rodian criminal worked in partnership with a crime syndicate courier, often visiting the Bothawui capital city of Drev'starn during the Galactic Civil War. In 3.5 ABY, the Rodian ran afoul of another criminal gang, which aimed to steal the contents of a briefcase in the possession of the courier, and was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Rodian",
+  "/wiki/Rodian/Legends",
+  "/wiki/Unidentified_crime_syndicate_courier",
+  "/wiki/Bothawui/Legends",
+  "/wiki/Capital/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Drev%27starn",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rodian_partner",
+  "/wiki/West_End_Games",
+  "/wiki/A_Case_of_Mistaken_Identities",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

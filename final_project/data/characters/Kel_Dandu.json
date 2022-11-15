@@ -1,0 +1,36 @@
+{
+ "name": "Kel_Dandu",
+ "display_name": "Kel Dandu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kel Dandu was a male Human holovid director who planned to make a documentary on Twi'lek slave girls. As a child, Dandu was a slave himself.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Holovid/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kel_Dandu",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Yeel_Dresk",
+ "display_name": "Yeel Dresk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yeel Dresk was a male descendant of Aloen Dresk who eventually inherited Aloen's fragment of the Nardithi Cluster and hired Quek Rai to add it to the statue Tragic Hope.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Aloen_Dresk",
+  "/wiki/Nardithi_Cluster",
+  "/wiki/Quek_Rai",
+  "/wiki/Tragic_Hope",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yeel_Dresk",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

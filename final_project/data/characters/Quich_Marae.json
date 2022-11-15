@@ -1,0 +1,41 @@
+{
+ "name": "Quich_Marae",
+ "display_name": "Quich Marae",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ishi Tib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Quich Marae was a male Ishi Tib junk dealer. During the Galactic Civil War, he bought and sold goods at a pirate outpost on Dantooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ishi_Tib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Junk_dealer/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Agro_Outpost",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

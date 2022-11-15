@@ -1,0 +1,81 @@
+{
+ "name": "Hirken_family",
+ "display_name": "Hirken family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Duke of Opatajji"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Alsakan"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Alsakan",
+      "Mytus VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Alsakan",
+      "Corporate Sector Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Hirken family was among the oldest families on the Core World of Alsakan. There were members of the family aboard the Kuat Explorer, the colony ship that first brought settlers to the planet. Famous members included Arlo Hirken, partner of the legendary fourth-millennium merchant Rin Assid; Admiral Hirken, whose spirited defense of Alakani colonies in the Northern Dependencies ultimately led to the conclusion of the Fifth Alsakan Conflict; and Mirkovig Hirken, Corporate Sector Authority viceprex and administrator of the Authority's secret Stars' End prison facility on Mytus VII.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/Opatajji",
+  "/wiki/Alsakan/Legends",
+  "/wiki/Mytus_VII",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Kuat_Explorer",
+  "/wiki/Arlo_Hirken",
+  "/wiki/Rin_Assid",
+  "/wiki/Admiral/Legends",
+  "/wiki/Hirken",
+  "/wiki/Northern_Dependencies/Legends",
+  "/wiki/Fifth_Alsakan_Conflict",
+  "/wiki/Mirkovig_Hirken",
+  "/wiki/Viceprex/Legends",
+  "/wiki/Stars%27_End/Legends",
+  "/wiki/Han_Solo_at_Stars%27_End",
+  "/wiki/Han_Solo_at_Stars%27_End_(comic_strip)",
+  "/wiki/Rebel_Dawn",
+  "/wiki/Han_Solo_and_the_Corporate_Sector_Sourcebook",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Second_Edition,_Revised_and_Expanded",
+  "/wiki/The_Essential_Guide_to_Droids",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/Heroes_%26_Rogues",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Atlas",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

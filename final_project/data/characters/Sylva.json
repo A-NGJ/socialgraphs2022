@@ -1,0 +1,66 @@
+{
+ "name": "Sylva",
+ "display_name": "Sylva",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telerath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sylva was a Human female who lived on Telerath in the city of Noua. In 19 BBY, she was employed at Ember's Fire, a club owned by Ember Chankeli. On one day, Sylva was harassed by a patron sitting down to eat and drink. Sylva called for the help of Tam, another worker, who pressed a button sending the angered patron through the floor and into a body of water beneath the establishment.\nTheir boss, Chankeli, later reprimanded the two women for dropping a \"paying customer,\" and was about to threaten them by withholding credits, when she was interrupted by the arrival of Dass Jennir.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telerath/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Noua",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Ember%27s_Fire",
+  "/wiki/Ember_Chankeli",
+  "/wiki/Standard_day/Legends",
+  "/wiki/Tam_(female)",
+  "/wiki/Water/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Dass_Jennir",
+  "/wiki/Dark_Times_14"
+ ]
+}

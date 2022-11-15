@@ -1,0 +1,60 @@
+{
+ "name": "Viurre",
+ "display_name": "Viurre",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "University of Rudrig"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viurre was a Human female university student taking courses in nonhuman ethnology at the University of Rudrig. In 2 BBY, Viurre and her friend Kiili encountered a Wookiee named Chewbacca while walking their campus—fascinated by the massive alien, the two students accompanied Chewbacca and his friend Han Solo, who found the pair quite attractive, for a time.\nViurre appeared in Han Solo and the Lost Legacy, a novel written by Brian Daley and released in 1980.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/University_of_Rudrig/Legends",
+  "/wiki/Gender",
+  "/wiki/University/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Kiili",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Han_Solo_and_the_Lost_Legacy",
+  "/wiki/Brian_Daley",
+  "/wiki/1980"
+ ]
+}

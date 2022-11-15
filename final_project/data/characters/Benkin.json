@@ -1,5 +1,6 @@
 {
  "name": "Benkin",
+ "display_name": "Benkin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Doctor Benkin was the Chief Scientist of the Technical Branch Outpost on the planet Lotide. By the time of the Galactic Civil War, Benkin was old and bordering on senility. He met a group of Alliance to Restore the Republic agents who were posing as scientists to infiltrate the Technical Branch Outpost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

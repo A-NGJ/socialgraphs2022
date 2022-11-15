@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Jawa_captive",
+ "display_name": "Unidentified Jawa captive",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Golden Storm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3626 BBY, a Jawa captive was one of several held as slaves by the swoop gang Golden Storm in their hideout on Tatooine. Following his release by an individual associated with the Blatant Beks, the Jawa thanked them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Golden_Storm",
+  "/wiki/3626_BBY",
+  "/wiki/Slavery/Legends",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Golden_Storm%27s_hideout",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Blatant_Beks",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

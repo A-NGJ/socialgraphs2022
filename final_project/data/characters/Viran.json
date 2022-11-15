@@ -1,0 +1,51 @@
+{
+ "name": "Viran",
+ "display_name": "Viran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Muun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viran was a Muun male banker who lived during the years prior to the rise of the Galactic Empire. He was the banker of Ja'Boag.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Muun/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Banker/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Declaration_of_a_New_Order",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Ja%27Boag",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Viran",
+  "/wiki/Darth_Maul%E2%80%94Death_Sentence_4"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "name": "Bizal_Mavole",
+ "display_name": "Bizal Mavole",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty Supply Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bizal Mavole was a male Arcona of the Bounty Supply Company stationed on the Vaiken Spacedock living during the Cold War and Galactic War.\nBizal Mavole appears in BioWare's 2011 massively multiplayer online role-playing video game Star Wars: The Old Republic as the Bounty Supply reputation vendor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arcona/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bounty_Supply_Company",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Cartel_Market"
+ ]
+}

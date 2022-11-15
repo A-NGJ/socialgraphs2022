@@ -1,5 +1,6 @@
 {
- "name": "Kar'sylic",
+ "name": "Kar%27sylic",
+ "display_name": "Kar'sylic",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Kar'sylic was a Kintan strider kept by the Nikto smuggler Tu'rsc'yulir.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kintan/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Vojak",
+ "display_name": "Vojak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "5.5 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vojak's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vojak was a Humanoid male, whose brother was assassinated by the assassin droid, C-3PX, on Bonadan. After chasing C-3PX down on Hosk Station in an attempt to repay the droid for what he had done, Vojak was dispatched with a shot from the rear of C-3PX's head, effectively disintegrating the avenger.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/6_BBY/Legends",
+  "/wiki/Vojak%27s_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Assassin_droid/Legends",
+  "/wiki/C-3PX",
+  "/wiki/Bonadan/Legends",
+  "/wiki/Hosk_Station/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vojak",
+  "/wiki/Droids_(1994)_3",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

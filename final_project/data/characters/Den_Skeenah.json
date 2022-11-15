@@ -1,0 +1,73 @@
+{
+ "name": "Den_Skeenah",
+ "display_name": "Den Skeenah",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chandrila"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Den Skeenah was Human male who served as a senator from Chandrila during the Clone Wars.\nDuring the war, Den greatly disliked the fact that the clones had no rights, legal status, freedoms, or representation and believed all who accepted the Grand Army of the Republic without question should have felt shame. He was a man who believed the ends never justified the means and set up a charitable appeal to fund the only veterans' welfare facility for the clone soldiers in the Republic. During the war, he was a known anti-war activist and met with Besany Wennen. In 19 BBY, Skeenah was replaced by Mon Mothma after his death during the formation of the New Order under the rule of Emperor Palpatine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Besany_Wennen",
+  "/wiki/Mon_Mothma/Legends",
+  "/wiki/Declaration_of_a_New_Order",
+  "/wiki/Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Republic_Commando:_True_Colors",
+  "/wiki/Order_66:_A_Republic_Commando_Novel"
+ ]
+}

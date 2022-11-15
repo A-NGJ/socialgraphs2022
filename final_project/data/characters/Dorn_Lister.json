@@ -1,0 +1,53 @@
+{
+ "name": "Dorn_Lister",
+ "display_name": "Dorn Lister",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dorn Lister was a Human male who lived on the planet Rhamalai during the Galactic Civil War. When the Galactic Empire arrived on Rhamalai, they rounded up and forcibly conscripted young men into the Imperial Army, including Lister, his neighbor Denel Moonrunner, and his friend Amos Granley.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhamalai",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Denel_Moonrunner",
+  "/wiki/Amos_Granley",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

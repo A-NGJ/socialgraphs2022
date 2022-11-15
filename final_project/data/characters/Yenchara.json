@@ -1,0 +1,40 @@
+{
+ "name": "Yenchara",
+ "display_name": "Yenchara",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Boonta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yenchara was a Hutt who lived on the planet Boonta. In honor of a three-day holiday known as Boonta Eve, this Hutt created the Boonta Speeder Race in order to generate more profit on Boonta Eve.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Boonta/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_day/Legends",
+  "/wiki/Boonta_Eve",
+  "/wiki/Boonta_Speeder_Race",
+  "/wiki/StarWars.com"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Tym",
+ "display_name": "Tym",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ylesia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tym was a young Human male who was the son of Ylesian pilgrims. He was rescued by Han Solo and Chewbacca after the Rebel raid on Ylesia. He and three other children helped Han load and tie spice that had to be jettisoned in order to evade arrest. He was dropped off at a Corellian spaceport after Imperials escorted the Millennium Falcon to Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ylesia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Rebel_Dawn"
+ ]
+}

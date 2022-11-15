@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_actor",
+ "display_name": "Unidentified actor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male actor played the Sith Lord Darth Krist-Ov in a play with actress Risha Synata, who portrayed a Jedi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Humanoid",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Sith_Lord",
+  "/wiki/Darth_Krist-Ov",
+  "/wiki/Actor",
+  "/wiki/Risha_Synata",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_actor",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Intermission,_Part_I",
+  "/wiki/Star_Wars_Adventures_(2017)_12"
+ ]
+}

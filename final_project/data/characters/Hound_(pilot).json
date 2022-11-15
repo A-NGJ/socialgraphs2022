@@ -1,0 +1,71 @@
+{
+ "name": "Hound_(pilot)",
+ "display_name": "Hound  (pilot)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Republic Navy",
+      "Galactic Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Hound\" was the nickname of a clone trooper pilot who flew an LAAT/i gunship during the Clone Wars between the Galactic Republic and the Separatist Alliance. Hound participated in the Battle of Mon Cala, where he piloted a gunship over the ocean and dropped clone SCUBA troopers from the company led by Clone Commander \"Monnk.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Clone_trooper_pilot",
+  "/wiki/Hound",
+  "/wiki/Coruscant_Guard",
+  "/wiki/Clone_Sergeant",
+  "/wiki/Human",
+  "/wiki/Cloning",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_Republic_Navy",
+  "/wiki/Low_Altitude_Assault_Transport/infantry",
+  "/wiki/Clone_Wars",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Battle_of_Mon_Cala",
+  "/wiki/Pilot",
+  "/wiki/Gunship",
+  "/wiki/Ocean",
+  "/wiki/Clone_SCUBA_trooper",
+  "/wiki/Monnk%27s_company",
+  "/wiki/Clone_Commander",
+  "/wiki/Monnk",
+  "/wiki/Star_Wars:_X-Wing_Second_Edition",
+  "/wiki/LAAT/i_Gunship_Expansion_Pack",
+  "/wiki/Databank_(website)"
+ ]
+}

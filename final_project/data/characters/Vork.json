@@ -1,0 +1,62 @@
+{
+ "name": "Vork",
+ "display_name": "Vork",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gorph"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorphs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vork was the Prince of the Gorph's tribe on Endor, and son of Queen Slugga. He, at one time, intended to marry the Ewok Latara, believing her to be a princess.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Gorph/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Slugga",
+  "/wiki/Ewok/Legends",
+  "/wiki/Latara",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vork",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/Princess_Latara"
+ ]
+}

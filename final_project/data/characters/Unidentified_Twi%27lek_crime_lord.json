@@ -1,0 +1,33 @@
+{
+ "name": "Unidentified_Twi%27lek_crime_lord",
+ "display_name": "Unidentified Twi'lek crime lord",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified Twi'lek was a crime lord who lived sometime during the Galactic Civil War. The Twi'lek once visited the Imperial Correctional Facility on the planet Kessel. There he met with Dewt Kluskine, the Imperial warden of the prison facility, who was secretly running a major glitterstim smuggling operation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kessel_prison",
+  "/wiki/Planet/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/Dewt_Kluskine",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Glitterstim/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Kessel:_Hell_in_Space"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Astarte_line",
+ "display_name": "Astarte line",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Celanon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Astarte line was a family of humans from Celanon which included the twins Aiolin and Morit. They were loyal to the Galactic Empire and funded much of Cylo's research.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Celanon",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Galactic_Empire",
+  "/wiki/Twin",
+  "/wiki/Aiolin_Astarte",
+  "/wiki/Morit_Astarte",
+  "/wiki/Cylo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Darth_Vader_(2015)_5",
+  "/wiki/Darth_Vader_(2015)_6",
+  "/wiki/Darth_Vader_(2015)_8",
+  "/wiki/Darth_Vader_(2015)_9",
+  "/wiki/Darth_Vader_(2015)_12",
+  "/wiki/Darth_Vader_(2015)_16",
+  "/wiki/Darth_Vader_(2015)_17",
+  "/wiki/Darth_Vader_(2015)_18",
+  "/wiki/Darth_Vader_(2015)_19",
+  "/wiki/Darth_Vader_(2015)_20",
+  "/wiki/Darth_Vader_(2015)_21",
+  "/wiki/Darth_Vader_(2015)_22",
+  "/wiki/Darth_Vader_(2015)_23"
+ ]
+}

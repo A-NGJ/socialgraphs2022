@@ -1,0 +1,62 @@
+{
+ "name": "Uved_Pledesin",
+ "display_name": "Uved Pledesin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lorrd"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lorrdian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free AlliancesCourt of Justice",
+      "Court of Justice"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uved Pledesin was a male Lorrdian from the planet of Lorrd. He was the Chief Justice of the Galactic Alliance Court of Justice as of 43.5 ABY. Pledesin decided in The Galactic Federation of Free Alliances versus Tahiri Veila that the possession of a specific skill or knowledge was not enough to limit an individual's rights.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lorrd/Legends",
+  "/wiki/Lorrdian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Court_of_Justice",
+  "/wiki/Planet/Legends",
+  "/wiki/Chief_Justice",
+  "/wiki/43_ABY",
+  "/wiki/The_Galactic_Federation_of_Free_Alliances_versus_Tahiri_Veila",
+  "/wiki/Fate_of_the_Jedi:_Outcast",
+  "/wiki/Fate_of_the_Jedi:_Outcast_(audiobook)"
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "name": "Unidentified_Twi%27lek_messenger",
+ "display_name": "Unidentified Twi'lek messenger",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canderous Ordo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified, green-skinned Twi'lek male was hired as a messenger for the Mandalorian mercenary Canderous Ordo during the latter's employment as Davik Kang's enforcer on Taris during the Jedi Civil War.\nIn 3956 BBY, this individual attended that year's Tarisian Season Opener, and witnessed Revan post the best time. Shortly after the culmination of the race, the messenger approached Revan and his companions in the South Apartments of the Upper City, with a message from Canderous. Identifying him as the winner of the swoop race, the Twi'lek implored Revan to meet his employer in the Upper City Cantina. He warned Revan not to delay, having an awareness of the lack of patience common to many Mandalorians.\nAfter delivering his message, the Twi'lek departed. He may have perished in the bombing of Taris carried out under the orders of Darth Malak.\nThis individual was a straightforward being who deferred to his employer, considering himself little more than \"a runner.\" He recognized Revan on sight as the winner of the Tarisian Season Opener, and was aware both of Ordo's connections to the Exchange and of the impatience of many Mandalorians, including his employer.\nThis individual is referred to only as \"Twi'lek\" in Star Wars: Knights of the Old Republic, and makes a single appearance outside the player's hideout following the rescue of Bastila Shan, leading to the \"Slicing Through Sith Security\" quest. He shares the same character model and clothing as other green Twi'leks in the game, including Bib Surool, Larrim and Karal Kaar.\nHis NPC file name is \"tar02_rodianmsg\" which suggests that he was originally intended to be a Rodian instead of a Twi'lek. His sound Set in the same file is also set to \"Rodian\" though it is unheard in-game as he is never turned hostile.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Taris/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Canderous_Ordo",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Davik_Kang",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/3956_BBY",
+  "/wiki/Tarisian_Season_Opener",
+  "/wiki/Revan/Legends",
+  "/wiki/South_Apartments",
+  "/wiki/Upper_City",
+  "/wiki/Swoop/Legends",
+  "/wiki/Upper_City_Cantina",
+  "/wiki/Destruction_of_Taris",
+  "/wiki/Darth_Malak",
+  "/wiki/Exchange",
+  "/wiki/Rescue_of_Bastila_Shan",
+  "/wiki/Bib_Surool",
+  "/wiki/Larrim",
+  "/wiki/Karal_Kaar"
+ ]
+}

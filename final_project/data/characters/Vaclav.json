@@ -1,0 +1,55 @@
+{
+ "name": "Vaclav",
+ "display_name": "Vaclav",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hassarian"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Lilac"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vaclav's crew"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaclav was a Hassarian prisoner of Jabba the Hutt during the Imperial Era.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Star_Wars:_Tales_from_the_Rancor_Pit",
+  "/wiki/Hassarian",
+  "/wiki/Color",
+  "/wiki/Prisoner",
+  "/wiki/Jabba_Desilijic_Tiure",
+  "/wiki/Imperial_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vaclav",
+  "/wiki/StarWars.com"
+ ]
+}

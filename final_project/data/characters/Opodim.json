@@ -1,5 +1,6 @@
 {
  "name": "Opodim",
+ "display_name": "Opodim",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Minister Opodim was a Human male from the planet Danoor. He was one of the four government ministers who ruled the planet and, like his compatriots, was responsible for the well-being of five hundred thousand citizens.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Danoor",

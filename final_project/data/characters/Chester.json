@@ -1,5 +1,6 @@
 {
  "name": "Chester",
+ "display_name": "Chester",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Chester was the short Rodian sidekick to Gorm Maldorf. Chester accidentally killed him by strangling him with wire in the Cage, and tried to blame Gorm's rival, Luke Skywalker.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Star_Wars_Tales",

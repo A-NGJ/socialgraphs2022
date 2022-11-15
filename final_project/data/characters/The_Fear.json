@@ -1,0 +1,36 @@
+{
+ "name": "The_Fear",
+ "display_name": "The Fear",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anomid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Fear was a male Anomid pirate living during the Cold War. A few years before 3643 BBY, another pirate Andronikos Revel challenged him to a fight and won, getting his blasters as a prize.\nThe Fear is mentioned in Star Wars: The Old Republic during the Andronikos Revel companion storyline.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Anomid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Andronikos_Revel",
+  "/wiki/Blaster/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

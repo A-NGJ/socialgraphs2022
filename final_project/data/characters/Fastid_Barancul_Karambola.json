@@ -1,0 +1,44 @@
+{
+ "name": "Fastid_Barancul_Karambola",
+ "display_name": "Fastid Barancul Karambola",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Crolute"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "3 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fastid Barancul Karambola was a male Crolute who was the owner of Weigh Station Karambola.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Crolute",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Prita_Sven",
+  "/wiki/Weigh_Station_Karambola",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fastid_Barancul_Karambola",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

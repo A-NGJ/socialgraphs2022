@@ -1,0 +1,57 @@
+{
+ "name": "V-Onin",
+ "display_name": "V-Onin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Re-Learning Circle"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "V-Onin was a young Keganite sent to the Re-Learning Circle. He was the grandson of O-Yani.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Re-Learning_Circle",
+  "/wiki/O-Yani",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

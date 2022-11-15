@@ -1,5 +1,6 @@
 {
  "name": "Beejinz",
+ "display_name": "Beejinz",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Beejinz was a male Twi'lek merchant who lived on Tython during the Cold War with the resurgent Sith Empire.\nA Twi'lek male, Beejinz was one of many Pilgrims who settled illegally on the planet Tython in the Deep Core. He ran a business in the Jedi Temple.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

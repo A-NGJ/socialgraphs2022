@@ -1,0 +1,48 @@
+{
+ "name": "Groona_Biddle",
+ "display_name": "Groona Biddle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Groona Biddle was a male Arcona colonist living on Tatooine during the Cold War. He was approached by an infamous con artist Gault Rennow, posing as \"Gellar Roing\", who offered to sell him Salt, highly addictive to Arcona and disguised as compound for maximizing water retention in organics.\nGroona Biddle appears in Star Wars: The Old Republic in hologram during Gault Rennow companion storyline.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arcona/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Gault_Rennow",
+  "/wiki/Salt/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

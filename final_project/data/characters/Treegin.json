@@ -1,0 +1,38 @@
+{
+ "name": "Treegin",
+ "display_name": "Treegin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Treegin was a male Rodian who lived on the planet Almas during the waning years of the Galactic Republic. He worked at a research station that was located near to the town Forard, serving as the head of the station's computer division.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Almas",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Forard_research_station",
+  "/wiki/Forard",
+  "/wiki/Computer/Legends",
+  "/wiki/The_Kaluthin_Are_Always_Greener"
+ ]
+}

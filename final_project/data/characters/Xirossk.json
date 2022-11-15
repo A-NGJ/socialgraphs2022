@@ -1,0 +1,61 @@
+{
+ "name": "Xirossk",
+ "display_name": "Xirossk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cularin Militia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xirossk was a Trandoshan who served in the Cularin Militia as a Major during the Clone Wars and commanded its Militia Intelligence division. He once coordinated an operation to locate bases used by the Wyrd in the Cularin jungle.\nHe later helped organize a mission to attack a Believers base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cularin_Militia",
+  "/wiki/Major/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Militia_Intelligence",
+  "/wiki/Wyrd",
+  "/wiki/Cularin/Legends",
+  "/wiki/Believers",
+  "/wiki/The_Air_Up_Thaere",
+  "/wiki/Memories",
+  "/wiki/Belly_of_the_Beaast",
+  "/wiki/Lockdown_on_Soboll",
+  "/wiki/Uffel%27s_Prisoners",
+  "/wiki/Storm%27s_Depths",
+  "/wiki/Hunting_the_Wyrd",
+  "/wiki/Decision:_Almas",
+  "/wiki/Decision:_Coruscant",
+  "/wiki/Decision:_Cularin",
+  "/wiki/Destruction_(Living_Force_adventure)",
+  "/wiki/Counterstrike_(Living_Force)",
+  "/wiki/The_Heart"
+ ]
+}

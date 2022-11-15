@@ -1,0 +1,66 @@
+{
+ "name": "Angry_Rodian",
+ "display_name": "Angry Rodian",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This angry individual was an aggressive male Rodian who resided in tower 214 on Byblos. The Rodian, who disliked droids, may unwillingly have been part of U-THR's scheme to liberate Crimson from Imperial Customs. It is possible that U-THR provoked the Rodian to chase him into the Imperial Custom's office to create a diversion, providing Crimson with the chance to escape.\nThe reader has a choice of using the angry Rodian to create a diversion as one of the possibilities of the solitaire story Crimson Jailbreak. Another option consists of reprogramming a binary loadlifter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/U-THR",
+  "/wiki/Tower_214",
+  "/wiki/Byblos/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Crimson",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Angry_Rodian",
+  "/wiki/Crimson_Jailbreak",
+  "/wiki/Binary_loadlifter/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

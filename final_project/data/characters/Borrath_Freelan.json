@@ -1,0 +1,48 @@
+{
+ "name": "Borrath_Freelan",
+ "display_name": "Borrath Freelan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borrath Freelan, otherwise known as Big Haul, was one of the many independent starship owners whose business was affected negatively by the closure of the Cularin system's borders after the end of the Clone Wars. Because of the loss of shipyard records, several of his former employees were able to claim that the ships they were flying were their own. This forced Freelan to chase them down and recover his property. In order to maintain its isolation, Cularin's military stepped up its patrols, and forced independent spacers to endure lengthy and rigorous security checks before landing.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Price_of_Neutrality_--_Isolation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

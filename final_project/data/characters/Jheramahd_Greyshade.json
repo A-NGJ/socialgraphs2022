@@ -1,0 +1,83 @@
+{
+ "name": "Jheramahd_Greyshade",
+ "display_name": "Jheramahd Greyshade",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "23 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Commonality",
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Senator Jheramahd Greyshade was a Human male who represented the Commonality in the Galactic Senate of the Republic.\nIn 23 BBY, he was assassinated by Tsian, who, upon killing him in his apartment, threw his corpse off the roof of 500 Republica, shortly before a critical vote on the Financial Reform Act, which he supported. His body fell to the Coruscant streets, which caused a massive and fatal pile up. He was succeeded in office by his cousin, Simon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/23_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Commonality",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Tsian",
+  "/wiki/500_Republica/Legends",
+  "/wiki/Financial_Reform_Act",
+  "/wiki/Simon_Greyshade/Legends",
+  "/wiki/Republic_46",
+  "/wiki/Republic_47",
+  "/wiki/Republic_48",
+  "/wiki/Databank_(original)",
+  "/wiki/StarWars.com",
+  "/wiki/Viva_Space_Vegas!_The_History_of_the_Marvelous_Wheel"
+ ]
+}

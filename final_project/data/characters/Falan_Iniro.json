@@ -1,0 +1,65 @@
+{
+ "name": "Falan_Iniro",
+ "display_name": "Falan Iniro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "4 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Falan Iniro was a hotheaded Corellian pilot that was present at the Battle of Nar Shaddaa. He and his gunner, Gadaf, were part of the smugglers' First Strike Element in the YT-1210 light freighter, Take That!.\nAlong with the other members of the First Strike Element, he lay hidden among the space-debris that surrounded Nar Shaddaa, waiting for Mako Spince's order to ambush the Carrack-class light cruiser Renthal's Vigilance, that was beginning to search the debris field. Mako transmitted the order, \"Prepare to evade,\" to all members of the First Strike Element. Unfortunately, a few members of the element misunderstood him to say, \"Prepare to engage,\" causing them to jump the gun and attack the Carrack. Falan Iniro was among those smugglers. He barely had time to destroy a TIE/LN starfighter before he was face-to-face with the Vigilance, at which point its turbolasers lashed out and destroyed Take That! and all aboard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/4_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Battle_of_Nar_Shaddaa_(3_BBY)",
+  "/wiki/Gadaf",
+  "/wiki/Smuggler/Legends",
+  "/wiki/YT-1210_light_freighter/Legends",
+  "/wiki/Light_freighter/Legends",
+  "/wiki/Take_That!",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Mako_Spince",
+  "/wiki/Carrack-class_light_cruiser/Legends",
+  "/wiki/Renthal%27s_Vigilance",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Turbolaser/Legends",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

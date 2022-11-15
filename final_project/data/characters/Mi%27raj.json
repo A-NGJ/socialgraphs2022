@@ -1,5 +1,6 @@
 {
- "name": "Mi'raj",
+ "name": "Mi%27raj",
+ "display_name": "Mi'raj",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Mi'raj was a Twi'lek artist who created the painting known as Corellian Seaside.\nMi'raj is mentioned in the description of the painting, Corellian Seaside, in the MMORPG Star Wars Galaxies.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

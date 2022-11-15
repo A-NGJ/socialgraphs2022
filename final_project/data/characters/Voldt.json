@@ -1,0 +1,54 @@
+{
+ "name": "Voldt",
+ "display_name": "Voldt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Voldt served aboard the Interdictor cruiser Requital, during the New Republic retreat from Coruscant in 10 ABY. He was responsible for catching the many small ships that escaped the Imperial blockade. When he boarded the Core Courier Service vessel Messenger he failed to discover anything to directly connect the ship to the New Republic, although he did plant a homing beacon in the vessel's cargo hold. This beacon allowed an Imperial Carrack-class cruiser to interrupt a meeting between the crew of the Messenger and Mara Jade, and later led it directly to the location of the New Republic fleet, where it was destroyed before it could escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Immobilizer_418_cruiser/Legends",
+  "/wiki/Requital",
+  "/wiki/Coruscant/Legends",
+  "/wiki/10_ABY/Legends",
+  "/wiki/Core_Courier_Service",
+  "/wiki/Messenger_(starship)",
+  "/wiki/Carrack",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Retreat_from_Coruscant",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

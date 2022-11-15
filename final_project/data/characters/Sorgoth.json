@@ -1,0 +1,46 @@
+{
+ "name": "Sorgoth",
+ "display_name": "Sorgoth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Evocii"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorgoth was a male Evocii Force Adept who lived on the moon Nar Shaddaa. By the time that he had reached the age of one hundred and fifty, Sorgoth had became the leader of a clan of about thirty Evocii.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Evocii",
+  "/wiki/Gender/Legends",
+  "/wiki/Force_Adept",
+  "/wiki/Moon/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Tempest_Feud"
+ ]
+}

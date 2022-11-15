@@ -1,0 +1,53 @@
+{
+ "name": "Spiketop",
+ "display_name": "Spiketop",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Uller"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spiketop was a particularly strong and dangerous uller that lived in the Etyyy region on Kashyyyk during the Galactic Civil War.\nIn 1 ABY, a hunter tracked down and killed Spiketop to impress the Rodian hunter Sordaan Xris and earn the prestigious Trophy for Excellence in Hunting in Etyyy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Uller",
+  "/wiki/Rodian_Hunting_Grounds",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Sordaan_Xris",
+  "/wiki/Trophy_for_Excellence_in_Hunting_in_Etyyy",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Star_Wars_Galaxies:_The_Total_Experience:_Prima_Official_Game_Guide",
+  "/wiki/Star_Wars_Galaxies:_The_Complete_Guide:_Prima_Official_Game_Guide"
+ ]
+}

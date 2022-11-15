@@ -1,0 +1,69 @@
+{
+ "name": "Ruler_Three",
+ "display_name": "Ruler Three",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Euceron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Euceron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ruling Power"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ruler Three was a member of the Ruling Power of Euceron. He was a tall Euceron living and administering in the capital city of Eusebus.\nRuler Three, together with Ruler Six and Ruler Seven, and the Galactic Games Council in attendance, presided at the hearing following the Galactic Games of 26 BBY that sought to draw out the truth and error of Jedi Master Obi-Wan Kenobi's charges against high-profile members of the Council.\nKenobi charged Council head Liviani Sarno and celebrated former Games champion and Council member Maxo Vista with the murder of Games \"timing judge\" Aarno Dering, with attempted murder of untold numbers of spectator-citizens, and with both the \"fixing\" and sabotaging of events throughout the Galactic Games to falsely discredit, disgrace, and defame certain members of the Galactic Senate that opposed legislation highly favorable to members of the Commerce Guild. In the end, Ruler Three was not swayed by what he viewed to be the Jedi's unsubstantial body of evidence and lack of witnesses. The Ruling Power's final decision in the matter thus allowed the guilty complicit parties, Sarno and Vista, to walk free.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Euceron",
+  "/wiki/Euceron_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Ruling_Power",
+  "/wiki/Eusebus",
+  "/wiki/Ruler_Six",
+  "/wiki/Ruler_Seven",
+  "/wiki/Galactic_Games_Council",
+  "/wiki/Galactic_Games/Legends",
+  "/wiki/26_BBY/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Liviani_Sarno",
+  "/wiki/Maxo_Vista",
+  "/wiki/Aarno_Dering",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Commerce_Guild/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Quest:_The_Dangerous_Games"
+ ]
+}

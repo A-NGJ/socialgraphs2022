@@ -1,0 +1,57 @@
+{
+ "name": "Vam_Margan",
+ "display_name": "Vam Margan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Tenloss SyndicateNatori Association",
+      "Natori Association"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vam Margan was a former special missions battalion commander in the Imperial Army before he resigned his commission and joined the Natori Association three years later. It was unknown why he resigned and how he was able to do so without the attention of the ISB and Ubiqtorate.\nMajor Margan was a hard-nosed practical man with a deep concern for the safety of the men under his command. He was an honorable man who was dedicated to fulfilling his contracts. During the Galactic Civil War he was stationed on Vergesso Base where he commanded a battalion of Natori Association soldiers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Tenloss_Syndicate/Legends",
+  "/wiki/Natori_Association",
+  "/wiki/Battalion/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Ubiqtorate/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Vergesso_Base",
+  "/wiki/West_End_Games",
+  "/wiki/Will_the_Last_Person_Leaving_Vergesso_Turn_Off_the_Lights%3F",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

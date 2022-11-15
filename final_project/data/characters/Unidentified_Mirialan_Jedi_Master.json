@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Mirialan_Jedi_Master",
+ "display_name": "Unidentified Mirialan Jedi Master",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Mirialan Jedi served the Jedi Order during the High Republic Era. Around 231 BBY, the Jedi was present in the Jedi Temple and tried to help Padawan Imri Cantaros in his special ability.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_Mirialan",
+  "/wiki/Mirialan",
+  "/wiki/Jedi_Order",
+  "/wiki/High_Republic_Era",
+  "/wiki/231_BBY",
+  "/wiki/Jedi",
+  "/wiki/Imperial_Palace",
+  "/wiki/Padawan",
+  "/wiki/Imri_Cantaros",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)",
+  "/wiki/The_High_Republic:_The_Rising_Storm",
+  "/wiki/Valo_Republic_Fair",
+  "/wiki/Attack_on_Valo",
+  "/wiki/Battle_of_Grizal",
+  "/wiki/StarWars.com"
+ ]
+}

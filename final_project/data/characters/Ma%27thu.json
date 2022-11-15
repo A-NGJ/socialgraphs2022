@@ -1,5 +1,6 @@
 {
- "name": "Ma'thu",
+ "name": "Ma%27thu",
+ "display_name": "Ma'thu",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Ma'thu was a Sullustan tactical officer who served the Diversity Alliance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullustan/Legends",

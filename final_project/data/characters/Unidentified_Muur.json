@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_Muur",
+ "display_name": "Unidentified Muur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Muur"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mogroch"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Galactic Civil War, a Muur was employed by a being called Mogroch. The Muur threatened Roark Garnet when the smuggler failed to pay 10,000 credits he owed to Mogroch.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Muur",
+  "/wiki/Mogroch",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Roark_Garnet/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Star_Wars:_The_Roleplaying_Game_(first_edition)"
+ ]
+}

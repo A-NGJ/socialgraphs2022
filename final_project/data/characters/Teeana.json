@@ -1,0 +1,74 @@
+{
+ "name": "Teeana",
+ "display_name": "Teeana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Solutions Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teeana was a female Human employee of the Galactic Solutions Industries living during the Galactic War. During the Invasion of Ziost in 3636 BBY she was present at the GSI orbital station above the planet, from which she witnessed the devastation of Ziost.\nTeeana was added to Star Wars: The Old Republic: Shadow of Revan in game update 3.2.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Solutions_Industries",
+  "/wiki/Galactic_War",
+  "/wiki/Invasion_of_Ziost",
+  "/wiki/3636_BBY",
+  "/wiki/Ziost/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/3638_BBY",
+  "/wiki/2013",
+  "/wiki/Standard_year/Legends",
+  "/wiki/2014",
+  "/wiki/3637_BBY",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

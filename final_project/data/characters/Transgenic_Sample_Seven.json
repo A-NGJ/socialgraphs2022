@@ -1,0 +1,60 @@
+{
+ "name": "Transgenic_Sample_Seven",
+ "display_name": "Transgenic Sample Seven",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3639 BBY",
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Reek"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Sannus Lorrick"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Transgenic Sample Seven was the name given by Sannus Lorrick to a Reek that he infected with Rakghoul plague during his experiments on Ord Mantell. In 3639 BBY a strike team stormed Lorrick's lab and neutralized all threats within, including the Transgenic Sample Seven.\nTransgenic Sample Seven appears in the Star Wars: The Old Republic as a boss during the flashpoint \"Lost Island\".",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3639_BBY",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Reek/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sannus_Lorrick",
+  "/wiki/Rakghoul_plague",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2012",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Clawdite",
+ "display_name": "Unidentified Clawdite",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clawdite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Clawdite lived on the commercial world of Denon. He met fellow Clawdite Zam Wesell while she was working for corporate security on that planet, and the two developed a relationship. The relationship resulted in the birth of their daughter who they named Sone.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Clawdite/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Denon/Legends",
+  "/wiki/Zam_Wesell/Legends",
+  "/wiki/Sone",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

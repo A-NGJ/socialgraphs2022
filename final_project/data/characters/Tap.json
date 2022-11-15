@@ -1,0 +1,91 @@
+{
+ "name": "Tap",
+ "display_name": "Tap",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "24 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dok-Ondar's Den of Antiquities"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tap was a young human male who lived in Black Spire Outpost on Batuu, working as an assistant for the collector Dok-Ondar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/24_ABY",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Dok-Ondar%27s_Den_of_Antiquities",
+  "/wiki/Volt_Vescuso",
+  "/wiki/Julen_Rakab",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Batuu",
+  "/wiki/Aide",
+  "/wiki/Collector",
+  "/wiki/Dok-Ondar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tap",
+  "/wiki/A_Crash_of_Fate",
+  "/wiki/A_Crash_of_Fate_(audiobook)",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire",
+  "/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+  "/wiki/Standard_month",
+  "/wiki/Resistance",
+  "/wiki/Standard_week",
+  "/wiki/First_Order",
+  "/wiki/Planet",
+  "/wiki/Battle_of_Batuu",
+  "/wiki/Star_Wars:_Galaxy%27s_Edge",
+  "/wiki/Star_Wars:_Rise_of_the_Resistance",
+  "/wiki/The_Star_Wars_Book",
+  "/wiki/Standard_year",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/34_ABY",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/%27ABY-BBY%27_dating_system",
+  "/wiki/Star_Wars:_Galaxy%27s_Edge_(media_project)",
+  "/wiki/Reproduction"
+ ]
+}

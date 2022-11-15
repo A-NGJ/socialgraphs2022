@@ -1,0 +1,64 @@
+{
+ "name": "Valn",
+ "display_name": "Valn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valn was a male Gran Captain of the Galactic Republic living during the Galactic War. Around 3641 BBY Valn was stationed on Belsavis, where he made a holocall to Captain Devlin in The Tomb, but reached a Republic agent in the area instead. Valn informed the individual that an ancient monstrous creatures was about to break free from the Greater Menagerie and urged him to run, but the Republic invididual choose to seal the door and prevent the creature from escaping in the first place instead.\nCaptain Valn appears in the video game Star Wars: The Old Republic as a hologram on Belsavis, starting the quest \"Containing the Beast\".",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3641_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Devlin_(Nautolan)",
+  "/wiki/The_Tomb",
+  "/wiki/Greater_Menagerie",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

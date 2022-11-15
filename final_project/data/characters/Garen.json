@@ -1,5 +1,6 @@
 {
  "name": "Garen",
+ "display_name": "Garen",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Garen was a member of Republic class-seven retrieval team capable of handling ZR-57 orbital strike bombs. After one such bomb was almost set off on Voss, Garen and Jak were brought in to safely retrieve it.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Garen_system",

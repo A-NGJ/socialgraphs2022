@@ -1,0 +1,51 @@
+{
+ "name": "Dara_Gunto",
+ "display_name": "Dara Gunto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dara Gunto was a near-Human female. She worked as a performer at The Chasm, located in Gadrin on the planet Cularin, during the final years of the Old Republic. Her gig at the cantina was not voluntary, however, as she had spilled a drink on the bartender droid shortly before, and was working as a singer to pay off her debt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Chasm",
+  "/wiki/Gadrin",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Force_Contention"
+ ]
+}

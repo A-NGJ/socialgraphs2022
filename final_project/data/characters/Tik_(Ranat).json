@@ -1,0 +1,47 @@
+{
+ "name": "Tik_(Ranat)",
+ "display_name": "Tik  (Ranat)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ranat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Deep yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tik was a male Ranat living in Freighter M226, a Temple-class heavy freighter in the Perlemian Haul convoy during the Galactic Civil War between the Alliance to Restore the Republic and the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ranat/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Freighter_M226",
+  "/wiki/Temple-class_heavy_freighter",
+  "/wiki/Perlemian_Haul",
+  "/wiki/Convoy/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Perlemian_Haul_(adventure)",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Core_Rulebook"
+ ]
+}

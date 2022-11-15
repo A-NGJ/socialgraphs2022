@@ -1,0 +1,42 @@
+{
+ "name": "Vinda_(Zabrak)",
+ "display_name": "Vinda  (Zabrak)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vinda was a female Zabrak who lived on the planet Cularin during the time of the Clone Wars. She worked as a mechanic for the Human Varas Hoorst, in Hoorst's speeder repair shop in the platform city Bayonard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Vinda_(shipwright)",
+  "/wiki/Starshipwright",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Varas_Hoorst",
+  "/wiki/Speeder/Legends",
+  "/wiki/Platform_city",
+  "/wiki/Bayonard",
+  "/wiki/Padawannabes"
+ ]
+}

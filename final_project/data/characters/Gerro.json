@@ -1,5 +1,6 @@
 {
  "name": "Gerro",
+ "display_name": "Gerro",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Gerro was a friendly Human woman who owned the Scarlet Sword, a cantina on the planet Ord Radama.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

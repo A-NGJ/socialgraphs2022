@@ -1,5 +1,6 @@
 {
  "name": "Nemlix",
+ "display_name": "Nemlix",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Nemlix was a Human male captain of Vigiliance, an Imperial Dreadnaught-class heavy cruiser that formed part of the Corrupter Task Force. He was assigned to locate the Defiance Task Force.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

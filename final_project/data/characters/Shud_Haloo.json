@@ -1,0 +1,51 @@
+{
+ "name": "Shud_Haloo",
+ "display_name": "Shud Haloo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rycar Ryjerd"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shud Haloo was a Human male and the personal bodyguard for the smuggler Rycar Ryjerd. One time, as Ryjerd was confronted with a group of spacers out to capture him, Haloo and Ryjerd ambushed them with an E-Web heavy repeating blaster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rycar_Ryjerd/Legends",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Smuggler",
+  "/wiki/Spacer/Legends",
+  "/wiki/E-Web_heavy_repeating_blaster",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shud_Haloo",
+  "/wiki/Wizards.com",
+  "/wiki/The_Rycar_Run",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

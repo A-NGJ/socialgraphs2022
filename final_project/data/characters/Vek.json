@@ -1,0 +1,63 @@
+{
+ "name": "Vek",
+ "display_name": "Vek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Almania"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark reddish-brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kueller"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vek was an Almanian male who was personally saved by Kueller, during one of the former's attacks on the populace.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Almania/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kueller",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

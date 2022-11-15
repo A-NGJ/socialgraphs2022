@@ -1,0 +1,36 @@
+{
+ "name": "Tuuma",
+ "display_name": "Tuuma",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuuma was a male Hutt who served as the captain of the Wayward Current.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Gender",
+  "/wiki/Captain",
+  "/wiki/Wayward_Current",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuuma",
+  "/wiki/The_Legends_of_Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker_(audiobook)"
+ ]
+}

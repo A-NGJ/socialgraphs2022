@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Sauvax_pet_owner",
+ "display_name": "Unidentified Sauvax pet owner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sauvax"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Sauvax pet owner participated in the Sok Brok's Fiftieth Annual Pet Show, on the planet Taris in 43 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sauvax",
+  "/wiki/Gender/Legends",
+  "/wiki/Sok_Brok%27s_Fiftieth_Annual_Pet_Show",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/43_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Sauvax_pet_owner",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Viqi",
+ "display_name": "Viqi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Deltron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viqi was a female Deltron and one of Brisha Shard's children. She had a brother, Alarik, and a sister, Bellen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Viqi_Shesh",
+  "/wiki/Deltron_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Brisha_Shard",
+  "/wiki/Youngling/Legends",
+  "/wiki/Alarik",
+  "/wiki/Bellen",
+  "/wiki/SkyeWalkers:_A_Clone_Wars_Story"
+ ]
+}

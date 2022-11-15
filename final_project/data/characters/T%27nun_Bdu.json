@@ -1,0 +1,72 @@
+{
+ "name": "T%27nun_Bdu",
+ "display_name": "T'nun Bdu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "11 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "T'nun Bdu was the captain of the Sullustan, a Corellian corvette. His ship was intercepted by Admiral Natasi Daala and destroyed when she found heavy weapons, communications equipment, and prefabricated building material that could be used to aid the Rebel Alliance, as well as maps and information on the Rebel Alliance in its databanks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/11_ABY/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sullustan_(starship)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Corvette/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Natasi_Daala",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Dark_Apprentice_(novel)",
+  "/wiki/The_Jedi_Academy_Sourcebook",
+  "/wiki/Platt%27s_Smugglers_Guide",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

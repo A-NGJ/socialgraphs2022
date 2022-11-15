@@ -1,5 +1,6 @@
 {
  "name": "Aisala",
+ "display_name": "Aisala",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Aisala was a woman who lived on the desert world of Tatooine before the Clone Wars began.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Tatooine/Legends",

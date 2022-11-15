@@ -1,5 +1,6 @@
 {
  "name": "Iceman",
+ "display_name": "Iceman",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "The bounty hunter known as Iceman hailed from the Nord system, and pursued bounties around the Minos Cluster. He piloted the Sudden Death, a MRX-BR Pacifier.\nIceman was focused, had no interest in others, and showed no mercy to his targets. He was tall, athletic, and always appeared calm.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nord_system",

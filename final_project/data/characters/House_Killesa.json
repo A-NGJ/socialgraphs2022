@@ -1,0 +1,56 @@
+{
+ "name": "House_Killesa",
+ "display_name": "House Killesa",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Lord Cedarik Killesa"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "House of Thul"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House Killesa was a minor Alderaanian noble house, vassal to the House of Thul, that was led by Lord Cedarik Killesa at the time of the Cold War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Human/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Cedarik_Killesa",
+  "/wiki/Alderaan/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

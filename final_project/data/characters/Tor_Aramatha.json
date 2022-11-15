@@ -1,0 +1,81 @@
+{
+ "name": "Tor_Aramatha",
+ "display_name": "Tor Aramatha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "43 BBY"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alderaanian government",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tor Aramatha was a male Human and the governor of Aldera, Alderaan's capital, from the era of the Clone Wars up until the planet's destruction in 0 BBY.\nA contemporary of Senator Bail Organa, Aramatha was an influential member of Alderaan's society and government, promoting the Alderaanian ideals of pacifism and coexistence with all. In the years leading up to the Galactic Civil War, he uncovered evidence of an arms smuggling ring on his peaceful homeworld and hired a team of freelance investigators to root out the culprit—one Lorac Nonnaihr.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/43_BBY/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Aldera/Legends",
+  "/wiki/Capital/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Senator/Legends",
+  "/wiki/Bail_Prestor_Organa/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Lorac_Nonnaihr",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

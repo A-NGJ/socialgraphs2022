@@ -1,5 +1,6 @@
 {
  "name": "Rodin",
+ "display_name": "Rodin",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Rodin was a male Human member of the Corellian Council during the Galactic War and was among those who helped bring Corellia into the Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

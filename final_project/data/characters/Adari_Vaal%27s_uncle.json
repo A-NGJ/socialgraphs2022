@@ -1,0 +1,51 @@
+{
+ "name": "Adari_Vaal%27s_uncle",
+ "display_name": "Adari Vaal's uncle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keshiri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Keshiri lived on the planet Kesh in 5000 BBY, and was the uncle of controversial geologist Adari Vaal. That year, as mobs descended upon Vaal's home after she was accused of heresy, Vaal sent her mother and two sons to stay with her uncle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Keshiri",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/5000_BBY/Legends",
+  "/wiki/Geology",
+  "/wiki/Adari_Vaal",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Eulyn",
+  "/wiki/Finn_Vaal",
+  "/wiki/Tona_Vaal",
+  "/wiki/Lost_Tribe_of_the_Sith:_Skyborn"
+ ]
+}

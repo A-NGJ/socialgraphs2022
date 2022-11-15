@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_Bothan_communications_officer",
+ "display_name": "Unidentified Bothan communications officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Bothan communications officer worked for Galactic Alliance Chief of State Natasi Daala. In 43.5 ABY, at the request of Daala, he contacted former Admiral Cha Niathal's assistant, who patched him through to Niathal. Daala then informed Niathal of her intentions to bring the former Admiral to Coruscant to stand trial, which resulted in Niathal committing suicide.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Fate_of_the_Jedi:_Backlash",
+  "/wiki/Chief_of_State_(Galactic_Alliance)",
+  "/wiki/Natasi_Daala",
+  "/wiki/43_ABY",
+  "/wiki/Admiral/Legends",
+  "/wiki/Cha_Niathal",
+  "/wiki/Cha_Niathal%27s_assistant",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Suicide/Legends",
+  "/wiki/Fate_of_the_Jedi:_Backlash_(audiobook)"
+ ]
+}

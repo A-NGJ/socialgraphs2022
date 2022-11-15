@@ -1,0 +1,62 @@
+{
+ "name": "Hayca_Mekket",
+ "display_name": "Hayca Mekket",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hayca Mekket was a female Mandalorian veterinarian who treated Mandalore Boba Fett for his terminal illness by injecting him with the bone marrow of Jaing Skirata. All she asked for payment was a thick, red quilt and told Fett he shouldn't have anymore children.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Veterinarian",
+  "/wiki/Mandalore_(title)",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Jaing_Skirata",
+  "/wiki/Red",
+  "/wiki/Legacy_of_the_Force:_Sacrifice",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

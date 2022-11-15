@@ -1,0 +1,46 @@
+{
+ "name": "Willum_Kamaran",
+ "display_name": "Willum Kamaran",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nova Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Willum Kamaran was leader of the mercenary group Nova Force under the employ of Xizor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nova_Force",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Xizor/Legends",
+  "/wiki/Rebel_Dawn",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

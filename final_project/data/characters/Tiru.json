@@ -1,0 +1,66 @@
+{
+ "name": "Tiru",
+ "display_name": "Tiru",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Allusis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clan Varad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiru was a Human male Mandalorian present during the Cold War between the Galactic Republic and the Sith Empire. As a member of Clan Varad, Tiru participated in the Battle for the Allusis. Together with his clan brothers, Kandon and Lothor, they were known collectively as Battle Team Royal. Summoned by their clan chieftain Mavrix Varad to stop a strike team from capturing the Republic cruiser Allusis, they were untimely and unknowingly killed by another boarding party's drop pod.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Allusis",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Varad",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Battle_for_the_Allusis",
+  "/wiki/Kandon",
+  "/wiki/Lothor",
+  "/wiki/Battle_Team_Royal",
+  "/wiki/Mavrix_Varad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Felucian_guide",
+ "display_name": "Unidentified Felucian guide",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Felucia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Early Galactic Civil War",
+      "Felucia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jungle Felucian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Felucian Sanctuary",
+      "Alderaanian Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Soon after the Clone Wars, a male Felucian warrior from the Felucian Sanctuary served as a guide for a group of Senator Bail Organa's agents in their quest to raid the Imperial prison facility called the Vanishing Place and liberate Admiral Gilder Varth. The guide led them to an unguarded entrance to the facility, but was soon killed by Imperial forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Felucia/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Jungle_Felucian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Felucian_Sanctuary",
+  "/wiki/Alderaanian_Resistance",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Felucian_warrior",
+  "/wiki/Senator/Legends",
+  "/wiki/Bail_Prestor_Organa/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Vanishing_Place",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gilder_Varth",
+  "/wiki/Wizards.com",
+  "/wiki/The_Traitor%27s_Gambit"
+ ]
+}

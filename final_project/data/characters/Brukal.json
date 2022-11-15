@@ -1,5 +1,6 @@
 {
  "name": "Brukal",
+ "display_name": "Brukal",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Brukal was the Chevin owner of The Drunken Ootak on Vinsoth.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Vinsoth/Legends",

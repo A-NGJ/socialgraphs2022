@@ -1,0 +1,51 @@
+{
+ "name": "Winslo",
+ "display_name": "Winslo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Pelagia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Winslo was the governess of Theus Paddox's siblings, Trad Paddox and Verinia Paddox. She was killed onboard the Regal Destiny starship when a House Mecetti agent infiltrate the ship and released a deadly bio-agent into the air supply, during the time of the Pelagian purge. She helped ensure that the Paddox siblings survived the attack by freezing them in stasis. They were later discovered by the crew of the Bright Seeker.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Pelagia",
+  "/wiki/Theus_Paddox",
+  "/wiki/Trad_Paddox",
+  "/wiki/Verinia_Paddox",
+  "/wiki/Regal_Destiny",
+  "/wiki/House_Mecetti",
+  "/wiki/Bright_Seeker",
+  "/wiki/West_End_Games",
+  "/wiki/Lost_Destiny",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

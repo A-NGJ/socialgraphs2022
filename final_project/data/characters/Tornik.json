@@ -1,0 +1,55 @@
+{
+ "name": "Tornik",
+ "display_name": "Tornik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tornik was a male Human guard for the famous gangster, Jabba Desilijic Tiure.\nInstead of joining his fellow guards on their journey to the Dune Sea with Jabba's sail barge, which ended in the Battle of the Great Pit of Carkoon, Tornik stayed back in Jabba's Palace with Warlug, a Gamorrean guard, and got drunk. When the message of Jabba's death reached the palace, Yarna d'al' Gargan ran across the two drunks who attempted to rape her in their befuddlement. Fortunately, Sergrant Doallyn arrived just in time to protect her before they could commit their heinous act. He shot the Gamorrean in the back and escaped with Yarna into the desert. Warlug was lucky to survive the incident and backed off with Tornik.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Dune_Sea/Legends",
+  "/wiki/Battle_of_the_Great_Pit_of_Carkoon",
+  "/wiki/Jabba%27s_Palace",
+  "/wiki/Warlug",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Yarna_d%27al%27_Gargan/Legends",
+  "/wiki/Reproduction/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Doallyn/Legends",
+  "/wiki/Skin_Deep:_The_Fat_Dancer%27s_Tale",
+  "/wiki/Tales_from_Jabba%27s_Palace",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

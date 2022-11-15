@@ -1,0 +1,69 @@
+{
+ "name": "Twilit_Hearth",
+ "display_name": "Twilit Hearth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Druckenwell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Twilit Hearth was the blue-eyed female Human who worked as a singer of a band and partner of Sprig Cheever at Happy's Landing on Druckenwell. She wore clothes enhancing her physical shape. She allowed Tinian I'att to take her place on stage in order to avoid stormtrooper pursuit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Druckenwell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Musician/Legends",
+  "/wiki/Band/Legends",
+  "/wiki/Sprig_Cheever",
+  "/wiki/Happy%27s_Landing",
+  "/wiki/Clothing/Legends",
+  "/wiki/Tinian_I%27att_Azur-Jamin",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Twilit_Hearth",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Tinian_on_Trial",
+  "/wiki/Star_Wars_Adventure_Journal_4",
+  "/wiki/West_End_Games",
+  "/wiki/The_Best_of_the_Star_Wars_Adventure_Journal,_Issues_1-4",
+  "/wiki/To_Fight_Another_Day",
+  "/wiki/Star_Wars_Adventure_Journal_6",
+  "/wiki/Only_Droids_Serve_the_Maker",
+  "/wiki/Star_Wars_Adventure_Journal_10",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

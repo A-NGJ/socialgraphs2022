@@ -1,0 +1,67 @@
+{
+ "name": "Unidentified_human_Jedi",
+ "display_name": "Unidentified human Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human Jedi operated during the High Republic Era and participated in the Assault on Mulita, where warriors of the Jedi Order and the Hutt Clan launched a joint offensive on the Great Progenitor and her Drengir progeny in the hopes of putting an end to the Drengir crisis. The Jedi wielded a green-bladed lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Jedi",
+  "/wiki/High_Republic_Era",
+  "/wiki/Assault_on_Mulita",
+  "/wiki/Hutt_Clan",
+  "/wiki/Great_Progenitor",
+  "/wiki/Gender",
+  "/wiki/Drengir",
+  "/wiki/Drengir_crisis",
+  "/wiki/Lightsaber",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_human_Jedi",
+  "/wiki/The_High_Republic_(2021)_8",
+  "/wiki/Star_Wars"
+ ]
+}

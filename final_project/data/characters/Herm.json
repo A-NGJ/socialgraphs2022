@@ -1,5 +1,6 @@
 {
  "name": "Herm",
+ "display_name": "Herm",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Herm was a male Human ensign of the Sith Empire living during the Cold War and stationed on Tatooine in Mos Ila.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

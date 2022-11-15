@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_Toydarian_woman",
+ "display_name": "Unidentified Toydarian woman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Toydarian woman played sabacc with Leia Organa on Bastatha. Organa quickly defeated her, having learned the game from her husband and his friend.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Toydarian",
+  "/wiki/Gender",
+  "/wiki/Sabacc",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Bastatha",
+  "/wiki/Han_Solo",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Toydarian_woman",
+  "/wiki/Bloodline_(novel)",
+  "/wiki/Bloodline_(audiobook)"
+ ]
+}

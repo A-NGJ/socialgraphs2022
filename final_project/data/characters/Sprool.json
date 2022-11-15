@@ -1,0 +1,73 @@
+{
+ "name": "Sprool",
+ "display_name": "Sprool",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dennogra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sprool, also known as Sprool the Trader, was an Ithorian relic trader who lived on Dennogra. He was contacted by Han Solo shortly after the Battle of Yavin, and purchased a crate full of Sith treasure for 500,000 credits. He also delivered a second crate of treasure to Jabba the Hutt, as a gift from Solo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dennogra/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/The_Rebel_Thief",
+  "/wiki/Star_Wars_Missions_11:_Bounty_Hunters_vs._Battle_Droids",
+  "/wiki/Aurra_Sing:_Dawn_of_the_Bounty_Hunters",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_94",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

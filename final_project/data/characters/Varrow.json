@@ -1,0 +1,82 @@
+{
+ "name": "Varrow",
+ "display_name": "Varrow",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3638 BBY",
+      "Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dread Host"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varrow was a male Human member of the Dread Host who held the position of Dread Guardsman during the Galactic War. He led a raid on the Sith Empire's Arcanum facility, wreaking havoc and also stealing the powerful Darkstaff. He fled to Belsavis, but was ultimately defeated in battle, causing the Darkstaff to vanish into thin air.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3638_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dread_Host",
+  "/wiki/Galactic_War",
+  "/wiki/Raid_on_the_Arcanum",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Arcanum",
+  "/wiki/Darkstaff",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2013",
+  "/wiki/Standard_year/Legends",
+  "/wiki/2014",
+  "/wiki/3637_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan",
+  "/wiki/3636_BBY",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

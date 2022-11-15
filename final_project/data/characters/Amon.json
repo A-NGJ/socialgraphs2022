@@ -1,5 +1,6 @@
 {
  "name": "Amon",
+ "display_name": "Amon",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Amon was a human male who was a member of the Ordu Aspectu. He died during the Doom of the Ordu Aspectu, which occurred thousands of years before the Battle of Yavin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Doom_of_the_Ordu_Aspectu",

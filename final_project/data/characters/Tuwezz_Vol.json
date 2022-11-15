@@ -1,0 +1,49 @@
+{
+ "name": "Tuwezz_Vol",
+ "display_name": "Tuwezz Vol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rodian Hunting Grounds."
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuwezz Vol was a male Rodian who lived during the Galactic Civil War. He was a hunter who resided in Etyyy on Kashyyyk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rodian_Hunting_Grounds",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuwezz_Vol",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

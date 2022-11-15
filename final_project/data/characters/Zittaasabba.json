@@ -1,0 +1,52 @@
+{
+ "name": "Zittaasabba",
+ "display_name": "Zittaasabba",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown with streaks of blond and white"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wookiee Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zittaasabba was a Wookiee who served as a sergeant in the Wookiee Army at the end of the Clone Wars. An expert in unarmed combat, Zittaasabba also piloted an Oevvaor Jet Catamaran during the Battle of Kashyyyk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Zittaasabba",
+  "/wiki/Zittaasabba/Legends",
+  "/wiki/Wookiee",
+  "/wiki/Color",
+  "/wiki/Wookiee_Army",
+  "/wiki/Sergeant",
+  "/wiki/Clone_Wars",
+  "/wiki/Hand-to-hand_combat",
+  "/wiki/Pilot",
+  "/wiki/Oevvaor_Jet_Catamaran",
+  "/wiki/Battle_of_Kashyyyk",
+  "/wiki/Star_Wars:_Complete_Vehicles_(2018)",
+  "/wiki/Star_Wars_Complete_Vehicles,_New_Edition"
+ ]
+}

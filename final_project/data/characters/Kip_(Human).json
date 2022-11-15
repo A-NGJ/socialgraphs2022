@@ -1,0 +1,37 @@
+{
+ "name": "Kip_(Human)",
+ "display_name": "Kip  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kip was a man who was in Vanster Enan's Sop House during the 200th anniversary celebrations in Gadrin. He was hitting on Amaya and Suki, and hooked up with Amaya. He was greasy and had a thin mustache.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vanster_Enan%27s_Sop_House",
+  "/wiki/Gadrin",
+  "/wiki/Amaya",
+  "/wiki/Suki",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kip_(Human)",
+  "/wiki/A_Cularin_Presence"
+ ]
+}

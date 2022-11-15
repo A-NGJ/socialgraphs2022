@@ -1,5 +1,6 @@
 {
  "name": "Draughckt",
+ "display_name": "Draughckt",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Draughckt was a Gamorrean who had met a young Jedi named Gerrick on Seltos. The two met again a year later.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gamorrean/Legends",

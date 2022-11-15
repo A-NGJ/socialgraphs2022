@@ -1,0 +1,51 @@
+{
+ "name": "Zom_Dubrotin",
+ "display_name": "Zom Dubrotin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tejrivozs"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zom Dubrotin was a male Advozse who was head of the powerful Bomminde family and later served as chief administrator of Dozu Lam during the waning years of the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rise_of_the_Empire_era",
+  "/wiki/Rebellion_era",
+  "/wiki/Tejrivozs",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bomminde",
+  "/wiki/Dozu_Lam",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Advozsec",
+  "/wiki/Star_Wars_Gamer_4"
+ ]
+}

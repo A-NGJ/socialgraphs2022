@@ -1,5 +1,6 @@
 {
  "name": "Fontis",
+ "display_name": "Fontis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Fontis was a Devaronian male bartender that ran Gully's, a cantina in the settlement on the moon Yavin 4.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Devaronian",

@@ -1,0 +1,51 @@
+{
+ "name": "Vemec",
+ "display_name": "Vemec",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Serenno"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Count Vemec was a Count of Serenno in 52 BBY. He was involved in negotiations with the Jedi and Damask Holdings over taxation of Celanon hyperwave broadcasts into the Corporate Sector.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Serenno/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Count_of_Serenno/Legends",
+  "/wiki/52_BBY/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Damask_Holdings/Legends",
+  "/wiki/Celanon/Legends",
+  "/wiki/Hyperwave/Legends",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Jonas_Escalus",
+ "display_name": "Jonas Escalus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Old Sith Empire",
+      "Escalus line",
+      "Kallig family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jonas Escalus was a Human male Sith of the Old Sith Empire. He was the last retainer of the Sith Lord Aloysius Kallig, who entrusted him with the possession of his lightsaber to keep on safe until Kallig's heir arrived to reclaimed it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Escalus_line",
+  "/wiki/Kallig_family",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Aloysius_Kallig",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Darth_Nox",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

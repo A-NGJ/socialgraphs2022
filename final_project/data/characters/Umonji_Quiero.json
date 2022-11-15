@@ -1,0 +1,59 @@
+{
+ "name": "Umonji_Quiero",
+ "display_name": "Umonji Quiero",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Umonji \"Overdrive\" Quiero was a human male thief that was active in the Anoat sector at the time of the Iron Blockade. He made himself a reputation stealing vehicles, be it speeders, shuttles, or podracers. At some point during the Blockade, Quiero was recruited by The Smuggler for his technical and combat skills. Quiero particularly enjoyed stealing under fire.\nIn the 2015 iOS video game Star Wars: Uprising, Quiero is one of the many crew members that can be sent on Crew Runs for helpful items.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Thief",
+  "/wiki/Anoat_sector",
+  "/wiki/Time",
+  "/wiki/Iron_Blockade",
+  "/wiki/Speeder",
+  "/wiki/Shuttle",
+  "/wiki/Podracer",
+  "/wiki/The_Smuggler",
+  "/wiki/2015",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

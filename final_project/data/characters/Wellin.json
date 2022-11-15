@@ -1,0 +1,31 @@
+{
+ "name": "Wellin",
+ "display_name": "Wellin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wellin was a male Human doctor stationed on the Imperial cruiser White Nova during the Galactic War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/White_Nova",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

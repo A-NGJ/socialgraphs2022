@@ -1,0 +1,46 @@
+{
+ "name": "Unidentified_Twi%27lek_racer",
+ "display_name": "Unidentified Twi'lek racer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sometime after 28 BBY, a male Twi'lek had a swoop racing career in the Coruscant underworld. At one point, he won a race against the leader of the Sligo Pirate gang.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Oollie",
+  "/wiki/Anakin:_Apprentice",
+  "/wiki/28_BBY/Legends",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Coruscant_underworld",
+  "/wiki/Unidentified_Sligo_Pirate_leader",
+  "/wiki/Sligo_Pirate_gang"
+ ]
+}

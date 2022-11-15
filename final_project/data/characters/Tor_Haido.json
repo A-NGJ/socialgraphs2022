@@ -1,0 +1,37 @@
+{
+ "name": "Tor_Haido",
+ "display_name": "Tor Haido",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tor Haido was a resident of Cato Neimoidia. During the Clone Wars, Tor Haido assisted the Grand Army of the Republic in its occupation of the planet by acting as a spy. Through this work, he came to know the Jedi Suljo Warde well. After public opinion turned against Warde, Haido attempted to distance himself from the Jedi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cato_Neimoidia/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Suljo_Warde",
+  "/wiki/Chronicles_of_the_Gatekeeper"
+ ]
+}

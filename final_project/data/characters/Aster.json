@@ -1,5 +1,6 @@
 {
  "name": "Aster",
+ "display_name": "Aster",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -56,7 +57,7 @@
   }
  ],
  "content": "Aster was a Human male commander of the Sith Empire's military. He was killed in the Meridian Complex assault in 3627 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3627_BBY",

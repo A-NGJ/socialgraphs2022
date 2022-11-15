@@ -1,0 +1,53 @@
+{
+ "name": "Stemzee",
+ "display_name": "Stemzee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bright Tree Village"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stemzee was an Ewok who participated in the Battle of Endor alongside the Ewok Chubbray.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Bright_Tree_Village/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Chubbray/Legends",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Hasbro_Inc.",
+  "/wiki/Star_Wars:_The_Vintage_Collection"
+ ]
+}

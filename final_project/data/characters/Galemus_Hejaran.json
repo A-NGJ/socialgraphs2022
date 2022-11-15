@@ -1,0 +1,65 @@
+{
+ "name": "Galemus_Hejaran",
+ "display_name": "Galemus Hejaran",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nightsinger's Orb",
+      "moon of Pella"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hejaran family",
+      "House Mecetti"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Galemus Hejaran was a member of the influential Hejaran family of House Mecetti. He was the uncle of Baron Lucian Hejaran, Themion Hejaran and Lady Brigta Hejaran.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nightsinger%27s_Orb",
+  "/wiki/Pella",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hejaran_family",
+  "/wiki/House_Mecetti",
+  "/wiki/Lucian_Hejaran",
+  "/wiki/Themion_Hejaran",
+  "/wiki/Lord/Legends",
+  "/wiki/Brigta_Hejaran",
+  "/wiki/West_End_Games",
+  "/wiki/Blood_Inheritance",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

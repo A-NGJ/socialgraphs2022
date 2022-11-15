@@ -1,0 +1,49 @@
+{
+ "name": "Yem_Nemnin",
+ "display_name": "Yem Nemnin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dorin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yem Nemnin was a Kel Dor assassin. He was known for his unique method of killing his victims, by using his own antiox breath mask to poison them to death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dorin/Legends",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Antiox_breath_mask",
+  "/wiki/Poison/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yem_Nemnin",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

@@ -1,5 +1,6 @@
 {
- "name": "Ark'ik",
+ "name": "Ark%27ik",
+ "display_name": "Ark'ik",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Ark'ik was a male Verpine who, along with Ra'tre, smuggled TibannaX gas to Tenupe for the Squibs Sligh, Grees and Emala.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Verpine/Legends",

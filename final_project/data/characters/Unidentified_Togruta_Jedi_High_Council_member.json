@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Togruta_Jedi_High_Council_member",
+ "display_name": "Unidentified Togruta Jedi High Council member",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi OrderJedi High Council",
+      "Jedi High Council",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Togruta member of the Jedi High Council served the Jedi Order at the beginning of the Great Galactic War in 3681 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_High_Council/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/3681_BBY",
+  "/wiki/Timeline_6:_Onslaught_of_the_Sith_Empire",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

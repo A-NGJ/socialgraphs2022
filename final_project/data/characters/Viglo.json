@@ -1,0 +1,66 @@
+{
+ "name": "Viglo",
+ "display_name": "Viglo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireSith military",
+      "Sith military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viglo was a male Human officer who served Darth Malak's Sith Empire during the Jedi Civil War. In 3956 BBY, he was stationed on Manaan, where he passed the time getting drunk and spending his time with women. While he didn’t hide his distaste for the Republic and Manaan, he didn’t seem as uptight as other Sith officers, remarking that he just wanted to \"have a couple of drinks and try to unwind.\"\nIn the game, Viglo will only converse with the player if Revan is a female. If Revan is a man, Viglo tells the male Revan to back off because he's \"cramping his style with the ladies\". Upon closing the conversation as a female Revan, he will make a drunken attempt to flirt before requesting another drink from the Selkath barkeep.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Sith_military_(Jedi_Civil_War)",
+  "/wiki/Revan/Legends",
+  "/wiki/Sith_officer",
+  "/wiki/Darth_Malak",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/3956_BBY",
+  "/wiki/Manaan/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Selkath/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

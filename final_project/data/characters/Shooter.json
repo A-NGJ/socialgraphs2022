@@ -1,5 +1,6 @@
 {
  "name": "Shooter",
+ "display_name": "Shooter",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -68,7 +69,7 @@
   }
  ],
  "content": "\"Shooter\" was the nickname of a clone trooper pilot who served in the Republic Navy's Red Group during the Clone Wars. He died sacrificing himself destroying the new CIS ship by crashing into the core.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kamino/Legends",

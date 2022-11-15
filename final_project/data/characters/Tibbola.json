@@ -1,0 +1,56 @@
+{
+ "name": "Tibbola",
+ "display_name": "Tibbola",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "18 BBY",
+      "Raada"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tibbola was a human male who lived on the moon Raada during the first year of the Galactic Empire. Sometime after the Empire arrived on Raada, Tibbola stood up to an Imperial officer and was executed by a stormtrooper in Selda's cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/18_BBY",
+  "/wiki/Raada",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Neera",
+  "/wiki/Ahsoka_(novel)",
+  "/wiki/Moon",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_officer",
+  "/wiki/Death",
+  "/wiki/Stormtrooper",
+  "/wiki/Selda%27s_cantina",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tibbola",
+  "/wiki/Ahsoka_(audiobook)"
+ ]
+}

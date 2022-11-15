@@ -1,0 +1,45 @@
+{
+ "name": "Yubookoo",
+ "display_name": "Yubookoo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yubookoo, an enslaved Wookiee on Geonosis, was forced to fight in the gladiator arenas. In order to fight without impediment, he trimmed his fur to a short stubble. Knowing that he would eventually die, Yubookoo became a fearsome fighter, known to have defeated sixteen Geonosian warriors.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Gladiator/Legends",
+  "/wiki/Hair/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/StarWars.com",
+  "/wiki/Galactic_Gladiators:_Great_Warriors_of_Star_Wars"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Tooth_(Molavaran)",
+ "display_name": "Tooth  (Molavaran)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Molavar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Molavaran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tooth was a native Molavaran leading a convoy of settlers on Molavar. Upon arriving on Molavar, former mercenary Darca Nyl journeyed with Tooth's convoy for some time. Later, Darca called upon Tooth's people to help a local homesteader, Byrom, from a criminal gang led by Magon. They were successful and Tooth and his convoy settled down near Byrom's land to start a new life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Molavar/Legends",
+  "/wiki/Molavaran",
+  "/wiki/Gender/Legends",
+  "/wiki/Darca_Nyl",
+  "/wiki/Byrom",
+  "/wiki/Magon",
+  "/wiki/Nomad"
+ ]
+}

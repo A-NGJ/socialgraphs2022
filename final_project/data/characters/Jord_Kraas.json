@@ -1,0 +1,59 @@
+{
+ "name": "Jord_Kraas",
+ "display_name": "Jord Kraas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jord Kraas was an officer serving as a lieutenant in the Galactic Empire during the Galactic Civil War.\nLieutenant Kraas and Captain Mordaph Clafdatha compiled the report code-named V492771R225Y, detailing the capabilities and specifications of various starships used by the Empire, Rebel Alliance and other neutral parties for Darth Vader. The report was delivered in an incomplete form, along with a plea for forgiveness regarding its state.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jord_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Mordaph_Clafdatha",
+  "/wiki/Technical_Specifications:_Spacecraft_of_the_Imperium_and_the_Rebel_Alliance",
+  "/wiki/Starship/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/The_Farlander_Papers",
+  "/wiki/X-Wing:_The_Official_Strategy_Guide",
+  "/wiki/X-Wing_Collector%27s_CD-ROM:_The_Official_Strategy_Guide"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Slarm_(Human)",
+ "display_name": "Slarm  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Starhunter's Intergalactic Menagerie"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mister Slarm was the second in command of the Starhunter's Intergalactic Menagerie under Captain Stroon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Starhunter%27s_Intergalactic_Menagerie",
+  "/wiki/Captain/Legends",
+  "/wiki/Stroon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slarm_(Human)",
+  "/wiki/Star_Wars:_Droids:_The_Adventures_of_R2-D2_and_C-3PO",
+  "/wiki/Coby_and_the_Starhunters"
+ ]
+}

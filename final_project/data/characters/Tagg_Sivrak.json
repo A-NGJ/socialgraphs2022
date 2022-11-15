@@ -1,0 +1,35 @@
+{
+ "name": "Tagg_Sivrak",
+ "display_name": "Tagg Sivrak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shistavanen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tagg Sivrak was a male Shistavanen and brother of Lak Sivrak. He was married to Nira Sivrak. Their son studied at the University of Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shistavanen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lak_Sivrak/Legends",
+  "/wiki/University_of_Coruscant/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tagg_Sivrak",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

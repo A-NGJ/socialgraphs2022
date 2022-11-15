@@ -1,5 +1,6 @@
 {
  "name": "Linslo",
+ "display_name": "Linslo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Linslo was a male human member of Commander Ryden's rebel cell.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

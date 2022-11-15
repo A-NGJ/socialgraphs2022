@@ -1,0 +1,55 @@
+{
+ "name": "House_Syrush",
+ "display_name": "House Syrush",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "3644 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "House Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House Syrush was one of the Great Houses of Alderaan during the Cold War between the Republic and the reconstituted Sith Empire. A vassal house of House Organa, the house fell to the Killiks in 3644 BBY and was absorbed into the hive-mind, but some members of the house were kept as prisoners, and the Killiks took over the Syrush estate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/3644_BBY",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Killik/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

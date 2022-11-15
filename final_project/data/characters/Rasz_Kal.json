@@ -1,0 +1,40 @@
+{
+ "name": "Rasz_Kal",
+ "display_name": "Rasz Kal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rasz Kal was a male Duros and a minor crime lord on Jyvus Space City, the largest city-ship in orbit over Duro. He once bought an hyperdrive motivator at Gorn's Emporium, but it malfunctioned and Rasz threatened Gorn Vorrox, the owner of the store.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Jyvus_Space_City",
+  "/wiki/City-ship/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Hyperdrive_motivator/Legends",
+  "/wiki/Gorn%27s_Emporium",
+  "/wiki/Gorn_Vorrox",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Hard_Bargain",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

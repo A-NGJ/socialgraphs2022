@@ -1,0 +1,47 @@
+{
+ "name": "Blik_(Tarsunt)",
+ "display_name": "Blik  (Tarsunt)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarsunt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified gladiatorial arena"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Blik was a male Tarsunt fight promoter at a gladiatorial arena where droids fought each other.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tarsunt",
+  "/wiki/Gender",
+  "/wiki/Unidentified_gladiatorial_arena",
+  "/wiki/Droid",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Blik_(Tarsunt)",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Always_Bet_on_Chop"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Suva-Rak",
+ "display_name": "Suva-Rak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suva-Rak was a male Voss Commando who lived on Voss during the Galactic War. He was stationed as a guard at the Pilgrim Retreat at the Old Paths, where he asked an off-worlder to cleanse the monuments on the road to the Shrine of Healing that were defiled by Gormak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Galactic_War",
+  "/wiki/Pilgrim_Retreat",
+  "/wiki/Old_Paths",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Gormak/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Squinn",
+ "display_name": "Squinn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squinn was a male Quarren and a captain who served in the Galactic Alliance Defense Fleet. He was the commander of the Galactic Voyager when the warship fought at the Battle of Gilatter VIII. At the time, the ship was acting as Admiral Cha Niathal's flagship during and after the engagement.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Alliance_Defense_Fleet",
+  "/wiki/Galactic_Voyager",
+  "/wiki/Battle_of_Gilatter_VIII",
+  "/wiki/Admiral/Legends",
+  "/wiki/Cha_Niathal",
+  "/wiki/Flagship/Legends",
+  "/wiki/Legacy_of_the_Force:_Exile"
+ ]
+}

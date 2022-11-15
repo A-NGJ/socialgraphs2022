@@ -1,0 +1,69 @@
+{
+ "name": "Wanbo",
+ "display_name": "Wanbo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Teth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wanbo was a male Hutt that led the Hutt Cartel on Teth in 40 BBY.. He operated out of a palace. Known for his stupidity and heavy spice habit, Wanbo acquired his position due to nepotism, and it was well-known that his human majordomo, Thurible, was truly in charge on Teth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Teth",
+  "/wiki/Hutt",
+  "/wiki/Gender",
+  "/wiki/Hutt_Clan",
+  "/wiki/40_BBY",
+  "/wiki/Hutt_palace_of_Teth",
+  "/wiki/Spice",
+  "/wiki/Human",
+  "/wiki/Majordomo",
+  "/wiki/Thurible",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wanbo",
+  "/wiki/Master_%26_Apprentice",
+  "/wiki/Master_%26_Apprentice_(audiobook)",
+  "/wiki/Skywalker:_A_Family_at_War",
+  "/wiki/Standard_year",
+  "/wiki/Invasion_of_Naboo",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/32_BBY"
+ ]
+}

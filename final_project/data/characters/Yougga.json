@@ -1,0 +1,41 @@
+{
+ "name": "Yougga",
+ "display_name": "Yougga",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yougga was a female Zabrak who lived during the waning years of the Galactic Republic.\nYougga lived on the planet Cularin and had the ambition to become Cularin's most notorious smuggler. To this end, she formed a smuggling organization. However, her employees were just as inexperienced as she was and they couldn't decide what to smuggle or from where they could obtain a starship. She and her employees visited the cantina Chasm the day after it was attacked by the Dark Jedi Raik Muun, as they wanted to be there in case something else interesting happened.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/The_Chasm",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Raik_Muun",
+  "/wiki/Force_Contention"
+ ]
+}

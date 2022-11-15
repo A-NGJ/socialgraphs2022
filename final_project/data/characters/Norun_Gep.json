@@ -1,0 +1,46 @@
+{
+ "name": "Norun_Gep",
+ "display_name": "Norun Gep",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Whiphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gep's Grill"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Norun Gep was the Whiphid co-owner of Gep's Grill at Mos Eisley. He met Fillin Ta, his partner, in jail when they were streeturchins. They remained friends even since.\nUsually the two Whiphids got the meat for their business from hunters, but when the hunts were bad, the local stables had been known to get a visit from two Whiphids. Besides running their grill, the Whiphids also ran a small smuggling business that hadn't gained the attention of Jabba the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gep%27s_Grill",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Fillin_Ta",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley"
+ ]
+}

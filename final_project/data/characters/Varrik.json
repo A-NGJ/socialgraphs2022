@@ -1,0 +1,38 @@
+{
+ "name": "Varrik",
+ "display_name": "Varrik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fenn's Landing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varrik was a grizzled Human mechanic who worked for Slerog Fenn at Gelgelar Free Port's Fenn's Landing .",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Fenn%27s_Landing",
+  "/wiki/Slerog_Fenn",
+  "/wiki/Gelgelar_Free_Port/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

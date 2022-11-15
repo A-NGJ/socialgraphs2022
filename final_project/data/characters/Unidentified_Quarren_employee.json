@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Quarren_employee",
+ "display_name": "Unidentified Quarren employee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Veterans' Mental Care Hospital"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 40 ABY, a female Quarren employee of the Veterans' Mental Care Hospital on Coruscant was possessed while on duty and asleep on the job by Dark Lady of the Sith Lumiya.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Veterans%27_Mental_Care_Hospital",
+  "/wiki/40_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Force_phantom",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Lumiya",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Quarren_employee",
+  "/wiki/Legacy_of_the_Force:_Exile"
+ ]
+}

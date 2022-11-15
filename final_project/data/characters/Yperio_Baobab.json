@@ -1,0 +1,63 @@
+{
+ "name": "Yperio_Baobab",
+ "display_name": "Yperio Baobab",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manda"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Baobab Merchant Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yperio Baobab was a male Human from Manda. A droid programmer by trade, he was considered to be the father of modern-day droidspeak by New Republic standards.\nA member of the prestigious merchant fleet-owning Baobab family, Yperio was a cyberphilologist who lived around 200 BBY. During his lifetime, he greatly expanded upon existing electronic code-based droid languages such as CBell-1, with the outcome being the ability for the automatons to recall and pass on many different types of sensory-gathered data to other droids and computers. The resulting language was referred to as Bab-Prime.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Manda/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baobab_Merchant_Fleet",
+  "/wiki/Droid/Legends",
+  "/wiki/Binary/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Baobab_family",
+  "/wiki/200_BBY/Legends",
+  "/wiki/CBell-1",
+  "/wiki/Computer/Legends",
+  "/wiki/Bab-Prime",
+  "/wiki/Galactic_Phrase_Book_%26_Travel_Guide_(real-life_book)"
+ ]
+}

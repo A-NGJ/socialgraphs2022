@@ -1,0 +1,53 @@
+{
+ "name": "Red-Eye_Dren",
+ "display_name": "Red-Eye Dren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Two cyborg eyes"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Red-Eye Dren was a male Sullustan that operated deep within the cantina district of the Kwenn Space Station as an infochant, or information broker, for criminal organizations. He had cybernetics, notably two red cyborg eyes that could change brightness. Dren believed that they were useful for negotiating, as it distracted his clients. As a broker of information, he had access to both the databases of the Galactic Empire and previous Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sullustan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Cyborg",
+  "/wiki/Eye",
+  "/wiki/Kwenn_Space_Station",
+  "/wiki/Information_broker",
+  "/wiki/Databank",
+  "/wiki/Galactic_Empire",
+  "/wiki/Galactic_Republic",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Red-Eye_Dren",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

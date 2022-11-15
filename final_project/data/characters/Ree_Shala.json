@@ -1,0 +1,63 @@
+{
+ "name": "Ree_Shala",
+ "display_name": "Ree Shala",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Smugglers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ree Shala was a female Twi'lek who worked the majority of her life as a smuggler. She began by running spice, but after many unsuccessful ventures she established an operation where she was responsible for setting up deals, while others ran the space lanes. Through her hard work she was able to create a mid-sized smuggling ring based out of the Corva sector.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Shala",
+  "/wiki/Ree_(disambiguation)",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Corva_sector/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Relic_(article)",
+  "/wiki/Star_Wars_Adventure_Journal_6",
+  "/wiki/Classic_Adventures:_Volume_Four_-_The_Best_of_the_Journal",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

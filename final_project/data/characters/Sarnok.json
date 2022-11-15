@@ -1,5 +1,6 @@
 {
  "name": "Sarnok",
+ "display_name": "Sarnok",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Sarnok was a Twi'lek male who, during the Cold War between the Galactic Republic and the reconstituted Sith Empire, sold starship upgrades on Nar Shaddaa.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

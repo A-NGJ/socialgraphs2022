@@ -1,0 +1,29 @@
+{
+ "name": "Tessalie",
+ "display_name": "Tessalie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Porg"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tessalie was one of several porgs that resided aboard the Millennium Falcon. Rose Tico named all of the porgs, including Tessalie.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Porg",
+  "/wiki/Millennium_Falcon",
+  "/wiki/Rose_Tico",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tessalie",
+  "/wiki/Spark_of_the_Resistance",
+  "/wiki/Spark_of_the_Resistance_(audiobook)"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Tazur_Pheron",
+ "display_name": "Tazur Pheron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Mecetti"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tazur Pheron was a fiercely loyal Mecetti Knight. He was the grand-nephew of Lord Leobund, the High Lord of Mecetti during the Imperial Period. He was a danger seeker who spent most of his time engaging in extreme sports or dueling.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Mecetti",
+  "/wiki/Bod%C3%A9_Leobund_XI",
+  "/wiki/High_Lord",
+  "/wiki/Imperial_Period",
+  "/wiki/West_End_Games",
+  "/wiki/The_Mecetti_File",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

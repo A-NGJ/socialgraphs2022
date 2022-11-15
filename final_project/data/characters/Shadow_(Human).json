@@ -1,0 +1,75 @@
+{
+ "name": "Shadow_(Human)",
+ "display_name": "Shadow  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Darth Vowrawn"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shadow was a male Human operative of the Sith Empire living during the Galactic War. Loyal to Darth Vowrawn of the Dark Council, Shadow worked with the Emperor's Wrath to stop Darth Baras's assassination attempts on his master during the Battle of Corellia. Shadow has learned that an agent of Baras was embedded in the Jedi Order itself, directing the Jedi against the Sith who posed a threat to Baras, but was unable to report on his name. When Shadow was pinned down by the enemy artillery, Vowrawn send Wrath to rescue him and Shadow was able to provide him with the location at which a group of Jedi, including the spy, had gathered. The Wrath proceeded to the location and successfully exposed Jedi Master Injaye as Baras' spy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Darth_Vowrawn",
+  "/wiki/Operative",
+  "/wiki/Galactic_War",
+  "/wiki/Dark_Council",
+  "/wiki/Empire%27s_Wrath",
+  "/wiki/Mission_to_Corellia_(Emperor%27s_Wrath)",
+  "/wiki/Darth_Baras",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Injaye",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

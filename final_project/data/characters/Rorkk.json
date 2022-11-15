@@ -1,5 +1,6 @@
 {
  "name": "Rorkk",
+ "display_name": "Rorkk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Rorkk was a Trandoshan mercenary who worked for Tagta the Hutt during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Trandoshan/Legends",

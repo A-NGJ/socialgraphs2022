@@ -1,0 +1,70 @@
+{
+ "name": "Yufwa",
+ "display_name": "Yufwa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yufwa was a male Gran senator who represented the interests of his homeworld, Malastare in the Galactic Senate of the Republic during the Clone Wars.\nAround 21 BBY, he proposed an amendment to the Galactic Constitution which was planned by Supreme Chancellor Palpatine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Galactic_Constitution/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Clone_Wars_Gambit:_Stealth",
+  "/wiki/Clone_Wars_Gambit:_Stealth_(audiobook)"
+ ]
+}

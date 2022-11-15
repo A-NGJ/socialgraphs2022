@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_Aurorient_Express_captain",
+ "display_name": "Unidentified Aurorient Express captain",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Aurorient Express"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Neimoidian captain captained Aurorient Express, a luxury liner owned by Clode Rhoden.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Aurorient_Express",
+  "/wiki/Luxury_liner/Legends",
+  "/wiki/Clode_Rhoden",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Aurorient_Express_captain",
+  "/wiki/Qui-Gon_and_Obi-Wan:_The_Aurorient_Express_1",
+  "/wiki/Qui-Gon_and_Obi-Wan:_The_Aurorient_Express_2"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Cura",
+ "display_name": "Cura",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Cura was a female Theran Listener adept whose dead body was, in 44 ABY, discovered by her fellow Therans with signs of what appeared to be torture.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nam_Chorios/Legends",

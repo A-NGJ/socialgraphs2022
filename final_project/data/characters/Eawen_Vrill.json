@@ -1,0 +1,46 @@
+{
+ "name": "Eawen_Vrill",
+ "display_name": "Eawen Vrill",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sälãi Käsi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eawen Vrill was a female Nautolan and the sister of Eaden Vrill. Like her brother, Eawen was also a member of Sälãi Käsi, a Teräs Käsi religious order. As of 2 BBY she was one of the two surviving members of this order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/S%C3%A4l%C3%A3i_K%C3%A4si",
+  "/wiki/Eaden_Vrill",
+  "/wiki/Ter%C3%A4s_K%C3%A4si/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Shadow_Games"
+ ]
+}

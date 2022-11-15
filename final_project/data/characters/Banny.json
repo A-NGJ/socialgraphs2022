@@ -1,5 +1,6 @@
 {
  "name": "Banny",
+ "display_name": "Banny",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Banny was a human male reporter on Lanz Carpo who interviewed District Advocate Dar Champion after he arrested three corrupt Red Carpo Guards.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

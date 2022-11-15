@@ -1,0 +1,57 @@
+{
+ "name": "Tannor_Nuum",
+ "display_name": "Tannor Nuum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY—9 ABY",
+      "Seikosha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Janelle Serap"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tannor Nuum was a Sullustan working for Janelle Serap on the planet Seikosha. Nuum was killed by Chiron Drebbick.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Seikosha/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Janelle_Serap",
+  "/wiki/Planet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Chiron_Drebbick",
+  "/wiki/West_End_Games",
+  "/wiki/Easy_Money",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Peller",
+ "display_name": "Peller",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Peller was a Sullustan male pilot who served in the Galactic Republic's Starfighter Corps during the third Galactic War. During the Invasion of Ossus, Peller led two squadrons of PT-7 starfighters, red group and blue group to defend the planet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullustan/Legends",

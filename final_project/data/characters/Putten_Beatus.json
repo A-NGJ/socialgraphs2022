@@ -1,0 +1,70 @@
+{
+ "name": "Putten_Beatus",
+ "display_name": "Putten Beatus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "29 BBY–25 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Putten Beatus was a near-Human female. She was an outcast who found work as a customs inspector at the Mos Eisley Spaceport. She was different from a normal Human by her gray skin and large ears. Because of her looks, she was known to attract quite a few stares.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/29_BBY/Legends",
+  "/wiki/25_BBY/Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Time/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Tatooine_Manhunt",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Reproduction/Legends",
+  "/wiki/Standard_year/Legends"
+ ]
+}

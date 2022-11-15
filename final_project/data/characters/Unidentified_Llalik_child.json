@@ -1,0 +1,60 @@
+{
+ "name": "Unidentified_Llalik_child",
+ "display_name": "Unidentified Llalik child",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Plavin 6"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The oldest son of Nash and Loran Llalik had two younger siblings: Nashiak, a boy, and Saren, a girl. All of them were born on Plavin 6.\nThis person, whose first name is unknown, joined the Rebel Alliance as an adult along with his sister. At that time, Nashiak joined COMPNOR.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Plavin_6",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Nash_Llalik",
+  "/wiki/Loran_Llalik",
+  "/wiki/Nashiak_Llalik",
+  "/wiki/Saren_Llalik",
+  "/wiki/Commission_for_the_Preservation_of_the_New_Order/Legends",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

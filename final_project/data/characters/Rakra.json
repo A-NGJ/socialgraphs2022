@@ -1,5 +1,6 @@
 {
  "name": "Rakra",
+ "display_name": "Rakra",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Rakra was the shaman of the Ewok tribe Panshee.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

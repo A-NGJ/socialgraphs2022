@@ -1,0 +1,47 @@
+{
+ "name": "Sherche_La_Plenn",
+ "display_name": "Sherche La Plenn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ubdurian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sherche La Plenn was an Ubdurian member of the Jedi Order who lived some two hundred years before the Drengir crisis. La Plenn served as the first marshal in the temple on Sag Kemper, and was also a famous artist. One of La Plenn's masterpieces was a huge tapestry depicting the battle between the Jedi and the Sith.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ubdurian",
+  "/wiki/Jedi_Order",
+  "/wiki/Unidentified_Devaronian_Jedi",
+  "/wiki/Cohmac_Vitus",
+  "/wiki/Standard_year",
+  "/wiki/Drengir_crisis",
+  "/wiki/Marshal",
+  "/wiki/Temple_on_Sag_Kemper",
+  "/wiki/Sag_Kemper",
+  "/wiki/Artist",
+  "/wiki/Unidentified_Jedi_tapestry",
+  "/wiki/Jedi",
+  "/wiki/Sith",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows"
+ ]
+}

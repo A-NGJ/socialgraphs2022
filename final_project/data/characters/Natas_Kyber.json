@@ -1,0 +1,79 @@
+{
+ "name": "Natas_Kyber",
+ "display_name": "Natas Kyber",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Troska"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kyber Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "King Natas Kyber was the ruler of the Imperial backwater world of Troska.\nAs head of the Kyber Royal Family, Natas often clashed with the local Imperial Garrison. Eventually, Imperial Lieutenant Treyz Manech hired an outside contracter, one Boba Fett to depose the local monarchy. Fett was successful, but left Natas alive, because of the size of the bribe he offered.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Troska",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kyber_Royal_Family",
+  "/wiki/King/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Treyz_Manech",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Boba_Fett:_Overkill",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

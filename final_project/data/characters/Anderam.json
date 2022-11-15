@@ -1,5 +1,6 @@
 {
  "name": "Anderam",
+ "display_name": "Anderam",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Captain Anderam was an Alderaanian male who, by 0 BBY, was in charge of Aldera's main spaceport.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Alderaan",

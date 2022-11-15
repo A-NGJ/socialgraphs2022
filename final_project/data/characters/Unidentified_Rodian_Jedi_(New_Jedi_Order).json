@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_Rodian_Jedi_(New_Jedi_Order)",
+ "display_name": "Unidentified Rodian Jedi  (New Jedi Order)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order",
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Rodian was trained as a Jedi in the New Jedi Order. During the Swarm War this individual was training to become a Jedi at the Ossus Academy. When Chiss Aristocra Chaf'orm'bintrano visited the academy, the apprentice was partaking in a game of Skorch. He may also have been the Rodian seen at the Conclave on Zonama Sekot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Jedi/Legends",
+  "/wiki/Swarm_War",
+  "/wiki/Jedi_Academy_(Ossus)",
+  "/wiki/Chiss/Legends",
+  "/wiki/Aristocra/Legends",
+  "/wiki/Chaf%27orm%27bintrano",
+  "/wiki/Skorch",
+  "/wiki/Conclave_on_Zonama_Sekot",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/Dark_Nest_I:_The_Joiner_King"
+ ]
+}

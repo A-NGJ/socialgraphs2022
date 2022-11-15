@@ -1,5 +1,6 @@
 {
  "name": "Selnia",
+ "display_name": "Selnia",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Selnia was a female Human gambler who was once found on the planet Kessel. She was once hired by a smuggler who owned a YT-1300 freighter and paid her 100 credits per day.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Lucas_Licensing",

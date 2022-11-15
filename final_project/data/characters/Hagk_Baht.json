@@ -1,0 +1,65 @@
+{
+ "name": "Hagk_Baht",
+ "display_name": "Hagk Baht",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Sometime ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hagk Baht was a Duros smuggler who owned and operated the Singing Savrip during the height of the Galactic Civil War.\nBaht attempted to smuggle blasters to agents of the Rebel agents on Tatooine aboard his ship, Singing Savrip. In the process, he narrowly avoided an Imperial customs blockade. An incredibly violent sandstorm at the rendezvous point, however, caused Baht to crash outside of Anchorhead. He was killed in the crash, but the fifty blaster rifles he was transporting remained intact.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galactic_Standard_Calendar",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Singing_Savrip",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Blaster_rifle/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/A_Night_at_Tosche_Station"
+ ]
+}

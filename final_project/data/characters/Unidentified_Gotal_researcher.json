@@ -1,0 +1,42 @@
+{
+ "name": "Unidentified_Gotal_researcher",
+ "display_name": "Unidentified Gotal researcher",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gotal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gotal scientist who worked on the Death Star.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gotal",
+  "/wiki/Galactic_Empire",
+  "/wiki/Galen_Walton_Erso",
+  "/wiki/Scientist",
+  "/wiki/DS-1_Death_Star_Mobile_Battle_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gotal_researcher",
+  "/wiki/Catalyst:_A_Rogue_One_Novel",
+  "/wiki/Catalyst:_A_Rogue_One_Novel_(audiobook)"
+ ]
+}

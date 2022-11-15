@@ -1,0 +1,63 @@
+{
+ "name": "Wink_Tasion",
+ "display_name": "Wink Tasion",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Garos Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wink Tasion was a Human male who worked for the Garos Resistance movement as a communications technician. He was a teacher at the University of Garos and a good friend of Alexandra Winger.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Committee_of_Seven_for_Garosian_Unification",
+  "/wiki/University_of_Garos",
+  "/wiki/Alexandra_Winger",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wink_Tasion",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Whispers_in_the_Dark",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/Rendezvous_with_Destiny",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

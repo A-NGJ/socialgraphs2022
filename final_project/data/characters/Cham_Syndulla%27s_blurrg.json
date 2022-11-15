@@ -1,0 +1,69 @@
+{
+ "name": "Cham_Syndulla%27s_blurrg",
+ "display_name": "Cham Syndulla's blurrg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Blurrg"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Twi'lek freedom fighters"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Cham Syndulla"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This blurrg resided on the planet Ryloth around 21 BBY during the Battle of Ryloth and was owned and ridden by the leader of the Twi'lek freedom fighters, Cham Syndulla.\nUnlike other Blurrgs, this one had white markings on its head and face. These marks may have been painted to indicate that the Blurrg belonged to the leader of the Twi'lek freedom fighters, Cham Syndulla.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Blurrg/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Twi%27lek_freedom_fighters",
+  "/wiki/Cham_Syndulla/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Battle_of_Ryloth/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Supply_Lines",
+  "/wiki/Liberty_on_Ryloth"
+ ]
+}

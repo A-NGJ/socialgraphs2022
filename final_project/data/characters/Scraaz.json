@@ -1,5 +1,6 @@
 {
  "name": "Scraaz",
+ "display_name": "Scraaz",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Scraaz was a Rodian male smuggler who betrayed the Exchange roughly ten years before the Galactic War. Once he got tired of running away, he hired a slicer who could triffle with the official records and help him fake his own death.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

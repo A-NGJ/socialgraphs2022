@@ -1,0 +1,60 @@
+{
+ "name": "Quasar%27s_messenger",
+ "display_name": "Quasar's messenger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male officer was stationed on a pleasure cruiser commanded by Captain Quasar before the outbreak of the Clone Wars. When four starships of the Merson pirates were spotted, Quasar sent the officer to retrieve Jedi Master Obi-Wan Kenobi to the bridge to take command, since Quasar, along with the officers and the crew, lacked combat experience. Thanks to the Jedi, the Merson ships were destroyed, saving everyone on board.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pleasure_cruiser",
+  "/wiki/Captain/Legends",
+  "/wiki/Quasar_(Human)",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Merson_pirates/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars_(1977)_24"
+ ]
+}

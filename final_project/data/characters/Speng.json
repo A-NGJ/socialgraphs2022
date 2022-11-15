@@ -1,0 +1,44 @@
+{
+ "name": "Speng",
+ "display_name": "Speng",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Speng was a Human male death stick dealer who operated the Umbra Club, a cantina and nightclub situated on the planet Coruscant. During the Galactic Civil War, Speng encountered a band of Pyke Syndicate operatives who had been hired to track down the errant Nikto bounty hunter Kaa'to Leeachos.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Death_stick/Legends",
+  "/wiki/Drug_dealer",
+  "/wiki/Umbra_Club",
+  "/wiki/Cantina/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Pyke_Syndicate/Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Kaa%27to_Leeachos",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Speng",
+  "/wiki/Under_a_Black_Sun"
+ ]
+}

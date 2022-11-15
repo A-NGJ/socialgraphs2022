@@ -1,0 +1,65 @@
+{
+ "name": "Varda",
+ "display_name": "Varda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3996 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Crusaders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varda was a female Human Mandalorian who fought during the Great Sith War. During the war, Varda fell in love with a captive Dorjander Kace and became pregnant with his child. Varda died in a Republic bombing raid led by a Jedi, her now grieving lover resumed his place in the Jedi Order after the end of the War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3996_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian_Crusaders",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Great_Sith_War/Legends",
+  "/wiki/Dorjander_Kace",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Varda",
+  "/wiki/Knights_of_the_Old_Republic:_War_3",
+  "/wiki/Knights_of_the_Old_Republic:_War_4",
+  "/wiki/Knights_of_the_Old_Republic:_War_5"
+ ]
+}

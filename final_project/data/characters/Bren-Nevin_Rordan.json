@@ -1,0 +1,82 @@
+{
+ "name": "Bren-Nevin_Rordan",
+ "display_name": "Bren-Nevin Rordan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kirima"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Intelligence Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bren-Nevin Rordan was a New Republic Intelligence Service agent. A native of Kirima, he joined the Alliance to Restore the Republic after the destruction of Alderaan, trained as an intelligence agent then returned to Kirima. His cover was as a successful galactic art dealer who ran Rordan's Galactic Exotic Art.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kirima/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Intelligence_Service",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Art_dealer",
+  "/wiki/Rordan%27s_Galactic_Exotic_Art",
+  "/wiki/West_End_Games",
+  "/wiki/Den_of_Spies",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

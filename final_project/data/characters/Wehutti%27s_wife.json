@@ -1,0 +1,66 @@
+{
+ "name": "Wehutti%27s_wife",
+ "display_name": "Wehutti's wife",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Prior to 44 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Melida"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wehutti's wife married Wehutti and had two children with him: a daughter, Cerasi, and a son. During the Melida/Daan Civil War, she was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Melida",
+  "/wiki/Gender/Legends",
+  "/wiki/Wehutti",
+  "/wiki/Cerasi",
+  "/wiki/Cerasi%27s_brother",
+  "/wiki/Melida/Daan_Civil_War",
+  "/wiki/Jedi_Apprentice:_The_Uncertain_Path"
+ ]
+}

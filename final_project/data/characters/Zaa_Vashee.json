@@ -1,0 +1,57 @@
+{
+ "name": "Zaa_Vashee",
+ "display_name": "Zaa Vashee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shili"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zaa Vashee was the Togruta princess of Shili during the Clone Wars.\nThe princess's identity was used by Padawan Ahsoka Tano during a mission on Zygerria.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars:_Slaves_of_the_Republic",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/The_Clone_Wars:_Season_Four",
+  "/wiki/Kidnapped",
+  "/wiki/Slaves_of_the_Republic",
+  "/wiki/Escape_from_Kadavo",
+  "/wiki/Canon",
+  "/wiki/Shili/Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Zygerria/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zaa_Vashee",
+  "/wiki/The_Clone_Wars_3"
+ ]
+}

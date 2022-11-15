@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Gungan_Youngling",
+ "display_name": "Unidentified Gungan Youngling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gungan youngling was stationed on the Galactic Society of Creature Enthusiasts' Youngling Care Space Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Gungan_(episode)",
+  "/wiki/Gungan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Society_of_Creature_Enthusiasts",
+  "/wiki/Youngling_Care_Space_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gungan_Youngling",
+  "/wiki/Star_Wars_Galactic_Pals",
+  "/wiki/StarWarsKids.com",
+  "/wiki/StarWars.com"
+ ]
+}

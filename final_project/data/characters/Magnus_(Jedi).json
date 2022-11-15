@@ -1,0 +1,70 @@
+{
+ "name": "Magnus_(Jedi)",
+ "display_name": "Magnus  (Jedi)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Magnus was a human male Jedi Consular who was dispatched by Grand Master Satele Shan as part of a strike team to secure the Allusis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Satele_Shan",
+  "/wiki/Allusis",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Magnus_(Jedi)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

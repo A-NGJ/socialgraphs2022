@@ -1,0 +1,37 @@
+{
+ "name": "Tosha",
+ "display_name": "Tosha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tosha was a male Devaronian. He was married to Kiela, but she had passed many years before. They had two daughters. Tosha conspired with fellow Devaronian Skerrit to transport a cargo of bandara to Devaron.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kiela_(Devaronian)",
+  "/wiki/Skerrit",
+  "/wiki/Bandara",
+  "/wiki/Devaron/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/A_Necessary_Evil",
+  "/wiki/Creatures_of_the_Galaxy"
+ ]
+}

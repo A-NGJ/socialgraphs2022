@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"net/url"
 	"os"
 	"sort"
 	"time"
@@ -62,7 +61,7 @@ func main() {
 				log.Printf("WARN: could not marshal %s\n", char.Name)
 				continue
 			}
-			err = os.WriteFile("data/"+url.QueryEscape(char.Name)+".json", charJson, 0644)
+			err = os.WriteFile("data/"+char.Name+".json", charJson, 0644)
 			if err != nil {
 				log.Printf("WARN: could not save %s.json", char.Name)
 			}
@@ -71,7 +70,7 @@ func main() {
 
 	pages = []scraper.Page{}
 	for _, char := range characters {
-		pages = append(pages, scraper.Page{Title: char.Name, Url: char.BaseUrl + char.Name})
+		pages = append(pages, scraper.Page{Title: char.Name, Url: char.BaseUrl + "/wiki/" + char.Name})
 	}
 
 	pagesJson, err := json.MarshalIndent(pages, "", " ")

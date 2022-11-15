@@ -1,5 +1,6 @@
 {
  "name": "Borgar",
+ "display_name": "Borgar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Borgar was a Gamorrean male guard who worked at the Santhe Shipyards on Corellia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Gamorrean",

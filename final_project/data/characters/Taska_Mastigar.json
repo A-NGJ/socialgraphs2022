@@ -1,0 +1,50 @@
+{
+ "name": "Taska_Mastigar",
+ "display_name": "Taska Mastigar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taska Mastigar was a Human female mercenary. She was originally born on the planet Coruscant, but later operated on Ord Gimmel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Ord_Gimmel/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taska_Mastigar",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Perlemian_Haul_(adventure)",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

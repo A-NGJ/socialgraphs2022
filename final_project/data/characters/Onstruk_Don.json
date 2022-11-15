@@ -1,0 +1,81 @@
+{
+ "name": "Onstruk_Don",
+ "display_name": "Onstruk Don",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Algara II"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Colonel Onstruk Don was the leader of the Imperial Resistance on Algara II during the early years of the New Republic.\nOnstruk Don was a Belligerent and grew disgusted with the rigid social system and the injustice shown to the Xan under the complicated social structure on Algara II. He managed to organize the Imperial Resistance against the Algarian Bureaucracy and their New Republic allies..\nOnstruk was a man of compassion with a hunger for justice. He was a brilliant tactician, and an expert in demolitions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Algara_II",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Imperial_Resistance",
+  "/wiki/Colonel/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/The_Belligerency",
+  "/wiki/Xan/Legends",
+  "/wiki/Algarian_Bureaucracy",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Two",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

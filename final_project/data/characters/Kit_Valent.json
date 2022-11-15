@@ -1,0 +1,88 @@
+{
+ "name": "Kit_Valent",
+ "display_name": "Kit Valent",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Huulia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Rogue Squadron",
+      "Rogue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kit Valent was a human male who served as a pilot in Rogue Squadron. During the Battle of Hoth, Valent was the gunner for Zev Senesca's T-47 airspeeder under the callsign Rogue Two. Valent and Senesca both died when their airspeeder was shot down.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kit_Valent",
+  "/wiki/Kit_Valent/Legends",
+  "/wiki/Valent_(disambiguation)",
+  "/wiki/Huulia",
+  "/wiki/3_ABY",
+  "/wiki/Hoth",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Rogue_Squadron",
+  "/wiki/Pilot",
+  "/wiki/Battle_of_Hoth",
+  "/wiki/Gunner",
+  "/wiki/Zev_Senesca",
+  "/wiki/T-47_airspeeder",
+  "/wiki/Callsign",
+  "/wiki/Rogue_Two",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kit_Valent",
+  "/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+  "/wiki/The_Empire_Strikes_Back:_So_You_Want_to_Be_a_Jedi%3F",
+  "/wiki/The_Empire_Strikes_Back:_So_You_Want_to_Be_a_Jedi%3F_(audiobook)",
+  "/wiki/Star_Wars:_The_Empire_Strikes_Back_(paperback_novel)",
+  "/wiki/Rogue_Two_(short_story)",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/Rendezvous_Point_(short_story)",
+  "/wiki/Star_Wars:_Complete_Locations_(2016)",
+  "/wiki/Star_Wars:_Battles_that_Changed_the_Galaxy",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

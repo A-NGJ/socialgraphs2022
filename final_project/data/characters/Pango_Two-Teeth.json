@@ -1,0 +1,69 @@
+{
+ "name": "Pango_Two-Teeth",
+ "display_name": "Pango Two-Teeth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "14 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Right arm"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Haxion Brood"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pango Two-Teeth was a male bounty hunter affiliated with the Haxion Brood crime syndicate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Bounty_hunter",
+  "/wiki/Chortose_(species)",
+  "/wiki/Pango",
+  "/wiki/14_BBY",
+  "/wiki/Humanoid",
+  "/wiki/Gender",
+  "/wiki/Limb",
+  "/wiki/Haxion_Brood",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pango_Two-Teeth",
+  "/wiki/Star_Wars_Jedi:_Fallen_Order",
+  "/wiki/Death",
+  "/wiki/Template:JFODate"
+ ]
+}

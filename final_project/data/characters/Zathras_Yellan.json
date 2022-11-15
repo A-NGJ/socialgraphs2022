@@ -1,0 +1,86 @@
+{
+ "name": "Zathras_Yellan",
+ "display_name": "Zathras Yellan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "Circa 30 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zathras Yellan was a male Human who served the Rebel Alliance during the Galactic Civil War. Yellan originally trained as a trooper in the the planetary defense force of his homeworld, but after received word that the force was to be drafted into the service of the Galactic Empire, Yellan deserted and eventually joined the Alliance. At some point after the destruction of the planet Alderaan, Yellan and a team of Rebel agents were dispatched by the Alliance to the planet Tazan, to destroy an Imperial Data Processing Facility that was located on the world. After arriving on Tazan, Yellan and the rest of the team rendezvoused with the Alliance sympathizer Willer Clines in Clines' house, in the Desander Section of Tazan City. However, their conversation with Clines was secretly monitored by a group of stormtroopers and once the stormtroopers believed that Rebels had revealed all that they would about their mission, the stormtroopers entered Clines' lounge and attacked Yellan and the rest of the Rebels. The agents escaped and eventually infiltrated the Data Processing Facility, where they extracted some Imperial TIE Fighter communications protocols and then blew up the structure.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/30_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Trooper/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Mission_to_Tazan",
+  "/wiki/Tazan",
+  "/wiki/Imperial_Data_Processing_Facility",
+  "/wiki/Willer_Clines",
+  "/wiki/Willer_Clines%27_House",
+  "/wiki/Desander_Section",
+  "/wiki/Tazan_City",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Ultimate_Core_Dump",
+  "/wiki/0_BBY/Legends",
+  "/wiki/The_New_Essential_Chronology"
+ ]
+}

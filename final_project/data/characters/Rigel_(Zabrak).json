@@ -1,0 +1,67 @@
+{
+ "name": "Rigel_(Zabrak)",
+ "display_name": "Rigel  (Zabrak)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rigel was a Zabrak male who was a Director within the Republic Strategic Information Service. Stationed on Republic warship Gav Daragon, he recruited Republic-allied individuals to put a stop to Directive 7, the droid revolution started by the droid known as Mentor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Director/Legends",
+  "/wiki/Gav_Daragon_(Valor-class)",
+  "/wiki/Directive_7",
+  "/wiki/Droid/Legends",
+  "/wiki/Mentor",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

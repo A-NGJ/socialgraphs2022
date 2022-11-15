@@ -1,0 +1,51 @@
+{
+ "name": "Surdu",
+ "display_name": "Surdu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Surdu was a male Dug from Malastare and statesman of the Black Shred Water clan. He was an ancestor of the podracer pilot Sebulba.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Podracer/Legends",
+  "/wiki/Sebulba/Legends",
+  "/wiki/The_New_Essential_Guide_to_Characters"
+ ]
+}

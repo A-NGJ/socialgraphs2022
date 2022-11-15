@@ -1,0 +1,87 @@
+{
+ "name": "Marg_Sonat",
+ "display_name": "Marg Sonat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "74 BBY—69 BBY",
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.9 meters"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sard Nightbringer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marg Sonat was a male Ithorian gangster working for crime lord Sard Nightbringer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/74_BBY",
+  "/wiki/69_BBY/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Sard_Nightbringer",
+  "/wiki/Gangster/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Marg_Sonat",
+  "/wiki/West_End_Games",
+  "/wiki/The_Art_of_Betrayal",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures",
+  "/wiki/4_ABY/Legends",
+  "/wiki/9_ABY/Legends"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Reicovis",
+ "display_name": "Reicovis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Reicovis was a Human male residing on Nar Shaddaa during the Cold War and working as a vendor of exclusive goods.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

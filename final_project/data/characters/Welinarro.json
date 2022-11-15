@@ -1,0 +1,51 @@
+{
+ "name": "Welinarro",
+ "display_name": "Welinarro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Welinarro was a male Rodian who worked as the squadron commander of a small starfighter contingent of Nwarcol Point.\nHe was a former Rebel Y-wing pilot and the son of Grisserno, the hero of the Battle of Denab.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Nwarcol_Point",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Grisserno",
+  "/wiki/Battle_of_Denab",
+  "/wiki/West_End_Games",
+  "/wiki/Running_the_Sisar",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Aemont_Sillib",
+ "display_name": "Aemont Sillib",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Muunilinst"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Muun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "InterGalactic Banking Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aemont Sillib was a Muun that served the InterGalactic Banking Clan as a loan officer during the early years of the New Order. He worked diligently to change his position in the social and economic hierarchy of Muunilinst. Born into a low-level clan, Sillib was first employed to oversee a south polar mine-spire. His skills with diplomacy and tact earned him regular promotions, until he was named a loan officer and assigned an office in Harnaidan. Sillib hoped one day to become chairman of the IGBC and was determined to make this dream a reality.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Muunilinst/Legends",
+  "/wiki/Muun/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/InterGalactic_Banking_Clan/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Mine-spire",
+  "/wiki/Harnaidan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aemont_Sillib",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

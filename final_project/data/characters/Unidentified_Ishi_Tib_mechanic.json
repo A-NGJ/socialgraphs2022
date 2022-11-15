@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Ishi_Tib_mechanic",
+ "display_name": "Unidentified Ishi Tib mechanic",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ishi Tib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Teemto Pagalies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unidentified Ishi Tib worked as a mechanic for the podracer Teemto Pagalies. He was present at the Boonta Eve Classic in 32 BBY and worked on Teemto's pod there.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ishi_Tib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Teemto_Pagalies/Legends",
+  "/wiki/Podracer_(profession)/Legends",
+  "/wiki/Boonta_Eve_Classic/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ishi_Tib_mechanic",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Star_Wars:_Episode_I_Insider%27s_Guide"
+ ]
+}

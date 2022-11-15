@@ -1,5 +1,6 @@
 {
  "name": "Sallat",
+ "display_name": "Sallat",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Sallat was an Ugnaught who lived in Ugnaught Town on Bespin during the Galactic Civil War. Sallat was a member of Lonaste's clan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ugnaught",

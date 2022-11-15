@@ -1,0 +1,50 @@
+{
+ "name": "Hek_Dallan",
+ "display_name": "Hek Dallan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Stassia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hek Dallan was a Stassian crime lord. He recruited Aalia Duu-lang into his organization and was eventually usurped by her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Stassia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stassian",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Aalia_Duu-lang",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hek_Dallan",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Ringers",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

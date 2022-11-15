@@ -1,0 +1,48 @@
+{
+ "name": "Elav_Feen",
+ "display_name": "Elav Feen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Swirling Vortex"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elav Feen was a Twi'lek male who owned the popular spacer bar The Swirling Vortex.\nHe had a number of Corellian associates, who were being plagued by a group of pirates led by Jizal Taphan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Swirling_Vortex",
+  "/wiki/Corellian/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Jizal_Taphan",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Duros",
+  "/wiki/Star_Wars_Gamer_2"
+ ]
+}

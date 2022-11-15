@@ -1,0 +1,53 @@
+{
+ "name": "Solen_Kove",
+ "display_name": "Solen Kove",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cularin Trade AllianceDepartment of Merchant Safety and Security",
+      "Department of Merchant Safety and Security"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solen Kove was a Twi'lek who worked for the Cularin Trade Alliance as Director of the Department of Merchant Safety and Security. He was present on Dorumaa when Cyreno Taegon  hired some spacers to investigate the murder of Rysko Barnt, which the company President, Echari Di'San had been implicated in causing.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cularin_Trade_Alliance",
+  "/wiki/Department_of_Merchant_Safety_and_Security",
+  "/wiki/Director/Legends",
+  "/wiki/Dorumaa",
+  "/wiki/Cyreno_Taegon",
+  "/wiki/Vice_President/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Rysko_Barnt",
+  "/wiki/President/Legends",
+  "/wiki/Echari_Di%27San",
+  "/wiki/Plea_Bargain"
+ ]
+}

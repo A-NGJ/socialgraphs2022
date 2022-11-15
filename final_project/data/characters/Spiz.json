@@ -1,0 +1,68 @@
+{
+ "name": "Spiz",
+ "display_name": "Spiz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Spiz's hoodlums"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spiz was a young Human male. He was the leader of Spiz's hoodlums, a gang of young miscreants who terrorized the slums of Coruscant prior to the Clone Wars.\nIn 27 BBY, while they were harassing and trying to kill Brat, one of their frequent victims, for no reason, Spiz and his gang where scared off by a Force illusion of a rancor created by Jedi Master Yarael Poof.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spiz%27s_gang",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/27_BBY/Legends",
+  "/wiki/Brat",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Rancor/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Yarael_Poof/Legends",
+  "/wiki/Star_Wars:_Zam_Wesell"
+ ]
+}

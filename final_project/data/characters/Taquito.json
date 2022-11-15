@@ -1,0 +1,60 @@
+{
+ "name": "Taquito",
+ "display_name": "Taquito",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Sometime before the mission to Iego",
+      "over Iego"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taquito was a male Rodian pilot who lived during the last years of the Galactic Republic on the Outer Rim planet Iego. At some point during the Clone Wars, Iego was captured by the Confederacy of Independent Systems. Before leaving, the Separatists left a laser grid system over Iego that destroyed all ships that attempted to leave the planet. Taquito was one of the fifty pilots who tried to break through the grid, but his ship was destroyed, resulting in his death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Taquito",
+  "/wiki/Taquito/Legends",
+  "/wiki/Mission_to_Iego",
+  "/wiki/Iego",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Jaybo_Hood",
+  "/wiki/File:TaquitoFriendOfMine-MoaTM.ogg",
+  "/wiki/Pilot",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Republic",
+  "/wiki/Outer_Rim_Territories",
+  "/wiki/Planet",
+  "/wiki/Clone_Wars",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Laser_web",
+  "/wiki/Starship",
+  "/wiki/Death",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Mystery_of_a_Thousand_Moons"
+ ]
+}

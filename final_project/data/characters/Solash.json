@@ -1,0 +1,72 @@
+{
+ "name": "Solash",
+ "display_name": "Solash",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solash was a male Chiss lieutenant of the Hutt Cartel living during the Cold War. In 3643 BBY Eidolon, a former bounty hunter, whose company Eidolon Security was a competitor to the Cartel, became a target of the Great Hunt and Solash posted on the HoloNet a message from Karagga the Unyielding specifically requesting that he should be brought to the Hutt Cartel alive, instead of dead.\nSolash appears in Star Wars: The Old Republic during the Bounty Hunter class mission on the planet Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Eidolon",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Eidolon_Security",
+  "/wiki/Great_Hunt_(c._3643_BBY)",
+  "/wiki/HoloNet/Legends",
+  "/wiki/Karagga",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Planet/Legends",
+  "/wiki/Nar_Shaddaa/Legends"
+ ]
+}

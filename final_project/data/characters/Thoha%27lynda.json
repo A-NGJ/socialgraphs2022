@@ -1,0 +1,47 @@
+{
+ "name": "Thoha%27lynda",
+ "display_name": "Thoha'lynda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thoha'lynda was a Twi'lek merchant. He created leather goods from the hides of rycrits and sold them in the bazaar in Kala'uun.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Leather/Legends",
+  "/wiki/Rycrit/Legends",
+  "/wiki/Kala%27uun/Legends",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

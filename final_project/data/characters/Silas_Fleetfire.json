@@ -1,0 +1,65 @@
+{
+ "name": "Silas_Fleetfire",
+ "display_name": "Silas Fleetfire",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Alliance",
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Silas Fleetfire was a female Rattataki merchant who lived during the war against Zakuul. On Darvannis, she helped assist the Mandalorian clans and the Outlander with the supplies she brought with her to the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Silas",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender",
+  "/wiki/Color/Legends",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/War_against_Zakuul",
+  "/wiki/Darvannis",
+  "/wiki/Alliance_Commander",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Swarton",
+ "display_name": "Swarton",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swarton was a human female captain who served the First Order. At some point, she was stationed on the Resurgent-class Star Destroyer Steadfast.\nSwarton was capable of piloting an AT-ST.\nSwarton wore the typical uniform of the First Order military.\nSwarton appeared in the 2022 video game LEGO Star Wars: The Skywalker Saga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/Captain",
+  "/wiki/Resurgent-class_Star_Destroyer",
+  "/wiki/Steadfast_(Resurgent-class)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Swarton",
+  "/wiki/First_Order_All_Terrain_Scout_Transport",
+  "/wiki/First_Order_military_uniforms",
+  "/wiki/First_Order_military",
+  "/wiki/2022",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga",
+  "/wiki/LEGO"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Thespar_Trode",
+ "display_name": "Thespar Trode",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ishi Tib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thespar Trode was a female Ishi Tib astrophysicist and a friend of Danni Quee's.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ishi_Tib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Astrophysicist",
+  "/wiki/Danni_Quee",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thespar_Trode",
+  "/wiki/The_New_Jedi_Order:_Destiny%27s_Way"
+ ]
+}

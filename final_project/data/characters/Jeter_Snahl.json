@@ -1,0 +1,58 @@
+{
+ "name": "Jeter_Snahl",
+ "display_name": "Jeter Snahl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bunduki"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Followers of Palawa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jeter Snahl was a member of the Followers of Palawa. A hermit, Snahl resided on Bunduki, where he guarded the secrets of the Way of the Warrior.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bunduki/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Followers_of_Palawa",
+  "/wiki/Way_of_the_Warrior",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jeter_Snahl",
+  "/wiki/The_Clone_Wars:_The_Way_of_the_Warrior"
+ ]
+}

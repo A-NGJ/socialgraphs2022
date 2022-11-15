@@ -1,0 +1,62 @@
+{
+ "name": "Xeshen_Kra",
+ "display_name": "Xeshen Kra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vratix"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xeshen Kra was a Vratix involved with the production of bacta during the Yuuzhan Vong War. Shortly after the Battle of Yag'Dhul, he helped expose a Yuuzhan Vong infiltrator on Thyferra.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Vratix/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Battle_of_Yag%27Dhul_(26_ABY)",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Xeshen_Kra",
+  "/wiki/Emissary_of_the_Void"
+ ]
+}

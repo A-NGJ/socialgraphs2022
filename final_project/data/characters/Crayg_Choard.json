@@ -1,0 +1,61 @@
+{
+ "name": "Crayg_Choard",
+ "display_name": "Crayg Choard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shelkonwa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crayg Choard was the son of Governor Barshnis Choard.\nAs a teenager, he and his cousin Saberan Marcross would sneak around Makrin City at night and go to clubs and cantinas. For this purpose, Crayg showed Saberan how to access the governor's emergency exit from the palace.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shelkonwa",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Saberan_Marcross",
+  "/wiki/Governor/Legends",
+  "/wiki/Barshnis_Choard",
+  "/wiki/Makrin_City",
+  "/wiki/Cantina/Legends",
+  "/wiki/Allegiance_(novel)",
+  "/wiki/Allegiance_(audiobook)"
+ ]
+}

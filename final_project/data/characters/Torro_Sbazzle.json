@@ -1,0 +1,57 @@
+{
+ "name": "Torro_Sbazzle",
+ "display_name": "Torro Sbazzle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torro Sbazzle was a Devaronian female Executive Chef who worked for Baron Administrator Lando Calrissian of Cloud City. Calrissian requested that Sbazzle cook for Darth Vader when the Sith Lord visited the city.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Devaronian",
+  "/wiki/Chef",
+  "/wiki/Toro_Calican",
+  "/wiki/Human",
+  "/wiki/Bounty_hunter",
+  "/wiki/Devaron",
+  "/wiki/Gender",
+  "/wiki/Executive_Chef",
+  "/wiki/Baron_Administrator",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Cloud_City",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Dark_Lord_of_the_Sith",
+  "/wiki/City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Torro_Sbazzle",
+  "/wiki/But_What_Does_He_Eat%3F",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

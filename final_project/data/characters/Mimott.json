@@ -1,5 +1,6 @@
 {
  "name": "Mimott",
+ "display_name": "Mimott",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Dame Mimott was a Garwian female who designed clothing for remembrance parties. Mimott operated a sewing machine to create elaborate historical costumes of the Garwian culture.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Garwian",

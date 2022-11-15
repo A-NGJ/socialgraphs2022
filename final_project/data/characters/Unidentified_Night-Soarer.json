@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_Night-Soarer",
+ "display_name": "Unidentified Night-Soarer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Night-Soarer"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Franchise"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3963 BBY, this Night-Soarer competed in the semi-final round of the Tandem Open. They were eliminated from the competition when \"Spikes\" and Goethar Kleej simultaneously fired their blasters at the Night-Soarer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Night-Soarer",
+  "/wiki/Franchise",
+  "/wiki/3963_BBY",
+  "/wiki/Tandem_Open",
+  "/wiki/Demagol",
+  "/wiki/Goethar_Kleej",
+  "/wiki/Blaster/Legends",
+  "/wiki/Knights_of_the_Old_Republic_40"
+ ]
+}

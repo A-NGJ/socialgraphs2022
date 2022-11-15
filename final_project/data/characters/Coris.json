@@ -1,5 +1,6 @@
 {
  "name": "Coris",
+ "display_name": "Coris",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Coris was an acolyte in the Korriban Sith Academy during the Cold War. He ventured into the Tomb of Naga Sadow along with acolytes Jonos and Kolbrun. Though his fellow acolytes made it out alive, Coris perished there.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

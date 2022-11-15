@@ -1,0 +1,72 @@
+{
+ "name": "Gorga_Brak",
+ "display_name": "Gorga Brak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3626 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Clan Varad"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorga Brak was a Human male Mandalorian warrior of Clan Varad who lived during the third Galactic War.\nIn 3626 BBY, Gorga Brak and other members of Clan Varad joined in on an attack on the Mandalorian ship the Spirit of Vengeance II alongside the Ash'ad and the Dar'manda at the behest of Heta Kol. There he encountered the Alliance Commander and Rass Ordo, who he engaged in combat. The fight ended with his death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3626_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Varad",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Spirit_of_Vengeance_II",
+  "/wiki/Ash%27ad",
+  "/wiki/Dar%27manda",
+  "/wiki/Heta_Kol",
+  "/wiki/Alliance_Commander",
+  "/wiki/Rass_Ordo",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

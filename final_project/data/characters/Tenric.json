@@ -1,0 +1,73 @@
+{
+ "name": "Tenric",
+ "display_name": "Tenric",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "30 BBY—25 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Tenric was a security inspector assigned to the Rantine Space Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/30_BBY/Legends",
+  "/wiki/25_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/The_Art_of_Betrayal",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Inspector/Legends",
+  "/wiki/Rantine_Space_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tenric",
+  "/wiki/West_End_Games",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures",
+  "/wiki/4_ABY/Legends",
+  "/wiki/9_ABY/Legends"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Ussor",
+ "display_name": "Ussor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ganath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ganathan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Robida Colossus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Ussor was the Ganathan commander of the Robida Colossus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ganath",
+  "/wiki/Ganathan",
+  "/wiki/Robida_Colossus",
+  "/wiki/Captain/Legends",
+  "/wiki/Dark_Empire_II_5",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Tystel",
+ "display_name": "Tystel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange and black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Data Seekers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Tystel was a female Zabrak and a member of the Data Seekers, an underground group who tried to unravel the mysteries of the Anoat sector. She posed as a mercenary who liked to run assaults on the Galactic Empire for both profit and sport. At some point during the Iron Blockade of the Anoat sector, imposed by Imperial Governor Ubrik Adelhard, she offered a mission to a young smuggler.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Zabrak",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Data_Seekers",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Captain",
+  "/wiki/Anoat_sector",
+  "/wiki/Mercenary",
+  "/wiki/Galactic_Empire",
+  "/wiki/Iron_Blockade",
+  "/wiki/Governor",
+  "/wiki/Ubrik_Adelhard",
+  "/wiki/The_Smuggler",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tystel",
+  "/wiki/The_Art_of_Star_Wars:_Uprising"
+ ]
+}

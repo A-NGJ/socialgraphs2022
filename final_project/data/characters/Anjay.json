@@ -1,5 +1,6 @@
 {
  "name": "Anjay",
+ "display_name": "Anjay",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Anjay was a human female officer who served in the armed forces of the First Order during its war against the Resistance. During that time, she was part of the 709th Legion and was among those deployed to Batuu to search for Resistance spies.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

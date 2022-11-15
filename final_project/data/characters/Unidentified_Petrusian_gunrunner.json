@@ -1,0 +1,27 @@
+{
+ "name": "Unidentified_Petrusian_gunrunner",
+ "display_name": "Unidentified Petrusian gunrunner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Petrusian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a Petrusian gunrunner who agreed to take Corovene Manakor to the planet Lysatra.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Petrusian",
+  "/wiki/Corovene_Manakor",
+  "/wiki/Lysatra",
+  "/wiki/Fake_It_Till_You_Make_It",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

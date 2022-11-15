@@ -1,5 +1,6 @@
 {
  "name": "Naia",
+ "display_name": "Naia",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Naia was a native of Solem during the Galactic Civil War, and part of a resistance movement against the planetary Governor, Malvander Bren.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Solem",

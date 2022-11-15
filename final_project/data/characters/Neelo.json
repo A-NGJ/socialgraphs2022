@@ -1,5 +1,6 @@
 {
  "name": "Neelo",
+ "display_name": "Neelo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Neelo was a Togruta male that resided in Black Spire Outpost on Batuu. He and the human Fawn were musicians, and occasionally played at Oga Garra's cantina.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Togruta",

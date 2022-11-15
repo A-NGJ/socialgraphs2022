@@ -1,0 +1,65 @@
+{
+ "name": "Zosh_Vexonuk",
+ "display_name": "Zosh Vexonuk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Genarius"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blood Raptors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zosh Vexonuk was a male Human from the planet Genarius who lived during the waning years of the Galactic Republic. In 21 BBY, he was a member of the Blood Raptors gang and during the time of the Clone Wars, he represented the Raptors in the Cularin Classic swoop race, flying a Bespin Motors JR-4 swoop.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Genarius",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blood_Raptors",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cularin_Classic",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Bespin_Motors/Legends",
+  "/wiki/JR-4_swoop/Legends",
+  "/wiki/Cloak_and_Vibroblade"
+ ]
+}

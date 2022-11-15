@@ -1,0 +1,46 @@
+{
+ "name": "TK-5861",
+ "display_name": "TK-5861",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Stormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-5861 was a human stormtrooper of the Galactic Empire. As such, the trooper was equipped with the standard armor and weapon of the Stormtrooper Corps.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Stormtrooper_Corps",
+  "/wiki/Stormtrooper",
+  "/wiki/Trooper",
+  "/wiki/Stormtrooper_armor",
+  "/wiki/E-11_medium_blaster_rifle",
+  "/wiki/Solo:_A_Star_Wars_Story",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

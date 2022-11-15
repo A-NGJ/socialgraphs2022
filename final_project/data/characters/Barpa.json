@@ -1,5 +1,6 @@
 {
  "name": "Barpa",
+ "display_name": "Barpa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Barpa was a Besalisk male veteran who was a good friend of Lando Calrissian.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Besalisk",

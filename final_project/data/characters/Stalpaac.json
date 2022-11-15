@@ -1,0 +1,42 @@
+{
+ "name": "Stalpaac",
+ "display_name": "Stalpaac",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stalpaac was a Wookiee elder of legend on Kashyyyk. Legend stated that Stalpaac saved Urothko from a Graaa'shad, at the risk of Stalpaac's own life. Urothko responded to Stalpaac's rescue by swearing the first life debt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Urothko",
+  "/wiki/Graaa%27shad",
+  "/wiki/Life_debt/Legends",
+  "/wiki/The_Last_Command_Sourcebook",
+  "/wiki/The_Thrawn_Trilogy_Sourcebook",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_12"
+ ]
+}

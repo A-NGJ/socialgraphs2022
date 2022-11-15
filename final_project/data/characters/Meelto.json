@@ -1,5 +1,6 @@
 {
  "name": "Meelto",
+ "display_name": "Meelto",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Meelto was a famous Rodian gunfighter. He was outfought and killed by the Tiss'shar assassin Uul-Rha-Shan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

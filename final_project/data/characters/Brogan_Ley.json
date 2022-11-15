@@ -1,0 +1,48 @@
+{
+ "name": "Brogan_Ley",
+ "display_name": "Brogan Ley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tampson Consolidated",
+      "Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brogan Ley was a male Human ambitious Tapani commoner who was a high-ranking executive in TamCo by the time he was only thirty-two years of age.\nLey was educated at the Mrlsst Trade and Science Academy. He was charismatic, opportunistic, intelligence and a gifted public speaker. In business he was ruthless and obsessed with the bottom line. He was very manipulative and cared nothing for the people he had to step on to achieve his business and personal goals. He was intent on gaining legitimacy in the eyes of House Mecetti nobles and planned to marry a noble woman to achieve this goal.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tampson_Consolidated,_Incorporated",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Mrlsst_Trade_and_Science_Academy",
+  "/wiki/House_Mecetti",
+  "/wiki/Marriage/Legends",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Weylin-Po",
+ "display_name": "Weylin-Po",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Weylin-Po was a female Voss Adjudicator living on Voss during the Galactic War. Around 3640 BBY she presided over a hearing between Republic General Thelonia Redrish, Imperial Ambassador Methias Yoran and Hunter.\nWeylin-Po appears in Star Wars: The Old Republic during a Bounty Hunter class mission on Voss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Adjudicators",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Thelonia_Redrish",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Methias_Yoran",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

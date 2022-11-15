@@ -1,0 +1,52 @@
+{
+ "name": "Teeko",
+ "display_name": "Teeko",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teeko was a male Rodian. Along with Teeku, he was one of the uncles of Greedo, a bounty hunter active during the Imperial Period.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Greedo/Legends",
+  "/wiki/Teeko_Soonca",
+  "/wiki/Rodian/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Teeko",
+  "/wiki/Rodia/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Teeku",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Imperial_Period",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

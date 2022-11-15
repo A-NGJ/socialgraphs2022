@@ -1,0 +1,46 @@
+{
+ "name": "S%27Ten_Gali_Ak%27Ar",
+ "display_name": "S'Ten Gali Ak'Ar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Goroth Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gorothite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "S'Ten Gali Ak'Ar was the Gorothite leader of the Gor'Jen'Ar resistance movement on Goroth Prime. A philosopher by nature, she became a warrior and politician in exile to lead the Gor'Jen'Ar resistance movement. Relying on false identities, S'Ten Gali Ak'Ar lived among the people of Graith.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Goroth_Prime",
+  "/wiki/Gorothite",
+  "/wiki/Gender/Legends",
+  "/wiki/Gor%27Jen%27Ar",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Graith",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

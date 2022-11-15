@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_gundark",
+ "display_name": "Unidentified gundark",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vanqor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gundark"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 22 BBY, Anakin Skywalker and Obi-Wan Kenobi dueled this gundark on Vanqor, after Skywalker lost his lightsaber to Count Dooku and Kenobi's was damaged. It was trapped in the a cave by Ahsoka Tano and the members of the 501st Legion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vanqor/Legends",
+  "/wiki/Gundark/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Count/Legends",
+  "/wiki/Dooku/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/501st_Legion/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Dooku_Captured",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

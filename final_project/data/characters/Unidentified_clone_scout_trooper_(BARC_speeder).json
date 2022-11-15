@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_clone_scout_trooper_(BARC_speeder)",
+ "display_name": "Unidentified clone scout trooper  (BARC speeder)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicFaie's battle group",
+      "Faie's battle group"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A clone scout trooper served as part of a battle group under the leadership of Clone Commander Faie and utilized a BARC speeder during the group's search for Quinlan Vos as per Order 66. The trooper was Force pushed by Vos off his speeder. Vos then hijacked the speeder in his attempt to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Faie%27s_battle_group",
+  "/wiki/Clone_trooper_commander",
+  "/wiki/Faie/Legends",
+  "/wiki/BARC_speeder/Legends",
+  "/wiki/Quinlan_Vos/Legends",
+  "/wiki/Order_66/Legends",
+  "/wiki/Telekinesis/Legends",
+  "/wiki/Republic_82"
+ ]
+}

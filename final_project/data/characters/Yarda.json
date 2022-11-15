@@ -1,0 +1,77 @@
+{
+ "name": "Yarda",
+ "display_name": "Yarda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Solem"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Solem"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified Solem species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarda was a native of the planet Solem during the Galactic Civil War, and part of a resistance movement against the planetary Governor, Malvander Bren. He was killed by Boba Fett while trying to protect his leader, Yolan Bren.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Solem",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Unidentified_Solem_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Malvander_Bren",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Yolan_Bren",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarda",
+  "/wiki/Empire_7"
+ ]
+}

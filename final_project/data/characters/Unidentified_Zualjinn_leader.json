@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Zualjinn_leader",
+ "display_name": "Unidentified Zualjinn leader",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zualjinn Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A humanoid male individual served as a leader in the Zualjinn Syndicate. On the planet Quintil, the leader and a group of Zualjinn soldiers attempted to find Tomasso, a member of the rival Spice Runners of Kijimi who had killed the syndicate's high commander. New Spice Runner Poe Dameron attempted to trick the leader, but he and his associates were captured.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Humanoid",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Zualjinn_Syndicate",
+  "/wiki/Planet",
+  "/wiki/Quintil",
+  "/wiki/Soldier",
+  "/wiki/Tomasso",
+  "/wiki/Spice_Runners_of_Kijimi",
+  "/wiki/Death",
+  "/wiki/Unidentified_Zualjinn_high_commander",
+  "/wiki/Poe_Dameron",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Zualjinn_leader",
+  "/wiki/Poe_Dameron:_Free_Fall",
+  "/wiki/Poe_Dameron:_Free_Fall_(audiobook)"
+ ]
+}

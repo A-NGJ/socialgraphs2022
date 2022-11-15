@@ -1,0 +1,64 @@
+{
+ "name": "Wo_Kasto",
+ "display_name": "Wo Kasto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selkath"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Manaan Special Warfare Group"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wo Kasto was a Selkath male who was a Captain of the Manaan Special Warfare Group.\nCaptain Kasto was handpicked to join the Manaan Special Warfare Group by its founder, Colonel Wen Gallo. Kasto was the product of a long line of scientists and researchers, while the majority of Selkath who enlisted came from highly-respected military legacies.\nAgainst everyone's predictions, Kasto quickly proved himself. He attained the rank of Captain in record time, thanks to his inquiring mind, no-nonsense disposition, and refusal to accept failure-all of which he attributed to being raised in a science-rich environment.\nAfter the Galactic Republic helped the Manaan Special Warfare Group repel an invasion by the Sith Empire, Captain Kasto was elected to represent the organization in negotiating an alliance with the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wen_(disambiguation)",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Manaan/Legends",
+  "/wiki/Selkath/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Manaan_Special_Warfare_Group",
+  "/wiki/Captain/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Wen_Gallo",
+  "/wiki/Scientist/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Legacy_of_the_Sith"
+ ]
+}

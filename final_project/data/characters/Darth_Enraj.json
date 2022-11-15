@@ -1,0 +1,86 @@
+{
+ "name": "Darth_Enraj",
+ "display_name": "Darth Enraj",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Korriban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Sith Order",
+      "Sith Order"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Razer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darth Enraj was a Human male Sith Lord of the resurgent Sith Empire, the master of Razer, and an ally of Darth Thanaton. He was stationed to guard the Dark Council chamber on Korriban to bar any intrusions during Thanaton's appeal, specifically interruption from Lord Kallig. Enraj strongly believed that he and his apprentices would be able to kill the politically-inept Sith Lord where Thanaton could not, but failed and ultimately fell to Kallig.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Korriban",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Order_(Sith_Empire)",
+  "/wiki/Razer",
+  "/wiki/Darth_Nox",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth_Thanaton",
+  "/wiki/Dark_Council",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Standard_year/Legends"
+ ]
+}

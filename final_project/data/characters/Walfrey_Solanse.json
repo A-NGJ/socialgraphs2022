@@ -1,0 +1,62 @@
+{
+ "name": "Walfrey_Solanse",
+ "display_name": "Walfrey Solanse",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nothoiin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Golden"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Noble Court"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Walfrey Solanse was a Nothoiin male who lived in the Anoat sector during the reign of the Galactic Empire.\nA member of the sector's Noble Court-in-exile, Solanse sold high end crystals at the time of the Imperial Iron Blockade.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nothoiin_(species)",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Noble_Court",
+  "/wiki/Anoat_sector",
+  "/wiki/Imperial_Era",
+  "/wiki/Galactic_Empire",
+  "/wiki/Sector",
+  "/wiki/Crystal",
+  "/wiki/Iron_Blockade",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

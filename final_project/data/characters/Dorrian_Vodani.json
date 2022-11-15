@@ -1,0 +1,60 @@
+{
+ "name": "Dorrian_Vodani",
+ "display_name": "Dorrian Vodani",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dressellian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.2 meters tall"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicArdan resistance",
+      "Ardan resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dorrian Vodani was a Dressellian Rebel pilot who flew a Z-95-AF4 Headhunter while escaping the Arda I Rebel base during the Battle of the Gauntlet. He was the commander of Rust Squadron.\nDorrian Vodani is a quiet and introspective, and likes to read old texts written by corrimias, a Philosopher who Dorrian honored and lived by his teachings. unfortunately, his quiet and antisocial personality makes him a big suspect of being a traitor to the Ardan resistance. Eventually he is ruled out of being a traitor because he shares his philosophies of peace and equality with his peers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dressellian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Ardan_resistance",
+  "/wiki/Pilot/Legends",
+  "/wiki/Z-95-AF4_Headhunter/Legends",
+  "/wiki/Arda_I_Rebel_base",
+  "/wiki/Battle_of_the_Gauntlet_(Galactic_Civil_War)",
+  "/wiki/Squadron_Leader",
+  "/wiki/Rust_Squadron",
+  "/wiki/Corrimias",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

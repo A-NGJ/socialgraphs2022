@@ -1,0 +1,58 @@
+{
+ "name": "Ema_Slake",
+ "display_name": "Ema Slake",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Oseon 5631"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Albingi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Copper"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ema Slake was a copper-skinned Albingi female who lived on Oseon 5631, known throughout the Centrality for her massive music collection, which was said to contain over twenty-five percent of the known music in the galaxy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Oseon_5631",
+  "/wiki/Albingi",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Centrality/Legends",
+  "/wiki/Music/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/A_Campaign_Guide_to_the_Centrality",
+  "/wiki/Star_Wars_Gamer_5",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Xim_Week:_The_Despotica",
+  "/wiki/StarWars.com"
+ ]
+}

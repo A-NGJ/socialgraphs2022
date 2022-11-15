@@ -1,0 +1,71 @@
+{
+ "name": "Athadar_Gyad",
+ "display_name": "Athadar Gyad",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance",
+      "Reconstruction Authority",
+      "Reconstruction Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Athadar Gyad was a female Human. After Jaina Solo, Lowbacca, and Tesar Sebatyne arrested the Yaka pirate Redstar aboard his ship, the Night Lady, in 35 ABY, she was the Reconstruction Authority inquisitor who tried the case on the maximum security space station MaxSec Eight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Reconstruction_Authority",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Lowbacca",
+  "/wiki/Tesar_Sebatyne",
+  "/wiki/Yaka",
+  "/wiki/Pirate/Legends",
+  "/wiki/Redstar",
+  "/wiki/Starship/Legends",
+  "/wiki/Night_Lady",
+  "/wiki/35_ABY/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/MaxSec_Eight",
+  "/wiki/Dark_Nest_I:_The_Joiner_King",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

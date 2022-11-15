@@ -1,0 +1,62 @@
+{
+ "name": "Vinto",
+ "display_name": "Vinto",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mynnic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vinto was a green male Rodian scoundrel and a member of Mynnic's band of adventurers around 32 BBY. He wore goggles, a flashy cape, and many pockets in which he hid weapons and treasures.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mynnic",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Goggles/Legends",
+  "/wiki/Cape/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vinto",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Survival_Strategies:_Combat_Tactics_for_the_Star_Wars_Roleplaying_Game",
+  "/wiki/Star_Wars_Gamer_6"
+ ]
+}

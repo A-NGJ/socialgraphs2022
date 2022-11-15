@@ -1,5 +1,6 @@
 {
  "name": "Malthorn",
+ "display_name": "Malthorn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Malthorn was a Human publicity agent employed by Alexis Cov-Prim. He also worked as bounty hunter to fund some of Alexis' dealings.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,71 @@
+{
+ "name": "Jurnel_Arrant",
+ "display_name": "Jurnel Arrant",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "82 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lommite Limited"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jurnel Arrant was a Human male from Corellia, serving as a the executive officer of Lommite Limited around the time of the Invasion of Naboo. Secretly, Darth Sidious manipulated events to put Lommite Limited out of business and allow the Trade Federation to take their mines.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/82_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lommite_Limited",
+  "/wiki/Executive_officer/Legends",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jurnel_Arrant",
+  "/wiki/Darth_Maul:_Saboteur",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

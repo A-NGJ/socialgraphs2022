@@ -1,0 +1,66 @@
+{
+ "name": "Nicos_Fate",
+ "display_name": "Nicos Fate",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 22 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "X'Ting"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brother Nicos Fate was a male X'Ting from Ord Cestus where he was descended from 500 years of hive healers. A loyal supporter to the Galactic Republic, he participated in the Mission to Ord Cestus where he assisted in healing wounded clone troopers and later killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/X%27Ting",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Mission_to_Ord_Cestus",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

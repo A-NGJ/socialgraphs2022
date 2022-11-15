@@ -1,5 +1,6 @@
 {
  "name": "Padric",
+ "display_name": "Padric",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Padric was a bearded male human who worked as an Amaxine warrior in 28 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

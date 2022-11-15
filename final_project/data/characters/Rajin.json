@@ -1,5 +1,6 @@
 {
  "name": "Rajin",
+ "display_name": "Rajin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Rajin was a miner who worked in Cloud City on the gas giant Bespin. Around the time the Galactic Empire occupied the planet, his son was born. He was also a bad jazz musician.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Twi%27lek",

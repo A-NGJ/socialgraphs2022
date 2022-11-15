@@ -1,5 +1,6 @@
 {
  "name": "Gurun",
+ "display_name": "Gurun",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Gurun was a Rodian swoop technician met by Meetra Surik on Nar Shaddaa. He enjoyed the view of the city.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nar_Shaddaa/Legends",

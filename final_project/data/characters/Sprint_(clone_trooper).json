@@ -1,0 +1,74 @@
+{
+ "name": "Sprint_(clone_trooper)",
+ "display_name": "Sprint  (clone trooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic104th Battalion",
+      "Grand Army of the Republic104th Battalion",
+      "104th Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Sprint\" was the nickname of a clone snowtrooper serving in the Grand Army of the Republic during the Clone Wars.\nCold assault trooper \"Sprint\" served in the Skirmish on Carlac along with a Jedi General, Clone Commander CC-3636, and other members of the 104th Battalion. He and a squad of troopers were stationed outside the wreckage of a crashed Munificent-class star frigate, attempting to find a way inside.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/104th_Battalion/Legends",
+  "/wiki/Clone_cold_assault_trooper/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Skirmish_on_Carlac",
+  "/wiki/Unidentified_Jedi_Knight_(Clone_Wars)",
+  "/wiki/Clone_trooper_commander",
+  "/wiki/CC-3636",
+  "/wiki/Munificent-class_star_frigate/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

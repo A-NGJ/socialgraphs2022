@@ -1,0 +1,43 @@
+{
+ "name": "Tiss",
+ "display_name": "Tiss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiss was a Togruta male who served as an ambassador for his species during the High Republic Era. Despite the distant relationship the Togrutas had with the Galactic Republic, Ambassador Tiss attended the Republic Fair on the planet Valo, accompanying Regasa Elarec Yovet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Togruta",
+  "/wiki/Gender",
+  "/wiki/Ambassador",
+  "/wiki/Species",
+  "/wiki/High_Republic_Era",
+  "/wiki/Galactic_Republic",
+  "/wiki/Republic_Fair",
+  "/wiki/Planet",
+  "/wiki/Valo",
+  "/wiki/Regasa",
+  "/wiki/Elarec_Yovet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tiss",
+  "/wiki/The_High_Republic:_The_Rising_Storm",
+  "/wiki/The_High_Republic:_The_Rising_Storm_(audiobook)"
+ ]
+}

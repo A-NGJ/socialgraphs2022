@@ -1,0 +1,89 @@
+{
+ "name": "Unidentified_Handmaiden_1",
+ "display_name": "Unidentified Handmaiden 1",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Raxus Secundus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark green/Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems",
+      "Mina Bonteri",
+      "Mina Bonteri"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This handmaiden was present on a spaceport on the planet Raxus Secundus around 21 BBY during the events of the Clone Wars.\nShe and another handmaiden worked for Separatist Mina Bonteri and helped Padawan Ahsoka Tano and Senator Padmé Amidala get past the droid controls by distracting the droid's attention. She was later seen traveling with Bonteri to her house.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Raxus_Secundus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Mina_Bonteri/Legends",
+  "/wiki/Unidentified_Raxus_Secundus_spaceport",
+  "/wiki/Planet/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Padm%C3%A9_Amidala/Legends",
+  "/wiki/B1-Series_battle_droid",
+  "/wiki/Mina_Bonteri%27s_house/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Heroes_on_Both_Sides"
+ ]
+}

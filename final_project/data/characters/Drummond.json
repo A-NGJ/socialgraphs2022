@@ -1,5 +1,6 @@
 {
  "name": "Drummond",
+ "display_name": "Drummond",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Major Drummond was the warden of prison Alpha TR-8 on the planet Rordak. He had previously served in the political detention wards on the planet Chromovon.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

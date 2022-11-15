@@ -1,0 +1,70 @@
+{
+ "name": "Daggibus_Scoritoles",
+ "display_name": "Daggibus Scoritoles",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yag'Dhul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Givin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Daggibus Scoritoles was a male Givin senator who represented the planet Yag'Dhul in the Galactic Senate.\nIn 22 BBY, just before the start of the Clone Wars, he and his people joined the Confederacy of Independent Systems.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yag%27Dhul/Legends",
+  "/wiki/Givin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Daggibus_Scoritoles",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_53",
+  "/wiki/HoloNet_News_Vol._531_54",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/CIS_Shadowfeed_Dispatch_15:01:15_Edition",
+  "/wiki/Star_Wars_Insider_73"
+ ]
+}

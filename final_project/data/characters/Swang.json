@@ -1,0 +1,60 @@
+{
+ "name": "Swang",
+ "display_name": "Swang",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Swang's Swoopers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swang was the leader of a swoop gang that operated in Mos Eisley around the time of the Battle of Endor. He usually wore a red tunic and black pants.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Swang%27s_Swoopers",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Passage_From_Perdition",
+  "/wiki/Mos_Eisley_Adventure_Set",
+  "/wiki/A_Line_in_the_Sand..."
+ ]
+}

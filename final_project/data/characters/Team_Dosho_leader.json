@@ -1,0 +1,61 @@
+{
+ "name": "Team_Dosho_leader",
+ "display_name": "Team Dosho leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "20 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorga Desilijic Aarrpo",
+      "Team Dosho",
+      "Team Dosho"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the ambush of the Goldskin Parade, this Trandoshan mercenary served as the leader of Team Dosho, a team of elite Trandoshan mercenaries under the employment of Gorga Desilijic Aarrpo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gorga_Desilijic_Aarrpo/Legends",
+  "/wiki/Team_Dosho",
+  "/wiki/The_Runaway_Ride",
+  "/wiki/Ambush_of_the_Goldskin_Parade",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.50"
+ ]
+}

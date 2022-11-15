@@ -1,5 +1,6 @@
 {
  "name": "Mianda",
+ "display_name": "Mianda",
  "side_bars": [
   {
    "name": "Physical description",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "Major Mianda was the commander of a TIE squadron assigned to defend the Second Death Star during construction. The Major hand picked pilots to serve with him. He piloted Scythe 1 during the Battle of Endor, and pursued Rebel starfighters in the Death Star's corridors.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

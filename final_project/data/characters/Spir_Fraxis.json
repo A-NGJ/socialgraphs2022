@@ -1,0 +1,54 @@
+{
+ "name": "Spir_Fraxis",
+ "display_name": "Spir Fraxis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bandin Dobah"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spir Fraxis was a human male smuggler in the band of the Aqualish Bandin Dobah in the period following the Battle of Yavin during the Galactic Civil War. He had a quarrel with a group of spacers when he tried to dredge Zukata, a female Rodian. He was later killed by the same group when they succeeded to release R4-W9, an R4-series agromech droid stole by Bandin Dobah.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bandin_Dobah",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Zukata",
+  "/wiki/Rodian/Legends",
+  "/wiki/R4-W9",
+  "/wiki/R4-series_agromech_droid",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Trouble_Brewing",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook"
+ ]
+}

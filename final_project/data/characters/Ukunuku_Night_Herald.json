@@ -1,0 +1,62 @@
+{
+ "name": "Ukunuku_Night_Herald",
+ "display_name": "Ukunuku Night Herald",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Killik"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ukunuku"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ukunuku Night Herald was a Killik that held the position of Night Herald within the Ukunuku nest on the planet Alderaan during the Cold War. The Killik was killed in the Lanthanide mine in the Juran Mountains.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Killik/Legends",
+  "/wiki/Ukunuku",
+  "/wiki/Night_Herald",
+  "/wiki/Planet/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Death/Legends",
+  "/wiki/Lanthanide_mine",
+  "/wiki/Juran_Mountains/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

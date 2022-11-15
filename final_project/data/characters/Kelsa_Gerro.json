@@ -1,0 +1,84 @@
+{
+ "name": "Kelsa_Gerro",
+ "display_name": "Kelsa Gerro",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3641 BBY",
+      "Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Military",
+      "Republic Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelsa Gerro was a Human female officer who served the Galactic Republic during the Galactic War.\nDuring the Sith Empire's assault on Belsavis, the Condemned, descendants of the planet's prisoners, launch an assault on the Republic command center. Kelsa was present when Warden Playt was killed in the assault. After the attack was repelled, Assistant Warden Graal was promoted to acting warden.\nKelsa then joined a Republic strike team in retaking a power generator from the Condemned before returning to base. The strike team then proceeded to infiltrate a cavern occupied by both the Condemned and Imperials to uncover their plans. Eventually, the strike team reported that that the Condemned intended to use a neural disruptor to render the guards at the command center helpless. With this intel, Kelsa was able to negate its effects, but wouldn't hold the enemies for long. When the Condemned stormed the command center, Kelsa was killed in the onslaught.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3641_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Condemned",
+  "/wiki/Playt",
+  "/wiki/Graal_(Warden)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_Zygerrian_auctioneer",
+ "display_name": "Unidentified Zygerrian auctioneer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygerrian Slave Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Zygerrian worked as the auctioneer for the Zygerrian Slave Empire's Royal Slave Auction in 20 BBY, at which he introduced the enslaved Togruta from the Kiros system to the crowd.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_Zygerrian_auctioneer",
+  "/wiki/Unidentified_Zygerrian_auctioneer/Legends",
+  "/wiki/Zygerrian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Zygerrian_Slave_Empire",
+  "/wiki/Royal_Slave_Auction",
+  "/wiki/20_BBY",
+  "/wiki/Slavery",
+  "/wiki/Togruta",
+  "/wiki/Kiros_system",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Zygerrian_auctioneer",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Slaves_of_the_Republic",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/Battle_of_Mon_Cala",
+  "/wiki/Skirmish_in_Theed",
+  "/wiki/%27ABY-BBY%27_dating_system"
+ ]
+}

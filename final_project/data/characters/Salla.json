@@ -1,5 +1,6 @@
 {
  "name": "Salla",
+ "display_name": "Salla",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Salla was a female Jenet, and the Chief Assistant of Chief of State Cal Omas.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Salla_Zend",

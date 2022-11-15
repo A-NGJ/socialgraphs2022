@@ -1,0 +1,59 @@
+{
+ "name": "Syla",
+ "display_name": "Syla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Syla was a female Human daughter of Tyvar and Chiana living on Makeb during the Galactic War. Her father was a former Imperial Intelligence agent and during the Conquest of Makeb Captain Hanthor of the Sith Empire was forced to send a retrieval team for Tyvar and his family, relocating them to Dromund Kaas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tyvar",
+  "/wiki/Chiana",
+  "/wiki/Makeb",
+  "/wiki/Galactic_War",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/Captain/Legends",
+  "/wiki/Hanthor",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

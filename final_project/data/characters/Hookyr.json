@@ -1,5 +1,6 @@
 {
  "name": "Hookyr",
+ "display_name": "Hookyr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Captain Hookyr was the Hiromi commander of the Kuratcha during Operation: Glorious Destiny. After the planned invasion of Zeltros failed, he suggested a new policy of peaceful coexistence for the Hiromi Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hiromi",

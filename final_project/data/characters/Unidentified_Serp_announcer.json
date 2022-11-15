@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Serp_announcer",
+ "display_name": "Unidentified Serp announcer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Serphidi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Serp"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Serp male announcer declared the opening of the Doom-Jousts on the planet Serphidi during the Galactic Civil War. The Serp announced that the only Serp to challenge the King S'Shah was a Serp by the name of Elglih.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Serphidi/Legends",
+  "/wiki/Serp",
+  "/wiki/Gender/Legends",
+  "/wiki/Doom-Joust/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/King/Legends",
+  "/wiki/S%27Shah",
+  "/wiki/Elglih",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Serp_announcer",
+  "/wiki/Star_Wars_(1977)_64"
+ ]
+}

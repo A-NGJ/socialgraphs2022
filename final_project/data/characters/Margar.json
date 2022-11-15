@@ -1,5 +1,6 @@
 {
  "name": "Margar",
+ "display_name": "Margar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Margar was an Aqualish illegal arms dealer in Iziz starport on Onderon whom Meetra Surik met, while searching for Kavar.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Quara/Legends",

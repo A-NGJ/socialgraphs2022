@@ -1,0 +1,83 @@
+{
+ "name": "Vekarr",
+ "display_name": "Vekarr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond'"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vekarr was a Human male who held the rank of lieutenant in the Imperial Military of the resurgent Sith Empire during the Galactic War. In 3642 BBY he was stationed on Balmorra and tasked with overseeing the Gorinth Brig prison. When the Brig was infiltrated by a Republic citizen looking to free Doctor Otak'or Meln and Doctor Ortis, Vekarr and his men attacked the intruder, but were defeated.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Gorinth_Brig",
+  "/wiki/Doctor/Legends",
+  "/wiki/Otak%27or_Meln",
+  "/wiki/Ortis"
+ ]
+}

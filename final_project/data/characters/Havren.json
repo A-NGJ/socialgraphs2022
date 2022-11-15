@@ -1,5 +1,6 @@
 {
  "name": "Havren",
+ "display_name": "Havren",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Havren was a Human male aide to the Galactic Republic Ambassador Sophia Farash on Voss.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

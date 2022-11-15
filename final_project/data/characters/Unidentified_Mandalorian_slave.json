@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Mandalorian_slave",
+ "display_name": "Unidentified Mandalorian slave",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Mandalorian slave was enslaved in the City of Bone on the planet Mandalore. During a lunch break, this slave began to complain about the poor quality of the food being served. While eating out of a trough, he claimed that he couldn't eat the food because something in it was still alive. The Imperial slaver, Alph, who was overseeing the slaves eat, decided to torture the slave for his complaint, and he forced the Mandalorian's face into the muck. As the Mandalorian struggled to breathe, another Imperial guard reminded Alph that dead slaves increased overhead. Alph reluctantly let the slave take a breath, and jeeringly called him a \"grubber\" for eating too much.\nDuring the revolt in the city, and the destruction of the power source to the slaves energy links, the slave was freed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Alph_(guard)",
+  "/wiki/Slavery/Legends",
+  "/wiki/City_of_Bone",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Grubber",
+  "/wiki/Battle_of_the_City_of_Bone",
+  "/wiki/Energy_cuffs",
+  "/wiki/Star_Wars_(1977)_69"
+ ]
+}

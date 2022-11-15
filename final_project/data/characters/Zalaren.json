@@ -1,0 +1,62 @@
+{
+ "name": "Zalaren",
+ "display_name": "Zalaren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zalaren was a male Duros doctor living during the Cold War. In 3643 BBY he was on Taris, working as a researcher on the Galactic Republic-backed Project Quell, designed to study the weaknesses of the Rakghouls. When a power surge shut down the security in the facility located in Tularan Marsh, the rakghouls burst out and attacked the scientists. Zalaren managed to hide until the reinforcements arrived and was the only survivor of the incident in the lab.\nDoctor Zalaren appears in Star Wars: The Old Republic during the heroic mission \"Rakghoul Release\" on Taris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Project_Quell",
+  "/wiki/Rakghoul",
+  "/wiki/Tularan_Marsh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

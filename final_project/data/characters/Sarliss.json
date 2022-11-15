@@ -1,5 +1,6 @@
 {
  "name": "Sarliss",
+ "display_name": "Sarliss",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sarliss was a male Gran member of the Alliance to Restore the Republic. After a mission in which three other members of the Alliance were captured, Sarliss became increasingly withdrawn.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gran/Legends",

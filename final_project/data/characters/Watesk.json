@@ -1,0 +1,63 @@
+{
+ "name": "Watesk",
+ "display_name": "Watesk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Watesk was a male Human who served as the governor of the planet Viamarr 4 during the Galactic Civil War.\nShortly after the Bacta War, Watesk entered into an agreement with Warlord Zsinj where Viamarr 4 would provide one-tenth of supplies equivalent to their exports in exchange for protection. They would also provide information regarding their dealings with the New Republic and the other warlords. And besides it all, a piece of land was to be given to Zsinj under an assumed name.\nWhen Night Caller, which was commandeered by Wraith Squadron, paid a visit to the planet, Watesk unintentionally revealed all his dealings to a disguised Garik Loran.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gray",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Garik_Loran",
+  "/wiki/Governor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Viamarr_4",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Bacta_War",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Ession_Strike",
+  "/wiki/Wraith_Squadron",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

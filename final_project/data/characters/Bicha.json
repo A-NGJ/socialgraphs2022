@@ -1,5 +1,6 @@
 {
  "name": "Bicha",
+ "display_name": "Bicha",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Bicha was a Melida from the planet Melida/Daan. Bicha and Tiraca were the parents of their daughter, Pinani. Both parents died in a march on their town by the Daan sometime prior to the Battle of Bin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Melida/Daan",

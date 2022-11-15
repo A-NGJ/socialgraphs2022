@@ -1,0 +1,46 @@
+{
+ "name": "Nad_Baron",
+ "display_name": "Nad Baron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Comet Busters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nad Baron was a male Human, who lived during the waning years of the Galactic Republic.\nBaron ran Comet Busters, a company that specialized in destroying comets that strayed into the \"safe lanes\" that were used for pasage through the Cularin comet cloud, in the Cularin system. He was rumored to have had some shady dealings in his past.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Comet_Busters",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cularin_comet_cloud",
+  "/wiki/Cularin_system",
+  "/wiki/At_Your_Service"
+ ]
+}

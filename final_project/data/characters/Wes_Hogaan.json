@@ -1,0 +1,50 @@
+{
+ "name": "Wes_Hogaan",
+ "display_name": "Wes Hogaan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wes Hogaan was a farmhand working at the Tanner Ranch in the Western Dune Sea on the planet Tatooine. Wes was married to Dana and they had a daughter, Minda. The Hogaans were forced to relocate to Wayfar in the face of a marauding force of Tusken Raiders.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tanner_Ranch",
+  "/wiki/Western_Dune_Sea/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dana_Hogaan",
+  "/wiki/Minda_Hogaan",
+  "/wiki/Wayfar",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Galaxy_Guide_1:_A_New_Hope_(Second_Edition)"
+ ]
+}

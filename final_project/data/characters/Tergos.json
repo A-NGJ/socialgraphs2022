@@ -1,0 +1,67 @@
+{
+ "name": "Tergos",
+ "display_name": "Tergos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "InterStellar Regulators",
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tergos was a male Human Vice-Commandant of the InterStellar Regulators during the Galactic War. He was among those who were bought off by the Hutt Cartel prior to the Conquest of Makeb. However, as the planet came dangerously close to destruction, Regulators found less and less reasons to remain on the surface. Tergos and the others were paid extra by the Archon Szajin to stay, even as most of the civilian and Republic forces were evacuated. Szajin promised to prove that Makeb was stabilized, but was confronted and defeated by the Imperial hero who worked with Katha Niar to save the planet. The Imperial then let Tergos and the others go under the condition that they kept quiet about what happened.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/InterStellar_Regulators",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Vice-Commandant",
+  "/wiki/Galactic_War",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/Planet/Legends",
+  "/wiki/Archon_(Hutt)",
+  "/wiki/Szajin",
+  "/wiki/Katha_Niar",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Makeb"
+ ]
+}

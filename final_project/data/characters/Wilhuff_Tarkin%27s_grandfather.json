@@ -1,0 +1,61 @@
+{
+ "name": "Wilhuff_Tarkin%27s_grandfather",
+ "display_name": "Wilhuff Tarkin's grandfather",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Eriadu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tarkin family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male human was the grandfather of Grand Moff Wilhuff Tarkin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Eriadu",
+  "/wiki/Human",
+  "/wiki/Eriaduan",
+  "/wiki/Gender",
+  "/wiki/Tarkin_family",
+  "/wiki/Grand_Moff",
+  "/wiki/Wilhuff_Tarkin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wilhuff_Tarkin%27s_grandfather",
+  "/wiki/Tarkin_(novel)",
+  "/wiki/Tarkin_(audiobook)"
+ ]
+}

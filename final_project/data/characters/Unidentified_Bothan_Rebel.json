@@ -1,0 +1,69 @@
+{
+ "name": "Unidentified_Bothan_Rebel",
+ "display_name": "Unidentified Bothan Rebel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Bothan Rebel was a member of the Rebel Alliance team sent to investigate Gobindi. The Galactic Empire soon put the world under lockdown as it tested the influenza necrosi virus, declaring the reason for the lockdown to be piracy. The Empire discovered the Rebel agents' presence, and declared them to be wanted as pirates.\nAfter a Rodian member of the team was arrested, Wedge Antilles, the Bothan, and a Human confederate confronted Tash Arranda, asking for her help in escaping the planet. While they spoke, the Human Rebel was attacked by a blob creature carrying influenza necrosi. Though the Bothan and Antilles pulled the blob off, he was infected, and soon collapsed. Antilles and the Bothan took him back to their safe house.\nThey then observed Tash Arranda's brother Zak Arranda and droid DV-9 descend one of the ziggurats on which the city of Mah Dala was built. They followed, and were able to provide help when Zak Arranda and the droid were attacked by blobs. Surrounded, they were looking for a way out when Tash Arranda and Mammon Hoole, the Arrandas' guardian, emerged from the ziggurate. A Shi'ido shapeshifter, Hoole transformed into a mammoth frog and leaped the others to safety atop the ziggurat. Doctor Kavafi, an ally of Hoole, was able to engineer a cure to the virus, and the whole group escaped Gobindi in Hoole's ship Shroud.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Gobindi",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Influenza_necrosi",
+  "/wiki/Pirate/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Unidentified_Rodian_Rebel",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Unidentified_Human_Rebel",
+  "/wiki/Tash_Arranda/Legends",
+  "/wiki/Blob",
+  "/wiki/Zak_Arranda/Legends",
+  "/wiki/DV-9",
+  "/wiki/Mah_Dala",
+  "/wiki/Mammon_Hoole",
+  "/wiki/Shi%27ido",
+  "/wiki/Mammoth_frog",
+  "/wiki/Doctor/Legends",
+  "/wiki/Kavafi",
+  "/wiki/Shroud_(starship)",
+  "/wiki/Galaxy_of_Fear:_Planet_Plague"
+ ]
+}

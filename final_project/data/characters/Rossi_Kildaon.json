@@ -1,0 +1,48 @@
+{
+ "name": "Rossi_Kildaon",
+ "display_name": "Rossi Kildaon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Distraction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rossi Kildaon was a Human female who was a double for Tzeel, a member of the band Distraction. She was escorted off the ship Sleemo Poya Jeedai by Xydge as part of a security ploy to protect the band.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Distraction",
+  "/wiki/Tzeel",
+  "/wiki/Starship/Legends",
+  "/wiki/Sleemo_Poya_Jeedai",
+  "/wiki/Xydge",
+  "/wiki/Wizards.com",
+  "/wiki/With_the_Band"
+ ]
+}

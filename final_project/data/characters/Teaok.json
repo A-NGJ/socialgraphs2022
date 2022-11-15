@@ -1,0 +1,57 @@
+{
+ "name": "Teaok",
+ "display_name": "Teaok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems",
+      "Confederacy military",
+      "Confederacy military",
+      "Brenal's Breakers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Teaok\" was the name assumed by a male human warrior who served in the Separatist Alliance during the Clone Wars against the Galactic Republic. The warrior was part of an elite unit that shot down Jedi General Weren Dal over the planet Dathomir towards the end of the war. After the war, he took on the name \"General Teaok\" and became leader of the Brenal's Breakers mercenary.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Confederacy_military",
+  "/wiki/Soldier",
+  "/wiki/Clone_Wars",
+  "/wiki/Galactic_Republic",
+  "/wiki/Jedi_General",
+  "/wiki/Weren_Dal",
+  "/wiki/Planet",
+  "/wiki/Dathomir",
+  "/wiki/Mercenary",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teaok",
+  "/wiki/Savage_Spirits"
+ ]
+}

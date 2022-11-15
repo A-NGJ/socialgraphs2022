@@ -1,0 +1,62 @@
+{
+ "name": "Tritos_Nal",
+ "display_name": "Tritos Nal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Korriz"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tritos Nal was a humanoid Sith Lord of the old Sith Empire.\nNal was a master of Sith magic and proficient in the art of Sith alchemy. He based the majority of his work in his workshop on Korriz. Tritos was a loyal friend of the Sith Lord Garu, and he used his skills to craft a powerful Sith sword for him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal",
+  "/wiki/Korriz",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Sith_magic",
+  "/wiki/Sith_alchemy/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Garu",
+  "/wiki/Sith_sword",
+  "/wiki/The_Dark_Side_Sourcebook"
+ ]
+}

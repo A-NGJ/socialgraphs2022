@@ -1,0 +1,54 @@
+{
+ "name": "Viv",
+ "display_name": "Viv",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viv was a Sullustan technician assigned to the Rendezvous Point 4 base on Edan II. He supervised the modifications to the light freighter Vindicator into a torpedo bomber for use against the Imperial-class Star Destroyer Havoc.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/In-universe",
+  "/wiki/Viv_Tanner",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Rendezvous_Point_4",
+  "/wiki/Edan_II/Legends",
+  "/wiki/Light_freighter/Legends",
+  "/wiki/Vindicator_(light_freighter)",
+  "/wiki/Torpedo/Legends",
+  "/wiki/Bomber/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Havoc_(Imperial-class)",
+  "/wiki/Introductory_Adventure_Game"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Trem_DeSelvaine",
+ "display_name": "Trem DeSelvaine",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Karflo Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Trem DeSelvaine was a scientist working for the Karflo Corporation. He had an attraction to Nela Pentase, who worked in the accounting department. Alongside several other researchers, DeSelvaine was tasked with studying a captured Polydroxol. DeSelvaine discovered that the creature—whom he nicknamed \"Polly\"— had mimetic capabilities and the fact it was an intelligent creature. Despite these revelations, DeSelvaine was ordered to terminate the creature by Administrator Renerdat using a toxin developed by Doctor Sera. Before DeSelvaine could administer the poison, he was killed by Polydroxol.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Karflo_Corporation/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Nela_Pentase",
+  "/wiki/Polydroxol",
+  "/wiki/Polly_(Polydroxol)",
+  "/wiki/Administrator/Legends",
+  "/wiki/Renerdat",
+  "/wiki/Poison/Legends",
+  "/wiki/Sera_(scientist)",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Shape-shifters",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

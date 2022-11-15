@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_Quarren_pilot",
+ "display_name": "Unidentified Quarren pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This pilot was a female Quarren who, at one point in her life, piloted A-wings. She served as a speeder pilot for Moff Drikl Lecersen in 43.5 ABY, during Operation Duusha. During the operation, she bore an identicard that matched that of one of the Mon Calamari Embassy's employees.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Pilot/Legends",
+  "/wiki/RZ-1_A-wing_interceptor/Legends",
+  "/wiki/Speeder/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Drikl_Lecersen",
+  "/wiki/43_ABY",
+  "/wiki/Operation_Duusha",
+  "/wiki/Identicard/Legends",
+  "/wiki/Mon_Calamari_Embassy",
+  "/wiki/Fate_of_the_Jedi:_Backlash",
+  "/wiki/Fate_of_the_Jedi:_Backlash_(audiobook)"
+ ]
+}

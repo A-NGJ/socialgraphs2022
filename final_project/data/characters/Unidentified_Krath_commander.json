@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Krath_commander",
+ "display_name": "Unidentified Krath commander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krath",
+      "Brotherhood of the Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Krath military officer served as Aleema Keto's attaché during the Krath's invasion of Coruscant in the Great Sith War. He was the the officer who relayed Keto's orders to Mandalore the Indomitable to withdraw his troops from that battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Krath/Legends",
+  "/wiki/Brotherhood_of_the_Sith",
+  "/wiki/Aleema_Keto",
+  "/wiki/Battle_of_Coruscant_(Great_Sith_War)",
+  "/wiki/Great_Sith_War/Legends",
+  "/wiki/Mandalore_the_Indomitable",
+  "/wiki/Tales_of_the_Jedi_%E2%80%93_The_Sith_War_2"
+ ]
+}

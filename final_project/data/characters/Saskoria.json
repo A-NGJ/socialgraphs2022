@@ -1,5 +1,6 @@
 {
  "name": "Saskoria",
+ "display_name": "Saskoria",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Saskoria was a Selonian who lived during the Galactic Civil War and left Selonia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Selonia/Legends",

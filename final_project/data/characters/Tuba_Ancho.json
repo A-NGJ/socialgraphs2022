@@ -1,0 +1,61 @@
+{
+ "name": "Tuba_Ancho",
+ "display_name": "Tuba Ancho",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuba Ancho was a male Aqualish who stole fuel cell shipments from Rozatta's Outland Station, costing her hundreds of credits. In 32 BBY, a bounty worth 3,000 credits alive and 1,500 dead was posted, which was then claimed by Mandalorian-turned bounty hunter Jango Fett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Fuel/Legends",
+  "/wiki/Rozatta",
+  "/wiki/Outland_Transit_Station",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

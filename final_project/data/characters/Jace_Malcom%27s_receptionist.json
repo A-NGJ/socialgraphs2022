@@ -1,0 +1,58 @@
+{
+ "name": "Jace_Malcom%27s_receptionist",
+ "display_name": "Jace Malcom's receptionist",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicSupreme Commander's office",
+      "Supreme Commander's office"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Human individual worked as a receptionist for Galactic Republic Military Supreme Commander Jace Malcom. She had a romantic relationship with Director of Republic Strategic Information Service Marcus Trant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Supreme_Commander%27s_office",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Supreme_Commander_(Alliance/Republic)",
+  "/wiki/Jace_Malcom",
+  "/wiki/Director_of_Republic_Strategic_Information_Service",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Marcus_Trant",
+  "/wiki/The_Old_Republic:_Annihilation",
+  "/wiki/The_Old_Republic:_Annihilation_(audiobook)"
+ ]
+}

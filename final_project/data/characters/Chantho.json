@@ -1,5 +1,6 @@
 {
  "name": "Chantho",
+ "display_name": "Chantho",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Chantho was a male Ithorian bartender who worked at the Enlightenment tapbar in the Holy City on the moon Jedha during the High Republic Era.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ithorian",

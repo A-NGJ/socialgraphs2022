@@ -1,0 +1,91 @@
+{
+ "name": "Unidentified_Harbinger_Soldier",
+ "display_name": "Unidentified Harbinger Soldier",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Unknown"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "Unknown"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3951 BBY",
+      "Harbinger"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Harbinger Soldier served on the Harbinger in 3951 BBY\nServing until Sith Lord Darth Sion seized command of the ship along with his Sith army of Sith Assassins. He is seen speaking to the Captain during one of the Captain's holo recordings, that were discovered by Meetra Surik during her escape from Peragus.\nHe informs the captain that there were no signs of life aboard the Sith ship they had discovered. This soldier and his teams had been sent to investigate the vessel and, unknowingly, allowed the Sith to infiltrate the Harbinger. This led to a brief skirmish aboard the Harbinger resulting in Sion taking control of the Vessel",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Harbinger",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Harbinger_(Hammerhead-class)",
+  "/wiki/Harbinger_Captain",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth/Legends",
+  "/wiki/Darth_Sion",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_Assassin",
+  "/wiki/Hologram/Legends",
+  "/wiki/Meetra_Surik"
+ ]
+}

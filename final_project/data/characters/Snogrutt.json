@@ -1,0 +1,60 @@
+{
+ "name": "Snogrutt",
+ "display_name": "Snogrutt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gamorr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Groogrun clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snogrutt was a Gamorrean master weapon maker who created the Clan Groogrun vibro-ax used by Gamorrean guards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorr/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Groogrun_clan",
+  "/wiki/Clan_Groogrun_vibro-ax",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Jabba%27s_Palace_Limited",
+  "/wiki/The_Essential_Guide_to_Weapons_and_Technology",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_14"
+ ]
+}

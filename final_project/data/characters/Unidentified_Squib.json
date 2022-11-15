@@ -1,0 +1,34 @@
+{
+ "name": "Unidentified_Squib",
+ "display_name": "Unidentified Squib",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Squib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Squib male unintentionally gained possession of a data storage unit with a top-secret decryption program in it. When rival groups of operatives discovered he had the program in his possession, the Squib became the center of a bidding war.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Operative",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Squib",
+  "/wiki/Alien_Adventures"
+ ]
+}

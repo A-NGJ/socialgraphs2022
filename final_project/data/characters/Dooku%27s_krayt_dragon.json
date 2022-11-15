@@ -1,0 +1,58 @@
+{
+ "name": "Dooku%27s_krayt_dragon",
+ "display_name": "Dooku's krayt dragon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Krayt dragon"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Dooku"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "At some point during the Clone Wars, Count Dooku tamed and kept a krayt dragon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Krayt_dragon/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Dooku/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Count/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars:_Republic:_Hidden_Enemy"
+ ]
+}

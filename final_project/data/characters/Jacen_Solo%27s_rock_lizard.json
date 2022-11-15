@@ -1,0 +1,55 @@
+{
+ "name": "Jacen_Solo%27s_rock_lizard",
+ "display_name": "Jacen Solo's rock lizard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yavin 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rock lizard"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Jacen Solo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This rock lizard was kept as a pet by Jacen Solo. After some time, it always tried to escape from its cage. It almost hurt itself many times and even when Solo tried to heal it through the Force, it would not stay calm. Solo came to his uncle, Luke Skywalker for an answer to the problem. Skywalker told Solo of Huey, a male dewback that was a pet of Skywalker's friend Windy Starkiller on Tatooine. One day, Huey was banging on the exit gate, waking Windy and his father. They came outside and Windy's father suggested letting Huey go, knowing it was dewback mating season. Windy let Huey go and it returned a few weeks later. Solo then found the strength to release his rock lizard into the wild. Eventually, his rock lizard came back with a sack of eggs, and placed them by a heat rock where they would be warm.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Rock_lizard",
+  "/wiki/Darth_Caedus",
+  "/wiki/The_Force/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Huey",
+  "/wiki/Gender/Legends",
+  "/wiki/Dewback/Legends",
+  "/wiki/Windy_Starkiller",
+  "/wiki/Tatooine/Legends",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Tova",
+ "display_name": "Tova",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tauntaun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tova was a tauntaun and an old friend of Murra who was part of a herd of tauntauns that were captured and domesticated by the Rebels of Echo Base on Hoth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hoth",
+  "/wiki/Tauntaun",
+  "/wiki/Murra_(tauntaun)",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Echo_Base",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/She_Will_Keep_Them_Warm",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

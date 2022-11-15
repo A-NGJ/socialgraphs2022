@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Ithorian_Jedi",
+ "display_name": "Unidentified Ithorian Jedi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chodo Habat's herd",
+      "Jedi Order",
+      "Galactic Republic",
+      "Telosian Restoration Project"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian was a member of Chodo Habat's herd and later became a Jedi. The energy cell fixture from this Jedi's lightsaber later fell into the possession of Habat, who offered it to Meetra Surik for her aid in bringing the Telosian Restoration Project to fruition.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Chodo_Habat%27s_herd",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Telosian_Restoration_Project",
+  "/wiki/Chodo_Habat",
+  "/wiki/Meetra_Surik",
+  "/wiki/Jedi/Legends",
+  "/wiki/Energy_cell/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ithorian_Jedi",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Trang",
+ "display_name": "Trang",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY",
+      "AX-456"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trang was a Human male who served as a stormtrooper of the Galactic Empire during the Galactic Civil War. In 1 BBY, he was assigned aboard the Star Destroyer Imperator where he served as a scout in the platoon to Cadet leader Kyle Katarn. He was killed during an attack on AX-456.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/AX-456",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Imperator_(Imperial-class)",
+  "/wiki/Cadet_leader",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Dark_Forces:_Soldier_for_the_Empire"
+ ]
+}

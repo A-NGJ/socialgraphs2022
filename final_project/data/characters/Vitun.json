@@ -1,0 +1,57 @@
+{
+ "name": "Vitun",
+ "display_name": "Vitun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vitun was a male Human Jedi Master of the Jedi Order. During the third Galactic War he was stationed in the of Invasion Zone on Manaan, where he provided teaching to Jedi Consulars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Manaan/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Star_Wars:_The_Old_Republic:_Legacy_of_the_Sith"
+ ]
+}

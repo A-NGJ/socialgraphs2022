@@ -1,0 +1,68 @@
+{
+ "name": "Revar_(Sith_Empire)",
+ "display_name": "Revar  (Sith Empire)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Revar  was a male Human captain of the reconstituted Sith Empire. During the Galactic War he was the commander of the Leth Outpost on Hoth, where he asked an Imperial to help defend the outpost against the White Maw pirates.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Leth_Outpost",
+  "/wiki/Hoth/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Pirate/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

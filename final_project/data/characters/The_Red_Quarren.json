@@ -1,0 +1,31 @@
+{
+ "name": "The_Red_Quarren",
+ "display_name": "The Red Quarren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Red Quarren was the only known name of a sea pirate that attacked sailors on the planet Lamaredd c. 29 BBY. A bounty was offered for the pirate's capture.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Lamaredd/Legends",
+  "/wiki/29_BBY/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Reckonings",
+  "/wiki/Star_Wars_Gamer_7"
+ ]
+}

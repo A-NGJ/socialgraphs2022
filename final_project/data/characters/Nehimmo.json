@@ -1,5 +1,6 @@
 {
  "name": "Nehimmo",
+ "display_name": "Nehimmo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Nehimmo was a Twi'lek male merchant who served the Galactic Republic onboard Carrick Station during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

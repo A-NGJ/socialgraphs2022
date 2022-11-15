@@ -1,5 +1,6 @@
 {
  "name": "Kwiggley",
+ "display_name": "Kwiggley",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kwiggley was a Bimm male junk dealer aboard Port Tooga during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bimm_(Near-Human)",

@@ -1,0 +1,72 @@
+{
+ "name": "Sulkhaz",
+ "display_name": "Sulkhaz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3641 BBY",
+      "Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blood of Talath"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sulkhaz was a male Rattataki criminal and the leader of the Blood of Talath tribe that was imprisoned on Belsavis by the Galactic Republic During the invasion of Belsavis around 3641 BBY the Rattataki broke free, but Sulkhaz was confronted and killed by a Republic citizen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3641_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Blood_of_Talath",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

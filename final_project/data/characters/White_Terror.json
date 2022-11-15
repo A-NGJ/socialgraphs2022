@@ -1,0 +1,40 @@
+{
+ "name": "White_Terror",
+ "display_name": "White Terror",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wampa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The White Terror was the name given to a legendary wampa who stalked colonists on the planet Hoth during the Cold War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Wampa/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/White_Terror",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

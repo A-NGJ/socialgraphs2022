@@ -1,0 +1,59 @@
+{
+ "name": "Gull_Tuldok",
+ "display_name": "Gull Tuldok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Recopia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tuldok clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gull Tuldok was a large booming pirate and gambler who led one of Tuldok clan's three raiding fleets. He had spent most of his life in space, returning to Recopia every five years or so to resupply, take on new crew members, and visit his family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Recopia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tuldok_clan",
+  "/wiki/Pirate/Legends",
+  "/wiki/Gambling/Legends",
+  "/wiki/Realspace/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Barneeson",
+ "display_name": "Barneeson",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Barneeson was an Ewok of Bright Tree Village on the forest moon of Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

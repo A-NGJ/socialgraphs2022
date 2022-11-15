@@ -1,5 +1,6 @@
 {
  "name": "Klug",
+ "display_name": "Klug",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Klug was a male Gamorrean who lived during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gamorrean/Legends",

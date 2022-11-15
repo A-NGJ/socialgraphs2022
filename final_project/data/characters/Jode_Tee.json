@@ -1,0 +1,66 @@
+{
+ "name": "Jode_Tee",
+ "display_name": "Jode Tee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "25 ABY aboard Queen of Empire"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jode Tee was a Human male who was an agent serving in New Republic Intelligence. As one of the guards covertly stationed aboard the passenger liner Queen of Empire, he was tasked with watching over the defecting Yuuzhan Vong priestess Elan and her familiar Vergere to oversee their transfer from Myrkr to Coruscant. He was killed by blaster fire from Darda and Capo, members of the Peace Brigade who had infiltrated the NRI presence on the starliner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Queen_of_Empire",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Intelligence_Service",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Elan",
+  "/wiki/Vergere",
+  "/wiki/Myrkr/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Darda",
+  "/wiki/Capo_(Peace_Brigade)",
+  "/wiki/Peace_Brigade",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial"
+ ]
+}

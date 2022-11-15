@@ -1,0 +1,29 @@
+{
+ "name": "Unidentified_Revwien_(Fornax_Station)",
+ "display_name": "Unidentified Revwien  (Fornax Station)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Revwien"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a member of the Revwien species. It was present on Fornax Station, observing the Five Fire Rings of Fornax, sometime between 2 BBY and 1 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Revwien/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Fornax_Station",
+  "/wiki/Fire_Rings_of_Fornax",
+  "/wiki/2_BBY/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Adventures_in_Hyperspace:_Fire_Ring_Race"
+ ]
+}

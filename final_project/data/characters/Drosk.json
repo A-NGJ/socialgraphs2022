@@ -1,5 +1,6 @@
 {
  "name": "Drosk",
+ "display_name": "Drosk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Drosk was a human male lieutenant in the Galactic Empire, who assisted Commodore Visler Korda on Rekkana.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

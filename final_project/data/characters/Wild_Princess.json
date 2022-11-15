@@ -1,0 +1,63 @@
+{
+ "name": "Wild_Princess",
+ "display_name": "Wild Princess",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sainte-Evanëflore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sylphe"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Celadon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Wild Princess was the daughter of Jonciane, the king of Sainte-Evanëflore during the Galactic Civil War. Unlike her father and most members of her pacifist species, the princess was eager to fight the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Sainte-Evan%C3%ABflore",
+  "/wiki/Sylphe",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jonciane",
+  "/wiki/King/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wild_Princess",
+  "/wiki/Casus_Belli",
+  "/wiki/Cantina_pour_trois,_y_en_a_pour_quatre!",
+  "/wiki/Casus_Belli_95"
+ ]
+}

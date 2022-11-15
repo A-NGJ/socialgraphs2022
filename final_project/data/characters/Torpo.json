@@ -1,0 +1,65 @@
+{
+ "name": "Torpo",
+ "display_name": "Torpo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY",
+      "Valsedian asteroid belt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow-Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torpo the Hutt was a Hutt and distant cousin of Jabba Desilijic Tiure. Around 21 BBY during the Clone Wars, Torpo was suspected by Jabba for brokering a deal with the Confederacy of Independent Systems to access the Valsedian asteroid belt in Hutt Space, which was in violation of a treaty made with the Galactic Republic concerning supply routes. The Jedi Order was requested to and dispatched a team consisting of Jedi Masters Obi-Wan Kenobi and Keelyvine Reus, Jedi Knight Anakin Skywalker, and Padawans Tyzen Xebec and Ahsoka Tano to the Valsedian asteroid belt to investigate and negotiate a resolution to the situation. He was later found in a room where he begged for the Jedi to help him, but he was quickly stabbed in the back by Asajj Ventress.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Valsedian_asteroid_belt",
+  "/wiki/Hutt/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Hutt_Space/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Keelyvine_Reus",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Tyzen_Xebec",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/The_Clone_Wars:_The_Valsedian_Operation"
+ ]
+}

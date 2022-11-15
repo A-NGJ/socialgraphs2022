@@ -1,0 +1,55 @@
+{
+ "name": "Efros_Thawley",
+ "display_name": "Efros Thawley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thaereian military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Efros Thawley was a male Human who served in the Thaereian military during the Clone Wars.\nThawley was a member of a squad under the command of Lorwin Derlynn and served as the squad's comm officer. During the Clone Wars, he and the rest of the squad were sent to occupy an abandoned Cularin Militia base in the Cularin system asteroid belt. The Heroes of Cularin arrived there, intending to deliver supplies to the Militia, so the squad tried to make them surrender to them. However, the heroes tried to convince Thawley and his comrades to defect to the Militia instead.\nThawley was short, with dark-colored hair and a receding hairline. He liked to tinker around with gadgets and didn't care whether what the squad was doing was right or wrong, so long as he got to do this. He respected Derlynn, and would follow along with what ever Derlynn thought to be best.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thaereian_military",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Lorwin_Derlynn",
+  "/wiki/Cularin_Militia",
+  "/wiki/Cularin_Militia_asteroid_base",
+  "/wiki/Cularin_system_asteroid_belt",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Incursion"
+ ]
+}

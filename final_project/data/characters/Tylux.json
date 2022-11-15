@@ -1,0 +1,83 @@
+{
+ "name": "Tylux",
+ "display_name": "Tylux",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "During the Galactic Civil War",
+      "Bellicose"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy's officer corps",
+      "Imperial Navy's officer corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tylux was a human male who served as the commander of the Imperial-class Star Destroyer Bellicose. He failed to capture a spy for the Alliance to Restore the Republic, and feared Darth Vader learning the truth, having previously witnessed him Force choke several Imperial Navy officers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Bellicose_(Imperial_II-class_Star_Destroyer)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy%27s_officer_corps",
+  "/wiki/Vader_-_Dark_Visions_2",
+  "/wiki/Commander",
+  "/wiki/Imperial-class_Star_Destroyer",
+  "/wiki/Unidentified_rebel_spy_(Bellicose)",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Force_choke",
+  "/wiki/Imperial_Navy",
+  "/wiki/Imperial_officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tylux"
+ ]
+}

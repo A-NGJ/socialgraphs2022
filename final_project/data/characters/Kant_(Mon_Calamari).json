@@ -1,0 +1,60 @@
+{
+ "name": "Kant_(Mon_Calamari)",
+ "display_name": "Kant  (Mon Calamari)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kant was a male Mon Calamari criminal.\nAs a boy, Kant thought a lot about personal freedom, influenced by a Quarren who thought it was the most important thing to the galaxy. But when he finally saw the galaxy himself, Kant grew disgruntled with its cultures, because he felt that they were too oppressive. He helped radical groups by smuggling them goods and doing other illegal activities.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Ultimate_Adversaries"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Hunt",
+ "display_name": "Hunt",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Hunt was a Human male who served as Colonel of the Galactic Republic during the Cold War against the reconstitued Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hunting/Legends",

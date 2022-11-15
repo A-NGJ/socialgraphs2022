@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_Gormak_leader",
+ "display_name": "Unidentified Gormak leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3640 BBY",
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gormak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gormak male was the leader of a particularly ruthless and savage Gormak clan on the planet Voss. Bloodthirsty, the leaders' group ambushed Jedi Master Bacara and his Padawan, Kosh in the Jedi ruins, killing the former and severely injuring the latter. Upon request from Kosh, a Republic citizen managed to kill the leader and successfully recover the stolen relics.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/3640_BBY",
+  "/wiki/Voss",
+  "/wiki/Gormak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Bacara_(Jedi)",
+  "/wiki/Padawan/Legends",
+  "/wiki/Kosh_(Jedi)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

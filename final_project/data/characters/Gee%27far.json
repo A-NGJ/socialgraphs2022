@@ -1,5 +1,6 @@
 {
- "name": "Gee'far",
+ "name": "Gee%27far",
+ "display_name": "Gee'far",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Gee'far was a Force-sensitive Kessurian girl who lived in an orphanage on the planet Gaaten during the Imperial Era. She befriended fellow Force-sensitive orphan Elish. Gee'far had shared stories of the Clone Wars with Elish. She was tragically taken by The Grand Inquisitor and taken off of Gaaten, never to be seen again.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Kessurian",

@@ -1,0 +1,71 @@
+{
+ "name": "Zareb",
+ "display_name": "Zareb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "28 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Intendant caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zareb was a member of the Intendant caste of the Yuuzhan Vong. After the Yuuzhan Vong conquered and Vongformed the planet Coruscant into Yuuzhan'tar, Zareb was appointed Prefect of Numesh. Nom Anor, in the guise of Yu'shaa, decided to bring him down by placing Shamed Ones spreading the Jeedai heresy into his household, and having the Priestess Ngaaluh discover them. The evidence against Zareb was very strong—too strong for Supreme Overlord Shimrra. Conducting his own interrogation, he discovered that Ngaaluh was planting the Shamed Ones in the households of various Prefects. However, he executed Zareb anyway, to continue the purge of heretics already going on.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/28_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Intendant_caste",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Terraforming/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends#Yuuzhan'tar",
+  "/wiki/Prefect/Legends",
+  "/wiki/Numesh_Sector",
+  "/wiki/Nom_Anor",
+  "/wiki/Shamed_Ones",
+  "/wiki/Jeedai_heresy",
+  "/wiki/Priest/Legends",
+  "/wiki/Ngaaluh",
+  "/wiki/Supreme_Overlord",
+  "/wiki/Shimrra_Jamaane",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

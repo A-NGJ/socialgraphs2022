@@ -1,0 +1,75 @@
+{
+ "name": "Unidentified_Rebel_transport_captain",
+ "display_name": "Unidentified Rebel transport captain",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 BBY",
+      "near Teralov"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This human male Captain served within the rebellion. He and Green Squadron were sent to help Teralov under a blockade by the Empire. However Captain Vult Skerris and his TIE/IN interceptor flight wiped out Green Squadron and his GR-75 medium transport.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/2_BBY",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Teralov",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Captain",
+  "/wiki/Green_Squadron_(Rebel_Alliance)",
+  "/wiki/Galactic_Empire",
+  "/wiki/Vult_Skerris",
+  "/wiki/TIE/IN_interceptor",
+  "/wiki/Massacre_near_Teralov",
+  "/wiki/GR-75_medium_transport",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rebel_transport_captain",
+  "/wiki/Star_Wars_Rebels",
+  "/wiki/The_Antilles_Extraction"
+ ]
+}

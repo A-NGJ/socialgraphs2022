@@ -1,5 +1,6 @@
 {
  "name": "Devoris",
+ "display_name": "Devoris",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Devoris was a crewmember aboard the One Two Many.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Fugo",
+ "display_name": "Fugo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Fugo was a Chadra-Fan scientist and a member of Project Decoy. Their task was to design and create a Human replica droid for the Alliance to Restore the Republic. The prototype, resembling Leia Organa, met its end at the hand of Bertroff Hissa.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Chad/Legends",

@@ -1,0 +1,43 @@
+{
+ "name": "Crix_Griff",
+ "display_name": "Crix Griff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Crix Griff was a con man who lived on Elrood. Griff was a Human of medium build, with thinning brown hair and a thoroughly nondescript appearance. He also used a great many number of disguises, and could alter his appearance with ease. Sometimes, he simply fleeced people of credits after befriending them. More often, though, he set people up to take a fall for other criminals. Boss Kaggle or another criminal would sometimes contact Griff and hire him as a \"fall man\" for a mission that they were undertaking.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Con_artist/Legends",
+  "/wiki/Elrood/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Kaggle",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

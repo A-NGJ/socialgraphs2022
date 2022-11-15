@@ -1,5 +1,6 @@
 {
  "name": "Mona",
+ "display_name": "Mona",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Mona was a Human female living on Telerath in the city of Noua. In 19 BBY Dado, a local boy, lost his arm in an accident and Mona handled his injury and gave him a mixture that eased his pain, but was unable to provide him a proper medical aid.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Telerath/Legends",

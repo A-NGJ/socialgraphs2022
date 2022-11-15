@@ -1,0 +1,51 @@
+{
+ "name": "Swori_Mdimu",
+ "display_name": "Swori Mdimu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Etti"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Peace Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swori Mdimu was an Etti spacer who shipped weaponry to the Peace Brigade. His vessel, the Tinmolok, was captured by the Millennium Falcon , and the Tinmolok was confiscated. Mdimu and his crew were then jettisoned in an escape pod. Later, Mdimu joined the Peace Brigade itself, and served as Thrackan Sal-Solo's communications aide.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Etti",
+  "/wiki/Gender/Legends",
+  "/wiki/Peace_Brigade",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Tinmolok",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Princess_of_Blood",
+  "/wiki/Escape_pod/Legends",
+  "/wiki/Thrackan_Sal-Solo",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_II:_Rebirth",
+  "/wiki/The_New_Jedi_Order:_Ylesia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

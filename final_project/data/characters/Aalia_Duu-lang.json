@@ -1,0 +1,63 @@
+{
+ "name": "Aalia_Duu-lang",
+ "display_name": "Aalia Duu-lang",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Stassia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Females"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Sea-green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aalia Duu-lang was a Human female Crime lord. She was orphaned on the streets by the age of 15 and picked up work in a Stassia City cantina on the planet Stassia. Her shrewdness earned Duu-lang a place in the organization led by crime lord Hek Dallan. She eventually usurped his organization and went into business for herself.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Stassia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Stassia_City",
+  "/wiki/Cantina/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Hek_Dallan",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Ringers",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

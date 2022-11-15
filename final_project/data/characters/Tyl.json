@@ -1,0 +1,51 @@
+{
+ "name": "Tyl",
+ "display_name": "Tyl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Trunska"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trunsk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyl, called Tyl the Deplorable, was a legendary Trunsk warlord who united the Trunsks by conquering all of Trunska. He quickly converted his triumphant armies into a police force and diverted resources that formerly had gone toward war into technological development. As a result, the Trunsks quickly went from an isolated civilization with information-era technology to Galactic Republic members with hyperdrive-equipped starships .",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trunska",
+  "/wiki/Trunsk",
+  "/wiki/Gender/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tyl",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/Alien_Encounters"
+ ]
+}

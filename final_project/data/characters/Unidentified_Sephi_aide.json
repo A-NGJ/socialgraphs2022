@@ -1,0 +1,76 @@
+{
+ "name": "Unidentified_Sephi_aide",
+ "display_name": "Unidentified Sephi aide",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thustra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sephi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Clone Wars, an unidentified female Sephi served as an aide to Senator Navi, who represented his native Sumitra sector in the Galactic Senate. She shared her duties with another Sephi woman named Lirka. In 22 BBY, when Senator Navi was arrested for crimes against the Republic in the middle of a Senate meeting, the female aide and her colleague witnessed the incident in dismay.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thustra/Legends",
+  "/wiki/Sephi/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Senatorial_aide",
+  "/wiki/Senator/Legends",
+  "/wiki/Navi",
+  "/wiki/Sumitra_sector",
+  "/wiki/Lirka",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Jedi:_Yoda"
+ ]
+}

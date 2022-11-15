@@ -1,0 +1,39 @@
+{
+ "name": "Sskal",
+ "display_name": "Sskal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sskal was a male Trandoshan who lived during the early years of the Galactic Empire. He lived on the planet Byrsym, where he worked as the bodyguard of the Toydarian merchant Ballon. He was present with Ballon in the bar Emthuul's when a group of agents from the planet Daimar attempted to contact Ballon.\nSskal was not very intelligent, but he was tough and was devoted to serving Ballon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Byrsym",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Ballon",
+  "/wiki/Emthuul%27s",
+  "/wiki/Agent/Legends",
+  "/wiki/Daimar",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

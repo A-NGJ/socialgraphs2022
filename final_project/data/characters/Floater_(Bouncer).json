@@ -1,0 +1,40 @@
+{
+ "name": "Floater_(Bouncer)",
+ "display_name": "Floater  (Bouncer)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bouncer"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Floater was a Bouncer who assisted Kyle Katarn in reaching the Valley of the Jedi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bouncer",
+  "/wiki/Color/Legends",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Valley_of_the_Jedi",
+  "/wiki/Dark_Forces:_Jedi_Knight",
+  "/wiki/Dark_Forces:_Jedi_Knight_audio_drama"
+ ]
+}

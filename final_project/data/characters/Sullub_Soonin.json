@@ -1,0 +1,37 @@
+{
+ "name": "Sullub_Soonin",
+ "display_name": "Sullub Soonin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sullub Soonin was the male Sullustan co-pilot of the Skyjumper under the command of Captain Drev Jalok.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Skyjumper",
+  "/wiki/Captain/Legends",
+  "/wiki/Drev_Jalok",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Stand_and_Deliver",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

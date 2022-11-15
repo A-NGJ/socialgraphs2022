@@ -1,0 +1,60 @@
+{
+ "name": "Ziem_Bamas",
+ "display_name": "Ziem Bamas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ziem Bamas was a slicer during the Galactic Civil War.\nZiem Bamas was a Human male slicer during the Galactic Civil War. He was seemingly in opposition of the Empire and at some point had an altercation with an unidentified Dark Jedi with Dark Side abilities.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Force_drain/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Star_Wars:_Armada",
+  "/wiki/Imperial_Assault_Carriers_Expansion_Pack",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Agents_of_Deception",
+  "/wiki/Template:SWGTCG"
+ ]
+}

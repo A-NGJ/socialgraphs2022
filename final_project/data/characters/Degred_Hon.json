@@ -1,0 +1,67 @@
+{
+ "name": "Degred_Hon",
+ "display_name": "Degred Hon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Clak'dor VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Degred Hon was a male Bith from Clak'dor VII who developed a gene bomb to alter the planet's ecology and return it to its original state. When he was met with unwilling colleagues who deemed the project impossible, Hon hijacked a shuttle from Mezhra Station in hopes of crashing it into the planet to spread the gene bomb. However, a group of freelancers destroyed the shuttle in the planet's orbit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Clak%27dor_VII",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Shuttle/Legends",
+  "/wiki/Mezhra_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Degred_Hon",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

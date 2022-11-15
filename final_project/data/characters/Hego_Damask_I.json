@@ -1,0 +1,49 @@
+{
+ "name": "Hego_Damask_I",
+ "display_name": "Hego Damask I",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Muun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Damask"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Muun named Hego Damask was Caar Damask's clan father, who named his own son—and Hego Damask I's grandson—after him.\nHego Damask I was mentioned in the 2012 novel Darth Plagueis written by author James Luceno.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Darth_Plagueis/Legends",
+  "/wiki/Damask",
+  "/wiki/Muun/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Damask_clan",
+  "/wiki/Caar_Damask",
+  "/wiki/2012",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/James_Luceno",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

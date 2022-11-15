@@ -1,0 +1,54 @@
+{
+ "name": "Stomp_Claw",
+ "display_name": "Stomp Claw",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sithspawn"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stomp Claw was a Sithspawn roaming the Glacial Fissure of Hoth circa 3638 BBY.\nStomp Claw is a rare champion spawn added to Hoth with the Star Wars: The Old Republic: Rise of the Hutt Cartel expansion. He appears in the area that serves as one of the Seeker Droid dig sites and is not involved in any quests, Stomp Claw shares the character model with two other Sithspawn in the game, Gharj and Akure.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Sithspawn/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Glacial_Fissure",
+  "/wiki/3638_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Seeker_Droid",
+  "/wiki/Gharj",
+  "/wiki/Akure"
+ ]
+}

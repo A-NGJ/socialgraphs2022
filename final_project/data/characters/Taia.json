@@ -1,0 +1,68 @@
+{
+ "name": "Taia",
+ "display_name": "Taia",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial ArmyEighty-first Infantry Battalion",
+      "Imperial ArmyEighty-first Infantry Battalion",
+      "Eighty-first Infantry Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taia was a female Human private serving in the Imperial Military of the Sith Empire during the Galactic War. She participated in the Battle of Corellia as part of Battalion Commander Mericci's detachment. However their unit was pulled out along with the rest of Imperial military following the Empire's defeat. Taia and the rest of Mericci's unit made a temporary stop at the Vaiken Spacedock while they were awaiting redeployment.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Eighty-first_Infantry_Battalion",
+  "/wiki/Private/Legends",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Battalion/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Mericci",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Vilsics",
+ "display_name": "Vilsics",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ariana spaceport"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vilsics was a Human male who lived on the planet of Garos IV. Around 8 ABY he worked as a flight systems coordinator at the Ariana spaceport.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ariana",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Garos_IV",
+  "/wiki/8_ABY/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Mission_to_Zila",
+  "/wiki/Star_Wars_Adventure_Journal_3"
+ ]
+}

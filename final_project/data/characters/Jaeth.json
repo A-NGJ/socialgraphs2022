@@ -1,5 +1,6 @@
 {
  "name": "Jaeth",
+ "display_name": "Jaeth",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Jaeth was a smuggler who worked as a dockhand on the moon Pinett during the first years of the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Wookieepedia:Sourcing",
   "/wiki/Special:EditPage/:Jaeth",

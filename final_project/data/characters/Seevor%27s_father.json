@@ -1,0 +1,36 @@
+{
+ "name": "Seevor%27s_father",
+ "display_name": "Seevor's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Trandoshan male was, like his son Seevor, an ore crawler captain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Trandoshan",
+  "/wiki/Gender",
+  "/wiki/Seevor",
+  "/wiki/Ore_crawler",
+  "/wiki/Captain",
+  "/wiki/Star_Wars_Rebels",
+  "/wiki/Crawler_Commandeers",
+  "/wiki/Databank_(website)"
+ ]
+}

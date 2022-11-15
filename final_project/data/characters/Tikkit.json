@@ -1,0 +1,50 @@
+{
+ "name": "Tikkit",
+ "display_name": "Tikkit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tikkit was a male Jawa who resided in Mos Entha on Tatooine around the time of the Galactic Empire. He was a patron of the Thirsty Bantha cantina, and dreamed of one day becoming a starship captain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Entha/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Thirsty_Bantha",
+  "/wiki/Cantina/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tikkit",
+  "/wiki/Star_Wars:_Cantina"
+ ]
+}

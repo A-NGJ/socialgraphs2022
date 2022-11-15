@@ -1,5 +1,6 @@
 {
  "name": "Porcellus",
+ "display_name": "Porcellus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Porcellus was a human who worked as the head chef in Jabba's Palace on Tatooine. Following the death of Jabba, Porcellus partnered with beastmaster Malakili to open the Crystal Moon Restaurant in Mos Eisley.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Porcellus",

@@ -1,0 +1,54 @@
+{
+ "name": "Harch_(Human)",
+ "display_name": "Harch  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Harch was a Human male who served in the Galactic Empire.\nHe was the Imperial major who served on board the Chimaera as an engineering officer in 19 ABY. He coordinated repairs on the Chimaera after an attack from Moff Disra's pirates near Pesitiin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Harch/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Chimaera/Legends",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Vilim_Disra",
+  "/wiki/Pirate/Legends",
+  "/wiki/Pesitiin",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

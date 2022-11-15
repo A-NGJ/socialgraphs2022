@@ -1,5 +1,6 @@
 {
- "name": "Alim'Gen",
+ "name": "Alim%27Gen",
+ "display_name": "Alim'Gen",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -60,7 +61,7 @@
   }
  ],
  "content": "Alim'Gen was male Human who worked as a stims vendor on the moon of Nar Shaddaa.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

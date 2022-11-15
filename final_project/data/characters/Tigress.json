@@ -1,0 +1,79 @@
+{
+ "name": "Tigress",
+ "display_name": "Tigress",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicAlliance Intelligence",
+      "Alliance Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Tigress\" was the codename of a Rebel spy that operated in The Core, working as a librarian in the Imperial Archives. She was an invaluable source of information to Alliance Intelligence and her information had a high percentage of accuracy, over 80%. At some point after the Battle of Yavin, she had befriended Lady Amber Comark, the daughter of Imperial Moff Jesco Comark of Chandrila. Unfortunately, their friendship was short-lived, as Tigress was discovered and arrested. She was interrogated and then executed. Lady Comark only learned of her friend's death from her father.\nLady Comark, shocked by the brutality of the Empire, resolved to honor her late friend's sacrifice. She took up the mantle of \"Tigress\" and continued the reports to Alliance Intelligence. However, Comark was not a trained spy, and her intelligence was much less usable by the Alliance. This drop in accuracy, as well as the break in regular reports caused by \"Tigress\"' death led the Alliance to become suspicious. They believed this new \"Tigress\" to be a double-agent. However, they eventually discovered the truth when SpecOps agents contacted \"Tigress\" during an investigation of Operation Death-Hunter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Intelligence",
+  "/wiki/Spy/Legends",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Librarian/Legends",
+  "/wiki/Imperial_Archives",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Amber_Comark",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Jesco_Comark",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Alliance_Special_Operations",
+  "/wiki/Operation_Death-Hunter",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Death-Hunter",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

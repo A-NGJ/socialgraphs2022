@@ -1,0 +1,65 @@
+{
+ "name": "Slugga",
+ "display_name": "Slugga",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gorph"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gorphs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slugga was the Queen of the Gorphs. She was looking for a wife for her son Vork, and had decided that she wanted him to marry a princess. When she saw Latara, she decided that she was the Ewok that her son should marry.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Gorph/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Vork",
+  "/wiki/Prince/Legends",
+  "/wiki/Latara",
+  "/wiki/Ewok/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slugga",
+  "/wiki/Ewoks_(TV_series)",
+  "/wiki/Princess_Latara",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/A_Star_Wars_CELibration",
+  "/wiki/Star_Wars_Insider_27"
+ ]
+}

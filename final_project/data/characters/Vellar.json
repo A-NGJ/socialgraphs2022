@@ -1,0 +1,55 @@
+{
+ "name": "Vellar",
+ "display_name": "Vellar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy",
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Vellar was a male Human and a former officer in the Imperial Starfleet. Some time after the Battle of Endor, he joined Warlord Zsinj's forces, serving as the captain of the renegade Imperial's flagship, the Iron Fist.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Captain/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Iron_Fist_(Executor-class)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vellar",
+  "/wiki/X-Wing:_Iron_Fist",
+  "/wiki/X-Wing:_Solo_Command"
+ ]
+}

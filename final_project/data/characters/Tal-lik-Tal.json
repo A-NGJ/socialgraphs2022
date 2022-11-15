@@ -1,0 +1,28 @@
+{
+ "name": "Tal-lik-Tal",
+ "display_name": "Tal-lik-Tal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tak-lik-Tal was a Cerean who worked for Lando Calrissian as a tech and mechanic. Tak-lik-Tal helped Han and Leia Solo find the origins of an archaic transmitter on the Millennium Falcon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tal_(disambiguation)",
+  "/wiki/Cerean/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

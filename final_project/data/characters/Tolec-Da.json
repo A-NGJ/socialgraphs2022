@@ -1,0 +1,75 @@
+{
+ "name": "Tolec-Da",
+ "display_name": "Tolec-Da",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Azure"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tolec-Da was a male Voss Mystic living during the Galactic War. He was obsessed to find a lost artifact, the Mirr, that he believed upgrade the powers of the Mystics. To find the Mirr Tolec-Da started to collaborated with the Jedi Knight Sallius Wen. At the Kri-Ta Outpost Tolec-Da and Wen decided together to ask a republic hero to find and retrieve the Mirr. Unfortunately for the Voss, Wen eventually discovered that the Mirr was in fact a Sith artifact and secretly told to the hero to destroy it instead of bringing it back.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Galactic_War",
+  "/wiki/Mirr",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Sallius_Wen",
+  "/wiki/Kri-Ta_Outpost",
+  "/wiki/Sith_artifact/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Flob",
+ "display_name": "Flob",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Flob was a human male who worked in a supervisory role within the Imperial Bureau of Standards on Coruscant.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Wookieepedia:Spoilers",

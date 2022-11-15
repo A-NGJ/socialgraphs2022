@@ -1,0 +1,67 @@
+{
+ "name": "Tarinn",
+ "display_name": "Tarinn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarinn was a Human male who served the Sith Empire as a Head Jailer at the Imperial Holding Facility in Camp Conquest on the planet Balmorra during the time of the Cold War. In 3642 BBY, Tarinn confronted the Barsen'thor of the Jedi Order during the Jedi's mission to liberate the Balmorran prisoners from the facility. The Barsen'thor killed Tarinn and retrieved his security card from him, using it to open the cells.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Holding_Facility",
+  "/wiki/Camp_Conquest",
+  "/wiki/Planet/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Battle_of_Balmorra_(Great_Galactic_Wars)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tarinn",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

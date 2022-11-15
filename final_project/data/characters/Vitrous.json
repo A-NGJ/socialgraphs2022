@@ -1,0 +1,54 @@
+{
+ "name": "Vitrous",
+ "display_name": "Vitrous",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3640 BBY",
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vorantikus"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vitrous, also known as Vitrous the Vile, was the name of a vorantikus living on Voss during the Cold War. It was killed around 3640 BBY.\nVitrous appears in the video game Star Wars: The Old Republic as a Champion boss on the planet Voss. He is not directly involved in any quests, however he can be killed by characters of both factions or loot and as part of the achievement. This article assumes 100% game completion, which means he was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/3640_BBY",
+  "/wiki/Vorantikus",
+  "/wiki/Color/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Death/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

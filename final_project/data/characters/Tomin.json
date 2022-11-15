@@ -1,0 +1,66 @@
+{
+ "name": "Tomin",
+ "display_name": "Tomin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chibias"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tomin was a male Human who served as a security officer in the Chibias concert hall.\nShortly after the Battle of Endor, Tomin and Jayx, a fellow security officer, arrested Zakarisz Ghent in the Chibias concert hall. The two were following the orders of Counselor Raines.\nThey were attacked by Emperor's Hand Mara Jade when she rescued the young slicer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chibias",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Security_officer/Legends",
+  "/wiki/Chibias_concert_hall",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Jayx",
+  "/wiki/Zakarisz_Ghent",
+  "/wiki/Markko",
+  "/wiki/Emperor%27s_Hand/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Slicer/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Handoff",
+  "/wiki/Star_Wars_Gamer_10"
+ ]
+}

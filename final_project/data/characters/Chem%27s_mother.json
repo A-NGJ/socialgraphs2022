@@ -1,0 +1,40 @@
+{
+ "name": "Chem%27s_mother",
+ "display_name": "Chem's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of Kyp's Dozen pilot Chem was a wealthy diplomat. She collected pristine starfighters, and her most prized was an early T-65XJ X-wing starfighter. On Chem's fourteenth birthday, he stole the craft and went off to join the Dozen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Chem%27s_mother",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kyp%27s_Dozen",
+  "/wiki/Pilot/Legends",
+  "/wiki/Chem_(Human)",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/T-65XJ_X-wing_starfighter",
+  "/wiki/Birthday/Legends",
+  "/wiki/The_New_Jedi_Order:_Dark_Journey"
+ ]
+}

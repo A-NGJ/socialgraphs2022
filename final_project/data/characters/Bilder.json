@@ -1,5 +1,6 @@
 {
  "name": "Bilder",
+ "display_name": "Bilder",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Bilder was a Twi'lek male who was a member of Saw Gerrera's Partisans. At some point he was killed in action.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/5_BBY",

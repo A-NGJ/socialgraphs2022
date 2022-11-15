@@ -1,0 +1,48 @@
+{
+ "name": "Taepalae",
+ "display_name": "Taepalae",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Light Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taepalae was a Human female and the leader of a small group of salvagers on Dantooine.\nShe met Meetra Surik near the ruined Jedi Enclave after one of her companions, Jorran, had been trapped in a room after they all had been attacked by laigreks, forcing all but Jorran to leave the Enclave.\nWhen Surik rescued Jorran, Taepalae recommended Surik accept a reward the next time she saved someone's life.\nThe Jedi Exile might provoke Taepalae and her companions to a fight by insulting them during the conversation of their first encounter. This results in a dark side shift for the Exile.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Jedi_Enclave",
+  "/wiki/Jorran",
+  "/wiki/Laigrek",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Janzel_Helot",
+ "display_name": "Janzel Helot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "One Two Many"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Janzel Helot was the ship's boy aboard the One Two Many.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/One_Two_Many",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Janzel_Helot",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Deader_than_a_Triton_Moon",
+  "/wiki/StarWars.com",
+  "/wiki/Unbound_Worlds",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

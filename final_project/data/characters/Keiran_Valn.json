@@ -1,0 +1,63 @@
+{
+ "name": "Keiran_Valn",
+ "display_name": "Keiran Valn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keiran Valn was a male Human Jedi Knight who lived during the time of the Old Republic.\nAt a banquet held by his family on his homeworld of Alderaan, Valn was murdered by a successful poisoning attempt. Even as a Jedi Knight, Valn was unable to overcome the deadly poison and he died to become one with the Force. The Jedi Council was greatly troubled over the death of one of their Order's members, and the preliminary investigation revealed that the poison used was a compound derived from the aquatic plant, green glie, of the planet Naboo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Jedi_High_Council/Legends",
+  "/wiki/Green_glie",
+  "/wiki/Naboo/Legends",
+  "/wiki/Secrets_of_Naboo"
+ ]
+}

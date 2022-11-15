@@ -1,0 +1,74 @@
+{
+ "name": "Bordon%27s_wife",
+ "display_name": "Bordon's wife",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ruusan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1000 BBY",
+      "Ruusan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Army of Light",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Human was the wife of Bordon and mother of Tallo and Wend. She fought for the Army of Light during the Ruusan campaign and was killed in battle by the Brotherhood of Darkness during the Fourth Battle of Ruusan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Bordon%27s_wife",
+  "/wiki/Ruusan/Legends",
+  "/wiki/1000_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Army_of_Light/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Bordon",
+  "/wiki/Tallo_(Star-Wake)",
+  "/wiki/Wend",
+  "/wiki/Ruusan_campaign",
+  "/wiki/Brotherhood_of_Darkness/Legends",
+  "/wiki/Fourth_Battle_of_Ruusan",
+  "/wiki/Darth_Bane:_Rule_of_Two",
+  "/wiki/Darth_Bane:_Rule_of_Two_(audiobook)"
+ ]
+}

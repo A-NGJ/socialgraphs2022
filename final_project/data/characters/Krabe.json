@@ -1,5 +1,6 @@
 {
  "name": "Krabe",
+ "display_name": "Krabe",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Krabe was a human male Scout Trooper Commander that served the Galactic Empire in 14 BBY. He was stationed on Bogano and recorded a tactical report on its fauna. Krabe was eventually killed by the Jedi Cal Kestis.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/14_BBY",

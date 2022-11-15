@@ -1,5 +1,6 @@
 {
  "name": "Seylon",
+ "display_name": "Seylon",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Seylon was a guardian who served the Arratu. They encountered Phasma and her team in 24 ABY. After the Arratu's death, Phasma and her team escaped from Arratu Station and killed the guardians who were in charge.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

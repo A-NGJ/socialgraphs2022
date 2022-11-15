@@ -1,0 +1,49 @@
+{
+ "name": "Anj_Rujj",
+ "display_name": "Anj Rujj",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thugs of Thule"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Anj Rujj was a human male member of the highly-educated mercenary gang known as the Thugs of Thule. Rujj was present at the Outlander Club on Coruscant prior to the First Battle of Geonosis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Anj_Rujj",
+  "/wiki/Anj_Rujj/Legends",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Thugs_of_Thule",
+  "/wiki/Mercenary",
+  "/wiki/Outlander_Club",
+  "/wiki/Coruscant",
+  "/wiki/First_Battle_of_Geonosis",
+  "/wiki/Star_Wars:_Complete_Locations_(2016)"
+ ]
+}

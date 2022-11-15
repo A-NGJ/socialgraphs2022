@@ -1,0 +1,68 @@
+{
+ "name": "Voro_Hesh",
+ "display_name": "Voro Hesh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voro Hesh was a Human male Balmorran citizen who was detained by the Sith Empire when executive order 228 was issued. He was liberated from the Imperial Holding Facility by the Barsen'thor and Zenith.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Executive_order_228",
+  "/wiki/Imperial_Holding_Facility",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Zenith",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Voro_Hesh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

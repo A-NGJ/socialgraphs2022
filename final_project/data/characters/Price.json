@@ -1,5 +1,6 @@
 {
  "name": "Price",
+ "display_name": "Price",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Price was a doctor living during the Galactic Civil War. He suspected that Trandoshans were infecting the captive Wookiees with a disease that lowered their life expectancy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

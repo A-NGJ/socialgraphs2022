@@ -1,5 +1,6 @@
 {
  "name": "Rethalow",
+ "display_name": "Rethalow",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -56,7 +57,7 @@
   }
  ],
  "content": "Rethalow was a male Frong who was a senator in the New Republic by 5 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Frong_(planet)",

@@ -1,5 +1,6 @@
 {
  "name": "Rolo",
+ "display_name": "Rolo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Rolo was a participant of the Katharsis, the game founded by the failed Jedi Xanatos and the Telosian treasurer Vox Chun. He was disabled in a game of Katharsis.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Recon-PK_series_droid",

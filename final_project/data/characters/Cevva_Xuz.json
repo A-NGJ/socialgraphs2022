@@ -1,0 +1,50 @@
+{
+ "name": "Cevva_Xuz",
+ "display_name": "Cevva Xuz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Svivren"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cevva Xuz was a Rodian male living in the city of Wrils on the planet Svivren as of 4 ABY. Imperial authorities suspected him of ties to the Rebellion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Svivren/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Wrils",
+  "/wiki/Planet/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mara_Jade_%E2%80%93_By_the_Emperor%27s_Hand_1",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Breyf_T%27dawlish",
+ "display_name": "Breyf T'dawlish",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Breyf T'dawlish was a white furred Bothan. He was one of the Confederation hosts who greeted \"Silfinia\" and \"Najack Ell\" at the supposed meeting at Gilatter VIII.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederation",
+  "/wiki/Silfinia_Ell",
+  "/wiki/Najack_Ell",
+  "/wiki/Gilatter_VIII",
+  "/wiki/Legacy_of_the_Force:_Exile",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

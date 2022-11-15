@@ -1,0 +1,32 @@
+{
+ "name": "Sulahb",
+ "display_name": "Sulahb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sulahb was a female Sullustan mechanic. A quiet and hardworking person, she was meticulous in her work.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Star_Wars_Gamemaster_Handbook"
+ ]
+}

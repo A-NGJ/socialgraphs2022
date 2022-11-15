@@ -19,9 +19,14 @@ func Scrape(pages []Page) ([]Character, error) {
 
 	collector.OnHTML("main.page__main", func(elem *colly.HTMLElement) {
 		var isCharacter bool
-		var character Character = Character{BaseUrl: "https://starwars.fandom.com/"}
+	
+		url := strings.Split(elem.Request.URL.String(), "/")
+		var character Character = Character{
+			BaseUrl: "https://starwars.fandom.com",
+			Name: url[len(url)-1],
+		}
 
-		character.Name = elem.ChildText("h1#firstHeading")
+		character.DisplayName = elem.ChildText("h1#firstHeading")
 
 		elem.ForEach("section.pi-item", func(_ int, el *colly.HTMLElement) {
 			var sideBar SideBar = SideBar{}

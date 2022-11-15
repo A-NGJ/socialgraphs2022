@@ -1,0 +1,40 @@
+{
+ "name": "Feelah_Derin",
+ "display_name": "Feelah Derin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zelosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Feelah Derin was the Tertiary Wife of Nagat Keris Ratua and the mother of Celot Ratua Dil.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zelosian",
+  "/wiki/Gender/Legends",
+  "/wiki/Tertiary_Wife",
+  "/wiki/Nagat_Keris_Ratua",
+  "/wiki/Celot_Ratua_Dil",
+  "/wiki/Death_Star_(novel)"
+ ]
+}

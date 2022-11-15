@@ -1,0 +1,34 @@
+{
+ "name": "Unidentified_Makurth_boss",
+ "display_name": "Unidentified Makurth boss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Makurth"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A local Makurth boss attacked a Ho'Din settlement on Moltok during the reign of the Galactic Empire. The Ho'Din requested Imperial muscle to avoid it turning into a full-fledged war.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Makurth",
+  "/wiki/Filia_Rossi",
+  "/wiki/Eli_N._Vanto",
+  "/wiki/Crisis_on_Moltok",
+  "/wiki/Ho%27Din",
+  "/wiki/Unidentified_Ho%27Din_settlement",
+  "/wiki/Moltok",
+  "/wiki/Imperial_Era",
+  "/wiki/Galactic_Empire",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)",
+  "/wiki/Thrawn_2"
+ ]
+}

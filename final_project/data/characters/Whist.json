@@ -1,0 +1,65 @@
+{
+ "name": "Whist",
+ "display_name": "Whist",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Reclamation Service",
+      "Imperial Reclamation Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Whist was a male Human lieutenant in the Imperial Reclamation Service of the Sith Empire during the Cold War. He was stationed on Tatooine in Mos Anek where he asked a fellow Imperial to conduct test scans on some hostile droids to determine the threat they posed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Reclamation_Service",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Mos_Anek",
+  "/wiki/Droid/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

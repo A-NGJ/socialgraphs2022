@@ -1,0 +1,74 @@
+{
+ "name": "Com_Fordox",
+ "display_name": "Com Fordox",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Com Fordox was the male Human senator of the Corellian sector during the crises of the Eriadu Trade Summit and Blockade of Naboo. After Supreme Chancellor Valorum was attacked, he visited Valorum along with Bail Antilles, Palpatine, and Orn Free Taa. Fordox nominated Bail Antilles for the Chancellorship.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Corellian_sector/Legends",
+  "/wiki/Eriadu_Trade_Summit",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Finis_Valorum/Legends",
+  "/wiki/Attack_on_Supreme_Chancellor_Valorum",
+  "/wiki/Bail_Antilles/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Orn_Free_Taa/Legends",
+  "/wiki/Galactic_Republic_Chancery_election,_32_BBY",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)",
+  "/wiki/Cloak_of_Deception",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Jol_Zackin",
+  "/wiki/3640_BBY",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Garm_Bel_Iblis/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

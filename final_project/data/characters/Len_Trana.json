@@ -1,0 +1,73 @@
+{
+ "name": "Len_Trana",
+ "display_name": "Len Trana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Strike Team Oricon",
+      "Strike Team Oricon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Len Trana was a female officer of the Galactic Republic at the time of the Galactic War with the reconstituted Sith Empire. During the Dread War, she was stationed on Oricon specializing as a merchant for fellow Republic troopers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Strike_Team_Oricon",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Dread_War",
+  "/wiki/Oricon",
+  "/wiki/Merchant/Legends",
+  "/wiki/Republic_trooper",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

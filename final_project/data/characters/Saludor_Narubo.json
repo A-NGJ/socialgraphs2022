@@ -1,0 +1,51 @@
+{
+ "name": "Saludor_Narubo",
+ "display_name": "Saludor Narubo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Givin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Saludor Narubo was a male Givin who lived during the time of the Galactic Civil War.\nNarubo was a neurobiologist and developed vaccines for some of the most deadly diseases in the galaxy. He worked for the Galactic Empire and was based in a laboratory in the Middle City of the planet Taris. However, the Alliance to Restore the Republic suspected that Narubo was developing dangerous biological agents for the Empire, so they sent a team of agents to Taris, to capture him. The agents gained custody of Narubo and began to transport him to Taris Spaceport, where a YT-1300 light freighter was waiting, to take Narubo off-world. However, they were tailed by Karvas Toll, an Imperial agent who planned to free Narubo from the Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Givin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Middle_City",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Karvas_Toll",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

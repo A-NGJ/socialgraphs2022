@@ -1,5 +1,6 @@
 {
- "name": "Mogra'daal",
+ "name": "Mogra%27daal",
+ "display_name": "Mogra'daal",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Mogra'daal was a parent of the Twi'lek Lonay.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

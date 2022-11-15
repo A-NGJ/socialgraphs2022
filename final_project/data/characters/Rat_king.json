@@ -1,0 +1,45 @@
+{
+ "name": "Rat_king",
+ "display_name": "Rat king",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jade Rats"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The rat king was the leader of the Jade Rats.\nThe rat king appears in the Chinese webnovel The Vow of Silver Dawn as 鼠王.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Jade_Rats",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rat_king",
+  "/wiki/The_Vow_of_Silver_Dawn"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "name": "Victor_Pomt",
+ "display_name": "Victor Pomt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kuat"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "26 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Victor Pomt was a male Human and the Staff Chief of Senator Viqi Shesh. Pomt aided Shesh on several bribery assassination attempts, hiring freelance assassin Roxi Barl for the senator. After several attempts against Leia Organa Solo and Han Solo failed, another of Shesh's minions killed Pomt, making it look like a suicide so he could take the blame and remove suspicion from Shesh.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/26_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Staff_Chief",
+  "/wiki/Senator/Legends",
+  "/wiki/Viqi_Shesh",
+  "/wiki/Assassin/Legends",
+  "/wiki/Roxi_Barl",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/The_New_Jedi_Order:_Recovery",
+  "/wiki/Wizards.com",
+  "/wiki/Making_a_Full_Recovery",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

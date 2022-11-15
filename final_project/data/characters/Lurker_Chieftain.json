@@ -1,0 +1,57 @@
+{
+ "name": "Lurker_Chieftain",
+ "display_name": "Lurker Chieftain",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Anoat"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "During the Iron Blockade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lurker"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Lurker Chieftain was the male leader of a Lurker nest on Anoat. He was killed by a young scoundrel who needed to reactivate a power generator on Tam Bastion's behalf.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Anoat",
+  "/wiki/Iron_Blockade",
+  "/wiki/Lurker_(Anoat)",
+  "/wiki/Gender",
+  "/wiki/Chief",
+  "/wiki/Death",
+  "/wiki/The_Smuggler",
+  "/wiki/Power_generator",
+  "/wiki/Tam_Bastion",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lurker_Chieftain",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

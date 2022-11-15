@@ -1,0 +1,53 @@
+{
+ "name": "Erron_Irbian",
+ "display_name": "Erron Irbian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Duke Erron Irbian was a male human who was officially in charge of the city of Jorra on the planet Cato Neimoidia. He was loyal to the Galactic Empire. After the Clone Wars, he enforced harsh labor conditions on factories that produced airspeeders, droids, and starships for the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Duke/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Jorra",
+  "/wiki/Planet/Legends",
+  "/wiki/Cato_Neimoidia/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Airspeeder/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Chronicles_of_the_Gatekeeper",
+  "/wiki/Fantasy_Flight_Games"
+ ]
+}

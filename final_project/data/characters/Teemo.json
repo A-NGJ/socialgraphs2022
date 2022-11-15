@@ -1,0 +1,90 @@
+{
+ "name": "Teemo",
+ "display_name": "Teemo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Greenish brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teemo the Hutt was a crime lord and a member of the Hutt Cartel, who operated out of his palace in the city of Mos Shuuta on Tatooine.\nTeemo was the de facto ruler of Mos Shuuta, a small city on the desert world of Tatooine. He was a Hutt crime lord of considerable influence, thanks to his relation to the illustrious Jabba Desilijic Tiure. For various reasons, he made enemies of Pash, Oskara, 41-VEX, and Lowhhrick. He also went against the Hutt Cartel, secretly reverse engineering Geonosian Battle Droids and misrepresenting the amount of Ryll he was importing from his mines on Ryloth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Teemo%27s_palace",
+  "/wiki/City/Legends",
+  "/wiki/Mos_Shuuta",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teemo",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Pash",
+  "/wiki/Oskara",
+  "/wiki/41-VEX",
+  "/wiki/Lowhhrick/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/B1-Series_battle_droid",
+  "/wiki/Ryll/Legends",
+  "/wiki/Mine/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Escape_from_Mos_Shuuta",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Beginner_Game",
+  "/wiki/The_Long_Arm_of_the_Hutt",
+  "/wiki/Friends_Like_These",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook"
+ ]
+}

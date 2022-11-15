@@ -1,0 +1,54 @@
+{
+ "name": "Wheade_Daud",
+ "display_name": "Wheade Daud",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Orman"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wheade Daud was a male Quarren demolitions man on the planet Lianna. He was employed as a thug by the Chevin club owner, Orman. At some point during his employment, he was ordered to attack a group of Alliance to Restore the Republic agents by Orman, but didn't really understand why.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Orman",
+  "/wiki/Planet/Legends",
+  "/wiki/Lianna/Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

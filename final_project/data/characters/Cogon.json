@@ -1,5 +1,6 @@
 {
  "name": "Cogon",
+ "display_name": "Cogon",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Cogon was a male human who served as an officer of the Galactic Empire until he deserted a few years prior to the Battle of Yavin. Along with another defector, Swain, he stole a Lambda-class T-4a shuttle from the planet Lothal before going into hiding on the planet Thrad. Although Cogon and his comrade were supposed to join a rebel cell on the planet Klonoid, they were captured on Thrad by Agent Kallus of the Imperial Security Bureau before they could make it.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

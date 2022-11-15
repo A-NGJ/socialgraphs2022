@@ -1,5 +1,6 @@
 {
  "name": "Flinn",
+ "display_name": "Flinn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Flinn was a Human male who served as a young recruit in the Coruscant Naval Academy during the Empire's rise for power. After attending the academy, he, along with fellow cadet Kestrel, were selected to monitor a new talented recruit named Lune Oddo Divinian. In a flight simulator, Flinn and Kestrel fought against Lune and Trever Flume until they were easily defeated.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

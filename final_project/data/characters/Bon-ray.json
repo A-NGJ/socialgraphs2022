@@ -1,5 +1,6 @@
 {
  "name": "Bon-ray",
+ "display_name": "Bon-ray",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Bon-ray was a bartender who owned a cantina on the planet Orra.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Special:Upload",

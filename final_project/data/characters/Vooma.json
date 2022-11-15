@@ -1,0 +1,53 @@
+{
+ "name": "Vooma",
+ "display_name": "Vooma",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yinchorr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yinchorri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Yinchorri, Vooma was the daughter of Elder Kardek and one of the five brides of Olmar Grahrk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yinchorr/Legends",
+  "/wiki/Yinchorri",
+  "/wiki/Gender/Legends",
+  "/wiki/Kardek",
+  "/wiki/Olmar_Grahrk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vooma",
+  "/wiki/Star_Wars_(1998)_40"
+ ]
+}

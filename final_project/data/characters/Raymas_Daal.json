@@ -1,0 +1,67 @@
+{
+ "name": "Raymas_Daal",
+ "display_name": "Raymas Daal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raymas Daal was a Human male criminal who worked for the Trade Federation shortly before the invasion of Naboo.\nUnder instruction from his employers, Daal encountered a group of operatives in Kwilaan. He offered the team 8,000 credits to temporarily deactivate a Naboo sensor array located just outside of the city as part of the Federation's invasion plans. Daal told the students he simply wanted to evade taxes on a rare spice shipment in order to increase profits, and intended to land while the sensor was deactivated. In reality, Daal's unnamed backer was the Trade Federation, which wanted to move jamming satellites into Naboo space undetected in preparation for an invasion of the planet. Daal was later captured and detained by Royal Naboo Security Forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Kwilaan_Starport/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Sensor_array/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Sensor/Legends",
+  "/wiki/Jammer",
+  "/wiki/Satellite/Legends",
+  "/wiki/Realspace/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Signal_Interruption",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

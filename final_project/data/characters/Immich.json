@@ -1,5 +1,6 @@
 {
  "name": "Immich",
+ "display_name": "Immich",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Immich was a human female who served in the Galactic Republic Navy with the military rank of admiral. During the Clone Wars, Immich commanded a Venator-class Star Destroyer of the Open Circle Fleet and was personally protected by two 501st Legion elite troopers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lucasfilm_Ltd.",

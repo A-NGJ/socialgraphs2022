@@ -1,5 +1,6 @@
 {
  "name": "Erragh",
+ "display_name": "Erragh",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "\"Coruscant\" Erragh was a Kaleesh male warrior fighting on the side of the Galactic Republic during the Battle of Ilum, where he was killed by the Imperials.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3640_BBY",

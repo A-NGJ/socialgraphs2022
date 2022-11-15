@@ -1,5 +1,6 @@
 {
  "name": "Chalkazza",
+ "display_name": "Chalkazza",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Chalkazza was a Wookiee with brown fur who had a cybernetic right eye, left shoulder and left elbow.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Wookiee",

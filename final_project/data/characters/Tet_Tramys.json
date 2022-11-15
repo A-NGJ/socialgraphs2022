@@ -1,0 +1,63 @@
+{
+ "name": "Tet_Tramys",
+ "display_name": "Tet Tramys",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tuttin IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tet Tramys was a Human male who supported the Alliance during the Galactic Civil War. Tramys left his homeworld, Tuttin IV, with Tendis and Jioie Ancum, in order to ensure that they reached their off-world cell without any trouble. He later worked with Jioie on many other missions, including the establishment of the Rebel cell based on Beltrix III. Tramys was also a noted bass vye player and instructor on the planet Tuttin IV.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tuttin_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Tendis_Ancum",
+  "/wiki/Jioie_Ancum",
+  "/wiki/Beltrix_III",
+  "/wiki/Bass_vye/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Rebel_Bass",
+  "/wiki/Star_Wars_Gamer_6"
+ ]
+}

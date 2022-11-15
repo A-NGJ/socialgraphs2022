@@ -1,0 +1,70 @@
+{
+ "name": "Concerned_Resistance_Officer",
+ "display_name": "Concerned Resistance Officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Concerned Resistance Officer was a male Human aligned with the Resistance. He admired the late Admiral Gial Ackbar and wanted to get the rookie soldiers out of the traps on Endor, Crait and Jakku.\n\"Concerned Resistance Officer\" first appeared in a side mission titled \"It Was Several Traps!\" in the 2022 non-canonical video game LEGO Star Wars: The Skywalker Saga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Admiral",
+  "/wiki/Gial_Ackbar",
+  "/wiki/Endor",
+  "/wiki/Crait",
+  "/wiki/Jakku",
+  "/wiki/2022",
+  "/wiki/Video_game",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

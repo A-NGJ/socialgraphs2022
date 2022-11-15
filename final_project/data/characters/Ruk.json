@@ -1,5 +1,6 @@
 {
  "name": "Ruk",
+ "display_name": "Ruk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Ruk was a male Keredian who was a member of the Tech Masters. The Tech Masters ruled over the planet Trionak, keeping it a secret for centuries.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Noghri",

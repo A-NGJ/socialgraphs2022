@@ -1,0 +1,39 @@
+{
+ "name": "Seeqov_hive-clan",
+ "display_name": "Seeqov hive-clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vratix"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Seeqov hive-clan was a Vratix hive-clan to which the scientist Seeqov Thranx belonged.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hive-clan",
+  "/wiki/Vratix/Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Bloodletter",
+  "/wiki/Vratix",
+  "/wiki/Scientist/Legends",
+  "/wiki/Seeqov_Thranx",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Seeqov_hive-clan",
+  "/wiki/Wizards.com",
+  "/wiki/Thyferra:_Bacta_Basics"
+ ]
+}

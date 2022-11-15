@@ -1,0 +1,72 @@
+{
+ "name": "Surab",
+ "display_name": "Surab",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "75th Legion",
+      "75th Legion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Surab was a female Human colonel of the Sith Empire and the commander of the 75th Legion under Sith Lord Vago. During the Galactic War she was posted on Taris along with the rest of the legion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/75th_Legion",
+  "/wiki/Colonel/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Vago",
+  "/wiki/Galactic_War",
+  "/wiki/Taris/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Surab",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

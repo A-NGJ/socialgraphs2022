@@ -1,5 +1,6 @@
 {
  "name": "Brazzo",
+ "display_name": "Brazzo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -67,7 +68,7 @@
   }
  ],
  "content": "Brazzo was a Human male bounty hunter on Centares.\nHe was known to have learned the identity of Luke Skywalker. He and his sister, Selle, fled from Darth Vader, who eventually caught them. He fired his blaster at Vader, who deflected the bolt with lightsaber into Selle. Overcome with grief, Brazzo failed to dodge Vader's killing stroke.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Centares/Legends",

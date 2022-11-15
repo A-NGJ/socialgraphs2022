@@ -1,0 +1,47 @@
+{
+ "name": "Ossin_Nandar",
+ "display_name": "Ossin Nandar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gotal"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Spectres"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ossin Nandar was a male Gotal citizen of Lothal who was rescued by the Spectres and granted shelter in the Haven.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gotal",
+  "/wiki/Gender",
+  "/wiki/Spectres",
+  "/wiki/Lothal",
+  "/wiki/Haven",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ossin_Nandar",
+  "/wiki/Star_Wars_Rebels:_Recon_Missions"
+ ]
+}

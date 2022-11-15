@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Gran_officer",
+ "display_name": "Unidentified Gran officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Gran officer served Daultay Dofine on the bridge of the Revenue. He controlled the central computer op the Lucrehalk-class battleship. When Arwen Cohl and his crew infiltrated the ship, he, Dofine and the rest of the crew flew to the Acquisitor and escaped before the Galactic Republic could catch them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Daultay_Dofine/Legends",
+  "/wiki/Revenue",
+  "/wiki/Lucrehulk-class_battleship",
+  "/wiki/Arwen_Cohl",
+  "/wiki/Acquisitor_(Lucrehulk-class)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gran_officer",
+  "/wiki/Cloak_of_Deception"
+ ]
+}

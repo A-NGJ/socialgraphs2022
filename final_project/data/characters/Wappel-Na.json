@@ -1,0 +1,61 @@
+{
+ "name": "Wappel-Na",
+ "display_name": "Wappel-Na",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wappel-Na was a Voss Mystic living on Voss many years before his planet was discovered by the galactic society. He foresaw the hunger during which the Three must survive, which led to interpreters giving the food to them leaving many other Voss to suffer. Hurt and hated, Wappel-Na was allowed to record his thought in the Writings of Wappel-Na on a carving outside the Shrine of Healing in the Old Paths.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Writings_of_Wappel-Na",
+  "/wiki/Planet/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Three",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Old_Paths",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Setenna_Hase",
+ "display_name": "Setenna Hase",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tralus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Setenna Hase was a Senior Advisor who helped to found the Ardan resistance. In 0 ABY, Hase was kidnapped by the traitorous Lieutenant Var Narek.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tralus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Senior_Advisor/Legends",
+  "/wiki/Ardan_resistance",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Var_Narek",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Setenna_Hase",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

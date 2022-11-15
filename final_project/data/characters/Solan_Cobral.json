@@ -1,0 +1,64 @@
+{
+ "name": "Solan_Cobral",
+ "display_name": "Solan Cobral",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Frego"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fregan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cobral family",
+      "The Cobral"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solan Cobral was the son of Zanita Cobral and the figurehead behind the Cobral family's crime syndicate. He was manipulated by his mother, though he never admitted it. He was involved in the death of his younger brother, Rutin Cobral.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Frego",
+  "/wiki/Fregan",
+  "/wiki/Gender/Legends",
+  "/wiki/Cobral_family",
+  "/wiki/The_Cobral",
+  "/wiki/Jocasta_Nu/Legends",
+  "/wiki/Zanita_Cobral",
+  "/wiki/Death/Legends",
+  "/wiki/Rutin_Cobral",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Solan_Cobral",
+  "/wiki/Jedi_Apprentice:_The_Only_Witness",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

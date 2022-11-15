@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Dug_(bounty_hunter)",
+ "display_name": "Unidentified Dug  (bounty hunter)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Dug was a bounty hunter. One dy before 9 BBY, Deva Lompop hired a group of bounty hunters, including the infamous Zuckuss and 4-LOM, to kill the Culisetto warlord, Cribiriz Idollax, who, in her opinion, was becoming a threat.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Dug",
+  "/wiki/Color",
+  "/wiki/9_BBY",
+  "/wiki/Deva_Lompop",
+  "/wiki/Bounty_hunter",
+  "/wiki/Zuckuss",
+  "/wiki/4-LOM",
+  "/wiki/Cribiriz_Idollax",
+  "/wiki/War_of_the_Bounty_Hunters_%E2%80%93_4-LOM_%26_Zuckuss_1"
+ ]
+}

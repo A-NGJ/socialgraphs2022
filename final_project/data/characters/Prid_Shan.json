@@ -1,0 +1,51 @@
+{
+ "name": "Prid_Shan",
+ "display_name": "Prid Shan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Prid Shan served Supreme Chancellor Palpatine as a Captain, possibly of the Senate Guard. His concerns over the Chancellor's life gave Darth Sidious the chance to create the Red Guard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shan_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Captain_of_the_Guard/Legends",
+  "/wiki/Red_Guard",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Galactic_Power_Brokers",
+  "/wiki/Star_Wars_Gamer_10"
+ ]
+}

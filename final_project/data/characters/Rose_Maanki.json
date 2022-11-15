@@ -1,0 +1,62 @@
+{
+ "name": "Rose_Maanki",
+ "display_name": "Rose Maanki",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dromund Kaas slave rebels"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rose Maanki was a red-haired female Zabrak slave who took part in a slave uprising near the Unfinished colossus outside of Kaas City, on the Sith Empire capital world of Dromund Kaas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dromund_Kaas_slave_rebels",
+  "/wiki/Color/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Unfinished_colossus",
+  "/wiki/Kaas_City",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Wookiee_Jedi",
+ "display_name": "Unidentified Wookiee Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order",
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Wookiee was trained as a Jedi in the New Jedi Order. During the Swarm War the Wookiee individual was training to become a Jedi at the Ossus Academy. When Chiss Aristocra Chaf'orm'bintrano visited the academy, the apprentice was partaking in a game of Skorch.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Jedi/Legends",
+  "/wiki/Swarm_War",
+  "/wiki/Jedi_Academy_(Ossus)",
+  "/wiki/Chiss/Legends",
+  "/wiki/Aristocra/Legends",
+  "/wiki/Chaf%27orm%27bintrano",
+  "/wiki/Skorch",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_I:_Conquest",
+  "/wiki/Dark_Nest_I:_The_Joiner_King"
+ ]
+}

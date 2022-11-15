@@ -1,0 +1,59 @@
+{
+ "name": "Unidentified_Tethan_youngling",
+ "display_name": "Unidentified Tethan youngling",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Teth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "c"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This youngling lived on the planet Teth around the time of the Clone Wars. He was present at the B'omarr Monastery during the Battle of Teth, and encountered the Trandoshan thief-for-hire Quar Rohk, who was attempting to steal a Crystalline vertex from the monastery, as well as Janu Godalhi, who was investigating a rumored Confederate superweapon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Teth/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/B%27omarr_Monastery_(Teth)",
+  "/wiki/Battle_of_Teth/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Scoundrel",
+  "/wiki/Quar_Rohk",
+  "/wiki/Crystalline_vertex/Legends",
+  "/wiki/Janu_Godalhi/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Superweapon/Legends",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_Tethan_Battle_Adventure"
+ ]
+}

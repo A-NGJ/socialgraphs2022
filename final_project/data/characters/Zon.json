@@ -1,0 +1,64 @@
+{
+ "name": "Zon",
+ "display_name": "Zon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rattataki"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Minos-Mestra Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zon was a male Rattataki miner living during the Galactic War. In 3631 BBY he was part of the mining group working on Ilum for the Minos-Mestra Corporation, who secured the mining rights from both Galactic Republic and the Sith Empire. After the miners accidentally desecrated the burial site of Xivhkalrainik's father, his son, the Sith Lord Xalek, began attacking their mining camps, slaughtering everyone. When Zon lost contact with Shaft 12, help arrived in form of the Alliance commander, who set to track down the murderer. Xalek eventually attacked Zon's mining camp, but was stopped by the Alliance Commander before he could kill Zon and his foreman.\nZon appears in Star Wars: The Old Republic: Knights of the Fallen Empire during the Xalek Alliance alert mission.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Minos-Mestra_Corporation",
+  "/wiki/Galactic_War",
+  "/wiki/3631_BBY",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Xivhkalrainik%27s_father",
+  "/wiki/Xivhkalrainik",
+  "/wiki/Shaft_12",
+  "/wiki/Alliance_Commander",
+  "/wiki/Cross-Shelf_Corridor",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

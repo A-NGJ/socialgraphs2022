@@ -1,0 +1,52 @@
+{
+ "name": "Burnal_Terrup",
+ "display_name": "Burnal Terrup",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Void Demons"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Burnal Terrup was a male Devaronian who was second-in-command of the Void Demons pirate gang.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Void_Demons",
+  "/wiki/Pirate/Legends",
+  "/wiki/Planets_of_the_Galaxy,_Volume_One",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

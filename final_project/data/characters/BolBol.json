@@ -1,5 +1,6 @@
 {
  "name": "BolBol",
+ "display_name": "BolBol",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "BolBol was the Hutt crime lord in charge of the Stenness system. He occasionally worked with Mageye the Hutt and the Thig Brothers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

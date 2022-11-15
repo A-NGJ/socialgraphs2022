@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_gunner",
+ "display_name": "Unidentified gunner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male individual was a gunner of the Rebel Alliance. He served under Captain Miara Larte, and was offworld when his homeworld of Alderaan was destroyed. He was present in the Great Temple on Yavin 4 in 0 ABY for the Royal Award Ceremony.\nIn \"By Whatever Sun\", Miara notes that the gunner is named 'Hester or Heattens or something like that'.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Alderaan",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Captain",
+  "/wiki/Miara_Larte",
+  "/wiki/Homeworld",
+  "/wiki/The_Disaster",
+  "/wiki/Great_Temple",
+  "/wiki/Yavin_4",
+  "/wiki/0_ABY",
+  "/wiki/Royal_Award_Ceremony",
+  "/wiki/By_Whatever_Sun",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_gunner",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

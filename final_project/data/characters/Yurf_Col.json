@@ -1,0 +1,73 @@
+{
+ "name": "Yurf_Col",
+ "display_name": "Yurf Col",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Duro"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "29 ABY",
+      "Duro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Duro Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yurf Col was a male Duros from Duro. Following the Battle of Duro, he became the commander in charge of Duro Squadron, and fought in the battle in the Duro system. At the battle, Col became extremely critical of General Wedge Antilles, due to his unwillingness to share his strategy and inability to reclaim Duro. Col was killed with his forces when he broke ranks and attacked the Yuuzhan Vong forces despite Antilles' order to hold their positions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/29_ABY/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Duro_Squadron",
+  "/wiki/Battle_of_Duro_(Yuuzhan_Vong_War)",
+  "/wiki/Commander/Legends",
+  "/wiki/Battle_of_the_Duro_system",
+  "/wiki/Duro_system",
+  "/wiki/General/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Tympanic",
+ "display_name": "Tympanic",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tympanic was a Humanoid female mercenary. She was employed by Moff Bandor to hunt prisoners in his Game Chambers. She was armed with a blaster carbine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Bandor",
+  "/wiki/Game_Chambers",
+  "/wiki/Blaster_carbine/Legends",
+  "/wiki/The_Game_Chambers_of_Questal"
+ ]
+}

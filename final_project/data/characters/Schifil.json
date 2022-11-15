@@ -1,5 +1,6 @@
 {
  "name": "Schifil",
+ "display_name": "Schifil",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Schifil was a security guard in Salis D'aar, Bakura.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bakura/Legends",

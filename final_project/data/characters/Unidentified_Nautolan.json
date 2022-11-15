@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Nautolan",
+ "display_name": "Unidentified Nautolan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Nautolan male criminal lived on the moon Nar Shaddaa. He and his friends want to insult Deva Lompop, but the bounty hunter hit them unconscious.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nautolan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Deva_Lompop",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Nautolan",
+  "/wiki/War_of_the_Bounty_Hunters_%E2%80%93_Jabba_the_Hutt_1"
+ ]
+}

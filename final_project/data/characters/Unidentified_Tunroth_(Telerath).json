@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Tunroth_(Telerath)",
+ "display_name": "Unidentified Tunroth  (Telerath)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tunroth"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Tunroth has yellow skin. It visited the Galactic Republic banking world of Telerath during 3963 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tunroth",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Telerath/Legends",
+  "/wiki/3963_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Tunroth_(Telerath)",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic:_Reunion"
+ ]
+}

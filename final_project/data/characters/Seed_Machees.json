@@ -1,0 +1,83 @@
+{
+ "name": "Seed_Machees",
+ "display_name": "Seed Machees",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sebolto's drug cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Seed Machees was a male Gran who worked for Sebolto during the waning years of the Republic Classic era. In 32 BBY, he was wanted by Coruscant Police for questioning, as well as being involved in the smuggling of death sticks on Malastare shortly after the Uprising on Naboo. His bounty worth 4,000 credits alive and 2,000 credits dead was claimed by the Mandalorian-turned bounty hunter Jango Fett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hok/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sebolto%27s_drug_cartel",
+  "/wiki/Sebolto",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Republic_Classic_era",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Coruscant_Police",
+  "/wiki/Death_stick/Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Uprising_on_Naboo",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

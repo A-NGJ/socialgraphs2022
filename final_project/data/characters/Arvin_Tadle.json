@@ -1,0 +1,49 @@
+{
+ "name": "Arvin_Tadle",
+ "display_name": "Arvin Tadle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Arvin Tadle was a male Human in charge of the New Republic's embassy on the planet Ergeshui, located in Outworlder City.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Ergeshui",
+  "/wiki/Outworlder_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arvin_Tadle",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Two",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

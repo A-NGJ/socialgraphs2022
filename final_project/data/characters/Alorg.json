@@ -1,5 +1,6 @@
 {
  "name": "Alorg",
+ "display_name": "Alorg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Alorg was the leader of the Flesh Mongers pirates during or prior to 32 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lo%27s_species",

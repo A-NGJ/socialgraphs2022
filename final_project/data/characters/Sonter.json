@@ -1,0 +1,76 @@
+{
+ "name": "Sonter",
+ "display_name": "Sonter",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sonter was a male Human who served as an officer in the Imperial Army of the Sith Empire during the Galactic War. During the Quesh war on the planet Quesh, he was stationed at the Imperial Garrison, distributing armor to other Imperial forces.\nSonter appears in the video game Star Wars: The Old Republic, released by BioWare in 2011, as a Light Armor Vendor for Imperial players on Quesh.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Quesh_war",
+  "/wiki/Planet/Legends",
+  "/wiki/Quesh",
+  "/wiki/Imperial_Garrison_(Quesh)",
+  "/wiki/Armor/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

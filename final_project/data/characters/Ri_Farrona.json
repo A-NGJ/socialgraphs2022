@@ -1,0 +1,68 @@
+{
+ "name": "Ri_Farrona",
+ "display_name": "Ri Farrona",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ri Farrona was a male Mirialan citizen of the Sith Empire during the Cold War. He was among the people who in 3643 BBY were abducted by the Darth Jadus and put aboard his Harrower-class dreadnought in the Artus system, made to fight and eliminate each other as part of Sith's social experiment.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Darth_Jadus",
+  "/wiki/Harrower-class_dreadnought",
+  "/wiki/Artus_system",
+  "/wiki/Sith/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

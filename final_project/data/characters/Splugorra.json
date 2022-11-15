@@ -1,0 +1,29 @@
+{
+ "name": "Splugorra",
+ "display_name": "Splugorra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Splugorra was a Hutt for whom the Siniteen architect Golas Aram once designed a prison.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hutt",
+  "/wiki/Siniteen",
+  "/wiki/Architect",
+  "/wiki/Golas_Aram",
+  "/wiki/Prison",
+  "/wiki/Aftermath:_Life_Debt",
+  "/wiki/Aftermath:_Life_Debt_(audiobook)"
+ ]
+}

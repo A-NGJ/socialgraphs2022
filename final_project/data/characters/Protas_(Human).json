@@ -1,0 +1,85 @@
+{
+ "name": "Protas_(Human)",
+ "display_name": "Protas  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Anobis"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "5 ABY",
+      "Anobis"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "24 ABY",
+      "Anobis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Protas was the younger brother of Elis. He was one of the miners on Anobis that sided with the Galactic Empire to ensure good trade with the Empire, he survived until the end of the Civil war on Anobis. He was convinced by Anja Gallandro to go to Yuos's village so they could sabotage it. Unfortunately for him, when him Anja and other miners were planting explosives, Anja did not inform him of were she placed the detonators, so when he went over to plant a burrowing detonator at the doorstep of Yuos's house, he fell victim of Anjas's own explosive which she placed there only minutes before. The explosion killed him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Protas",
+  "/wiki/Kamino/Legends",
+  "/wiki/Anobis",
+  "/wiki/5_ABY/Legends",
+  "/wiki/24_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Elis",
+  "/wiki/Anja_Gallandro",
+  "/wiki/Yuos",
+  "/wiki/Burrowing_detonator",
+  "/wiki/Young_Jedi_Knights:_Return_to_Ord_Mantell",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

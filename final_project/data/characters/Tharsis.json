@@ -1,0 +1,87 @@
+{
+ "name": "Tharsis",
+ "display_name": "Tharsis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Loell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tharsis was a Human male Sith Lord of the resurgent Empire who was stationed on Balmorra during the Great Galactic War, the Cold War, and the Galactic War. During the liberation of Balmorra on the Moraine Gulch Territory, he was lured into a trap and was killed by a Republic individual.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Loell",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Balmorra_(Great_Galactic_Wars)",
+  "/wiki/Moraine_Gulch",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tharsis",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

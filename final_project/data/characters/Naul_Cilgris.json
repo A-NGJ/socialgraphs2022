@@ -1,0 +1,49 @@
+{
+ "name": "Naul_Cilgris",
+ "display_name": "Naul Cilgris",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cilgris family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Naul Cilgris was a male Duros who owned and operated the modified Barloz-class freighter Birthright around the time of the Yuuzhan Vong War. Cilgris was a member of the Cilgris family, a family of Duros traders, and he was the nephew of Thes Cilgris and the cousin of Yett Cilgris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cilgris_family",
+  "/wiki/Barloz-class_freighter",
+  "/wiki/Birthright",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Merchant/Legends",
+  "/wiki/Thes_Cilgris",
+  "/wiki/Yett_Cilgris",
+  "/wiki/Starships_of_the_Galaxy"
+ ]
+}

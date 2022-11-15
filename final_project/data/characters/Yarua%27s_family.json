@@ -1,0 +1,62 @@
+{
+ "name": "Yarua%27s_family",
+ "display_name": "Yarua's family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A family of Wookiees, originating from the planet Kashyyyk, consisted of Galactic Republic senator Yarua and his daughter Viiveenn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Kashyyyk",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_Senate",
+  "/wiki/Planet",
+  "/wiki/Senator",
+  "/wiki/Yarua",
+  "/wiki/Gender",
+  "/wiki/Viiveenn",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarua%27s_family",
+  "/wiki/Queen%27s_Peril",
+  "/wiki/Queen%27s_Peril_(audiobook)",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Queen%27s_Shadow",
+  "/wiki/Queen%27s_Shadow_(audiobook)",
+  "/wiki/Hyperspace_Stories_1",
+  "/wiki/Databank_(website)",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/A_Certain_Point_of_View_(Star_Wars_Insider)",
+  "/wiki/Star_Wars_Insider_211"
+ ]
+}

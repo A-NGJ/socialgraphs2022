@@ -1,5 +1,6 @@
 {
  "name": "Evader",
+ "display_name": "Evader",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Evader was a clone commando. He wore cupid clone trooper armor  that was colored brown and orange.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kamino/Legends",

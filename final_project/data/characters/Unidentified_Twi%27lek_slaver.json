@@ -1,0 +1,46 @@
+{
+ "name": "Unidentified_Twi%27lek_slaver",
+ "display_name": "Unidentified Twi'lek slaver",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Prior to 0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Galactic Civil War, a Twi'lek slaver visited Carosi XII, where they proceeded to threaten a patient of the Carosite medic, Tamo Lan. To protect his patient, Lan was forced to kill the slaver.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Carosi_XII",
+  "/wiki/Unidentified_patient_(Carosi_XII)",
+  "/wiki/Carosite",
+  "/wiki/Medic/Legends",
+  "/wiki/Tamo_Lan",
+  "/wiki/Gender/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Cracken%27s_Rebel_Operatives_(article)",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

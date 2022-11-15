@@ -1,0 +1,57 @@
+{
+ "name": "Sssl",
+ "display_name": "Sssl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mustafar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mustafarian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clan Rrrt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mother Sssl was a Mustafarian priestess of Clan Rrrt. At one point early in the Imperial Era, she launched an attack on Fortress Vader, using mind-controlled slaves to spread a plague. However, her attempt was ultimately foiled by Darth Vader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mustafar",
+  "/wiki/Mustafarian",
+  "/wiki/Clan_Rrrt",
+  "/wiki/Mother_(title)",
+  "/wiki/Priest",
+  "/wiki/Imperial_Era",
+  "/wiki/Attack_on_Fortress_Vader",
+  "/wiki/Fortress_Vader",
+  "/wiki/Unidentified_plague_(Mustafar)",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sssl",
+  "/wiki/Star_Wars_Adventures:_Return_to_Vader%27s_Castle_5"
+ ]
+}

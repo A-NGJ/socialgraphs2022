@@ -1,5 +1,6 @@
 {
  "name": "Danod",
+ "display_name": "Danod",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -60,7 +61,7 @@
   }
  ],
  "content": "Danod was a police officer in the Corellian Security Force during the Galactic War between the Galactic Republic and the reconstituted Sith Empire. During the Battle of Corellia, Danod tried to protect civilians in the Blue Sector from the vicious Coronas gang, but was forced to seek help from Republic forces after the gang murdered Ben Kahob for stockpiling medkits for the resistance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

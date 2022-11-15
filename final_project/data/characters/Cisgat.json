@@ -1,5 +1,6 @@
 {
  "name": "Cisgat",
+ "display_name": "Cisgat",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Cisgat was a male Ryn who Han Solo met in the Bet's Off tapcafe on the Jubilee Wheel in 25 BBY. He was trying to secure passage to Rhinnal.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ryn/Legends",

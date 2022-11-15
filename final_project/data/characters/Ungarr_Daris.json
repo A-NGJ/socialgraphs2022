@@ -1,0 +1,46 @@
+{
+ "name": "Ungarr_Daris",
+ "display_name": "Ungarr Daris",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ungarr Daris was a powerful Human politician from Thyferra.\nSometime after the Battle of Yavin, Daris was kidnapped by Tyber Zann for the Zann Consortium. He cooperated after his security forces failed and on the understanding that he and his family would not be harmed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Tyber_Zann",
+  "/wiki/Zann_Consortium/Legends",
+  "/wiki/Star_Wars:_Empire_at_War:_Forces_of_Corruption"
+ ]
+}

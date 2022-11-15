@@ -1,0 +1,28 @@
+{
+ "name": "Welex_Korofu",
+ "display_name": "Welex Korofu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Welex Korofu was an ace Duros pilot who trained in the canyons of the planet Endex. Korofu's crashed starship was later recovered by archaeologists from where it lay in the canyons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Endex",
+  "/wiki/Starship/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

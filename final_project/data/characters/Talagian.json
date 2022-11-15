@@ -1,0 +1,63 @@
+{
+ "name": "Talagian",
+ "display_name": "Talagian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi OrderGalactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talagian was a Gran male and Jedi Master of the Jedi Order. He was stationed on Voss during the Galactic War between the Galactic Republic and the reconstituted Sith Empire.\nTalagian appears only in the game files for Star Wars: The Old Republic under the mission \"Our Past Ourselves\" as the content wasn't released with the game.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Voss",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Ukon_Eyste",
+ "display_name": "Ukon Eyste",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kinyen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gran hitmen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ukon Eyste was a male Gran hitman and convicted killer who lived during the waning years of the Republic Classic era. Having a death sentence on six star systems, the Republic Security Force placed a bounty worth 3,000 credits alive and 1,500 dead. The bounty was claimed by Jango Fett.\nDespite being labeled as armed and dangerous, Ukon Eyste is a coward.\nIf the player kills a Nexu, which tries to kill Ukon, he will run around in fear.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kinyen/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Republic_Classic_era",
+  "/wiki/Republic_Security_Force/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Nexu/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

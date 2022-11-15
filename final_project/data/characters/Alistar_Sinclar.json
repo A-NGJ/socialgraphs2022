@@ -1,0 +1,46 @@
+{
+ "name": "Alistar_Sinclar",
+ "display_name": "Alistar Sinclar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Proam Avenue Citizen Assistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alistar Sinclar was a male who managed the Proam Avenue Citizen Assistance office.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Proam_Avenue_Citizen_Assistance",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Alistar_Sinclar",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Faddo",
+ "display_name": "Faddo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "\"Faddo\" was a male Rodian con artist who worked as a wandering Tredwall sales representative, selling defective NR knockoffs on the Vohai Unirail in the year 2 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

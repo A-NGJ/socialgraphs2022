@@ -1,5 +1,6 @@
 {
  "name": "Iponta",
+ "display_name": "Iponta",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Iponta was a Gutretee warrior living on Isis during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Isis",

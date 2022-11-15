@@ -1,0 +1,84 @@
+{
+ "name": "Voal",
+ "display_name": "Voal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hockaleg"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voal was the Imperial Navy captain who commanded the Tarkin, during its construction in the Patriim system.\nVoal and an important number of officers aboard the Tarkin wanted to eliminate Darth Vader. They feared and hated him, because of his senseless disregard for his subordinates, especially after Major Kuhru failed to capture Luke Skywalker.\nWhen Colonel Nord decided to fire the ionic cannon aboard the Tarkin to destroy Luke Skywalker and Leia Organa, the superweapon exploded. It had been sabotaged by the Alliance, and tore itself apart when fired. Voal and all the Imperial personnel aboard were killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hockaleg",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Tarkin_(superweapon)",
+  "/wiki/Patriim_system",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Kuhru",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Nord_(Imperial)",
+  "/wiki/Ion_cannon/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Superweapon/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars_(1977)_51",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Tyvius",
+ "display_name": "Tyvius",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Druckenwell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyvius was a male Human from Druckenwell. He was a refugee aboard the Chilastra when it was attacked by Yuuzhan Vong.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Druckenwell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chilastra",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tyvius",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Hive_of_the_Infidel",
+  "/wiki/Star_Wars_Gamer_8"
+ ]
+}

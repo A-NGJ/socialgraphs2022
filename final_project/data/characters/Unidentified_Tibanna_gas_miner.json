@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Tibanna_gas_miner",
+ "display_name": "Unidentified Tibanna gas miner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified Tibanna gas miner was one of the many working on Cloud City for greedy corporations exploiting planetary atmospheres. He was unconcerned with any environmental repercussions from his work.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Atmosphere/Legends",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Cloud_City_Limited"
+ ]
+}

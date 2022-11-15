@@ -1,5 +1,6 @@
 {
  "name": "Barra",
+ "display_name": "Barra",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Barra was a Twi'lek female Captain who served in the Galactic Republic military during the Cold War. She was stationed at Wardpost Hurne in the Glarus Valley where she met a Republic spacer who was sent by Captain Cahill.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

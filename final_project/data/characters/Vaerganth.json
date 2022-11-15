@@ -1,0 +1,52 @@
+{
+ "name": "Vaerganth",
+ "display_name": "Vaerganth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaerganth was the governor of Venaari, and a great source of annoyance for Major Gaevril Daraada during the New Republic era.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Venaari",
+  "/wiki/Major/Legends",
+  "/wiki/Gaevril_Daraada",
+  "/wiki/New_Republic_era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vaerganth",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/One_of_a_Kind_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

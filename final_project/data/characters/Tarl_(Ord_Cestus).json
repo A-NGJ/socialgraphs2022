@@ -1,0 +1,57 @@
+{
+ "name": "Tarl_(Ord_Cestus)",
+ "display_name": "Tarl  (Ord Cestus)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarl was a male Human individual who is the son of Yander, a native miner of Ord Cestus, who once was the husband of Sheeka Tull. He had a sister, Tonoté, and a brother, Mithail. Tarl had a burly build.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Hume_Tarl",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yander_(Ord_Cestus)",
+  "/wiki/Sheeka_Tull",
+  "/wiki/Tonot%C3%A9",
+  "/wiki/Mithail",
+  "/wiki/The_Cestus_Deception"
+ ]
+}

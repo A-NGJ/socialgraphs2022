@@ -1,0 +1,58 @@
+{
+ "name": "Mart_Ringatz",
+ "display_name": "Mart Ringatz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tibrin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ishi Tib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mart Ringatz was a male Ishi Tib who was wanted by the Republic Security Force for the theft of jewels belonging to Sullustans visiting Dantooine.\nMart Ringatz bounty was worth 3,000 credits alive and 1,500 credits dead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tibrin/Legends",
+  "/wiki/Ishi_Tib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Security_Force/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

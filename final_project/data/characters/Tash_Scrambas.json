@@ -1,0 +1,52 @@
+{
+ "name": "Tash_Scrambas",
+ "display_name": "Tash Scrambas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tash Scrambas was the father of Pello Scrambas.\nScrambas served as Captain aboard the frigate Qel-Droma. During the Alderaan Ascendancy Contention, he refused to take any sides and cooperated with Jorus C'baoth in negotiating a truce.\nThe day the crisis ended, Scrambas's 15-year-old son, Pello, joined the Alderaanian armed forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tash_(disambiguation)",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pello_Scrambas",
+  "/wiki/Captain/Legends",
+  "/wiki/Frigate/Legends",
+  "/wiki/Qel-Droma",
+  "/wiki/Alderaan_Ascendancy_Contention",
+  "/wiki/Jorus_C%27baoth",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Alderaanian_armed_forces",
+  "/wiki/Databank_(original)"
+ ]
+}

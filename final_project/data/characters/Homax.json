@@ -1,5 +1,6 @@
 {
  "name": "Homax",
+ "display_name": "Homax",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Homax was a Human male Communications Officer who served in the Galactic Republic during the Galactic War. Stationed on the planet Quesh, he received a distress call from the worker camps and reported it to General Korvan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

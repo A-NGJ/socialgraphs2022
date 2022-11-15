@@ -1,0 +1,63 @@
+{
+ "name": "Treeska",
+ "display_name": "Treeska",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Treeska was a Human male who served as a loyal bodyguard to Bria Tharen and two Rebel officers, Feltran and Darnov during the Galactic Civil War. He was aboard the Queen of Empire where he and the crew were on their way to Nar Shaddaa to meet up with the Hutts. He was killed by Boba Fett while defending Tharen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bria_Tharen",
+  "/wiki/Feltran",
+  "/wiki/Darnov",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Queen_of_Empire",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Rebel_Dawn"
+ ]
+}

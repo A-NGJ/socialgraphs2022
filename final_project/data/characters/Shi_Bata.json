@@ -1,0 +1,75 @@
+{
+ "name": "Shi_Bata",
+ "display_name": "Shi Bata",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shi Bata was a Human male Corellian doctor living during the Galactic War between the Galactic Republic and the resurgent Sith Empire.\nDuring the Battle of Corellia in 3640 BBY Shi Bata's wife died in the Imperial attack on the planet. Shi Bata joined the Corellian resistance and went undercover as a medic in the Caicos Droid Factory, now a makeshift hospital. He was contacted by Nevis Kitt and was asked to get the smuggler Voidhound inside the heavily guarded factory. Shi Bata accomplished that by simply shooting the smuggler in a leg and bringing him in with the wounded, then patching it up while inside.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/3640_BBY",
+  "/wiki/Shi_Bata%27s_wife",
+  "/wiki/Planet/Legends",
+  "/wiki/Caicos_Droid_Factory",
+  "/wiki/Nevis_Kitt",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Voidhound",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

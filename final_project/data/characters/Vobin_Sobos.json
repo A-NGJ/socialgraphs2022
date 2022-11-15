@@ -1,0 +1,40 @@
+{
+ "name": "Vobin_Sobos",
+ "display_name": "Vobin Sobos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vobin Sobos was a Dug pirate who lived during the Galactic Civil War. The pirate band Sobos was part of once worked for the Dark Jedi Thaum Rystra. However, Rystra captured Sobos and some of the other pirates and took them back to the Temple of Pain, a Sith Temple built inside an asteroid, located inside the Tascollan Nebula. Rystra practiced Sith alchemy on them and Sobos was scarred by this.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Thaum_Rystra",
+  "/wiki/Temple_of_Pain",
+  "/wiki/Sith_Temple",
+  "/wiki/Asteroid/Legends",
+  "/wiki/Tascollan_Nebula",
+  "/wiki/Sith_alchemy/Legends",
+  "/wiki/Light_and_Dark_(adventure)"
+ ]
+}

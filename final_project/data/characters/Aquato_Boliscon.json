@@ -1,0 +1,61 @@
+{
+ "name": "Aquato_Boliscon",
+ "display_name": "Aquato Boliscon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Socorro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Soco-Jarel Spaceport",
+      "Black Bha'lir"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aquato Boliscon was a smuggler who invested the profits he made running guns and spice into buying Soco-Jarel Spaceport on Socorro. Aquato operated Boliscon Towers, twin five-storey docking hangars on the edge of the spaceport. Boliscon was renowned for his expertise in finding and acquiring quality starships and reselling them for a profit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Socorro/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Soco-Jarel_Spaceport",
+  "/wiki/Black_Bha%27lir",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Boliscon_Towers",
+  "/wiki/Starship/Legends",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

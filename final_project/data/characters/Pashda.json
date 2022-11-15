@@ -1,5 +1,6 @@
 {
  "name": "Pashda",
+ "display_name": "Pashda",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Pashda the Hutt was a Hutt gangster who was contracted by the Mon Calamari Basz to kidnap Princess Roola the Hutt. Pashda had a stronghold on Toydaria.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hutt",

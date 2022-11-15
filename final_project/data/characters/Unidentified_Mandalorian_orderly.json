@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Mandalorian_orderly",
+ "display_name": "Unidentified Mandalorian orderly",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New MandaloriansSundari Mandalorian hospital",
+      "Sundari Mandalorian hospital"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This orderly was a Mandalorian doctor who worked in the Sundari hospital in the New Mandalorian capital city Sundari on Mandalore during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Mandalorians/Legends",
+  "/wiki/Sundari_Mandalorian_hospital/Legends",
+  "/wiki/Satine_Kryze/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Sundari/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Mandalorian_orderly",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Corruption_(episode)"
+ ]
+}

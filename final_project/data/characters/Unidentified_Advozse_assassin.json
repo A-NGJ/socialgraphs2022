@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Advozse_assassin",
+ "display_name": "Unidentified Advozse assassin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Prior to the mission to Ziost",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Advozse male assassin was sent by Morbo the Hutt to kill the smuggler Teff'ith on Nar Shaddaa, though he was killed by Theron Shan before he could.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mission_to_Ziost",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Advozse",
+  "/wiki/Gender/Legends",
+  "/wiki/Morbo",
+  "/wiki/Hutt/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Teff%27ith",
+  "/wiki/Theron_Shan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Advozse_assassin",
+  "/wiki/The_Old_Republic:_Annihilation"
+ ]
+}

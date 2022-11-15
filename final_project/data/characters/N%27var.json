@@ -1,5 +1,6 @@
 {
- "name": "N'var",
+ "name": "N%27var",
+ "display_name": "N'var",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "N'var was a Twi'lek female who served as a speeder vendor in the Republic Operational Headquarters on Quesh. She wore white armor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

@@ -1,0 +1,60 @@
+{
+ "name": "Dessain_family",
+ "display_name": "Dessain family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "First member(s)",
+     "values": [
+      "Eomin Dessain"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Eomin Dessain"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Zerist"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Dessain Mining"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Dessain family was a Human family who created Dessain Mining. The family included Eomin Dessain and his daughter Oma Dessain who participated in negotiations on Zerist between their company's management and their miners.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Eomin_Dessain",
+  "/wiki/Zerist",
+  "/wiki/Dessain_Mining",
+  "/wiki/Oma_Dessain",
+  "/wiki/Miner/Legends",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Eruption",
+  "/wiki/Star_Wars_Insider_141"
+ ]
+}

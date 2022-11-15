@@ -1,0 +1,29 @@
+{
+ "name": "Tuunac",
+ "display_name": "Tuunac",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trianii"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuunac was the prefect of the Trianii's largest church. Held in considerable regard by most Trianii, Tuunac visited several planets outside of Trian and its colonies as to promote goodwill and peace.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trianii/Legends",
+  "/wiki/Prefect/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Trian/Legends",
+  "/wiki/Han_Solo_and_the_Corporate_Sector_Sourcebook",
+  "/wiki/Alien_Encounters",
+  "/wiki/Galaxy_at_War"
+ ]
+}

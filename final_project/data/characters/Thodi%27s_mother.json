@@ -1,0 +1,37 @@
+{
+ "name": "Thodi%27s_mother",
+ "display_name": "Thodi's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Suerton"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of Dodibin, Thodibin and Wodibin was a female Suerton.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Suerton",
+  "/wiki/Gender",
+  "/wiki/The_Ride",
+  "/wiki/Dodibin",
+  "/wiki/Thodibin",
+  "/wiki/Wodibin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thodi%27s_mother",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Unidentified_Pyke_(Niima_Outpost)",
+ "display_name": "Unidentified Pyke  (Niima Outpost)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pyke"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Pyke at Niima Outpost on Jakku overheard Karr Nuq Sin talk about Jedi. One of his relatives shot down Jedi Master Sifo-Dyas's ship over the desert moon of Oba Diah decades prior.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Pyke",
+  "/wiki/Gender",
+  "/wiki/Niima_Outpost",
+  "/wiki/Jakku",
+  "/wiki/Karr_Nuq_Sin",
+  "/wiki/Jedi",
+  "/wiki/Jedi_Master",
+  "/wiki/Sifo-Dyas",
+  "/wiki/Oba_Diah",
+  "/wiki/Standard_decade",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Pyke_(Niima_Outpost)",
+  "/wiki/Force_Collector",
+  "/wiki/Force_Collector_(audiobook)"
+ ]
+}

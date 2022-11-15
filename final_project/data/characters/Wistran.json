@@ -1,0 +1,60 @@
+{
+ "name": "Wistran",
+ "display_name": "Wistran",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Denash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wistran was the Imperial governor of the planet Denash.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Denash",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Governor",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wistran",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)",
+  "/wiki/Thrawn_4"
+ ]
+}

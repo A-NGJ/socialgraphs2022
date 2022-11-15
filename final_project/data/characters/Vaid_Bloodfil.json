@@ -1,0 +1,71 @@
+{
+ "name": "Vaid_Bloodfil",
+ "display_name": "Vaid Bloodfil",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order military",
+      "First Order military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaid Bloodfil was a human male officer in the First Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/First_Order_military",
+  "/wiki/Officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vaid_Bloodfil",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/The_Topps_Company,_Inc.",
+  "/wiki/Star_Wars:_Card_Trader"
+ ]
+}

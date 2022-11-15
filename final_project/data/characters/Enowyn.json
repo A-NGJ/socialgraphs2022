@@ -1,5 +1,6 @@
 {
  "name": "Enowyn",
+ "display_name": "Enowyn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Enowyn was a flight mechanic who dated Davin Novachez at Pilot Academy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

@@ -1,0 +1,52 @@
+{
+ "name": "Nikk_Zavod",
+ "display_name": "Nikk Zavod",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nikk Zavod was a Human male who worked as a bounty hunter. He claimed to know the location of Chewbacca, whom he intended to collect the bounty on. Needing a ship, he seduced Mala Mala, lured her to enter the exhaust of her own ship while he was in the cockpit, and blasted off. She was scorched by the blast but survived, scarred for life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Mala_Mala",
+  "/wiki/Chewbacca_(2000)_2",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_74",
+  "/wiki/StarWars.com",
+  "/wiki/The_Not-So_Magnificent_Seven"
+ ]
+}

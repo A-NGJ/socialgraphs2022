@@ -1,0 +1,70 @@
+{
+ "name": "Tensa_Voll",
+ "display_name": "Tensa Voll",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tensa Voll was a dark-skinned female Zabrak who served as a Jedi Knight during the waning years of the Galactic Republic.\nA Force-sensitive, Tensa Voll received formal instruction in the ways of the Force at an academy of the Jedi Order. Having achieved the rank of Jedi Knight, Jedi Voll was assigned to Almas where she accepted missions from the enclave's governing Council of Jedi Masters. When the Clone Wars erupted across the galaxy, Voll invoked the Right of Denial and elected to remain on Almas throughout the war.\nDuring the war, Voll was selected to join a task force assembled by Academy Headmaster Devan For'deschel to neutralize the Wyrd cult prevalent on Cularin. Meeting with Major Xirossk of the Cularin Militia, she and her fellow Jedi were aided by the Heroes of Cularin in their assignment.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Xirossk",
+  "/wiki/Hunting_the_Wyrd",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi_training/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Jedi_academy",
+  "/wiki/Almas",
+  "/wiki/Almas_Academy",
+  "/wiki/Almas_Council",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Right_of_Denial",
+  "/wiki/Devan_For%27deschel",
+  "/wiki/Wyrd",
+  "/wiki/Cularin/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Cularin_Militia",
+  "/wiki/Heroes_of_Cularin"
+ ]
+}

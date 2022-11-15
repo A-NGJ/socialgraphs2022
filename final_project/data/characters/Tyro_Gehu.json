@@ -1,0 +1,54 @@
+{
+ "name": "Tyro_Gehu",
+ "display_name": "Tyro Gehu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Duro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyro Gehu was an uncle of Vook Gehu. He was killed in the Yuuzhan Vong War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Vook_Gehu",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tyro_Gehu",
+  "/wiki/Emissary_of_the_Void"
+ ]
+}

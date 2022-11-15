@@ -1,5 +1,6 @@
 {
  "name": "Munsk",
+ "display_name": "Munsk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Munsk was a noble of an unknown noble house of the Tapani sector. He was known to put on a good social event.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

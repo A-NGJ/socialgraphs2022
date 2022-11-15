@@ -1,0 +1,65 @@
+{
+ "name": "Tarnahok",
+ "display_name": "Tarnahok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarnahok was a male Bith Chief Engineer of the Galactic Republic living during the Galactic War. In 3639 BBY he was stationed in Section X on Belsavis, where Republic Strategic Information Service agent Bren send him to assist a Republic individual with recovering an HK-51 series assassin droid from the wreckage of the Fatality.\nTarnahok appears in Star Wars: The Old Republic during the Republic quest \"The Fatality\" in Section X.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Chief_Engineer",
+  "/wiki/Galactic_War",
+  "/wiki/3639_BBY",
+  "/wiki/Section_X",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Bren_(SIS)",
+  "/wiki/HK-51_series_assassin_droid",
+  "/wiki/Fatality",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

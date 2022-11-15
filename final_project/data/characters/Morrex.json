@@ -1,5 +1,6 @@
 {
  "name": "Morrex",
+ "display_name": "Morrex",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Morrex was a male Besalisk who lived during the Republic Dark Age. He worked for the mercenary group Rusher's Brigade, serving as the comm station operator of the Diligence, the group's transport.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Besalisk/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Misa",
+ "display_name": "Misa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Misa was a human female princess.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Star_Wars:_Visions",

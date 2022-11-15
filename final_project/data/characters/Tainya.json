@@ -1,0 +1,62 @@
+{
+ "name": "Tainya",
+ "display_name": "Tainya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duro"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tainya was a male Duro adjudicator of the Department of Adjudication of the Galactic Republic at the time of the Galactic War. During the Seizure of CZ-198, he was stationed in the Czerka facility on the moon's surface as a supply officer specializing in captured goods.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Department_of_Adjudication",
+  "/wiki/Galactic_War",
+  "/wiki/Seizure_of_CZ-198",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/CZ-198",
+  "/wiki/Quartermaster/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

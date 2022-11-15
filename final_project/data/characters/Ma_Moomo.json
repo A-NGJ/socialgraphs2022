@@ -1,0 +1,45 @@
+{
+ "name": "Ma_Moomo",
+ "display_name": "Ma Moomo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ma Moomo was a Female Ithorian of the Moomo line.\nWhen two of her children, Del Moomo and Dob Moomo, got expelled from their herd, she told Dob to watch over Del so he wouldn't hurt himself.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Del_Moomo",
+  "/wiki/Dob_Moomo",
+  "/wiki/Knights_of_the_Old_Republic_11"
+ ]
+}

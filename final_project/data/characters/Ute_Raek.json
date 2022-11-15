@@ -1,0 +1,68 @@
+{
+ "name": "Ute_Raek",
+ "display_name": "Ute Raek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Witches of Dathomir"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ute Raek was a Dathomirian priestess for the Singing Mountain Clan on Dathomir.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/The_New_Essential_Guide_to_Weapons_and_Technology",
+  "/wiki/Everything_You_Always_Wanted_to_Know_about_the_Nightsisters_but_Were_Afraid_to_Ask",
+  "/wiki/Star_Wars_Insider_122",
+  "/wiki/Holocron_continuity_database",
+  "/wiki/Leland_Chee",
+  "/wiki/Nightsisters/Legends"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Mandalorian_Royal_Guard",
+ "display_name": "Unidentified Mandalorian Royal Guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New MandaloriansMandalorian Royal Guard",
+      "Mandalorian Royal Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Mandalorian Royal Guard was seen with Duchess Satine Kryze and Senator Padmé Amidala on Mandalore at a dock where black market merchants were unloading poisonous tea.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/Mandalore_(title)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Mandalorians/Legends",
+  "/wiki/Mandalorian_Royal_Guard",
+  "/wiki/Satine_Kryze/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Padm%C3%A9_Amidala/Legends",
+  "/wiki/Tea/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Mandalorian_Royal_Guard",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Corruption_(episode)"
+ ]
+}

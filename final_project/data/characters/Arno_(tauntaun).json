@@ -1,0 +1,45 @@
+{
+ "name": "Arno_(tauntaun)",
+ "display_name": "Arno  (tauntaun)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tauntaun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Arno was a tauntaun who was the offspring of Murra, a tauntaun that was kept by the Alliance to Restore the Republic at Echo Base on Hoth. Leia Organa mentioned Arno to Murra while Luke Skywalker was lost in Hoth's wilderness.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Arno",
+  "/wiki/Hoth",
+  "/wiki/Tauntaun",
+  "/wiki/Murra_(tauntaun)",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Echo_Base",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arno_(tauntaun)",
+  "/wiki/She_Will_Keep_Them_Warm",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

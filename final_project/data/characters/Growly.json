@@ -1,5 +1,6 @@
 {
  "name": "Growly",
+ "display_name": "Growly",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Growly was a male Gran who lived on the planet Corellia during the Imperial Era.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lucasfilm_Ltd.",

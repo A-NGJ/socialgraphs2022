@@ -1,0 +1,89 @@
+{
+ "name": "Ten_Dorne",
+ "display_name": "Ten Dorne",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sluis Van"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "23 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sluissi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.75 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ten Dorne was a Sluissi who worked on Admiral Gial Ackbar's Shantipole Project, the development of the A/SF-01 B-wing starfighter with complete access to Verpine shipyard facilities in the Roche asteroid field. Dorne was working on a device known as a shearing plane, which would render tractor beams ineffective. After several close run-ins with Imperial forces, Dorne reconsidered her position with the Alliance and defected to the Empire. The latest reports placed Dorne at the Vosteltig shipyards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sluis_Van/Legends",
+  "/wiki/23_BBY/Legends",
+  "/wiki/Sluissi",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gial_Ackbar/Legends",
+  "/wiki/Shantipole_Project",
+  "/wiki/A/SF-01_B-wing_starfighter/Legends",
+  "/wiki/Verpine/Legends",
+  "/wiki/Shipyard/Legends",
+  "/wiki/Roche_asteroid_field",
+  "/wiki/Shearing_plane",
+  "/wiki/Tractor_beam/Legends",
+  "/wiki/Vosteltig_ship_yards",
+  "/wiki/Wanted_by_Cracken_(sourcebook)",
+  "/wiki/Galaxy_of_Intrigue",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

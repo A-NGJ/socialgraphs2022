@@ -1,0 +1,50 @@
+{
+ "name": "Zedd_Grobbo",
+ "display_name": "Zedd Grobbo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zedd Grobbo was a muscular Human male who worked for the moisture farmer Orrin Gault and participated in his faked Sand People raids in order to coerce other farmers to donate their money for the Settlers' Call Fund.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Orrin_Gault",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Settlers%27_Call_Fund",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zedd_Grobbo",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

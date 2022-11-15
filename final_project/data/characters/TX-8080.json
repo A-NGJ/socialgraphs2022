@@ -1,0 +1,80 @@
+{
+ "name": "TX-8080",
+ "display_name": "TX-8080",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hevurion"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "11 ABY",
+      "Hevurion"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "Kijimi garrison",
+      "Kijimi garrison"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TX-8080 was a human stormtrooper of the First Order, originally born on Hevurion. A snowtrooper commander, TX-8080 served as part of the garrison on Kijimi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hevurion",
+  "/wiki/11_ABY",
+  "/wiki/Human",
+  "/wiki/Meter",
+  "/wiki/Foot",
+  "/wiki/First_Order",
+  "/wiki/Kijimi_garrison",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Reproduction",
+  "/wiki/Snowtrooper",
+  "/wiki/Commander",
+  "/wiki/Kijimi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TX-8080",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/Standard_year",
+  "/wiki/Hosnian_Cataclysm",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY",
+  "/wiki/35_ABY"
+ ]
+}

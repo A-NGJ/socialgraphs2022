@@ -1,0 +1,49 @@
+{
+ "name": "Mason_Simpson",
+ "display_name": "Mason Simpson",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mason Simpson was a mathematics professor at Salis D'aar Academy. He was consulted by Voren Na'al who was researching the Ssi-ruuk for the Alliance of Free Planets. Simpson was tall, causing him to stoop, and he enjoyed telling stories.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Gender/Legends",
+  "/wiki/Salis_D%27aar/Legends",
+  "/wiki/Salis_D%27aar_Academy",
+  "/wiki/Voren_Na%27al/Legends",
+  "/wiki/Ssi-ruu",
+  "/wiki/Alliance_of_Free_Planets",
+  "/wiki/The_Truce_at_Bakura_Sourcebook"
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "name": "Obs_Kaj",
+ "display_name": "Obs Kaj",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY",
+      "Katanos system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Lunis"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Obs Kaj was the female Falleen Jedi Padawan of Lunis and a Commander during the Clone Wars.\nLunis and Kaj went to Katanos VII to investigate rumored illegal cloning, and discovered the rumor to be true. The local miners attempted to capture the Lunis and his padawan, using cortosis-armored gundarks, in order to hand them over to Count Dooku for credits.\nThe two Jedi defended themselves, and Lunis attempted to connect with Kaj through the Force. However, he could not form a mental link with her, as she had grown so disillusioned with the Jedi Order's seeming hypocrisy during the Clone Wars that she had effectively cut herself off from the Force and her master. Lunis was killed by the miners before Obs Kaj's eyes. She escaped from the miners in one of their short-range pods, and tried to hail any nearby ships, soon finding one in range. Unfortunately, the ship belonged to Count Dooku, who had his ship fire upon the pod, destroying it and killing Kaj.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kaj_(disambiguation)",
+  "/wiki/Falleen_(planet)/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Katanos_system",
+  "/wiki/Falleen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lunis",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Jedi_Commander/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Katanos_VII",
+  "/wiki/Mission_to_Katanos_VII",
+  "/wiki/Cloning/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Cortosis/Legends",
+  "/wiki/Armor/Legends",
+  "/wiki/Gundark/Legends",
+  "/wiki/Count/Legends",
+  "/wiki/Dooku/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/The_Force/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Rather_Darkness_Visible",
+  "/wiki/Star_Wars_Tales_19",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

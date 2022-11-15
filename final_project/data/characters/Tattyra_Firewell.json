@@ -1,0 +1,59 @@
+{
+ "name": "Tattyra_Firewell",
+ "display_name": "Tattyra Firewell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corulag"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tattyra Firewell was a Human female from the planet Corulag. She and her husband Hondu were both zoologists, and they had a son named Klay.\nIn 23 BBY, the Firewell family embarked on an expedition to Fondor's jungle-moon of Nallastia to study its fauna, but they were mistaken for poachers and imprisoned by Princess Calvaria. They were only rescued when a Jedi team was able to find the Lost Stars of Nallastia, after which they returned to Corulag.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corulag/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Hondu_Firewell",
+  "/wiki/Zoologist/Legends",
+  "/wiki/Klay_Firewell",
+  "/wiki/23_BBY/Legends",
+  "/wiki/Fondor",
+  "/wiki/Jungle/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nallastia",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Calvaria",
+  "/wiki/Jedi/Legends",
+  "/wiki/Mission_to_Fondor_(Separatist_Crisis)",
+  "/wiki/Lost_Stars_of_Nallastia",
+  "/wiki/Star_Wars_Adventures_2:_The_Cavern_of_Screaming_Skulls"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "name": "Unidentified_Barabel_(Abraxin)",
+ "display_name": "Unidentified Barabel  (Abraxin)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Barabel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Barabel was bargaining with Jedi on Abraxin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Barabel/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Abraxin",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Ajaan",
+ "display_name": "Ajaan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Ajaan was a Human male Sith who served the Sith Empire as a Sith Warrior trainer on the Sith capital planet of Dromund Kaas.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,36 @@
+{
+ "name": "Talien",
+ "display_name": "Talien",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yarkora"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talien was a male Yarkora who played Han Solo in sabacc and lost while on Onadax. He wore several gold rings in his nose.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yarkora/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Onadax",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Talien",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

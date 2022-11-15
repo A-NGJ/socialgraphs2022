@@ -1,0 +1,60 @@
+{
+ "name": "Xesh_Squad_Commander",
+ "display_name": "Xesh Squad Commander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Xesh Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male commander of the Galactic Republic's Xesh Squad was stationed on Hoth around 3642 BBY, when he was killed.\nXesh Squad Commander appears in the video game Star Wars: The Old Republic as a Champion boss on the planet Hoth. He is not directly involved in any quests, but can be killed for loot and as part of the achievement. This article assumes 100% game completion, which means he was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Xesh_Squad",
+  "/wiki/Death/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

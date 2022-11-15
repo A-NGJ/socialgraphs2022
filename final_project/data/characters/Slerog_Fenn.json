@@ -1,0 +1,77 @@
+{
+ "name": "Slerog_Fenn",
+ "display_name": "Slerog Fenn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gelgelar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fenn's Warehouse",
+      "Fenn's Landing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slerog Fenn was a male Rodian. Fenn presented himself in flashy clothes, and often adorned himself with earrings.\nFenn was a major rival to Loro Ecls in the Gelgelar Free Port, running landing and repair facilities, known respectively as Fenn's Landing and Fenn's Warehouse. He tried to undercut his rival in a bid to take financial control of the port. Fenn used his numerous criminal connections to offset his competitive prices.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gelgelar/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fenn%27s_Warehouse",
+  "/wiki/Fenn%27s_Landing",
+  "/wiki/Loro_Ecls",
+  "/wiki/Gelgelar_Free_Port/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slerog_Fenn",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Special_Ops:_Drop_Points",
+  "/wiki/Star_Wars_Adventure_Journal_14",
+  "/wiki/Platt%27s_Starport_Guide",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

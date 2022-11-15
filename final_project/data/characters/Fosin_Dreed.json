@@ -1,0 +1,38 @@
+{
+ "name": "Fosin_Dreed",
+ "display_name": "Fosin Dreed",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fosin Dreed was a male Rodian actor. One of his roles was as The Paladin in Hishinu Booj's \"The Trickery of Vosdia Nooma\". His character remarked that the farmers' unrest sounded like the acts of a former comrade, foreshadowing the deviant behavior of another character, the Soldier. The title character's refusal of his services led into typical Rodian graphic violence for the next two acts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Actor/Legends",
+  "/wiki/The_Paladin",
+  "/wiki/Hishinu_Booj",
+  "/wiki/The_Trickery_of_Vosdia_Nooma",
+  "/wiki/Deebo_Chak",
+  "/wiki/Vosdia_Nooma",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_52"
+ ]
+}

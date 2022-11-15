@@ -1,0 +1,47 @@
+{
+ "name": "Eero_Iridian%27s_father",
+ "display_name": "Eero Iridian's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Eero Iridian's species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eero Iridian's father was a Senator in the Galactic Republic. A member of a species with flexible antennae, he ran down his family's finances during his term, such that following his retirement, his son, Eero Iridian, was unable to successfully run for senator.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Eero_Iridian%27s_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Eero_Iridian",
+  "/wiki/Legacy_of_the_Jedi"
+ ]
+}

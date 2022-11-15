@@ -1,0 +1,63 @@
+{
+ "name": "Hiksri_Jith",
+ "display_name": "Hiksri Jith",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hiksri Jith was a Rodian who served in the pirate crew headed by Erli Prann. Prann and his fellow pirates gained control of a Golan II Space Defense SpaceGun following the death of Grand Admiral Thrawn, also discovering one of Thrawn's prototype cloaking devices which they used to their advantage in hiding their newly acquired Golan II Platform. During the Second Battle of Bilbringi, which was part of Operation Trinity, Hiksri Jith usurped power from Erli Prann and lent the aid of the pirates Golan SpaceGun to the beleaguered Galactic Alliance forces, eventually turning complete control of the platform over to the Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Erli_Prann",
+  "/wiki/Golan_II_Space_Defense_SpaceGun",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Cloaking_device/Legends",
+  "/wiki/Second_Battle_of_Bilbringi",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

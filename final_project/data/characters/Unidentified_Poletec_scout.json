@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_Poletec_scout",
+ "display_name": "Unidentified Poletec scout",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Skako Minor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Poletec"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Poletec was a scout of the natives of Skako Minor, which offered to guide Jedi General Anakin Skywalker and his clone unit to Echo's location after they promised they would leave afterwards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Skako_Minor",
+  "/wiki/Poletec",
+  "/wiki/Galactic_Republic",
+  "/wiki/Jedi_General",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Echo",
+  "/wiki/Purkoll",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Poletec_scout",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/A_Distant_Echo",
+  "/wiki/StarWars.com",
+  "/wiki/On_the_Wings_of_Keeradaks"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Ward_Fizark",
+ "display_name": "Ward Fizark",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ward Fizark was a male Human hunter from Tatooine who was the husband of Sharina Fizark.\nHe worked as a miner for Czerka Corporation for several years before leaving his position and attempting to work as a hunter. He was killed during a hunting trip in 3956 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Sharina_Fizark",
+  "/wiki/Miner/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Dorn_(slave)",
+ "display_name": "Dorn  (slave)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Jabba Desilijic Tiure"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dorn was a young Bothan slave in Mos Espa. A friend of young Anakin Skywalker, Dorn was the property of Jabba the Hutt who was training him to be a spy.\nWhen Jabba realized that a group of Ghostling children had been abducted by his rival Gardulla, Jabba decided to have Dorn infiltrate Gardulla's palace and locate them. Though nearly captured in his efforts to undermine both Hutts and help the other children escape, he made it safely to Bantha Rock in the end. With the other slaves, he boarded Rakir Banai's ship and fled the system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Ghostling",
+  "/wiki/Gardulla_Besadii_the_Elder/Legends",
+  "/wiki/Bantha_Rock",
+  "/wiki/Rakir_Banai",
+  "/wiki/Episode_I_Adventures_5:_The_Ghostling_Children",
+  "/wiki/Episode_I_Adventures_6:_The_Hunt_for_Anakin_Skywalker",
+  "/wiki/Episode_I_Adventures_7:_Capture_Arawynne",
+  "/wiki/Episode_I_Adventures_8:_Trouble_on_Tatooine",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Radlee_Mathiss",
+ "display_name": "Radlee Mathiss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Talus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Radlee Mathiss was a Human who lived in Dearic on Talus. In 1 ABY, he hired a spacer to pick up a package for him from a Corporate Sector Authority courier. The courier was captured by the Hutts, so Mathiss had the spacer free him. He then had the spacer kill a Hutt Lieutenant as revenge.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Talus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dearic/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

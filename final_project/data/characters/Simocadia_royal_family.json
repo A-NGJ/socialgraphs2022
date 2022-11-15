@@ -1,0 +1,64 @@
+{
+ "name": "Simocadia_royal_family",
+ "display_name": "Simocadia royal family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mosciive"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Sephani"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Simocadia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "c. 22 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Simocadia Royal family ruled the Inner Rim planet of Simocadia. During the Clone Wars the ruling Empress Sephani supported the Republic, while her son, prince Yojan had joined the Separatists. Yojan died in 22 BBY when he sacrificed his life to stop the Ardana Shadex he unintentionally unleashed upon the Royal City.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mosciive",
+  "/wiki/Sephani",
+  "/wiki/Simocadia",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Inner_Rim",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Yojan",
+  "/wiki/Ardana_Shadex",
+  "/wiki/The_Clone_Wars:_The_Colossus_of_Destiny"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Traggat",
+ "display_name": "Traggat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lamaredd"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bartyn family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Traggat was the oldest son to Hugo Bartyn, the Administrator to Lamaredd.\nC. 499 BBY, when Hugo was 84, several rumors about evil beasts attacking his town prompted him to form a posse and hunt the creatures. Hugo was joined by Traggat and eleven other close friends and, with heavy weapons and an animal, went into the jungle. They were never found again, although further teams found proofs of Hugo's, Traggat's and the other's gruesome death.\nThe source does not specify unambiguously whether Traggat used the family surname or not.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lamaredd/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bartyn_family",
+  "/wiki/Hugo_Bartyn",
+  "/wiki/Administrator_(ORO)",
+  "/wiki/499_BBY",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Bartyn%27s_Landing_(article)",
+  "/wiki/Star_Wars_Gamer_7"
+ ]
+}

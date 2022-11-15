@@ -1,5 +1,6 @@
 {
  "name": "Promk",
+ "display_name": "Promk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Promk was a Human male underling of Zekka Thyne. He was also a member of the Brommstaad Mercenaries.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

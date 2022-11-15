@@ -1,5 +1,6 @@
 {
  "name": "Moriden",
+ "display_name": "Moriden",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Moriden was a Human male commander in the reconstituted Sith Empire during the Cold War. He tasked an Imperial spacer to steal a prototype stealth shuttle.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

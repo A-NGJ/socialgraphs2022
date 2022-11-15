@@ -1,0 +1,54 @@
+{
+ "name": "Sone",
+ "display_name": "Sone",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Denon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clawdite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sone was a female Clawdite and the daughter of bounty hunter Zam Wesell and an unidentified male Clawdite. Born on Denon, she disappeared shortly after her mother's death on Coruscant in 22 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Denon/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Clawdite/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clawdite",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Zam_Wesell/Legends",
+  "/wiki/Unidentified_Clawdite",
+  "/wiki/Death/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sone",
+  "/wiki/The_New_Essential_Guide_to_Alien_Species",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

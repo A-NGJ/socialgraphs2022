@@ -1,0 +1,63 @@
+{
+ "name": "Hanna_Doshun",
+ "display_name": "Hanna Doshun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Aduba-3"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hanna Doshun was a Human female and the daughter of Jimm and Merri Doshun. She lived in the town of Onacra on Aduba-3.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hanna",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Hanna_Doshun",
+  "/wiki/Aduba-3/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jimm_Doshun",
+  "/wiki/Merri_Shen_Doshun",
+  "/wiki/Onacra",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Starhoppers_of_Aduba-3",
+  "/wiki/Star_Wars_Gamer_4",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

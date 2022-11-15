@@ -1,0 +1,51 @@
+{
+ "name": "Venutton",
+ "display_name": "Venutton",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lady Valarian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Venutton was a scrawny, uptight male Human assistant to the Whiphid crimelord, Lady Valarian. He was the manager of the Lucky Despot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Valarian/Legends",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Lucky_Despot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Venutton",
+  "/wiki/Old_Friends:_Ephant_Mon%27s_Tale",
+  "/wiki/Tales_from_Jabba%27s_Palace",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

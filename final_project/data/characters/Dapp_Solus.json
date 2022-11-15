@@ -1,0 +1,63 @@
+{
+ "name": "Dapp_Solus",
+ "display_name": "Dapp Solus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Happy Blasters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dapp Solus was a cyborg pirate and member of the Happy Blasters. A native of Nar Shaddaa, he stole a ship once he was old enough and started a career as a pirate in the Outer Rim Territories. Solus was approached by Salem Victory for helping in designing and building the Starcat. Solus accepted, and stayed on as First Mate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Happy_Blasters",
+  "/wiki/Cyborg/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Salem_Victory",
+  "/wiki/Starcat",
+  "/wiki/First_Mate/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Scouts%27_Dispatch",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

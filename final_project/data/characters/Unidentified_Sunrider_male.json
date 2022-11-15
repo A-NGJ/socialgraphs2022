@@ -1,0 +1,60 @@
+{
+ "name": "Unidentified_Sunrider_male",
+ "display_name": "Unidentified Sunrider male",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Darada"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sunrider family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male member of the Sunrider family was the Human son of Jev Sunrider and the father of Andur Sunrider. He lived on the planet Darada with other members of his family, and owned a small garden on his families' land in which Andur worked in.\nThis unidentified Sunrider was briefly mentioned in the entry for Andur Sunrider in the Tales of the Jedi Companion, when it was said that, while at home, Andur worked in his father's garden.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Darada",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sunrider_family",
+  "/wiki/Jev_Sunrider",
+  "/wiki/Parent/Legends",
+  "/wiki/Andur_Sunrider",
+  "/wiki/Planet/Legends",
+  "/wiki/Garden/Legends",
+  "/wiki/Tales_of_the_Jedi_Companion"
+ ]
+}

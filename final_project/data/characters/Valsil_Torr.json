@@ -1,0 +1,53 @@
+{
+ "name": "Valsil_Torr",
+ "display_name": "Valsil Torr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "7 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valsil Torr was an elderly male Twi'lek merchant who controlled operations on Yag-prime. After an encounter with the ex-members of Rogue Squadron, he and his men surrendered and allowed them to remove the bacta being stored onboard the station by Warlord Zsinj. He was killed when a Givin maintenance worker \"accidentally\" put a blaster bolt-sized hole in an exterior wall of the station manager's office, causing him to suffer from explosive decompression. The Givin, who could survive in vacuum for limited periods of time, coolly patched up the wall.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yag-prime",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/Givin/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

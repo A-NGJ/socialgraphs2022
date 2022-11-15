@@ -1,0 +1,61 @@
+{
+ "name": "Subject_Alpha",
+ "display_name": "Subject Alpha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lurker"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green with orange markings"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Subject Alpha was the name given to a massive lurker that roamed the shallow waters of Lake Brell, an acid lake in the Brell Sediment on the planet Taris, during the Cold War between the Galactic Republic and the Sith Empire. The lurker was eventually slain by Republic-allied forces.\nSubject Alpha appears in the video game Star Wars: The Old Republic, released in 2011, as the World Boss for the Republic faction's version of the planet Taris. This article assumes 100% game completion, and thus assumes that Subject Alpha was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Lurker/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Lake_Brell",
+  "/wiki/Brell_Sediment",
+  "/wiki/Planet/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Death/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2011",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

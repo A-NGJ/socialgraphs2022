@@ -1,0 +1,71 @@
+{
+ "name": "Romm_(Human)",
+ "display_name": "Romm  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Romm was a Human male soldier of the resurgent Sith Empire during the Cold War. When Havoc Squad's new commander infiltrated the Justice to stop Commander Tavus, Romm was tasked with greeting new arrivals to the Justice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Justice_(Harrower-class)",
+  "/wiki/Commander/Legends",
+  "/wiki/Harron_Tavus",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Romm_(Human)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

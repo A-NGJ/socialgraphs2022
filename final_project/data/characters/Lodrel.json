@@ -1,5 +1,6 @@
 {
  "name": "Lodrel",
+ "display_name": "Lodrel",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Captain Lodrel commanded the Lianna Guard, an Imperial Customs Guardian-class light cruiser at the Battle of Nar Shaddaa. It was destroyed by Salla Zend in her freighter, the Rimrunner.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/4_BBY/Legends",

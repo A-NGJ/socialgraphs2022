@@ -1,0 +1,49 @@
+{
+ "name": "Swee-beeps",
+ "display_name": "Swee-beeps",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kinyen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swee-beeps was the Gran great-uncle of convicted killer Ree-Yees. He supposedly taught him \"culinary resusperation\": \"Smelling salts so powerful, it bring the dead back to life!\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kinyen/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ree-Yees/Legends",
+  "/wiki/Smelling_salt",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Swee-beeps",
+  "/wiki/And_Then_There_Were_Some:_The_Gamorrean_Guard%27s_Tale",
+  "/wiki/Tales_from_Jabba%27s_Palace",
+  "/wiki/Goatgrass:_The_Tale_of_Ree-Yees"
+ ]
+}

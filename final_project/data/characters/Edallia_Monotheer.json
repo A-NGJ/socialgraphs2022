@@ -1,0 +1,72 @@
+{
+ "name": "Edallia_Monotheer",
+ "display_name": "Edallia Monotheer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "c. 42 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Edallia Monotheer was a Human female, and the wife of Dalls Petothel. She was also the mother of Gara Petothel. Monotheer was trained as an actress and also as an Imperial Intelligence agent working for Director of Imperial Intelligence Armand Isard. Later she was executed together with her husband for giving out information to an anti-imperial faction on Chandrila, though none of them worked for Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/42_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Dalls_Petothel",
+  "/wiki/Gara_Petothel",
+  "/wiki/Director_of_Imperial_Intelligence",
+  "/wiki/Armand_Isard/Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/X-Wing:_Iron_Fist",
+  "/wiki/X-Wing:_Solo_Command",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

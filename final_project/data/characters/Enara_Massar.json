@@ -1,0 +1,80 @@
+{
+ "name": "Enara_Massar",
+ "display_name": "Enara Massar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Enara Massar was a Human female Lady native to the planet Kesh who served under High Lord Ivaar Workan in his alter ego of Kameron Suldar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Kesh",
+  "/wiki/44_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/High_Lord_(Circle_of_Lords)",
+  "/wiki/Ivaar_Workan",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Enara_Massar",
+  "/wiki/Fate_of_the_Jedi:_Ascension",
+  "/wiki/Fate_of_the_Jedi:_Ascension_(audiobook)",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

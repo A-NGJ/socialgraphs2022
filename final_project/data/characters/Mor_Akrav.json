@@ -1,0 +1,86 @@
+{
+ "name": "Mor_Akrav",
+ "display_name": "Mor Akrav",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keshiri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "More than two meters tall"
+     ]
+    },
+    {
+     "name": "Mass",
+     "values": [
+      "Large"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mor Akrav was a male Keshiri Sith Saber who was native to the planet Kesh. Akrav was part of the Lost Tribe of Sith infiltration team that took up residence in the newly abandoned Jedi Temple on Coruscant, under orders of Grand Lord Darish Vol. He and his fellow Sith were killed by Tesar Sebatyne and the other Barabel Jedi who had volunteered to stay behind and guard the Temple.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/44_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Keshiri",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Sith_Saber",
+  "/wiki/Planet/Legends",
+  "/wiki/New_Jedi_Temple",
+  "/wiki/Grand_Lord",
+  "/wiki/Darish_Vol",
+  "/wiki/Tesar_Sebatyne",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mor_Akrav",
+  "/wiki/Fate_of_the_Jedi:_Ascension",
+  "/wiki/Fate_of_the_Jedi:_Ascension_(audiobook)"
+ ]
+}

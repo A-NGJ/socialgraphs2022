@@ -1,5 +1,6 @@
 {
  "name": "Selia",
+ "display_name": "Selia",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -60,7 +61,7 @@
   }
  ],
  "content": "Selia was a female Dathomirian Witch who served as a member of the Singing Mountain Clan during the Galactic Civil War between the Rebel Alliance and the Galactic Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dathomir/Legends",

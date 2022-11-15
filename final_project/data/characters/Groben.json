@@ -1,5 +1,6 @@
 {
  "name": "Groben",
+ "display_name": "Groben",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "\"Bruiser\" Groben was a male Rattataki who made a living on the planet of Tatooine as a cantina vendor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Tatooine/Legends",

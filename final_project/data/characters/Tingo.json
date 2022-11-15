@@ -1,0 +1,71 @@
+{
+ "name": "Tingo",
+ "display_name": "Tingo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tingo was a male Human private in the Republic Army during the Galactic War. As of 3642 BBY, he was stationed on the ice planet of Hoth, where he sold items as a vendor.\nTingo appeared in the video game Star Wars: The Old Republic, released by BioWare in 2011, as a Light Armor Vendor for Republic players on Hoth. With the release of Game Update 4.0 on October 20, 2015, Tingo was removed from the game along with the rest of the Light Armor Vendors. His position is also marked on a map in Star Wars: The Old Republic Explorer's Guide, a game guide released by Prima Games.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Private/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/October_20",
+  "/wiki/2015",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide",
+  "/wiki/Prima_Games"
+ ]
+}

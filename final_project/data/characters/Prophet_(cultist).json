@@ -1,0 +1,48 @@
+{
+ "name": "Prophet_(cultist)",
+ "display_name": "Prophet  (cultist)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Theelin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Inheritors of the Crystal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Prophet was the nickname of a Theelin male spice addict who founded the Inheritors of the Crystal cult on Nar Shaddaa in order to amass weapons and followers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Theelin",
+  "/wiki/Gender",
+  "/wiki/Inheritors_of_the_Crystal",
+  "/wiki/Spice",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Prophet_(cultist)",
+  "/wiki/Shadow_Fall",
+  "/wiki/Shadow_Fall_(audiobook)"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Vir_Nurb",
+ "display_name": "Vir Nurb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vir Nurb was a male Sullustan con artist who owned the modified Dartiss-5 Caravel space barge Lost Lady. He used the ship as the basis of his smuggling career and the schemes he ran between Nal Hutta and Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Con_artist/Legends",
+  "/wiki/Dartiss-5_Caravel",
+  "/wiki/Lost_Lady",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vir_Nurb",
+  "/wiki/Wizards.com",
+  "/wiki/The_Nebula_Assassin"
+ ]
+}

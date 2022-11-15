@@ -1,0 +1,31 @@
+{
+ "name": "Ujooku",
+ "display_name": "Ujooku",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wampa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ujooku was a large wampa that the Terror Brigade included among its warriors in its combat challenge called the Onslaught on the planet Hoth during the Cold War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wampa/Legends",
+  "/wiki/Terror_Brigade",
+  "/wiki/Onslaught_(Terror_Brigade)",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ujooku",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

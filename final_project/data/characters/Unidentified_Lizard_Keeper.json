@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_Lizard_Keeper",
+ "display_name": "Unidentified Lizard Keeper",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "31 BBY",
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "NightsistersLizard Keepers",
+      "Lizard Keepers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male served as the leader of the Nightsisters' Lizard Keepers in 31 BBY. That year, he was killed by Jedi Knight Quinlan Vos, who was on a mission to Dathomir.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nightsisters/Legends",
+  "/wiki/Lizard_Keeper",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Quinlan_Vos/Legends",
+  "/wiki/Mission_to_Dathomir_(Post%E2%80%93Naboo_crisis)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Lizard_Keeper",
+  "/wiki/Star_Wars_(1998)_24"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Vala",
+ "display_name": "Vala",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ho'Din"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vala was a male Ho'Din who lived during the time of the Galactic Civil War. In 0 ABY, Vala traveled to the planet Dalicron-4, and became an assistant to the beverage maker Jem.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Vala_(Scyre)",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dalicron-4",
+  "/wiki/Jem",
+  "/wiki/Child_of_Light"
+ ]
+}

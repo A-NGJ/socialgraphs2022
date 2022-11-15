@@ -1,5 +1,6 @@
 {
  "name": "Kench",
+ "display_name": "Kench",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kench was a male Human officer of the reconstituted Sith Empire living during the Cold War and stationed on Tatooine, where he engaged in selling stimulants.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

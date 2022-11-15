@@ -1,5 +1,6 @@
 {
  "name": "Gistol",
+ "display_name": "Gistol",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Major Gistol was a member of the Imperial Security Bureau. He served as Central Commander Sollaine's adjutant.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

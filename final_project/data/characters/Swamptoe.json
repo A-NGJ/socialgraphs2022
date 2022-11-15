@@ -1,0 +1,72 @@
+{
+ "name": "Swamptoe",
+ "display_name": "Swamptoe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaadu"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gungan Grand Army"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Roos Tarpals"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swamptoe was a tamed Kaadu from the planet Naboo who was used as a mount by the Gungan Captain Roos Tarpals. Tarpals rode Swamptoe around the underwater Gungan city of Otoh Gunga and as part of the Gungan Grand Army during the Invasion of Naboo. The Captain decorated Swamptoe with feathers that the kaadu had won in races.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Naboo",
+  "/wiki/Kaadu",
+  "/wiki/Color",
+  "/wiki/Gungan_Grand_Army",
+  "/wiki/Roos_Tarpals",
+  "/wiki/Planet",
+  "/wiki/Gungan",
+  "/wiki/Captain",
+  "/wiki/City",
+  "/wiki/Otoh_Gunga",
+  "/wiki/Invasion_of_Naboo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Swamptoe",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Star_Wars:_Absolutely_Everything_You_Need_to_Know",
+  "/wiki/Star_Wars:_Absolutely_Everything_You_Need_to_Know,_Updated_and_Expanded"
+ ]
+}

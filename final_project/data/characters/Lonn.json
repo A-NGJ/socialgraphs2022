@@ -1,5 +1,6 @@
 {
  "name": "Lonn",
+ "display_name": "Lonn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Lonn was a male Human who may have been a security officer for the Bornaryn Trading company or the Tradewyn.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

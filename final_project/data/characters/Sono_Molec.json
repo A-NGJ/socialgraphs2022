@@ -1,0 +1,63 @@
+{
+ "name": "Sono_Molec",
+ "display_name": "Sono Molec",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygerrian Slave Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sono Molec was a Zygerrian prince and the son of King Atai Molec. He ruled over the Zygerrian slave operations from his palace on the planet Kowak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sono_Molec",
+  "/wiki/Sono_Molec/Legends",
+  "/wiki/Zygerrian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Zygerrian_Slave_Empire",
+  "/wiki/Prince",
+  "/wiki/Atai_Molec",
+  "/wiki/Kowak",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sono_Molec",
+  "/wiki/Friends_Like_These"
+ ]
+}

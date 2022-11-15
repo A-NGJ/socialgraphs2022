@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_Gormak_assassin",
+ "display_name": "Unidentified Gormak assassin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3640 BBY",
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gormak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gormak assassin tried to kill Gaden-Ko at the Halls of the Righteous. The assassin was killed by Jenar-Sei and his Voss commandos, who arrived at the scene.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/3640_BBY",
+  "/wiki/Gormak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gaden-Ko",
+  "/wiki/Halls_of_the_Righteous",
+  "/wiki/Jenar-Sei",
+  "/wiki/Voss_commandos",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gormak_assassin",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

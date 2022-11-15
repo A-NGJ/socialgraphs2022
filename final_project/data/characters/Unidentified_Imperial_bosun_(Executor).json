@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Imperial_bosun_(Executor)",
+ "display_name": "Unidentified Imperial bosun  (Executor)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A bosun served on the bridge of the Star Dreadnought Executor around 3 ABY. He notified Darth Vader that a Rebel starship, the Millennium Falcon carrying Luke Skywalker, escaped the skirmish at the Krake Data Vault.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Bridge_(starship)/Legends",
+  "/wiki/Executor-class_Star_Dreadnought/Legends",
+  "/wiki/Executor/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Skirmish_at_Krake_Data_Vault",
+  "/wiki/Star_Wars_(1977)_63"
+ ]
+}

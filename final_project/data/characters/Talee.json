@@ -1,0 +1,48 @@
+{
+ "name": "Talee",
+ "display_name": "Talee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talee was a Human male who served as an Imperial Customs agent in charge of inspecting vessels arriving at Cloudscape Platforms on Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Cloudscape_Platforms",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Talee",
+  "/wiki/The_Core_of_Corruption"
+ ]
+}

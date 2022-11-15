@@ -1,0 +1,48 @@
+{
+ "name": "Shilmar_Iggson",
+ "display_name": "Shilmar Iggson",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pantoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shilmar Iggson was a male Pantoran who was a mistaken for a pilot but was actually a technician in the New Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pantoran",
+  "/wiki/Gender",
+  "/wiki/New_Republic",
+  "/wiki/New_Republic_pilot",
+  "/wiki/Technician",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shilmar_Iggson",
+  "/wiki/Aftermath:_Life_Debt",
+  "/wiki/Aftermath:_Life_Debt_(audiobook)"
+ ]
+}

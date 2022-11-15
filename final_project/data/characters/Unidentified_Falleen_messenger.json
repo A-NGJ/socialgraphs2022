@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Falleen_messenger",
+ "display_name": "Unidentified Falleen messenger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Falleen Jedi brought news of the death of Qui-Gon Jinn and the acceptance of Anakin Skywalker into the Jedi Order to Shmi Skywalker. Along with the message, she delivered a Tobal lens, which had been a gift from Qui-Gon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Falleen",
+  "/wiki/Falleen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Shmi_Skywalker_Lars/Legends",
+  "/wiki/Tobal_lens",
+  "/wiki/Tatooine_Ghost",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_113",
+  "/wiki/Jedi_vs._Sith:_The_Essential_Guide_to_the_Force_(real-life_book)"
+ ]
+}

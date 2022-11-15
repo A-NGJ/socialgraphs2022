@@ -1,5 +1,6 @@
 {
  "name": "Espernia",
+ "display_name": "Espernia",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Espernia was a female member of the Singing Mountain Clan who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dathomir/Legends",

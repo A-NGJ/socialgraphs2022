@@ -1,0 +1,56 @@
+{
+ "name": "Squik_(Underwater_Dweller)",
+ "display_name": "Squik  (Underwater Dweller)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Underwater dweller"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Underwater Kingdom"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squik was an Underwater dweller who lived in an Underwater Kingdom on the forest moon of Endor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Underwater_dweller",
+  "/wiki/Underwater_Kingdom",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Squik_(Underwater_Dweller)",
+  "/wiki/Ewoks_9"
+ ]
+}

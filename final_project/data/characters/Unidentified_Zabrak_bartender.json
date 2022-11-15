@@ -1,0 +1,70 @@
+{
+ "name": "Unidentified_Zabrak_bartender",
+ "display_name": "Unidentified Zabrak bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "A bar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Zabrak male bartender owned a bar on the moon Nar Shaddaa that had once belonged to his father. Shortly after the Battle of Yavin, Luke Skywalker made a visit to the cantina seeking safe passage to Coruscant. The bartender ignored his request and told his customers to kill him. However, Skywalker managed to defend himself with his lightsaber. The weapon piqued the bartender's interest, and he decided to offer passage to Coruscant in exchange for the lightsaber. Skywalker declined his offer, prompting the bartender to once again order his customers to kill him and to also retrieve the lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Darth_Maul_(2017)_2",
+  "/wiki/Star_Wars_(2015)_10",
+  "/wiki/War_of_the_Bounty_Hunters_1",
+  "/wiki/Zabrak",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Unidentified_bar_(Nar_Shaddaa)",
+  "/wiki/Moon",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Unidentified_Zabrak_bartender%27s_father",
+  "/wiki/Battle_of_Yavin",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Cantina",
+  "/wiki/Coruscant",
+  "/wiki/Bartender",
+  "/wiki/Death",
+  "/wiki/Skywalker_lightsaber",
+  "/wiki/Lightsaber",
+  "/wiki/Star_Wars_(2015)_8"
+ ]
+}

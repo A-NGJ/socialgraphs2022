@@ -1,5 +1,6 @@
 {
  "name": "Hakka",
+ "display_name": "Hakka",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Hakka was a Serennian male and the Count of the Funeral Moon Mantero. He was present at the funeral of Countess Anya.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

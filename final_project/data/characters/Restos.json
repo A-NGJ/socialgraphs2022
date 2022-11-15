@@ -1,5 +1,6 @@
 {
  "name": "Restos",
+ "display_name": "Restos",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -62,7 +63,7 @@
   }
  ],
  "content": "Restos was a male governor of Batonn. He was being given aid by the Imperial Military to combat rebel insurgents on Batonn, that were being lead by Nevil Cygni. The insurgents were neutralized but many other civilians were killed as a result of a bomb that was detonated by Arihnda Pryce.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Batonn",

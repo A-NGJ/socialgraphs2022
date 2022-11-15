@@ -1,0 +1,56 @@
+{
+ "name": "Slimego",
+ "display_name": "Slimego",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crutag"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slimego was a male Rodian bounty hunter. Working with the Barabel Slizzik and the Taloron Hunter Crutag, Slimego pursued a group of Rebels to the jungle world of Trinta. Both he and Slizzik were prepared to forgo a larger bounty and deliver the agents dead but Crutag insisted on capturing them alive. In the end, however, they were stranded on the planet by the self-exiled Jedi Halagad Ventor who used the Force to crash their starship and were defeated by their own quarry.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crutag",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Barabel/Legends",
+  "/wiki/Slizzik",
+  "/wiki/Taloron_Hunters",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Trinta",
+  "/wiki/Bounty/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Halagad_Ventor",
+  "/wiki/The_Force/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Domain_of_Evil",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Two"
+ ]
+}

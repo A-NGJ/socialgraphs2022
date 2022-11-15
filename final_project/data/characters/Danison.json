@@ -1,5 +1,6 @@
 {
  "name": "Danison",
+ "display_name": "Danison",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Danison was a male Twi'lek merchant living in the Coronet City on Corellia where during the Galactic War he sold various stimulants.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Tusken_Raider_boy",
+ "display_name": "Unidentified Tusken Raider boy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tusken Raider tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A boy was a Tusken Raider who belonged to a tribe and lived in a village on the planet Tatooine. According to legend, the boy was taken from his mother's arms by the krayt dragon, Krayt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_Tusken_Raider",
+  "/wiki/Tatooine",
+  "/wiki/Tusken_Raider",
+  "/wiki/Gender",
+  "/wiki/Unidentified_Tusken_Raider_tribe_(Krayt)",
+  "/wiki/Unidentified_Tusken_Raider_village_(Krayt)",
+  "/wiki/Planet",
+  "/wiki/Youngling",
+  "/wiki/Limb",
+  "/wiki/Krayt_dragon",
+  "/wiki/Krayt",
+  "/wiki/The_Knight_%26_the_Dragon",
+  "/wiki/Myths_%26_Fables"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_female_Jedi_trainee",
+ "display_name": "Unidentified female Jedi trainee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Human Jedi was a member of the New Jedi Order. In 13 ABY, she and another Jedi sparred with Luke Skywalker at the Jedi Praxeum on Yavin 4.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Jedi/Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Unidentified_Zabrak_Jedi_trainee",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Jedi_Praxeum",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Crimson_Empire_III:_Empire_Lost_1"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "name": "Liat_Tsayv",
+ "display_name": "Liat Tsayv",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Smugglers' Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Liat Tsayv was a Sullustan smuggler who worked for the organizations of Booster and Mirax Terrik. As of 7 ABY, he was the copilot of their ship, Pulsar Skate. Mirax Terrik was quoted saying that he fell madly in love with and married one of the refugees that he helped transport from Kessel though she herself was not sure if they were wed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smugglers%27_Alliance",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Booster_Terrik",
+  "/wiki/Mirax_Terrik_Horn",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Pulsar_Skate",
+  "/wiki/Marriage/Legends",
+  "/wiki/Kessel/Legends",
+  "/wiki/X-Wing:_Rogue_Squadron",
+  "/wiki/X-Wing:_Rogue_Squadron_(unabridged_audiobook)",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

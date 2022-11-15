@@ -1,0 +1,69 @@
+{
+ "name": "Veeka_Gault",
+ "display_name": "Veeka Gault",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "40 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Moisture farmer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Veeka Gault was a female Human moisture farmer, the daughter of Orrin Gault, the sister of Mullen Gault and the twin sister of Varan Gault.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/40_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Orrin_Gault",
+  "/wiki/Mullen_Gault",
+  "/wiki/Varan_Gault",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Veeka_Gault",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

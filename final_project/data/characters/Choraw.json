@@ -1,5 +1,6 @@
 {
  "name": "Choraw",
+ "display_name": "Choraw",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Choraw was a Jazbinan guide for Luke Skywalker while he \"rescued\" Princess Syayna on Jazbina. Choraw disappeared upon the arrival of a Tikulini.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Jazbina/Legends",

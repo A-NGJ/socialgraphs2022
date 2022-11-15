@@ -1,0 +1,32 @@
+{
+ "name": "Unidentified_Hardexian_ambassador",
+ "display_name": "Unidentified Hardexian ambassador",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hardexian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Hardexian ambassador was a member of the Hardex species. When visiting the Targonnian ruler Craw, the ambassador was told a joke about three Hardex and a bantha. The ambassador found the joke un-amusing, and so Craw had his protocol droid deactivated and turned into a water fountain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hardex",
+  "/wiki/Hardex_(species)",
+  "/wiki/Species/Legends",
+  "/wiki/Targonnian",
+  "/wiki/Craw",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Bantha/Legends",
+  "/wiki/Craw%27s_protocol_droid",
+  "/wiki/Water/Legends",
+  "/wiki/Droids_(1995)_6"
+ ]
+}

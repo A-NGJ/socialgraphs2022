@@ -1,0 +1,111 @@
+{
+ "name": "Una_Gitori",
+ "display_name": "Una Gitori",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Valarian Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Una Gitori was a male Ualaq Aqualish criminal who lived on the planet Tatooine during the time of the Galactic Civil War. Following the Battle of Yavin, he was a member of the Valarian Syndicate, a criminal organization led by Lady Valarian. However, in 1 ABY, Gitori betrayed Lady Valarian by selling information to her rival, the infamous Hutt known as Jabba Desilijic Tiure. As a result of betraying Valarian's trust, and jeopardizing her many business deals, Valarian requested that a spacer eliminate him on her behest. The spacer therefore found Una Gitori near Mos Eisley and killed him during a brief firefight.\nUna Gitori was a non-player character in the 2003 video game Star Wars Galaxies, a massively multiplayer online roleplaying game developed by Sony Online Entertainment and published by LucasArts, prior to its closure on December 15, 2011. Una Gitori was present in the original release of the game, being part of Lady Valarian's Quest Series.\nBecause Una Gitori spawned under the generic \"lost_aqualish_marksman\" template, his appearance was randomized under one of two possible depictions. He could either appear as a female Ualaq Aqualish, or as a male Ualaq Aqualish. Because the quest dialogue identified Gitori as male, this article assumes that the male Ualaq Aqualish depiction is canon in the Star Wars Legends continuity.\nWith \"Publish 20\" released on July 19, 2005, it was announced that the \"Valarian Quest Series\" of which Gitori was a part would be phased out during \"Publish 22\" to make way for a revamped questline during \"Publish 23.\" While the Valarian Quest Series was fully deactivated by Publish 23 on August 31, 2005, the newly proposed Valarian Themepark was never fully implemented to replace it. Nevertheless, files pertaining to this updated questline could be found in the game's directory tree files. They indicated that Una was intended to be part of the a new quest named \"Fencing.\" Among these files is an updated version of Gitori, simply designated as \"tatooine_una.\" An emulated depiction pulled from this character's Interchange File Format reveals that the updated character would have been a tattooed Human female, instead of an Aqualish as in the original Valarian Quest Series.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Ualaq/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Valarian_Syndicate",
+  "/wiki/Lord/Legends",
+  "/wiki/Valarian/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/2003",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Sony",
+  "/wiki/LucasArts",
+  "/wiki/December_15",
+  "/wiki/2011",
+  "/wiki/Canon",
+  "/wiki/July_19",
+  "/wiki/2005",
+  "/wiki/August_31",
+  "/wiki/Tattoo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Opening_crawl",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Ruwan_Tokai",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/The_Essential_Reader%27s_Companion",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Blockade_of_Kashyyyk_(1_ABY)",
+  "/wiki/The_Star_Wars_Holiday_Special",
+  "/wiki/The_Nightsister%27s_Revenge",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

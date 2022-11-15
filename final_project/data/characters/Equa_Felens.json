@@ -1,0 +1,50 @@
+{
+ "name": "Equa_Felens",
+ "display_name": "Equa Felens",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Equa Felens was a Human male who served in the Rebel Alliance.\nHe was a Major in the Rebel Alliance and served in the Brak sector.\nPrior to joining the Rebellion, he attended the Bacrana Educational Institute where he met Dara Gion. The two fell in love and later participated in an anti-Empire protest on Bacrana. They eventually joined the Rebel Alliance but drifted apart.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Brak_sector",
+  "/wiki/Bacrana_Educational_Institute",
+  "/wiki/Dara_Gion",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Bacrana/Legends",
+  "/wiki/Flashpoint!_Brak_Sector",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

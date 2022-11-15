@@ -1,0 +1,65 @@
+{
+ "name": "Tiroc_Vhon",
+ "display_name": "Tiroc Vhon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "MandaloriansMandalorian Protectors",
+      "Mandalorian Protectors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiroc Vhon was a Mandalorian bounty hunter and mercenary who served under Boba Fett during the Yuuzhan Vong War.\nIn 24 ABY, he was one of the Mandalorian Protectors who participated in the battle of Birgis, while secretly trying to leave intel on the Yuuzhan Vong to the New Republic. During the assault on the main building of a spaceport on the planet, Vhon covered the Protectors exit with Suvar Detta. During the battle of New Holgha, Boba Fett had Vhon and Suvar hold down an injured and resistant Jedi, Kubariet, while Cham Detta administered medical assistance. Fett revealed to the Jedi Knight that the Mandalorians had tried to warn the New Republic about the attack on New Holgha, and that if the New Republic could set up a secure system they would continue to provide intel on the Vong. After Vhon warned of approaching Vong, Fett ordered him to help Kubariet to his ship, and escort him out of the system. Vhon carried a lightsaber that he picked up from a dying Jedi in battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Mandalorian_Protectors/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/24_ABY/Legends",
+  "/wiki/Battle_of_Birgis",
+  "/wiki/Birgis/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Suvar_Detta",
+  "/wiki/Battle_of_New_Holgha",
+  "/wiki/New_Holgha",
+  "/wiki/Kubariet",
+  "/wiki/Cham_Detta",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Star_system/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Boba_Fett:_A_Practical_Man"
+ ]
+}

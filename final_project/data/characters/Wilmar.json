@@ -1,0 +1,44 @@
+{
+ "name": "Wilmar",
+ "display_name": "Wilmar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wilmar was a human boy aboard the Halcyon and the son of Colram Vestig.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Halcyon",
+  "/wiki/Reproduction",
+  "/wiki/Colram_Vestig",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wilmar",
+  "/wiki/Halcyon_Legacy_2",
+  "/wiki/StarWars.com"
+ ]
+}

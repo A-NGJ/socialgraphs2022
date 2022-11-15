@@ -1,0 +1,61 @@
+{
+ "name": "Aurelant%27s_brother",
+ "display_name": "Aurelant's brother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sesid"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Draedan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified escape pod salvage company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The brother of Aurelant was a male Draedan from Sesid. He owned a company paid by the Galactic Empire to salvage accidentally launched escape pods and get them back in working order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sesid",
+  "/wiki/Draedan",
+  "/wiki/Gender",
+  "/wiki/Unidentified_escape_pod_salvage_company",
+  "/wiki/Aurelant",
+  "/wiki/Galactic_Empire",
+  "/wiki/Escape_pod",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aurelant%27s_brother",
+  "/wiki/Moving_Target:_A_Princess_Leia_Adventure",
+  "/wiki/Moving_Target:_A_Princess_Leia_Adventure_(audiobook)"
+ ]
+}

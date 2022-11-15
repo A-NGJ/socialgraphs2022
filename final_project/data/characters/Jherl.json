@@ -1,5 +1,6 @@
 {
  "name": "Jherl",
+ "display_name": "Jherl",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Jherl was a human boy who lived in the city of Mock on the planet of Cerosha. He was killed by the Dark Wraith.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

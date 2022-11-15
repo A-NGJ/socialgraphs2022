@@ -1,0 +1,45 @@
+{
+ "name": "Dokar_Venas",
+ "display_name": "Dokar Venas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Strus clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dokar Venas was a male individual who served the criminal gang the Strus clan on the planet Jakku around the time of the outbreak of the First Order-Resistance War. After word reached the Strus clan that a group of nomads had discovered a secret treasure within the wreck of the Starlight Wanderer, a New Republic CR90 corvette that had crashed on Jakku many years earlier, Venas led a group of Strus clan enforcers that attacked the nomads in an attempt to access the Starlight Wanderer crash site.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gender",
+  "/wiki/Strus_clan",
+  "/wiki/Planet",
+  "/wiki/Jakku",
+  "/wiki/Time",
+  "/wiki/First_Order-Resistance_War",
+  "/wiki/Starlight_Wanderer",
+  "/wiki/New_Republic",
+  "/wiki/CR90_corvette",
+  "/wiki/Standard_year",
+  "/wiki/A_Call_for_Heroes",
+  "/wiki/Star_Wars:_The_Force_Awakens_Beginner_Game"
+ ]
+}

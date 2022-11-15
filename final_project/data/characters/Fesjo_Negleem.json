@@ -1,0 +1,61 @@
+{
+ "name": "Fesjo_Negleem",
+ "display_name": "Fesjo Negleem",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Biowarfare Division",
+      "Imperial Army",
+      "Biowarfare Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Fesjo Negleem was once a member of the Imperial Army's biowarfare division. Negleem believed that biological weapons were infinitely superior to standard methods of waging war. He was responsible for the outbreak of the Gray Death on the planet Sedesia.\nFesjo Negleem considered the operation to release the Candorian plague on the planet Dentaal to be a failure  and had a more devious scheme for Sedesia. He infected the population of Sedesia with FNV-23, and then had COMPNOR forces routinely give inoculations to the planetary personnel. The inoculation, FNA-23-B, contained trace amounts of FNV-23 while resulted in the inhabitants getting sick again unless they had regular inoculations. Believing the Empire was working for the good of the planet, the Sedresians began to look favorably on their \"rescuers.\" Alliance operatives revealed the truth of Negleem's scheme and the entire planet revolted as a consequence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Biowarfare_division",
+  "/wiki/Doctor/Legends",
+  "/wiki/FNV-23",
+  "/wiki/Sedesia",
+  "/wiki/Dentaal_Uprising",
+  "/wiki/Candorian_plague",
+  "/wiki/Dentaal/Legends",
+  "/wiki/Commission_for_the_Preservation_of_the_New_Order/Legends",
+  "/wiki/FNA-23-B",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Operative",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Cure",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

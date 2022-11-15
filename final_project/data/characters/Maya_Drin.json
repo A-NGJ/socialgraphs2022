@@ -1,0 +1,69 @@
+{
+ "name": "Maya_Drin",
+ "display_name": "Maya Drin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maya Drin was a Human female who served the Galactic Republic on Hoth, during the start of the renewed war with the Sith Empire. She informed a Republic spacer that Bala D'ur pirates have taken Ortolans from their homes and turned them into slaves. Eventually, Maya sent the spacer to infiltrate the Bala D'ur's stronghold and free the captive Ortolans.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Maya_Drin",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

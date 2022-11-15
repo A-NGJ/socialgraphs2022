@@ -1,0 +1,52 @@
+{
+ "name": "First_Organa",
+ "display_name": "First Organa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The First Organa was a Human from the planet Alderaan who founded House Organa, one of the major Great Houses of Alderaan. The Organa was later memorialized in statues across the House's estate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/House_Organa_(estate)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

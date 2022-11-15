@@ -1,0 +1,41 @@
+{
+ "name": "House_Garonnin",
+ "display_name": "House Garonnin",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Garonnin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House Garonnin was one of the aristocratic Ancient Houses in the Senex sector that allied itself with Roganda and Irek Ismaren in 12 ABY. They made profits through strip-mining asteroids under non-worker-friendly conditions. It was led by Lord Garonnin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Garonnin",
+  "/wiki/Ancient_Houses",
+  "/wiki/Senex_sector/Legends",
+  "/wiki/Roganda_Ismaren/Legends",
+  "/wiki/Irek_Ismaren",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Asteroid/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Children_of_the_Jedi_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Atlas"
+ ]
+}

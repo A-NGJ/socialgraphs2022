@@ -1,0 +1,40 @@
+{
+ "name": "Walisi",
+ "display_name": "Walisi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Walisi was a Toydarian merchant who bought and sold rare objects, such as the statue Tragic Hope, and operated Walisi's Elegant and Exotic Artifacts. Soon after announcing that he planned to sell the statue, however, Walisi disappeared. Walisi's ally, the Gorensla kajidic, investigated the disappearance and incorrectly believed their enemy, the Desilijic kajidic, to be responsible. In reality, he was kidnapped by Jerserra.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Toydarian",
+  "/wiki/Gender",
+  "/wiki/Merchant",
+  "/wiki/Tragic_Hope",
+  "/wiki/Walisi%27s_Elegant_and_Exotic_Artifacts",
+  "/wiki/Gorensla",
+  "/wiki/Kajidic",
+  "/wiki/Desilijic",
+  "/wiki/Walisi%27s_kidnapping",
+  "/wiki/Jerserra",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

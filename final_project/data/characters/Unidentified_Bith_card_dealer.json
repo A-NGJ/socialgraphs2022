@@ -1,0 +1,69 @@
+{
+ "name": "Unidentified_Bith_card_dealer",
+ "display_name": "Unidentified Bith card dealer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Clak'dor VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cloud City Sabacc Tournament"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Bith was the dealer in the Cloud City Sabacc Tournament final where Han Solo won the Millennium Falcon from Lando Calrissian.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Bith",
+  "/wiki/Clak%27dor_VII",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cloud_City_Sabacc_Tournament",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Bith_card_dealer",
+  "/wiki/Rebel_Dawn",
+  "/wiki/Underworld:_A_Galaxy_of_Scum_and_Villainy"
+ ]
+}

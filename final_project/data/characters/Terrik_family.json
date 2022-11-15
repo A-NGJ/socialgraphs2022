@@ -1,0 +1,57 @@
+{
+ "name": "Terrik_family",
+ "display_name": "Terrik family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Corran Horn",
+      "Valin Horn",
+      "Jysella Horn"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Terriks were a family form Corellia known for smuggling. Members included:",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Corran_Horn",
+  "/wiki/Valin_Horn",
+  "/wiki/Jysella_Horn",
+  "/wiki/Corellia/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Horn_family",
+  "/wiki/Booster_Terrik",
+  "/wiki/Jysella_Terrik",
+  "/wiki/Mirax_Terrik_Horn"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Ollo",
+ "display_name": "Ollo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ollo was a male Human mechanic and engineer who served onboard the Republic Assault Ship Leveler under the command of Captain Gilad Pellaeon. Around 21 BBY, Ollo was present onboard the Leveler where he assisted chief engineer Lammin with repairs on the ship.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Xalto_Sneerzick",
+ "display_name": "Xalto Sneerzick",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Droid Abolitionist Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xalto Sneerzick was the leader of the Droid Abolitionist Movement. He had the back of his hand decorated with a tattoo of a purple cog being struck by a lightning bolt, signifying his devotion to freeing all droids throughout the galaxy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Droid_Abolitionist_Movement",
+  "/wiki/Limb/Legends",
+  "/wiki/Tattoo/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Xalto_Sneerzick",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Droids_Defiant",
+  "/wiki/Star_Wars_Adventure_Journal_9",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

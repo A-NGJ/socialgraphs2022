@@ -1,0 +1,80 @@
+{
+ "name": "Tub",
+ "display_name": "Tub",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Maridun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lurmen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown and gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lurmen village"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tub was a Lurmen male who lived in Maridun's Lurmen village. He was a close friend of Wag Too.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tub",
+  "/wiki/Tub/Legends",
+  "/wiki/Maridun",
+  "/wiki/Lurmen",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Lurmen_village",
+  "/wiki/Defenders_of_Peace",
+  "/wiki/Wag_Too",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tub",
+  "/wiki/Category:Images_of_Tub",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Jedi_Crash",
+  "/wiki/Star_Wars:_The_Visual_Encyclopedia",
+  "/wiki/Star_Wars_Helmet_Collection",
+  "/wiki/Star_Wars_Helmet_Collection_37",
+  "/wiki/Databank_A-Z"
+ ]
+}

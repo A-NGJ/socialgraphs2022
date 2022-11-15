@@ -1,0 +1,48 @@
+{
+ "name": "Pursey_Vermilla",
+ "display_name": "Pursey Vermilla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vernet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Persilla Turvey was a resident of the planet Vernet. She requested that Mair Koda bring her disks with the latest fashions on them on her trading runs, as well as a bolt of vine-silk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vernet",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Mair_Koda",
+  "/wiki/Vine-silk",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Draw",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

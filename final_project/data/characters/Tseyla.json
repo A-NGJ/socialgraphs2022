@@ -1,0 +1,59 @@
+{
+ "name": "Tseyla",
+ "display_name": "Tseyla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi OrderGalactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tseyla was a a Mirialan female Jedi Master of the Jedi Order. During the Cold War between the Galactic Republic and the reconstituted Sith Empire she was stationed on Coruscant where she served as a Jedi Consular and combat instructor.\nTseyla appears only in the game files for Star Wars: The Old Republic as her character was cut from the game. Tseyla's file can be found on Jedipedia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/October_5",
+  "/wiki/2020"
+ ]
+}

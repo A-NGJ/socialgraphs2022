@@ -1,0 +1,67 @@
+{
+ "name": "Sorn",
+ "display_name": "Sorn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Empire of the Hand"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorn was a Chiss Empire of the Hand agent who scouted the Bastion system during the Caamas Document Crisis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sorn_Argos",
+  "/wiki/Chiss/Legends",
+  "/wiki/Empire_of_the_Hand",
+  "/wiki/Sartinaynian_system",
+  "/wiki/Caamas_Document_Crisis",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Chiss",
+  "/wiki/Star_Wars_Gamer_5"
+ ]
+}

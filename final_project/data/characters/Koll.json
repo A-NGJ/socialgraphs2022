@@ -1,5 +1,6 @@
 {
  "name": "Koll",
+ "display_name": "Koll",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Koll was a male Qwohog who served as a medical technician for the Rebel Alliance.\nHe had a sister, Kei No Kay, who was a slave of the Ishi Tib Jund Voon.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Qwohog_(species)",

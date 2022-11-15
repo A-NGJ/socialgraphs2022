@@ -1,0 +1,49 @@
+{
+ "name": "Zeiers",
+ "display_name": "Zeiers",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free AlliancesGalactic Alliance Security",
+      "Galactic Alliance Security"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zeiers was a Human female who served as a lieutenant within Galactic Alliance Security.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Security",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zeiers",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)"
+ ]
+}

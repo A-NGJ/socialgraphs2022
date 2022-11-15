@@ -1,0 +1,36 @@
+{
+ "name": "Tershan",
+ "display_name": "Tershan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tershan was a shipjacker who lived in the skull of a sea creature in the Krasho Salt Rifts of the planet Sarafur.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Krasho_Salt_Rifts",
+  "/wiki/Planet/Legends",
+  "/wiki/Sarafur",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Race_for_the_Tessent",
+  "/wiki/Star_Wars_Gamer_9"
+ ]
+}

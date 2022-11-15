@@ -1,0 +1,64 @@
+{
+ "name": "Ord_Vorra",
+ "display_name": "Ord Vorra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ord Vorra was a female Twi'lek who served as a food service tech in the Grand Army of the Republic. She was stationed on the planet Drongar during the Clone Wars. She developed a romance with the Human pilot Biggs Bogan, which was helped by their mutual interest of playing Strag. The Black Sun assassin Kaird used this fact to his advantage. Kaird adopted the false identity of Mont Shomu and asked the couple to watch a holoprojection of a strag championship. While watching the strag competition, Kaird poured wine poisoned with myocaine. Fifteen minutes later, Vorra and Bogan were paralyzed, and the Human was forced to tell all codes for use of Admiral Erel Kersos' private ship.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Drongar/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Biggs_Bogan",
+  "/wiki/Strag",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Kaird",
+  "/wiki/Myocaine",
+  "/wiki/Admiral/Legends",
+  "/wiki/Erel_Kersos",
+  "/wiki/Starship/Legends",
+  "/wiki/MedStar_II:_Jedi_Healer"
+ ]
+}

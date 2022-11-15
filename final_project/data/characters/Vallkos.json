@@ -1,0 +1,50 @@
+{
+ "name": "Vallkos",
+ "display_name": "Vallkos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crimson Stars"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vallkos was a male Human pirate who was the brother of Mallikhan. At some point during galactic history, Vallkos and Mallikhan traveled to the planet of Volik in the Unknown Regions, as part of a large band of pirates. However, following a dispute over a female, the pirate gang split into two rival factions: the Crimson Stars and the Ebon Strikers. Vallkos became the leader of the Crimson Stars, while Mallikhan assumed control of the Ebon Strikers, and the two groups feuded with each another.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crimson_Stars",
+  "/wiki/Pirate/Legends",
+  "/wiki/Mallikhan",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Volik",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Ebon_Strikers",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

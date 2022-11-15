@@ -1,0 +1,66 @@
+{
+ "name": "Headhunter_Two",
+ "display_name": "Headhunter Two",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vandangante outlaw techs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Headhunter Two was the callsign used by Han Solo's wingman when flying with Headhunter Flight during the Battle of the Outlaw Tech Base, in 2 BBY. He was a member of the Vandangante outlaw techs and was a lanky, soft-spoken young man.\nWhen the Corporate Sector Authority found the outlaw tech base, they dispatched a squadron of four IRD starfighters to destroy the base. Han Solo had Headhunter Two, who had no prior combat experience, as his wingman. The inexperienced pilot didn't follow Solo's orders, thinking he could strike a kill against one of the IRD starfighters, but instead was shot down by the flight leader of the IRD squadron, becoming the battle's first casualty. Solo, enraged by his wingman's death, managed to shoot down the IRD squadron leader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vandangante_outlaw_techs",
+  "/wiki/Callsign",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Wingmate/Legends",
+  "/wiki/Headhunter_Flight",
+  "/wiki/Battle_of_the_Outlaw_Tech_Base",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Outlaw_tech/Legends",
+  "/wiki/Squadron/Legends",
+  "/wiki/IRD_starfighter",
+  "/wiki/Flight_leader",
+  "/wiki/Death/Legends",
+  "/wiki/Han_Solo_at_Stars%27_End"
+ ]
+}

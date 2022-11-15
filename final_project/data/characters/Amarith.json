@@ -1,5 +1,6 @@
 {
  "name": "Amarith",
+ "display_name": "Amarith",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Captain Amarith was an Alliance military officer during the Galactic Civil War. She commanded Chiron Base and dispatched a team of Rebels to investigate an Imperial operation on the planet Ando.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

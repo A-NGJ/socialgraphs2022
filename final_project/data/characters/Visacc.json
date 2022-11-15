@@ -1,0 +1,39 @@
+{
+ "name": "Visacc",
+ "display_name": "Visacc",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hjaff"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarc"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Visacc was a Tarc, and held the position of Keddek—the elected ruler of Hjaff.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hjaff",
+  "/wiki/Tarc",
+  "/wiki/Keddek",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Alien_Encounters_(article_series)",
+  "/wiki/Star_Wars_Adventure_Journal_14"
+ ]
+}

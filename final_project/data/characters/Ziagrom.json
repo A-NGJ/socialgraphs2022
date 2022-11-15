@@ -1,0 +1,58 @@
+{
+ "name": "Ziagrom",
+ "display_name": "Ziagrom",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ziagrom was a male green Twi'lek businessman Revan met in Dreshdae, 3956 BBY. He was Mika Dorin's partner. Through several contacts he had in the Sith fleet, he subsequently learned of the amnesiac Revan's true identity as the former Dark Lord of the Sith Darth Revan. He told Revan to tell Dorin he had sent him and that Dorin would sell him his premium items.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Dreshdae",
+  "/wiki/3956_BBY",
+  "/wiki/Mika_Dorin",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Fleet/Legends",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Darth/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Mac_(Human)",
+ "display_name": "Mac  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Happy Blasters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mac was a technician and member of the Happy Blasters. He did not reveal where he was from, only stating it was about three hours from Coruscant. Mac joined the Happy Blasters out of a sense of curiosity, signing on because he was offered the chance to use his skills to enhance the interior of the Starcat, essentially making it a fortress.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Happy_Blasters",
+  "/wiki/Technician/Legends",
+  "/wiki/Standard_hour/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Starcat",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Scouts%27_Dispatch",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

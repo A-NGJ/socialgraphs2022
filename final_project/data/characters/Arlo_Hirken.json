@@ -1,0 +1,50 @@
+{
+ "name": "Arlo_Hirken",
+ "display_name": "Arlo Hirken",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alsakan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Arlo Hirken was a native of Alsakan who lived in the Old Republic's fourth millennium. He was a partner of the legendary merchant Rin Assid, and was quite economically and politically ingenious. His exploits would later prove inspirational to one of his descendants, Mirkovig Hirken.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arlo_(disambiguation)",
+  "/wiki/Hirken_(disambiguation)",
+  "/wiki/Alsakan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Rin_Assid",
+  "/wiki/Mirkovig_Hirken",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Arlo_Hirken",
+  "/wiki/Han_Solo_and_the_Corporate_Sector_Sourcebook"
+ ]
+}

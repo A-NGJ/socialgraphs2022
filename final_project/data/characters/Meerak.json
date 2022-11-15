@@ -1,5 +1,6 @@
 {
  "name": "Meerak",
+ "display_name": "Meerak",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Meerak was a Human male native to the planet Fyodos. He was the son of Kalor, chief of the Roh tribe, and his wife, Alyak. Dubeh was his brother.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Fyodos",

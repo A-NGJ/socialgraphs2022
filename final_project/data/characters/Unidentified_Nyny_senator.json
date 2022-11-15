@@ -1,0 +1,68 @@
+{
+ "name": "Unidentified_Nyny_senator",
+ "display_name": "Unidentified Nyny senator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nyny"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "17 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nyny species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Senator represented the planet Nyny in the New Republic Senate in the year 17 ABY. He was killed in the Bombing of the Senate Hall.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nyny",
+  "/wiki/17_ABY/Legends",
+  "/wiki/Unidentified_Nyny_species",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Bombing_of_the_Senate_Hall",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

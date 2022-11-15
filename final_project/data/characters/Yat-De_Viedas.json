@@ -1,0 +1,50 @@
+{
+ "name": "Yat-De_Viedas",
+ "display_name": "Yat-De Viedas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yat-De Viedas was a male Rodian who served as a commodore in the Rebel Alliance during its early years. In 1 BBY, he had a base on Nordra and fought during the Assault on Kamino, under the command of General Rahm Kota.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Commodore/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Nordra",
+  "/wiki/Assault_on_Kamino",
+  "/wiki/General/Legends",
+  "/wiki/Rahm_Kota/Legends",
+  "/wiki/The_Force_Unleashed_II_(novel)"
+ ]
+}

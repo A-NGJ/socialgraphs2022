@@ -1,0 +1,40 @@
+{
+ "name": "Tosk-tar%27ilya",
+ "display_name": "Tosk-tar'ilya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tosk-tar'ilya was a Bothan spy/commando who was tasked with the sabotage of Caamas' energy shield bunker 14.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Commando/Legends",
+  "/wiki/Caamas/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Markren_Pellias",
+ "display_name": "Markren Pellias",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Markren Pellias was the Planetary Trade Director on the planet Rhamalai. When the Empire begin to conscript the husbands, brothers, and sons of Rhamalai, Pellias argued with General Naem Yrros that it was unfair. Yrros told him they were sufficiently compensated, and went on to tell Pellias that Rhamalai was now under Imperial control, and would serve as an agricultural world for the Empire, with Pellias and its other leaders operating as Imperial figureheads.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planetary_Trade_Director",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhamalai",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Naem_Yrros",
+  "/wiki/Agriworld/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

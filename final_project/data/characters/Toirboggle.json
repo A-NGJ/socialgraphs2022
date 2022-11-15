@@ -1,0 +1,35 @@
+{
+ "name": "Toirboggle",
+ "display_name": "Toirboggle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snivvian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toirboggle was a Snivvian Male who worked on an epic poem about piracy called Honor Amongst Thieves. In order to gain inspiration, he sought membership on a pirate ship captained by pirate Olian Okamie. He proved to be a capable accountant and even revealed to Okamie that someone had been stealing from him. The Snivvian continued to travel on the pirate ship on the rim of Trax sector, not participating in the violence but getting into the spirit of things.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Snivvian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Honor_Amongst_Thieves",
+  "/wiki/Olian_Okamie",
+  "/wiki/Trax_sector",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

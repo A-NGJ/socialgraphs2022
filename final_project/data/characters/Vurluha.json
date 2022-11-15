@@ -1,0 +1,36 @@
+{
+ "name": "Vurluha",
+ "display_name": "Vurluha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vurluha was a female Twi'lek who was a youngling training at the Jedi Temple.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Youngling",
+  "/wiki/Imperial_Palace",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vurluha",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

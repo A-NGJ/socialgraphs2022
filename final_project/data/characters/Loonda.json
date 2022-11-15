@@ -1,5 +1,6 @@
 {
  "name": "Loonda",
+ "display_name": "Loonda",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Loonda was a Human female living in Oradam village on Ord Mantell. Her husband was the psychologically unstable scientist Trymbo, whom she referred to as her \"little butternut.\"",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

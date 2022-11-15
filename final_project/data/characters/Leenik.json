@@ -1,5 +1,6 @@
 {
  "name": "Leenik",
+ "display_name": "Leenik",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Leenik was the male Rodian majordomo for Borga the Hutt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

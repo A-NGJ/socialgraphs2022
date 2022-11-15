@@ -1,0 +1,52 @@
+{
+ "name": "Alabar_Double_Ax",
+ "display_name": "Alabar Double Ax",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sikurd"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sikurdian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Alabar Double Ax was a male Sikurdian berserker pirate, one of the first quarries to be apprehended by the bounty hunter Beilert Valance. His ship was confiscated by Valance, and renamed Kill Switch.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sikurd",
+  "/wiki/Sikurdian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Beilert_Valance/Legends",
+  "/wiki/Kill_Switch",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Alabar_Double_Ax",
+  "/wiki/Wizards.com",
+  "/wiki/The_Hunt_Within:_Valance%27s_Tale:_Part_1",
+  "/wiki/StarWars.com",
+  "/wiki/The_Not-So_Magnificent_Seven"
+ ]
+}

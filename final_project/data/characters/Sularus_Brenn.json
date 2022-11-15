@@ -1,0 +1,52 @@
+{
+ "name": "Sularus_Brenn",
+ "display_name": "Sularus Brenn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sularus Brenn was a Human male Imperial flight officer. He was a top scoring TIE fighter ace with 42 confirmed kills. Despite injuries requiring cybernetic replacement organs, Brenn continued to fly missions deep into the New Republic space. The Empire recognized his contributions by awarding him a specially designed Medal of Conspicuous Gallantry decorated with star clusters.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Flight_officer",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Medal_of_Conspicuous_Gallantry",
+  "/wiki/Star/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sularus_Brenn",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

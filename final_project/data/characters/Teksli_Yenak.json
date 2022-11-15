@@ -1,0 +1,59 @@
+{
+ "name": "Teksli_Yenak",
+ "display_name": "Teksli Yenak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chattza Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teksli Yenak was a Rodian bounty hunter and member of the Chattza Clan. He was considered a poor bounty hunter given his low standing in the ancient guild of Goa-Ato.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chattza_Clan",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Goa-Ato/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/New_Assignments",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide"
+ ]
+}

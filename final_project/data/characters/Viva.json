@@ -1,0 +1,62 @@
+{
+ "name": "Viva",
+ "display_name": "Viva",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gala"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Galacian"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hill people"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viva was a member of the Hill people who lived on the planet Gala. In 44 BBY, Viva was tasked by Elan, the leader of the Hill people, to gather all of her medicinal supplies when the royal guards attacked the Hill people's encampment.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Viva",
+  "/wiki/Gala",
+  "/wiki/Galacian",
+  "/wiki/Hill_people",
+  "/wiki/Dana_(Galacian)",
+  "/wiki/Planet/Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Elan_Tallah",
+  "/wiki/Royal_guard_(Gala)",
+  "/wiki/Battle_of_Gala",
+  "/wiki/Jedi_Apprentice:_The_Mark_of_the_Crown"
+ ]
+}

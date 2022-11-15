@@ -1,5 +1,6 @@
 {
  "name": "Eoodso",
+ "display_name": "Eoodso",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Eoodso was a Jeodu member of Black Nebula, a personal guard for Dequc as of 4.5 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Jeodu",

@@ -1,5 +1,6 @@
 {
  "name": "Morely",
+ "display_name": "Morely",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Morely was a Human male who served as an officer assigned to Commander Shad.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

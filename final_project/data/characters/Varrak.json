@@ -1,0 +1,58 @@
+{
+ "name": "Varrak",
+ "display_name": "Varrak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Special Operations Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varrak was a Human female SOB agent who worked for the Galactic Republic.\nDuring the Clone Wars, Agent Varrak worked for Senator Bail Organa, who had full confidence in her abilities. She was sent to help Jedi Master Obi-Wan Kenobi, and Jedi Knight Anakin Skywalker to forge fake IDs for their mission to Lanteeb.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Special_Operations_Brigade/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Bail_Prestor_Organa/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Lanteeb/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Varrak",
+  "/wiki/Clone_Wars_Gambit:_Stealth",
+  "/wiki/Clone_Wars_Gambit:_Stealth_(audiobook)",
+  "/wiki/Clone_Wars_Gambit:_Siege",
+  "/wiki/Clone_Wars_Gambit:_Siege_(audiobook)"
+ ]
+}

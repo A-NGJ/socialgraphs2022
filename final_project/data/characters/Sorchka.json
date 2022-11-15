@@ -1,0 +1,71 @@
+{
+ "name": "Sorchka",
+ "display_name": "Sorchka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Military",
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorchka was a Human male in the Imperial Military who was stationed on the planet Alderaan during the Cold War. A fair-skinned man with green eyes and brown hair and facial hair, he held the rank of lieutenant, and was stationed at the Thul research camp in Kaamos Territory, where he maintained communications with other outposts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Eye/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Thul_research_camp",
+  "/wiki/Kaamos_Territory",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Teehl",
+ "display_name": "Teehl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.9 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teehl was a mercenary and pirate. She wore a battle-scarred but well-repaired black and gold spacesuit. Her faceplate was polarized but her voice over the comlink sounded melodious. She wore her helmet at all times, and very few people had seen her true face and lived to tell about it.\nTeehl started her career as the favorite mistress of a powerful pirate, and worked and saved until the day she could buy her own ship. That ship was the Grasp, and she went solo as soon as she could afford it. She became a freelance mercenary who was known to work for Jabba the Hutt as an enforcer. She was ordered by Jabba to recover a gravity-well projector controlled by the Ugors, some time after the Battle of Yavin. The Alliance and the Squibs were after the same projector, hoping to use the device to pull the Elusive out of hyperspace before it could deliver Alliance datapacks to the Empire.\nTeehl could not accurately be called ruthless, because she actually cared about every person she betrayed and killed. It was simply that she cared more for herself, and every person who had gotten close to her also was in her way.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Grasp",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Gravity_well_projector/Legends",
+  "/wiki/Ugor/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Elusive_(transport)",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Scavenger_Hunt",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

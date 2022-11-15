@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Tunroth_privateer",
+ "display_name": "Unidentified Tunroth privateer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tunroth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Tunroth joined the crew of the Far Orbit, a Rebel privateer Nebulon-B Escort Frigate aligned with the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tunroth",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Far_Orbit",
+  "/wiki/Rebel_privateer",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Tunroth_privateer",
+  "/wiki/The_Far_Orbit_Project"
+ ]
+}

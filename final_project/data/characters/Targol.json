@@ -1,0 +1,48 @@
+{
+ "name": "Targol",
+ "display_name": "Targol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kothal Roughnecks"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Targol was a human male from the city of Kothal on Lothal. Targol played as the fullback of the grav-ball team Kothal Roughnecks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Kothal_Roughnecks",
+  "/wiki/Beck_Ollet",
+  "/wiki/Kothal",
+  "/wiki/Lothal",
+  "/wiki/Fullback",
+  "/wiki/Grav-ball",
+  "/wiki/Servants_of_the_Empire:_Edge_of_the_Galaxy"
+ ]
+}

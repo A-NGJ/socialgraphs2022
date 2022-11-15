@@ -1,0 +1,55 @@
+{
+ "name": "Yeelhoy",
+ "display_name": "Yeelhoy",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yeelhoy was a Jawa of Nebit's tribe. A scouting mission for R2-D2 in the Jundland Wastes was the first hunt for he and his brother, Enjikket.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Nebit/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Jundland_Wastes/Legends",
+  "/wiki/Enjikket",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/StarWars.com"
+ ]
+}

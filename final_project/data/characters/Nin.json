@@ -1,5 +1,6 @@
 {
  "name": "Nin",
+ "display_name": "Nin",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Nin was an old Senali who worked for the Senali Royal Family as their assistant. She cooked and took care of Bu.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nrin_Vakil",

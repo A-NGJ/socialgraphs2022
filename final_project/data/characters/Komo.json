@@ -1,5 +1,6 @@
 {
  "name": "Komo",
+ "display_name": "Komo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Komo was a male Human Sith Lord of the Sith Empire. During the Galactic War he was posted on Taris, where he asked an Imperial to ruin a Republic hydroplant.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

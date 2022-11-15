@@ -1,5 +1,6 @@
 {
- "name": "M'nista",
+ "name": "M%27nista",
+ "display_name": "M'nista",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "M'nista was a male Human aide to Baron Ragez D'Asta.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

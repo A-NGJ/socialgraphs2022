@@ -1,0 +1,67 @@
+{
+ "name": "Backwards_Snoke",
+ "display_name": "Backwards Snoke",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Exegol"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Backwards Snoke was a humanoid male clone of Snoke who was created by the Sith Eternal cult on the planet Exegol. His cloning process was unsuccessful which left him with a reversed head and backwards speech.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Exegol",
+  "/wiki/Humanoid",
+  "/wiki/Cloning",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Eye",
+  "/wiki/Snoke",
+  "/wiki/Sith_Eternal",
+  "/wiki/Religion",
+  "/wiki/Planet",
+  "/wiki/Language",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Backwards_Snoke",
+  "/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+ ]
+}

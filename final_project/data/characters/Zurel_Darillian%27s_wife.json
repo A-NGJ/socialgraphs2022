@@ -1,0 +1,65 @@
+{
+ "name": "Zurel_Darillian%27s_wife",
+ "display_name": "Zurel Darillian's wife",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "6 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Human was the wife of Imperial Captain Zurel Darillian. She died when Director of Imperial Intelligence Ysanne Isard launched the Executor-class Star Dreadnought Lusankya from its berth on the planet Coruscant, destroying the building the Darillians called home.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/6_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Zurel_Darillian",
+  "/wiki/Death/Legends",
+  "/wiki/Director_of_Imperial_Intelligence",
+  "/wiki/Ysanne_Isard",
+  "/wiki/Mission_above_Imperial_City",
+  "/wiki/Executor-class_Star_Dreadnought/Legends",
+  "/wiki/Lusankya/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

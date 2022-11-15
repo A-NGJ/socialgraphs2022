@@ -1,0 +1,78 @@
+{
+ "name": "Slatblath",
+ "display_name": "Slatblath",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zargnor Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slatblath was an Ugnaught bounty hunter and member of the Zargnor Clan during the Cold War.\nHe was killed along with his clan brothers, Gornik and Ugmir, by a rival bounty hunter who was hunting the same target as the trio.\nThe player has the option of sparing Slatblath along with his clan brothers instead of killing them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Zargnor_Clan",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Canon",
+  "/wiki/Gornik",
+  "/wiki/Ugmir",
+  "/wiki/Eidolon_(assassin)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slatblath",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

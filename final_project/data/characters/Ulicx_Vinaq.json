@@ -1,0 +1,54 @@
+{
+ "name": "Ulicx_Vinaq",
+ "display_name": "Ulicx Vinaq",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulicx Vinaq was a Devaronian merchant known for his many facial piercings.\nAfter losing a large amount of credits to Vinaq, Imperial Governor Desh planted a crate of Imperial weapons on the Devaronian's ship and issued an arrest order for Vinaq. He was a known associate of the Devaronian trader Merrilet Gorron.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Desh_(Imperial)",
+  "/wiki/Merrilet_Gorron",
+  "/wiki/West_End_Games",
+  "/wiki/Sore_Loser",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/Wizards.com",
+  "/wiki/Saga_Edition_Web_Enhancement:_Devaronians"
+ ]
+}

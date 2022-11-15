@@ -1,5 +1,6 @@
 {
- "name": "Sha'lia",
+ "name": "Sha%27lia",
+ "display_name": "Sha'lia",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sha'lia was a female Twi'lek Force-sensitive working for the Rebel Alliance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

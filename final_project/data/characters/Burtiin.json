@@ -1,5 +1,6 @@
 {
  "name": "Burtiin",
+ "display_name": "Burtiin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Burtiin was a Wookiee who had his Trast A-A2 Speeder Truck stolen by F'ej D'aw.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookiee/Legends",

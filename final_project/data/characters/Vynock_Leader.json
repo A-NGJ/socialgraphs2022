@@ -1,0 +1,51 @@
+{
+ "name": "Vynock_Leader",
+ "display_name": "Vynock Leader",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireVynock Squadron",
+      "Vynock Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vynock Leader was the callsign of a pilot in the Sith Empire and the leader of the Vynock Squadron during the Galactic War. During the Battle of Corellia the squadron participated in the attack on the Coronet City's Aegis Base, during which Vynock Six was shot down, but Vynock Leader and his squadron had successfully accomplished the mission objective.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Vynock_Squadron",
+  "/wiki/Pilot/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Aegis_Base",
+  "/wiki/Vynock_Six",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

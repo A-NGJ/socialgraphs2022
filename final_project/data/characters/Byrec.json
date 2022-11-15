@@ -1,5 +1,6 @@
 {
  "name": "Byrec",
+ "display_name": "Byrec",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Byrec was a male Trandoshan who lived during the Galactic Civil War. He resided on Nova Orion Station.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Trandoshan/Legends",

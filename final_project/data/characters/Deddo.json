@@ -1,5 +1,6 @@
 {
  "name": "Deddo",
+ "display_name": "Deddo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Deddo was a Chiss male agent of Imperial Intelligence during the Galactic War between the reconstituted Sith Empire and the Galactic Republic. He was stationed on Vaiken Spacedock.\nHe was later removed as a vendor and NPC in Game Update 5.0 on November 29, 2016, which retired the PvP and PvE gear vendors in favor of the Command system.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Chiss/Legends",

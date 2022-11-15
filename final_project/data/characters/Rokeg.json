@@ -1,5 +1,6 @@
 {
  "name": "Rokeg",
+ "display_name": "Rokeg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Rokeg was a male Dug and the leader of the Syvik Delegation, a pirate organization that was active during the reign of the Galactic Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Dug",

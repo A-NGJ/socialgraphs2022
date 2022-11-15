@@ -1,0 +1,39 @@
+{
+ "name": "Nervi_family",
+ "display_name": "Nervi family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Nervi family was an influential family of the Galactic Empire of which Lila Nervi was a member of. Ralchio Nervi married Lila to gain influence through the family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Lila_Nervi",
+  "/wiki/Ralchio_Nervi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Friends_Like_These"
+ ]
+}

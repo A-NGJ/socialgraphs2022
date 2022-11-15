@@ -1,0 +1,59 @@
+{
+ "name": "Unidentified_faction_leader",
+ "display_name": "Unidentified faction leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of SithBeray faction",
+      "Beray faction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human Sith was the leader of the faction from Beray on the planet Kesh during the Time of the Rot. The Sith was the target of failed assassination attempts from both the father and mother of Sith Caretaker Varner Hilts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Human/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Beray_faction",
+  "/wiki/Sith/Legends",
+  "/wiki/Beray",
+  "/wiki/Planet/Legends",
+  "/wiki/The_Time_of_the_Rot",
+  "/wiki/Assassin/Legends",
+  "/wiki/Slippery_Hilts",
+  "/wiki/Varner_Hilts%27_mother",
+  "/wiki/Caretaker",
+  "/wiki/Varner_Hilts",
+  "/wiki/Lost_Tribe_of_the_Sith:_Secrets"
+ ]
+}

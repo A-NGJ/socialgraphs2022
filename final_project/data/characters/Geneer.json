@@ -1,5 +1,6 @@
 {
  "name": "Geneer",
+ "display_name": "Geneer",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Duchess Geneer was a female Duros, and the last sovereign to rule Duro. She was removed from office by the corporations that dominated the planet. She was later entombed in the Valley of Royalty, in a monument of the same name.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Duro/Legends",

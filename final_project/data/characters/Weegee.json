@@ -1,0 +1,52 @@
+{
+ "name": "Weegee",
+ "display_name": "Weegee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Unidentified planet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Weegee was a human male who lived on a planet in the Huru system where he mined farium. He was a friend of Kanina Nico.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/WeeGee",
+  "/wiki/Unidentified_planet_(Kanina_Nico)",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Huru_system",
+  "/wiki/Miner",
+  "/wiki/Farium",
+  "/wiki/Kanina_Nico",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Weegee",
+  "/wiki/Han_Solo_-_Imperial_Cadet_3",
+  "/wiki/Han_Solo_-_Imperial_Cadet_4",
+  "/wiki/Han_Solo_-_Imperial_Cadet_5"
+ ]
+}

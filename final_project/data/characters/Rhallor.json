@@ -1,5 +1,6 @@
 {
  "name": "Rhallor",
+ "display_name": "Rhallor",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Rhallor was a female Cathar member of the Exchange operating on Mek-Sha.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Cathar/Legends",

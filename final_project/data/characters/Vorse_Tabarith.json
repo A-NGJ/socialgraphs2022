@@ -1,0 +1,66 @@
+{
+ "name": "Vorse_Tabarith",
+ "display_name": "Vorse Tabarith",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cloud City",
+      "Bespin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vorse Tabarith was a male Human crime lord during the Galactic Civil War. Tabarith was a native of Cloud City on Bespin where he owned and operated several casinos and resorts, which were little more than fronts for his racketeering and bookie enterprises. He was married to, and spent much time entertaining his wife, Aris Shen. At his wife's urging, he attended an action to acquire the valuable Jewel of Yavin, unaware that his father-in-law and wife were planning to steal both the gem and the money paid for its purchase.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Casino/Legends",
+  "/wiki/Aris_Shen",
+  "/wiki/Jewel_of_Yavin/Legends",
+  "/wiki/Arend_Shen",
+  "/wiki/Corusca_gem",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vorse_Tabarith",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

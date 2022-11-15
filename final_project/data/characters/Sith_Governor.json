@@ -1,0 +1,88 @@
+{
+ "name": "Sith_Governor",
+ "display_name": "Sith Governor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireSith",
+      "Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Force-sensitive Sith Governor was appointed to govern Taris when the Sith Empire conquered the planet during the Jedi Civil War. When Revan and his companions entered his room inside the Sith Base seeking the launch codes that would allow them to escape the planet, the governor sensed Revan's strength in the Force. Seeing an opportunity to earn a lightsaber from his Sith masters, he attacked with a vibro double-blade. He was killed during the ensuing skirmish by Revan and his allies.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Darth_Revan%27s_Sith_Empire",
+  "/wiki/Sith/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Revan/Legends",
+  "/wiki/Tarisian_military_base",
+  "/wiki/The_Force/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Sith_Master/Legends",
+  "/wiki/Vibro_double-blade",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

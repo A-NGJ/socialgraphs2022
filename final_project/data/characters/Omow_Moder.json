@@ -1,0 +1,32 @@
+{
+ "name": "Omow_Moder",
+ "display_name": "Omow Moder",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Omow Moder was a male Ithorian student who studied ecology on Clak'dor VII.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clak%27dor_VII",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "name": "Tela_Rovas",
+ "display_name": "Tela Rovas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Supreme Court",
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tela Rovas was a female Human Sith Lady of the Lost Tribe of Sith disguised as Chief Justice of the Court of Justice. She was one of the few Sith to survive the firsts phase of the Liberation of Coruscant thanks to her use of Robr Selvi, a fellow judge, as a human shield. Jedi Knights Jaina Solo, Jysella Horn, and Valin Horn were unable to kill her, as the Jedi had agreed that no civilians would be harmed in their attacks, so Rovas was able to use the corrupt Selvi to survive. She later retreated with all the other members of the Tribe on the New Jedi Temple and was killed in the last battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/44_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Supreme_Court/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Chief_Justice",
+  "/wiki/Court_of_Justice",
+  "/wiki/Liberation_of_Coruscant_(Lost_Tribe_of_Sith_emergence)",
+  "/wiki/Robr_Selvi",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Jysella_Horn",
+  "/wiki/Valin_Horn",
+  "/wiki/New_Jedi_Temple",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

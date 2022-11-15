@@ -1,5 +1,6 @@
 {
  "name": "Dugge",
+ "display_name": "Dugge",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Dugge was a Human male pirate who was a captain in the Death's Claw operating on Taris during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

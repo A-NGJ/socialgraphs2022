@@ -1,0 +1,62 @@
+{
+ "name": "Halsta_Labiqon",
+ "display_name": "Halsta Labiqon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Halsta Labiqon was a female Nautolan Jedi Consular who visited the town of Raider's Cove on Rishi during the Galactic War.\nHalsta Labiqon appears as a consular trainer in the Star Wars: The Old Republic: Shadow of Revan expansion, released on December 2, 2014.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Consular",
+  "/wiki/Raider%27s_Cove",
+  "/wiki/Rishi/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan",
+  "/wiki/December_2",
+  "/wiki/2014"
+ ]
+}

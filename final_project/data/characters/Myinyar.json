@@ -1,5 +1,6 @@
 {
  "name": "Myinyar",
+ "display_name": "Myinyar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Myinyar was a Quara Aqualish female who attempted to sell three kilograms of sedrellium to a Human contact.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Quara/Legends",

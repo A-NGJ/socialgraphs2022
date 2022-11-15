@@ -1,0 +1,61 @@
+{
+ "name": "Tun_Dameerd",
+ "display_name": "Tun Dameerd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ansion"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unity Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tun Dameerd was a Human male.\nHe was one of the seven delegates of the Unity Council on Ansion in 22 BBY. Dameerd was supportive of the Jedi and wary of Soergg the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ansion/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Unity_Council",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Soergg",
+  "/wiki/Hutt/Legends",
+  "/wiki/The_Approaching_Storm",
+  "/wiki/The_Approaching_Storm_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Sadie",
+ "display_name": "Sadie",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sadie was a male Abyssin working as a bartender in the Jungle Lust on Belsavis in 12 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gender/Legends",

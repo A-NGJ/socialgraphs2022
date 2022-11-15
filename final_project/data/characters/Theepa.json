@@ -1,0 +1,36 @@
+{
+ "name": "Theepa",
+ "display_name": "Theepa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Theepa was a Human female performer.\nIn 14 ABY, the Grand Coruscant Theatre presented her Hyperdrive Tour on Coruscant and Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/14_ABY/Legends",
+  "/wiki/Grand_Coruscant_Theatre",
+  "/wiki/Hyperdrive_Tour",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Star_Wars:_Jedi_Knight:_Jedi_Academy"
+ ]
+}

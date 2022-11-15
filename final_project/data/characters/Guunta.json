@@ -1,5 +1,6 @@
 {
  "name": "Guunta",
+ "display_name": "Guunta",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Guunta was a Twi'lek male who worked as a vendor on Balmorra during the Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

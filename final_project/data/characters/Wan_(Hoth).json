@@ -1,0 +1,73 @@
+{
+ "name": "Wan_(Hoth)",
+ "display_name": "Wan  (Hoth)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wan was a member of the White Maw who along with White Maw Guard T'uu was ambushed inside the Star of Coruscant by Languss Tuno and the Voidhound. Both Wan and T'uu were killed during the fighting.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/White_Maw",
+  "/wiki/T%27uu",
+  "/wiki/Star_of_Coruscant",
+  "/wiki/Languss_Tuno",
+  "/wiki/Voidhound",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

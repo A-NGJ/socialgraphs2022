@@ -1,0 +1,70 @@
+{
+ "name": "Teph",
+ "display_name": "Teph",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kiffex"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kiffar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kiffu Guardians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sergeant Teph was a male Kiffar and a member of the Kiffu Guardians. In 137 ABY he along with his subordinates Griz and Ahnah Rawk tried to stop a brawl near the Busted Blaster cantina, but was beaten by a Force-sensitive named Cade Skywalker.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kiffex/Legends",
+  "/wiki/Kiffar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kiffu_Guardians",
+  "/wiki/Sergeant/Legends",
+  "/wiki/137_ABY",
+  "/wiki/Griz_(Kiffar)",
+  "/wiki/Ahnah_Rawk",
+  "/wiki/Busted_Blaster",
+  "/wiki/Cantina/Legends",
+  "/wiki/Cade_Skywalker",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teph",
+  "/wiki/Legacy_(2006)_35"
+ ]
+}

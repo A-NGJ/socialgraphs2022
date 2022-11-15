@@ -1,0 +1,61 @@
+{
+ "name": "TK-5187",
+ "display_name": "TK-5187",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Blizzard Force",
+      "Blizzard Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-5187 was a gunner who served as part of Maximilian Veers' Blizzard Force during the Battle of Hoth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Blizzard_Force",
+  "/wiki/Maximilian_Veers",
+  "/wiki/Battle_of_Hoth",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TK-5187",
+  "/wiki/In-universe",
+  "/wiki/Special:EditPage/:TK-5187",
+  "/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+  "/wiki/Star_Wars:_The_Empire_Strikes_Back_(Screen_Comix)",
+  "/wiki/The_Truest_Duty",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/Star_Wars:_The_Original_Trilogy_%E2%80%93_A_Graphic_Novel",
+  "/wiki/Star_Wars_Helmet_Collection",
+  "/wiki/Star_Wars_Helmet_Collection_65",
+  "/wiki/Databank_A-Z",
+  "/wiki/Star_Wars_Encyclopedia_(De_Agostini)",
+  "/wiki/The_Battle_of_Hoth_and_the_Second_Death_Star"
+ ]
+}

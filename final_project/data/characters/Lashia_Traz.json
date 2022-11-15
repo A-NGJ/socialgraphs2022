@@ -1,0 +1,60 @@
+{
+ "name": "Lashia_Traz",
+ "display_name": "Lashia Traz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zakuul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lashia Traz was a female Human citizen of the Eternal Empire of Zakuul. After Empress Vaylin was killed during the Assault on Odessen, the Eternal Fleet went rogue and began bombarding Zakuul, destroying Traz's home among many others. Lashia send a holomessage to her father Dersin warning him to stay away from Zakuul, but her message was interrupted by a violent explosion in the area.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zakuul",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Vaylin",
+  "/wiki/Assault_on_Odessen",
+  "/wiki/Eternal_Fleet",
+  "/wiki/Dersin_Traz",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

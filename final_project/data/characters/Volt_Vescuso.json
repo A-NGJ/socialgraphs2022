@@ -1,0 +1,69 @@
+{
+ "name": "Volt_Vescuso",
+ "display_name": "Volt Vescuso",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light brown"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Two fingers"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Creature Stall"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Volt Vescuso was a human male who resided in Black Spire Outpost on Batuu. He worked in Bina's Creature Stall, and was a friend of Julen Rakab.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Creature_Stall",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Batuu",
+  "/wiki/Bina",
+  "/wiki/Julen_Rakab",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Volt_Vescuso",
+  "/wiki/A_Crash_of_Fate",
+  "/wiki/A_Crash_of_Fate_(audiobook)"
+ ]
+}

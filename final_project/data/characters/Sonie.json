@@ -1,0 +1,65 @@
+{
+ "name": "Sonie",
+ "display_name": "Sonie",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Melida"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sonie was the supposed aunt of Cerasi, a female Melida from the planet Melida/Daan. In order to create a diversion for Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi, Cerasi told two guards that she was looking for her father Wehutti in order to tell him that Sonie had been killed by the Daan in a proton grenade attack.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/Human/Legends",
+  "/wiki/Melida",
+  "/wiki/Gender/Legends",
+  "/wiki/Cerasi",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Wehutti",
+  "/wiki/Death/Legends",
+  "/wiki/Daan_(people)",
+  "/wiki/Proton_grenade/Legends",
+  "/wiki/Jedi_Apprentice:_The_Defenders_of_the_Dead"
+ ]
+}

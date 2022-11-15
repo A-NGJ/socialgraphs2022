@@ -1,0 +1,75 @@
+{
+ "name": "Sothek",
+ "display_name": "Sothek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yinchorr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yinchorri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gold"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Council of Elders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sothek was a male Yinchorri who served as a member of the Council of Elders during the waning years of the Galactic Republic. In 33 BBY, he and his fellow Councilors were persuaded by Vilmarh Grahrk to raid the Golden Nyss Shipyards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yinchorr/Legends",
+  "/wiki/Yinchorri",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Council_of_Elders_(Yinchorri)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Vilmarh_Grahrk",
+  "/wiki/Raid_on_the_Golden_Nyss_Shipyards",
+  "/wiki/Golden_Nyss_Shipyards",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sothek",
+  "/wiki/Star_Wars_(1998)_40"
+ ]
+}

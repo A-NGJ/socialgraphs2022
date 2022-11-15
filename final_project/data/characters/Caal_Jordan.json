@@ -1,0 +1,65 @@
+{
+ "name": "Caal_Jordan",
+ "display_name": "Caal Jordan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Caal Jordan was a male Human scientist who worked for the Galactic Republic during the Jedi Civil War. In 3956 BBY, he was assigned to Hrakert Station on the planet Manaan where he developed a sonic weapon for use against Firaxan sharks. After his development, he requested a raise for his accomplishments, but was killed shortly by the insane Selkath.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Hrakert_Station",
+  "/wiki/Planet/Legends",
+  "/wiki/Manaan/Legends",
+  "/wiki/Sonic_emitter/Legends",
+  "/wiki/Firaxan_shark",
+  "/wiki/Death/Legends",
+  "/wiki/Selkath/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

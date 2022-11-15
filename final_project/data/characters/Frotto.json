@@ -1,5 +1,6 @@
 {
  "name": "Frotto",
+ "display_name": "Frotto",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Frotto was a male Human of the Sith Empire living during the Cold War. Stationed on Vaiken Spacedock, he managed a small shop, also teaching the knowledge of cybernetics construction to others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,26 @@
+{
+ "name": "Twingo",
+ "display_name": "Twingo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Twingo was a Sullustan smuggler who paired with Moss Deevers. The two were known for their wild boasts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Moss_Deevers",
+  "/wiki/The_New_Jedi_Order:_Vector_Prime"
+ ]
+}

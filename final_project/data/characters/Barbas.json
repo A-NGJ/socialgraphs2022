@@ -1,5 +1,6 @@
 {
  "name": "Barbas",
+ "display_name": "Barbas",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Barbas was a male Human who served as a guard for Qazadi, a Black Sun Vigo, during his visit to the planet Wukkar to meet with sector chief Avrak Villachor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

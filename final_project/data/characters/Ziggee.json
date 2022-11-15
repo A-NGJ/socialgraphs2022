@@ -1,0 +1,56 @@
+{
+ "name": "Ziggee",
+ "display_name": "Ziggee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified species"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blueish",
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gatto Gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ziggee was a member of an unknown species that was part of the Gatto Gang. Later this individual was captured along with the rest of the gang by the assassin droid IG-88.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_species_(IG-88)",
+  "/wiki/Color",
+  "/wiki/Gatto_Gang",
+  "/wiki/IG-88_assassin_droid",
+  "/wiki/IG-88B",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ziggee",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Tales_from_Wild_Space:_IG-88_vs._the_Gatto_Gang",
+  "/wiki/Star_Wars_Adventures_(2017)_9"
+ ]
+}

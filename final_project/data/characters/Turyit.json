@@ -1,0 +1,59 @@
+{
+ "name": "Turyit",
+ "display_name": "Turyit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Argul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Argullian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Turyit was a male Argullian medical supplies merchant who lived during the Clone Wars.\nAfter Argul was attacked by the Confederacy of Independent Systems, the Galactic Republic began an evacuation of the planet. Turyit attempted to bribe Melsa Dor, a crewmember aboard one of the transports involved in the evacuation, to make room on the ship for 60 barrels of bacta he possessed. He planned to sell the bacta at an inflated price to Argullians injured in the battle. He didn't want the bacta to be commandeered by Administrator Mozim, a member of the Argullian government, so he wanted Dor to let him put the bacta an out-of-the-way place. However, they were being watched by the Jedi Olge Plavi-Dol and Wamtra, so Dor refused to help him. He then tried to persuade the Jedi to let him have it on the ship, by claiming that the barrels contained a variety of wine from a vineyard that had been destroyed in the fighting and that it was the last of that variety of wine in existence in the galaxy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Argul",
+  "/wiki/Argullian",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Battle_of_Argul",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Melsa_Dor",
+  "/wiki/Transport/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/Administrator/Legends",
+  "/wiki/Mozim",
+  "/wiki/Jedi/Legends",
+  "/wiki/Olge_Plavi-Dol",
+  "/wiki/Wamtra",
+  "/wiki/Alcohol/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Only_the_Force"
+ ]
+}

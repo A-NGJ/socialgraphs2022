@@ -1,0 +1,53 @@
+{
+ "name": "Tookie",
+ "display_name": "Tookie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tooka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Tookie's owner"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tookie was a female pet Tooka who was owned by a girl on the planet Garel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tooka",
+  "/wiki/Gender",
+  "/wiki/Tookie%27s_owner",
+  "/wiki/Jyn_Erso",
+  "/wiki/The_Stranger",
+  "/wiki/Planet",
+  "/wiki/Garel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tookie",
+  "/wiki/Forces_of_Destiny:_Daring_Adventures:_Volume_2",
+  "/wiki/Star_Wars:_Forces_of_Destiny",
+  "/wiki/Forces_of_Destiny:_Tales_of_Hope_%26_Courage",
+  "/wiki/Star_Wars:_Women_of_the_Galaxy",
+  "/wiki/Ultimate_Star_Wars,_New_Edition"
+ ]
+}
