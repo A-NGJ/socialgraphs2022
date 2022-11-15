@@ -1,0 +1,50 @@
+{
+ "name": "Tan_Shilley",
+ "display_name": "Tan Shilley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Morganian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shilley's"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tan Shilley was a female Morganian, and the proprietor of Shilley's, a cantina on the planet of Questal. Intelligent and cautious, she was not in the habit of endangering herself to assist others. She possessed the keen bright eyes and the pale skin typical of her species.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Morganian",
+  "/wiki/Gender/Legends",
+  "/wiki/Shilley%27s",
+  "/wiki/Cantina/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Questal/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/The_Game_Chambers_of_Questal",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Five"
+ ]
+}

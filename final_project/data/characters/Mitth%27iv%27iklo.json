@@ -1,5 +1,6 @@
 {
- "name": "Mitth'iv'iklo",
+ "name": "Mitth%27iv%27iklo",
+ "display_name": "Mitth'iv'iklo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Mitth'iv'iklo, core name Thivik, was a Chiss male of the Mitth family who served as a Senior Aide to the family Patriarch on the planet Csilla.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Chiss",

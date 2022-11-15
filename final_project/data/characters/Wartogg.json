@@ -1,0 +1,79 @@
+{
+ "name": "Wartogg",
+ "display_name": "Wartogg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gamorr"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire",
+      "Gardulla the Elder's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wartogg was a male Gamorrean trader who lived during the waning years of the Republic Classic era. In 32 BBY, he was wanted dead by Jabba the Hutt for switching allegiances to Gardulla. Wartogg was killed, and the 1,500 credit bounty on his head was claimed, by Jango Fett during his search for the Bando Gora.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorr/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Gardulla_the_Elder%27s_criminal_empire",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Republic_Classic_era",
+  "/wiki/Bounty/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Gardulla_Besadii_the_Elder/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Bando_Gora/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wartogg",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

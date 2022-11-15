@@ -1,5 +1,6 @@
 {
  "name": "Manning",
+ "display_name": "Manning",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Manning was a male Human who served in the security force of the planet Wukkar. In collaboration with his companion Tawb, he protected the sector chief of the Black Sun, Avrak Villachor, as a his personal security guard.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

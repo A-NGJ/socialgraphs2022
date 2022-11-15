@@ -1,0 +1,60 @@
+{
+ "name": "Unidentified_Voss_(Star_Cabal)",
+ "display_name": "Unidentified Voss  (Star Cabal)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Cabal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Voss was a member of the Star Cabal during 3640 BBY. He was participating in a holo-conference with other members of the Cabal when the Star Chamber in the Null Zone was attacked by Cipher Nine and what remained of Imperial Intelligence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Cabal",
+  "/wiki/3640_BBY",
+  "/wiki/Star_Chamber_(space_station)",
+  "/wiki/Null_Zone",
+  "/wiki/Cipher_Nine",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

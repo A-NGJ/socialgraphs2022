@@ -1,5 +1,6 @@
 {
  "name": "Shuzz",
+ "display_name": "Shuzz",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Shuzz was a male Kubaz who frequented the Lazy Bergruutfa Cantina on Betha II.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kubaz/Legends",

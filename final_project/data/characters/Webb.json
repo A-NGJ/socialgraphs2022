@@ -1,0 +1,56 @@
+{
+ "name": "Webb",
+ "display_name": "Webb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Webb was a male Human living on Tatooine during the Cold War. In 3643 BBY he was affiliated with Andronikos Revel, a pirate who hid in a private room of the Siltshift cantina in Mos Ila, and served as his means of contact with outside world.\nWebb appears in Star Wars: The Old Republic during the Sith Inquisitor class mission on Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Andronikos_Revel",
+  "/wiki/Siltshift_cantina",
+  "/wiki/Mos_Ila",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

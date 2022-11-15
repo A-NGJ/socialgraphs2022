@@ -1,0 +1,77 @@
+{
+ "name": "Gjeel_Dhantra",
+ "display_name": "Gjeel Dhantra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Riflor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Klatooinian Trade Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gjeel Dhantra was a male Advozse who worked as Pok Nar-Ten's majordomo. It was said that Pok trusted him like a brother.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Riflor/Legends",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Klatooinian_Trade_Guild/Legends",
+  "/wiki/Pok_Nar-Ten",
+  "/wiki/Majordomo/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gjeel_Dhantra",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Smuggler%27s_Log",
+  "/wiki/Star_Wars_Adventure_Journal_11",
+  "/wiki/Platt%27s_Smugglers_Guide",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

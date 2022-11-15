@@ -1,5 +1,6 @@
 {
  "name": "Induran",
+ "display_name": "Induran",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Induran was a female Ansionian who was one of the seven delegates of the Unity Council on Ansion in 22 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ansionian",

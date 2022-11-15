@@ -1,0 +1,84 @@
+{
+ "name": "Tasandra",
+ "display_name": "Tasandra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Fortitude"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Kyrus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tasandra was a female Sith who served the resurgent Sith Empire during the start of the Galactic War. Part of the Sith forces that attacked the Fortitude in 3642 BBY, she fell in battle with the Rift Alliance's bodyguards and the Barsen'thor, though only the Jedi survived the fight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Fortitude_(Valor-class_cruiser)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Kyrus",
+  "/wiki/Sith/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Attack_on_the_Fortitude",
+  "/wiki/Rift_Alliance",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

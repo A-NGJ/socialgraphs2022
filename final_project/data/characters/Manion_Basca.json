@@ -1,0 +1,63 @@
+{
+ "name": "Manion_Basca",
+ "display_name": "Manion Basca",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jax Warehouse"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Manion Basca was the male Twi'lek owner of the Jax Warehouse. He employed political activist Gerta Haman as his inventory supervisor, never thinking about her political positions.\nIn 31 BBY, when various people were disappearing themselves from Gadrin and Hedrett to join the Cularin resistance, Basca lost both his night shift and his day shift, including Haman. The logo of the resistance was painted in the front of the warehouse. Basca reported to the Office of Peace and Security but, as nothing had been stolen, the agents were not in a hurry to go.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jax_Warehouse",
+  "/wiki/Gerta_Haman",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Gadrin",
+  "/wiki/Hedrett",
+  "/wiki/Cularin_resistance",
+  "/wiki/Office_of_Peace_and_Security",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Manion_Basca",
+  "/wiki/The_Resistance_Within"
+ ]
+}

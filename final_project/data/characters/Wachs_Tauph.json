@@ -1,0 +1,37 @@
+{
+ "name": "Wachs_Tauph",
+ "display_name": "Wachs Tauph",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wachs Tauph was a male Bothan professor who worked as a university chancellor. In 17 BBY, he attended the launch of the luxury repulsortrain Gem of Alderaan, on Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Professor/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/Repulsortrain",
+  "/wiki/Gem_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan"
+ ]
+}

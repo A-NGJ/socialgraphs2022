@@ -1,0 +1,53 @@
+{
+ "name": "Zavirk",
+ "display_name": "Zavirk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zavirk was a male Human who served as a trooper in the Galactic Alliance Guard during the Second Galactic Civil War. He professed to have joined the army in order to see the galaxy. On the orders of Colonel Jacen Solo, Zavirk monitored the conversations between Five World Prime Minister Dur Gejjen and Chief of State Cal Omas, and later took part in the mission to Vulpter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/Five_World_Prime_Minister",
+  "/wiki/Dur_Gejjen",
+  "/wiki/Chief_of_State_(Galactic_Alliance)",
+  "/wiki/Cal_Omas",
+  "/wiki/Vulpter/Legends",
+  "/wiki/Legacy_of_the_Force:_Sacrifice"
+ ]
+}

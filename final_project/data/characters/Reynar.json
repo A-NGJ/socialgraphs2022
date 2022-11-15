@@ -1,5 +1,6 @@
 {
  "name": "Reynar",
+ "display_name": "Reynar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -55,7 +56,7 @@
   }
  ],
  "content": "Reynar was a male Human who served as a lieutenant in the Confederacy of Independent Systems during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Gronk",
+ "display_name": "Gronk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Gronk was a Reigat who worked as a bodyguard for the black marketeer Burgo Teage. He travelled with Teage aboard the Vohai Unirail where he confronted the thief Sienn Sconn when he broke into Teage's cabin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Reigat",

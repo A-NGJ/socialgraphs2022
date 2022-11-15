@@ -1,5 +1,6 @@
 {
  "name": "Piddock",
+ "display_name": "Piddock",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Piddock was the Geonosian duke of Gogum Hive. He traded with the Gand bounty hunter Vrixx'tt during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Layout_Guide",

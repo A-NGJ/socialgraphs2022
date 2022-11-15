@@ -1,0 +1,73 @@
+{
+ "name": "Ulthar_Blaze",
+ "display_name": "Ulthar Blaze",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulthar Blaze was a male Human who served the Rebel Alliance during the Galactic Civil War. A secret agent, Blaze infiltrated the Galactic Empire by posing as a corporal from the Imperial Security Bureau, and he was assigned to serve as the assistant of the Imperial Admiral Grendreef on the planet Miser. After the Empire discovered the location of the Alliance-held world Isis, a group of Rebel agents were imprisoned on Miser and Blaze helped the agents to escape. By disguising themselves as stormtroopers, Blaze and the agents were subsequently able to board the Imperial-class Star Destroyer Desolator and erase Isis' co-ordinates from the vessel's computer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Blaze_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Corporal/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Grendreef/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Miser/Legends",
+  "/wiki/Isis",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Desolator_(Imperial-class)/Legends",
+  "/wiki/Computer/Legends",
+  "/wiki/The_Isis_Coordinates"
+ ]
+}

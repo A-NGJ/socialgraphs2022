@@ -1,5 +1,6 @@
 {
  "name": "Rokna",
+ "display_name": "Rokna",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Rokna was Princess Kneesaa's bordok. Kneesaa took Rokna with her when looking for her long-lost sister, Asha.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bordok/Legends",

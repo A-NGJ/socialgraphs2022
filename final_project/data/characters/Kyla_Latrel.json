@@ -1,0 +1,47 @@
+{
+ "name": "Kyla_Latrel",
+ "display_name": "Kyla Latrel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tampson Consolidated",
+      "Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kyla Latrel was an ambitious woman who worked for Tampson Consolidated, Incorporated during the Galactic Civil War period. She took part in the Vor-cal shortly before the Battle of Endor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tampson_Consolidated,_Incorporated",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Vor-cal",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

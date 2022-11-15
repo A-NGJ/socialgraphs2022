@@ -1,0 +1,71 @@
+{
+ "name": "Tasser",
+ "display_name": "Tasser",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army43rd Advance Recon Squad",
+      "43rd Advance Recon Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Tasser was a Republic soldier and a member of 43rd Advance Recon Squad. General Garza rerouted Tasser and his squad from an operation on Ryloth to assist Havoc Squad on Tatooine. When they arrived, they took Vanto Bazren into Republic custody.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/43rd_Advance_Recon_Squad",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Havoc_Squad",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Vanto_Bazren",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

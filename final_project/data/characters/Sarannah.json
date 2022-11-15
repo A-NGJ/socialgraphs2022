@@ -1,5 +1,6 @@
 {
  "name": "Sarannah",
+ "display_name": "Sarannah",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Sarannah was a female Twi'lek who lived during the Galactic War between the Galactic Republic and the Sith Empire. She was a vendor on Voss in the Voss-Ka Cantina.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

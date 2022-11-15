@@ -1,5 +1,6 @@
 {
  "name": "Attiera",
+ "display_name": "Attiera",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,9 +55,10 @@
   }
  ],
  "content": "Attiera was a female Wookiee from Kashyyyk, the mother of Froera and a member of the Myyydril tribe.\nAttiera was a non-player character in the video game Star Wars Galaxies, a massively multiplayer online role-playing game developed by Sony Online Entertainment and published by LucasArts, prior to its closure on December 15, 2011.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
   "/wiki/Kashyyyk/Legends",
   "/wiki/Wookiee/Legends",
   "/wiki/Gender/Legends",

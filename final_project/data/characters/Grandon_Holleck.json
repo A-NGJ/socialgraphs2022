@@ -1,0 +1,70 @@
+{
+ "name": "Grandon_Holleck",
+ "display_name": "Grandon Holleck",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ganthel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Grandon Holleck was Imperial Governor of Chandrila during the early years of the Galactic Civil War.\nA veteran of the Clone Wars, the aging Governor Holleck performed poorly in his post, proving ill-equipped to deal with Chandrilan politics. Emperor Palpatine forced Holleck's departure and replaced him with Gerald Weizel, a protégé of Grand Admiral Rufaan Tigellinus who displayed far more subtlety and political savvy than Holleck. Holleck retired to the planet Ganthel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ganthel/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Politics/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Gerald_Weizel",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Rufaan_Tigellinus",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_6",
+  "/wiki/Star_Wars_Adventure_Journal_7",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Tovric",
+ "display_name": "Tovric",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tovric was a male Human who was employed as an assassin during the Galactic Civil War, a galaxy-spanning conflict between the Galactic Empire and the Rebel Alliance.\nHe was hired to assassinate the Sullustan Ambassador Kollrin at the Ace of Sabres, an upscale gambling establishment located on the world of Kluistar. The attempt, however, was foiled by Dunan Par'Ell, who was the head of security for the casino.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Kollrin",
+  "/wiki/Ace_of_Sabres",
+  "/wiki/Gambling/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Kluistar",
+  "/wiki/Dunan_Par%27Ell",
+  "/wiki/Wretched_Hives_of_Scum_%26_Villainy"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Jennie_Lee_Taggar",
+ "display_name": "Jennie Lee Taggar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jennie Lee Taggar was a starfighter pilot with the Rebel Alliance. She flew a Y-wing at the Battle of Endor. She died while attacking a Star Destroyer.\nShe had a son named Rone Taggar, who became a pilot with the New Republic, and would later name his Recon-X starfighter after her, the Jennie Lee.\nJennie Lee Taggar's name is inferred from the name of the Jennie Lee.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Rone_Taggar",
+  "/wiki/New_Republic/Legends",
+  "/wiki/T-65BR_X-wing_reconnaissance_starfighter",
+  "/wiki/Jennie_Lee",
+  "/wiki/Shield_of_Lies"
+ ]
+}

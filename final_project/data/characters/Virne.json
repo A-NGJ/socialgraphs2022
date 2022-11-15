@@ -1,0 +1,73 @@
+{
+ "name": "Virne",
+ "display_name": "Virne",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Reddish-brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Thul",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Virne was a male Zabrak who served in the military of House Thul during the Cold War between the Galactic Republic and the Sith Empire.\nIn 3643 BBY he and captain Ascercia were stationed on Alderaan and were sent on a mission to install a prototype Imperial sensor array, only their party was attacked by Killiks and the Imperials that carried the sensors were killed and cocooned to the hive. They tasked a fellow Imperial to recover and install the sensors. Their commanding officer was Major Pharoth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Captain/Legends",
+  "/wiki/Ascercia",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Killik/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Pharoth",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

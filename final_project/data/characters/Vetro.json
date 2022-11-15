@@ -1,0 +1,58 @@
+{
+ "name": "Vetro",
+ "display_name": "Vetro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vetro was a Human male who sold various stimulants and medpacs at Outpost Salara on Tatooine during the Cold War.\nVetro appears in the video game Star Wars: The Old Republic as a Stims vendor on Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Stimulant/Legends",
+  "/wiki/Medpac/Legends",
+  "/wiki/Outpost_Salara",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vetro",
+  "/wiki/Video_game"
+ ]
+}

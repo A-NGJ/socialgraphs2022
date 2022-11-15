@@ -1,0 +1,65 @@
+{
+ "name": "Soly_Kantt",
+ "display_name": "Soly Kantt",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Engineering Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Soly Kantt was a male Human who lived with his family on Corellia. Kantt worked at Orbital Assembly Facility 7 for the Corellian Engineering Corporation, which he had been with since 70 BBY. In 60 BBY, he was on shift at Orbital 7 when the Millennium Falcon, at the time designated YT 492727ZED, wrought havoc on the assembly line during testing as a result of a fuel droid failing to detach in time and overfilling the YT-1300's fuel cells.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Engineering_Corporation/Legends",
+  "/wiki/Orbital_Assembly_Facility_7/Legends",
+  "/wiki/70_BBY",
+  "/wiki/60_BBY/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Fuel_droid/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Fuel_cell/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Soly_Kantt",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

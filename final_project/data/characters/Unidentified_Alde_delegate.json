@@ -1,0 +1,82 @@
+{
+ "name": "Unidentified_Alde_delegate",
+ "display_name": "Unidentified Alde delegate",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Alde"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female member of House Alde, one of the Great Houses of the planet Alderaan, attended the Alderaan Peace Summit in 3643 BBY as the delegate representing her house. Her brother was murdered twenty years prior, and Sidonie Garen falsely accused another delegate of the crime.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_Alde",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan_Peace_Summit",
+  "/wiki/3643_BBY",
+  "/wiki/Unidentified_Alde_delegate%27s_brother",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Sidonie_Garen"
+ ]
+}

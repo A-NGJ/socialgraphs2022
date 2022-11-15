@@ -1,5 +1,6 @@
 {
  "name": "Netro",
+ "display_name": "Netro",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Netro was a Ganathan mechanic that worked on repairs of the Millennium Falcon on the orders of King Empatojayos Brand.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ganath",

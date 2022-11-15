@@ -1,5 +1,6 @@
 {
  "name": "Quesl",
+ "display_name": "Quesl",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Quesl was a human male individual who served as the Imperial governor of Botajef.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Botajef",

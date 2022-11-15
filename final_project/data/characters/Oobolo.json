@@ -1,5 +1,6 @@
 {
  "name": "Oobolo",
+ "display_name": "Oobolo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Oobolo was a male Gran criminal who was captain of the freighter Galactic Princess. He ran a gambling hall on board the Princess as a cover for his operation.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gran/Legends",

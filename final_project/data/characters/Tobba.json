@@ -1,0 +1,64 @@
+{
+ "name": "Tobba",
+ "display_name": "Tobba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Si'Klaata"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "3.7 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Desilijic kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tobba was a Hutt who operated on the fringes of the Si'Klaata Cluster during the Galactic Civil War. Based on a massive Hutt ship, Y'Tobba, he owned Krayt dragons that he brought to his ship from Tatooine trying to impress Jabba the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Si%27Klaata_Cluster/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Desilijic/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Y%27Tobba",
+  "/wiki/Krayt_dragon/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tobba",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

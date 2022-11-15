@@ -1,0 +1,64 @@
+{
+ "name": "Guff_Twin_2",
+ "display_name": "Guff Twin 2",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Plastoid Pitt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guff was a male Gamorrean guard that worked at the Plastoid Pitt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Plastoid_Pitt",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Guff_Twin_2",
+  "/wiki/Star_Wars_Missions_2:_Escape_from_Thyferra",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

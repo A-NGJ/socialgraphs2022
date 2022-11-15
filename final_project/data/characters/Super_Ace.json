@@ -1,0 +1,55 @@
+{
+ "name": "Super_Ace",
+ "display_name": "Super Ace",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Super Ace was a stormtrooper serving the Galactic Empire before the Battle of Yavin. He often served with fellow stormtrooper Killer.\nSuper Ace was to be voiced by Donald Faison.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Killer_(stormtrooper)",
+  "/wiki/Donald_Faison",
+  "/wiki/Star_Wars_Detours",
+  "/wiki/Star_Wars:_The_Complete_Visual_Dictionary",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/August_24",
+  "/wiki/2012",
+  "/wiki/August_26"
+ ]
+}

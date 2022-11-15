@@ -1,0 +1,49 @@
+{
+ "name": "Miera_Lij",
+ "display_name": "Miera Lij",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alvorine Authority"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miera Lij was a female Human slicer who worked for the Security Forces of the Alvorine Authority during the time of the New Republic.\nShe had an addiction to Ryll spice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alvorine_Authority",
+  "/wiki/Slicer/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Ryll/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Hutt_Hit",
+  "/wiki/Star_Wars_Gamer_5"
+ ]
+}

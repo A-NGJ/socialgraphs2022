@@ -1,0 +1,77 @@
+{
+ "name": "Yemm",
+ "display_name": "Yemm",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "11 ABY",
+      "Death Star prototype",
+      "The Maw"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Department of Military Research",
+      "Imperial Department of Military Research"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yemm was a male Devaronian. He supervised and provided documentation and legal counsel over the Maw Installation.\nHe was killed along with most of the scientists at the Maw when Tol Sivron accidentally flew the Death Star prototype down a black hole while trying to escape during the Battle of the Maw Installation in 11 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/11_ABY/Legends",
+  "/wiki/Death_Star_prototype",
+  "/wiki/The_Maw/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Department_of_Military_Research/Legends",
+  "/wiki/Maw_Installation",
+  "/wiki/Wermyn",
+  "/wiki/Tol_Sivron",
+  "/wiki/Black_hole/Legends",
+  "/wiki/Battle_of_the_Maw",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yemm",
+  "/wiki/Champions_of_the_Force",
+  "/wiki/The_Jedi_Academy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Kroydon",
+ "display_name": "Kroydon",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Kroydon was a Saurin who was a member of a crew lead by Tonk.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Saurin",

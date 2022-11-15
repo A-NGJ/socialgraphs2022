@@ -1,0 +1,36 @@
+{
+ "name": "Squishmael",
+ "display_name": "Squishmael",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sloogarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Squishmael\" was a Sloogarian who once sat in a cantina. He agreed to tell someone about the \"real\" story behind the Kessel Run in exchange for a drink. Squishmael swindled his audience out of several drinks throughout the telling of his story. He constantly demanded another to continue telling the story despite promising that each successive drink would be his \"last.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sloogarian",
+  "/wiki/Gender/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Kessel_Run/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Squishmael",
+  "/wiki/Kessel_Run_(comic)",
+  "/wiki/Star_Wars_Tales_16"
+ ]
+}

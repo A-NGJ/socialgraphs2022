@@ -1,0 +1,46 @@
+{
+ "name": "Tryn",
+ "display_name": "Tryn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tryn was a male Bothan who lived in the city Tolea Biqua on the planet Genarius. In about 19 BBY, a number of members of the Believers, a Sith cult that operated in the Cularin system, were sighted in Tolea Biqua. Outraged by the Believers' past activities, the local residents rose up and Tryn led an angry mob that searched the streets of Tolea Biqua, looking for Believers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Believers",
+  "/wiki/Sith_cult/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/The_Heart"
+ ]
+}

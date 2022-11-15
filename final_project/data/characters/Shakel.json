@@ -1,5 +1,6 @@
 {
  "name": "Shakel",
+ "display_name": "Shakel",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Shakel was a human male officer who served as a lieutenant in the armed forces of the First Order during its war against the Resistance. During that time, he was part of the 709th Legion and was among those deployed to Batuu to search for Resistance spies in Black Spire Outpost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

@@ -1,0 +1,51 @@
+{
+ "name": "Wend_Dinard",
+ "display_name": "Wend Dinard",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wend Dinard was a Human criminal who worked for the Hutts on Tatooine.\nIn 1 ABY he assaulted an Imperial officer, stole Imperial secrets and fled Mos Eisley to sell the secrets to the Rebellion. Before long, an Imperial agent send by Lieutenant Harburik found Dinard and killed his bodyguards. Realizing that he had no other choice, Dinard surrendered and was brought back to Mos Eisley. The agent was rewarded by Harburik with 2000 credits.\nWend Dinard is a non-player character  in Star Wars Galaxies that is spawned somewhere outside of Mos Eisley when the player accepts Lt. Harburiks's first mission. As in many of the game's old quests, the NPC's gender, species and appearance is dynamically generated from a wide variety of possible appearances every time it is spawned. Only his gender and species are known as they are specifically mentioned by Harburik.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Imperial_officer/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Harburik",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

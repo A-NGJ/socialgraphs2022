@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Nautolan_(Star_Cabal)",
+ "display_name": "Unidentified Nautolan  (Star Cabal)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Cabal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Nautolan was a member of the Star Cabal during 3640 BBY and was present aboard the Star Chamber in the Null Zone when it was attacked by Cipher Nine and the remnants of the reconstituted Sith Empire's Imperial Intelligence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Cabal",
+  "/wiki/3640_BBY",
+  "/wiki/Star_Chamber_(space_station)",
+  "/wiki/Null_Zone",
+  "/wiki/Cipher_Nine",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

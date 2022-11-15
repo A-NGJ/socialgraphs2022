@@ -1,5 +1,6 @@
 {
  "name": "Samnt",
+ "display_name": "Samnt",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Samnt was a Human male who lived on Dantooine during the Jedi Civil War. He began dating Elise Montagne after her husband died and her droid, C8-42-GE3 was destroyed.\nSamnt will only appear if the player chooses to destroy C8-42-GE3 and doesn't lie to Elise.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dantooine/Legends",

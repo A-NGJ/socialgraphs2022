@@ -1,0 +1,62 @@
+{
+ "name": "Vanel_(Human)",
+ "display_name": "Vanel  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence",
+      "Destabilization",
+      "Destabilization",
+      "Mon Tondievz",
+      "Ltd."
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vanel was a representative of the mining company Mon Tondievz, Ltd. She was later discovered to be part of an Eldratz spice ring. A former member of Imperial Intelligence's Destabilization branch, she owned a personal assassin droid called Eradicator E8U.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Destabilization",
+  "/wiki/Mon_Tondievz,_Ltd.",
+  "/wiki/Eldratz",
+  "/wiki/Spice/Legends",
+  "/wiki/Assassin_droid/Legends",
+  "/wiki/Eradicator_E8U",
+  "/wiki/West_End_Games",
+  "/wiki/For_a_Few_Kilotons_More",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

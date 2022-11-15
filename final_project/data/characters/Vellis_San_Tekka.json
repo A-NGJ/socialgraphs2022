@@ -1,0 +1,74 @@
+{
+ "name": "Vellis_San_Tekka",
+ "display_name": "Vellis San Tekka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "San Tekka clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vellis San Tekka was a human male and, along with his husband Marlowe San Tekka, one of the heads of the San Tekka clan of hyperspace prospectors.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/San_Tekka_clan",
+  "/wiki/Marriage",
+  "/wiki/Marlowe_San_Tekka",
+  "/wiki/Hyperspace",
+  "/wiki/Prospector",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vellis_San_Tekka",
+  "/wiki/The_High_Republic:_Light_of_the_Jedi",
+  "/wiki/The_High_Republic:_Light_of_the_Jedi_(audiobook)",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Soule_Man",
+  "/wiki/Star_Wars_Insider_200",
+  "/wiki/Star_Wars"
+ ]
+}

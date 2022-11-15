@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Wookiee_worker_3",
+ "display_name": "Unidentified Wookiee worker 3",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alaris Prime colonists"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Wookiee worker was one of three members of its species who gathered resources to sustain a colony on the moon Alaris Prime during its colonization.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alaris_Prime_colonists",
+  "/wiki/Unidentified_Wookiee_worker",
+  "/wiki/Unidentified_Wookiee_worker_2",
+  "/wiki/Species/Legends",
+  "/wiki/Unidentified_Wookiee_command_center",
+  "/wiki/Moon/Legends",
+  "/wiki/Alaris_Prime/Legends",
+  "/wiki/Alaris_Prime_colonial_war",
+  "/wiki/Star_Wars:_Galactic_Battlegrounds",
+  "/wiki/Star_Wars:_Galactic_Battlegrounds:_Clone_Campaigns",
+  "/wiki/Star_Wars:_Galactic_Battlegrounds:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

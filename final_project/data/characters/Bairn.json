@@ -1,5 +1,6 @@
 {
  "name": "Bairn",
+ "display_name": "Bairn",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Bairn was a young Human male, born and raised on the planet Ceriun about 1000 BBY.\nBairn was one of several youths who assisted Tenno steal a Holocron from the community elders after a Jedi starship crashed near their village. When the elders met to debate the matter of the holocron, Tenno and his friends armed themselves and appeared at the meeting. A brawl broke out, in which several of the adults were killed. The fight was interrupted by the appearance of a Sith Lord, who seized the holocron and departed. When Tenno tried to explain that he and his friends had kept the artifact safe for the Sith, the Sith Lord attacked and killed several of them with his lightsaber.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ceriun",

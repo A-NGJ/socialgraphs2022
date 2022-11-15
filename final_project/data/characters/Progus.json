@@ -1,5 +1,6 @@
 {
  "name": "Progus",
+ "display_name": "Progus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Progus was a male Human who served the resurgent Sith Empire during the Cold War.\nHe worked as an arms-master, selling weapons to Sith troops and personnel on the planet Tatooine .",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

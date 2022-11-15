@@ -1,5 +1,6 @@
 {
  "name": "Jama",
+ "display_name": "Jama",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Jama was a Force-sensitive Human female who was a Jedi youngling during 22 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lucasfilm_Ltd.",

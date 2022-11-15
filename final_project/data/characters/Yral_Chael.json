@@ -1,0 +1,72 @@
+{
+ "name": "Yral_Chael",
+ "display_name": "Yral Chael",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "18 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireInquisitorius",
+      "Inquisitorius"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yral Chael was a male Human Force-sensitive and a member of the Imperial Inquisitorius. The Dark Lord of the Sith Vader assigned him and fellow Inquisitor Mas Sirrah to Inquisitor Probus Tesla in order to capture Jedi Knight Jax Pavan and I-Five. He was killed by I-Five when the droid shot him in the throat with his fingertip lasers during a duel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/18_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Inquisitorius/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Mas_Sirrah",
+  "/wiki/Probus_Tesla",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jax_Pavan",
+  "/wiki/I-5YQ",
+  "/wiki/Death/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Duel_at_Rainbow_Parkway_and_Gallery_Row",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

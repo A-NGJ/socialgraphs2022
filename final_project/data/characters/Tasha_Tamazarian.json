@@ -1,0 +1,53 @@
+{
+ "name": "Tasha_Tamazarian",
+ "display_name": "Tasha Tamazarian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tasha Tamazarian was a female Human who served the Galactic Empire as a technician. Tamazarian was based inside the Imperial Data Processing Facility on the planet Tazan and sometime after the destruction of the planet Alderaan, she encountered a team of Rebel Alliance agents that had infiltrated the base. Due to the fact that she was slightly deaf, the agents were able to sneak up on Tamazarian and take her captive, and they forced her to help them to extract some TIE fighter communication protocols from the facility's computer system. While Tamazarian did not want to aid the agents, she viewed her situation pragmatically and realized that she didn't have much choice, so she went along with their requests while looking for an opportunity to run away.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Imperial_Data_Processing_Facility",
+  "/wiki/Planet/Legends",
+  "/wiki/Tazan",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mission_to_Tazan",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Computer/Legends",
+  "/wiki/Ultimate_Core_Dump"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Kiv_Truun",
+ "display_name": "Kiv Truun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kiv Truun was the Viceroy of N'zoth when the Yevetha were conquered by the Galactic Empire. Nil Spaar killed Kiv in the presence of Eri Palle, and succeeded him as viceroy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Gender/Legends",
+  "/wiki/Darama",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Nil_Spaar",
+  "/wiki/Eri_Palle",
+  "/wiki/Shield_of_Lies",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/Coruscant_and_the_Core_Worlds",
+  "/wiki/4_ABY/Legends"
+ ]
+}

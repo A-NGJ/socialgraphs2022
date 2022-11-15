@@ -1,0 +1,72 @@
+{
+ "name": "Urrisov",
+ "display_name": "Urrisov",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Reddish-brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urrisov was a male Human who worked as a technician for the Sith Empire during the Galactic War on the planet Hoth. In 3642 BBY, he was assigned to a salvage crew that were in charge of recovering the Pythar-class Imperial shuttlecraft Deference, but the site was captured by the Hero of Tython and the 301st Infantry. After he surrendered himself to them, Urrisov was convinced to join the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blue",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Pythar-class_Imperial_shuttlecraft",
+  "/wiki/Deference",
+  "/wiki/Hero_of_Tython",
+  "/wiki/301st_Infantry",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

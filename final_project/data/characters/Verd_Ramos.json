@@ -1,0 +1,34 @@
+{
+ "name": "Verd_Ramos",
+ "display_name": "Verd Ramos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Verd Ramos was a male Human during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/The_Corellian_Shuffle",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

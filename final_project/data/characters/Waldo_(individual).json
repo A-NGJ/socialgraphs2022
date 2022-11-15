@@ -1,0 +1,63 @@
+{
+ "name": "Waldo_(individual)",
+ "display_name": "Waldo  (individual)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mamendin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mamendin species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "SlamsAnakin Skywalker"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Waldo, a native of the Core world of Mamendin, was the Humanoid male security expert of the Slam gang.\nIn 24 BBY, in an attempt to apprehend Jenna Zan Arbor, Anakin Skywalker took on the identity of Waldo while serving undercover on the planet Romin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mamendin",
+  "/wiki/Unidentified_Mamendin_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Slams",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/24_BBY/Legends",
+  "/wiki/Jenna_Zan_Arbor",
+  "/wiki/Mission_to_Romin",
+  "/wiki/Planet/Legends",
+  "/wiki/Romin",
+  "/wiki/Jedi_Quest:_The_Changing_of_the_Guard"
+ ]
+}

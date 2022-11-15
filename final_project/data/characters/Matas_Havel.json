@@ -1,0 +1,37 @@
+{
+ "name": "Matas_Havel",
+ "display_name": "Matas Havel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Matas Havel was a Human trader and the first owner of the YT-2400 transport later called the Lambarian Crab. At some point, Havel modified the ship, adding extra cargo space and enhanced shielding to deal with pirates. He would later sell the ship to Finious Crab three years after he bought it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/YT-2400_light_freighter/Legends",
+  "/wiki/Lambarian_Crab",
+  "/wiki/Pirate/Legends",
+  "/wiki/Finious_Crab",
+  "/wiki/Stock_Ships",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

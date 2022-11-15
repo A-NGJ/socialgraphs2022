@@ -1,0 +1,53 @@
+{
+ "name": "Phrojo_Nuray",
+ "display_name": "Phrojo Nuray",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Leg"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phrojo Nuray was a Rodian male who joined the Eternal Alliance during the Dantooine Incursion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Dantooine_Incursion",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Phrojo_Nuray",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

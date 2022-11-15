@@ -1,0 +1,52 @@
+{
+ "name": "Tergeth_Dilorr",
+ "display_name": "Tergeth Dilorr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Navy",
+      "Ort Hoogra-D'En",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tergeth Dilorr was a male Human who was a part of the Ho'Din terrorist Ort Hoogra-D'En's network.\nDilorr had formerly served in the Imperial Navy as a conscript who drifted from planet to planet after leaving the service. He eventually signed on with Hoogra-D'En's group for the money they were offering, though he later developed the same anti-Imperial point of view as the organization's leader. However, he disagreed with the group's preference of working alone and thought that Hoogra-D'En would accomplish more if he joined forces with the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Ort_Hoogra-D%27En",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Gone_To_Ground",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Worrumba",
+ "display_name": "Worrumba",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Worrumba was a Wookiee male who served as second in command of White Team during the assault on the Black Ice. He owed a life debt to Untos Poquot, and was more interested in protecting his friend than the objectives of the Rebellion. He was killed in the attack on the Black Ice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/White_Team_(Mortex)",
+  "/wiki/Battle_for_Black_Ice",
+  "/wiki/Black_Ice/Legends",
+  "/wiki/Life_debt/Legends",
+  "/wiki/Untos_Poquot",
+  "/wiki/Black_Ice_(adventure)"
+ ]
+}

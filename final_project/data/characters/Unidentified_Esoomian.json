@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_Esoomian",
+ "display_name": "Unidentified Esoomian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Esoomian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Esoomian worked for Jabba the Hutt's criminal empire. The violent henchman could sometimes be found on Jabba the Hutt's sail barge on Tatooine. The Esoomian used a ball-and-chain weapon to attack his enemies. He had orange skin and green eyes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Esoomian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Khetanna/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Super_Star_Wars:_Return_of_the_Jedi"
+ ]
+}

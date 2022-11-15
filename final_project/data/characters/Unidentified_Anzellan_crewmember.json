@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Anzellan_crewmember",
+ "display_name": "Unidentified Anzellan crewmember",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anzellan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Anzellan crewmember worked on the Solar Array 22-X in the Hetzal system in 232 BBY. The Anzellan was knocked unconscious after a piece of the Legacy Run collided with the station. Captain Finial Bright found the Anzellan, and moved the crewmember to the Aurora IX.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Anzellan",
+  "/wiki/Gender",
+  "/wiki/Solar_Array_22-X",
+  "/wiki/Hetzal_system",
+  "/wiki/232_BBY",
+  "/wiki/Legacy_Run",
+  "/wiki/Captain",
+  "/wiki/Finial_Bright",
+  "/wiki/Aurora_IX",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Anzellan_crewmember",
+  "/wiki/The_High_Republic:_Light_of_the_Jedi",
+  "/wiki/The_High_Republic:_Light_of_the_Jedi_(audiobook)"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Grand_Lord_attendant",
+ "display_name": "Unidentified Grand Lord attendant",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Reddish brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Light blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human attendant served the Grand Lord of the Lost Tribe of Sith, Darish Vol, on the planet Kesh. The attendant greeted Sith Tyro Vestara Khai when she arrived at the Circle of Lords. He was very strong, muscular, and attractive according to Khai, and she wondered why he was merely an attendant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Grand_Lord",
+  "/wiki/Darish_Vol",
+  "/wiki/Planet/Legends",
+  "/wiki/Sith_Tyro",
+  "/wiki/Vestara_Khai",
+  "/wiki/Circle_of_Lords",
+  "/wiki/Fate_of_the_Jedi:_Omen",
+  "/wiki/Fate_of_the_Jedi:_Omen_(audiobook)"
+ ]
+}

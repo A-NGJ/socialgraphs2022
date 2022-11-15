@@ -1,0 +1,64 @@
+{
+ "name": "The_Cyber-Baron",
+ "display_name": "The Cyber-Baron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Noble Court",
+      "The Smuggler"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The male human known as the Cyber-Baron was a member of the Noble Court of the Anoat sector. He came from a line of technically-inclined aristocrats. At the time of the Galactic Empire's Iron Blockade, the Cyber-Baron joined the crew of a young smuggler.\nIn the 2015 iOS video game Star Wars: Uprising, the Cyber-Baron is one of the many crew members that can be sent on Crew Runs for helpful items.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Noble_Court",
+  "/wiki/The_Smuggler",
+  "/wiki/Anoat_sector",
+  "/wiki/Noble",
+  "/wiki/Time",
+  "/wiki/Galactic_Empire",
+  "/wiki/Iron_Blockade",
+  "/wiki/2015",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

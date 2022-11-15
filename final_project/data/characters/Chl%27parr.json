@@ -1,5 +1,6 @@
 {
- "name": "Chl'parr",
+ "name": "Chl%27parr",
+ "display_name": "Chl'parr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Chl'parr was a Chelidae maintenance worker on the Colossus platform on Castilon.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Chelidae",

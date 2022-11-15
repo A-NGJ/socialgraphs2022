@@ -1,5 +1,6 @@
 {
  "name": "Duago",
+ "display_name": "Duago",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Duago was a Sullustan and the chief engineer of the Alliance to Restore the Republic EF76 Nebulon-B escort frigate Shadow Raptor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullustan/Legends",

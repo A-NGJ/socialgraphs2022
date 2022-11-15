@@ -1,0 +1,54 @@
+{
+ "name": "Lucas_Bartmoss",
+ "display_name": "Lucas Bartmoss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lucas Bartmoss was a male Human who worked for the Galactic Empire as a janitor in the Imperial Data Processing Facility on the planet Tazan.\nSometime after the destruction of the planet Alderaan in 0 BBY, a team of Rebel Alliance agents traveled to Tazan and they persuaded Bartmoss to let them inside the Data Processing Facility.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Janitor/Legends",
+  "/wiki/Imperial_Data_Processing_Facility",
+  "/wiki/Planet/Legends",
+  "/wiki/Tazan",
+  "/wiki/Ultimate_Core_Dump",
+  "/wiki/Canon",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mission_to_Tazan",
+  "/wiki/Wizards.com"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Unidentified_Zygerrian_guard_3",
+ "display_name": "Unidentified Zygerrian guard 3",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zygerria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygerrian Slave EmpireZygerrian Slavers Guild",
+      "Zygerrian Slavers Guild",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Around 21 BBY, this Zygerrian was working as a guard in a slave pit on the planet Zygerria.\nFollowing a mission to infiltrate the slavers on Zygerria, High Jedi General Obi-Wan Kenobi and captain Rex arrived at a slave pit to rescue the Togrutan governor of Kiros, Roshti. The rescue attempt the guards spotted Kenobi taking Roshti. This guard was the first one to see what Kenobi was up, asking him what he was doing with the slave, and alerted the other guards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zygerria/Legends",
+  "/wiki/Zygerrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zygerrian_Slave_Empire",
+  "/wiki/Zygerrian_Slavers_Guild",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Mission_to_Zygerria/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/High_Jedi_General/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/CT-7567/Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Kiros/Legends",
+  "/wiki/Roshti/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Slaves_of_the_Republic"
+ ]
+}

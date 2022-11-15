@@ -1,0 +1,61 @@
+{
+ "name": "Skig_Banos",
+ "display_name": "Skig Banos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skig Banos was a male Human who lived on Sel Zonn Station, a space station in orbit of the planet Brentaal IV, during the early years of the Galactic Empire. Banos worked for the Empire as an informant and in about 17 BBY, the Alderaanian Security agent Maya was apprehended by the Empire on Sel Zonn Station. Shortly afterward, a group of spacers that were investigating Maya's arrest confronted Banos on the station's Blue Deck and interrogated him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Sel_Zonn_Station",
+  "/wiki/Space_station/Legends",
+  "/wiki/Orbit/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Brentaal_IV/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/Alderaanian_Security",
+  "/wiki/Maya",
+  "/wiki/Spacer/Legends",
+  "/wiki/Blue_Deck",
+  "/wiki/Wizards.com",
+  "/wiki/The_Traitor%27s_Gambit"
+ ]
+}

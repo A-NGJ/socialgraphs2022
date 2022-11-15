@@ -1,0 +1,86 @@
+{
+ "name": "Eryk_Kroogar",
+ "display_name": "Eryk Kroogar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "17 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.85 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Petty criminals",
+      "pirates",
+      "smugglers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Born and raised on the planet of Corellia, Eryk Kroogar, also known as Talonscar, was one of millions of young men who found inspiration and guidance in the exploits of Han Solo, the most famous Corellian of his time.\nIn an attempt to emulate his hero, Eryk 'Talonscar' Kroogar  immersed himself in the seedier side of Corellia and became a pirate and smuggler. In a desperate attempt to scrounge up enough collateral to buy his own ship, he took a series of ludicrously risky freelance jobs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Corellian_sand_panther/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

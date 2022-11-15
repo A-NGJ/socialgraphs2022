@@ -1,0 +1,49 @@
+{
+ "name": "V%27Sook_M%27Alra_Vin",
+ "display_name": "V'Sook M'Alra Vin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Goroth Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gorothite"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "j'ber V'Sook"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "V'Sook M'Alra Vin was a Gorothite religious leader and member of j'ber V'Sook. V'Sook M'Alra Vin first preached the tenets of the religious movement that would become known as M'Nes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Goroth_Prime",
+  "/wiki/Gorothite",
+  "/wiki/J%27ber_V%27Sook",
+  "/wiki/M%27Nes",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

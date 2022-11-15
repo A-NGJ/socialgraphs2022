@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Weequay_Mag-lev_officer",
+ "display_name": "Unidentified Weequay Mag-lev officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Weequay was part of the security personnel for the mag-lev on Coruscant.\nDuring the Battle of Coruscant, the Separatists wanted to capture Supreme Chancellor Palpatine. When Stass Allie, Kit Fisto, Shaak Ti, and Mace Windu attempted to take Palpatine to safety, General Grievous caught up to them on a mag-lev train, where this Weequay was working as part of the security personnel. The Weequay told Windu that they could not fight against Grievous and his battle droids. Windu told the Weequay to open the door of the mag-lev train, which allowed him and Fisto to get to the rear car, and defend against the droids.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Mace_Windu/Legends",
+  "/wiki/Hovertrain/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Battle_of_Coruscant/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Stass_Allie/Legends",
+  "/wiki/Kit_Fisto/Legends",
+  "/wiki/Shaak_Ti/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Grievous/Legends",
+  "/wiki/Battle_droid/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Labyrinth_of_Evil"
+ ]
+}

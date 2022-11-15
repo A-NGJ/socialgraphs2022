@@ -1,5 +1,6 @@
 {
  "name": "Bellen",
+ "display_name": "Bellen",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Bellen was a female Deltron and one of Brisha Shard's three children. She had a sister, Viqi, and a brother, Alarik.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Deltron_(species)",

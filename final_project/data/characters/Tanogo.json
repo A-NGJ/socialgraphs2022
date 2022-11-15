@@ -1,0 +1,83 @@
+{
+ "name": "Tanogo",
+ "display_name": "Tanogo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "40 ABY",
+      "Rover"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanogo was a male Bith Chief Petty Officer. He had served in the New Republic Defense Fleet prior to Ben Skywalker's birth, and later in the Galactic Alliance Defense Fleet before joining the Galactic Alliance Guard as part of the crew of the Anakin Solo.\nHe was on the Rover, under the command of Jedi apprentice Ben Skywalker when that ship was sent to Terephon. Their mission was to find out what had become of Jaina Solo and Zekk after the Jedi Knights' mission to Terephon. He was killed when the Rover was destroyed in the Battle of Hapes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/40_ABY",
+  "/wiki/Rover_(skiff)",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Chief_Petty_Officer/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Ben_Skywalker",
+  "/wiki/Galactic_Alliance_Defense_Fleet",
+  "/wiki/Galactic_Alliance_Guard",
+  "/wiki/Anakin_Solo_(Imperial_II-class_Star_Destroyer)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Terephon",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Zekk",
+  "/wiki/Battle_of_Hapes_(Second_Galactic_Civil_War)",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

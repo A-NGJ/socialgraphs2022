@@ -1,0 +1,52 @@
+{
+ "name": "Vipke",
+ "display_name": "Vipke",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vipke was a human male technician who served the Confederacy of Independent Systems. During the Clone Wars he served in the the Mokivj droid factory under Duke Solha on Mokivj.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Technician",
+  "/wiki/Clone_Wars",
+  "/wiki/Mokivj_droid_factory",
+  "/wiki/Duke",
+  "/wiki/Solha",
+  "/wiki/Mokivj",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vipke",
+  "/wiki/Thrawn:_Alliances",
+  "/wiki/Thrawn:_Alliances_(audiobook)"
+ ]
+}

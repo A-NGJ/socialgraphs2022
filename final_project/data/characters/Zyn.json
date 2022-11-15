@@ -1,0 +1,77 @@
+{
+ "name": "Zyn",
+ "display_name": "Zyn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Sith",
+      "Sith Academy",
+      "Sith",
+      "Sith Academy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zyn was a corpulent Human male Sith Inquisitor who served the reconstituted Sith Empire during the Cold War.\nDuring the Cold War, Zyn learned of a murder inside the Sith Academy's walls, and captured and tortured a witness named Alif for more information about the incident. Overseer Harkun sent a Sith Acolyte to Zyn as part of the apprentice's trials, and Zyn permitted the acolyte to finish the questioning and reveal the killer's name.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Zyn_Javeb",
+  "/wiki/Pau%27an/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_Academy_(Korriban)",
+  "/wiki/Sith_Inquisitor",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Alif",
+  "/wiki/Overseer_(Sith)",
+  "/wiki/Harkun",
+  "/wiki/Sith_Acolyte"
+ ]
+}

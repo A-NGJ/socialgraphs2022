@@ -1,0 +1,40 @@
+{
+ "name": "Huruni_Hune",
+ "display_name": "Huruni Hune",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Huruni Hune was a Rodian actor who starred in \"The Trickery of Vosdia Nooma\".",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/The_Trickery_of_Vosdia_Nooma",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Huruni_Hune",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_52"
+ ]
+}

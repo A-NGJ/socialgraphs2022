@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Ewok_(Alliance)",
+ "display_name": "Unidentified Ewok  (Alliance)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Galactic Civil War, an Ewok was a member of the Alliance to Restore the Republic. During an infiltration of an Imperial facility alongside a smuggler and some others, the Ewok was disguised in an R2-series astromech droid while the others wore stormtrooper armor. The Ewok used a flute to make droid noises.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Unidentified_smuggler_(Alliance)",
+  "/wiki/R2-series_astromech_droid",
+  "/wiki/Stormtrooper_armor/Legends",
+  "/wiki/Flute/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Star_Wars:_The_Roleplaying_Game_(first_edition)"
+ ]
+}

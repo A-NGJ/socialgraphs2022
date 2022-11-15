@@ -1,5 +1,6 @@
 {
  "name": "Sendir",
+ "display_name": "Sendir",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Sendir was a Twi'lek male. He served as Tirgee Benyalle's bodyguard on the planet Kaal. Sendir had been turned by Admiral Uther Kermen and he tried to kill Benyalle by knifing her in the back.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

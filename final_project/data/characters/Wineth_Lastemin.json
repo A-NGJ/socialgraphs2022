@@ -1,0 +1,36 @@
+{
+ "name": "Wineth_Lastemin",
+ "display_name": "Wineth Lastemin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lady Wineth Lastemin was a young Human woman who lived during the Galactic Civil War. She was an avid socialite who attended the Unification Gala before the Battle of Endor. She had a tendency to attach herself to the most attractive male noble and would attempt to stay in his orbit, laughing loudly at his jokes, while assessing his social status within his house.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Unification_Gala",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Event_of_the_Season",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

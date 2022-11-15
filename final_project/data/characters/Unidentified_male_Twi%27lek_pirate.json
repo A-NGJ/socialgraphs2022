@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_male_Twi%27lek_pirate",
+ "display_name": "Unidentified male Twi'lek pirate",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Twi'lek pirate was a part of a contingent of pirates hired by the Hutts as security for a secret base in the Valsedian asteroid belt. The group came under attack by Dark Acolyte Asajj Ventress.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Valsedian_asteroid_belt",
+  "/wiki/Dark_Acolyte/Legends",
+  "/wiki/Asajj_Ventress/Legends",
+  "/wiki/The_Clone_Wars:_The_Valsedian_Operation"
+ ]
+}

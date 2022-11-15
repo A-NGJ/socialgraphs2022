@@ -1,5 +1,6 @@
 {
  "name": "Brombek",
+ "display_name": "Brombek",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "\"Slide\" Brombek was a Human male outlaw tech. Brombek refused to work without sufficient compensation.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

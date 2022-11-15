@@ -1,5 +1,6 @@
 {
  "name": "Ort",
+ "display_name": "Ort",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ort was a mustachioed human male who worked as a member of the Gray Syndicate on Lothal. He possessed a thuggish nature and was not known for his intelligence. Merei Spanjaf, a human female who was drawn into the group's activities against her will, could often get a rise out of him, though he could be kept in line by Rosey, another member of the group.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

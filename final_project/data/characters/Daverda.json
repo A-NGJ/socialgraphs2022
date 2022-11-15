@@ -1,5 +1,6 @@
 {
  "name": "Daverda",
+ "display_name": "Daverda",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -47,8 +48,8 @@
    ]
   }
  ],
- "content": "Daverda was a female Human Nightsister who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "content": "Daverda was a female Human Nightsister who lived during the Galactic Civil War. In 1 ABY Diax tasked a spacer with killing her.",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dathomir/Legends",
@@ -56,6 +57,10 @@
   "/wiki/Gender/Legends",
   "/wiki/Nightsisters/Legends",
   "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Diax",
+  "/wiki/Spacer/Legends",
+  "/wiki/Death/Legends",
   "/wiki/Wookieepedia:Stub",
   "/wiki/Special:EditPage/Daverda",
   "/wiki/Star_Wars_Galaxies"

@@ -1,0 +1,49 @@
+{
+ "name": "Truugo",
+ "display_name": "Truugo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Truugo was a Hutt who lived on Tatooine. Kitaya Shuul was one of his slaves, and he often sent her out to conduct espionage missions around Mos Eisley.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kitaya_Shuul",
+  "/wiki/Slavery/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Truugo",
+  "/wiki/Fate_of_the_Jedi:_Allies",
+  "/wiki/Fate_of_the_Jedi:_Allies_(audiobook)"
+ ]
+}

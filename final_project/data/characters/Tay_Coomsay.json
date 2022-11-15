@@ -1,0 +1,53 @@
+{
+ "name": "Tay_Coomsay",
+ "display_name": "Tay Coomsay",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bosph"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Alliance Intelligence",
+      "Alliance Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tay Coomsay was a Bosph male who served as navigator of the Alliance Intelligence EF76 Nebulon-B escort frigate Shadow Raptor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bosph_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Intelligence",
+  "/wiki/Navigator/Legends",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Shadow_Raptor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tay_Coomsay",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Dead_in_the_Water",
+  "/wiki/Star_Wars:_Age_of_Rebellion_Game_Master%27s_Kit"
+ ]
+}

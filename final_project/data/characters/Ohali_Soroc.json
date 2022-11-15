@@ -1,0 +1,65 @@
+{
+ "name": "Ohali_Soroc",
+ "display_name": "Ohali Soroc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ohali Soroc was one of the Quest Knights sent by the New Jedi Order on the Quest for the Mortis monolith.\nIn 45 ABY, she had gone missing when she was searching for the Mortis monolith that was necessary to prevent Abeloth's return.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Quest_Knights",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Mortis_monolith/Legends",
+  "/wiki/45_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ohali_Soroc",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)",
+  "/wiki/Crucible_(novel)",
+  "/wiki/Crucible_(audiobook)"
+ ]
+}

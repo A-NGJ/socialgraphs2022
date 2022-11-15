@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Caldanian_criminal",
+ "display_name": "Unidentified Caldanian criminal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Caldanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Caldanian criminal was present on the Five Points station during the reign of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Caldanian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Five_Points",
+  "/wiki/Space_station",
+  "/wiki/Imperial_Era",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Caldanian_criminal",
+  "/wiki/Rebel_Rising",
+  "/wiki/Rebel_Rising_(audiobook)"
+ ]
+}

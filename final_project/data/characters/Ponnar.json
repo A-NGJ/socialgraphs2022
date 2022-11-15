@@ -1,5 +1,6 @@
 {
  "name": "Ponnar",
+ "display_name": "Ponnar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -60,7 +61,7 @@
   }
  ],
  "content": "Ponnar was a Human male moisture farmer who lived on Tatooine around 0 BBY, along with his wife and their daughter, Amni.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Tatooine/Legends",

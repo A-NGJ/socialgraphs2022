@@ -1,5 +1,6 @@
 {
  "name": "Harlow",
+ "display_name": "Harlow",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Harlow was Moff of the Catarlo sector in the Outer Rim during Imperial rule.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gender/Legends",

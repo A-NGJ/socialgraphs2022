@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Human_male_Jedi_Master",
+ "display_name": "Unidentified Human male Jedi Master",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human Jedi lived at some point following the Great Jedi Purge. He publicly claimed a rank of Jedi Master despite knowing it would attract the attention of Darth Vader.\nThis character was depicted on the \"Jedi Master\" card of the Champions of the Force, the base set of the Star Wars Galaxies Trading Card Game, which was illustrated by artist Kieran Yanner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Great_Jedi_Purge/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Kieran_Yanner",
+  "/wiki/Template:SWGTCG"
+ ]
+}

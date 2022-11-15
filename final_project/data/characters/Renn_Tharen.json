@@ -1,0 +1,64 @@
+{
+ "name": "Renn_Tharen",
+ "display_name": "Renn Tharen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Renn Tharen was a Human male Corellian who was the father of Bria Tharen and was a wealthy businessman on Corellia. Renn was married to Sera Tharen and had a son named Pavik Tharen. When Bria returned from Ylesia with Han Solo, Renn was the only member of her family who liked Solo. Renn saw in him a kindred spirit, for Renn himself had lived a hard life before becoming successful. When Bria left Han on Coruscant, she obtained a loan from her father that she gave to Han, which he eventually was able to repay. After being accepted into the Academy on Carida, Han once tried to find Bria through him. When Bria was killed on Toprawa while retrieving the Death Star plans, Han notified him of her death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Bria_Tharen",
+  "/wiki/Sera_Tharen",
+  "/wiki/Pavik_Tharen",
+  "/wiki/Ylesia/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Carida/Legends",
+  "/wiki/Toprawa/Legends",
+  "/wiki/Death_Star/Legends",
+  "/wiki/Death_Star_plans/Legends",
+  "/wiki/The_Paradise_Snare",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/Rebel_Dawn",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

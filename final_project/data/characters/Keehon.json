@@ -1,5 +1,6 @@
 {
  "name": "Keehon",
+ "display_name": "Keehon",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Keehon was an Imperial Navy officer stationed in the Monor system.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

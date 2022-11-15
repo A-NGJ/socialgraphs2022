@@ -1,5 +1,6 @@
 {
  "name": "Oissan",
+ "display_name": "Oissan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Colonel Oissan was the Intelligence Chief onboard the Tyrannic during the Caamas Document Crisis.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

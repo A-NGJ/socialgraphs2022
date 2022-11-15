@@ -1,0 +1,57 @@
+{
+ "name": "Yarrku",
+ "display_name": "Yarrku",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Barabel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarrku was a male Barabel from whom Nyo tried to buy passage from to Nar Shaddaa aboard his ship, the Night Raider before Kinnin Vo-Shay offered to take him for a cheaper price. In the year 2 ABY, he was later hired by Doune to capture Vo-Shay and the Ashanda Ray in order to retrieve the credits he had lost in a sabacc game with Vo-Shay. Yarrku was killed when he thought the Ray cornered and being fired upon by three proton torpedoes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Barabel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nyo",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Night_Raider",
+  "/wiki/Kinnin_Vo-Shay",
+  "/wiki/Doune",
+  "/wiki/Ashanda_Ray",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Proton_torpedo/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Last_Hand_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_13",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

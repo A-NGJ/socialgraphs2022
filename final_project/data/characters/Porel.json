@@ -1,5 +1,6 @@
 {
  "name": "Porel",
+ "display_name": "Porel",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Porel was the male Twi'lek personal assistant and bodyguard of Venlana Sipal.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

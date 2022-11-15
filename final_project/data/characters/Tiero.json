@@ -1,0 +1,67 @@
+{
+ "name": "Tiero",
+ "display_name": "Tiero",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Makeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiero was a Human male during the time of the Conquest of Makeb. Working as the foreman on Project Failsafe, Tiero under the Devaronian Veedrig reported unsafe work practices and corruption when the Republic strike force entered the secret facility in the hollowed-out Giant's Spear mesa. After said force commandeered the Ark and deposed Veedrig, Tiero was given the responsibility of finishing the massive starship's construction before the predicted destruction of the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Makeb",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/The_Ark",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Veedrig",
+  "/wiki/Giant%27s_Spear",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

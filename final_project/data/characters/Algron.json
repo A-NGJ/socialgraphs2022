@@ -1,5 +1,6 @@
 {
  "name": "Algron",
+ "display_name": "Algron",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Algron was a Quarren male pirate who lived on Noaxson during the First Order-Resistance War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Quarren",

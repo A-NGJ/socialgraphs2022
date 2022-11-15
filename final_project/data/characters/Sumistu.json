@@ -1,0 +1,60 @@
+{
+ "name": "Sumistu",
+ "display_name": "Sumistu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sumistu was an officer in the First Order.\nSumistu is a minifigure in LEGO Star Wars: The Force Awakens under the name \"Officer Sumistu\".",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/Officer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sumistu",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

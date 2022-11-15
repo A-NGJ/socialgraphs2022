@@ -1,0 +1,54 @@
+{
+ "name": "Amos_Granley",
+ "display_name": "Amos Granley",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Amos Granley was a Human male who lived on the planet Rhamalai during the Galactic Civil War. After the Galactic Empire arrived on Rhamalai, they rounded up and forcibly conscripted young men into the Imperial Army, including Granley, his friend Dorn Lister, and his neighbor Denel Moonrunner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Amos_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhamalai",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dorn_Lister",
+  "/wiki/Denel_Moonrunner",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

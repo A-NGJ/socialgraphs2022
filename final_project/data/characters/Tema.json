@@ -1,0 +1,59 @@
+{
+ "name": "Tema",
+ "display_name": "Tema",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gala"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Galacian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hill people"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tema was a member of the Hill people who lived on Gala. She was the mother of Elan, the leader of the Hill People. Tema left the Hill People to go to Galu, the capital city of Gala, to see the world outside. She was an artisan and heard that the palace needed workers. However, she later returned to the mountains, never speaking of her experiences there.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Tema",
+  "/wiki/Gala",
+  "/wiki/Galacian",
+  "/wiki/Gender/Legends",
+  "/wiki/Hill_people",
+  "/wiki/Elan_Tallah",
+  "/wiki/Galu",
+  "/wiki/Jedi_Apprentice:_The_Mark_of_the_Crown"
+ ]
+}

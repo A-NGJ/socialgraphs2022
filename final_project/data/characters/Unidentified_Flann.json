@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Flann",
+ "display_name": "Unidentified Flann",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Flann"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Flann was a prisoner at a stronghold owned by Harra the Hutt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Flann",
+  "/wiki/Gender",
+  "/wiki/Mattis_Banz",
+  "/wiki/Prisoner",
+  "/wiki/Harra_the_Hutt%27s_stronghold",
+  "/wiki/Harra",
+  "/wiki/Hutt",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Flann",
+  "/wiki/Join_the_Resistance:_Escape_from_Vodran"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Til_(Kubaz)",
+ "display_name": "Til  (Kubaz)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Til was a male Kubaz information broker and slicer known as \"Crunch.\" He was a hacker and information gatherer with considerable skill. He had a disturbing appetite for organs from mutated fefze beetles found on Duro. Til's main occupation was to monitor the lively criminal activities in the Duro system for the Desilijic Hutt clan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Fefze_beetle",
+  "/wiki/Duro/Legends",
+  "/wiki/Duro_system",
+  "/wiki/Desilijic/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

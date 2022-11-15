@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Imperial_commander_(Leviathan)",
+ "display_name": "Unidentified Imperial commander  (Leviathan)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a human male who served as a commander in the Galactic Empire. He accompanied the minister when he visited a starfighter factory on an Imperial supply moon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Commander",
+  "/wiki/Unidentified_Imperial_minister",
+  "/wiki/Starfighter",
+  "/wiki/Supply_moon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Imperial_commander_(Leviathan)",
+  "/wiki/Vader_-_Dark_Visions_4"
+ ]
+}

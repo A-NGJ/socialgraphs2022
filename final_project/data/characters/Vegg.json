@@ -1,0 +1,58 @@
+{
+ "name": "Vegg",
+ "display_name": "Vegg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Coalition"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vegg was a male Zabrak who lived during the time of the Clone Wars. After becoming stranded in the Cularin system, Vegg joined the Coalition, a group of businesses that sought to control all trade in the system, hoping that he could earn enough money to purchase a new hyperdrive for his starship. Vegg was paired with the Human Nilloc and was present in the city Tolea Biqua on the planet Genarius when it was attacked by the Cularin Militia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coalition",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/Star_system/Legends",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Nilloc",
+  "/wiki/City/Legends",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/Battle_of_Tolea_Biqua",
+  "/wiki/Cularin_Militia",
+  "/wiki/Wizards.com",
+  "/wiki/The_Price_of_Neutrality_--_Rebellion"
+ ]
+}

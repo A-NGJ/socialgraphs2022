@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Gungan_cook",
+ "display_name": "Unidentified Gungan cook",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Whiplash"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gungan cook was a male Gungan working on the bar Emperor's Board on the planet Coruscant sometime during 18 BBY. He was secretly a Whiplash operative.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Whiplash",
+  "/wiki/I-5YQ",
+  "/wiki/Emperor%27s_Board",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/18_BBY/Legends",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

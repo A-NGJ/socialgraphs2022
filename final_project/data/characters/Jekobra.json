@@ -1,5 +1,6 @@
 {
  "name": "Jekobra",
+ "display_name": "Jekobra",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Doctor Jekobra was a male Givin scientist who worked for the Galactic Empire, developing many sinister innovations for the authoritarian regime. During the Iron Blockade of the Anoat sector by the Empire, a young smuggler from Burnin Konn organized an attack on Jekobra's laboratory to try and steal the Givin's latest work.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Givin",

@@ -1,0 +1,35 @@
+{
+ "name": "Walon_Vau%27s_mother",
+ "display_name": "Walon Vau's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Walon Vau's mother was one of Walon's family members who disowned him after he joined the Mandalorians. She was considered to be a religious fanatic. She had a bauble of shoroni sapphires that Walon stole from the Dressian Kiolsh Merchant Bank on Mygeeto.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Shoroni_sapphire",
+  "/wiki/Dressian_Kiolsh_Merchant_Bank",
+  "/wiki/Mygeeto/Legends",
+  "/wiki/Republic_Commando:_True_Colors"
+ ]
+}

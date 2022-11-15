@@ -1,0 +1,54 @@
+{
+ "name": "Taomat",
+ "display_name": "Taomat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sibian hound"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Worms"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taomat was a Sibian hound owned by the White Worms gang on its homeworld Corellia. It was the favorite hound of the thug Syke, who hoped to one day set it on his rival Rebolt and end their competition for good.\nTaomat was first mentioned in the reference book Solo: A Star Wars Story The Official Guide, which was written by Pablo Hidalgo and released in 2018.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Corellia",
+  "/wiki/Corellian_hound",
+  "/wiki/White_Worms",
+  "/wiki/Homeworld",
+  "/wiki/Syke",
+  "/wiki/Gender",
+  "/wiki/Rebolt",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide",
+  "/wiki/Pablo_Hidalgo",
+  "/wiki/2018"
+ ]
+}

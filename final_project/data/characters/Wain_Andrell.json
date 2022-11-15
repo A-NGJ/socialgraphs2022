@@ -1,0 +1,68 @@
+{
+ "name": "Wain_Andrell",
+ "display_name": "Wain Andrell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ralltiir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wain Andrell was a Human male senator who represented the planet Ralltiir in the Galactic Senate of the Republic during the Cold War. He was the father of Momi Andrell, who used his wealth to hire mercenaries to save endangered species.\nIn 3643 BBY, Wain sent a message to a smuggler who saved his daughter after she was infected with theoretically incurable diseases by the sadistic Doctor Lazhae. He had hired the best scientists in the galaxy in hopes of curing her, but was relieved that this would put her extremist goals on hold.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Ralltiir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Momi_Andrell",
+  "/wiki/3643_BBY",
+  "/wiki/Voidhound",
+  "/wiki/Lazhae",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wain_Andrell",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Maur_Howins",
+ "display_name": "Maur Howins",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lafrarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maur \"Hyperspace\" Howins was a famed Lafrarian smashball player. In 60 BBY, he set the record of gaining 50 goals in 50 games.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lafrarian",
+  "/wiki/Gender/Legends",
+  "/wiki/Smashball/Legends",
+  "/wiki/60_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Maur_Howins",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_52"
+ ]
+}

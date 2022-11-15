@@ -6,11 +6,12 @@ type Page struct {
 }
 
 type Character struct {
-	Name       string    `json:"name"`
-	SideBars   []SideBar `json:"side_bars"`
-	Content    string    `json:"content"`
-	BaseUrl    string    `json:"base_url"`
-	Crosslinks []string  `json:"crosslinks"`
+	Name        string    `json:"name"`
+	DisplayName string    `json:"display_name"`
+	SideBars    []SideBar `json:"side_bars"`
+	Content     string    `json:"content"`
+	BaseUrl     string    `json:"base_url"`
+	Crosslinks  []string  `json:"crosslinks"`
 }
 
 type SideBar struct {

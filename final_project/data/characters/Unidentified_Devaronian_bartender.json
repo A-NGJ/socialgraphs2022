@@ -1,0 +1,76 @@
+{
+ "name": "Unidentified_Devaronian_bartender",
+ "display_name": "Unidentified Devaronian bartender",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3951 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jekk'Jekk Tarr cantina"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified bartender was a Devaronian male living on Nar Shaddaa in 3951 BBY.\nA bartender who worked at the Jekk'Jekk Tarr cantina located at the Nar Shaddaa Docks, he served nutrient chemicals to the the bar's many alien patrons. When Meetra Surik entered the establishment in an attempt to rescue Mira from Exchange boss Visquis, he was among those who answered the Quarren's call to arms when the bar's cyanogen gas failed to subdue her. Though he attempted to cash in on the ex-Jedi's bounty unarmed, he was swiftly struck down, along with many of his customers.\nIf the Exile enters the Jekk'Jekk Tarr before the quest to meet Visquis activates, she can interact with the bartender, who explains the workings of the cantina to her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Devaronian",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jekk%27Jekk_Tarr",
+  "/wiki/Cantina/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Nar_Shaddaa_Docks",
+  "/wiki/Alien/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Mira",
+  "/wiki/Exchange",
+  "/wiki/Visquis",
+  "/wiki/Quarren/Legends",
+  "/wiki/Cyanogen",
+  "/wiki/Jedi/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

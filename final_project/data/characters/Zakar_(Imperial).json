@@ -1,0 +1,56 @@
+{
+ "name": "Zakar_(Imperial)",
+ "display_name": "Zakar  (Imperial)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zakar was a male Human Imperial general stationed on Garos IV. He was ill-tempered and known for taking frustration out on his subordinates.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Warrior_caste",
+  "/wiki/Zakar_(Yuuzhan_Vong)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Whispers_in_the_Dark",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/Mission_to_Zila",
+  "/wiki/Star_Wars_Adventure_Journal_3",
+  "/wiki/Shadows_of_Darkness",
+  "/wiki/Star_Wars_Adventure_Journal_4"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Varo",
+ "display_name": "Varo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Organa",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varo was a Human male from Alderaan who served as a military adviser and combat instructor of the Galactic Republic during the Clone Wars. During his career, he served as an instructor to Senator Bail Organa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Bail_Prestor_Organa/Legends",
+  "/wiki/The_Clone_Wars:_Wild_Space",
+  "/wiki/The_Clone_Wars:_Wild_Space_(audiobook)"
+ ]
+}

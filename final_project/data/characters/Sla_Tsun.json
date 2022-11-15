@@ -1,0 +1,65 @@
+{
+ "name": "Sla_Tsun",
+ "display_name": "Sla Tsun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Koros-Strohna"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong empire"
+     ]
+    },
+    {
+     "name": "Domain",
+     "values": [
+      "Domain Tsun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sla Tsun was a member of Domain Tsun and one of six Yuuzhan Vong Supreme Commanders that commanded the flotilla sent to attack Zonama Sekot during the Battle of Yuuzhan'tar. Warmaster Nas Choka ordered him and Supreme Commander Tivvik to drive their mataloks into Zonama Sekot. Whether Sla Tsun survived the battle was unknown.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Koros-Strohna",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Domain_Tsun",
+  "/wiki/Supreme_Commander_(Yuuzhan_Vong_rank)",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Battle_of_Yuuzhan%27tar",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Warmaster",
+  "/wiki/Nas_Choka",
+  "/wiki/Tivvik",
+  "/wiki/Matalok",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sla_Tsun",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

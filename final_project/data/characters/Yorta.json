@@ -1,0 +1,35 @@
+{
+ "name": "Yorta",
+ "display_name": "Yorta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Yorta was the father of Raal Yorta.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Raal_Yorta",
+  "/wiki/Captain/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yorta",
+  "/wiki/Rookies:_Rendezvous"
+ ]
+}

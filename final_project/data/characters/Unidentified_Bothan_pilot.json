@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Bothan_pilot",
+ "display_name": "Unidentified Bothan pilot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "During a secret mission"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rogue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Bothan pilot was a member of Rogue Squadron during the Galactic Civil War. The Bothan was killed in the course of a secret mission and later replaced with Karie Neth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Karie_Neth",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Death_Star_II_Limited"
+ ]
+}

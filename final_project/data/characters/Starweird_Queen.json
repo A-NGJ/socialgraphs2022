@@ -1,0 +1,49 @@
+{
+ "name": "Starweird_Queen",
+ "display_name": "Starweird Queen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Starweird"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Starweird Queen was the ruler of the mysterious space-born race of the starweird. She was considered legendary until the Great Galactic War when she attacked the Jedi Council and Padawan Xerender. The Jedi Master Wyellett defeated her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Starweird",
+  "/wiki/Gender/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Jedi_Council/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Xerender",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Wyellett",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

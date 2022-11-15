@@ -1,5 +1,6 @@
 {
  "name": "Nautif",
+ "display_name": "Nautif",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Nautif was the cousin of Eaden Vrill, and as of 2 BBY, was one of the two surviving members of Sälãi Käsi.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nautolan/Legends",

@@ -1,5 +1,6 @@
 {
- "name": "Cam'doen",
+ "name": "Cam%27doen",
+ "display_name": "Cam'doen",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Cam'doen was a male Mon Calamari who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mon_Calamari/Legends",

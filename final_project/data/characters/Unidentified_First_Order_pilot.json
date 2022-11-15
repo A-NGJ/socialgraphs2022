@@ -1,0 +1,59 @@
+{
+ "name": "Unidentified_First_Order_pilot",
+ "display_name": "Unidentified First Order pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order starfighter corps",
+      "First Order starfighter corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A First Order pilot served on the Thunderer, a Resurgent-class Star Destroyer under the command of First Order Agent Tierny and Commander Pyre. In 35 ABY, he notified Pyre and Tierny of Tamara Ryvora's Squadron jumping to the Castilon System.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Unidentified_First_Order_officer",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/First_Order",
+  "/wiki/First_Order_starfighter_corps",
+  "/wiki/Thunderer",
+  "/wiki/Resurgent-class_Star_Destroyer",
+  "/wiki/Agent",
+  "/wiki/Tierny",
+  "/wiki/Commander",
+  "/wiki/Pyre",
+  "/wiki/35_ABY",
+  "/wiki/Galek%27s_TIE_fighter_squadron",
+  "/wiki/Castilon_system",
+  "/wiki/Star_Wars_Resistance",
+  "/wiki/The_Escape"
+ ]
+}

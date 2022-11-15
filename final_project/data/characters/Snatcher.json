@@ -1,0 +1,41 @@
+{
+ "name": "Snatcher",
+ "display_name": "Snatcher",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snatcher was a male Jawa and a kin of Jot. He found an R2 series astromech droid, R2-D2, in the canyons outside of Mos Eisley.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Talk:Snatcher",
+  "/wiki/Jawa",
+  "/wiki/Gender",
+  "/wiki/Jot",
+  "/wiki/R2_series_astromech_droid",
+  "/wiki/R2-D2",
+  "/wiki/Mos_Eisley",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Snatcher",
+  "/wiki/In-universe",
+  "/wiki/Special:EditPage/:Snatcher",
+  "/wiki/Stories_in_the_Sand",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Zarran",
+ "display_name": "Zarran",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Ilum"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zarran was a male Zabrak smuggler hired as a privateer by the Galactic Republic. During the Battle of Ilum, he and two other smugglers were killed while defending Adegan crystals from an Imperial assault.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Ilum/Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Privateer/Legends",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Adegan_crystal/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

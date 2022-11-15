@@ -1,0 +1,57 @@
+{
+ "name": "Baxin_Winstoll",
+ "display_name": "Baxin Winstoll",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Senate",
+      "Imperial Senate",
+      "Pyke Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Baxin Winstoll was a male human who served as a senate page in the Galactic Empire until he was rounded up during a crackdown of suspected traitors. He was then put to work in the spice mines of Kessel, under the oversight of Capo Quay Tolsite.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Senate",
+  "/wiki/Pyke_Syndicate",
+  "/wiki/Slavery",
+  "/wiki/Page_(occupation)",
+  "/wiki/Treason",
+  "/wiki/Spice",
+  "/wiki/Spice_mines_of_Kessel",
+  "/wiki/Kessel",
+  "/wiki/Capo",
+  "/wiki/Quay_Tolsite",
+  "/wiki/Solo:_A_Star_Wars_Story",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide"
+ ]
+}

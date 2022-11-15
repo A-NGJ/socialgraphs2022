@@ -1,5 +1,6 @@
 {
  "name": "Jorg",
+ "display_name": "Jorg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Jorg was a human male who lived on Batuu during the war between the Resistance and the First Order. Jorg offered to sell a backpack used by the rebels on Hoth to the collector Dok-Ondar, claiming it was one of only two that survived the Battle of Hoth. However, Dok-Ondar knew Jorg was lying, and that many more similar backpacks existed, and the collector told Jorg to sell it elsewhere.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

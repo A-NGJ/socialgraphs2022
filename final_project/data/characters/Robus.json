@@ -1,5 +1,6 @@
 {
  "name": "Robus",
+ "display_name": "Robus",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -61,7 +62,7 @@
   }
  ],
  "content": "Robus was a human male slicer who served the Alliance to Restore the Republic. He was killed by a stormtrooper aboard the Executor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/1_ABY",

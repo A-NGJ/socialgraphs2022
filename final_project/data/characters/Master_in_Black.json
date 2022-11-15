@@ -1,0 +1,47 @@
+{
+ "name": "Master_in_Black",
+ "display_name": "Master in Black",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wookiee Liberation FrontFive Masters",
+      "Five Masters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Master in Black was a small Humanoid who was one of the Five Masters, the leaders of the Wookiee Liberation Front. During the Clone Wars, the Masters established the Five Masters Academy, a martial arts school that was situated on the planet Cularin, and the Master in Black became the Academy's instructor of the art of Stava.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Wookiee_Liberation_Front",
+  "/wiki/Five_Masters",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Five_Masters_Academy",
+  "/wiki/Unarmed_combat",
+  "/wiki/School",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Stava_(skill)",
+  "/wiki/Wizards.com",
+  "/wiki/Martial_Arts",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Taavin",
+ "display_name": "Taavin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gold"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Taavin was a Human male officer in the service of the Galactic Empire early in the Galactic Civil War.\nStationed on the world of Moog Mot VI, he was working on bringing the gambling world of Hollow Moon under the control of the Galactic Empire. He ordered smugglers Han Solo and Billal Batross to infiltrate the Moon and disable its security network in exchange for release from captivity. Once they completed the task, Empire took control over the world. When the smugglers tried to escape aboard the Millennium Falcon, Taavin told his subordinate not to open fire on it, saying that Han Solo served his purpose.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Billal_Batross",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Moog_Mot_VI",
+  "/wiki/Gambling/Legends",
+  "/wiki/Hollow_Moon",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taavin",
+  "/wiki/Star_Wars_Adventures:_Han_Solo_and_the_Hollow_Moon_of_Khorya"
+ ]
+}

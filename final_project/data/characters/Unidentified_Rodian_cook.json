@@ -1,0 +1,67 @@
+{
+ "name": "Unidentified_Rodian_cook",
+ "display_name": "Unidentified Rodian cook",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Violet"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Original TaunTaun Steak Company"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3626 BBY, a Rodian male line cook worked in the Original TaunTaun Steak Company, based on the space station Mek-Sha. He assisted a representative of the Feast of Prosperity in the rescue of his fellow cook Nuura Yendo, made captive by the slaver group The Brothers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Original_TaunTaun_Steak_Company",
+  "/wiki/3626_BBY",
+  "/wiki/Space_station/Legends",
+  "/wiki/Mek-Sha",
+  "/wiki/Feast_of_Prosperity",
+  "/wiki/Chef/Legends",
+  "/wiki/Nuura_Yendo",
+  "/wiki/Slaver/Legends",
+  "/wiki/The_Brothers",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

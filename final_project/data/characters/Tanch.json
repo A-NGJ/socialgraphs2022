@@ -1,0 +1,75 @@
+{
+ "name": "Tanch",
+ "display_name": "Tanch",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Cloud City Imperial Garrison",
+      "Imperial Officer Corps",
+      "Cloud City Imperial Garrison"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanch was a human male who served as a captain in the Galactic Empire. Tanch was stationed as a commanding officer in Cloud City on Bespin after it was occupied by the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Imperial_Garrison_(Cloud_City)",
+  "/wiki/Captain",
+  "/wiki/Commanding_officer",
+  "/wiki/Cloud_City",
+  "/wiki/Bespin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tanch",
+  "/wiki/Star_Wars_(2020)_3",
+  "/wiki/Star_Wars_(2020)_4"
+ ]
+}

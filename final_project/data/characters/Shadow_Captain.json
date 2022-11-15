@@ -1,0 +1,65 @@
+{
+ "name": "Shadow_Captain",
+ "display_name": "Shadow Captain",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Shadow Captain was a male Imperial Commando who served the reconstituted Sith Empire during the Cold War with the Galactic Republic as a member of the elite shadow commandos. In 3643 BBY, the Captain and his squad were killed by a Jedi Knight during a fight in one of Nasan Godera's laboratories on the planet Taris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_commando_(Sith_Empire)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Battle_in_the_Brell_Sediment_laboratory",
+  "/wiki/Nasan_Godera",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Raken",
+ "display_name": "Raken",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Raken was a male Trandoshan working as a Black Sun underboss overseeing the Gandanta Station operations during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Trandoshan/Legends",

@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Keshiri_rider",
+ "display_name": "Unidentified Keshiri rider",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Keshiri"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Neshtovar",
+      "Keshiri resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 4975 BBY, a Keshiri Neshtovar rider and a member of the Keshiri resistance delivered a message to Adari Vaal, revealing the death of her son Tona Vaal.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Keshiri",
+  "/wiki/Neshtovar",
+  "/wiki/Keshiri_resistance",
+  "/wiki/4975_BBY",
+  "/wiki/Adari_Vaal",
+  "/wiki/Tona_Vaal",
+  "/wiki/Lost_Tribe_of_the_Sith:_Savior"
+ ]
+}

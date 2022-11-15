@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_bartender_(Muunilinst)",
+ "display_name": "Unidentified bartender  (Muunilinst)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Muunilinst"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Muun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Muun male bartender worked in a cantina on the city of Pilaan on Muunilinst.\nIn 0 ABY, Han Solo and his group managed to obtain some information regarding the missing Rebel Alliance contact Mak Luunim from the bartender, who believed that Luunim's recent death was not accidental and was the work of Nal Kenuun, a Muun gambler whom Luunim owed credits to. When pressed for more information on Luunim, the bartender became uncharacteristically quiet and retreated to the cantina's backroom to wash the dishes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_bartender",
+  "/wiki/Muunilinst/Legends",
+  "/wiki/Muun/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Pilaan",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mak_Luunim",
+  "/wiki/Death/Legends",
+  "/wiki/Nal_Kenuun",
+  "/wiki/Gambler/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Rebel_Force:_Target"
+ ]
+}

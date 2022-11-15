@@ -1,0 +1,51 @@
+{
+ "name": "Torret",
+ "display_name": "Torret",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pamarthe"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torret was a Pamarthen pilot who competed in the Gauntlet, a starship race run by Han Solo on Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pamarthe",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Pamarthen",
+  "/wiki/Pilot",
+  "/wiki/The_Gauntlet_(starship_race)",
+  "/wiki/Starship",
+  "/wiki/Han_Solo",
+  "/wiki/Corellia",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Scorched",
+  "/wiki/Star_Wars_Insider_165"
+ ]
+}

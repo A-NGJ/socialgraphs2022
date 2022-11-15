@@ -1,5 +1,6 @@
 {
  "name": "Kilgore",
+ "display_name": "Kilgore",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kilgore was a Human male who worked as a security officer at the Palisade starport, on the planet Kabal, during the height of the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

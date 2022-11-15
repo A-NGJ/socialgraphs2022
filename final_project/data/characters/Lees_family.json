@@ -1,0 +1,36 @@
+{
+ "name": "Lees_family",
+ "display_name": "Lees family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Lees farm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Lees family was a family of farmers that lived on a farm on the planet Kinyen. Tayala Lees, the leader of the Ayanee Farming Cluster, was a member of the family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Lees_farm",
+  "/wiki/Farmer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Kinyen/Legends",
+  "/wiki/Tayala_Lees",
+  "/wiki/Ayanee_Farming_Cluster",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

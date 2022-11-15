@@ -1,0 +1,30 @@
+{
+ "name": "Unidentified_Aybarian_diplomat",
+ "display_name": "Unidentified Aybarian diplomat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aybarian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A spice-drunk Aybarian diplomat played Baron Administrator Lando Calrissian in a game of Six-Card Gizka Limit. During the game, Calrissian won a Rossmoyne Vitiator Pistol from the diplomat.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aybarian",
+  "/wiki/Spice",
+  "/wiki/Baron_Administrator",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Six-Card_Gizka_Limit",
+  "/wiki/Diplomat",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

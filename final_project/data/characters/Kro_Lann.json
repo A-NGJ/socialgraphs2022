@@ -1,0 +1,66 @@
+{
+ "name": "Kro_Lann",
+ "display_name": "Kro Lann",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 21 BBY",
+      "Carlac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Death Watch"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kro Lann was a member of the Mandalorian splinter group Death Watch who served in a captive Ming Po village on Carlac during the skirmish there. He fought a Jedi Knight, who had been sent by the Galactic Republic to liberate the village, in the center of the village alongside Mord Jayran.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Carlac/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Death_Watch/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Ming_Po/Legends",
+  "/wiki/Skirmish_on_Carlac",
+  "/wiki/Unidentified_Jedi_Knight_(Clone_Wars)",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Mord_Jayran",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kro_Lann",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

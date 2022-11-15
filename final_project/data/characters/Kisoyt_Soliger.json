@@ -1,0 +1,65 @@
+{
+ "name": "Kisoyt_Soliger",
+ "display_name": "Kisoyt Soliger",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kisoyt Soliger was a Human male snowtrooper commander in the Galactic Empire. He participated in the Battle of Hoth in 3 ABY during the Galactic Civil War. Stationed inside at the end of the hallway before the first Elevator of Echo Base, he is confronted by a rebel trooper and killed in the firefight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Cold_assault_stormtrooper",
+  "/wiki/Commander/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Echo_Base/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kisoyt_Soliger",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

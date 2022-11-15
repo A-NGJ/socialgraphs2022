@@ -1,0 +1,38 @@
+{
+ "name": "Val%27s_father",
+ "display_name": "Val's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This human male was the father of the saboteur Val. Due to Val being fiercely guarding about her past, the only information that Tobias Beckett had been able to get out of Val was that her father was a musician and that she was named after the valachord.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Saboteur",
+  "/wiki/Val",
+  "/wiki/Tobias_Beckett",
+  "/wiki/Parent",
+  "/wiki/Musician",
+  "/wiki/Valachord",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide",
+  "/wiki/Ultimate_Star_Wars,_New_Edition"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "name": "Zylas",
+ "display_name": "Zylas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zylas was a human female mercenary hired by Varond Jelik to help Han Solo and Chewbacca capture Rathtars for King Prana.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Varond_Jelik",
+  "/wiki/Han_Solo",
+  "/wiki/Chewbacca",
+  "/wiki/Rathtar",
+  "/wiki/Grevoth_Prana_IX",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zylas",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

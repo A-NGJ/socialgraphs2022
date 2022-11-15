@@ -1,0 +1,80 @@
+{
+ "name": "Toat",
+ "display_name": "Toat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "24 BBY",
+      "Maramere"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toat was a male Neimoidian who served as a top-ranking official in the Trade Federation on Maramere during the Separatist Crisis.\nIn 24 BBY, Lord Toat was killed by Sol Sixxa's pirates aboard the pleasure liner Syren, before the pirates scuttled the ship. His underling, Harro Ruuk, took over his job.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/24_BBY/Legends",
+  "/wiki/Maramere",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Separatist_Crisis/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Sol_Sixxa",
+  "/wiki/Pirate/Legends",
+  "/wiki/Syren",
+  "/wiki/Harro_Ruuk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Toat",
+  "/wiki/Starfighter:_Crossbones_1",
+  "/wiki/Starfighter:_Crossbones_2",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

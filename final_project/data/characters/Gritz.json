@@ -1,5 +1,6 @@
 {
  "name": "Gritz",
+ "display_name": "Gritz",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Gritz was a Kadas'sa'Nikto male who aspired to join the crew of the Salvage-1, captained by the droid Spikewheel. Before allowing Gritz, along with a group of recruits that included Brennar, Riki, and Seles, aboard the crew, Captain Spikewheel left them on the junk planet Lotho Minor, forcing them to survive one night as a test.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Nikto",

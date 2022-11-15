@@ -1,0 +1,52 @@
+{
+ "name": "Warm_Face",
+ "display_name": "Warm Face",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rib-cat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Skrrll"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Warm Face was a female rib-cat who was found by Skrrll on Nar Shaddaa outside Bammy Decree's Spacebarn on Nar Shaddaa. After attacking Loonoo and stealing the Smuggler's Guide, Skrrll found the small rib-cat rubbing against their boot. Reminded of an old pet, a hushstalker named Brutux, Skrrll decided to keep her and named her Warm Face. Warm Face developed a pack-bond with Skrrll who, after finding her, added a likeness of Warm Face to their tag.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rib-cat",
+  "/wiki/Gender",
+  "/wiki/Skrrll",
+  "/wiki/Cat",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Bammy_Decree",
+  "/wiki/Bammy%27s_Spacebarn",
+  "/wiki/Loonoo",
+  "/wiki/Smuggler",
+  "/wiki/Smuggler%27s_Guide",
+  "/wiki/Hushstalker",
+  "/wiki/Brutux",
+  "/wiki/Star_Wars:_Smuggler%27s_Guide"
+ ]
+}

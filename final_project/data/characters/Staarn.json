@@ -1,0 +1,50 @@
+{
+ "name": "Staarn",
+ "display_name": "Staarn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebellion era"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Staarn was a male Bothan crime lord who operated in the High City of Refuge on the planet Kidron during the reign of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rebellion_era",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/High_City_of_Refuge",
+  "/wiki/Planet/Legends",
+  "/wiki/Kidron/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

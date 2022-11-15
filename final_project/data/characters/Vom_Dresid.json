@@ -1,0 +1,64 @@
+{
+ "name": "Vom_Dresid",
+ "display_name": "Vom Dresid",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vom Dresid was a male Human Major of the Galactic Republic living during the Galactic War. In 3638 BBY he was stationed on the Valor-class cruiser Gav Daragon, where he escorted an important figure to a private meeting with the Supreme Chancellor Leontyne Saresh.\nMajor Dresid appears in the video game Star Wars: The Old Republic: Rise of the Hutt Cartel during the introductory cutscene for the \"Scum and Villainy\" operation on Republic side.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3638_BBY",
+  "/wiki/Valor-class_cruiser",
+  "/wiki/Gav_Daragon_(Valor-class)",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Leontyne_Saresh",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

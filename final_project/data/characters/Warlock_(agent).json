@@ -1,0 +1,54 @@
+{
+ "name": "Warlock_(agent)",
+ "display_name": "Warlock  (agent)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Warlock was a Human female and agent of the Sith Empire. She was present on Onderon in 3627 BBY, where she instructed other Imperial Agents.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Agent/Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Instructor/Legends",
+  "/wiki/Imperial_Agent",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

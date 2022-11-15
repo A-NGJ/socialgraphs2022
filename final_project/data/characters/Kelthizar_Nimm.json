@@ -1,0 +1,50 @@
+{
+ "name": "Kelthizar_Nimm",
+ "display_name": "Kelthizar Nimm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kelthizar Nimm was a Sullustan male serving the Alliance to Restore the Republic on the planet Entrus. He was used as a point of contact for operative wishing to connect with the Rebel Sector Command on the planet. Nimm's cover was as a dealer in the Tabal Comet casino.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Entrus",
+  "/wiki/Tabal_Comet",
+  "/wiki/Casino/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/All_Our_Sins_Remembered",
+  "/wiki/Star_Wars_Gamemaster_Kit",
+  "/wiki/Classic_Campaigns"
+ ]
+}

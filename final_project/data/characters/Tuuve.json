@@ -1,0 +1,48 @@
+{
+ "name": "Tuuve",
+ "display_name": "Tuuve",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gotal"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Coruscant Institute"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuuve was a female Gotal and the Chief medical officer onboard the Lycoming.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gotal/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant_Institute",
+  "/wiki/Chief_medical_officer",
+  "/wiki/Lycoming",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuuve",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

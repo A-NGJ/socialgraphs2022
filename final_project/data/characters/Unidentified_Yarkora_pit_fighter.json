@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Yarkora_pit_fighter",
+ "display_name": "Unidentified Yarkora pit fighter",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yarkora"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Yarkora male pit warrior operated on Nar Shaddaa. He advised Boba Fett about the pit fights.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Yarkora",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Pit_fighting",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Boba_Fett",
+  "/wiki/War_of_the_Bounty_Hunters_Alpha_1"
+ ]
+}

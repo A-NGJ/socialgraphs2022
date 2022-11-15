@@ -1,0 +1,71 @@
+{
+ "name": "Telk",
+ "display_name": "Telk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray-black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Telk was a Human male agent of Imperial Intelligence, the Sith Empire's intelligence organization, during the Galactic War with the Galactic Republic. During the invasion of Belsavis, Telk was part of the Imperial forces that established the Imperial Lodgement in the Minimum Security Section on Belsavis, and shared his skills with other agents.\nTelk appears as the Imperial Agent class's trainer on Belsavis in the video game Star Wars: The Old Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Agent/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Imperial_Lodgement",
+  "/wiki/Minimum_Security_Section",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

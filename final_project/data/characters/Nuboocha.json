@@ -1,5 +1,6 @@
 {
  "name": "Nuboocha",
+ "display_name": "Nuboocha",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Nuboocha was a Hutt businessman who decided to stay on Zeltros due to its party atmosphere. His only regret was that he couldn't move his business there, due to its strict zoning laws.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

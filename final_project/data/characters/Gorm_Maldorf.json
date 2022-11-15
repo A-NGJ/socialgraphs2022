@@ -1,0 +1,62 @@
+{
+ "name": "Gorm_Maldorf",
+ "display_name": "Gorm Maldorf",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Sometime before the Battle of Yavin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorm Maldorf was a Human male from the Azerbaz Region of Tatooine. His Rodian sidekick was Chester. A bully and a cheater, Maldorf was accidentally killed by Chester when they were rigging the Cage for a race against Luke Skywalker.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gorm_(cyborg)",
+  "/wiki/Star_Wars_Tales",
+  "/wiki/Star_Wars_Tales_1",
+  "/wiki/Star_Wars_Tales_20",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Canon",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Azerbaz_Region",
+  "/wiki/Rodian/Legends",
+  "/wiki/Chester",
+  "/wiki/Death/Legends",
+  "/wiki/The_Cage",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Luke_Skywalker:_Detective"
+ ]
+}

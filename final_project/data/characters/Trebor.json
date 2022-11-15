@@ -1,0 +1,52 @@
+{
+ "name": "Trebor",
+ "display_name": "Trebor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "23 ABY aboard Moon Dash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trebor was a male Human who served as Narek-Ag's copilot aboard the Moon Dash, a small cargo shuttle. They both made a living by ferrying supplies between planets and were also romantically involved.\nIn 23 ABY, he and Narek-Ag departed from Coruscant One with a full load of cargo destined for Cloud City. While accelerating to hyperspace, the Moon Dash collided with the upper docking tower of the Shadow Academy, which had been cloaked at the time and thus undetectable.\nBelieving that what their shuttle hit was just space debris, Trebor informed Coruscant One of the predicament that he and Narek-Ag were in. The impact of the collision had caused a breach in the Moon Dash's hull, but that would turn out to be the least of their worries for the impact had also damaged the small shuttle's hyperdrive engines. A chain reaction built up inside the chambers of the engines, which would result in the destruction of Moon Dash and the deaths of Trebor and Narek-Ag.\nBased on Trebor's transmission before the explosion of the Moon Dash, it was concluded that the shuttle had collided with a large piece of uncharted debris and some political controversy resulted from this. Eventually the true cause of the destruction of the Moon Dash would be discovered by Lowbacca and Jaina Solo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/23_ABY/Legends",
+  "/wiki/Moon_Dash",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Narek-Ag",
+  "/wiki/Shuttle/Legends",
+  "/wiki/Coruscant_One",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Shadow_Academy",
+  "/wiki/Cloaking_device/Legends",
+  "/wiki/Lowbacca",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Young_Jedi_Knights:_The_Lost_Ones"
+ ]
+}

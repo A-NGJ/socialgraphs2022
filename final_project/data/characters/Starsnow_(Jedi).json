@@ -1,0 +1,64 @@
+{
+ "name": "Starsnow_(Jedi)",
+ "display_name": "Starsnow  (Jedi)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3653 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Starsnow was a Human male Jedi Master and the son of Senator Starsnow. He died during the Sacking of Coruscant, and his journal was recovered by a traveling hero for Starsnow's father.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Starsnow",
+  "/wiki/3653_BBY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Starsnow_(Senator)",
+  "/wiki/Sacking_of_Coruscant",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

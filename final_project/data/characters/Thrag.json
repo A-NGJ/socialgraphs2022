@@ -1,0 +1,69 @@
+{
+ "name": "Thrag",
+ "display_name": "Thrag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Bald"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Human League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thrag was a captain in the service of Thrackan Sal-Solo. He commanded the assault boat used to capture the planetary repulsor on Drall. He was a short, overweight man who enjoyed drinking more than serving Sal-Solo.\nThrag had a questionable reputation, as did many other members of the Human League, but he had a certain integrity. Thrackan commanded him to pursue the Millennium Falcon, despite the assault boat being heavily damaged from a surprise attack moments earlier. Thrag tried to convince him it was risking the lives of everyone on the ship. Thrackan replied that everyone was already at risk of execution for dereliction of duty. After the pursuit failed, Thrag took a few moments to gloat that the \"mighty Diktat\" had been shot down by children, as the Falcon was being flown at the time by young Jacen Solo, with young Jaina at the gun turret.\nCaptain Thrag also was known to have an odd outlook on Sal-Solo's command, often regarding him as more of a distant friend than a military leader. Thrag took orders from him without the fear that many of the other recruits exemplified.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Human_League",
+  "/wiki/Captain/Legends",
+  "/wiki/Thrackan_Sal-Solo",
+  "/wiki/Mynock-class_assault_boat",
+  "/wiki/Planetary_repulsor",
+  "/wiki/Drall_(planet)",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Showdown_at_Centerpoint"
+ ]
+}

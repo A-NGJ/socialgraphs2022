@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_Elom",
+ "display_name": "Unidentified Elom",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "138 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Elom"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Elom was on the planet Carreras Major sometime in 138 ABY. The Elom was accused of stealing something and while pleading for innocence, the Elom was shot and killed by a security officer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/138_ABY",
+  "/wiki/Elom/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Carreras_Major",
+  "/wiki/Death/Legends",
+  "/wiki/Carreras_Major_security_force",
+  "/wiki/Legacy_(2013)_1"
+ ]
+}

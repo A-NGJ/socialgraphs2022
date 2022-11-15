@@ -1,0 +1,50 @@
+{
+ "name": "Anakaret%27s_partner",
+ "display_name": "Anakaret's partner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Anakaret"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A young Human male served as a member of the pirate crew of the Twi'lek Anakaret. When Anakaret became indebted to Aral tukor Viest, the owner of a clearinghouse, she tried to buy out her freedom in Viest's death games. The young man became Anakaret's partner in the game. When the games were over, the man was happy that his captain had survived, and he affectionately hugged her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anakaret",
+  "/wiki/Pirate/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Aral_tukor_Viest",
+  "/wiki/Aral_tukor_Viest%27s_clearinghouse",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Anakaret%27s_partner",
+  "/wiki/Razor%27s_Edge",
+  "/wiki/Razor%27s_Edge_(audiobook)"
+ ]
+}

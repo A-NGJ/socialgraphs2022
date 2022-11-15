@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Human_female_Jedi_(Jar%27kai)",
+ "display_name": "Unidentified Human female Jedi  (Jar'kai)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female Jedi who survived the initial Jedi Purge and was proficient in Jar'kai. At sometime during the reign of the Empire, she battled for her life against stormtroopers with her two blue-bladed lightsabers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Great_Jedi_Purge/Legends",
+  "/wiki/Form_VI/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/The_Desolation_of_Hoth"
+ ]
+}

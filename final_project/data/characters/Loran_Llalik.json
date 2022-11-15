@@ -1,0 +1,51 @@
+{
+ "name": "Loran_Llalik",
+ "display_name": "Loran Llalik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Plavin 6"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Loran Llalik was a Human female scientist and doctor who lived on the planet Plavin 6 with her family. Llalik's family included her husband, Doctor Nash Llalik, and their three children: An oldest son, Doctor Nashiak Llalik, and Rebel agent Saren Llalik.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Plavin_6",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Planet",
+  "/wiki/Nash_Llalik",
+  "/wiki/Unidentified_Llalik_child",
+  "/wiki/Nashiak_Llalik",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Saren_Llalik",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

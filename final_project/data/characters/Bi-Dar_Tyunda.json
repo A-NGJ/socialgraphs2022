@@ -1,0 +1,38 @@
+{
+ "name": "Bi-Dar_Tyunda",
+ "display_name": "Bi-Dar Tyunda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cerea"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bi-Dar Tyunda was the founder of the planetary government of Cerea.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cerea/Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bi-Dar_Tyunda",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

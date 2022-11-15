@@ -1,0 +1,59 @@
+{
+ "name": "Aldrich_Kugel",
+ "display_name": "Aldrich Kugel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aldrich Kugel was an Imperial TIE/LN starfighter pilot serving in Crimson Squadron on Cilpar in 4 ABY.\nHe intervened to protect his fellow pilot Petro from Rogue Squadron's Tycho Celchu—undercover as an Imperial officer at the time—when the two got into a fight in the pilot recreation room. After the squadron's leader, Major Grode, was shot down in a dogfight with Rogue Squadron, Kugel appears to have been elevated to replace him and made Celchu 'senior flight officer'. It is unknown if Aldrich Kugel survived the subsequent decimation of Crimson Squadron at the hand of Rogue Squadron. Kugel was a man of average height with black hair and mustache.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/TIE/LN_starfighter",
+  "/wiki/Crimson_Squadron_(Galactic_Empire)",
+  "/wiki/Cilpar",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Petro_(pilot)",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Tycho_Celchu/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Grode",
+  "/wiki/X-Wing_Rogue_Squadron_2",
+  "/wiki/X-Wing_Rogue_Squadron_4"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Zharen",
+ "display_name": "Zharen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Taral V"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Medical Corps",
+      "Imperial Medical Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zharen was a male Human doctor who lived during the Galactic War. He was killed during the Battle of Taral V in 3642 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Taral_V",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Medical_Corps",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Death/Legends",
+  "/wiki/Battle_of_Taral_V",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zharen",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/The_Old_Republic:_Deceived"
+ ]
+}

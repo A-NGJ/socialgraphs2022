@@ -1,0 +1,74 @@
+{
+ "name": "Astina_Griek",
+ "display_name": "Astina Griek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hargeeva"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Karatha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Astina Griek was a lowborn Human female born on Hargeeva. She had a husband and a son who were killed by the Galactic Empire. She eventually joined the Alliance to Restore the Republic, serving at Eyrie Base. In 3 ABY, she was killed by Imperial Major Nial Pedrin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hargeeva",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Karatha",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Reproduction/Legends",
+  "/wiki/Astina_Griek%27s_husband",
+  "/wiki/Astina_Griek%27s_son",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Eyrie_Base",
+  "/wiki/Major/Legends",
+  "/wiki/Nial_Pedrin",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Desperate_Measures",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

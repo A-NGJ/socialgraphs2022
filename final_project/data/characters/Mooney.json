@@ -1,5 +1,6 @@
 {
  "name": "Mooney",
+ "display_name": "Mooney",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Mooney was a Human male bounty hunter who worked for another bounty hunter around 20 BBY. At some point in his life, he attempted to capture the Jedi Knight Anakin Skywalker and his master Obi-Wan Kenobi in Death Canyon.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

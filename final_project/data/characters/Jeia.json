@@ -1,5 +1,6 @@
 {
  "name": "Jeia",
+ "display_name": "Jeia",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Jeia was a female Human who lived sometime before the Battle of Yavin. She was one of Leia Organa's twin sisters, along with Meia, Teia and Zeia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

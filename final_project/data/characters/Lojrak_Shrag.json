@@ -1,0 +1,61 @@
+{
+ "name": "Lojrak_Shrag",
+ "display_name": "Lojrak Shrag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cona"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lojrak Shrag was a salt-smuggling male Arcona criminal who lived on Cona before the outbreak of the Clone Wars. Godiban Bakoosta was his lieutenant. In 22 BBY, Shrag was arrested by Jedi Tassida Judrelle, Quarmall, and Stass Allie prior to the First Battle of Geonosis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cona/Legends",
+  "/wiki/Arcona/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Salt/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Godiban_Bakoosta",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Tassida_Judrelle",
+  "/wiki/Quarmall",
+  "/wiki/Stass_Allie/Legends",
+  "/wiki/First_Battle_of_Geonosis/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_55",
+  "/wiki/Databank_(original)"
+ ]
+}

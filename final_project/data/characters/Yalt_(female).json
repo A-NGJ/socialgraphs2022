@@ -1,0 +1,55 @@
+{
+ "name": "Yalt_(female)",
+ "display_name": "Yalt  (female)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yalt was a female Human who lived on the polluted planet of Nal Hutta. She was the wife of Yalt, an accountant who worked directly for Nem'ro the Hutt. After Yalt betrayed Nem'ro for Fa'athra at his wife's suggestion, Nem'ro tasked a bounty hunter seeking a place in the Great Hunt with killing him.\nAfter succeeding in killing the accountant, the hunter brought Yalt's head to his wife at Nem'ro's Palace, after which she fled in horror.\nIf the player chooses to let Yalt live, both he and his wife flee Nal Hutta and are not seen again.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Yalt",
+  "/wiki/Suudaa_Nem%27ro",
+  "/wiki/Voontara_Fa%27athra",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Great_Hunt_(Jedi)",
+  "/wiki/Death/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Canon",
+  "/wiki/Nem%27ro%27s_Palace",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

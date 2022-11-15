@@ -1,0 +1,74 @@
+{
+ "name": "Zoltan_Starkid",
+ "display_name": "Zoltan Starkid",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Apprentices",
+     "values": [
+      "Millennium Astro-Engineering"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Director Zoltan Starkid was a male Human was the top salesman of the Millennium Astro-Engineering plant on the planet Tharkos.\nHe tried to sell Millennium's newest prototype, the Millennium Falcon, to the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Millennium_Astro-Engineering",
+  "/wiki/Director/Legends",
+  "/wiki/Millennium_Astro-Engineering_plant",
+  "/wiki/Planet/Legends",
+  "/wiki/Tharkos",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zoltan_Starkid",
+  "/wiki/The_Flight_of_the_Falcon",
+  "/wiki/The_Empire_Strikes_Back_Monthly_157"
+ ]
+}

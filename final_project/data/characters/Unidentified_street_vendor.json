@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_street_vendor",
+ "display_name": "Unidentified street vendor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male street vendor worked in the streets of a settlement on Gus Talon, a moon of Corellia, in 2 BBY. Mala knocked over and broke several of the glass sculptures he was selling.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Gus_Talon_settlement",
+  "/wiki/Gus_Talon/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Mala_Tinero",
+  "/wiki/Glass/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_street_vendor",
+  "/wiki/Lucky_(comic)",
+  "/wiki/Star_Wars_Tales_23"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Vildar_Blin%27s_assistant",
+ "display_name": "Vildar Blin's assistant",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 ABY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Battle of Hoth, Rebel soldiers Vildar Blin and his assistant stormed out of the Echo Base defensive trenches to attack a downed Imperial All Terrain Armored Transport. However, a Rebel snowspeeder destroyed the downed AT-AT just as Blin and his assistant reached the walker, and both were killed in the resulting explosion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Vildar_Blin",
+  "/wiki/Echo_Base/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/All_Terrain_Armored_Transport/Legends",
+  "/wiki/T-47_airspeeder/Legends",
+  "/wiki/Walker/Legends",
+  "/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Who%27s_Who_in_Echo_Base",
+  "/wiki/Star_Wars_Insider_74"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Corsair_(pilot)",
+ "display_name": "Corsair  (pilot)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corsair was a male X-wing starfighter pilot who served in the Rebel Alliance where he was stationed at Edan Base during the Galactic Civil War.\nCorsair was on base when the Galactic Empire performed an orbital bombardment of Edan II. He flew his damaged X-wing out of the base hangar only moments before the hangar was bombarded by TIE bombers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/T-65_X-wing_starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Edan_Base",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Orbital_bombardment/Legends",
+  "/wiki/Edan_II/Legends",
+  "/wiki/TIE/sa_bomber/Legends",
+  "/wiki/Introductory_Adventure_Game"
+ ]
+}

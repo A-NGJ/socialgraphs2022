@@ -1,0 +1,42 @@
+{
+ "name": "Sodilayno_Smath",
+ "display_name": "Sodilayno Smath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sodilayno Smath was a short, dark-skinned Human male who ran the Narg Starport Souvenir Shop on the planet Narg.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Narg_Starport_Souvenir_Shop",
+  "/wiki/Planet/Legends",
+  "/wiki/Narg",
+  "/wiki/The_Abduction",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures"
+ ]
+}

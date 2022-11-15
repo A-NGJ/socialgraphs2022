@@ -1,5 +1,6 @@
 {
  "name": "Renkov",
+ "display_name": "Renkov",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Renkov was a Human male business manager who served the Rebel Alliance. He accompanied Bria Tharen on her trip aboard the Queen of Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

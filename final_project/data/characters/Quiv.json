@@ -1,5 +1,6 @@
 {
  "name": "Quiv",
+ "display_name": "Quiv",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Quiv was a male Sullustan lieutenant who served in the New Republic Defense Fleet and a communications officer onboard Home One.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullust/Legends",

@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Twi%27lek_bookie",
+ "display_name": "Unidentified Twi'lek bookie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified gladiatorial arena"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Twi'lek worked as a bookie in the fourth year before the Battle of Yavin, at a gladiatorial arena.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Unidentified_gladiatorial_arena",
+  "/wiki/4_BBY",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Yavin",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Twi%27lek_bookie",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Always_Bet_on_Chop"
+ ]
+}

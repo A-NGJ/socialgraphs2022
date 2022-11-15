@@ -1,0 +1,50 @@
+{
+ "name": "Raad_Hak",
+ "display_name": "Raad Hak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raad Hak was a male Mon Calamari Major who served as a deck officer in the Rebel Alliance during the Galactic Civil War. He was in charge of Oracle Base's hangar deck in the Brak sector and disliked the use of smugglers in the Alliance Navy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Oracle_Base",
+  "/wiki/Brak_sector",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Alliance_Fleet",
+  "/wiki/Flashpoint!_Brak_Sector",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

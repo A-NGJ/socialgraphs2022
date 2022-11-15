@@ -1,0 +1,79 @@
+{
+ "name": "Unidentified_stealth_pilot",
+ "display_name": "Unidentified stealth pilot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A stealth pilot was assigned to Jedi General Anakin Skywalker as the co-pilot of the prototype stealth ship used during the Clone Wars at the Battle of Christophsis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_stealth_clone_pilot",
+  "/wiki/Unidentified_stealth_pilot",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Cat_and_Mouse",
+  "/wiki/Jedi_General/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Stealth_ship/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Battle_of_Christophsis/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_stealth_pilot",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Star_Wars:_The_Clone_Wars:_Incredible_Vehicles",
+  "/wiki/Databank_(original)"
+ ]
+}

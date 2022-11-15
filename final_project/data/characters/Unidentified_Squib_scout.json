@@ -1,0 +1,42 @@
+{
+ "name": "Unidentified_Squib_scout",
+ "display_name": "Unidentified Squib scout",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Squib"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Squib scout made first contact with a pair of Chiss explorers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Squib/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Unidentified_Chiss_explorers",
+  "/wiki/Chiss/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Squib_scout",
+  "/wiki/The_Unknown_Regions"
+ ]
+}

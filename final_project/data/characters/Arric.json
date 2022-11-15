@@ -1,5 +1,6 @@
 {
  "name": "Arric",
+ "display_name": "Arric",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Arric was a Human male Sergeant who served as a trainer in the Galactic Republic on the planet Quesh.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,59 @@
+{
+ "name": "Target_Number_One",
+ "display_name": "Target Number One",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 15 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Holowan Laboratories"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unnamed Human technician, identified by IG-88A only as Target Number One, was the first person killed by the assassin droid. The technician, employed by Holowan Laboratories, was one of several scientists assigned to Project Phlutdroid. Selected as IG-88's first target because he was the first to attempt to activate the emergency alarm, the technician died when IG-88 threw a disconnected droid arm into his back, smashing his spinal cord and his heart.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/15_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Holowan_Laboratories/Legends",
+  "/wiki/IG-88A/Legends",
+  "/wiki/Assassin_droid/Legends",
+  "/wiki/Project_Phlutdroid",
+  "/wiki/Therefore_I_Am:_The_Tale_of_IG-88",
+  "/wiki/Tales_of_the_Bounty_Hunters"
+ ]
+}

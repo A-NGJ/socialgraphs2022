@@ -1,0 +1,68 @@
+{
+ "name": "Starboard",
+ "display_name": "Starboard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "2975 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Uvak"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Starboard, was one of two Uvak used to steer the airship Candra. It was berthed on the right side of the airship, whereas Port was berthed on the left. When the Candra was destroyed, Starboard's body fell through the sky almost crushed Jogan Halder, was it not for Quarra Thayn getting a feeling through the Force.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/2975_BBY",
+  "/wiki/Uvak",
+  "/wiki/Color/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Airship_(Lost_Tribe_of_the_Sith)",
+  "/wiki/Candra_(ship)",
+  "/wiki/Port_(uvak)",
+  "/wiki/Jogan_Halder",
+  "/wiki/Quarra_Thayn",
+  "/wiki/The_Force/Legends",
+  "/wiki/Lost_Tribe_of_the_Sith:_Pandemonium"
+ ]
+}

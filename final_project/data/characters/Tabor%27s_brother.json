@@ -1,0 +1,55 @@
+{
+ "name": "Tabor%27s_brother",
+ "display_name": "Tabor's brother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "33 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aleena"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tabor's brother was an Aleena. He fought as a gladiator against the Drovian Silus, but was defeated and killed. Later, his brother Tabor tried to avenge his death but was also killed by the violent Drovian.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Aleena/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gladiator/Legends",
+  "/wiki/Drovian",
+  "/wiki/Silus_(Drovian)",
+  "/wiki/Death/Legends",
+  "/wiki/Tabor_(Aleena)",
+  "/wiki/Marked",
+  "/wiki/Star_Wars_Tales_24"
+ ]
+}

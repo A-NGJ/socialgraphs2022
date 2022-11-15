@@ -1,0 +1,38 @@
+{
+ "name": "T%27unto",
+ "display_name": "T'unto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cerea"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "T'unto was a legendary Cerean figure alluded to in the surprised exclamation favored by Ki-Adi-Mundi: \"By the colossal head of T'unto!\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cerea/Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Ki-Adi-Mundi/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars_(1998)_13"
+ ]
+}

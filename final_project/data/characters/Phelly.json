@@ -1,5 +1,6 @@
 {
  "name": "Phelly",
+ "display_name": "Phelly",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Phelly was a male Human lieutenant on the Imperial Star Destroyer Freedom. He participated in the Battle of Thyferra against Ysanne Isard's Thyferran forces.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

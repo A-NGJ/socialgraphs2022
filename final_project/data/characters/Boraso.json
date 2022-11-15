@@ -1,5 +1,6 @@
 {
  "name": "Boraso",
+ "display_name": "Boraso",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Boraso was a Human male and a member of the Royal Naboo Security Forces.\nHe was injured during the Trade Federation's Invasion of Naboo and subsequently imprisoned. He aided in a prison break also involving captured agents of the Naboo Underground, providing them with some useful tools that he had hidden in his belt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Naboo/Legends",

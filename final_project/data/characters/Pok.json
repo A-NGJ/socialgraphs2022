@@ -1,5 +1,6 @@
 {
  "name": "Pok",
+ "display_name": "Pok",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Pok was a male Yuzzem slave to a merchant of Anchorhead on Tatooine. He was a friend of Luke Skywalker while the young moisture farmer lived on Tatooine.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Yuzzem",

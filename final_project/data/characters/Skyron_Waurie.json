@@ -1,0 +1,37 @@
+{
+ "name": "Skyron_Waurie",
+ "display_name": "Skyron Waurie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skyron Waurie was a male Rodian Nova Orion Station security supervisor who lived during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nova_Orion_Station",
+  "/wiki/Security_officer/Legends",
+  "/wiki/Supervisor/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Skyron_Waurie",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

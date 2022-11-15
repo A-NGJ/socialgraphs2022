@@ -1,0 +1,49 @@
+{
+ "name": "Gellar_Domo",
+ "display_name": "Gellar Domo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Intarsa League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gellar Domo was a male Human, who lived during the waning years of the Galactic Republic.\nDomo was a member of the Intarsa League, a criminal organization that operated in the Cularin system. He worked his way up through the organization by working as an enforcer and a \"hard man\" for it. When Dersa Welles became leader of the League, Domo followed her, as he believed that she was a strong leader. When the League captured the Blue Star Centre, on Cularin, in around 31 BBY, Domo took up a defensive position in one of the Centre's office buildings.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Intarsa_League",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/Dersa_Welles",
+  "/wiki/Blue_Star_Centre",
+  "/wiki/Cularin/Legends",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Operation_Blue_Star"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Merciless_(massiff)",
+ "display_name": "Merciless  (massiff)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Massiff"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Kedar Blackgate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Merciless was a massiff owned by Colonel Kedar Blackgate on the planet Sacorria during the Galactic Civil War. Blackgate owned a second massiff, named Emperor, and both were said to be loyal pets.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Merciless",
+  "/wiki/Massiff/Legends",
+  "/wiki/Kedar_Blackgate",
+  "/wiki/Colonel/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Sacorria",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Emperor_(massiff)",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

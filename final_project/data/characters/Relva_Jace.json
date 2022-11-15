@@ -1,0 +1,49 @@
+{
+ "name": "Relva_Jace",
+ "display_name": "Relva Jace",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Relva Jace was a human male from Corellia who worked in the kitchen of Takodana Castle under the guidance of chef Strono Tuggs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Corellia",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Takodana_Castle",
+  "/wiki/Chef",
+  "/wiki/Strono_Tuggs",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Relva_Jace",
+  "/wiki/A_Recipe_for_Death",
+  "/wiki/Tales_from_a_Galaxy_Far,_Far_Away:_Aliens:_Volume_I"
+ ]
+}

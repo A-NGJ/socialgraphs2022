@@ -1,0 +1,68 @@
+{
+ "name": "Trynic",
+ "display_name": "Trynic",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.9 meters"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red-tinted"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trynic was the Devaronian male pilot and owner of the modified YT-1300 light freighter Solar Flare.\nHailing from the planet Devaron, Trynic was widely regarded as the best tramp freighter captain in the Minos Cluster. Known as a shrewd bargainer with a quick mind, Trynic usually came out ahead on any deal he made. He has managed to turn a tidy profit with the Solar Flare, reinvesting his profits to earn even more.\nHis typical Devaronian appearance  combined with his exceptionally piercing eyes earned him the nickname of \"The Devil\" from the other tramp freighter captains in the Minos Cluster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Solar_Flare_(YT-1300_light_freighter)",
+  "/wiki/Planet/Legends",
+  "/wiki/Tramp_freighter",
+  "/wiki/Captain/Legends",
+  "/wiki/Minos_Cluster/Legends",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters_(Second_Edition)",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/Wizards.com",
+  "/wiki/Saga_Edition_Web_Enhancement:_Devaronians"
+ ]
+}

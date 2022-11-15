@@ -1,0 +1,52 @@
+{
+ "name": "Fluffy_(pittin)",
+ "display_name": "Fluffy  (pittin)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pittin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Tia Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fluffy was the name of one of Tia Organa's pet pittins. Fluffy died in the destruction of Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fluffy",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Pittin",
+  "/wiki/Tia_Organa",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

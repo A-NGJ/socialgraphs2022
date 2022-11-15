@@ -1,0 +1,49 @@
+{
+ "name": "Tan_Dicium",
+ "display_name": "Tan Dicium",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sifuchi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tan Dicium was a Human princeling from Sifuchi. During the Galactic Civil War, he traveled to Tirahnn to visit the Great Tirahnn Fair along with his four Yuzzem bodyguards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sifuchi",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Tirahnn/Legends",
+  "/wiki/Great_Fair",
+  "/wiki/Yuzzem",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Triplet_Threat"
+ ]
+}

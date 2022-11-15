@@ -1,0 +1,79 @@
+{
+ "name": "Murra_(Ysanna)",
+ "display_name": "Murra  (Ysanna)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ossus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ysanna"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Murra was a Ysanna tribesman on Ossus who aided Okko in an attempt to defeat Luke Skywalker and Kam Solusar when they first arrived on the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Murra_(disambiguation)",
+  "/wiki/Ossus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ysanna/Legends",
+  "/wiki/Okko",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Kam_Solusar",
+  "/wiki/Planet/Legends",
+  "/wiki/Dark_Empire_II_3",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

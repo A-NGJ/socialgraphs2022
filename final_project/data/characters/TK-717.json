@@ -1,0 +1,66 @@
+{
+ "name": "TK-717",
+ "display_name": "TK-717",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Death Star I in the Yavin system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-717 was a stormtrooper stationed aboard an Imperial Star Destroyer headed for the first Death Star shortly before of the Battle of Yavin. Before reaching the battle station, TK-717 and TK-622 discussed the planet Ralltiir and its Rebel extremists. He was one of the many victims who perished in the destruction of the Death Star by the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Yavin_system/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/TK-622",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Ralltiir/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Empire_13"
+ ]
+}

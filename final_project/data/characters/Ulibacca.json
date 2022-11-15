@@ -1,0 +1,43 @@
+{
+ "name": "Ulibacca",
+ "display_name": "Ulibacca",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulibacca was a Wookiee with brown fur who wore a bandolier and goggles.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hair",
+  "/wiki/Bandolier",
+  "/wiki/Goggles",
+  "/wiki/Star_Wars:_Where%27s_the_Wookiee%3F_2",
+  "/wiki/Star_Wars:_Where%27s_the_Wookiee%3F_Deluxe",
+  "/wiki/Star_Wars:_Where%27s_the_Wookiee%3F_3"
+ ]
+}

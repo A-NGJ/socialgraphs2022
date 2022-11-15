@@ -1,0 +1,33 @@
+{
+ "name": "Kilon_Tarlok",
+ "display_name": "Kilon Tarlok",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kilon Tarlok was an elderly Near-Human who was responsible for administering Terman Station. He was unaware that Black Sun paid his salary.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Terman_Station",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

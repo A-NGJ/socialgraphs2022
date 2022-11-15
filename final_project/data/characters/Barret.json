@@ -1,5 +1,6 @@
 {
  "name": "Barret",
+ "display_name": "Barret",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Barret was a Zabrak male who served as a security chief for the Galactic Republic during the Cold War between the Galactic Republic and the reconstituted Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Zabrak/Legends",

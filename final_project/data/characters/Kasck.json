@@ -1,5 +1,6 @@
 {
  "name": "Kasck",
+ "display_name": "Kasck",
  "side_bars": [
   {
    "name": "Physical description",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Kasck was a Bothan infiltrator and a member of the Katarn Commandos, which was lead by Lieutenant Judder Page. He favored using a vibroknife.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bothan/Legends",

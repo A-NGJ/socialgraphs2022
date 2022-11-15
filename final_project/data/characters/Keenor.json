@@ -1,5 +1,6 @@
 {
  "name": "Keenor",
+ "display_name": "Keenor",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Keenor was a Republic trooper who was dispatched by Grand Master Satele Shan as part of a strike team to secure the Allusis.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

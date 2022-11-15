@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_ambulance_crew_member",
+ "display_name": "Unidentified ambulance crew member",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human female served as an ambulance crew member and worked on the planet Vashka. During the mission to Vashka, the mercenary Bazine Netal stabbed herself with a syringe in the meat of her thigh which caused her to collapse. The female then arrived in an ambulance and departed the vehicle with a GH-8 medical droid and asked what was wrong with Netal. After Orri Tenro told her that Netal had collapsed, the female and droid lifted Netal's body into the vehicle and took her to the medcenter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/Vashka",
+  "/wiki/Mission_to_Vashka",
+  "/wiki/Mercenary",
+  "/wiki/Bazine_Netal",
+  "/wiki/GH-8_medical_droid",
+  "/wiki/Orri_Tenro",
+  "/wiki/Vashka_City_Medcenter_One",
+  "/wiki/The_Perfect_Weapon"
+ ]
+}

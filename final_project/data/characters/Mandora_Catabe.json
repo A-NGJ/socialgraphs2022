@@ -1,0 +1,49 @@
+{
+ "name": "Mandora_Catabe",
+ "display_name": "Mandora Catabe",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "HoloNet News"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mandora Catabe was a human female who worked as the editor-in-chief of HoloNet News until the Galactic Empire forced her to resign and replaced her with Eridan Wesyse.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/HoloNet_News",
+  "/wiki/Galactic_Empire",
+  "/wiki/Eridan_Wesyse",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mandora_Catabe",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/The_Voice_of_the_Empire",
+  "/wiki/Star_Wars_Insider_170"
+ ]
+}

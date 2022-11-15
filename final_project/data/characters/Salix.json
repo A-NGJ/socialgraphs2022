@@ -1,5 +1,6 @@
 {
  "name": "Salix",
+ "display_name": "Salix",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Salix was a Bothan male who bartended The Slag Pit, a gambling den located on Nar Shaddaa. He ran the Pit's day-to-day operations while its owner, Odrell Vorbaal, sold spice.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bothan/Legends",

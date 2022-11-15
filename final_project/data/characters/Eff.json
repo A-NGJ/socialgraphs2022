@@ -1,5 +1,6 @@
 {
  "name": "Eff",
+ "display_name": "Eff",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Eff was a Klatooinian member of the Path of the Open Hand.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Klatooinian",

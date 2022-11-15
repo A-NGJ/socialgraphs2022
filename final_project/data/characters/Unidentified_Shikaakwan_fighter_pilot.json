@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Shikaakwan_fighter_pilot",
+ "display_name": "Unidentified Shikaakwan fighter pilot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "25",
+      "805 BBY",
+      "Bogan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Despot Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Shikaaakwan pilot was a soldier who served in the Despot Army during the Despot War. The Twi'lek pilot was killed during the last battle of the Despot War when the craft crashed on Bogan. The pilot's skeleton was still lying near the craft as of 25,793 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/25,805_BBY",
+  "/wiki/Bogan",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Despot_Army",
+  "/wiki/Soldier/Legends",
+  "/wiki/Despot_War",
+  "/wiki/Death/Legends",
+  "/wiki/Skeleton/Legends",
+  "/wiki/25,793_BBY",
+  "/wiki/Dawn_of_the_Jedi:_The_Prisoner_of_Bogan_1"
+ ]
+}

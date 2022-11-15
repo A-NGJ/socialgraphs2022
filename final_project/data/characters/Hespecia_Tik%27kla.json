@@ -1,0 +1,60 @@
+{
+ "name": "Hespecia_Tik%27kla",
+ "display_name": "Hespecia Tik'kla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Caamas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Caamasi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hespecia Tik'kla was a female Caamasi philosopher and lawgiver who lived during the early years of the Galactic Republic. Promoting justice and fair-mindedness, Tik'kla's teachings were studied and adapted by the early Jedi Order, influencing the future teachings of the Jedi and setting the course for galactic history.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Caamas/Legends",
+  "/wiki/Caamasi",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Elegos_A%27Kla",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Timeline_of_galactic_history/Legends",
+  "/wiki/The_Jedi_Path:_A_Manual_for_Students_of_the_Force_(real-life_book)",
+  "/wiki/Vision_of_the_Future"
+ ]
+}

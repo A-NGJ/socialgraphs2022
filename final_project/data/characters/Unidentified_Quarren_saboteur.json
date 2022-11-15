@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Quarren_saboteur",
+ "display_name": "Unidentified Quarren saboteur",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Quarren male saboteur sabotaged a shuttle on the planet of Mon Cala. The Quarren also served as the personal assistant to Chadkol Gee.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Quarren",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Shuttle",
+  "/wiki/Planet",
+  "/wiki/Mon_Cala",
+  "/wiki/Chadkol_Gee",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Quarren_saboteur",
+  "/wiki/Allegiance_3",
+  "/wiki/Allegiance_4"
+ ]
+}

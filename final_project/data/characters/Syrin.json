@@ -1,0 +1,80 @@
+{
+ "name": "Syrin",
+ "display_name": "Syrin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicCorellian defenders",
+      "Corellian defenders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Syrin was a Human male Corellian who fought as a defender of Corellia against the Sith Empire during the Galactic War.\nIn 3640 BBY, during the battle of Corellia Syrin was called along with a group of Corellian defenders to meet with Darmas Pollaran in supply tunnel 26 and blow up a hole in it. Syrin and other resistance fighters have gathered in the tunnel and were listen to Pollaran's speech in preparation for detonating the charges when a smuggler known as Voidhound interrupted the gathering. Pollaran tried to frame the newcomer as the agent of the Voidwolf, but was revealed as an Imperial himself instead when Gixsa pointed out that nobody knew the man calling himself a true Corellian. Pollaran send battle droids against the resistance while escaping in confusion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Darmas_Pollaran",
+  "/wiki/Supply_tunnel_26",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Voidhound",
+  "/wiki/Harridax_Kirill",
+  "/wiki/Gixsa",
+  "/wiki/Battle_droid/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

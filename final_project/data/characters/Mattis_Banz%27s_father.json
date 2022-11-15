@@ -1,0 +1,34 @@
+{
+ "name": "Mattis_Banz%27s_father",
+ "display_name": "Mattis Banz's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Mattis Banz was a human male.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Mattis_Banz",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mattis_Banz%27s_father",
+  "/wiki/Join_the_Resistance"
+ ]
+}

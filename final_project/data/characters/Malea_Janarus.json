@@ -1,0 +1,77 @@
+{
+ "name": "Malea_Janarus",
+ "display_name": "Malea Janarus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malea Janarus was a female Human living during the Cold War. She was the wife of Dorian Janarus, who served as a Senator of Coruscant and later as the Supreme Chancellor of the Galactic Republic until 3640 BBY.\nMalea Janarus appears during \"The Nathema Conspiracy\" flashpoint only if the Commander is a Bounty Hunter who made the dark side choice to kill the Supreme Chancellor Janarus towards the end of their class story. In this case, Malea will seek revenge on them and join the Order of Zildrog led by Vinn Atrius, only to be sacrificed as fuel to awaken Zildrog by GEMINI 16 on Nathema. If the player makes a light side choice to spare the Chancellor, Sith Lord Vindis will appear instead of Malea Janarus, while the other classes face antagonists from their own class stories.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Dorian_Janarus",
+  "/wiki/Senator/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Alliance_Commander",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Order_of_Zildrog",
+  "/wiki/Vinn_Atrius",
+  "/wiki/Zildrog",
+  "/wiki/GEMINI_16",
+  "/wiki/Nathema",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Vindis",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

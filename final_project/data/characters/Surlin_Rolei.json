@@ -1,0 +1,79 @@
+{
+ "name": "Surlin_Rolei",
+ "display_name": "Surlin Rolei",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Surlin Rolei was a Human male member of the Royal Naboo Security Forces who lived during the time of the Galactic Civil War.\nSurlin Rolei appears in the directory tree files for the 2003 massively multiplayer online roleplaying game Star Wars Galaxies: An Empire Divided. However, he is not known to have appeared on the video game's live servers as a proper non-player character. Nevertheless, an emulated depiction pulled from this character's Interchange File Format reveals what he would have looked like if he were added to the game.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/2003",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Video_game"
+ ]
+}

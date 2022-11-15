@@ -1,5 +1,6 @@
 {
  "name": "Korrg",
+ "display_name": "Korrg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Korrg was a worrt and the pet of the pilot Taka Jamoreesa.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Worrt",

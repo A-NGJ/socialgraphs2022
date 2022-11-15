@@ -1,5 +1,6 @@
 {
  "name": "Redivus",
+ "display_name": "Redivus",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Redivus was a male Weequay prisoner who broke out of the Belsavis prison during a break around 3641 BBY. He was hunted down as part of a bounty by the Grand Champion of the Great Hunt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3641_BBY",

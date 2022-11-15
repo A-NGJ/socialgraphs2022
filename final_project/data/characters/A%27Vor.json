@@ -1,5 +1,6 @@
 {
- "name": "A'Vor",
+ "name": "A%27Vor",
+ "display_name": "A'Vor",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "A'Vor was a male Tusken Raider who was a member of A'Yark's tribe. He had a twin brother, and was the cousin of A'Koba.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Tatooine",

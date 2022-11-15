@@ -1,0 +1,52 @@
+{
+ "name": "Valantya_Tyyre",
+ "display_name": "Valantya Tyyre",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valantya Tyyre was a Human woman who lived during the time of the Galactic Civil War and was a famous holovid actress.\nValantya was employed by a holovid station and her works included fictional dramas and documentaries. However, in her spare time, she directed propaganda and new pieces for the Alliance to Restore the Republic. She also allowed the Alliance to convert her apartment into a safehouse.\nValantya was tall, with dark-colored hair. She had an outgoing personality and was perceptive and intelligent. She was also a competant actress and director.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Holovid/Legends",
+  "/wiki/Apartment_25001",
+  "/wiki/Hideouts_%26_Strongholds"
+ ]
+}

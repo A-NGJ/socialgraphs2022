@@ -1,0 +1,53 @@
+{
+ "name": "Tehlan_Aleece",
+ "display_name": "Tehlan Aleece",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tehlan Aleece was a female Human and the niece of Moff Venram Krax. She was a long time agent for Alliance Intelligence, using her connections to report vital information on Imperial procedures and activities. She fled Corellia when she suspected her cover was about to be blown.\nShe spoke Basic, Bocce, Bothese, and High Galactic. She was an experienced pilot as well.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Venram_Krax",
+  "/wiki/Alliance_Intelligence",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Galactic_Basic_Standard/Legends",
+  "/wiki/Bocce/Legends",
+  "/wiki/Bothese",
+  "/wiki/High_Galactic/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

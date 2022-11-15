@@ -1,0 +1,66 @@
+{
+ "name": "Vaarko_Tiyai",
+ "display_name": "Vaarko Tiyai",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Hutt Cartel",
+      "Nar Shaddaa Labor Alliance",
+      "Shadow Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaarko Tiyai was a male Devaronian slaver who served as Cho'mash of the Nar Shaddaa Labor Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Nar_Shaddaa_Labor_Alliance",
+  "/wiki/Shadow_Syndicate/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Cho%27mash",
+  "/wiki/The_Old_Republic%E2%80%94The_Lost_Suns_2",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Legacy_of_the_Sith",
+  "/wiki/Nar_Shaddaa/Legends"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Jara_ba_Nylra",
+ "display_name": "Jara ba Nylra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Morath"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jara ba Nylra was a Morath captive of the Yevetha from Kojash. He, along with all the other Yevethan captives, escaped thanks to the help of the Fallanassi Enara and the Star Morning.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jara",
+  "/wiki/Morath",
+  "/wiki/Gender/Legends",
+  "/wiki/Yevetha",
+  "/wiki/Kojash",
+  "/wiki/Fallanassi/Legends",
+  "/wiki/Enara",
+  "/wiki/Star_Morning",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

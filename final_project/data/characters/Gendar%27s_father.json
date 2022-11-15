@@ -1,0 +1,60 @@
+{
+ "name": "Gendar%27s_father",
+ "display_name": "Gendar's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Outcasts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gendar's father was a Human who was sentenced to survive in the Undercity of Taris like his father before him. He led the village like his father did. He eventually had a son named Gendar, who succeeded him as leader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Outcasts_(Taris)",
+  "/wiki/Undercity_(Taris)",
+  "/wiki/Gendar%27s_grandfather",
+  "/wiki/Outcast_village",
+  "/wiki/Gendar",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/3956_BBY"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Faltun_Garr",
+ "display_name": "Faltun Garr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Faltun Garr was a well-respected Imperial Colonel during the height of the New Order. After serving as a command officer at various Kuat Drive Yards and Sienar Fleet Systems facilities, he was relocated to the Coromon Islands on the planet Fresia, where he was placed in charge of an Incom Corporation production plant. Many of his Imperial buddies thought the posting on Fresia was something of a demotion, considering the less-than-spectacular working conditions. Faltun, however, didn't seem to mind, and he approached his new assignment with considerable enthusiasm.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Military/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Kuat_Drive_Yards/Legends",
+  "/wiki/Sienar_Fleet_Systems/Legends",
+  "/wiki/Coromon_Islands",
+  "/wiki/Planet/Legends",
+  "/wiki/Fresia/Legends",
+  "/wiki/Incom_Corporation/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

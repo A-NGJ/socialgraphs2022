@@ -1,5 +1,6 @@
 {
  "name": "Orcon",
+ "display_name": "Orcon",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Orcon was an aquatic being who lived underwater on the Forest Moon of Endor. He rode a devil serpent, which he controlled with a trident.\nHe would often invade the Underwater Kingdom to steal food pearls from the Underwater dwellers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

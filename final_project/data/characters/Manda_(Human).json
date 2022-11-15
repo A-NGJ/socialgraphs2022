@@ -1,0 +1,76 @@
+{
+ "name": "Manda_(Human)",
+ "display_name": "Manda  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Manda was a Human male who served the Sith Empire on the Sith capital planet of Dromund Kaas as a contact for Imperial Intelligence during the Cold War. While hanging out in the local cantina, another operative was directed to Manda by Minder Twenty. The operative was given a gambling chip, and sent to speak to a Chiss security officer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Manda_(religious)",
+  "/wiki/Manda/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Cipher_Nine",
+  "/wiki/Planet/Legends",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Cantina/Legends",
+  "/wiki/Minder_Twenty",
+  "/wiki/Chiss/Legends",
+  "/wiki/Unidentified_Chiss_security_officer",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

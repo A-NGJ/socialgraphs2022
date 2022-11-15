@@ -1,0 +1,85 @@
+{
+ "name": "Thorsh",
+ "display_name": "Thorsh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garban"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jenet"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thorsh was a male Jenet operating as a scout and reconnaissance agent in the Galactic Alliance military during the Yuuzhan Vong War, on Duro and Gyndine among other worlds.\nThorsh participated in Operation Trinity over Bilbringi, and was among the military personnel captured there by the Yuuzhan Vong. He was incarcerated on Selvaris along with Pash Cracken and Judder Page. When the informant known as Ryn 115 provided the captives with data concerning Yuuzhan Vong operations, Thorsh memorized the encoded data and, along with three Bith prisoners, managed to escape from the prison camp to waiting speeder bikes.\nThe escape was quickly discovered by the Yuuzhan Vong, who pursued Thorsh and his colleagues across Selvaris. The Millennium Falcon arrived on planet in time to recover Thorsh, though the Bith did not make it off the planet. Thorsh was taken to Dac for debriefing, and the information he had memorized was deciphered. This knowledge revealed that a convoy of prisoners from Selvaris was traveling to Coruscant for sacrifice, and allowed the Galactic Alliance to launch a rescue effort.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garban",
+  "/wiki/Jenet/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Scout/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Duro/Legends",
+  "/wiki/Gyndine/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Second_Battle_of_Bilbringi",
+  "/wiki/Bilbringi_system",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Selvaris",
+  "/wiki/Pash_Cracken",
+  "/wiki/Judder_Page/Legends",
+  "/wiki/Ryn_one-one-five",
+  "/wiki/Bith/Legends",
+  "/wiki/Speeder_bike/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Dac",
+  "/wiki/Coruscant/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

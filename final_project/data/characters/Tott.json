@@ -1,0 +1,63 @@
+{
+ "name": "Tott",
+ "display_name": "Tott",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tott was a Human male colonel in the Republic Army who served in the Battle of Corellia against the Sith Empire. During the fighting in the Axial Park district, the Empire's Commander Rigby captured the Daoba Hotel with dozens of civilian hostages and began installing artillery atop the structure. Tott was unable to call in airstrikes on the hotel because of the civilians, but a Jedi and military effort free the hostages and cleared the hotel so that Tott could call down airstrikes and destroy the artillery.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Colonel/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Axial_Park",
+  "/wiki/Commander/Legends",
+  "/wiki/Rigby",
+  "/wiki/Daoba_Hotel",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

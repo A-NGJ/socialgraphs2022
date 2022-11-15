@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_rancor",
+ "display_name": "Unidentified rancor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Umbara"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rancor"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Rancor lived on Umbara and used the rancor forest as their hunting grounds. During the Battle of Umbara, a Jedi Knight defeated this Rancor and tamed their child, Fogg.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Umbara/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Rancor/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Rancor_forest",
+  "/wiki/Battle_of_Umbara/Legends",
+  "/wiki/Unidentified_Jedi_Knight_(Clone_Wars)",
+  "/wiki/Fogg",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

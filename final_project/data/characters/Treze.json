@@ -1,0 +1,76 @@
+{
+ "name": "Treze",
+ "display_name": "Treze",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 382 BBY",
+      "Thelj"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mikkian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Path of the Open Hand",
+      "Children",
+      "Children"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Treze was a Mikkian male who was a member of the Children within the Path of the Open Hand.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/382_BBY",
+  "/wiki/Thelj",
+  "/wiki/Mikkian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Path_of_the_Open_Hand",
+  "/wiki/Children",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Treze",
+  "/wiki/The_High_Republic:_Path_of_Deceit",
+  "/wiki/The_High_Republic:_Light_of_the_Jedi",
+  "/wiki/Star_Wars:_The_High_Republic",
+  "/wiki/232_BBY",
+  "/wiki/Template:LightOfTheJediDate",
+  "/wiki/StarWars.com",
+  "/wiki/Standard_year",
+  "/wiki/Death"
+ ]
+}

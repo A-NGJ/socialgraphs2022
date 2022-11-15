@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_pilot_(VibroSword_Eight)",
+ "display_name": "Unidentified pilot  (VibroSword Eight)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Quarren pilot from Dac flew as VibroSword Eight during Operation Roundabout.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_pilot",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Battle_of_Tralus_(Second_Galactic_Civil_War)",
+  "/wiki/Legacy_of_the_Force:_Betrayal",
+  "/wiki/VibroSword_Eight",
+  "/wiki/Operation_Roundabout",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_pilot_(VibroSword_Eight)"
+ ]
+}

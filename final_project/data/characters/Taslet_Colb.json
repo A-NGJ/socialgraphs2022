@@ -1,0 +1,74 @@
+{
+ "name": "Taslet_Colb",
+ "display_name": "Taslet Colb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Scarif"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Blue Squadron",
+      "Blue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taslet Colb was a human pilot who served in the Alliance to Restore the Republic around the outbreak of the Galactic Civil War. Near the beginning of the war, Lieutenant Colb flew a UT-60D U-wing starfighter/support craft with Warrant officer Laren Joma under the callsign Blue Eleven. During the Battle of Scarif, Colb was shot down after delivering troop reinforcements on the ground.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_BBY",
+  "/wiki/Scarif",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Blue_Squadron_(Rebel_Alliance)",
+  "/wiki/Rebel_pilot",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Lieutenant",
+  "/wiki/UT-60D_U-wing_starfighter/support_craft",
+  "/wiki/Warrant_officer",
+  "/wiki/Laren_Joma",
+  "/wiki/Callsign",
+  "/wiki/Blue_Eleven",
+  "/wiki/Battle_of_Scarif",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taslet_Colb",
+  "/wiki/Star_Wars:_Rogue_One:_The_Ultimate_Visual_Guide",
+  "/wiki/Star_Wars:_Geektionary:_The_Galaxy_from_A_-_Z",
+  "/wiki/Star_Wars_Encyclopedia_(De_Agostini)",
+  "/wiki/The_Pilots_of_the_Rebel_Alliance"
+ ]
+}

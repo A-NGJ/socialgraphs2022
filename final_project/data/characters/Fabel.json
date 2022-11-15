@@ -1,5 +1,6 @@
 {
  "name": "Fabel",
+ "display_name": "Fabel",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Corporal Fabel was a Twi'lek male who served the Galactic Republic during the Galactic War.\nIn 3642 BBY, Fabel was stationed on Hoth where he discovered that the White Maw had hired Anomid engineers to build an Arc Emitter, a device capable of disabling any equipment running off a generator. he tasked a Republic spacer to steal an Anomid diagnostic pad and recalibrate it to make the Arc Emitter target itself.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

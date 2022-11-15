@@ -1,5 +1,6 @@
 {
- "name": "Gr'Karr",
+ "name": "Gr%27Karr",
+ "display_name": "Gr'Karr",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Gr'Karr was a male Tusken Raider. He was the oldest member of his tribe.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Layout_Guide",

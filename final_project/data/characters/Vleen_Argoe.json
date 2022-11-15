@@ -1,0 +1,61 @@
+{
+ "name": "Vleen_Argoe",
+ "display_name": "Vleen Argoe",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gelgelar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shvash Gas Cooperative"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vleen Argoe managed the Shvash Gas Cooperative located at Gelgelar Free Port on the planet Gelgelar.\nShe purchased Shvash gas from harvesters at 50 credits per ton and sold to traders for 75 to 120 credits per ton . Vleen was a terrible businesswomen and barely managed to earn a living from Shvash gas trading.\nShe had an obsession with the fire that the Shvash gas produced and would often sit in her office all day setting light to small objects and smoking hand-rolled cigarras. Vleen carried a small mini-flamer with her to light her cigarras and would often be distracted by the fire that it produced.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gelgelar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shvash_Gas_Cooperative",
+  "/wiki/Gelgelar_Free_Port/Legends",
+  "/wiki/Shvash_gas",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Cigarra/Legends",
+  "/wiki/Mini-flamer",
+  "/wiki/Platt%27s_Starport_Guide",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

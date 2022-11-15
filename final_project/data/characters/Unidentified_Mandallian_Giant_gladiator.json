@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_Mandallian_Giant_gladiator",
+ "display_name": "Unidentified Mandallian Giant gladiator",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mandallian Giant"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Mandallian Giant gladiator participated in The Big Game on The Wheel in 0 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mandallian_Giant",
+  "/wiki/Color/Legends",
+  "/wiki/The_Big_Game",
+  "/wiki/The_Wheel/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Mandallian_Giant_gladiator",
+  "/wiki/Star_Wars_(1977)_19"
+ ]
+}

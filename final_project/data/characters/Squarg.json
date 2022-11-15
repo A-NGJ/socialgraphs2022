@@ -1,0 +1,76 @@
+{
+ "name": "Squarg",
+ "display_name": "Squarg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3641 BBY",
+      "Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivory"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squarg was a Gamorrean male criminal living during the Cold War. He was imprisoned on Belsavis by the Galactic Republic until 3641 BBY when the crime lord Ivory arranged an escape of himself and his associates, including Squarg. Along with Buzz, Squarg was attempting to free Agrular from Cell block 2018 when both were interrupted by the Voidhound and subsequently killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3641_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Ivory",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Buzz_(Geonosian)",
+  "/wiki/Agrular",
+  "/wiki/Cell_block_2018",
+  "/wiki/Voidhound",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

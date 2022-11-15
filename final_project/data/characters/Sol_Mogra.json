@@ -1,0 +1,73 @@
+{
+ "name": "Sol_Mogra",
+ "display_name": "Sol Mogra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Nil Idyth"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sol Mogra was a human male Jedi Knight of the Jedi Order. According to legend, he was the former Padawan of Jedi Master Nil Idyth, and acquired his master's amulet after his death. However, Idyth had used the amulet to seal away his dark emotions, which began to influence Mogra, causing him to terrorize the Coruscant Underworld during the night. While pursuing the culprit, initially unaware that it was himself, Mogra realized the truth of the amulet. Ashamed of what he had done, Mogra allowed the amulet's darkness to consume him, fleeing into the shadows.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Nil_Idyth",
+  "/wiki/Jedi_Knight",
+  "/wiki/Padawan",
+  "/wiki/Jedi_Master",
+  "/wiki/Nil_Idyth%27s_amulet",
+  "/wiki/Death",
+  "/wiki/Coruscant_Underworld",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sol_Mogra",
+  "/wiki/Category:Images_of_Sol_Mogra",
+  "/wiki/The_Dark_Mirror",
+  "/wiki/Dark_Legends"
+ ]
+}

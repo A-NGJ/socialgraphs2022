@@ -1,5 +1,6 @@
 {
  "name": "Kazameer",
+ "display_name": "Kazameer",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Kazameer was a Hassarian male Separatist general during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Wookieepedia:Spoilers",

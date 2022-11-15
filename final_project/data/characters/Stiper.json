@@ -1,0 +1,77 @@
+{
+ "name": "Stiper",
+ "display_name": "Stiper",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "21 ABY",
+      "aboard the Bestoon Legacy",
+      "Nightside"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Balosar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ochi's crew"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stiper was a Balosar male criminal who, in 21 ABY, was part of a crew assembled by the Jedi hunter Ochi to help him find a young girl and take her to the planet Exegol. Stiper was present aboard Ochi's ship, the Bestoon Legacy, after Ochi traveled to Nightside in the Therezar system to kill Zargo Anaximander, the regent-captain of the station, after the girl escaped with her family aboard Anaximander's ship. After Ochi returned to the Bestoon Legacy, Stiper was bribed by the captain of the Droid Crush Pirates of Bestoon, who Ochi had sent to retrieve the girl and had failed in their task, into getting them on Ochi's ship to speak with him. After Ochi destroyed the droid, he killed Stiper with a Sith dagger for the act.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/21_ABY",
+  "/wiki/Bestoon_Legacy",
+  "/wiki/Nightside",
+  "/wiki/Balosar_(species)",
+  "/wiki/Gender",
+  "/wiki/Jedi_hunter",
+  "/wiki/Ochi",
+  "/wiki/Youngling",
+  "/wiki/Rey_Skywalker",
+  "/wiki/Planet",
+  "/wiki/Exegol",
+  "/wiki/Starship",
+  "/wiki/Therezar_system",
+  "/wiki/Death",
+  "/wiki/Zargo_Anaximander",
+  "/wiki/Space_station",
+  "/wiki/Palpatine_family",
+  "/wiki/Unidentified_droid_pirate_captain",
+  "/wiki/Droid_Crush_Pirates_of_Bestoon",
+  "/wiki/Droid",
+  "/wiki/Blade_of_Ochi_of_Bestoon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Stiper",
+  "/wiki/Shadow_of_the_Sith",
+  "/wiki/Template:ShadowoftheSithDate"
+ ]
+}

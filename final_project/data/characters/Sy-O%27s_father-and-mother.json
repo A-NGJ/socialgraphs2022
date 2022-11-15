@@ -1,0 +1,35 @@
+{
+ "name": "Sy-O%27s_father-and-mother",
+ "display_name": "Sy-O's father-and-mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Exogorth"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Hermaphrodite"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This exogorth was the father and mother of Sy-O.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Exogorth",
+  "/wiki/Gender",
+  "/wiki/Sy-O",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sy-O%27s_father-and-mother",
+  "/wiki/This_Is_No_Cave",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

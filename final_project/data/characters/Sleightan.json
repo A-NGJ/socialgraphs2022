@@ -1,0 +1,38 @@
+{
+ "name": "Sleightan",
+ "display_name": "Sleightan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sleightan was a Human male con artist. Along with the droid L7-BO, Sleightan ran a scam where he would sell the droid to group of spacers, claiming it was the property of his dead son, Armbrus. Once the deal had been done, L7-BO would find an opportunity to leave the spacers and rejoin Sleightan so they could run the scam again.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Con_artist/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/L7-BO",
+  "/wiki/Spacer/Legends",
+  "/wiki/Armbrus",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "name": "Von_Taub",
+ "display_name": "Von Taub",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Corweillian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Von Taub was a prestigious scientist who attended the meeting led by Jenna Zan Arbor, in CoCo Town. Then, he helped Padawan Obi-Wan Kenobi and Astri Oddo to find the bounty hunter Ona Nobis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corweillian",
+  "/wiki/Gender/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Jenna_Zan_Arbor",
+  "/wiki/CoCo_Town/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Astri_Oddo",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Ona_Nobis",
+  "/wiki/Jedi_Apprentice:_The_Evil_Experiment"
+ ]
+}

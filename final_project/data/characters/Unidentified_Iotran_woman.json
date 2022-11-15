@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Iotran_woman",
+ "display_name": "Unidentified Iotran woman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Iotran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Iotran woman had a bounty placed on her at some point prior to 15 BBY. The bounty hunter Boba Fett caught the Iotran on the planet Rivvidu and kept her landspeeder, the Silver Speeder, as a prize.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Iotran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/15_BBY/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rivvidu",
+  "/wiki/Landspeeder/Legends",
+  "/wiki/Silver_Speeder",
+  "/wiki/Polyhedron",
+  "/wiki/Star_Wars_Droids:_The_Adventures_of_R2-D2_and_C-3PO",
+  "/wiki/Polyhedron_170"
+ ]
+}

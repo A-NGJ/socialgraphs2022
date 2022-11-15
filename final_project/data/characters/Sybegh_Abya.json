@@ -1,0 +1,60 @@
+{
+ "name": "Sybegh_Abya",
+ "display_name": "Sybegh Abya",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sedesia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sybegh Abya was a Rebel Alliance contact on the planet Sedesia. He was assisted by A2-B4 and he bred breedtash.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sedesia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/A2-B4",
+  "/wiki/Breedtash",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Cure",
+  "/wiki/Star_Wars_Adventure_Journal_6",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_alien_warlord",
+ "display_name": "Unidentified alien warlord",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Alien"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male member of an alien species was a warlord during the Cold War between the Galactic Republic and the Sith Empire. The warlord entered into a deal with the Empire where he would receive weapons and support in exchange for his loyalty, but once he had eliminated his competition, the warlord's ambitions led him to break his deal with the Empire. However, an Imperial individual convinced the alien's lieutenants to turn on him, and the lieutenants cooperated with the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Species/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

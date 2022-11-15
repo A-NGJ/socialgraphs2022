@@ -1,0 +1,85 @@
+{
+ "name": "Tracker",
+ "display_name": "Tracker",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Tracker\" was the nickname of a clone trooper who served in the Grand Army of the Republic during the Clone Wars. Tracker along with Threepwood and Boil accompanied the Jedi Obi-Wan Kenobi and Anakin Skywalker during a mission to hunt down the Sith fugitives Count Dooku and Quinlan Vos, who had escaped from Republic custody and crash-landed their ship, the Banshee, on Christophsis. Tracker found blood at the crash site, and the Jedi-Republic party deduced that the fugitives had survived but were injured. Shortly, Republic forces launched an attack on the Separatist base on Christophsis, leading to the Second battle of Christophsis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kamino",
+  "/wiki/Human",
+  "/wiki/Cloning",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Galactic_Republic",
+  "/wiki/Grand_Army_of_the_Republic",
+  "/wiki/Clone_trooper",
+  "/wiki/Clone_Wars",
+  "/wiki/Threepwood",
+  "/wiki/Boil",
+  "/wiki/Jedi",
+  "/wiki/Obi-Wan_Kenobi",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Sith",
+  "/wiki/Count",
+  "/wiki/Dooku",
+  "/wiki/Quinlan_Vos",
+  "/wiki/Starship",
+  "/wiki/Banshee_(starship)",
+  "/wiki/Christophsis",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Christophsis_Separatist_tower",
+  "/wiki/Second_battle_of_Christophsis",
+  "/wiki/Dark_Disciple",
+  "/wiki/Dark_Disciple_(audiobook)",
+  "/wiki/Databank_(website)"
+ ]
+}

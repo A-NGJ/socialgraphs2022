@@ -1,5 +1,6 @@
 {
  "name": "Kragnotto",
+ "display_name": "Kragnotto",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kragnotto was an Ankura Gungan male who worked as a teacher at a school on Merokia. He was in charge of the science program. He spoke in a Gungan dialect.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Gungan",

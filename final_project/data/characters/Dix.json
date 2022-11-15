@@ -1,5 +1,6 @@
 {
  "name": "Dix",
+ "display_name": "Dix",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Dix was an officer in the Galactic Empire.\nHe was stationed on Maridun during the Battle of Maridun.\nBecause he talks with Captain Janek Sunber as with a gaffer, he is probably a lieutenant.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Imperial_officer/Legends",

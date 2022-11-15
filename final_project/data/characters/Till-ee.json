@@ -1,0 +1,47 @@
+{
+ "name": "Till-ee",
+ "display_name": "Till-ee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Till-ee was a Mirialan member of the Jedi Order and sibling to fellow Jedi Sidn-ee. During the First Battle of Geonosis in 22 BBY, the siblings were the first to reach the outskirts of the Trade Federation's landing zones on the planet, but were unable to prevent the Federation's Command Spheres from escaping.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mirialan",
+  "/wiki/Jedi_Order",
+  "/wiki/Jedi",
+  "/wiki/Sidn-ee",
+  "/wiki/First_Battle_of_Geonosis",
+  "/wiki/22_BBY",
+  "/wiki/Trade_Federation",
+  "/wiki/Trade_Federation_landing_zones",
+  "/wiki/Planet",
+  "/wiki/Core_ship",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Till-ee",
+  "/wiki/Star_Wars:_Battles_that_Changed_the_Galaxy",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

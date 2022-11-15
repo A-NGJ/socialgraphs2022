@@ -1,0 +1,35 @@
+{
+ "name": "Ulal",
+ "display_name": "Ulal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulal was a Hutt who, unlike most members of his species, enjoyed spending time in space. Ulal commanded the Potala Um Var, which he used to patrol the space around Varl. By the time of the Galactic Civil War, Ulal had spent around 500 years patrolling the region.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Potala_Um_Var",
+  "/wiki/Varl/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

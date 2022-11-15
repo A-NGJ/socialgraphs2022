@@ -1,5 +1,6 @@
 {
  "name": "Bator",
+ "display_name": "Bator",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Bator was a Human male Imperial operative who served the Sith Empire during the Galactic War. Around 3641 BBY, he was stationed on Belsavis where he tasked a fellow Imperial to retrieve the Republic researchers responsible for the domination experiments from the Rodians that were holding the researchers hostage.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

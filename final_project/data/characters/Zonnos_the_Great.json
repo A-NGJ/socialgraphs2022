@@ -1,0 +1,39 @@
+{
+ "name": "Zonnos_the_Great",
+ "display_name": "Zonnos the Great",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Anjiliac kajidic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zonnos the Great was the Hutt who ruled the Anjiliac kajidic prior to Popara Anjiliac Diresto's reign. Popara named his firstborn child Zonnos Anjiliac Priare to honor Zonnos the Great. The junior Zonnos was given an informal nickname of \"Zonnos the Lesser\" by his peers. That nickname stuck with the younger Hutt even after the elder Zonnos passed on.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Anjiliac",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Popara_Anjiliac_Diresto",
+  "/wiki/Zonnos_Anjiliac_Priare",
+  "/wiki/Tempest_Feud"
+ ]
+}

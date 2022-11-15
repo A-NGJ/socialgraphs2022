@@ -1,0 +1,68 @@
+{
+ "name": "Tika_(Human)",
+ "display_name": "Tika  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tika was a Coruscanti orphan used by Darth Caedus as a double to switch out for his daughter Allana in his kidnapping plot to retrieve her from Hapes in 40 ABY. She gave Prince Isolder the datachip which demanded Tenel Ka return the Hapans to the Galactic Alliance war effort or the Hapan princess would forfeit her life. In return, if Tika did this one thing, Caedus promised to leave her on Hapes where there were thousands of beautiful women, one of whom would be willing to be her new mother. Like Allana, she had red hair and presumably bore a passing likeness to the Chume'da.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscanti/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/Allana_Solo",
+  "/wiki/Hapes/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Prince/Legends",
+  "/wiki/Isolder",
+  "/wiki/Datachip/Legends",
+  "/wiki/Tenel_Ka_Djo",
+  "/wiki/Hapan",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Chume%27da",
+  "/wiki/Legacy_of_the_Force:_Fury",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

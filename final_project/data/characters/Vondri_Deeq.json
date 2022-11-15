@@ -1,0 +1,37 @@
+{
+ "name": "Vondri_Deeq",
+ "display_name": "Vondri Deeq",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vondri Deeq was a male Ortolan chef. He was the perfectionist and irritable head chef of the Three Jetties Gourmet Restaurant in Lamaredd, a establisment serving only seafood from Bartyn Gourmet Delicacies, always cooked under the personal supervision of Deeq.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chef/Legends",
+  "/wiki/Three_Jetties_Gourmet_Restaurant",
+  "/wiki/Lamaredd/Legends",
+  "/wiki/Bartyn_Gourmet_Delicacies",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Bartyn%27s_Landing_(article)",
+  "/wiki/Star_Wars_Gamer_7"
+ ]
+}

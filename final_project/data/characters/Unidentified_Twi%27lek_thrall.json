@@ -1,0 +1,59 @@
+{
+ "name": "Unidentified_Twi%27lek_thrall",
+ "display_name": "Unidentified Twi'lek thrall",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Twi'lek Thrall was part of the forces that attacked the rear guard of Kaye Galfridian's invasion force as they attempted to rescue the captives of the Yuuzhan Vong on the planet of Dibrook.\nWhen the thrall was surrounded by New Republic forces, Galfridian disabled her by striking her with the buttstock of a blaster rifle. A lieutenant then tried to kill her, but Galfridian prevented that and ordered him and his squad to take the prisoner back to the Heart of Artorias.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Thrall",
+  "/wiki/Kaye_Galfridian",
+  "/wiki/Dibrook",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Blaster_rifle/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Squad/Legends",
+  "/wiki/Heart_of_Artorias",
+  "/wiki/Invasion:_Rescues_3"
+ ]
+}

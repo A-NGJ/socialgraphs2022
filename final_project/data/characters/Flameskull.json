@@ -1,5 +1,6 @@
 {
  "name": "Flameskull",
+ "display_name": "Flameskull",
  "side_bars": [
   {
    "name": "Physical description",
@@ -27,7 +28,7 @@
   }
  ],
  "content": "\"Flameskull\" was the nickname of a TIE pilot who flew as part of Theta Squadron under the callsign Theta Eighteen.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

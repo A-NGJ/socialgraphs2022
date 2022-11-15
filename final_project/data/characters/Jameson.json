@@ -1,5 +1,6 @@
 {
  "name": "Jameson",
+ "display_name": "Jameson",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Jameson was a Human male who owned a ranch on the planet Relkass. He hired several other Humans including Commander Lajar Weqill, Grendles, and Zonder to hunt draagax.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Relkass",

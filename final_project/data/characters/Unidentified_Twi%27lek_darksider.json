@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Twi%27lek_darksider",
+ "display_name": "Unidentified Twi'lek darksider",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Twi'lek Force-user lived during the Galactic Civil War and was a practitioner of the dark side of the Force. He wielded a red-bladed lightsaber and at one point used the Force to crush an enemy's body both inside and out.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Telekinesis/Legends#Force_Crush",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Squadrons_Over_Corellia",
+  "/wiki/Template:SWGTCG",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

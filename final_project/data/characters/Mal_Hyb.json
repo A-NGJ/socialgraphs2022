@@ -1,0 +1,61 @@
+{
+ "name": "Mal_Hyb",
+ "display_name": "Mal Hyb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mal Hyb was a mechanic. She was one of Barada's assistants in the garage of Jabba's Palace, and was particularly noted for her superior welding skill. She was also a good fighter; her fighting ability often surprised her opponents, since as a Human she was considerably smaller than many other residents of the palace.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Technician/Legends",
+  "/wiki/Barada/Legends",
+  "/wiki/Jabba%27s_Palace",
+  "/wiki/The_Great_God_Quay:_The_Tale_of_Barada_and_the_Weequays",
+  "/wiki/Tales_from_Jabba%27s_Palace",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Xanwan",
+ "display_name": "Xanwan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Xanwan's freight kiosk"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xanwan, also known as Xan, was a human male who owned a transport business on Ferrix.\nXanwan wore a brown jacket with an orange vest and hat. He had dark hair that was graying, including a beard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Xanwan%27s_freight_kiosk",
+  "/wiki/Cassian_Jeron_Andor",
+  "/wiki/Ferrix",
+  "/wiki/Color",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Xanwan",
+  "/wiki/Andor_(television_series)",
+  "/wiki/That_Would_Be_Me",
+  "/wiki/Reckoning_(episode)",
+  "/wiki/Announcement",
+  "/wiki/StarWars.com"
+ ]
+}

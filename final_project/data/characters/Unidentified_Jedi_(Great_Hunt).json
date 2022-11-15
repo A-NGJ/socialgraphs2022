@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Jedi_(Great_Hunt)",
+ "display_name": "Unidentified Jedi  (Great Hunt)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3993 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Great Hunt, this Human male Jedi Knight served as part of a Jedi hunting group that tracked and killed terentateks across the galaxy. On one such mission on Tatooine, this Jedi was killed by a terentatek.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3993_BBY",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Great_Hunt_(Jedi)",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Terentatek/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Cleansing_of_Tatooine",
+  "/wiki/Shadows_and_Light",
+  "/wiki/Star_Wars_Tales_23"
+ ]
+}

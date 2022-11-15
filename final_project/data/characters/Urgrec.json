@@ -1,0 +1,37 @@
+{
+ "name": "Urgrec",
+ "display_name": "Urgrec",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urgrec was a Twi'lek male who worked for Suudaa Nem'ro's palace, supplying the beast pens with fresh creatures. During the Cold War, Nem'ro sought to acquire a rancor for himself upon learning that his rival Voontara Fa'athra had acquired a rancor egg, and Urgrec hired outside help in stealing Fa'athra's rancor egg for Nem'ro.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Suudaa_Nem%27ro",
+  "/wiki/Nem%27ro%27s_Palace",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Rancor/Legends",
+  "/wiki/Voontara_Fa%27athra",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

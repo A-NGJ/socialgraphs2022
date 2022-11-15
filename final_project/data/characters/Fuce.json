@@ -1,5 +1,6 @@
 {
  "name": "Fuce",
+ "display_name": "Fuce",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Commander Fuce served in the Galactic Empire. He commanded a small garrison of stormtroopers on Dantooine around 1 ABY.\nHe served the Empire as the base Commander at the garrison established on Dantooine, during the years following the Battle of Yavin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

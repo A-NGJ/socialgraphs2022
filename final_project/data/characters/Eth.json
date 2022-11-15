@@ -1,5 +1,6 @@
 {
  "name": "Eth",
+ "display_name": "Eth",
  "side_bars": [
   {
    "name": "Physical description",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "Captain Eth was a Human male officer of the Imperial Army during the Galactic War between the Galactic Republic and the reconstituted Sith Empire. In 3642 BBY, he was stationed at Thesh Outpost on Hoth.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,57 @@
+{
+ "name": "Wraith_(vine_cat)",
+ "display_name": "Wraith  (vine cat)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vine cat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Pammel Tarqus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Wraith\" was the name given to the trained vine cat owned by Doctor Pammel Tarqus on the planet Dromund Kaas. \"Wraith,\" Tarqus, and the sleen \"Shadow\" were all killed in the Malignant Bog.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Vine_cat",
+  "/wiki/Pammel_Tarqus",
+  "/wiki/Doctor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Sleen/Legends",
+  "/wiki/Shadow_(sleen)",
+  "/wiki/Death/Legends",
+  "/wiki/Malignant_Bog",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

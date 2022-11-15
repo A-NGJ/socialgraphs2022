@@ -1,0 +1,40 @@
+{
+ "name": "Teydo",
+ "display_name": "Teydo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teydo was a male Toydarian, who lived during the early years of the Galactic Empire. He worked as a slaver. When a group of agents from the planet Daimar traveled to the cantina Emthuul's on the planet Byrsym, Teydo was present in the bar and was engaging in an argument with a Quarren.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Daimar",
+  "/wiki/Cantina/Legends",
+  "/wiki/Emthuul%27s",
+  "/wiki/Byrsym",
+  "/wiki/Quarren/Legends",
+  "/wiki/Flames_of_Rebellion"
+ ]
+}

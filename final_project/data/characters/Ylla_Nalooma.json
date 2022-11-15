@@ -1,0 +1,45 @@
+{
+ "name": "Ylla_Nalooma",
+ "display_name": "Ylla Nalooma",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sanads of Rorkee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ylla Nalooma was a female Twi'lek waitress who worked in the restaurant of the Sanads of Rorkee hotel. A pompous person, she believed that her work was beyond her capabilities.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sanads_of_Rorkee",
+  "/wiki/Waiter/Legends",
+  "/wiki/Hotel/Legends",
+  "/wiki/Head_in_the_Clouds"
+ ]
+}

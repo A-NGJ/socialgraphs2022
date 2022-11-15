@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_male_bar_patron_2",
+ "display_name": "Unidentified male bar patron 2",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This bar patron was a male human who was present in the castle of Maz Kanata on Takodana when the First Order attacked the planet.\nThis character was portrayed by D.C. Barns in Star Wars: Episode VII The Force Awakens. Barns had previously won a Star Wars: Force for Change fundraising competition and as a result was given a role in the movie. His role was confirmed in the movie's credits.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Takodana_Castle",
+  "/wiki/Maz_Kanata",
+  "/wiki/Takodana",
+  "/wiki/First_Order",
+  "/wiki/Battle_of_Takodana",
+  "/wiki/Planet",
+  "/wiki/D.C._Barns",
+  "/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+  "/wiki/Star_Wars"
+ ]
+}

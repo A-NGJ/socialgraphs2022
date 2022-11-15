@@ -1,0 +1,77 @@
+{
+ "name": "Unidentified_Alderaan_guard",
+ "display_name": "Unidentified Alderaan guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of OrganaAlderaan Guard",
+      "Alderaan Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An individual was a guard with the Alderaan Guard assigned to protect Alderaan Senator Bail Prestor Organa during the Clone Wars. He was involved in a shootout when bounty hunters Robonino and Chata Hyoki attempted to attack Senator Organa. Along with members of the Coruscant Security Force, this individual and his fellow guardsmen were able to take the bounty hunters into custody though not before the Senator was severely wounded when his speeder crashed.\nThe Alderaanian guard was voiced by comedian and voice actor Phil LaMarr.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Unidentified_Alderaan_guard",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Alderaan_Guard",
+  "/wiki/Security_guard/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Bail_Prestor_Organa/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Robonino/Legends",
+  "/wiki/Chata_Hyoki/Legends",
+  "/wiki/Coruscant_Security_Force/Legends",
+  "/wiki/Phil_LaMarr",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Pursuit_of_Peace",
+  "/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_Three"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Vol_Noorr",
+ "display_name": "Vol Noorr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Duskhan League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vol Noorr was a male Yevethan who served as the Primate of the Purity. When the Astrolabe was spotted making a reconnaissance run within the Koornacht Cluster, he ordered his gunners to fire on the vessel. After the Astrolabe was destroyed, he sent an encoded message to Nil Spaar detailing the attack.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Gender/Legends",
+  "/wiki/Duskhan_League",
+  "/wiki/Primate_(Yevethan_rank)",
+  "/wiki/Purity",
+  "/wiki/Astrolabe",
+  "/wiki/Koornacht_Cluster/Legends",
+  "/wiki/Nil_Spaar",
+  "/wiki/Before_the_Storm",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

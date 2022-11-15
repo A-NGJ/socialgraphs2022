@@ -1,0 +1,51 @@
+{
+ "name": "Steef",
+ "display_name": "Steef",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Orman"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Steef was a Gamorrean who worked for the Chev businessman Orman. He was loyal to Orman but was quite lazy and preferred to sleep than fight. In a fight he would often find a way to quietly leave the action.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Orman",
+  "/wiki/Chev",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

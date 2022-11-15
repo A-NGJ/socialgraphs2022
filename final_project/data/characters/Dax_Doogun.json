@@ -1,0 +1,48 @@
+{
+ "name": "Dax_Doogun",
+ "display_name": "Dax Doogun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Molpol's Traveling Circus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dax Doogun was a male Ortolan who once owned the Millennium Falcon. Doogun also ran Molpol's Traveling Circus during this time.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ortolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Molpol%27s_Traveling_Circus",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dax_Doogun",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)"
+ ]
+}

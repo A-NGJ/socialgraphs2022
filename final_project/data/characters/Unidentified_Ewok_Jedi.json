@@ -1,0 +1,75 @@
+{
+ "name": "Unidentified_Ewok_Jedi",
+ "display_name": "Unidentified Ewok Jedi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Cream"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ewok Jedi was in activity at some point following the founding of the New Republic in 4 ABY. Unusually for most Ewoks, this Ewok was born with the necessary mental capacity to access and utilize the Force. That Jedi once attacked a group of Sanyassans who tried to enslave a fellow Ewok, wielding a blue-bladed lightsaber and wearing matching Jedi garments.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Declaration_of_a_New_Republic/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Sanyassan",
+  "/wiki/Slavery/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Jedi_apparel",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/Dark_Horse_Comics",
+  "/wiki/Randy_Stradley",
+  "/wiki/May_8",
+  "/wiki/2005"
+ ]
+}

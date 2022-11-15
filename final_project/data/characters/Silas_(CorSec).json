@@ -1,0 +1,84 @@
+{
+ "name": "Silas_(CorSec)",
+ "display_name": "Silas  (CorSec)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Silas was a Human male officer of the Corellian Security Force during the Galactic War between the Galactic Republic and the resurgent Sith Empire.\nAfter Imperial forces took control over the Corellian Security Force Academy in Axial Park during the Battle of Corellia, Silas and the CorSec were recruited by Republic to attack and reclaim the academy. They got inside, but the Imperials pinned Silas and his men down, with Davit near death and Hanley and Crissom not much better. Silas tried to contact reinforcements at Checkpoint Lambda, but those were overrun as well, and a Republic hero answered the call instead. Responding to Silas' plea for help, the hero stormed the CorSec Academy building and rescued him and the rest of his squad before they were overrun by the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Silas",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Corellian_Security_Force_Academy",
+  "/wiki/Axial_Park",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Davit",
+  "/wiki/Hanley",
+  "/wiki/Crissom",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Durasha_family",
+ "display_name": "Durasha family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Parental"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Reise Durasha"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Lankashiir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "1 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic EmpireRaithal Academy",
+      "Raithal Academy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Durasha family was a family native to the world of Lankashiir and had strong ties to the Galactic Empire. Most were graduates of the Raithal Academy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Reise_Durasha",
+  "/wiki/Lankashiir",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Raithal_Academy/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/A_Certain_Point_of_View_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

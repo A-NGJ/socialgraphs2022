@@ -1,0 +1,86 @@
+{
+ "name": "Yawn",
+ "display_name": "Yawn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bureaucratosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid alien"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yawn was a male humanoid alien Senator who represented the planet Bureaucratosis in the Senate of the Galactic Republic during the Clone Wars. By 0 ABY, Emperor Palpatine kicked Yawn out of the Senate Building, along with all of the other senators.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Bureaucratosis",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/LEGO_Star_Wars:_The_Padawan_Menace",
+  "/wiki/Senator/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Senate_Building",
+  "/wiki/Dissolution_of_the_Imperial_Senate/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yawn",
+  "/wiki/LEGO_Star_Wars:_The_Yoda_Chronicles",
+  "/wiki/Raid_on_Coruscant"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Yarg",
+ "display_name": "Yarg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarg, also known as Honest Yarg, was a Gran trader who operated the shop Honest Yarg's Droid Emporium in Ploughtekal Market on the planet Coruscant.\nIn 18 BBY, the Sullustan Den Dhur and the droid I-5YQ visited Yarg's shop, hoping to acquire a protocol droid chassis to replace I-5YQ's former body, which had been destroyed in an encounter with Darth Vader. However, Yarg misinterpreted the situation and assumed that Dhur was there to try and sell his droid companion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Honest_Yarg%27s_Droid_Emporium",
+  "/wiki/Ploughtekal_Market",
+  "/wiki/Planet/Legends",
+  "/wiki/18_BBY/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Den_Dhur",
+  "/wiki/Droid/Legends",
+  "/wiki/I-5YQ",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarg",
+  "/wiki/The_Last_Jedi_(novel)"
+ ]
+}

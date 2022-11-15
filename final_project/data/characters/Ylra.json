@@ -1,0 +1,45 @@
+{
+ "name": "Ylra",
+ "display_name": "Ylra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Theelin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ylra was a female Theelin who met Tamu Dree on-board a Pantolomin cruiser. After a short courtship, she married him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Theelin",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tamu_Dree",
+  "/wiki/Pantolomin_cruiser",
+  "/wiki/Marriage",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ylra",
+  "/wiki/Han_Solo_-_Imperial_Cadet_3",
+  "/wiki/Han_Solo_-_Imperial_Cadet_5",
+  "/wiki/TIE_Fighter_2"
+ ]
+}

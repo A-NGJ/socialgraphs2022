@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_New_Republic_Sy_Myrthian_diplomat",
+ "display_name": "Unidentified New Republic Sy Myrthian diplomat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sy Myrth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sy Myrthian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Sy Myrthian was a diplomat in the New Republic. The Sy Myrthian had a pet pylat bird.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sy_Myrth/Legends",
+  "/wiki/Sy_Myrthian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Pylat",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_New_Republic_Sy_Myrthian_diplomat",
+  "/wiki/The_Wildlife_of_Star_Wars:_A_Field_Guide"
+ ]
+}

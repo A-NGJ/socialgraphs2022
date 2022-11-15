@@ -1,0 +1,65 @@
+{
+ "name": "Volos",
+ "display_name": "Volos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Military",
+      "Republic Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Volos was a male Duros sergeant in the Republic Military who was deployed at the Battle of Corellia. Volos, his squads, and CorSec's Tactical Response Teams made progress against the Empire's forces near the main rocket tram station in the Government District of the Coronet City, but were unable to proceed until a Republic hero managed to eliminate the Imperial shock troopers guarding the mortar cannons and destroy the weapons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Volos",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Tactical_Response_Team",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Reirin%27s_mother",
+ "display_name": "Reirin's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Reirin's clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Tusken Raider was the mother of Reirin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tusken_Raider",
+  "/wiki/Gender",
+  "/wiki/Reirin%27s_clan",
+  "/wiki/Reirin",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Reirin%27s_mother",
+  "/wiki/Reirin_(short_story)",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

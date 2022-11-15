@@ -1,0 +1,37 @@
+{
+ "name": "Zagsm%27ith",
+ "display_name": "Zagsm'ith",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Columi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zagsm'ith was a male Columi archaeologist. He hired a group of spacers to transport him to Xuaquarres to locate the legendary Graveyard of the Dragons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Columi/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Archaeologist/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Xuaquarres",
+  "/wiki/Graveyard_of_the_Dragons",
+  "/wiki/West_End_Games",
+  "/wiki/Quest_for_the_Dragon%27s_Tomb",
+  "/wiki/Star_Wars_Gamemaster_Screen"
+ ]
+}

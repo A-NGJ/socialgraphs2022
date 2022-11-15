@@ -1,0 +1,48 @@
+{
+ "name": "Nella_Bold%27s_mother",
+ "display_name": "Nella Bold's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human female was the mother of Nella Bold. She was married to moisture farmer Orin Bold, and was killed by Savrips when Nella Bold was still young.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Orin_Bold",
+  "/wiki/Mantellian_Savrip/Legends",
+  "/wiki/Nella_Bold",
+  "/wiki/Qui-Gon_and_Obi-Wan:_Last_Stand_on_Ord_Mantell_2",
+  "/wiki/Qui-Gon_and_Obi-Wan:_Last_Stand_on_Ord_Mantell_3"
+ ]
+}

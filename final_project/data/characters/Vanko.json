@@ -1,0 +1,97 @@
+{
+ "name": "Vanko",
+ "display_name": "Vanko",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.8 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light silver"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Deep gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vanko was an Imperial Moff during the Galactic Civil War.\nVanko was a native of the planet Coruscant. When Emperor Palpatine declared his Galactic Empire in 19 BBY, Vanko was made Moff of the Bright Jewel Oversector and assumed the role of commander of the Eighth Army.\nAn elderly career soldier and a friend of Emperor Palpatine, Vanko was one of two Moffs with territories bordering the Maelstrom. Along with Moff Torpin, Vanko submitted falsified budgets and financial reports to the Empire to try and disguise the fact that he was losing a great deal of money to a pirate group called the Riders of the Maelstrom. He and Torpin met in secret on board the luxury liner Kuari Princess to discuss what their next moves would be. Both believed that the pirate groups were working with the Alliance to Restore the Republic to plan a major offensive against their forces. The Kuari Princess was subsequently attacked by the Riders.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Declaration_of_a_New_Order",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Bright_Jewel_Oversector/Legends",
+  "/wiki/Eighth_Army",
+  "/wiki/The_Maelstrom",
+  "/wiki/Torpin",
+  "/wiki/Pirate/Legends",
+  "/wiki/Riders_of_the_Maelstrom",
+  "/wiki/Luxury_liner/Legends",
+  "/wiki/Kuari_Princess/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Attack_on_the_Kuari_Princess",
+  "/wiki/Riders_of_the_Maelstrom_(West_End_Games)",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

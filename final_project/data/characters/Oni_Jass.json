@@ -1,0 +1,49 @@
+{
+ "name": "Oni_Jass",
+ "display_name": "Oni Jass",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Solculvis"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oni Jass was a humanoid male individual sent by Regent Solculvis to capture Rathtars for him and prevent Han Solo from bringing the Rathtars to King Prana. He uses twin blaster pistols, aswell as detonators.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Humanoid",
+  "/wiki/Gender",
+  "/wiki/Solculvis",
+  "/wiki/Rathtar",
+  "/wiki/Han_Solo",
+  "/wiki/Grevoth_Prana_IX",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Oni_Jass",
+  "/wiki/LEGO_Star_Wars:_The_Force_Awakens"
+ ]
+}

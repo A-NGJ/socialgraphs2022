@@ -1,0 +1,51 @@
+{
+ "name": "Tresalis",
+ "display_name": "Tresalis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tresalis was a Human Jedi Master who served the Jedi Order before the fall of the Galactic Republic at the end of the Clone Wars.\nTresalis was a Jedi Master trained in the ways of Force healing. As a noted Jedi healer, Tresalis created a holocron which held her teachings on compassion, support, and a bedside manner. The holocron came to be known as the Mournful Holocron because of Tresalis' overwhelming sadness at the loss of a loved one. In order to access the holocron, a user had to first console its gatekeeper and help the part of Tresalis imbued in the holocron cope with her loss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Force_healing/Legends",
+  "/wiki/Jedi_healer/Legends",
+  "/wiki/Holocron/Legends",
+  "/wiki/Mournful_Holocron",
+  "/wiki/Gatekeeper",
+  "/wiki/Savage_Spirits"
+ ]
+}

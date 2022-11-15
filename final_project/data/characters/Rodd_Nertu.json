@@ -1,0 +1,66 @@
+{
+ "name": "Rodd_Nertu",
+ "display_name": "Rodd Nertu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Spectres"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rodd Nertu was a male Rodian who lived on Lothal around five years before the Battle of Yavin. At some point, Nertu had a run-in with a squad of Imperial stormtroopers, but he was rescued by the young Ezra Bridger and the rest of the Spectres, though the Rodian was afraid of the rebel group at first. Following the rescue mission, the Rodian went to live in the Haven, a secret hideout for defenseless citizens built by the rebels.\nRodd Nertu first appeared in the 2015 mobile game Star Wars Rebels: Recon Missions as the citizen in need of rescue in level one.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Spectres",
+  "/wiki/Lothal",
+  "/wiki/Standard_year",
+  "/wiki/Battle_of_Yavin",
+  "/wiki/Squad",
+  "/wiki/Galactic_Empire",
+  "/wiki/Stormtrooper",
+  "/wiki/Ezra_Bridger",
+  "/wiki/Haven",
+  "/wiki/2015",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars_Rebels:_Recon_Missions"
+ ]
+}

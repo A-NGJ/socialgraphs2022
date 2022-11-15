@@ -1,0 +1,64 @@
+{
+ "name": "Kalor_(Fyodos)",
+ "display_name": "Kalor  (Fyodos)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Fyodos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Roh tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kalor was a Human male native to the planet Fyodos. Chief of the Roh tribe, he had a wife, Alyak, and two sons, Dubeh and Meerak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Fyodos",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Kalor_(Republic)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Gender/Legends",
+  "/wiki/Roh_tribe",
+  "/wiki/Planet/Legends",
+  "/wiki/Chief/Legends",
+  "/wiki/Alyak",
+  "/wiki/Dubeh",
+  "/wiki/Meerak",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Two",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

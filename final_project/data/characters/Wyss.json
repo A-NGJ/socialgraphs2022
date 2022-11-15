@@ -1,0 +1,72 @@
+{
+ "name": "Wyss",
+ "display_name": "Wyss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dorin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Baran Do",
+      "Hidden Ones",
+      "Hidden Ones"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wyss was a male Kel Dor servant of the Hidden Ones in 43 ABY. He was serving under the Hidden One formerly known as Koro Ziil when former Jedi Grand Master Luke Skywalker and Jedi Knight Ben Skywalker freed the Hidden Ones from their caverns after a duel of Force powers between Luke and Ziil.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dorin/Legends",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baran_Do/Legends",
+  "/wiki/Hidden_Ones",
+  "/wiki/Slavery/Legends",
+  "/wiki/43_ABY",
+  "/wiki/The_Hidden_One",
+  "/wiki/Koro_Ziil",
+  "/wiki/Jedi/Legends",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Ben_Skywalker",
+  "/wiki/Caverns_of_the_Hidden_One",
+  "/wiki/Confrontation_in_the_Caverns_of_the_Hidden_One",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force_power/Legends",
+  "/wiki/Fate_of_the_Jedi:_Outcast",
+  "/wiki/Fate_of_the_Jedi:_Outcast_(audiobook)"
+ ]
+}

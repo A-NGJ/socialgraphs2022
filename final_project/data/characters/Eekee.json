@@ -1,5 +1,6 @@
 {
  "name": "Eekee",
+ "display_name": "Eekee",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Eekee was a female humanoid Lady who partly owned the Mining complex on The Deep.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Insectoid",

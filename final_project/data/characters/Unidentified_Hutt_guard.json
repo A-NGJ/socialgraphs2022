@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_Hutt_guard",
+ "display_name": "Unidentified Hutt guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bandomeer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Offworld Mining Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Hutt guard worked at the Offworld Mining Corporation headquarters on the planet Bandomeer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bandomeer/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Offworld_Mining_Corporation",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Hutt_guard",
+  "/wiki/Jedi_Apprentice:_The_Dark_Rival"
+ ]
+}

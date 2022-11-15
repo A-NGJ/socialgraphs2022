@@ -1,5 +1,6 @@
 {
  "name": "Denner",
+ "display_name": "Denner",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Denner was an Imperial Captain that lived during the Galactic Civil War.\nIn 1 ABY he was stationed in the Imperial Fortress on Yavin 4, where he was training pilots of Storm Squadron.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Captain/Legends",

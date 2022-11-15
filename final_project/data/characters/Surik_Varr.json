@@ -1,0 +1,68 @@
+{
+ "name": "Surik_Varr",
+ "display_name": "Surik Varr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Surik Varr was a male Arcona member of the Republic Strategic Information Service during the Cold War.\nIn 3643 BBY, he was stationed on the planet Alderaan where he pretended to be a merchant in the House Traders' Circle in King's Pass. He informed a Republic citizen that House Rist assassins under Thorin Rist - also posing as merchants - plotted to assassinate a group of House Organa nobles.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Surik_(disambiguation)",
+  "/wiki/Arcona/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/House_Traders%27_Circle",
+  "/wiki/King%27s_Pass",
+  "/wiki/House_Rist",
+  "/wiki/Assassin/Legends",
+  "/wiki/Thorin_Rist",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

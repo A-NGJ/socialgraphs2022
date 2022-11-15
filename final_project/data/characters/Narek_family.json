@@ -1,0 +1,55 @@
+{
+ "name": "Narek_family",
+ "display_name": "Narek family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Ord RadamaLivien Magnus",
+      "Livien Magnus",
+      "Arda I"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Narek family was a family on Ord Radama. A big portion of the family was killed in the bombing of Rialla Way, along with their business.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Narek_family",
+  "/wiki/Human/Legends",
+  "/wiki/Ord_Radama/Legends",
+  "/wiki/Livien_Magnus",
+  "/wiki/Arda_I",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bombing_of_Rialla_Way",
+  "/wiki/Aleos_Narek%27s_shop",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

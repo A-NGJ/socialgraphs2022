@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Jawa_prisoner",
+ "display_name": "Unidentified Jawa prisoner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This prisoner was a Jawa who got on the bad side of the crime lord Jabba Desilijic Tiure. The Rodian bounty hunter Greedo was hired to capture them. In order to get more money out of Jabba, Greedo made a deal with the Jawa to capture them on at least three separate occasions, secretly giving them the means to escape each time.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Unidentified_Jawa",
+  "/wiki/Jawa",
+  "/wiki/Crime_lord",
+  "/wiki/Jabba_Desilijic_Tiure",
+  "/wiki/Rodian",
+  "/wiki/Bounty_hunter",
+  "/wiki/Greedo",
+  "/wiki/Currency",
+  "/wiki/Time",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Jawa_prisoner",
+  "/wiki/Not_for_Nothing",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

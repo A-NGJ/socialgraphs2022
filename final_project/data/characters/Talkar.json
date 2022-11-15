@@ -1,0 +1,46 @@
+{
+ "name": "Talkar",
+ "display_name": "Talkar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Talkar was a male individual who served the First Order. Talkar was placed in command of a garrison of stormtroopers posted to a communications station on the planet GH-531 in the Unknown Regions. Shortly after the Hosnian Cataclysm, Talkar encountered a group of Resistance agents that had been assigned to scout the communications facility, but was defeated by them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gender",
+  "/wiki/First_Order",
+  "/wiki/Captain",
+  "/wiki/Garrison",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Planet",
+  "/wiki/GH-531",
+  "/wiki/Unknown_Regions",
+  "/wiki/Hosnian_Cataclysm",
+  "/wiki/Resistance",
+  "/wiki/Agent",
+  "/wiki/Scout",
+  "/wiki/A_Call_for_Heroes"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Rodian_bartender",
+ "display_name": "Unidentified Rodian bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Carbon Score Cantina"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian bartender owned the Carbon Score Cantina on Burnin Konn during the Imperial Era. The bartender was unable to pay for protection from the Kerrakk enforcers after having to first pay off the Hutt Clan, Pyke Syndicate, and Unbroken Clan, leading the Kerrakk to attack and rob the cantina. The bounty hunter crew led by T'onga, who had grown restless without a way to complete their mission to find Cadeliah, fought off and killed the Kerrakk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Color",
+  "/wiki/Carbon_Score_Cantina",
+  "/wiki/Burnin_Konn",
+  "/wiki/Imperial_Era",
+  "/wiki/Bartender",
+  "/wiki/Kerrakk_enforcers",
+  "/wiki/Hutt_Clan",
+  "/wiki/Pyke_Syndicate",
+  "/wiki/Unbroken_Clan",
+  "/wiki/Kerrakk",
+  "/wiki/Cantina",
+  "/wiki/Bounty_hunter",
+  "/wiki/T%27onga%27s_crew",
+  "/wiki/T%27onga",
+  "/wiki/Cadeliah",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rodian_bartender",
+  "/wiki/Bounty_Hunters_18"
+ ]
+}

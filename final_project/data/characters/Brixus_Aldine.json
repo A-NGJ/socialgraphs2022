@@ -1,0 +1,62 @@
+{
+ "name": "Brixus_Aldine",
+ "display_name": "Brixus Aldine",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Melantha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brixus Aldine was a male Human who served as a Guard Captain for House Melantha. The soldiers under his command were known as the Aldine Brigade.\nAlthough not a noble, Brixus' family had long served House Melantha and he was a great supporter of the nobles that he protected. He had substantial combat experience having seen service in several little-known border skirmishes. He was known as cunning and merciless adversary.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_Melantha",
+  "/wiki/House_Guard",
+  "/wiki/Captain/Legends",
+  "/wiki/Aldine_Brigade",
+  "/wiki/Noble/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Bacta_Heist",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

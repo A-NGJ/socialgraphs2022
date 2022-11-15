@@ -1,0 +1,53 @@
+{
+ "name": "Jack_(Human)",
+ "display_name": "Jack  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Pazaak\" Jack was a male Human smuggler aboard the space station Carrick Station, selling combat gear during the Cold War.\n\"Pazaak\" Jack first appeared in Star Wars: The Old Republic, a video game released by BioWare in 2011, as a PvP Ranked Gear Vendor for the smuggler. Jack's appearance and gear was changed with the release of Game Update 2.0, when the elder game gear system was overhauled. He was later removed in Game Update 5.0 on November 29, 2016, which retired the PvP and PvE gear vendors in favor of the Command system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/Carrick_Station",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Video_game",
+  "/wiki/BioWare",
+  "/wiki/2011",
+  "/wiki/November_29",
+  "/wiki/2016"
+ ]
+}

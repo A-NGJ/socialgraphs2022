@@ -1,5 +1,6 @@
 {
  "name": "Sarko",
+ "display_name": "Sarko",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Sarko was a male Human bounty hunter who tried to capture Quinlan Vos on Ord Mantell in 30 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sarko_(disambiguation)",

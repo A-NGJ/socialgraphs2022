@@ -1,0 +1,72 @@
+{
+ "name": "Tesser",
+ "display_name": "Tesser",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Sometime before 22 BBY",
+      "caves of Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "X'Ting"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Varied. Male when he died"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "X'Ting"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tesser was an X'Ting who lived before the Clone Wars. He was the broodmate and brother of Jesson Di Blinth, a member of the X'Ting Hive Council. He died in a cave while searching for the Royal X'Ting eggs. Jesson and Obi-Wan Kenobi found his body tied to a rock, presumably so that he would not fall to the carnivorous worms that inhabited the caves if he passed out.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tessera",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Shuttle",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/X%27Ting",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Hive",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Jesson_Di_Blinth",
+  "/wiki/Hive_Council",
+  "/wiki/Death/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Worm/Legends",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

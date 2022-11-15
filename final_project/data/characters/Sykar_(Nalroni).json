@@ -1,0 +1,50 @@
+{
+ "name": "Sykar_(Nalroni)",
+ "display_name": "Sykar  (Nalroni)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Celanon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nalroni"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nalroni Merchant Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sykar was a Nalroni who worked as a Nalroni Merchant Council Executive, conducting business for the Council and making sure trade went smoothly, barring unforeseen accidents.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Celanon/Legends",
+  "/wiki/Nalroni/Legends",
+  "/wiki/Nalroni_Merchant_Council",
+  "/wiki/West_End_Games",
+  "/wiki/Gone_To_Ground",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

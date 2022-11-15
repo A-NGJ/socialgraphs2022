@@ -1,0 +1,35 @@
+{
+ "name": "Engret%27s_sister",
+ "display_name": "Engret's sister",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This woman was the sister of Engret.\nIn 2 BBY, Engret's sister was a legal scholar who spoke out against the Corporate Sector Authority. Shortly after this, she dropped from sight. Her brother believed her to be one of the Authority's political prisoners. This prompted Engret to join Rekkon in his search for missing persons.\nIt was never determined that Engret's sister was one of the Authority's prisoners, as she was not mentioned again in the story.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Engret",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Rekkon",
+  "/wiki/Han_Solo_at_Stars%27_End"
+ ]
+}

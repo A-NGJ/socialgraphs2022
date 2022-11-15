@@ -1,0 +1,71 @@
+{
+ "name": "Narro_Sienar",
+ "display_name": "Narro Sienar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "38 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Santhe/Sienar Technologies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Narro Sienar was the father of Raith Sienar and CEO of Santhe/Sienar Technologies. Despite being the owner of one of the Corellian Engineering Corporation's primary competitors, Sienar helped the Corporation design the successful YT-1300 light freighter. In 38 BBY, he died when his starship was destroyed near Dantooine by a bomb planted by the Xi Char, in an attempt on his son's life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/38_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Santhe/Sienar_Technologies",
+  "/wiki/Raith_Sienar/Legends",
+  "/wiki/Chief_Executive_Officer/Legends",
+  "/wiki/Corellian_Engineering_Corporation/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Bomb/Legends",
+  "/wiki/Xi_Char/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)",
+  "/wiki/Labyrinth_of_Evil",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/Millennium_Falcon_Owner%27s_Workshop_Manual",
+  "/wiki/Kerred_Santhe_the_Second"
+ ]
+}

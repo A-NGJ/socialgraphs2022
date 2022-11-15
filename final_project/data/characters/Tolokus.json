@@ -1,0 +1,54 @@
+{
+ "name": "Tolokus",
+ "display_name": "Tolokus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tolokus was an officer of the New Republic Defense Fleet.\nIn 17 ABY, Admiral Tolokus was ostensibly the commanding officer of the Second Battle Group. When the Black Fleet Crisis required increased New Republic forces in the Koornacht Cluster, Tolokus led Task Force Bellbright and Task Force Token to assist the Fifth Battle Group in Operation Strong Hand.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/17_ABY/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Commanding_officer/Legends",
+  "/wiki/Second_Battle_Group",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/Koornacht_Cluster/Legends",
+  "/wiki/Task_Force_Bellbright",
+  "/wiki/Task_Force_Token",
+  "/wiki/New_Republic_Fifth_Fleet",
+  "/wiki/Operation_Strong_Hand",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Generet",
+ "display_name": "Generet",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -46,7 +47,7 @@
   }
  ],
  "content": "Captain Generet was a Human Imperial agent for Imperial Intelligence's Destabilization branch. He allowed his appearance to be surgically altered so that he resembled a Mon Calamari, and participated in the Calamari Project, an effort incite war between the Mon Calamari and the Quarren.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/0_ABY/Legends",

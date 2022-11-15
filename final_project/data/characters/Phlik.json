@@ -1,5 +1,6 @@
 {
  "name": "Phlik",
+ "display_name": "Phlik",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Corporal Phlik was a male Shistavanen soldier for the Rebel Alliance. In 3 ABY he was stationed at Mos Eisley on Tatooine as a recruiter.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Shistavanen/Legends",

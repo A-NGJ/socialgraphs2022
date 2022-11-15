@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Onderonian_male_1",
+ "display_name": "Unidentified Onderonian male 1",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male individual lived on Onderon during the Clone Wars during the period when King Sanjay Rash affiliated the planet with the Confederacy of Independent Systems. When the Onderon rebels struck in Iziz and destroyed the city power generator, they won this man's support.\nThe citizen also was also in attendance at the planned execution of Ramsis Dendup and Saw Gerrera.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Front_Runners",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Sanjay_Rash/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Onderon_rebels/Legends",
+  "/wiki/Iziz/Legends",
+  "/wiki/Execution_of_Ramsis_Dendup_and_Saw_Gerrera",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/The_Soft_War"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Shush",
+ "display_name": "Shush",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -55,7 +56,7 @@
   }
  ],
  "content": "Shush was a teenage Nautolan from the planet Lenahra. She lived in a barrel of water, occasionally venturing out to help the group with tasks. She usually stayed behind in the shipwreck to care for the younglings so her sensitive skin would not be exposed to sunlight.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lenahra",

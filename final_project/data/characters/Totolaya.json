@@ -1,0 +1,42 @@
+{
+ "name": "Totolaya",
+ "display_name": "Totolaya",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Doornik-319"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Totolaya was a hostage taken by the Yevetha during the attack on the Kubaz colony Doornik-319. Along with the other hostages taken during the Yevethan Purge, Totolaya was forced to record a message begging the New Republic not to fire on Yevethan ships carrying prisoners. The Yevetha played the messages during the Battle of Doornik-319, causing hesitation from the New Republic ships and forcing them to withdraw.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Doornik-319",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Yevetha",
+  "/wiki/Yevethan_Purge",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Battle_of_Doornik-319",
+  "/wiki/Shield_of_Lies",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

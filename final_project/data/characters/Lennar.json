@@ -1,5 +1,6 @@
 {
  "name": "Lennar",
+ "display_name": "Lennar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Lennar was a Human male con artist and mercenary. Mangy and scarred, Lennar considered himself to be a ladies man, but was in truth repulsive, overbearing, and incompetent.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

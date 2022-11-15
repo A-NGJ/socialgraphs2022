@@ -1,5 +1,6 @@
 {
  "name": "Sarek",
+ "display_name": "Sarek",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Moff Sarek was a Human male who served the reconstituted Sith Empire during the Cold War. His influence mainly extended over the planet Alderaan, as he was the officer tasked with the annexation of the world into the empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

@@ -1,0 +1,67 @@
+{
+ "name": "Yelto",
+ "display_name": "Yelto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "onboard Dorin's Sky"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yelto was a female Togruta who served as Captain onboard Dorin's Sky during the Second Great Galactic War between the Galactic Republic and the resurgent Sith Empire. She was part of a Republic battalion to reinforce Jedi Master Revan at the Foundry until the cruiser was attacked by White Nova. Once the ship was captured by the White Nova's tractor beam, she was killed by an Imperial strike team.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Dorin%27s_Sky",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Captain/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Foundry_(space_station)",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yelto",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Veesh",
+ "display_name": "Veesh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Umbaran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Umbaran commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Veesh was a male Umbaran commando and a veteran hovertrain crewman shortly after the conflict against the Eternal Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Umbaran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Umbaran_commando",
+  "/wiki/Hovertrain/Legends",
+  "/wiki/War_against_Zakuul",
+  "/wiki/Eternal_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Veesh",
+  "/wiki/Trading_Scars",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Hedrow",
+ "display_name": "Hedrow",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Hedrow was a Human male Sith Lord who served as a Sith Inquisitor trainer on the planet Quesh during the Galactic War between the Galactic Republic and the Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

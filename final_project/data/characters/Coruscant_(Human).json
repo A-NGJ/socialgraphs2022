@@ -1,0 +1,69 @@
+{
+ "name": "Coruscant_(Human)",
+ "display_name": "Coruscant  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ryn Network"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Coruscant was the nickname given to a tall, blond-haired Human who was held prisoner on Selvaris by the Yuuzhan Vong in 29 ABY. The nickname referred to his homeworld, as many of the prisoners were referred to by such rather than their name. Coruscant had a sabacc deck, and brought it into the grashal that served as the prisoners' mess hall in order to provide a loud and boisterous cover for a secret message that Ryn one-one-five, a member of the Ryn Network, had smuggled into the compound.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ryn_Network",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Selvaris",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/29_ABY/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Grashal",
+  "/wiki/Ryn_one-one-five",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Shar_Shar",
+ "display_name": "Shar Shar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 22 BBY",
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeetsa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "G'Mai Duris"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shar Shar was the Regent G'Mai Duris' assistant at the time of the Clone Wars. During a private meeting around 22 BBY, Shar and Duris were visited by Jedi Knight Obi-Wan Kenobi and Doolb Snoil.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Zeetsa",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/G%27Mai_Duris",
+  "/wiki/Regent/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Doolb_Snoil",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shar_Shar",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/The_Hive",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

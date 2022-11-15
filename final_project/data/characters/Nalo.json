@@ -1,5 +1,6 @@
 {
  "name": "Nalo",
+ "display_name": "Nalo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Nalo was a male Vorzydiak teacher of a learning complex of Vorzyd IV.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Vorzyd_IV",

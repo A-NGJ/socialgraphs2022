@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Imperial_officer_(Garel)",
+ "display_name": "Unidentified Imperial officer  (Garel)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Imperial officer was stationed onboard a light cruiser over Garel. He tried to stop Ketsu Onyo and Sabine Wren from escaping in a stolen shuttle, but the cruiser's tractor beam was destroyed when the shuttle, which the two women had rigged to explode, detonated near the cruiser.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_officer",
+  "/wiki/Garel",
+  "/wiki/Ketsu_Onyo",
+  "/wiki/Sabine_Wren",
+  "/wiki/Tractor_beam",
+  "/wiki/Star_Wars_Rebels",
+  "/wiki/Blood_Sisters"
+ ]
+}

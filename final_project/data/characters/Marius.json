@@ -1,5 +1,6 @@
 {
  "name": "Marius",
+ "display_name": "Marius",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Marius was a Human male who served as vizier on a technologically-inept planet to his brother, King Cleroff. He was also the uncle of Cleroff's daughter, Princess Risa.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Technology-deficient_planet",

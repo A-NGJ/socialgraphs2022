@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_Mon_Calamari_assassin",
+ "display_name": "Unidentified Mon Calamari assassin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Mon Calamari male was an assassin hired by someone to kill Sylvestri Yarrow on the planet Coruscant. After he find Syl in a luxury hotel, he shot the server droid and tried to kill her. But Syl broke his fingers with a heavy statue. He escaped from the room before the security droids arrived.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Assassin",
+  "/wiki/Death",
+  "/wiki/Sylvestri_Yarrow",
+  "/wiki/Coruscant",
+  "/wiki/Unidentified_server_droid",
+  "/wiki/Security_droid",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Mon_Calamari_assassin",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)"
+ ]
+}

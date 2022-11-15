@@ -1,0 +1,49 @@
+{
+ "name": "Joy_(spicelord)",
+ "display_name": "Joy  (spicelord)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Joy was a male spicelord living during the Galactic War. Joy and a fellow spicelord Love accompanied the information broker Krata during his exchange of information with the Twi'lek Vette.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Love",
+  "/wiki/Krata",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Vette",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Bathari",
+ "display_name": "Bathari",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Bathari was a human female resident of Black Spire Outpost on Batuu. She spoke with Anta, who worried about failing to make quotas for Oga Garra due to imports being blocked by the First Order.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

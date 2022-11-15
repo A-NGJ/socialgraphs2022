@@ -1,5 +1,6 @@
 {
  "name": "Hue",
+ "display_name": "Hue",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Hue was a male Phlog who served before the Clone Wars as the bodyguard of Jenna Zan Arbor while she was on the planet Romin.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Phlog/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Sarkh",
+ "display_name": "Sarkh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Sarkh was a Trandoshan pirate serving in the Trandoshan Pirates during the Battle of Umbara. A Jedi Knight defeated his captain, Dheeb and his peer, Grahssk at the Trandoshan Pirate's outpost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Trandoshan/Legends",

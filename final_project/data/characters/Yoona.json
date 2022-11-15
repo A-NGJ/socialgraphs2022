@@ -1,0 +1,49 @@
+{
+ "name": "Yoona",
+ "display_name": "Yoona",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yoona was a female Duros who was the wife of the Junix's Joint's bartender on Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Junix%27s_Joint",
+  "/wiki/Junix%27s_Joint_bartender",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yoona",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

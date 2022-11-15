@@ -1,0 +1,62 @@
+{
+ "name": "Gerrol_Hunn",
+ "display_name": "Gerrol Hunn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stormhawks"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gerrol Hunn was the pilot of the Stormhawks, a team sponsored by MandalMotors to race the Cloud City Grand Prix above the planet Bespin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stormhawks",
+  "/wiki/Pilot/Legends",
+  "/wiki/MandalMotors/Legends",
+  "/wiki/Cloud_City_Grand_Prix/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gerrol_Hunn",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Vadis_Krag",
+ "display_name": "Vadis Krag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vadis Krag was a male Advozse and a leader in the White Maw. During the Galactic War, Krag was present in Coldstone Canyon when every leader of the White Maw was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Galactic_War",
+  "/wiki/Coldstone_Canyon",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

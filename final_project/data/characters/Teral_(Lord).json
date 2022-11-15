@@ -1,0 +1,78 @@
+{
+ "name": "Teral_(Lord)",
+ "display_name": "Teral  (Lord)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Teral",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lord Teral was a Human male who served as head of House Teral, one of the Great Houses of Alderaan, during the Alderaan Civil War. With the aid of a Jedi Consular, he joined into an alliance with House Organa that was solidified by the marriage of his daughter Fasha to Lew Organa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_Teral",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Fasha_Teral-Organa",
+  "/wiki/Lew_Organa",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

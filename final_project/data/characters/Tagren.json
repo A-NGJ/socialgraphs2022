@@ -1,0 +1,69 @@
+{
+ "name": "Tagren",
+ "display_name": "Tagren",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dxun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "MandaloriansMandalorian Neo-CrusadersFollowers of Canderous OrdoBattle Circle",
+      "Mandalorian Neo-Crusaders",
+      "Followers of Canderous Ordo",
+      "Battle Circle"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tagren was a Mandalorian male warrior under Mandalore the Preserver on Dxun. In 3951 BBY, he was a strong Mandalorian and a great warrior, but he failed to defeat Meetra Surik in the Battle Circle within the camp even though the fight was unarmed and Surik wasn't allowed to use the Force. He wore the blue armor of the Neo-Crusaders.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dxun/Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Mandalorian_Neo-Crusaders/Legends",
+  "/wiki/Mandalorians_(Clan_Ordo)",
+  "/wiki/Battle_Circle",
+  "/wiki/Meetra_Surik",
+  "/wiki/Canderous_Ordo",
+  "/wiki/3951_BBY",
+  "/wiki/Mandalorian_Outpost_(Dxun)",
+  "/wiki/Unarmed_combat",
+  "/wiki/The_Force/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Neo-Crusader_armor",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

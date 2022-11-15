@@ -1,5 +1,6 @@
 {
  "name": "Maash",
+ "display_name": "Maash",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Maash was a male Human who took part in the assassination attempt on the person of Supreme Chancellor Palpatine in 23 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

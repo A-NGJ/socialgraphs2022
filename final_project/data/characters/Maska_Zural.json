@@ -1,0 +1,49 @@
+{
+ "name": "Maska_Zural",
+ "display_name": "Maska Zural",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Sun Mobile Regiment"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "General Maska Zural was the leader of the First Sun Mobile Regiment mercenary group.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/First_Sun_Mobile_Regiment",
+  "/wiki/General/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Maska_Zural",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Special_Military_Unit_Intelligence_Update",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

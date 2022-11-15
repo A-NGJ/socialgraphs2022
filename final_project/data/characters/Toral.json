@@ -1,0 +1,50 @@
+{
+ "name": "Toral",
+ "display_name": "Toral",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coyn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Coynite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toral was an ancient Coynite leader, at a time when the Coynite species was veering dangerously toward extinction. He was considered the strongest and most influential member of his clan. Through a series of reforms, Toral managed to unite the Coynite species under a single leader, banish the use of biological weapons, and create the En'Tra'Sol law system. These acts led to a more stabilized civilization on the planet Coyn, and paved the way for future generations to come. His son, Arl'Toral, followed closely in his footsteps, and brought peace to the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coynite/Legends",
+  "/wiki/Toral_(BFF-1_bulk_freighter)",
+  "/wiki/Coyn",
+  "/wiki/Gender/Legends",
+  "/wiki/En%27Tra%27Sol",
+  "/wiki/Planet/Legends",
+  "/wiki/Arl%27Toral",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Toral",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

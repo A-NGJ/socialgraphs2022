@@ -1,5 +1,6 @@
 {
  "name": "Duan",
+ "display_name": "Duan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Duan was a female Human officer who served Darth Malak's Sith Empire during the Jedi Civil War. In 3956 BBY, she was stationed on Manaan. During her stay, she was known to be a heavy drinker.\nDuan will only have a conversation if Revan is a male. If Revan is a woman, Duan simply tells the female Revan to back-off and leave her alone.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

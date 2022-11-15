@@ -1,0 +1,79 @@
+{
+ "name": "Lohim_Nara",
+ "display_name": "Lohim Nara",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Patchy"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Reina Bilass"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lohim Nara was a boy who lived during the High Republic Era who dreamed of joining the Jedi Order despite not being Force-sensitive. When he was fourteen years old, he traveled from Level 1312 to the Jedi Temple, where he encountered Reina Bilass and Grand Master Yoda.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Coruscant",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Jedi_Order",
+  "/wiki/Reina_Bilass",
+  "/wiki/Yoda",
+  "/wiki/Youngling",
+  "/wiki/High_Republic_Era",
+  "/wiki/Force-sensitive",
+  "/wiki/Standard_year",
+  "/wiki/Level_1312",
+  "/wiki/Imperial_Palace",
+  "/wiki/Grand_Master",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Lohim_Nara",
+  "/wiki/What_a_Jedi_Makes",
+  "/wiki/Stories_of_Jedi_and_Sith"
+ ]
+}

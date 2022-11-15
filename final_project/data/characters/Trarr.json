@@ -1,0 +1,61 @@
+{
+ "name": "Trarr",
+ "display_name": "Trarr",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Abregado-rae"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gados"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tundei"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trarr was a Gados transparisteel maker near the Old Patch in Abregado-rae Spaceport on the planet Abregado-rae in the early years of the New Republic. This Gados was talented at forgery and was often hired by the Tundei regime as a spy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Abregado-rae/Legends",
+  "/wiki/Gados",
+  "/wiki/Gender/Legends",
+  "/wiki/Tundei",
+  "/wiki/Transparisteel/Legends",
+  "/wiki/Old_Patch",
+  "/wiki/Abregado-rae_Spaceport",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trarr",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Marck_Linth",
+ "display_name": "Marck Linth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "SpecForce Infiltrators"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Marck Linth was a Human male and member of the Alliance Special Forces 5th Regiment, commonly known as SpecForce Infiltrators. Linth held the rank of colonel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Infiltrators/Legends",
+  "/wiki/Alliance_Special_Forces/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition"
+ ]
+}

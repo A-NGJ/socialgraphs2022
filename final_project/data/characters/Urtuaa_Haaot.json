@@ -1,0 +1,63 @@
+{
+ "name": "Urtuaa_Haaot",
+ "display_name": "Urtuaa Haaot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Just under 2 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urtuaa Haaot was an Ithorian Diplomat who, despite normally being rather calm, held hatred for the Galactic Empire. His hatred stemmed from the fact that Utruaa the Empire had killed his parents and sent him to a labor camp. Haaot eventually escaped from the camp when Ran Niall liberated it along with Isshtharr.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Ran_Niall",
+  "/wiki/Isshtharr",
+  "/wiki/Onslaught_at_Arda_I"
+ ]
+}

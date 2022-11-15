@@ -1,0 +1,55 @@
+{
+ "name": "Vor_Duull",
+ "display_name": "Vor Duull",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "N'zoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yevetha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Duskhan League"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vor Duull was Nil Spaar's Proctor of Information Science aboard the Aramadia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/N%27zoth",
+  "/wiki/Yevetha",
+  "/wiki/Duskhan_League",
+  "/wiki/Nil_Spaar",
+  "/wiki/Proctor_of_Information_Science",
+  "/wiki/Aramadia_(Aramadia-class)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vor_Duull",
+  "/wiki/Before_the_Storm",
+  "/wiki/Shield_of_Lies",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

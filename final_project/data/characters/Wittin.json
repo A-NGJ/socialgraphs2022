@@ -1,0 +1,73 @@
+{
+ "name": "Wittin",
+ "display_name": "Wittin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wittin was a member of Jabba the Hutt's court on Tatooine. In 4 ABY, they were present in Jabba's Palace when Luke Skywalker and Leia Organa attempted to rescue Han Solo from carbonite. Wittin was a passenger of Jabba's sail barge the Khetanna during the battle that occurred at the Great Pit of Carkoon, which resulted in the ship's destruction.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wittin",
+  "/wiki/Wittin/Legends",
+  "/wiki/Tatooine",
+  "/wiki/Jawa",
+  "/wiki/Color",
+  "/wiki/Jabba%27s_criminal_empire",
+  "/wiki/Jabba_Desilijic_Tiure",
+  "/wiki/4_ABY",
+  "/wiki/Boba_Fett%27s_Palace",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Rescue_of_Han_Solo",
+  "/wiki/Han_Solo",
+  "/wiki/Carbonite",
+  "/wiki/Sail_barge",
+  "/wiki/Khetanna",
+  "/wiki/Great_Pit_of_Carkoon",
+  "/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+  "/wiki/Star_Wars:_Geektionary:_The_Galaxy_from_A_-_Z",
+  "/wiki/Star_Wars_Encyclopedia_(De_Agostini)",
+  "/wiki/Boba_Fett_and_Other_Characters_of_the_Underworld",
+  "/wiki/Databank_(website)",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Mirrix",
+ "display_name": "Mirrix",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Mirrix was one of the wives of King Sha-Mar Ma-dred of Kashir.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashir",

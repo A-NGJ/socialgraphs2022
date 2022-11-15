@@ -1,0 +1,44 @@
+{
+ "name": "Unidentified_Ithorian_cantina_patron",
+ "display_name": "Unidentified Ithorian cantina patron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian cantina patron and his Quarren friend were approached in the cantina in Dreshdae on Korriban in 3993 BBY by Duron Qel-Droma and Shaela Nuur, who were on Korriban on a mission for the Jedi Order, looking for a terentatek. The Ithorian and Quarren agreed to provide the Jedi with information that could help them on their quest. Their payment was credits inquivalent to one kilo of spice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Unidentified_Quarren_cantina_patron",
+  "/wiki/Dreshdae",
+  "/wiki/Korriban",
+  "/wiki/3993_BBY",
+  "/wiki/Duron_Qel-Droma",
+  "/wiki/Shaela_Nuur",
+  "/wiki/Great_Hunt_(Jedi)",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Terentatek/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Spice/Legends",
+  "/wiki/Shadows_and_Light",
+  "/wiki/Star_Wars_Tales_23"
+ ]
+}

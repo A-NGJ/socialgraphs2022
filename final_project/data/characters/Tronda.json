@@ -1,0 +1,60 @@
+{
+ "name": "Tronda",
+ "display_name": "Tronda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tronda was a Twi'lek female who lived in the city of Nabat on the planet Ryloth. She told Numa's mother that she felt a storm coming in her bones. The Separatists then invaded Ryloth, and took the citizens of Nabat prisoner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Nabat/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Numa%27s_mother/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/The_Clone_Wars:_Curfew"
+ ]
+}

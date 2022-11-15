@@ -1,0 +1,50 @@
+{
+ "name": "Zilar",
+ "display_name": "Zilar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicNew Republic SenateSenate Defense Council",
+      "New Republic SenateSenate Defense Council",
+      "Senate Defense Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zilar was a Human senator of the New Republic who represented Praesitlyn and the Sluis sector during the Yevethan Purge. He was a member of the Senate Defense Council.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Senate_Defense_Council",
+  "/wiki/Senator/Legends",
+  "/wiki/Praesitlyn",
+  "/wiki/Sluis_sector/Legends",
+  "/wiki/Yevethan_Purge",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zilar",
+  "/wiki/Shield_of_Lies",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Corlissi_Ludar",
+  "/wiki/16_ABY/Legends"
+ ]
+}

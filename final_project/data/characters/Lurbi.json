@@ -1,5 +1,6 @@
 {
  "name": "Lurbi",
+ "display_name": "Lurbi",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Lurbi was a female Gotal from the moon Antar 4. Lurbi operated Lurbi's Mercantile, a cantina that was located in the Landing, a settlement situated on the planet Engebo V.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Antar_4/Legends",

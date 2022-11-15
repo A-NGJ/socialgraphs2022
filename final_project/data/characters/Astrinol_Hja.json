@@ -1,0 +1,72 @@
+{
+ "name": "Astrinol_Hja",
+ "display_name": "Astrinol Hja",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Witches of Dathomir"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Astrinol Hja was a Dathomir Witch and the leader of the Dreaming River Clan in 12 ABY. Along with the rest of her clan, Hja was imprisoned by Imperials in 11 ABY. They were later rescued by the Jedi Knights, who were sent to arrest Dal Konur.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Dathomir_Witch",
+  "/wiki/Dreaming_River_Clan",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/11_ABY/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Dal_Konur",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Astrinol_Hja",
+  "/wiki/Wizards.com",
+  "/wiki/Nightsaber",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Everything_You_Always_Wanted_to_Know_about_the_Nightsisters_but_Were_Afraid_to_Ask",
+  "/wiki/Star_Wars_Insider_122",
+  "/wiki/Holocron_continuity_database",
+  "/wiki/Leland_Chee",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Nightsisters/Legends"
+ ]
+}

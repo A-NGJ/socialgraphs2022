@@ -1,5 +1,6 @@
 {
  "name": "Serros",
+ "display_name": "Serros",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Serros was a Human male during the Clone Wars. He was captain of the Venator-class Star Destroyer Guardian, which was attacked during the war by General Grievous.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

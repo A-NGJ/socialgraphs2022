@@ -1,0 +1,84 @@
+{
+ "name": "Weeznod",
+ "display_name": "Weeznod",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Weeznod was a male Human Alderaanian Lieutenant of the House Organa during the Cold War and the civil war on Alderaan. After a Jedi holocron was stolen by House Thul agents, he requested a Republic citizen to help infiltrate the Marketplace Villa in King's Pass and retrieve the stolen holocron before House Thul could deliver it to the Sith Empire. His contact was successful in retrieving the holocron and delivered it to Master Dolso of the Jedi Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Jedi/Legends",
+  "/wiki/Holocron/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/King%27s_Pass",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Dolso",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

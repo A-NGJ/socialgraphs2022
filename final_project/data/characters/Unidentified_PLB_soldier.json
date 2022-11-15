@@ -1,0 +1,68 @@
+{
+ "name": "Unidentified_PLB_soldier",
+ "display_name": "Unidentified PLB soldier",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Eiattu 6"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "People's Liberation Battalion"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A soldier in the People's Liberation Battalion on Eiattu 6 was captured and tortured by Moff Leonia Tavira in 4 ABY. After his interrogation, the prisoner was killed by the impostor Prince Harrandatha Estillo, leader of the People's Liberation Battalion, who was secretly working with Tavira.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Eiattu_6",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Brown",
+  "/wiki/People%27s_Liberation_Battalion",
+  "/wiki/Torture/Legends",
+  "/wiki/Moff/Legends",
+  "/wiki/Leonia_Tavira",
+  "/wiki/Prison/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Harrandatha_Estillo_(impostor)",
+  "/wiki/X-Wing_Rogue_Squadron_14"
+ ]
+}

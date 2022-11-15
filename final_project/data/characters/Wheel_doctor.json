@@ -1,0 +1,68 @@
+{
+ "name": "Wheel_doctor",
+ "display_name": "Wheel doctor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Wheel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unnamed Wheel doctor tended to Luke Skywalker in The Wheel hospital in 0 ABY\nLuke Skywalker was forced into a state of deep shock during an attempt to attune himself to The Force aboard the Millennium Falcon. At this time the Millennium Falcon was forced to make an emergency landing on The Wheel to escape pursuit by Imperial forces. C-3PO and R2-D2 smuggled Luke Skywalker into The Wheel hospital, where he was tended to by an unnamed human female doctor.\nThis doctor originally thought Luke would be rejected as a patient since his records indicated he was not registered, but C-3PO and R2-D2 were able to tamper with the communications and fake an order from Master-Com to provide treatment.\nDuring this time Senator Simon Greyshade ordered the unnamed doctor to alter Luke Skywalker's treatment, setting him on an automatic regimen of drugs that would ensure he never awoke from his trance. Luke was able to overcome these drugs and, still experiencing the visions of his trance, managed to tear free from his restraints and escape. The unnamed doctor expressed shock when she discovered Luke Skywalker had vanished, believing such a feat to be impossible.\nThe unnamed Wheel doctor considered her rules and orders to be more important than the well-being of her patients. She refused to treat an unregistered patient unless ordered to do so, and showed no hesitation in poisoning a patient when ordered. She had faith in her medical talents, and did not believe someone like Luke Skywalker could overcome her drugs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Wheel/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/The_Wheel_hospital",
+  "/wiki/0_ABY/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Master-Com",
+  "/wiki/Senator/Legends",
+  "/wiki/Simon_Greyshade/Legends",
+  "/wiki/Star_Wars_(1977)_19",
+  "/wiki/Star_Wars_(1977)_20",
+  "/wiki/Star_Wars_(1977)_21"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "House_Maccon",
+ "display_name": "House Maccon",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Cato Neimoidia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House Maccon was the house which Baron Paw Maccon of Cato Neimoidia belonged to.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Neimoidian",
+  "/wiki/Cato_Neimoidia",
+  "/wiki/Baron",
+  "/wiki/Paw_Maccon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Poe_Dameron_21",
+  "/wiki/Poe_Dameron_22",
+  "/wiki/Poe_Dameron_23"
+ ]
+}

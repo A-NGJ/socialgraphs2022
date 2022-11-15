@@ -1,0 +1,48 @@
+{
+ "name": "Jojo_(holodrama_character)",
+ "display_name": "Jojo  (holodrama character)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jojo was the name of a character from the popular holodrama, Zeltrons in Love. He was a fat Devaronian bartender who was friends with Derc.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jojo",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Holodrama/Legends",
+  "/wiki/Zeltrons_in_Love",
+  "/wiki/Derc",
+  "/wiki/Wizards.com",
+  "/wiki/Zeltros:_Pleasure_Planet"
+ ]
+}

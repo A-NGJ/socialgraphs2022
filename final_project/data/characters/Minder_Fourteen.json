@@ -1,0 +1,64 @@
+{
+ "name": "Minder_Fourteen",
+ "display_name": "Minder Fourteen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Minder Fourteen was a female Human Minder within Imperial Intelligence of the Sith Empire. In 3643 BBY, when Cipher Nine returned to the Imperial Citadel after a lengthy undercover mission within the Republic Strategic Information Service, Minder Fourteen was assigned to debrief the Cipher Agent's support crew.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Minder_(Imperial_Intelligence)",
+  "/wiki/3643_BBY",
+  "/wiki/Cipher_Nine",
+  "/wiki/Imperial_Citadel_(Sith_Empire)",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Cipher_Agent",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

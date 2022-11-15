@@ -1,0 +1,75 @@
+{
+ "name": "Kirana_Ti%27s_daughter",
+ "display_name": "Kirana Ti's daughter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "c. 8 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Dathomirian was the daughter of Kirana Ti and her husband. When Kirana went to train at the Jedi Praxeum she stayed behind with her father. It is unknown whether or not if she joined the New Jedi Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/8_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Kirana_Ti",
+  "/wiki/Kirana_Ti%27s_husband",
+  "/wiki/Jedi_Praxeum",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Champions_of_the_Force",
+  "/wiki/The_Jedi_Academy_Sourcebook",
+  "/wiki/Jedi_vs._Sith:_The_Essential_Guide_to_the_Force_(real-life_book)",
+  "/wiki/Everything_You_Always_Wanted_to_Know_about_the_Nightsisters_but_Were_Afraid_to_Ask",
+  "/wiki/Star_Wars_Insider_122",
+  "/wiki/Holocron_continuity_database",
+  "/wiki/Leland_Chee",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Nightsisters/Legends"
+ ]
+}

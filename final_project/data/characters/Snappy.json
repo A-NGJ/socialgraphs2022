@@ -1,0 +1,41 @@
+{
+ "name": "Snappy",
+ "display_name": "Snappy",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Porg"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snappy was a male porg which resided on the Millennium Falcon. Named by the Weequay pirate Hondo Ohnaka, Snappy had a predictable tendency of lunging for fingers which strayed too close. When Ohnaka surrendered the Falcon to mercenary Bazine Netal, the pirate remarked that he and Snappy were still working on their relationship, and that he would not miss the porg.\nSnappy first appeared in the canon junior novel Pirate's Price, which was written by Lou Anders and published in 2019.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Porg",
+  "/wiki/Gender",
+  "/wiki/Millennium_Falcon",
+  "/wiki/Weequay",
+  "/wiki/Pirate",
+  "/wiki/Hondo_Ohnaka",
+  "/wiki/Limb",
+  "/wiki/Mercenary",
+  "/wiki/Bazine_Netal",
+  "/wiki/Pirate%27s_Price",
+  "/wiki/Lou_Anders",
+  "/wiki/2019",
+  "/wiki/Pirate%27s_Price_(audiobook)"
+ ]
+}

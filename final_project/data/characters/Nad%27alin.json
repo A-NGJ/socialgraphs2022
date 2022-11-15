@@ -1,5 +1,6 @@
 {
- "name": "Nad'alin",
+ "name": "Nad%27alin",
+ "display_name": "Nad'alin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Nad'alin was a male Human merchant who lived on Tython during the Cold War with the resurgent Sith Empire.\nA Human male, Nad'alin lived on the planet Tython where he ran a weapons-selling business located at the Jedi Order's training ground in the Tythonian Gnarls.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

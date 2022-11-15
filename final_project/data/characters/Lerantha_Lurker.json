@@ -1,0 +1,43 @@
+{
+ "name": "Lerantha_Lurker",
+ "display_name": "Lerantha Lurker",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jurgoran"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Lerantha Lurker was a legendary jurgoran that lived within the Lerantha Dam on the planet Alderaan until the Alderaan Civil War, when it was slain.\nThe Lerantha Lurker is the final boss of the bonus mission \"Pressure Points\" for Imperial players in the video game Star Wars: The Old Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Jurgoran",
+  "/wiki/Lerantha_Dam",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Death/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

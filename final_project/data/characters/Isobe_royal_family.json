@@ -1,0 +1,48 @@
+{
+ "name": "Isobe_royal_family",
+ "display_name": "Isobe royal family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sephi"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Lord Hallux"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Isobe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The planet of Isobe was ruled by a royal family. During the early rebellion against the Galactic Empire, the head of the family was Lord Hallux. Other members included his son, Captain Thelan, and his daughter, Princess Althea.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sephi",
+  "/wiki/Lord",
+  "/wiki/Hallux",
+  "/wiki/Isobe",
+  "/wiki/Planet",
+  "/wiki/Politics",
+  "/wiki/Early_rebellion_against_the_Galactic_Empire",
+  "/wiki/Galactic_Empire",
+  "/wiki/Captain",
+  "/wiki/Thelan",
+  "/wiki/Prince",
+  "/wiki/Althea",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Never_Far_Behind"
+ ]
+}

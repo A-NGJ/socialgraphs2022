@@ -1,5 +1,6 @@
 {
  "name": "Cromf",
+ "display_name": "Cromf",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Cromf was a male Garoos bounty hunter working for Mazzic to find the Devaronian Lak Jit. He was successful in his hunt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Garoos",

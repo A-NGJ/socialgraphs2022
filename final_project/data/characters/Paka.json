@@ -1,5 +1,6 @@
 {
  "name": "Paka",
+ "display_name": "Paka",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Paka was a Kyuzo male pirate who lived during the First Order-Resistance War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Kyuzo",

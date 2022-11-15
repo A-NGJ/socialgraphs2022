@@ -1,0 +1,66 @@
+{
+ "name": "Radd_Hardwikk",
+ "display_name": "Radd Hardwikk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clantaani"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Longo Two-Guns's gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Radd Hardwikk was a male Clantaani who belonged to a gang of criminals in Mos Espa led by Longo Two-Guns. He was wanted by Mos Eisley security forces for inciting a riot in the crowds of a podrace by handling and exploding chubas. He was also suspected of other crimes such as illegal distribution of contraband and communication tools. His bounty was claimed by Jango Fett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Clantaani",
+  "/wiki/Gender/Legends",
+  "/wiki/Longo_Two-Guns%27s_gang",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Longo_Two-Guns",
+  "/wiki/Mos_Eisley",
+  "/wiki/Podracing/Legends",
+  "/wiki/Gorg/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/StarWars.com",
+  "/wiki/So_Uncivilized:_Great_Gunslingers_in_Star_Wars"
+ ]
+}

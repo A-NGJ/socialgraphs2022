@@ -1,0 +1,63 @@
+{
+ "name": "Xev",
+ "display_name": "Xev",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Houk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xev was a Houk Mandalorian mercenary who was part of Grud's crew. The group was hired by the Sith Empire to hunt Jedi during the Battle of Corellia but had failed complete it after being ambushed by the Green Jedi. Eventually Grud hired a Imperial spacer to track down and kill the Jedi while Xev himself was sent to keep an eye on the spacer to ensure the job was completed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Houk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Grud",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Corellian_Jedi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Xev",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

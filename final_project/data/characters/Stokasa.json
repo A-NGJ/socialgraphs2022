@@ -1,0 +1,37 @@
+{
+ "name": "Stokasa",
+ "display_name": "Stokasa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stokasa was a male Klatooinian slave gladiator who fought in the arena on the Hollow Moon. He was able to convince Chewbacca to lead the revolt of the slaves, who, thanks to the timely assistance of Han Solo, were able to steal ship and escape the Hollow Moon for the chance of better life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Klatooinian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Gladiator/Legends",
+  "/wiki/Hollow_Moon",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Stokasa",
+  "/wiki/Star_Wars_Adventures:_Han_Solo_and_the_Hollow_Moon_of_Khorya"
+ ]
+}

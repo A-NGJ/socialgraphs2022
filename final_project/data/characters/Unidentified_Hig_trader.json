@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Hig_trader",
+ "display_name": "Unidentified Hig trader",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hig"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Diversity Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This trader was a female Hig, a slender blue-skinned species. She owned an automated ore hauler which, in 24 ABY, she donated to the Diversity Alliance, a pro-alien, anti-Human organization. While she occasionally piloted the ship herself, she preferred to let the autopilot control most cargo runs, instead spending her time relaxing in a cantina on a backwater planet.\nHer ore hauler was used by four members of the Jedi Praxeum on Yavin 4 to infiltrate the Diversity Alliance operations on the planet Ryloth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hig",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Diversity_Alliance",
+  "/wiki/Species/Legends",
+  "/wiki/Ore/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/24_ABY/Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi_Praxeum",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Young_Jedi_Knights:_Jedi_Bounty",
+  "/wiki/Star_Wars_Encyclopedia"
+ ]
+}

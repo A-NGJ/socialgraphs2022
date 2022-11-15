@@ -1,0 +1,27 @@
+{
+ "name": "Gandish_family",
+ "display_name": "Gandish family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Gandish family possessed a major shipping company. Phylo Gandish was a member of this family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Phylo_Gandish",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Coruscant_Limited"
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "name": "Gunner_(clone_trooper)",
+ "display_name": "Gunner  (clone trooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gunner participated in the Battle of Bogoa and the Battle of Zeenada under command of Commander Cody and, on Zeenada, of Ahsoka Tano.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/CT-7567/Legends",
+  "/wiki/Sarge_(clone_trooper)",
+  "/wiki/Battle_of_Bogoa",
+  "/wiki/Battle_of_Zeenada",
+  "/wiki/Clone_trooper_commander",
+  "/wiki/CC-2224/Legends",
+  "/wiki/Zeenada",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gunner_(clone_trooper)",
+  "/wiki/The_Only_Good_Clanker",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.26",
+  "/wiki/Night_Moves!",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.27"
+ ]
+}

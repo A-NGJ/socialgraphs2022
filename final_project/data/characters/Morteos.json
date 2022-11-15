@@ -1,5 +1,6 @@
 {
  "name": "Morteos",
+ "display_name": "Morteos",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Morteos was an assassin who killed the New Republic General Crix Masst on the planet Sinded. The assassination was carried out by way of Morteos wiring a bomb into the repulsorlift generator of the general's personal airspeeder, so that it would detonate when the craft was engaged in flight.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nar_Bo_Sholla",

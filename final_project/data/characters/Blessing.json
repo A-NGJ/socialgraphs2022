@@ -1,5 +1,6 @@
 {
  "name": "Blessing",
+ "display_name": "Blessing",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Blessing was one of the two daughters of Hunter and Alpha, two Force-sensitive clones produced on a frozen moon in the Unknown Regions. She, along with her sister, Grace, and nearly all of the other clones save for Soldier, had begun suffering an illness once they left the moon for Mother. Blessing succumbed to the sickness on Fhost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Frozen_moon",

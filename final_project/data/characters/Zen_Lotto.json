@@ -1,0 +1,44 @@
+{
+ "name": "Zen_Lotto",
+ "display_name": "Zen Lotto",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Toydarian Zen Lotto was the chairman of the largest Grav-ball federation. He judged some of the most massive matches personally on the energy fields of some of the most famous Nubian Grav-ball arenas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zen",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Grav-ball/Legends",
+  "/wiki/Nubian",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_46",
+  "/wiki/Republic_Commando:_True_Colors",
+  "/wiki/X-Wing_Rogue_Squadron_25",
+  "/wiki/I,_Jedi",
+  "/wiki/Coruscant_and_the_Core_Worlds",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_19",
+  "/wiki/The_Official_Star_Wars_Fact_File_103",
+  "/wiki/StarWars.com",
+  "/wiki/Sports_in_the_Star_Wars_Galaxy"
+ ]
+}

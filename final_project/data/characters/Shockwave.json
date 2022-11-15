@@ -1,5 +1,6 @@
 {
  "name": "Shockwave",
+ "display_name": "Shockwave",
  "side_bars": [
   {
    "name": "Physical description",
@@ -27,7 +28,7 @@
   }
  ],
  "content": "\"Shockwave\" was the nickname of a TIE pilot who flew as Theta Twenty-Two in the Galactic Empire's Theta Squadron.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Shockwave_(disambiguation)",

@@ -1,0 +1,49 @@
+{
+ "name": "Yamin_Gilla",
+ "display_name": "Yamin Gilla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sentient Beings Opposing Violence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yamin Gilla was a male Human, who lived during the waning years of the Galactic Republic.\nGilla was the lead representative of an organization known as the Sentient Beings Opposing Violence. During the Clone Wars, the SBOV held a peace conference in the Cularin system, which was attacked by the Dark Jedi Raik Muun. The Heroes of Cularin were able to defeat Muun and afterward, Gilla thanked them for their efforts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sentient_Beings_Opposing_Violence",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Raik_Muun",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Force_Convention"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Tomota",
+ "display_name": "Tomota",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Run Scoundrels"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tomota was a male Bith who was a member of the Corellian Run Scoundrels, a pirate gang. Tomota was the second in command of Kai Zykken, the leader of the Rishi chapter of the Scoundrels.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Corellian_Run_Scoundrels",
+  "/wiki/Pirate/Legends",
+  "/wiki/Kai_Zykken",
+  "/wiki/Rishi/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

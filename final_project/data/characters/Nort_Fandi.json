@@ -1,0 +1,63 @@
+{
+ "name": "Nort_Fandi",
+ "display_name": "Nort Fandi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Tall"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Balding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "BioCruiser"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nort Fandi was a shuttle pilot who lived onboard the BioCruiser. A tall, balding Human, he transported Jedi Obi-Wan Kenobi and Anakin Skywalker from the planet Hilo to the Biocruiser so that they could investigate it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/BioCruiser",
+  "/wiki/Jedi/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Hilo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nort_Fandi",
+  "/wiki/Jedi_Apprentice_Special_Edition:_Deceptions",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

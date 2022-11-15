@@ -1,0 +1,53 @@
+{
+ "name": "Slorda",
+ "display_name": "Slorda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Senate",
+      "Imperial Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slorda was a human male who served as a Senator in the Imperial Senate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Andor",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Senate",
+  "/wiki/Senator",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slorda",
+  "/wiki/Andor_(television_series)",
+  "/wiki/Narkina_5_(episode)"
+ ]
+}

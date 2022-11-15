@@ -1,5 +1,6 @@
 {
  "name": "Eldo",
+ "display_name": "Eldo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Eldo was a Zabrak male Major of the Galactic Republic stationed at the Farnel Outpost on Balmorra during the Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Zabrak/Legends",

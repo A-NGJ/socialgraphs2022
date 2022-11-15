@@ -1,0 +1,57 @@
+{
+ "name": "Valek",
+ "display_name": "Valek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lumiya's fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valek was the captain of the Imperial Nebulon-B escort frigate Revenant during an attack on Communications Research Station Epsilon Nine in the Cron Drift in 4 ABY. Though Captain Valek commanded the vessel he served under the command of Lumiya, who was working in the name of Imperial Intelligence. The Revenant was only one part of Lumiya's fleet. Valek quickly deferred to Lumiya when she gave orders.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lumiya%27s_fleet",
+  "/wiki/Ensign/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Revenant_(EF76_Nebulon-B_escort_frigate)",
+  "/wiki/Assault_on_Epsilon_Nine",
+  "/wiki/Communications_Research_Station",
+  "/wiki/Epsilon_Nine",
+  "/wiki/Cron_Drift/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Lumiya",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Lumiya:_Dark_Star_of_the_Empire",
+  "/wiki/Star_Wars_Galaxy_Magazine_3"
+ ]
+}

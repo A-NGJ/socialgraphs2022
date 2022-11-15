@@ -1,5 +1,6 @@
 {
  "name": "Pertarn",
+ "display_name": "Pertarn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Colonel Pertarn was an Alliance officer commanding Rendezvous Point 4 on the planet Edan II. Pertarn masterminded the destruction of the Imperial-class Star Destroyer Havoc.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

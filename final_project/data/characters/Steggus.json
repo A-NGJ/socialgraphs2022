@@ -1,0 +1,60 @@
+{
+ "name": "Steggus",
+ "display_name": "Steggus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Targonn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Targonnian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Craw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Steggus was a male Targonnian who held the rank of Captain.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Targonn/Legends",
+  "/wiki/Targonnian",
+  "/wiki/Gender/Legends",
+  "/wiki/Craw",
+  "/wiki/Captain/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Steggus",
+  "/wiki/Droids_(1995)_5",
+  "/wiki/Droids_(1995)_6",
+  "/wiki/Droids_(1995)_7"
+ ]
+}

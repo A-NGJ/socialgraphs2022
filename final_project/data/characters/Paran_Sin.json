@@ -1,0 +1,71 @@
+{
+ "name": "Paran_Sin",
+ "display_name": "Paran Sin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Olive"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Organa",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Paran \"The Needle\" Sin was a Mirialan female soldier in the military forces of House Organa during the Alderaan Civil War. She was stationed in the Glarus Valley as part of the Organa forces protecting the Panteer Refuge and besieging the Ulgo-held Castle Panteer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Glarus_Valley",
+  "/wiki/Panteer_Refuge",
+  "/wiki/House_Ulgo",
+  "/wiki/Castle_Panteer",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Alderaan/Legends"
+ ]
+}

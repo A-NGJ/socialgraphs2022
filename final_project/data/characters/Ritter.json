@@ -1,5 +1,6 @@
 {
  "name": "Ritter",
+ "display_name": "Ritter",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Ritter was a male Human sergeant of the reconstituted Sith Empire. During the Galactic War he was stationed at the Dorn Base on Hoth.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

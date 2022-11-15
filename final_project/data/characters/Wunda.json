@@ -1,0 +1,87 @@
+{
+ "name": "Wunda",
+ "display_name": "Wunda",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "3.7 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thirsty Bantha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wunda was a Hutt who resided and owned several businesses in Mos Entha on Tatooine around the time of the Galactic Empire. During the Galactic Civil War, Wunda visited the Thirsty Bantha, a cantina owned by the Besalisk Robb. While at the cantina, Wunda unknowingly helped the bartender avoid the Devaronian loan shark Varak'Cha who, in turn, owed the Hutt a large amount of credits.\nWunda the Hutt was known for frequenting cantinas, and demanding a seemingly endless stream of foods and drinks. Wunda had little patience and a short temper, throwing fits of rage when not pleased. He possessed a customized hoversled designed to fit through the narrow corridors of traditional cantinas. Wunda was often escorted by his Gamorrean bodyguards. Mogrugg, one of Wunda's many guards, loyally served the Hutt for years.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Orange",
+  "/wiki/Thirsty_Bantha",
+  "/wiki/Mos_Entha/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Besalisk/Legends",
+  "/wiki/Robb",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Varak%27Cha",
+  "/wiki/Hoversled/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Mogrugg",
+  "/wiki/Star_Wars:_Cantina"
+ ]
+}

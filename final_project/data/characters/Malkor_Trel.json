@@ -1,0 +1,69 @@
+{
+ "name": "Malkor_Trel",
+ "display_name": "Malkor Trel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Malkor Trel was a male Human who served the Alliance to Restore the Republic during the time of the Galactic Civil War.\nMalkor Trel worked for the Rebel Alliance as a spy and at some point prior to the Battle of Hoth in 3 ABY, he infiltrated the crew of the Super Star Destroyer Executor. He obtained a position working in the ship's droid pool as a droid technician, and obtained data for the Alliance regarding the deployment of the Imperial Fleet. However, in 3 ABY Lieutenant Tanith Sorn, one of the Executors bridge officers, discovered evidence that Trel was working for the Alliance, so Trel reprogrammed four ASP-7 labor droids to murder Sorn.\nDarth Vader assembled a team of Executor crew members to investigate Sorn's death and during their investigations, they interviewed Trel, whom they considered to be a suspect. Shortly afterwards, the Alliance Class 720 freighter Onderian Raptor arrived on the Executor, to attempt to extract Trel. However, the freighter's crew were neutralized and the ship impounded. Trel made his was to the ship and secretly deactivated the tractor beam systems in the hangar in which it was located, hoping to make his escape from the Executor. However, the team investigating Sorn's death realized Trel's plan and confronted him aboard the freighter. He explained to them that he was forced to kill Sorn because of his mission, and offered to take the team with him, so that they could join the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Super_Star_Destroyer/Legends",
+  "/wiki/Executor/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Tanith_Sorn",
+  "/wiki/Bridge_(starship)/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/ASP-7_labor_droid",
+  "/wiki/Death/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Class_720_freighter",
+  "/wiki/Onderian_Raptor",
+  "/wiki/Freighter/Legends",
+  "/wiki/Tractor_beam/Legends",
+  "/wiki/Murder_on_the_Executor"
+ ]
+}

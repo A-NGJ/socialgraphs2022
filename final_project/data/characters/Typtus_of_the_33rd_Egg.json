@@ -1,0 +1,59 @@
+{
+ "name": "Typtus_of_the_33rd_Egg",
+ "display_name": "Typtus of the 33rd Egg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Geonosis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gehenbar hive"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Typtus of the 33rd Egg was a Geonosian aristocrat of the Gehenbar hive. Named after the famed Gehenbar leader Typtus the First, he aimed to bring back the glory of his namesake. As his name suggested, he was born from the 33rd egg in his crèche, considered to be a lucky number by Geonosians.\nTyptus planned to assault Gehenbar's rival, the Stalgasin hive, and demolish its spire's foundations.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Geonosis/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gehenbar_hive/Legends",
+  "/wiki/Typtus_the_First",
+  "/wiki/Stalgasin_hive/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Typtus_of_the_33rd_Egg",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

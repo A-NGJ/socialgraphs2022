@@ -1,0 +1,46 @@
+{
+ "name": "Valda",
+ "display_name": "Valda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valda was a male Human colonel of the Sith Empire. During the Galactic War he was posted on Taris, where he asked an Imperial to find and capture personnel of a destroyed Republic cruiser who had made it planetside in the escape pods.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Human/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Taris/Legends",
+  "/wiki/Escape_pod/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

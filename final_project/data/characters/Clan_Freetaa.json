@@ -1,0 +1,48 @@
+{
+ "name": "Clan_Freetaa",
+ "display_name": "Clan Freetaa",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clan Freetaa or House Freetaa was a famous Twi'lek family on Ryloth. Among its members was the late Senator Orn Free Taa, during the waning days of the Galactic Republic. \"Freetaa\" meant \"brave\" in Twi'leki.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Orn_Free_Taa/Legends",
+  "/wiki/Twi%27leki/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

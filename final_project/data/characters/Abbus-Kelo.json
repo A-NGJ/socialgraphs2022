@@ -1,5 +1,6 @@
 {
  "name": "Abbus-Kelo",
+ "display_name": "Abbus-Kelo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Abbus-Kelo was a Human male who lived on the moon of Nar Shaddaa, working as a stimulant vendor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

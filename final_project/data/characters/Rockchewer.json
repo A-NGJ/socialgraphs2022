@@ -1,5 +1,6 @@
 {
  "name": "Rockchewer",
+ "display_name": "Rockchewer",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Rockchewer was a Mantellian Savrip living on Ord Mantell. It was killed by the team assaulting the laboratory of Doctor Sannus Lorrick.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ord_Mantell/Legends",

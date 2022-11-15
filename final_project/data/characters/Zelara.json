@@ -1,0 +1,51 @@
+{
+ "name": "Zelara",
+ "display_name": "Zelara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ishi Tib"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lizil"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zelara was a female Ishi Tib who along with her companion Lyari was at the Lizil nest in 35 ABY. They became attracted to Luke Skywalker as part of a botched attempt on his part to use Force persuasion on them, resulting in an uncomfortable situation for the Jedi Master.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ishi_Tib/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lizil_(Hive)",
+  "/wiki/Dark_Nest_I:_The_Joiner_King",
+  "/wiki/Lyari",
+  "/wiki/Lizil",
+  "/wiki/35_ABY/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Mind_trick/Legends#Force_persuasion",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zelara"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_technician",
+ "display_name": "Unidentified technician",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A technician was stationed in the Imperial Garrison on Moog Mot VI in 1 BBY. He was working in the laboratory where Sollima's accounting droid was located when Han Solo and Billal Batross, disguised as Imperial Officers, infiltrated it in order to retrieve the droid. The technician asked them the clearance code, but was punched by Han Solo and was incapacitated, allowing two scoundrels to retrieve the droid. Both however, did not escape the Garrison and were soon detained by a squad of stormtroopers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Moog_Mot_VI_Imperial_garrison",
+  "/wiki/Moog_Mot_VI",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Sollima%27s_accounting_droid",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Billal_Batross",
+  "/wiki/Squad/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Star_Wars_Adventures:_Han_Solo_and_the_Hollow_Moon_of_Khorya"
+ ]
+}

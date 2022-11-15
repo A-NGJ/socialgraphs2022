@@ -1,0 +1,69 @@
+{
+ "name": "Warb",
+ "display_name": "Warb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Associate of Shug Ninx"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Warb was an ambidexterious Corellian hyperdrive mechanic. He worked for Shug Ninx in a repair shop in the Corellian Sector of Nar Shaddaa.\nIn the Star Wars Trilogy Sourcebook, Special Edition, Warb is misidentified as Warb Null in Greedo's entry.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Warb_Null",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shug_Ninx",
+  "/wiki/Corellian/Legends",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Corellian_Sector_(Nar_Shaddaa)/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Warb",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition",
+  "/wiki/Greedo/Legends",
+  "/wiki/A_Hunter%27s_Fate:_Greedo%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/A_Hunter%27s_Fate:_Greedo%27s_Tale_(webstrip)",
+  "/wiki/Dark_Empire_II_2",
+  "/wiki/The_Essential_Guide_to_Characters",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Ryn",
+ "display_name": "Unidentified Ryn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ryn"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ryn Network"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Ryn member of the Ryn Network aided Han Solo, Leia Organa Solo, Tahiri Veila, and several of their friends on Galantos in 28 ABY. He later reported to Droma, the leader of the network, giving positive feedback about Veila.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryn/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ryn_Network",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Galantos",
+  "/wiki/28_ABY/Legends",
+  "/wiki/Droma",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ryn",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_I:_Remnant",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_Rodians_(Purge)",
+ "display_name": "Unidentified Rodians  (Purge)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY",
+      "Purge"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "These Rodians were prisoners on board the Imperial prison barge Purge around 1 BBY. Their cell was adjacent to that of Kale Longo and Trig Longo and would usually stare at the two teenage prisoners. When the Purge broke down and a search party was forced to collect parts from an abandoned Star Destroyer, the Blackwing virus spread throughout the purge and killed all but a handful of survivors. The two Rodians caught the plague and died from it, only to rise once more as zombies.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Purge_(prison_barge)",
+  "/wiki/Rodian/Legends",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Imperial_prison_barge",
+  "/wiki/Kale_Longo",
+  "/wiki/Trig_Longo",
+  "/wiki/Vector_(Star_Destroyer)",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Imperial_bioweapons_Project_I71A",
+  "/wiki/Zombie/Legends",
+  "/wiki/Death_Troopers",
+  "/wiki/Death_Troopers_(audiobook)"
+ ]
+}

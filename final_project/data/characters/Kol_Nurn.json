@@ -1,0 +1,53 @@
+{
+ "name": "Kol_Nurn",
+ "display_name": "Kol Nurn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kol Nurn was an Advozse and patron of Chalmun's Spaceport Cantina in 0 ABY, during the Imperial mandated curfew. He sat near a Tintinna, Rungs.\nThis Advozse was previously unidentified until the Star Wars Blog article, The Star Wars Holiday Special Cantina: Who's Who identified both him and his companion, the Tintinna, Rungs. The author of the article speculated that this Advozse actually looked similar to Bom Vimdin, but Vimdin had already been identified as a different Advozse in the cantina, necessitating a different name for this character.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kol",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chalmun%27s_Spaceport_Cantina/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Tintinna",
+  "/wiki/Rungs",
+  "/wiki/Star_Wars_Blog",
+  "/wiki/The_Star_Wars_Holiday_Special_Cantina:_Who%27s_Who",
+  "/wiki/Bom_Vimdin/Legends",
+  "/wiki/The_Star_Wars_Holiday_Special",
+  "/wiki/StarWars.com"
+ ]
+}

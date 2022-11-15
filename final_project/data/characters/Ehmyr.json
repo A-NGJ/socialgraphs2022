@@ -1,5 +1,6 @@
 {
  "name": "Ehmyr",
+ "display_name": "Ehmyr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Ehmyr was as a Human male Jedi Master who served as a Jedi Consular and combat instructor on Onderon during the third Galactic War .",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Special:Upload",

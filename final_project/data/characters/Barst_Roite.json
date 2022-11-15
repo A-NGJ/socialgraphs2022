@@ -1,0 +1,62 @@
+{
+ "name": "Barst_Roite",
+ "display_name": "Barst Roite",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thyferran Home Defense Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Barst Roite was a Human male who served as a major for the Thyferran Home Defense Corps. Roite handled the day-to-day operations of the Defense Corps, despite Aerin Dlarit, a high ranking member of the Xucphra Corporation, being assigned as the general of the Corps.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thyferran_Home_Defense_Corps",
+  "/wiki/Major/Legends",
+  "/wiki/Aerin_Dlarit",
+  "/wiki/Xucphra_Corporation",
+  "/wiki/General/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Barst_Roite",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

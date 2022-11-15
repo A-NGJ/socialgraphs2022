@@ -1,0 +1,58 @@
+{
+ "name": "Uopled",
+ "display_name": "Uopled",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uopled was a male Rodian black marketeer.\nHaving initially attempted a bounty hunting career, Uopled began working for a black marketeer. He discovered he was naturally talented at this line of work, excelling in negotiations, and soon made a fortune dealing in stolen goods. He then bought Petabys Station very cheaply and transformed it into one of the most successful Invisible Markets during the reign of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Invisible_Market",
+  "/wiki/Petabys_Station",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Hideouts_%26_Strongholds"
+ ]
+}

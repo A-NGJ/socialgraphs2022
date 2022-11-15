@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Besalisk",
+ "display_name": "Unidentified Besalisk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Besalisk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Besalisk male killed Tsuulo's parents.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Besalisk",
+  "/wiki/Gender",
+  "/wiki/Death",
+  "/wiki/Tsuulo",
+  "/wiki/Parent",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Besalisk",
+  "/wiki/Most_Wanted",
+  "/wiki/Most_Wanted_(audiobook)"
+ ]
+}

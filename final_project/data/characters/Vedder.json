@@ -1,0 +1,49 @@
+{
+ "name": "Vedder",
+ "display_name": "Vedder",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vedder was an Imperial Army major stationed on the planet Rhamalai during the Galactic Civil War. When General Yrros noticed that Denel Moonrunner looked familiar, and determined that his father was a former Imperial major named Corvus Langlier, he told Vedder to have Denel brought to his office. Vedder responded that Denel was on assignment, however, and since Denel was still a conscript, Yrros said he could not be allowed to leave the base, and had to be located immediately.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/The_Occupation_of_Rhamalai",
+  "/wiki/Major/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rhamalai",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Naem_Yrros",
+  "/wiki/Denel_Moonrunner",
+  "/wiki/Lorn_Moonrunner",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

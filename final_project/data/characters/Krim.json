@@ -1,5 +1,6 @@
 {
  "name": "Krim",
+ "display_name": "Krim",
  "side_bars": [
   {
    "name": "Familial information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Krim was a family of Pykes affiliated with the Pyke Syndicate. Marg Krim was a powerful member within the organization.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Pyke",

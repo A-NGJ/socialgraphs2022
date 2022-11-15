@@ -1,0 +1,37 @@
+{
+ "name": "Sinjir_Rath_Velus%27s_mother",
+ "display_name": "Sinjir Rath Velus's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of Sinjir Rath Velus was a female human.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Sinjir_Rath_Velus",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sinjir_Rath_Velus%27s_mother",
+  "/wiki/Aftermath_(novel)",
+  "/wiki/Aftermath_(audiobook)",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

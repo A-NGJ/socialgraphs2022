@@ -1,0 +1,71 @@
+{
+ "name": "Del_Hunter",
+ "display_name": "Del Hunter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kabaira"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "51 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Del Hunter was a Human male businessman from Kabaira. He worked for Delgas Medical but eventually joined the Rebellion against the Empire. His son, Chaz was also a Rebel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kabaira",
+  "/wiki/51_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Delgas_Medical",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Chaz_Hunter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Del_Hunter",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Passages",
+  "/wiki/Star_Wars_Adventure_Journal_7",
+  "/wiki/3_BBY/Legends",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

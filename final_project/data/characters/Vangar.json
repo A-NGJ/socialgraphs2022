@@ -1,0 +1,43 @@
+{
+ "name": "Vangar",
+ "display_name": "Vangar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Barabel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vangar was a Barabel pirate lord in the sector that contained the planet Prexiar where his base was located.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Barabel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Sector/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Prexiar",
+  "/wiki/Star_Wars:_The_Roleplaying_Game,_Second_Edition,_Revised_and_Expanded",
+  "/wiki/Pirates_%26_Privateers",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

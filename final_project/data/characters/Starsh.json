@@ -1,0 +1,53 @@
+{
+ "name": "Starsh",
+ "display_name": "Starsh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Starsh was a Chiss Ascendancy ensign during the Galactic War between the Galactic Republic and the Sith Empire. Starsh sent a transmission to the Chiss Aristocra Saganu of House Miurani, who was stationed, along with a portion of the Chiss Expansionary Defense Force, at Zero Station on the planet Hoth in 3642 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Starsh",
+  "/wiki/Chiss/Legends",
+  "/wiki/Chiss_Ascendancy/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Ensign/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Aristocra/Legends",
+  "/wiki/Saganu",
+  "/wiki/House_Miurani",
+  "/wiki/Chiss_Expansionary_Defense_Force",
+  "/wiki/Zero_Station",
+  "/wiki/Planet/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Starsh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

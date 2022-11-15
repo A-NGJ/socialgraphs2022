@@ -1,0 +1,50 @@
+{
+ "name": "Star%27s_Delight_pilot",
+ "display_name": "Star's Delight pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Sullustan female served as pilot of the Gymsnor-3 light freighter Star's Delight under Captain Lai Nootka. When the Star's Delight was impounded by Imperial authorities while delivering X-wing parts and proton torpedoes to Garqi, the Sullustan was taken prisoner along with the rest of the crew. They were rescued by a group of students led by Dynba Tesc in a plan devised by former Corellian Security Force officer Corran Horn, and escaped the planet aboard the Star's Delight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Gymsnor-3_light_freighter",
+  "/wiki/Star%27s_Delight",
+  "/wiki/Captain/Legends",
+  "/wiki/Lai_Nootka",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/T-65_X-wing_starfighter/Legends",
+  "/wiki/Proton_torpedo/Legends",
+  "/wiki/Garqi/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Great_Evacuation",
+  "/wiki/Dynba_Tesc",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Corran_Horn",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Missed_Chance",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

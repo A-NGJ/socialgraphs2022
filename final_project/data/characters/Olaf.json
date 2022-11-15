@@ -1,5 +1,6 @@
 {
  "name": "Olaf",
+ "display_name": "Olaf",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Olaf was a Human moisture farmer who resided in Mos Entha on Tatooine, around the time of the Galactic Empire. He was a patron of the Thirsty Bantha cantina.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Special:Upload",

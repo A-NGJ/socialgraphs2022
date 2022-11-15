@@ -1,0 +1,69 @@
+{
+ "name": "Tolik_Yar",
+ "display_name": "Tolik Yar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Oolidi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Oolid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Senate",
+      "Council on Security and Intelligence",
+      "Council on Security and Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tolik Yar was a male Oolid Senator who represented the planet of Oolidi, his homeworld, in the New Republic Senate during the Black Fleet Crisis. In 16 ABY, he served as a member of the Council on Security and Intelligence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Oolidi",
+  "/wiki/Oolid",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Council_on_Security_and_Intelligence",
+  "/wiki/Senator/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tolik_Yar",
+  "/wiki/Before_the_Storm",
+  "/wiki/Shield_of_Lies",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

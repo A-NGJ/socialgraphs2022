@@ -1,0 +1,74 @@
+{
+ "name": "Zeb_Maddaan",
+ "display_name": "Zeb Maddaan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Oovo IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Helmet Squad",
+      "Republic Correctional Officers' Union"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zeb Maddaan was a male Human member of the Republic Correctional Officers' Union in the years before the Uprising on Naboo. In 32 BBY, he was arrested and sent to the Oovo IV's prison for stealing large cash holdings from some of InterGalactic Banking Clan's less respectable but equally important clients. However, the Banking Clan had also placed a bounty on Maddaan's head, and he was killed by bounty hunter Jango Fett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Oovo_IV/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Helmet_Squad",
+  "/wiki/Uprising_on_Naboo",
+  "/wiki/Desolation_Alley",
+  "/wiki/InterGalactic_Banking_Clan/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

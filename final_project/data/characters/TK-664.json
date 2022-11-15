@@ -1,0 +1,64 @@
+{
+ "name": "TK-664",
+ "display_name": "TK-664",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY",
+      "Cairn Installation"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-664 was a stormtrooper during the time of the New Republic. He was stationed at the Cairn Installation and was killed by Kyle Katarn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Cairn_Installation",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Star_Wars:_Jedi_Knight_II:_Jedi_Outcast"
+ ]
+}

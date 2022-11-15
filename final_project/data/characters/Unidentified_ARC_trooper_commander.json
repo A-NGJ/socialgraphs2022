@@ -1,0 +1,85 @@
+{
+ "name": "Unidentified_ARC_trooper_commander",
+ "display_name": "Unidentified ARC trooper commander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic",
+      "Grand Army of the Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This ARC Trooper commander was present on Hurd Coyle's ship near the end of the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender",
+  "/wiki/Color/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Advanced_Recon_Commando/Legends",
+  "/wiki/Hurd_Coyle%27s_ship",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_ARC_trooper_commander",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(comics)",
+  "/wiki/Salvaged",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_Volume_9"
+ ]
+}

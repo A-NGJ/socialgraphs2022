@@ -1,0 +1,78 @@
+{
+ "name": "Trilag",
+ "display_name": "Trilag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "aboard the Star Chamber"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mecrosa Order",
+      "Star Cabal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sir Trilag was a Human male who was one of the leaders of the Mecrosa Order of assassins, and under the codename \"the Creeper\" he was a member of the Star Cabal during the Galactic War. Trilag fell in battle aboard the Star Chamber when Cipher Nine, an agent of the reconstituted Sith Empire, infiltrated the space station and wiped out the inner circle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Star_Chamber_(space_station)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mecrosa_Order",
+  "/wiki/Star_Cabal",
+  "/wiki/Assassin/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Cipher_Nine",
+  "/wiki/Agent/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Space_station/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

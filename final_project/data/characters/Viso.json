@@ -1,0 +1,83 @@
+{
+ "name": "Viso",
+ "display_name": "Viso",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gala"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Galacian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Milky blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Queen Veda"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viso was a Galacian male Council Minister who had served at the heels of King Cana and Queen Veda. As time went on, he became blind, but knew his way around the palace and usually passed the royal gardens. He was also aware of Cana's secret past just before the King died.\nOn the day of the gubernatorial election in 44 BBY, Visa revealed everything to Cana's son, Prince Beju, after the old Galacian put a stop to a duel between the Prince and Jedi Padawan Obi-Wan Kenobi. He had Beju tested before the Mark of the Crown and it turned out negative, just as he knew it would. Beju's half-sister, Elan, was the true heir to the throne.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Viso",
+  "/wiki/Gala",
+  "/wiki/Galacian",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Veda_(Galacian)",
+  "/wiki/King/Legends",
+  "/wiki/Cana",
+  "/wiki/Galacian_Gubernatorial_election,_44_BBY",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Beju",
+  "/wiki/Duel_on_Gala",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Mark_of_the_Crown",
+  "/wiki/Elan_Tallah",
+  "/wiki/Jedi_Apprentice:_The_Mark_of_the_Crown"
+ ]
+}

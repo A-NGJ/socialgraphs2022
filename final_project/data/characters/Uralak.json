@@ -1,0 +1,35 @@
+{
+ "name": "Uralak",
+ "display_name": "Uralak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Near-Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uralak was a near-Human male who owned the Meltdown Café on Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Near-Human",
+  "/wiki/Gender/Legends",
+  "/wiki/Meltdown_Caf%C3%A9",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Uralak",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

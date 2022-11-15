@@ -1,0 +1,47 @@
+{
+ "name": "Nareel_Dre%27lara",
+ "display_name": "Nareel Dre'lara",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Alliance Special Forces",
+      "Alliance Special Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nareel Dre'lara was a Twi'lek serving in the Alliance Special Forces. She was skilled in hand-to-hand combat.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Special_Forces/Legends",
+  "/wiki/Unarmed_combat",
+  "/wiki/Rules_of_Engagement:_The_Rebel_SpecForce_Handbook"
+ ]
+}

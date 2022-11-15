@@ -1,0 +1,40 @@
+{
+ "name": "Fiev_Kyak",
+ "display_name": "Fiev Kyak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fiev Kyak was a Sullustan, who was the son of Aril Kyak and Syub Kyak, and the brother of Sien Kyak. During the Clone Wars, he went on vacation in the Cularin system with his family and stayed aboard the space yacht Crest of Dawn. Along with his sibling, he rewired the navigational controls of the Crest, causing it to get stuck in a radiation storm on Genarius.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Aril_Kyak",
+  "/wiki/Syub_Kyak",
+  "/wiki/Sien_Kyak",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cularin_system",
+  "/wiki/Yacht/Legends",
+  "/wiki/Crest_of_Dawn",
+  "/wiki/Genarius",
+  "/wiki/The_Replacements",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Vindo",
+ "display_name": "Vindo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange and light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Military",
+      "Republic Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vindo was a Cathar female and a Major of the Galactic Republic during the third Galactic War. She led the Republic garrison on Dantooine when the planet was invaded by the reconstituted Sith Empire and the Nova Blades.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cathar_(planet)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Dantooine_Incursion",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Nova_Blades",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Dantooine_Tactical_Report",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

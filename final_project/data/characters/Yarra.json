@@ -1,0 +1,55 @@
+{
+ "name": "Yarra",
+ "display_name": "Yarra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "Phantom Squadron",
+      "Phantom Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarra was a Female Twi'lek pilot who served in the New Republic during the Galactic Civil War. Near the war's end, Yarra participated in the Liberation of Kashyyyk and in the New Republic's climactic battle with the Galactic Empire in the Battle of Jakku, flying a BTL-A4 Y-wing assault starfighter/bomber in Phantom Squadron.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/New_Republic",
+  "/wiki/Phantom_Squadron",
+  "/wiki/New_Republic_pilot",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Liberation_of_Kashyyyk",
+  "/wiki/Galactic_Empire",
+  "/wiki/Battle_of_Jakku",
+  "/wiki/BTL-A4_Y-wing_assault_starfighter/bomber",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarra",
+  "/wiki/Aftermath:_Empire%27s_End",
+  "/wiki/Aftermath:_Empire%27s_End_(audiobook)"
+ ]
+}

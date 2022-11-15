@@ -1,0 +1,67 @@
+{
+ "name": "Tobruna",
+ "display_name": "Tobruna",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kreeling"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tobruna was a human male from Kreeling whose mother was in charge of the planet's refineries. Tobruna's mother sent him to serve as an ambassador in her place at a summit hosted by Queen Padmé Amidala of Naboo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kreeling",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tobruna%27s_mother",
+  "/wiki/Planet",
+  "/wiki/Refinery",
+  "/wiki/Parent",
+  "/wiki/Ambassador",
+  "/wiki/Monarch_of_Naboo",
+  "/wiki/Padm%C3%A9_Amidala",
+  "/wiki/Naboo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tobruna",
+  "/wiki/Queen%27s_Peril",
+  "/wiki/Queen%27s_Peril_(audiobook)"
+ ]
+}

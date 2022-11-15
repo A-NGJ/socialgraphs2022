@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Rodian_communications_officer",
+ "display_name": "Unidentified Rodian communications officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicCombined Defense Forces of the New Republic",
+      "Combined Defense Forces of the New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian male communications officer served on the transport Record Time during the initial landing made by the New Republic on Borleias during the Yuuzhan Vong War. He served under Ninora Birt during the landing.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Combined_Defense_Forces_of_the_New_Republic",
+  "/wiki/Record_Time",
+  "/wiki/Battle_of_Borleias_(Yuuzhan_Vong_War;_Second)",
+  "/wiki/Borleias/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Ninora_Birt",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rodian_communications_officer",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_I:_Rebel_Dream"
+ ]
+}

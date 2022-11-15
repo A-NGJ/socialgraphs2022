@@ -1,0 +1,59 @@
+{
+ "name": "Bentu_Pall_Tarlen",
+ "display_name": "Bentu Pall Tarlen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Center Construction Contracts Division",
+      "Imperial Center Construction Contracts Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bentu Pall Tarlen was the head of the Imperial Center Construction Contracts Division around 3.5 ABY. He had contacts with Xizor, and provided him information on how to get in on buying possible construction contracts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Center_Construction_Contracts_Division",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Xizor/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bentu_Pall_Tarlen",
+  "/wiki/Shadows_of_the_Empire_(novel)",
+  "/wiki/Shadows_of_the_Empire_Sourcebook",
+  "/wiki/The_Secrets_of_Star_Wars:_Shadows_of_the_Empire",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

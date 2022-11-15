@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_Dabi_bartender",
+ "display_name": "Unidentified Dabi bartender",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Drall"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dabi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zerria's Bar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Dabi bartender worked at Zerria's Bar, located on the planet Drall. He was present in 40 ABY when Mirta Gev destroyed the vocabulator of the serving droid Forre Musa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Drall_(planet)",
+  "/wiki/Dabi",
+  "/wiki/Zerria%27s_Bar",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Mirta_Gev",
+  "/wiki/Vocabulator/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Forre_Musa",
+  "/wiki/Legacy_of_the_Force:_Bloodlines"
+ ]
+}

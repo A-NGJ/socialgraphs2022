@@ -1,5 +1,6 @@
 {
  "name": "Hensing",
+ "display_name": "Hensing",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Hensing was a male Defel with the Cavrilhu Pirates in 19 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Defel/Legends",

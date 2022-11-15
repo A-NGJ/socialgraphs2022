@@ -1,0 +1,39 @@
+{
+ "name": "Vcikas",
+ "display_name": "Vcikas",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vcikas was a Mon Calamari who was imprisoned by the Ayrou. When he escaped and was nearly killed by a Zoun mauler he claimed to have seen the Tessent on Thonner.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ayrou",
+  "/wiki/Zoun_mauler",
+  "/wiki/Tessent",
+  "/wiki/Thonner/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vcikas",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Race_for_the_Tessent",
+  "/wiki/Star_Wars_Gamer_9"
+ ]
+}

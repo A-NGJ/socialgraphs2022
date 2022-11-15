@@ -1,0 +1,66 @@
+{
+ "name": "Dex_(stormtrooper)",
+ "display_name": "Dex  (stormtrooper)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Death Star I"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dex was a Human male who served as a member of the stormtrooper squad led by Sergeant Nova Stihl to respond to the prisoner breakout at Detention block AA-23 on Level 5 of the first Death Star.\nHe was presumably killed onboard the Death Star during the Battle of Yavin.\nThis individual was first named in Death Star, although there is no indication which trooper he was, as depicted in A New Hope.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Nova_Stihl",
+  "/wiki/Detention_block_AA-23",
+  "/wiki/Deck_5",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Death_Star_(novel)",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+ ]
+}

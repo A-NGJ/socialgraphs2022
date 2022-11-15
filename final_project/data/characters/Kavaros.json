@@ -1,5 +1,6 @@
 {
  "name": "Kavaros",
+ "display_name": "Kavaros",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kavaros was a Human male Sith Lord of the Sith Empire during the Galactic War. He was stationed on Voss at the time.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

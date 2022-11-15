@@ -1,5 +1,6 @@
 {
  "name": "Gruyver",
+ "display_name": "Gruyver",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Gruyver was a human male member of the Children of the Empty Sun cult.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

@@ -1,0 +1,53 @@
+{
+ "name": "Thadd",
+ "display_name": "Thadd",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Abyssin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thadd was a Abyssin male who lived on the planet Corellia during the Galactic War. When the Battle of Corellia swept over the planet, Thadd sought to help end the war, and so traveled to the Imperial Garrison in Axial Park in order to aid the then-winning Sith Empire by telling them about the landing zone beacons that Galactic Republic soldiers were using.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Abyssin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Imperial_Garrison_(Corellia)",
+  "/wiki/Axial_Park",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

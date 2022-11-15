@@ -1,0 +1,75 @@
+{
+ "name": "Ugnor",
+ "display_name": "Ugnor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gentes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.5 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bespin",
+      "Ugnaught Mechanics Union"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ugnaught Ugnor, being 1.5 meters tall, was considered by Ars Fivvle to be the tallest and most noble Ugnaught in the history of Bespin.\nLeading the work parties who emigrated from Gentes to Bespin, his ability to deal with the Human Ecclessis Figg during the construction of Cloud City made him renowned and earned him the title of \"Ufflor of Ufflors\".\nHe also assisted in the creation of the Ugnaught Mechanics Union and was the main supporter of the Ugnaught Surface's construction. The city of Ugnorgrad was named after him, and his name was used in the Ugnaught expletive \"Ugnor's thumbs!\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gentes/Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Bespin/Legends",
+  "/wiki/Ugnaught_Mechanics_Union",
+  "/wiki/Ars_Fivvle",
+  "/wiki/Human/Legends",
+  "/wiki/Ecclessis_Figg/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Ufflor_of_Ufflors",
+  "/wiki/Ugnaught_Surface/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Ugnorgrad/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Wizards.com",
+  "/wiki/Bespin:_Action_Tidings",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

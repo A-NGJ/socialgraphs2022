@@ -1,5 +1,6 @@
 {
  "name": "Kavren",
+ "display_name": "Kavren",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kavren was a lieutenant in the Imperial Army in the early weeks of its existence.\nHe served under Colonel Mosh Barris on the mission in which the Galactic Empire first made contact with Mitth'raw'nuruodo and was in charge of examining the crash site of a downed TIE fighter.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

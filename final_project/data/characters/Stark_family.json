@@ -1,0 +1,86 @@
+{
+ "name": "Stark_family",
+ "display_name": "Stark family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Iaco Stark"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Dah'lis Stark",
+      "Elli Stark"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Reltooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "3 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Stark Commercial Combine"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Stark family was a bloodline that lived during the Rise of the Empire era. Members included Iaco Stark, who started the Stark Hyperspace War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Human/Legends",
+  "/wiki/Iaco_Stark",
+  "/wiki/Dah%27lis_Stark",
+  "/wiki/Elli_Stark",
+  "/wiki/Reltooine",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Stark_Commercial_Combine",
+  "/wiki/Rise_of_the_Empire_era",
+  "/wiki/Stark_Hyperspace_War/Legends",
+  "/wiki/Arris_Rossum",
+  "/wiki/Iaclyn_Stark",
+  "/wiki/In-universe",
+  "/wiki/Special:EditPage/:Stark_family",
+  "/wiki/Star_Wars:_Republic:_The_Stark_Hyperspace_War",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Iron_Eclipse_1",
+  "/wiki/Millennium_Falcon_(novel)",
+  "/wiki/Millennium_Falcon_(audiobook)",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/Wizards.com",
+  "/wiki/Meet_Iaco_Stark:_An_Expanded_Universe_Character",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Tinker,_Tailor,_Soldier,_Praji",
+  "/wiki/StarWars.com",
+  "/wiki/The_Essential_Atlas",
+  "/wiki/Star_Wars:_The_Official_Starships_%26_Vehicles_Collection_33",
+  "/wiki/Millennium_Falcon_Owner%27s_Workshop_Manual",
+  "/wiki/Databank_(original)"
+ ]
+}

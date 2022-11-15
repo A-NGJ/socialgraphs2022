@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_Ugnaught_worker",
+ "display_name": "Unidentified Ugnaught worker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Ugnaught worker, like so many of his species, worked in Cloud City. This one was Mind tricked, by Kyle Katarn into opening a door, granting Katarn access to further areas of Cloud City in the events leading up to the Battle of Cloud City.\nThis character is canonical, appearing in Star Wars: Jedi Knight II: Jedi Outcast, but has not been named. It does not have any dialogue, but is vital in the progression through the level, since the only way to get through the door is by using the Mind trick function on it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Battle_of_Bespin_(Empire_Reborn)",
+  "/wiki/Star_Wars:_Jedi_Knight_II:_Jedi_Outcast",
+  "/wiki/Star_Wars:_Jedi_Knight:_Jedi_Academy"
+ ]
+}

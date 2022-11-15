@@ -1,0 +1,34 @@
+{
+ "name": "Vasteg",
+ "display_name": "Vasteg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vasteg was a Devaronian forger who based his operations out of Sliteye's Entertainment Emporium. He was capable of forging Bureau of Ships and Services permits.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Forger_(profession)/Legends",
+  "/wiki/Sliteye%27s_Entertainment_Emporium",
+  "/wiki/Bureau_of_Ships_and_Services/Legends",
+  "/wiki/Gamemaster_Toolkit:_Live-Action_Adventures"
+ ]
+}

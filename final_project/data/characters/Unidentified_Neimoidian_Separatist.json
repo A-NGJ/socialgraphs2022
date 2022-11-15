@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Neimoidian_Separatist",
+ "display_name": "Unidentified Neimoidian Separatist",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Neimoidian male worked for the Confederacy of Independent Systems during the Clone Wars. While waiting on the Wheel to pass on a datadisc from the crime lord Zenex, he was tricked by Jedi Master Quinlan Vos, who had secretly copied the disc before giving it to the Neimoidian in Zenex's place.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/The_Wheel/Legends",
+  "/wiki/Datacard/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Zenex",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Quinlan_Vos/Legends",
+  "/wiki/Republic_49"
+ ]
+}

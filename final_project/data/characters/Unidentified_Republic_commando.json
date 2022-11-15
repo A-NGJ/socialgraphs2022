@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Republic_commando",
+ "display_name": "Unidentified Republic commando",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Special Forces Division",
+      "Republic Special Forces Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Human male commando served in the Republic's military during the Galactic War against the True Sith Empire. Stationed on the planet Taris, he served as one of Kom Orda's guards until he was captured by Thana Vesh and forced to reveal intel to her and her master Darth Gravus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Special_Forces_Division",
+  "/wiki/Darth_Gravus",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Kom_Orda",
+  "/wiki/Thana_Vesh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Plako",
+ "display_name": "Plako",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Plako was a Chikarri mechanic who knew the location of the legendary ship Fool's Gold. Bruce Mercy and his pirate band attempted to steal this information.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Plagen",

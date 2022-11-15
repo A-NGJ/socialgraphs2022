@@ -1,5 +1,6 @@
 {
  "name": "Fezzonk",
+ "display_name": "Fezzonk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Fezzonk was a Dowutin member of the security crew led by Alys Ongwa on Corellia. When the crew was tasked with protecting Supreme Chancellor Lina Soh during a visit to Corellia, Fezzonk flew as Air Eleven in a craft above the gathering. The Dowutin shot down a scav droid that was released by the Nihil during Soh's visit.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Dowutin",

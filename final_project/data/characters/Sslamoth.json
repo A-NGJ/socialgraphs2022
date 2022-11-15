@@ -1,0 +1,81 @@
+{
+ "name": "Sslamoth",
+ "display_name": "Sslamoth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selkath"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue-green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ahto City swoop track"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sslamoth was a Selkath male who worked with T'sllth to run the swoop races in Ahto City 3956 BBY. Together with T'sllth, the duo operated the Ahto City swoop track.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Manaan/Legends",
+  "/wiki/Selkath/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Ahto_City_swoop_track",
+  "/wiki/Revan/Legends",
+  "/wiki/T%27sllth",
+  "/wiki/Swoop/Legends",
+  "/wiki/Ahto_City",
+  "/wiki/3956_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sslamoth",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

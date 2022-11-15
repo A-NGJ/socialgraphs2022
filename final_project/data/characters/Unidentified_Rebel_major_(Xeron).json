@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Rebel_major_(Xeron)",
+ "display_name": "Unidentified Rebel major  (Xeron)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This major in the Rebel Alliance commanded troops in the Battle of Xeron against Imperial forces that included an Imperial warbot, which was captured by the Rebels. Later, the major turned the droid over to Luke Skywalker to get a full technical schematic of it. When R2-D2 was damaged trying to analyze the Warbot, the major suggested they try bringing it to Kligson's Moon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Battle_of_Xeron",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_warbot",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/Kligson%27s_Moon",
+  "/wiki/Star_Wars_(1977)_47",
+  "/wiki/The_Further_Adventures:_Droid_World"
+ ]
+}

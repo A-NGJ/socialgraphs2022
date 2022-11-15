@@ -1,0 +1,65 @@
+{
+ "name": "Tagoonta",
+ "display_name": "Tagoonta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Circumtore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shell Hutts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tagoonta was a Shell Hutt who ran a small criminal empire. He fled Hutt Space during the New Republic's rule, and had a base in the abandoned Imperial transfer station on the planetoid Murk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Circumtore/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Shell_Hutts",
+  "/wiki/Hutt_Space/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Cargo-transfer_station",
+  "/wiki/Planetoid/Legends",
+  "/wiki/Murk_(planetoid)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tagoonta",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Endor_and_the_Moddell_Sector",
+  "/wiki/Star_Wars_Gamer_9"
+ ]
+}

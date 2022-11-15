@@ -1,5 +1,6 @@
 {
  "name": "Dromo",
+ "display_name": "Dromo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Dromo was a Hutt who was attacked by a Shenbit bonecrusher during a safari on Barab I. He was accompanied by his Sullustan assistant Ullumub who survived the encounter and offered a reward to those who rescued her employer.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

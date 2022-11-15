@@ -1,0 +1,64 @@
+{
+ "name": "Hall_(captain)",
+ "display_name": "Hall  (captain)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tuttin IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Hall, a muscular woman and member of the Imperial Navy, served as Governor Shran Etison's personal aide during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tuttin_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Shran_Etison",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Rebel_Bass",
+  "/wiki/Star_Wars_Gamer_6",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

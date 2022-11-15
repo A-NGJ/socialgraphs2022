@@ -1,5 +1,6 @@
 {
  "name": "Aderat",
+ "display_name": "Aderat",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Aderat was a human male who served the First Order as a lieutenant. He assisted with Commander Branwayne Spiftz's mission to the planet Minfar, but his failure to make progress led Spiftz to assign his duties to another officer.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

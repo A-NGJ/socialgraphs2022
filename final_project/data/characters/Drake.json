@@ -1,5 +1,6 @@
 {
  "name": "Drake",
+ "display_name": "Drake",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "\"Drake\" was a female human pilot who flew for the Galactic Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Drake_(disambiguation)",

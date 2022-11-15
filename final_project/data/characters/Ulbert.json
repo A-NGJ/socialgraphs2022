@@ -1,0 +1,50 @@
+{
+ "name": "Ulbert",
+ "display_name": "Ulbert",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulbert was a Human male from Corellia. Along with Kym and Renthor, Ulbert was a former student of a Force-user who was not quite sane and had corrupted the Jedi Code. Despite having no aptitude for the Force, Ulbert and his fellows took their teacher's creed to heart. Unfortunately, the corruption of Jedi Code caused them to believe that mechanical devices had to be destroyed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kym_(Corellian)",
+  "/wiki/Renthor",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi_Code/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "name": "Gulek_Lohn",
+ "display_name": "Gulek Lohn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Darknon Station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stormview Lounge"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gulek Lohn was a green male Rodian, who worked on Darknon Station. There he managed the Stormview Lounge. Lohn was frequently to be found behind the bar, keeping an eye on his patrons in case he recognized any of them as criminals with bounties on their heads.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Darknon_Station",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stormview_Lounge",
+  "/wiki/Bounty/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gulek_Lohn",
+  "/wiki/Platt%27s_Starport_Guide"
+ ]
+}

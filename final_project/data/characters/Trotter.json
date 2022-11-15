@@ -1,0 +1,50 @@
+{
+ "name": "Trotter",
+ "display_name": "Trotter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dagro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zele"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Kirlan Swens"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trotter was a zele owned by Kirlan Swens. Along with fellow zele Stripe, Trotter consumed sargheet crop stubble in order to produce fertilizer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dagro",
+  "/wiki/Zele",
+  "/wiki/Stripe_(zele)",
+  "/wiki/Sargheet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Changing_Seasons"
+ ]
+}

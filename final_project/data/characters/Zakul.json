@@ -1,0 +1,50 @@
+{
+ "name": "Zakul",
+ "display_name": "Zakul",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sanyassan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sanyassan Marauders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zakul was a Sanyassan Marauder and the new King of Endor.\nWhen King Terak was killed, General Yavid tried to take the Marauder throne and tried to become King. But he was not able to match Terak's feat of keeping order over such a rabble, and the Marauders turned on one another. But eventually Zakul emerged victorious in this struggle, re-established order, and became the new King.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sanyassan",
+  "/wiki/Sanyassan_Marauders",
+  "/wiki/Zakuul",
+  "/wiki/Gender/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Terak",
+  "/wiki/Battle_of_Endor_(Ewok%E2%80%93Sanyassan_conflict)",
+  "/wiki/Yavid",
+  "/wiki/Terak%27s_Keep",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

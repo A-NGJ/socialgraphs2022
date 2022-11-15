@@ -1,0 +1,88 @@
+{
+ "name": "Shana_Turi",
+ "display_name": "Shana Turi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "15 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Committee of Seven for Garosian Unification"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shana Turi was a Human female from Garos IV. She was a member of the Garos resistance and a friend of Alexandra Winger. Living in the city of Zila in 8 ABY, she discovered that the Galactic Empire was storing components for a V-150 anti-orbital ion cannon in the neighboring base. The resistance later assaulted the base and destroyed it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shana_(disambiguation)",
+  "/wiki/Garos_IV",
+  "/wiki/15_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Committee_of_Seven_for_Garosian_Unification",
+  "/wiki/Alexandra_Winger",
+  "/wiki/Zila",
+  "/wiki/8_ABY/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/V-150_Planet_Defender/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Mission_to_Zila",
+  "/wiki/Star_Wars_Adventure_Journal_3"
+ ]
+}

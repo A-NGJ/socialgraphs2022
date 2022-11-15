@@ -1,0 +1,51 @@
+{
+ "name": "Urek",
+ "display_name": "Urek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urek was a Human male who served the Rebel Alliance who infiltrated the Galactic Empire after posing as a stormtrooper named Conor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Urek",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Urek",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Only_Droids_Serve_the_Maker",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

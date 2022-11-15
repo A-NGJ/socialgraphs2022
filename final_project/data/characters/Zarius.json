@@ -1,0 +1,57 @@
+{
+ "name": "Zarius",
+ "display_name": "Zarius",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zarius was a male Human Jedi Master. He was present on Ilum in 3640 BBY.\nMaster Zarius appears in the video game Star Wars: The Old Republic as a non-player character in the Republic mission \"Ilum Under Siege,\" which features several characters from the Republic class storylines. Zarius was actually cut from the Jedi Consular storyline; he was intended to appear on Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Zarius",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Ilum/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Jedi_Consular"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Vanter_Raffin",
+ "display_name": "Vanter Raffin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vanter Raffin was a male Human and the Chief officer for Pakkerd Light Transport on the planet Ession. He was a supporter of Warlord Zsinj and was described by the Warlord as someone who's nervous and complains too much. He was set to retire sometime around 7 ABY and planned to live in a cottage and write his memoirs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Pakkerd_Light_Transport",
+  "/wiki/Planet/Legends",
+  "/wiki/Ession",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/7_ABY/Legends",
+  "/wiki/X-Wing:_Wraith_Squadron",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

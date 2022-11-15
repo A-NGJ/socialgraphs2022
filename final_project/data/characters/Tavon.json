@@ -1,0 +1,50 @@
+{
+ "name": "Tavon",
+ "display_name": "Tavon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tavan was a Human male sentry who served in the Imperial Army and was stationed on Korriban during the Cold War between the Galactic Republic and the resurgent Sith Empire. Through an hologram comm he enlisted the help of an acolyte to recover research supplies and warned the acolyte about Imperial troopers who went berserk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Korriban",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Hologram/Legends",
+  "/wiki/Sith_Acolyte",
+  "/wiki/Imperial_soldier",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Visfuu",
+ "display_name": "Visfuu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Visfuu was a female Ithorian who ran a shop selling data books in Isttu Village aboard the Ithorian Herdship Bazaar. She enjoyed talking with her customers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Data_book",
+  "/wiki/Isttu_Village",
+  "/wiki/Ithorian_Herdship/Legends",
+  "/wiki/Bazaar_(Ithorian_Herdship)",
+  "/wiki/Graveyard_of_Alderaan",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Two"
+ ]
+}

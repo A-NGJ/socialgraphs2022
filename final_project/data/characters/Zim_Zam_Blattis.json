@@ -1,0 +1,72 @@
+{
+ "name": "Zim_Zam_Blattis",
+ "display_name": "Zim Zam Blattis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zim Zam Blattis was a male Gungan leader of a smuggling gang during the Galactic Civil War. Sometime following 0 BBY, a spacer was tasked by Gavyn Sykes to eliminate Blattis, in which the spacer succeeded.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Gavyn_Sykes/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Galactic_Hunters",
+  "/wiki/Template:SWGTCG"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Tahji_Panagakos",
+ "display_name": "Tahji Panagakos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tahji Panagakos was an orphan living in Cjaalysce'I on the planet Socorro. Arriving on the planet after stowing away on a freighter, Panagakos made a living as a con artist and messenger for Cjaalysce'I's businesses. The city's engineers and technicians \"adopted\" Panagakos, making sure she always had clothes, food and shelter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cjaalysce%27I",
+  "/wiki/Planet/Legends",
+  "/wiki/Socorro/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Con_artist/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

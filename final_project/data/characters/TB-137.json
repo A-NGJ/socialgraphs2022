@@ -1,0 +1,56 @@
+{
+ "name": "TB-137",
+ "display_name": "TB-137",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TB-137 was the designation of a stormtrooper that served the Galactic Empire.\nIn 0 ABY, TB-137 was among those sent to retrieve a captured Princess Leia Organa on the planet Delaya. Upon the orders of his officer, TB-137 and his squad opened fire and killed J'er Nahj and Halle Dray, the Alderaanians who originally captured Organa. TB-137 and TB-278 were then sent to hunt down Kiro Chen, another captor of Organa that managed to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Delaya/Legends",
+  "/wiki/Unidentified_Imperial_officer_(Delaya)",
+  "/wiki/J%27er_Nahj",
+  "/wiki/Halle_Dray",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/TB-278",
+  "/wiki/Kiro_Chen",
+  "/wiki/Rebel_Force:_Hostage"
+ ]
+}

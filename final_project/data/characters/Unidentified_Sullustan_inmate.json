@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_Sullustan_inmate",
+ "display_name": "Unidentified Sullustan inmate",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 44 ABY, a male Sullustan inmate resided in the Armand Isard Correctional Facility. He, along with several other prisoners led by the Mon Calamari thief Furan, confronted former Jedi Tahiri Veila, but was soundly beaten.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/44_ABY",
+  "/wiki/Armand_Isard_Correctional_Facility",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Furan",
+  "/wiki/Jedi/Legends",
+  "/wiki/Tahiri_Veila",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Sullustan_inmate",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)"
+ ]
+}

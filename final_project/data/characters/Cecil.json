@@ -1,5 +1,6 @@
 {
  "name": "Cecil",
+ "display_name": "Cecil",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Cecil was a Wookiee mechanic aboard the starship that he, Rosen, Benchar, and Carewa served on. He was also an excellent sabacc player.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookiee/Legends",

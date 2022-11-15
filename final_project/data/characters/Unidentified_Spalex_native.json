@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_Spalex_native",
+ "display_name": "Unidentified Spalex native",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Spalex"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "Between 32 ABY and 34 ABY",
+      "Spalex"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unknown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Hazel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a member of an unknown species who lived on the planet Spalex. During the Cold War, First Order forces led by an officer attempted to mine Spalex for its thorilide, succeeding where the Galactic Empire had failed, but were met by strong resistance led by this individual until the officer killed them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Spalex",
+  "/wiki/32_ABY",
+  "/wiki/34_ABY",
+  "/wiki/Unidentified_Spalex_species",
+  "/wiki/Color",
+  "/wiki/Species",
+  "/wiki/Planet",
+  "/wiki/Cold_War",
+  "/wiki/First_Order",
+  "/wiki/First_Order_military",
+  "/wiki/Unidentified_First_Order_officer_(Spalex)",
+  "/wiki/Mining",
+  "/wiki/Thorilide",
+  "/wiki/Galactic_Empire",
+  "/wiki/First_Order_officer",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Spalex_native",
+  "/wiki/Poe_Dameron_17",
+  "/wiki/Poe_Dameron_18"
+ ]
+}

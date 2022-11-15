@@ -1,0 +1,80 @@
+{
+ "name": "Wyllys",
+ "display_name": "Wyllys",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hynestia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hynestian Royal Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wyllys was a male Hynestian who was a member of the Hynestian Royal Guard. Forsythia Jin, Queen of Hynestia, assigned Wyllys to guard Rinetta Gan, but the princess was able to trick him and escape to Livno III with Lando Calrissian, L3-37 and Zel Gris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hynestia_Prime",
+  "/wiki/Human",
+  "/wiki/Hynestian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hynestian_Royal_Guard",
+  "/wiki/Forsythia_Jin",
+  "/wiki/Queen",
+  "/wiki/Rinetta_Gan",
+  "/wiki/Prince",
+  "/wiki/Livno_III",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/L3-37",
+  "/wiki/Zel_Gris",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wyllys",
+  "/wiki/Lando%27s_Luck",
+  "/wiki/Lando%27s_Luck_(audiobook)"
+ ]
+}

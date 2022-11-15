@@ -1,5 +1,6 @@
 {
  "name": "Sakal",
+ "display_name": "Sakal",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sakal was a male Human private of the Galactic Republic. During the Cold War he was posted on Taris inside Olaris.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,62 @@
+{
+ "name": "Tyuth",
+ "display_name": "Tyuth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Strategic Information Service",
+      "Republic Strategic Information Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyuth was a Zabrak male agent who served the Republic Strategic Information Service during the Alderaan Civil War. He learned of Elric Organa betraying the House of Organa and tasked a Republic citizen to either apprehend or kill him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Agent/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/Elric_Organa",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

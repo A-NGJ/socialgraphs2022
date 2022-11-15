@@ -1,0 +1,75 @@
+{
+ "name": "Wip_Sheff",
+ "display_name": "Wip Sheff",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Oovo IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic Correctional Authority",
+      "The Helmet Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wip Sheff was a male Human Correctional Authority guard wanted by the Hutt Clan for skimming profits from an inside smuggling operation. He was described as a crooked prison guard. Sometime after the battle of Naboo in 32 BBY, Jango Fett claimed the bounty on Wip Sheff when he broke into Oovo IV to capture Bendix Fust.\nThis bounty is worth 4,000 dead or alive. It is up to the player's decision on which way to take him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Oovo_IV/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Correctional_Authority/Legends",
+  "/wiki/The_Helmet_Squad",
+  "/wiki/Hutt/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Prison/Legends",
+  "/wiki/Naboo_Space_Battle",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Bendix_Fust",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

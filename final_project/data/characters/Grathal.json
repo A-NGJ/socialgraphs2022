@@ -1,5 +1,6 @@
 {
  "name": "Grathal",
+ "display_name": "Grathal",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Grathal was a Human male antiques dealer operating in Arginall City during the Galactic Civil War. He served as a middle-man in the meeting between an Alliance to Restore the Republic contact team and Ketrian Altronel.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hargeeva",

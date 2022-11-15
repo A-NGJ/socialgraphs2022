@@ -1,0 +1,50 @@
+{
+ "name": "Tril",
+ "display_name": "Tril",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tril was a Force-sensitive Kel Dor who was a Jedi youngling during 22 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Kel_Dor",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Force-sensitive",
+  "/wiki/Jedi",
+  "/wiki/Jedi_Initiate",
+  "/wiki/22_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tril",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

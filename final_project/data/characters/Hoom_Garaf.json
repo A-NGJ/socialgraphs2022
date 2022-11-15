@@ -1,0 +1,47 @@
+{
+ "name": "Hoom_Garaf",
+ "display_name": "Hoom Garaf",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hoom Garaf was a major in the Confederacy of Independent Systems. He was a Chevin and fought in the Third Battle of Aefao until he was killed by his T-series tactical droid.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Third_Battle_of_Aefao",
+  "/wiki/Death/Legends",
+  "/wiki/T-series_tactical_droid",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

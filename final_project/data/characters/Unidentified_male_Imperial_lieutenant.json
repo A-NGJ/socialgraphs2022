@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_male_Imperial_lieutenant",
+ "display_name": "Unidentified male Imperial lieutenant",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Belazura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male officer with the rank of lieutenant was stationed at the Imperial garrison on the planet Belazura. In 0 ABY, the lieutenant was ordered by Darth Vader to detain Rezi Soresh, the highest commanding officer on the planet. But Soresh was able to escape using a hidden turbolift on his quarters. When Vader arrived, he held the lieutenant responsible for Soresh's escape, and strangled him to death using the Force.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Belazura",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Rezi_Soresh",
+  "/wiki/Turbolift/Legends",
+  "/wiki/Telekinesis/Legends#Force_choke",
+  "/wiki/Death/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Rebel_Force:_Trapped"
+ ]
+}

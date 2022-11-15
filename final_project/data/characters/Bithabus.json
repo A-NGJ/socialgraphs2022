@@ -1,5 +1,6 @@
 {
  "name": "Bithabus",
+ "display_name": "Bithabus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Bithabus the Mystifier was a Bith stage magician who became famous across the galaxy for his performances at the Hologram Fun World's Asteroid Theater.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bith/Legends",

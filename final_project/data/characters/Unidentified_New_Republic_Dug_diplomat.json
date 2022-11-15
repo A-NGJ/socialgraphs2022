@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_New_Republic_Dug_diplomat",
+ "display_name": "Unidentified New Republic Dug diplomat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Dug was a diplomat on the planet Coruscant during the time of the New Republic. The Dug had a pet saw-toothed grank.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Saw-toothed_grank",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_New_Republic_Dug_diplomat",
+  "/wiki/The_Wildlife_of_Star_Wars:_A_Field_Guide"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Zenfrei",
+ "display_name": "Zenfrei",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Orman Tagge"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zenfrei was a male Human living during the era of the Clone Wars and the early years of the Galactic Empire. He served as an aide to Baron Orman Tagge, and assisted his recovery after Darth Vader burned out Tagge's eyes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Orman_Tagge/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Aide/Legends",
+  "/wiki/Baron/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zenfrei",
+  "/wiki/Evasive_Action:_End_Game"
+ ]
+}

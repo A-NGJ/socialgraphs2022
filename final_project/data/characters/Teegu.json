@@ -1,0 +1,83 @@
+{
+ "name": "Teegu",
+ "display_name": "Teegu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mahranee"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Mahranee"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mahran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ashu"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teegu was a female Mahran who was the Secondborn of Ashu, a prominent bloodline of Mahran during the Clone Wars. She was the daughter of Rakshu, her mother, the younger sister of Ashu-Nyamal, and the older sister of Kamu. She had a gift for soothing any squabble. She was killed in space with her family during the mass escape from Mahranee after its attack by Separatist forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mahranee",
+  "/wiki/19_BBY",
+  "/wiki/Mahran",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Ashu",
+  "/wiki/Blood",
+  "/wiki/Clone_Wars",
+  "/wiki/Rakshu",
+  "/wiki/Parent",
+  "/wiki/Ashu-Nyamal",
+  "/wiki/Kamu",
+  "/wiki/Death",
+  "/wiki/Atrocity_on_Mahranee",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Teegu",
+  "/wiki/Dark_Disciple",
+  "/wiki/Dark_Disciple_(audiobook)",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

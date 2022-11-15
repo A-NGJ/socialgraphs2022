@@ -1,0 +1,33 @@
+{
+ "name": "Jiyam_Solo",
+ "display_name": "Jiyam Solo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jiyam Solo was a professional Han Solo impersonator around 40 ABY. He changed his name to better suit the part, and his voice was deeper than the original's.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/40_ABY",
+  "/wiki/Legacy_of_the_Force:_Betrayal"
+ ]
+}

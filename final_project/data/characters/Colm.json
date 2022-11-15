@@ -1,5 +1,6 @@
 {
  "name": "Colm",
+ "display_name": "Colm",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Colm was a male human who served in the Galactic Empire as a garbage worker on the Star Destroyer Avenger.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

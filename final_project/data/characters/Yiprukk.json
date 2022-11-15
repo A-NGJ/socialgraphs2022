@@ -1,0 +1,54 @@
+{
+ "name": "Yiprukk",
+ "display_name": "Yiprukk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yiprukk was a young Force-sensitive Wookiee male. During the Clone Wars, Yiprukk was kidnapped by a Trandoshan hunter, forcing a group of individuals associated with the Jedi Order and the Galactic Republic, along with Wookiees, to track down and rescue Yiprukk.\nYiprukk was mentioned in Collapse of the Republic, a roleplaying supplementary sourcebook for the Star Wars Roleplaying series that was published by Fantasy Flight Games in 2019.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Force-sensitive",
+  "/wiki/Clone_Wars",
+  "/wiki/Unidentified_Trandoshan_hunter_(Kashyyyk)",
+  "/wiki/Trandoshan",
+  "/wiki/Hunting",
+  "/wiki/Jedi_Order",
+  "/wiki/Galactic_Republic",
+  "/wiki/Collapse_of_the_Republic",
+  "/wiki/Roleplaying_game",
+  "/wiki/Star_Wars_Roleplaying",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/2019"
+ ]
+}

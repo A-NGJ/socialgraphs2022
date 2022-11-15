@@ -1,0 +1,78 @@
+{
+ "name": "Garindan_ezz_Zavor%27s_clan",
+ "display_name": "Garindan ezz Zavor's clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Clan"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Garindan ezz Zavor's wife"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Garindan ezz Zavor"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Kubindi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garindan ezz Zavor controlled a Kubaz clan on the planet Kubindi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kubaz",
+  "/wiki/Garindan_ezz_Zavor%27s_wife",
+  "/wiki/Garindan_ezz_Zavor",
+  "/wiki/Kubindi",
+  "/wiki/Galactic_Empire",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Garindan_ezz_Zavor%27s_daughter",
+  "/wiki/Bounty_Hunt",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Star_Wars:_A_New_Hope_(paperback_novel)",
+  "/wiki/The_Secrets_of_Long_Snoot",
+  "/wiki/From_a_Certain_Point_of_View",
+  "/wiki/From_a_Certain_Point_of_View_(audiobook)",
+  "/wiki/Star_Wars:_Commander",
+  "/wiki/LEGO_Star_Wars:_The_Freemaker_Adventures",
+  "/wiki/Duel_of_Destiny",
+  "/wiki/Disney_Gallery:_The_Mandalorian",
+  "/wiki/Connections_(Disney_Gallery:_The_Mandalorian)",
+  "/wiki/Star_Wars_Encyclopedia_(De_Agostini)",
+  "/wiki/Imperial_Troops"
+ ]
+}

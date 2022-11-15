@@ -1,5 +1,6 @@
 {
  "name": "Myrrack",
+ "display_name": "Myrrack",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Myrrack was a renowned Mon Calamari artist. In 0 BBY, he was tasked with repairing the Dro ceremonial fountain, unknowingly saving it from destruction.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

@@ -1,0 +1,51 @@
+{
+ "name": "Taug_Molou",
+ "display_name": "Taug Molou",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shaper caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taug Molou was a Master Shaper of the Yuuzhan Vong. He created the Vagh Rodiek, taking captured Rodians and rebuilding them from a cellular level. While this conflicted with the protocols of the Shaper caste, the Vagh Rodiek's effectiveness in combat caused this heresy to be overlooked.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Shaper_caste",
+  "/wiki/Master_Shaper",
+  "/wiki/Vagh_Rodiek",
+  "/wiki/Rodian/Legends",
+  "/wiki/Shaping_protocol",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taug_Molou",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/I,_Yuuzhan_Vong",
+  "/wiki/Star_Wars_Gamer_8"
+ ]
+}

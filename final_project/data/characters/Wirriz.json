@@ -1,0 +1,83 @@
+{
+ "name": "Wirriz",
+ "display_name": "Wirriz",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wirriz was a male Quarren Vice Admiral serving in the Rebel Alliance during the Galactic Civil War.\nAfter Admiral Ackbar coerced the Mon Calamari pirate, Tuz, into becoming a privateer for the Rebel Alliance, Wirriz—in tandem with Commander Fortune—was placed in charge of supervising his actions. He worked with Tuz while posing as his lieutenant, assisting in the capture of Imperial equipment and delivering it to the Alliance.\nIn 0 BBY, several months into the operation, Vice Admiral Wirriz, along with Tuz, Fortune, and a pair of Gamorreans, delivered stolen Imperial technology to the Alliance Mon Calamari cruiser Independence, and provided information to Commanders S'man and Hamo Blastwell leading to an attack on an Imperial repair dock.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Vice_Admiral/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gial_Ackbar/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Tuz",
+  "/wiki/Privateer/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Fortune_(Human)",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Mon_Calamari_Star_Cruiser",
+  "/wiki/Independence/Legends",
+  "/wiki/H._S%27man",
+  "/wiki/Hamo_Blastwell",
+  "/wiki/Attack_on_the_Imperial_repair_dock",
+  "/wiki/The_Farlander_Papers",
+  "/wiki/X-Wing:_The_Official_Strategy_Guide",
+  "/wiki/X-Wing_Collector%27s_CD-ROM:_The_Official_Strategy_Guide"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Dagnian_Sark",
+ "display_name": "Dagnian Sark",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dagnian Sark was a fanatically loyal Imperial Security Bureau agent sent to Sirpar to identify Rebel spies. He posed as a regular recruit, hoping to one day catch a Rebel spy in the act and thus get a promotion. He was slender and agile, with an overly friendly attitude.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Sirpar/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/You%27re_in_the_Army_Now!",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/Classic_Adventures:_Volume_Four_-_The_Best_of_the_Journal"
+ ]
+}

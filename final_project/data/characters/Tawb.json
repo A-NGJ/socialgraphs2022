@@ -1,0 +1,52 @@
+{
+ "name": "Tawb",
+ "display_name": "Tawb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tawb was a male Human who served in the scurity force of the planet Wukkar. In collaboration with his companion Manning, he protected the sector chief of the Black Sun, Avrak Villachor, as a his personal security guard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Marblewood_security_force",
+  "/wiki/Planet/Legends",
+  "/wiki/Wukkar/Legends",
+  "/wiki/Manning",
+  "/wiki/Black_Sun_sector_chief",
+  "/wiki/Avrak_Villachor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tawb",
+  "/wiki/Scoundrels",
+  "/wiki/Scoundrels_(audiobook)"
+ ]
+}

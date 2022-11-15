@@ -1,0 +1,54 @@
+{
+ "name": "Vebb",
+ "display_name": "Vebb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Old Tion Brotherhood"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vebb was a male Rodian pilot working for the Old Tion Brotherhood during the Galactic War. In 3640 BBY he worked for Gorvich on Nar Shaddaa delivering spice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Jedi",
+  "/wiki/Nahdar_Vebb",
+  "/wiki/Gender/Legends",
+  "/wiki/Old_Tion_Brotherhood",
+  "/wiki/Pilot/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Gorvich",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vebb",
+  "/wiki/The_Old_Republic:_Annihilation",
+  "/wiki/The_Old_Republic:_Annihilation_(audiobook)"
+ ]
+}

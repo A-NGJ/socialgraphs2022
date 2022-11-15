@@ -1,0 +1,46 @@
+{
+ "name": "Tavris_Bahzel",
+ "display_name": "Tavris Bahzel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clawdite"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wookiee underground",
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tavris Bahzel was a Clawdite model and artist during the era of the Galactic Empire. They were known for experimental designs that challenged the notion of species identities. Following the rise of the Empire, they spent years assisting the Wookiee underground.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Clawdite",
+  "/wiki/Wookiee_underground",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Artist",
+  "/wiki/Imperial_Era",
+  "/wiki/Galactic_Empire",
+  "/wiki/Species",
+  "/wiki/Proclamation_of_the_New_Order",
+  "/wiki/Standard_year",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tavris_Bahzel",
+  "/wiki/Star_Wars_Propaganda:_A_History_of_Persuasive_Art_in_the_Galaxy"
+ ]
+}

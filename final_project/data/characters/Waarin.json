@@ -1,0 +1,66 @@
+{
+ "name": "Waarin",
+ "display_name": "Waarin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Waarin was a male Human orphan who lived on Coruscant during the Cold War. He, along with several other orphans, lived in the hydrosupply chambers in Black Sun territory after their parents died in the Great Galactic War. A traveling hero who was helping the Gree Enclave repair Coruscant's infrastructure came to repair the hydrosupply, which the orphans were relying on to survive. The hero gave Waarin and the other orphans enough credits so that they could survive outside of the hydrosupply, allowing the hero to fix the machinery.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Gree_Enclave/Legends"
+ ]
+}

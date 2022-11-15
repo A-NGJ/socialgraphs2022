@@ -1,5 +1,6 @@
 {
  "name": "Fentaugh",
+ "display_name": "Fentaugh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Fentaugh was a lieutenant in Defender Squadron One of Grand Admiral Thrawn's Seventh Fleet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

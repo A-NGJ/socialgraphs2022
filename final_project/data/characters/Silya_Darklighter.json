@@ -1,0 +1,77 @@
+{
+ "name": "Silya_Darklighter",
+ "display_name": "Silya Darklighter",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "c. 42 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Darklighter family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Silya Darklighter was a Human female and the wife of Jula Darklighter, the sister-in-law of Huff Darklighter and the mother of Rasca, Gavin and Anya Darklighter. She and her husband purchased the Lars moisture farm from Luke Skywalker after he left Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/42_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Darklighter_family",
+  "/wiki/Jula_Darklighter",
+  "/wiki/Huff_Darklighter",
+  "/wiki/Rasca_Darklighter",
+  "/wiki/Gavin_Darklighter",
+  "/wiki/Anya_Darklighter",
+  "/wiki/Lars%27_homestead",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Silya_Darklighter",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/Tatooine_Ghost",
+  "/wiki/Star_Wars_Trilogy_Sourcebook,_Special_Edition",
+  "/wiki/Star_Wars:_Behind_the_Magic",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/Jedi_vs._Sith:_The_Essential_Guide_to_the_Force_(real-life_book)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

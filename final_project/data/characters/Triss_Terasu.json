@@ -1,0 +1,41 @@
+{
+ "name": "Triss_Terasu",
+ "display_name": "Triss Terasu",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ortolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Triss Terasu was a male Ortolan informant who worked in the Cosmo Lounge cantina on the Wheel. Obi-Wan Kenobi and Anakin Skywalker paid him credits in exchange for information on the location of Grynask Sanberge.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ortolan",
+  "/wiki/Gender",
+  "/wiki/Information_broker",
+  "/wiki/Cosmo_Lounge",
+  "/wiki/Cantina",
+  "/wiki/The_Wheel",
+  "/wiki/Obi-Wan_Kenobi",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Credit",
+  "/wiki/Grynask_Sanberge",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Triss_Terasu",
+  "/wiki/Choose_Your_Destiny:_An_Obi-Wan_%26_Anakin_Adventure"
+ ]
+}

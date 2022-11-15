@@ -1,0 +1,46 @@
+{
+ "name": "Unidentified_Gungan_hermit",
+ "display_name": "Unidentified Gungan hermit",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Gungan lived a life of a hermit in the vicinity of Varykino on Naboo.\nThis character was depicted on the \"Gungan Hermit\" card of the Champions of the Force, the base set of the Star Wars Galaxies Trading Card Game, which was illustrated by artists Florent Masurel and Jean-Sebastien Duberger.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Varykino/Legends",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Template:SWGTCG"
+ ]
+}

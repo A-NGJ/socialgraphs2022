@@ -1,0 +1,51 @@
+{
+ "name": "Dodonna_family",
+ "display_name": "Dodonna family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Commenor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate",
+      "Galactic Senate",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Dodonna family was a family. A notable member of this family was Bevera Dodonna, a former member of the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dodonna",
+  "/wiki/Human/Legends",
+  "/wiki/Commenor/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Bevera_Dodonna",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

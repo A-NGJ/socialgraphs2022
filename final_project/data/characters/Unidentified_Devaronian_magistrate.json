@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Devaronian_magistrate",
+ "display_name": "Unidentified Devaronian magistrate",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Devaronian worked as a senior magistrate on the planet Concord Dawn. He was sympathetic to the anti-Human Diversity Alliance, and delivered some Human prisoners from Concord Dawn to Ryloth for the Alliance. His fate after the alliance crumbled is unknown but it is possible he was arrested by the Journeyman Protectors and executed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Devaronian",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Concord_Dawn/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Diversity_Alliance",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Young_Jedi_Knights:_Diversity_Alliance"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Wyll_Kander",
+ "display_name": "Wyll Kander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wyll Kander was a male Zabrak lieutenant of the Galactic Republic. During the Battle of Corellia of the Galactic War he was posted at the Shipwright Auxiliary Spaceport in the Blastfield Shipyards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Galactic_War",
+  "/wiki/Shipwright_Auxiliary_Spaceport",
+  "/wiki/Blastfield_Shipyards",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

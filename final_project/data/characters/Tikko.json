@@ -1,0 +1,41 @@
+{
+ "name": "Tikko",
+ "display_name": "Tikko",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tikko was a male Ugnaught, who lived during the waning years of the Galactic Republic.\nTikko was present in a cantina in the village of Tathin on the planet Cularin when the herd ship Bazaar traveled to the Cularin system. While there, he became involved in a number of drinking contests.\nTikko was gruff and spoke Basic poorly. For drinking contests, Tikko preferred to pick opponents, rather than be challenged himself, and normally chose people who were bigger than him. He never challenged anyone who he believed could use the Force, as he thought that they were untrustworthy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Tathin",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Ithorian_Herdship/Legends",
+  "/wiki/Bazaar_(Ithorian_Herdship)",
+  "/wiki/Cularin_system",
+  "/wiki/Galactic_Basic_Standard/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Shadows_in_Green"
+ ]
+}

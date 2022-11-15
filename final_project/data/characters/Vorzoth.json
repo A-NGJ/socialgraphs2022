@@ -1,0 +1,65 @@
+{
+ "name": "Vorzoth",
+ "display_name": "Vorzoth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nekghoul"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vorzoth was a male nekghoul who entered into an agreement with Ryler Dorant, a scientist and soldier of the Sith Empire, where Vorzoth would provide Dorant with rakghouls for his research in exchange for help attacking the Galactic Republic on Taris. However, Vorzoth and Dorant were killed by Havoc Squad before Dorant could complete his research.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nekghoul",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Ryler_Dorant",
+  "/wiki/Scientist/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Rakghoul",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Havoc_Squad"
+ ]
+}

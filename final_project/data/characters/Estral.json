@@ -1,5 +1,6 @@
 {
  "name": "Estral",
+ "display_name": "Estral",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Estral was a male Etti who worked as a gamemaster in the Mos Espa Grand Arena for Jabba the Hutt on Tatooine.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Etti",

@@ -1,0 +1,41 @@
+{
+ "name": "Squig_(Jawa)",
+ "display_name": "Squig  (Jawa)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squig was a Jawa who worked as a technician for freighter captain Elias Halbert.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Squig",
+  "/wiki/Gender/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Taggert",
+  "/wiki/Elias_Halbert",
+  "/wiki/Technician/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Out_of_the_Cradle",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

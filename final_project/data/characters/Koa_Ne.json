@@ -1,0 +1,53 @@
+{
+ "name": "Koa_Ne",
+ "display_name": "Koa Ne",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaminoan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koa Ne was the Prime Minister of Kamino during the Second Galactic Civil War. He met with Boba Fett to discuss Taun We's whereabouts and the cloning information she had stolen after she fled Tipoca City. Ne tried to hire Boba to track down Taun We and bring her and the information to Kamino, but failed to meet Fett's price.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Kaminoan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prime_Minister_(Kamino)",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Taun_We/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Tipoca_City/Legends",
+  "/wiki/Legacy_of_the_Force:_Bloodlines",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Lama_Su/Legends",
+  "/wiki/40_ABY"
+ ]
+}

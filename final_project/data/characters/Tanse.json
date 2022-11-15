@@ -1,0 +1,33 @@
+{
+ "name": "Tanse",
+ "display_name": "Tanse",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanse was a middle-aged Human female who was the Water Boss of The Puddle. She was in charge of the water plant that treated the water from the local oasis. She was competent but not enthusiastic about her job. She wanted to leave but owed a large amount of credits to Tilossa and felt obligated to do her job.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Puddle",
+  "/wiki/Tilossa",
+  "/wiki/Hideouts_%26_Strongholds"
+ ]
+}

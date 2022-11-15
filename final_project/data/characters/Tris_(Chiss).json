@@ -1,0 +1,58 @@
+{
+ "name": "Tris_(Chiss)",
+ "display_name": "Tris  (Chiss)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Csilla"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Inrokini family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tris was a Chiss female and a librarian of the Inrokini family on Csilla. She helped Luke Skywalker and his expedition search through the Expeditionary Library to help find clues to the location of Zonama Sekot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Csilla/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Inrokini_family",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Expeditionary_Library",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee"
+ ]
+}

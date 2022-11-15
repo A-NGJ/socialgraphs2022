@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Mon_Calamari_pirate",
+ "display_name": "Unidentified Mon Calamari pirate",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Unidentified pirate space station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange/brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crymorah-backed pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Unidentified Mon Calamari pirate, was a male Mon Calamari who lived during the reign of the Galactic Empire. He was killed by the Sith Lord Darth Vader during an attack on the pirate base he was stationed on.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_ABY",
+  "/wiki/Unidentified_pirate_space_station",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Crymorah-backed_pirates",
+  "/wiki/Galactic_Empire",
+  "/wiki/Sith_Lord",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Attack_on_an_unidentified_pirate_base",
+  "/wiki/Darth_Vader_(2015)_2"
+ ]
+}

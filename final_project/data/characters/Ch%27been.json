@@ -1,5 +1,6 @@
 {
- "name": "Ch'been",
+ "name": "Ch%27been",
+ "display_name": "Ch'been",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Ch'been was a H'drachi spiritualist and holofilm director with a reading ability known as the \"timestream\" that would allow him to see into the future. His work included such holofilms as A Shadow Falls, Tyranny Reborn, and Dark Romance. In 22 BBY, he was hired as the director for a Baby Ludi holofilm.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/H%27drachi",

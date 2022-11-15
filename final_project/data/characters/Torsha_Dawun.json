@@ -1,0 +1,49 @@
+{
+ "name": "Torsha_Dawun",
+ "display_name": "Torsha Dawun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Meirm Speeder Emporium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torsha Dawun was an Ithorian female who owned Meirm Speeder Emporium in Meirm City on Sriluur. She was one of the few non-natives that both the Houk and Weequay of Sriluur respected.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Meirm_Speeder_Emporium",
+  "/wiki/Meirm_City",
+  "/wiki/Sriluur/Legends",
+  "/wiki/Houk/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Torsha_Dawun",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

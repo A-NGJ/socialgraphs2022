@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Human_Dark_Jedi",
+ "display_name": "Unidentified Human Dark Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified Human male was a Dark Jedi during the Galactic Civil War. He wielded a red-bladed lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Human_Dark_Jedi",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Champions_of_the_Force_(SWGTCG)"
+ ]
+}

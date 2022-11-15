@@ -1,0 +1,53 @@
+{
+ "name": "Jaspar_Skeete",
+ "display_name": "Jaspar Skeete",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jaspar Skeete was the City Governor of D'larah during the Galactic Civil War, appointed by the Galactic Empire from a candidate pool of the city residents. He was a personable man, but not skilled in crisis management, which made it difficult for him to keep the populace in line when it was announced that Demophon's sun was going supernova. Rumor had it Skeete had a starship on standby at all times to evacuate himself when the supernova alarms went off.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/City_Governor",
+  "/wiki/D%27larah",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Demophon",
+  "/wiki/Demophon_(star)",
+  "/wiki/Supernova/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Triple_Cross",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

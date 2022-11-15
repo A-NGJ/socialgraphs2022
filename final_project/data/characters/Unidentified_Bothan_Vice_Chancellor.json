@@ -1,0 +1,75 @@
+{
+ "name": "Unidentified_Bothan_Vice_Chancellor",
+ "display_name": "Unidentified Bothan Vice Chancellor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Cream"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Violet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate",
+      "Office of the Supreme Chancellor",
+      "Rim faction",
+      "Galactic Senate",
+      "Office of the Supreme Chancellor",
+      "Rim faction"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Bothan served as Vice Chancellor of the Galactic Republic during the administration of Chancellor Finis Valorum. He was replaced by Mas Amedda in 32 BBY, a member of the Rim faction.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Office_of_the_Supreme_Chancellor",
+  "/wiki/Rim_faction",
+  "/wiki/Sate_Pestage/Legends",
+  "/wiki/Vice_Chair/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Finis_Valorum/Legends",
+  "/wiki/Mas_Amedda/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Bothan_Vice_Chancellor",
+  "/wiki/Darth_Plagueis_(novel)",
+  "/wiki/Darth_Plagueis_(audiobook)",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/19_BBY/Legends"
+ ]
+}

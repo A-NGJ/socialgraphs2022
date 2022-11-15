@@ -1,5 +1,6 @@
 {
  "name": "Fratch",
+ "display_name": "Fratch",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Fratch was a Male Human slicer living during the Cold War. Residing on Vaiken Spacedock, Fratch also shared the knowledge of slicing with others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

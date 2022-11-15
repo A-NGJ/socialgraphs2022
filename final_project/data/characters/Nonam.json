@@ -1,5 +1,6 @@
 {
  "name": "Nonam",
+ "display_name": "Nonam",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Captain Nonam was a Human male military officer serving the Galactic Empire during the Galactic Civil War. He served under General Rom Mohc aboard the Executor. He was involved in deploying the dark troopers during the attack on Tak Base.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,52 @@
+{
+ "name": "Vinsho_Pah",
+ "display_name": "Vinsho Pah",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicSenate Guards",
+      "Senate Guards"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vinsho Pah was a male Human who served the Senate Guard in the Galactic Senate during the waning years of the Galactic Republic.\nIn 33 BBY, Pah personally escorted Supreme Chancellor Finis Valorum during a speech, staying in his platform. Valorum had been threatened by the terrorist organization The Flail, and the Chancellor believed he would be attacked again during his speech.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senate_Guard/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Finis_Valorum/Legends",
+  "/wiki/The_Flail",
+  "/wiki/Wizards_of_the_Coast",
+  "/wiki/Shadows_of_Coruscant",
+  "/wiki/Star_Wars_Roleplaying_Game_Core_Rulebook"
+ ]
+}

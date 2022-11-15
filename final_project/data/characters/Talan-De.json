@@ -1,0 +1,73 @@
+{
+ "name": "Talan-De",
+ "display_name": "Talan-De",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talan-De was a male Voss from the planet Voss. He aided the Voss commandos stationed at the Shad-Ka Outpost and also aided the visitors to the Nightmare Lands in performing the guarding rituals created by the Voss Mystic Ki-Da that were necessary to protect one from the region's corrupting influences.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Planet/Legends",
+  "/wiki/Shad-Ka_Outpost",
+  "/wiki/Nightmare_Lands",
+  "/wiki/Voss_Mystics",
+  "/wiki/Ki-Da",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

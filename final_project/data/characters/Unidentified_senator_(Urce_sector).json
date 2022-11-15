@@ -1,0 +1,67 @@
+{
+ "name": "Unidentified_senator_(Urce_sector)",
+ "display_name": "Unidentified senator  (Urce sector)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Urce sector"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human male served as a senator for the Urce sector in the Galactic Senate. He, alongside the representative of the Trade Federation, opposed an Ithorian senator's motion to publicize the map of a hyperspace lane through the Lesser Plooriod Cluster, as it cut through the Urce sector and felt they owned the rights to the map. The proposed motion ultimately failed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Urce_sector",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_Senate",
+  "/wiki/Lott_Dod",
+  "/wiki/Trade_Federation",
+  "/wiki/Unidentified_Ithorian_senator",
+  "/wiki/Ithorian",
+  "/wiki/Senator",
+  "/wiki/Hyperspace_route",
+  "/wiki/Lesser_Plooriod_Cluster",
+  "/wiki/Sector",
+  "/wiki/Queen%27s_Shadow",
+  "/wiki/Queen%27s_Shadow_(audiobook)"
+ ]
+}

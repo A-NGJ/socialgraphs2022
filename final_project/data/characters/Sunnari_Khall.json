@@ -1,0 +1,43 @@
+{
+ "name": "Sunnari_Khall",
+ "display_name": "Sunnari Khall",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sunnari Khall was a female Mirialan who served as the captain of the YT-1300 light freighter Deadnettle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mirialan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Captain",
+  "/wiki/YT-1300_light_freighter",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sunnari_Khall",
+  "/wiki/No_Time_for_Poetry",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

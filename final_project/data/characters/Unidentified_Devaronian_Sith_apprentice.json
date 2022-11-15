@@ -1,0 +1,80 @@
+{
+ "name": "Unidentified_Devaronian_Sith_apprentice",
+ "display_name": "Unidentified Devaronian Sith apprentice",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Order of the Sith Lords"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "A male humanoid"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Devaronian was a Dark Lord of the Sith who wielded a saberstaff, heir to the lineage of Darth Bane and the apprentice of a humanoid Sith Master.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Devaronian",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Order_of_the_Sith_Lords",
+  "/wiki/Unidentified_humanoid_Sith_Master",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Double-bladed_lightsaber/Legends",
+  "/wiki/Darth_Bane/Legends",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Book_of_Sith:_Secrets_from_the_Dark_Side"
+ ]
+}

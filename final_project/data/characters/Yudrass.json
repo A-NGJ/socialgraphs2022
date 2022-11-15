@@ -1,0 +1,74 @@
+{
+ "name": "Yudrass",
+ "display_name": "Yudrass",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Known by his core name, Captain Yudrass was a Chiss male Officer of the Sith Empire, stationed on Hoth during the Galactic War with the Galactic Republic. He, along with Commander Tritan asked an Imperial individual to find the Imperial base's missing commander, Colonel Vannis, as previous search parties had gone missing as well, and they wouldn't risk sending any more men. The individual eventually found Vannis' corpse inside a Talz fortification, reporting it afterwards to Tritan and Yudrass.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Core_name/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Hoth/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Tritan",
+  "/wiki/Dorn_Base",
+  "/wiki/Colonel/Legends",
+  "/wiki/Vannis",
+  "/wiki/Talz/Legends",
+  "/wiki/Frostbite_Redoubt",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

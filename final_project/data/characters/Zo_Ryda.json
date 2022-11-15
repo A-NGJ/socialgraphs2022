@@ -1,0 +1,36 @@
+{
+ "name": "Zo_Ryda",
+ "display_name": "Zo Ryda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zo Ryda was a Mon Calamari admiral and a good friend of Lando Calrissian.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Admiral",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zo_Ryda",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

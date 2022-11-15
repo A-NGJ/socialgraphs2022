@@ -1,0 +1,68 @@
+{
+ "name": "Gharn_Efflered",
+ "display_name": "Gharn Efflered",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gharn Efflered was a soldier of the Sith Empire's military around the time of the galactic conflict with the Galactic Republic. He was stationed on Onderon providing armstech training and items.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Soldier/Legends",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Weaponsmith",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

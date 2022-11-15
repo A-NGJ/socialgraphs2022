@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Exchange_boss",
+ "display_name": "Unidentified Exchange boss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Houk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Exchange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Houk male Exchange leader was handling negotiations with a Hutt Cartel representative named Eesmu, on Mek-Sha in 3627 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Unidentified_Exchange_boss",
+  "/wiki/Houk/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Exchange",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Eesmu",
+  "/wiki/Mek-Sha",
+  "/wiki/3627_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_Mon_Calamari_king",
+ "display_name": "Unidentified Mon Calamari king",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A king ruled the Mon Calamari at the time Dac first made contact with the Republic. Though the king hoped to join the Republic, the leader of the Quarren, Allat Za, did not, forcing the king to make Dac an independent ally of the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dac",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Allat_Za",
+  "/wiki/Strongholds_of_Resistance"
+ ]
+}

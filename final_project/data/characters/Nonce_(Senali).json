@@ -1,0 +1,68 @@
+{
+ "name": "Nonce_(Senali)",
+ "display_name": "Nonce  (Senali)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nonce was the sister of the King Meenon of Senali. She had one child, Wek. She welcomed Qui-Gon Jinn and Padawan Obi-Wan Kenobi when they visited Senali.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/King/Legends",
+  "/wiki/Meenon",
+  "/wiki/Wek",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace"
+ ]
+}

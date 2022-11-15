@@ -1,0 +1,60 @@
+{
+ "name": "Astar_Vanqor",
+ "display_name": "Astar Vanqor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sacorria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Astar Vanqor was a female Human who was native to the planet Sacorria. For many years, Vanqor served Kedar Blackgate, the warden of the Dorthus Tal Prison on Sacorria, and by the time of the Galactic Civil War, she had became his right-hand assistant.\nVanqor had dark skin and brown-colored eyes, as well as a toned physique and short hair. She permitted no dissent from the prisoners held at Dorthus Tal and she memorized the name and history of every prisoner that had spent time in the institution during her service there. She was also suspicious of all off-worlders that traveled to Sacorria.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sacorria",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Kedar_Blackgate",
+  "/wiki/Dorthus_Tal_Prison",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

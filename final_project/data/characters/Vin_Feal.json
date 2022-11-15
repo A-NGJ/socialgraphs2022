@@ -1,0 +1,42 @@
+{
+ "name": "Vin_Feal",
+ "display_name": "Vin Feal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vin Feal was a Human male free-trader who operated the 3-Z light freighter The Black Butcher.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Free-trader",
+  "/wiki/3-Z_light_freighter",
+  "/wiki/The_Black_Butcher",
+  "/wiki/Planets_of_the_Galaxy,_Volume_One",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

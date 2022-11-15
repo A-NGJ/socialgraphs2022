@@ -1,0 +1,49 @@
+{
+ "name": "Voos",
+ "display_name": "Voos",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voos was a Sullustan docking bay owner. He owned docking bay 77 in Mos Eisley.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hangar/Legends",
+  "/wiki/Docking_bay_77",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Voos",
+  "/wiki/Imperial_Double-Cross",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Barderia_navigator",
+ "display_name": "Barderia navigator",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Unidentified male Human was a lieutenant and served as the navigator and communications officer aboard the Corellian freighter Barderia.\nIn 7 ABY, the navigator visited a bar on Hullis, the capital city of Halmad. There he was targeted by Wraith Squadron pilot Garik Loran due to his low tolerance of alcohol. Loran got the navigator drunk and gleamed from him the secret of his ship's—the Corellian freighter Barderia—success in avoiding pirates on her voyages. Loran then copied all the contents of the navigator's datapad into his own and made sure the navigator made it back to his ship after the drinking was over.\nLoran would meet the navigator once more under the guise of General Kargin, when the Hawk-bat Independent Space Force—Wraith Squadron in disguise—attacked then boarded the Barderia while she was on a trade trip. The navigator was visible shaken at the encounter and took the blame for his captain's decision of providing an incomplete cargo manifest to the pirates.\nA second attack was again staged on the Barderia upon her return trip back to the Halmad system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Garik_Loran",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Barderia",
+  "/wiki/Rhanken",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Hullis",
+  "/wiki/Halmad/Legends",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Pilot/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Datapad/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Kargin",
+  "/wiki/Hawk-bat_Independent_Space_Force",
+  "/wiki/Halmad_system",
+  "/wiki/X-Wing:_Iron_Fist"
+ ]
+}

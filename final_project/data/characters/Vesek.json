@@ -1,0 +1,60 @@
+{
+ "name": "Vesek",
+ "display_name": "Vesek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vesek was an Imperial Corrections Officer aboard the Imperial prison barge Purge in 1 BBY. He was part of the boarding party sent to scavenge for parts aboard the Star Destroyer Vector. He unknowingly contracted the Blackwing Virus and helped carry it back to the Purge. He was sent to the infirmary aboard and died there.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Corrections_Officer",
+  "/wiki/Prison_barge",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Imperial_bioweapons_Project_I71A",
+  "/wiki/Death_Troopers",
+  "/wiki/Death_Troopers_(audiobook)"
+ ]
+}

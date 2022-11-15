@@ -1,0 +1,64 @@
+{
+ "name": "Soka_Linu",
+ "display_name": "Soka Linu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Telos Security Force",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Soka Linu was a Human female officer who served in the Telos Security Force during the Dark Wars. In 3951 BBY, she and others guarded Meetra Surik, Kreia, and Atton Rand when they were placed on house arrest on the Citadel Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Telos_Security_Force",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Dark_Wars",
+  "/wiki/3951_BBY",
+  "/wiki/Meetra_Surik",
+  "/wiki/Kreia",
+  "/wiki/Atton_Rand",
+  "/wiki/Citadel_Station",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

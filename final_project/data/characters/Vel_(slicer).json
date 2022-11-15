@@ -1,0 +1,42 @@
+{
+ "name": "Vel_(slicer)",
+ "display_name": "Vel  (slicer)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Erli Prann"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vel was a Toydarian slicer and pirate under Erli Prann.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vel",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Erli_Prann",
+  "/wiki/Slicer/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vel_(slicer)",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

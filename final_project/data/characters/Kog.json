@@ -1,5 +1,6 @@
 {
  "name": "Kog",
+ "display_name": "Kog",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Kog was a Human male and the first mate of Hura Kogler during an operation to place infiltration droids in the Alliance Fleet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

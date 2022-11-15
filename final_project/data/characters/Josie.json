@@ -1,5 +1,6 @@
 {
  "name": "Josie",
+ "display_name": "Josie",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Josie was a female Gungan colonist of New Otoh Gunga known for watching lots of holovision.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Naboo/Legends",

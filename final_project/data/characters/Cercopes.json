@@ -1,5 +1,6 @@
 {
  "name": "Cercopes",
+ "display_name": "Cercopes",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Cercopes was a pet Kowakian monkey-lizard that lived during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kowakian_monkey-lizard/Legends",

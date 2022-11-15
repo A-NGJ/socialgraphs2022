@@ -1,0 +1,36 @@
+{
+ "name": "Jedwar_Seelah",
+ "display_name": "Jedwar Seelah",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jedwar Seelah was a Human male, an explorer and scout in Mos Espa 32 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Elnick_Pye",
+  "/wiki/Jedwar_Seelah",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Young_Jedi_Collectible_Card_Game"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Zeniff",
+ "display_name": "Zeniff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lurid Gundarks"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zeniff was a Gran who lived on the planet of Genarius during the time of the Clone Wars, and was a member of the Lurid Gundarks criminal gang.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Lurid_Gundarks",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Preemptive_Strike"
+ ]
+}

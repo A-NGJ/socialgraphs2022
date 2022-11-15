@@ -1,0 +1,71 @@
+{
+ "name": "Sitost",
+ "display_name": "Sitost",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Army",
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sitost was a female Human who served as an officer in the Imperial Army of the reconstituted Sith Empire during the Galactic War with the Galactic Republic. During the invasion of the planet Taris, she was stationed at the Toxic Lake Garrison.\nOfficer Sitost first appeared in the 2011 video game Star Wars: The Old Republic by BioWare as the Social Items vendor for the Empire on Taris.\nWith the release of Game Update 4.0 on October 20, 2015, she was removed from the game along with the rest of the vendors.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Officer/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Invasion_of_Taris",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Toxic_Lake_Garrison",
+  "/wiki/2011",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/BioWare",
+  "/wiki/October_20",
+  "/wiki/2015"
+ ]
+}

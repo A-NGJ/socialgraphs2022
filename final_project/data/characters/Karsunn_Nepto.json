@@ -1,0 +1,60 @@
+{
+ "name": "Karsunn_Nepto",
+ "display_name": "Karsunn Nepto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kintan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kajain'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Males"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Karsunn Nepto was a male Kajain'sa'Nikto wanted by the Republic Security Force for having strong ties with organized crime. Though he was labeled \"armed and dangerous\", he fled his captor, Jango Fett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Kintan/Legends",
+  "/wiki/Kajain%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Republic_Security_Force/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

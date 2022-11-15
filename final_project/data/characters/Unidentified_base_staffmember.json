@@ -1,0 +1,83 @@
+{
+ "name": "Unidentified_base_staffmember",
+ "display_name": "Unidentified base staffmember",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "4 ABY",
+      "Epsilon Nine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An indignant male staffmember of the Epsilon Nine Communications Research Station was throttled by Dark Lady of the Sith Lumiya as her forces subjugated the defected Imperial space station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Epsilon_Nine",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Communications_Research_Station",
+  "/wiki/Telekinesis/Legends",
+  "/wiki/Dark_Lady_of_the_Sith",
+  "/wiki/Lumiya",
+  "/wiki/Lumiya%27s_fleet",
+  "/wiki/Assault_on_Epsilon_Nine",
+  "/wiki/Space_station/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_base_staffmember",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Lumiya:_Dark_Star_of_the_Empire",
+  "/wiki/Star_Wars_Galaxy_Magazine_3"
+ ]
+}

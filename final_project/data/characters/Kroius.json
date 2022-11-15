@@ -1,5 +1,6 @@
 {
  "name": "Kroius",
+ "display_name": "Kroius",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Kroius was a male Anomid Administrator of a Quesh chemical refinery during the Galactic War. In 3642 BBY he was approached by Cipher Nine, who requested from him the access to Dimalium-6.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Quesh",

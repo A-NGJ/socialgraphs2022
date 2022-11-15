@@ -1,0 +1,36 @@
+{
+ "name": "Jayyar_Lu-wehs%27_father",
+ "display_name": "Jayyar Lu-wehs' father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Jayyar Lu-wehs was a human male who worked as a weapons merchant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Hondo_Ohnaka",
+  "/wiki/Mahjo_Reeloo",
+  "/wiki/Jayyar_Lu-wehs",
+  "/wiki/Merchant",
+  "/wiki/Pirate%27s_Price",
+  "/wiki/Pirate%27s_Price_(audiobook)"
+ ]
+}

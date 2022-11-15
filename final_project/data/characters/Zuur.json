@@ -1,0 +1,83 @@
+{
+ "name": "Zuur",
+ "display_name": "Zuur",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Void Station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Falleen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jib Kopatha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zuur was a male Falleen employed on Void Station by Jib Kopatha.\nSix months after the Battle of Yavin, Zuur, along with Xora, was one of a number of Kopatha's Falleen employees to try and kill Darth Vader in revenge for his sterilization of the planet Falleen. Zuur and the rest of the conspirators were killed by Vader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Falleen_(planet)/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Void_Station",
+  "/wiki/Falleen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jib_Kopatha",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Xora",
+  "/wiki/Death/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Empire_19",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

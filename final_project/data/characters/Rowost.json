@@ -1,5 +1,6 @@
 {
  "name": "Rowost",
+ "display_name": "Rowost",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Rowost was a male Twi'lek Flight Officer of the Galactic Republic during the Galactic War. In 3642 BBY, he was part of the escort that accompanied a Republic Senator and Darmas Pollaran to Port Nowhere alongside Kuthana, Matto, and Presk when Port Nowhere came under attack by an Imperial fleet led by the Voidwolf.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

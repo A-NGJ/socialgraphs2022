@@ -1,0 +1,36 @@
+{
+ "name": "Katarin_Pressor",
+ "display_name": "Katarin Pressor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Katarin Pressor was the Human female daughter of Dillian Pressor and his wife and the sister of Jorad and Rosemari Pressor. She was one of the passengers on Outbound Flight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pressor_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dillian_Pressor",
+  "/wiki/Jorad_Pressor",
+  "/wiki/Rosemari_Pressor_Tabory",
+  "/wiki/Outbound_Flight",
+  "/wiki/Outbound_Flight_(novel)"
+ ]
+}

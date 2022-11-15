@@ -1,0 +1,65 @@
+{
+ "name": "Oma_Prumba",
+ "display_name": "Oma Prumba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gungan Grand Army",
+      "Binks' forces",
+      "Binks' forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oma Prumba was a female Gungan who participated in the ground portion of the Battle of Naboo as a Militiagung of the Gungan Grand Army. She later recounted her memories of the battle using Basic-Gunganese pidgin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Naboo",
+  "/wiki/Gungan",
+  "/wiki/Gender",
+  "/wiki/Gungan_Grand_Army",
+  "/wiki/Binks%27_forces",
+  "/wiki/Battle_of_Naboo",
+  "/wiki/Militiagung",
+  "/wiki/Galactic_Basic_Standard",
+  "/wiki/Gunganese",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Oma_Prumba",
+  "/wiki/Star_Wars:_On_the_Front_Lines",
+  "/wiki/StarWars.com"
+ ]
+}

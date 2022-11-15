@@ -1,5 +1,6 @@
 {
  "name": "Meeba",
+ "display_name": "Meeba",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Meeba was a Rodian female who was hired as a waitress at Oga's Cantina in Black Spire Outpost on Batuu. The cantina's owner, Oga Garra, caught her lover Dhoran with Meeba, and she ordered him off of the planet. After a disagreement, Garra shot and killed Dhoran outside of Meeba's apartment. When the waitress stepped outside, Garra fired her.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Waiter",

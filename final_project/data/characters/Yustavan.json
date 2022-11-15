@@ -1,0 +1,45 @@
+{
+ "name": "Yustavan",
+ "display_name": "Yustavan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Isis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gutretee"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.1 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yustavan was the shaman of Iponta's tribe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Isis",
+  "/wiki/Gutretee_(species)",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/The_Isis_Coordinates",
+  "/wiki/Shaman/Legends",
+  "/wiki/Iponta"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Sanyassan_merchant",
+ "display_name": "Unidentified Sanyassan merchant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sanyassan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Tall"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Sanyassan was a blurrg merchant during the height of the New Republic.\nAn grey-skinned male Sanyassan, this individual sold blurrgs, a race of reptilian beast of burden from the forest moon of Endor. At some point, he came to Coruscant, capital world of the Republic, and participated in the Livestock Exchange and Exhibition. During the fair, he bartered with a Quarren customer, trying to convince to buy his blurrgs rather than the banthas from another merchant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sanyassan",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Blurrg/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Reptile/Legends",
+  "/wiki/Tree/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant_Livestock_Exchange_and_Exhibition",
+  "/wiki/Quarren/Legends",
+  "/wiki/Bantha/Legends",
+  "/wiki/The_Wildlife_of_Star_Wars:_A_Field_Guide"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Wookiee_navigator",
+ "display_name": "Unidentified Wookiee navigator",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Wookiee navigator served with the Alliance to Restore the Republic during the Galactic Civil War, especially as a gunner on rebel starships.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Black",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Gunner/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Star_Wars:_X-Wing_Miniatures_Game",
+  "/wiki/Slave_I_Expansion_Pack",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/Star_Wars:_The_Card_Game_Core_Set"
+ ]
+}

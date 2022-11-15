@@ -1,0 +1,55 @@
+{
+ "name": "Thon_(Human)",
+ "display_name": "Thon  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thon was an Imperial officer who served in Rampart Station, a supply base for ships en route to the planet Geonosis. Berch Teller and his company made a fake video to Governor Tarkin with his stolen identity, hoping to draw forces away from Sentinel Base so Teller's insurgents could ambush the base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_officer",
+  "/wiki/Rampart_Station",
+  "/wiki/Planet",
+  "/wiki/Geonosis",
+  "/wiki/Berch_Teller",
+  "/wiki/Governor",
+  "/wiki/Wilhuff_Tarkin",
+  "/wiki/Sentinel_Base%27s_flotilla",
+  "/wiki/Sentinel_Base",
+  "/wiki/Berch_Teller%27s_rebel_cell",
+  "/wiki/Attack_on_Sentinel_Base",
+  "/wiki/Tarkin_(novel)",
+  "/wiki/Tarkin_(audiobook)"
+ ]
+}

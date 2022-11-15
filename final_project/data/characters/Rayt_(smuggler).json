@@ -1,0 +1,42 @@
+{
+ "name": "Rayt_(smuggler)",
+ "display_name": "Rayt  (smuggler)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humans"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rayt was a male Human smuggler who resembled like a shorter, fatter Han Solo. He lived and worked on StarForge Station and had a Verpine copilot. Six months after the Battle of Endor he was responsible for shipping Tycho Celchu and Winter from Eiattu 6 to Leonia Tavira. Solo and Soontir Fel would later discover this fact despite Rayt's denials.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rayt_(civilian)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/StarForge_Station",
+  "/wiki/Verpine/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Tycho_Celchu/Legends",
+  "/wiki/Winter_Celchu",
+  "/wiki/Eiattu_6",
+  "/wiki/Leonia_Tavira",
+  "/wiki/Soontir_Fel/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_30"
+ ]
+}

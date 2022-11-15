@@ -1,0 +1,55 @@
+{
+ "name": "Yansan",
+ "display_name": "Yansan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Moltok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ho'Din"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yansan was a Ho'Din male saboteur. An ecology student on his native Moltok, Yansan always despised technology to a fanatic extent—even for a Ho'Din. He concluded that the evils of technology were too big and that he should \"free\" the galaxy from technology.\nYansan enlisted in Traval-Parcor System Institute of Technology, to learn all he could about the hated subject, and obtained his degree on 1 BBY. He then became a saboteur, constantly attacking starships specially in Hijoian Space, an area with intense Rebel activity. One in each three starships he attacked was owned or operated by the Rebel Alliance, and he caused the death of three civilians.\nAround 1 ABY or 2 ABY, Yansan destroyed a Rebel ship on Ichalin Station, with four Rebel agents inside it. All of them died when escape proved to be impossible.\nOn 2 ABY, Yansan caused two Rebel GR-75 medium transports to collide on Hijoian Docks. Nobody was injured, but the Alliance would take some time to recover from the loss.\nRebel pilot Bakki Sourthol was assigned to write an intelligence report about Yansan. Sourthol had met Yansan on Fakir sector when the Ho'Din tried to destroy the transport Sourthol was in. Thanks to that encounter, Sourthol noticed that Yansan had a limp, preferring the left leg, and reported it as an identification feature.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Moltok/Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lieutenant_Commander/Legends",
+  "/wiki/Bakki_Sourthol",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Intelligence_Reports",
+  "/wiki/Traval-Parcor_System_Institute_of_Technology",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Hijoian_Space",
+  "/wiki/1_ABY/Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Ichalin_Station",
+  "/wiki/GR-75_medium_transport/Legends",
+  "/wiki/Hijoian_Docks",
+  "/wiki/Fakir_sector/Legends"
+ ]
+}

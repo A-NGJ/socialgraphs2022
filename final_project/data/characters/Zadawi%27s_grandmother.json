@@ -1,0 +1,63 @@
+{
+ "name": "Zadawi%27s_grandmother",
+ "display_name": "Zadawi's grandmother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Arkania"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arkanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This old woman was an offshoot Arkanian who was forced to live in a slum in Arkania by the purebreds, along with her son and her granddaughter, Zadawi. Despite her situation, she had great respect for Arkoh Adasca and Adascorp and was convinced things would get better soon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Zadawi%27s_grandmother",
+  "/wiki/Arkania/Legends",
+  "/wiki/Arkanian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Arkanian_Offshoot/Legends",
+  "/wiki/Zadawi%27s_father",
+  "/wiki/Zadawi",
+  "/wiki/Arkoh_Adasca",
+  "/wiki/The_Adasca_BioMechanical_Corporation_of_Arkania",
+  "/wiki/Knights_of_the_Old_Republic_16"
+ ]
+}

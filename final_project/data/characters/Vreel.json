@@ -1,0 +1,54 @@
+{
+ "name": "Vreel",
+ "display_name": "Vreel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Rebel Alliance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vreel was a recruit at Training Camp IMIIF-138 on Sirpar. He was tall and slender with visible tattoos on the sides of his scalp. He hailed from a backwater world on the fringes of the Galactic Empire. Though his planet was rich in culture and tradition, Vreel was essentially a non-conformist who longed for traveling and adventuring. He joined the Empire, only to learn how tyrannical it was, and he secretly wanted to join the Rebellion.\nOne day, exhausted from the hard training, Vreel nearly blew himself and his entire platoon up, because he made a mistake in setting the timer on a thermal detonator. He was saved when a fellow recruit, who was actually a Rebel agent, threw the detonator clear before it detonated. Vreel was eternally grateful and, being an honorbound man, he swore to serve his savior until his debt was repaid.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Training_Camp_IMIIF-138",
+  "/wiki/Sirpar/Legends",
+  "/wiki/Tattoo/Legends",
+  "/wiki/Platoon/Legends",
+  "/wiki/Timer",
+  "/wiki/Thermal_detonator/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/You%27re_in_the_Army_Now!",
+  "/wiki/Star_Wars_Adventure_Journal_2",
+  "/wiki/Classic_Adventures:_Volume_Four_-_The_Best_of_the_Journal"
+ ]
+}

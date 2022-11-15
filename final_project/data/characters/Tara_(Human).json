@@ -1,0 +1,45 @@
+{
+ "name": "Tara_(Human)",
+ "display_name": "Tara  (Human)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tara was a Human woman, who lived on the planet Cularin during the waning years of the Galactic Republic.\nTara worked as a waitress in the bar Spanner's, which was located in the city of Hedrett, on Cularin. She had worked there for two years when the heroes of Cularin visited the bar in about 31 BBY.\nTara was a female Human with long, brown hair that was braided. She liked the clientele and atmosphere of Spanner's, and was good at her job.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tara",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Spanner%27s",
+  "/wiki/Hedrett",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Oblivion%27s_Kiss"
+ ]
+}

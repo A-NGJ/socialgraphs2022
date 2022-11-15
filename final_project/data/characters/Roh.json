@@ -1,5 +1,6 @@
 {
  "name": "Roh",
+ "display_name": "Roh",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Roh was a female Hapan officer under Moreem Espara.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hapes/Legends",

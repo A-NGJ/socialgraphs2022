@@ -1,5 +1,6 @@
 {
  "name": "Razorclaw",
+ "display_name": "Razorclaw",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Scarjaw was a Mutated Geonosian male champion during the Invasion of Ossus.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3628_BBY",

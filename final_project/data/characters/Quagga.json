@@ -1,5 +1,6 @@
 {
  "name": "Quagga",
+ "display_name": "Quagga",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Quagga was a Wookiee and former slave to an Imperial engineer. The engineer eventually bought Quagga's freedom, and the Wookiee set up a repair shop in the outskirts of Tatooine's Anchorhead. However, his methods were expensive, his location remote, and the local Jawas were fierce competition. With his business failing, Quagga resolved to enter Jabba the Hutt's demolition contests using a fully refurbished AAT in hope of securing a large enough fortune to set up shop in the center of Mos Eisley.\nQuagga's fate is largely unknown. Accounts are conflicting, placing him both as a slave to Jabba the Hutt and as the winner of enough prize money to achieve his dream.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashyyyk/Legends",

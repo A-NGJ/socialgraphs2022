@@ -1,0 +1,61 @@
+{
+ "name": "Talo",
+ "display_name": "Talo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sullust"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yiyar clanYiyar Salvage Corporation",
+      "Yiyar Salvage Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talo was a male Sullustan gangster who worked for the Yiyar Salvage Corporation during the Galactic Civil War between the Galactic Empire and Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullust/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yiyar_clan",
+  "/wiki/Yiyar_Salvage_Corporation",
+  "/wiki/Gangster/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Beyond_the_Rim"
+ ]
+}

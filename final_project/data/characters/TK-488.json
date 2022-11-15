@@ -1,0 +1,53 @@
+{
+ "name": "TK-488",
+ "display_name": "TK-488",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial MilitaryStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-488 was a stormtrooper during the Galactic Civil War. He was stationed in Coronet on the planet Corellia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Military/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Sony",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Coronet/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TK-488",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

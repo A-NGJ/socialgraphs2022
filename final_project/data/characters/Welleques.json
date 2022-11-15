@@ -1,0 +1,62 @@
+{
+ "name": "Welleques",
+ "display_name": "Welleques",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "53 BBY",
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Welleques was a male Human who was one of the leaders of the insurgents against the corrupt Lord Crion on Telos IV. Welleques was not a righteous man and used dirty tactics such as killing Crion's daughter, Nason. Welleques was killed by Dairoki, Nason's lover.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/53_BBY/Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Crion",
+  "/wiki/Nason",
+  "/wiki/Dairoki",
+  "/wiki/Jedi%E2%80%94The_Dark_Side_3",
+  "/wiki/Jedi%E2%80%94The_Dark_Side_4"
+ ]
+}

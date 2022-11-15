@@ -1,0 +1,75 @@
+{
+ "name": "Var-Nok",
+ "display_name": "Var-Nok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cult of the Screaming Blade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Var-Nok was a male Weequay bodyguard of the Cult of the Screaming Blade leader Paladius. In 3643 BBY he and Shar-Nok engaged Kallig alongside their master, but were defeated and killed.\nVar-Nok appears in Star Wars: The Old Republic during the Sith Inquisitor class mission on the planet Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Cult_of_the_Screaming_Blade",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Paladius",
+  "/wiki/Shar-Nok",
+  "/wiki/Darth_Nox",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Planet/Legends"
+ ]
+}

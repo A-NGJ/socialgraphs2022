@@ -1,0 +1,65 @@
+{
+ "name": "Greezim_Trentacal",
+ "display_name": "Greezim Trentacal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "9 ABY",
+      "Gabredor III"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Karazak Slavers Cooperative"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Greezim Trentacal was a bulky slavemaster for the Karazak Slavers Cooperative on Gabredor III who worked with the Pentastar Alignment and kidnapped two children of a businessman who was trying to defect to the New Republic. He was killed while trying to take off in the Atron's Mistress, possibly by a mute slave girl he kept.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Gabredor_III/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Karazak_Slavers_Cooperative",
+  "/wiki/Slavery/Legends",
+  "/wiki/Pentastar_Alignment",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Atron%27s_Mistress",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Blaze_of_Glory_(short_story)",
+  "/wiki/Star_Wars_Adventure_Journal_8",
+  "/wiki/The_Essential_Reader%27s_Companion",
+  "/wiki/Freighter/Legends"
+ ]
+}

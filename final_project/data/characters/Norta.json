@@ -1,5 +1,6 @@
 {
  "name": "Norta",
+ "display_name": "Norta",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Norta was a male Toydarian slaver who arranged a shipment of Imbat guards to Bandomeer with the Offworld Mining Corporation.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Toydarian/Legends",

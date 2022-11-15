@@ -1,0 +1,68 @@
+{
+ "name": "Yuos",
+ "display_name": "Yuos",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Anobis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Left Foot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "Farmers of Anobis"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ynos was a broad-shouldered leader of a farming village. He was one of the farmers on Anobis who decided to join the Rebellion. The farmers' decision caused the offworld dependent miners to plant land mines on his farm's fields, decimating it. In 24 ABY he with the help of the New Republic made peace with Elis's mining village.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Anobis",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Farm/Legends",
+  "/wiki/Farmer/Legends",
+  "/wiki/Mine/Legends",
+  "/wiki/24_ABY/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Elis",
+  "/wiki/Young_Jedi_Knights:_Return_to_Ord_Mantell"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "name": "Vessery",
+ "display_name": "Vessery",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Imperial Starfighter Corps",
+      "Imperial Officer Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vessery was a human male who served as a TIE fighter pilot within the Galactic Empire with the military rank of colonel. As a member of the Imperial Starfighter Corps, Vessery wore standard Imperial pilot uniform and gear, and flew a TIE/d \"Defender\" Multi-Role Starfighter. Vessery was light skin and had gray hair.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Vessery",
+  "/wiki/Broak_Vessery",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Military_rank",
+  "/wiki/Colonel",
+  "/wiki/Pilot",
+  "/wiki/TIE/d_%22Defender%22_Multi-Role_Starfighter",
+  "/wiki/Hair",
+  "/wiki/Star_Wars:_Starfighter_Missions"
+ ]
+}

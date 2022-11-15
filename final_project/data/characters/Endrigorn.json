@@ -1,5 +1,6 @@
 {
  "name": "Endrigorn",
+ "display_name": "Endrigorn",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Endrigorn was a Rakririan dealer who dealt in light sculptures, holo-art and precious gems.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rakrir",

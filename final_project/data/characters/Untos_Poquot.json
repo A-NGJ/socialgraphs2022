@@ -1,0 +1,53 @@
+{
+ "name": "Untos_Poquot",
+ "display_name": "Untos Poquot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Untos Poquot was a Human male who lost his wife in destruction of Alderaan. An excellent planner, he hated the Galactic Empire with a passionate fury. The Wookiee Worrumba had a life debt to Poquot. He led White Team during the capture of Black Ice and was killed during the assault.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Worrumba",
+  "/wiki/Life_debt/Legends",
+  "/wiki/White_Team_(Mortex)",
+  "/wiki/Battle_for_Black_Ice",
+  "/wiki/Black_Ice/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Black_Ice_(adventure)"
+ ]
+}

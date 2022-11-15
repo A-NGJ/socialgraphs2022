@@ -1,5 +1,6 @@
 {
  "name": "Garoush",
+ "display_name": "Garoush",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Garoush was a wealthy Rodian gambler. He was present in a casino in the space station at Issagra when a group of spacers who were avoiding bounty hunters arrived. He took great interest in them, and offered to bail them out of trouble in exchange for them performing a service for him in the future.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

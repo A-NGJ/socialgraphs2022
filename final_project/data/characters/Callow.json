@@ -1,5 +1,6 @@
 {
  "name": "Callow",
+ "display_name": "Callow",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Callow was a Human male member of Lumbra's criminal organization.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/19_BBY/Legends",

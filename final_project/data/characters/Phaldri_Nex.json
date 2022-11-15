@@ -1,0 +1,34 @@
+{
+ "name": "Phaldri_Nex",
+ "display_name": "Phaldri Nex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Phaldri Nex was the Twi'lek manager of the vocalist Ema Slake.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ema_Slake",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/A_Campaign_Guide_to_the_Centrality",
+  "/wiki/Star_Wars_Gamer_5"
+ ]
+}

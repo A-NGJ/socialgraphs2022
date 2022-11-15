@@ -1,0 +1,59 @@
+{
+ "name": "Unidentified_Wookiee_agent",
+ "display_name": "Unidentified Wookiee agent",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "8 feet"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Wookiee male agent possessed secret plans that the spy Faddey was ordered to steal by his boss, Vosa. The Wookiee left the plans in the Day Star Hotel, where they were taken by Faddey.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Foot",
+  "/wiki/Color",
+  "/wiki/Spy",
+  "/wiki/Faddey",
+  "/wiki/Boss",
+  "/wiki/Vosa_(Chadra-Fan)",
+  "/wiki/Day_Star_Hotel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Wookiee_agent",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge_-_Episode_4"
+ ]
+}

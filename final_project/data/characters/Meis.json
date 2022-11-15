@@ -1,5 +1,6 @@
 {
  "name": "Meis",
+ "display_name": "Meis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Meis, a captain in the Imperial Navy, was one of Han Solo's commanding officers during Solo's first year of service.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

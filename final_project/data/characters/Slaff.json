@@ -1,0 +1,60 @@
+{
+ "name": "Slaff",
+ "display_name": "Slaff",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Desert Survey Office"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slaff was a Gamorrean who worked at the Desert Survey Office as Telowe's assistant. The Desert Survey Office was located in Mos Eisley.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Desert_Survey_Office/Legends",
+  "/wiki/Telowe",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Slaff",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Secrets_of_Mos_Eisley",
+  "/wiki/Star_Wars_Gamer_7"
+ ]
+}

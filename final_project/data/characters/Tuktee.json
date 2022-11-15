@@ -1,0 +1,64 @@
+{
+ "name": "Tuktee",
+ "display_name": "Tuktee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kiros"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuktee was a male Togruta from the planet Kiros.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tuktee",
+  "/wiki/Tuktee/Legends",
+  "/wiki/Kiros",
+  "/wiki/Togruta",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuktee",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Kidnapped",
+  "/wiki/Escape_from_Kadavo",
+  "/wiki/StarWars.com"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Lamorrack",
+ "display_name": "Lamorrack",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Lamorrack was a Wookiee New Republic representative from Kashyyyk. Following the Battle of Endor, he was captured by the Twi'lek slaver Slar-dan ti Gardi and sold to the Vax Mining Group.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashyyyk/Legends",

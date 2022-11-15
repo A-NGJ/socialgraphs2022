@@ -1,0 +1,78 @@
+{
+ "name": "Tarina",
+ "display_name": "Tarina",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tevel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tevellan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarina was a Tevellan female who was forced to work in a bacta production plant on Tevel by the First Order. Alongside Karkan and Menon, Tarina attempted to fight back, contacting the Resistance for help. The Resistance sent Finn and Poe Dameron, who managed to help the Tevellans liberate the facility.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tarinna",
+  "/wiki/Tevel",
+  "/wiki/Tevellan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Bacta",
+  "/wiki/First_Order",
+  "/wiki/Karkan",
+  "/wiki/Menon",
+  "/wiki/Mission_to_Tevel",
+  "/wiki/Finn",
+  "/wiki/Poe_Dameron",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tarina",
+  "/wiki/Choose_Your_Destiny:_A_Finn_%26_Poe_Adventure"
+ ]
+}

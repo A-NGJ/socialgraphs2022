@@ -1,0 +1,64 @@
+{
+ "name": "Jaff_Basan",
+ "display_name": "Jaff Basan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Veros"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Verosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Basan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jaff Basan was a male Verosian and member of the House of Basan, a family of bankers. The Galactic Empire had taken much of his family's wealth, but by 0 ABY he was still quite rich. He played Klikklak with Lando Calrissian at Luck Luck Freidal's casino before it was raided by Imperial authorities.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Veros",
+  "/wiki/Verosian",
+  "/wiki/Gender",
+  "/wiki/House_of_Basan",
+  "/wiki/Galactic_Empire",
+  "/wiki/0_ABY",
+  "/wiki/Klikklak",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Luck_Luck_Freidal",
+  "/wiki/Luck_Luck_Freidal%27s_casino",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jaff_Basan",
+  "/wiki/The_Angle",
+  "/wiki/From_a_Certain_Point_of_View"
+ ]
+}

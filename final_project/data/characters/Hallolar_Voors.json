@@ -1,0 +1,60 @@
+{
+ "name": "Hallolar_Voors",
+ "display_name": "Hallolar Voors",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jubilar"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "12 BBY",
+      "Jubilar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hallolar Voors was an entrepreneur on Jubilar. The son of a wealthy local businessman, Voors trafficked in spice, and was apparently able to find a source of the substance independent of the Hutts, who controlled the spice trade in the local sector. In 12 BBY, Jabba the Hutt put out a bounty on him to remove this competition; Boba Fett accepted the contract and killed Voors with a deadly neural toxin under the guise of being a buyer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jubilar/Legends",
+  "/wiki/12_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/The_Last_One_Standing:_The_Tale_of_Boba_Fett",
+  "/wiki/Tales_of_the_Bounty_Hunters",
+  "/wiki/Star_Wars:_Boba_Fett",
+  "/wiki/Aurra_Sing:_Dawn_of_the_Bounty_Hunters",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

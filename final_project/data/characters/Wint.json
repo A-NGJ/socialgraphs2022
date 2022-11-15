@@ -1,0 +1,65 @@
+{
+ "name": "Wint",
+ "display_name": "Wint",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clantaani"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Longo Two-Guns's gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Wrong-Way\" Wint was a male Clantaani who belonged to a gang of criminals in Mos Espa led by Longo Two-Guns during the waning years of the Galactic Republic. Jabba the Hutt placed a bounty on Wint for skimming profits from a \"legitimate\" protection agency on Mos Espa. He was captured by Jango Fett who claimed the bounty just after the Battle of Naboo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Clantaani",
+  "/wiki/Gender/Legends",
+  "/wiki/Longo_Two-Guns%27s_gang",
+  "/wiki/Mos_Espa/Legends",
+  "/wiki/Longo_Two-Guns",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/StarWars.com",
+  "/wiki/So_Uncivilized:_Great_Gunslingers_in_Star_Wars"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Vakar",
+ "display_name": "Vakar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Military",
+      "Republic Military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vakar was a Human male Captain in the Republic Military of the Galactic Republic. He was stationed on Alderaan during the Alderaan Civil War and from the House Traders' Circle asked a fellow Republic citizen to strike a final blow to the opposition in King's Pass.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Alderaan_Civil_War",
+  "/wiki/House_Traders%27_Circle",
+  "/wiki/King%27s_Pass",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

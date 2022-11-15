@@ -1,5 +1,6 @@
 {
  "name": "Petri",
+ "display_name": "Petri",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Petri was an Umbaran male child from Hynestia who lived during the High Republic Era. Around 230 BBY, he was one of several children kidnapped by Tempest Runner Kara Xoo's Tempest of the Nihil pirates as would-be recruits, alongside the Kage Krylind and the humans Liam and Avon Starros.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Umbaran",

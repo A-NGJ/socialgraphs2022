@@ -1,5 +1,6 @@
 {
  "name": "Hugh",
+ "display_name": "Hugh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Hugh was a Duros padawan who visited the Jedi academy within the Jedi Temple on Coruscant during Roan Novachez's third year of attendance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

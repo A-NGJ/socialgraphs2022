@@ -1,0 +1,79 @@
+{
+ "name": "Gann_(assassin)",
+ "display_name": "Gann  (assassin)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3 BBY",
+      "Starstation 12"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gann was a former Imperial assassin condemned to death for his part in a brutal massacre.\nHowever, his sentence was commuted by Darth Vader along with those of Nevo, Fraal, and Lumus so that they could follow Boba Fett during his hunt of Abal Karda. Gann was killed by Fett in a photo booth on Starstation 12 after being interrogated by Boba Fett.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gann",
+  "/wiki/3_BBY/Legends",
+  "/wiki/Starstation_12",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Nevo",
+  "/wiki/Fraal",
+  "/wiki/Lumus",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Abal_Karda",
+  "/wiki/Boba_Fett:_Enemy_of_the_Empire_1",
+  "/wiki/Boba_Fett:_Enemy_of_the_Empire_2",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

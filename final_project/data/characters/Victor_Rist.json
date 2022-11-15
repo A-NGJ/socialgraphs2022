@@ -1,0 +1,83 @@
+{
+ "name": "Victor_Rist",
+ "display_name": "Victor Rist",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Both eyes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Rist"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Victor \"The Shade\" Rist was a male Human member of House Rist, a group of elite assassins and nobles of Alderaan. Around 3643 BBY he was residing within House Rist estate when an individual affiliated with the reconstituted Sith Empire infiltrated the building and tried to access the data on a security console. Victor Rist attacked the intruder, but was defeated and killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Victor_Rist",
+  "/wiki/Alderaan/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/House_Rist",
+  "/wiki/Assassin/Legends",
+  "/wiki/House_Rist_(estate)",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Second_Wind",
+ "display_name": "Second Wind",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cracian thumper"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Heatherdowns Hotel and Track"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Second Wind was a Cracian thumper who raced at the Heatherdowns Hotel and Track. During a race that occurred while the Herglic merchant Hamar-Chaktak met with a group of Rebel agents regarding a bacta theft, bookmakers gave Second Wind 7:1 odds.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cracian_thumper",
+  "/wiki/Heatherdowns_Hotel_and_Track",
+  "/wiki/Herglic/Legends",
+  "/wiki/Hamar-Chaktak",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Bacta_Heist",
+  "/wiki/Tapani_Sector_Instant_Adventures"
+ ]
+}

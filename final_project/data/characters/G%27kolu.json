@@ -1,5 +1,6 @@
 {
- "name": "G'kolu",
+ "name": "G%27kolu",
+ "display_name": "G'kolu",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "G'kolu was an male Anlari child who at some point traveled to Canto Bight aboard the Wayward Current.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Anlari",

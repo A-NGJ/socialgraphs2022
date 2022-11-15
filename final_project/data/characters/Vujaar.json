@@ -1,0 +1,48 @@
+{
+ "name": "Vujaar",
+ "display_name": "Vujaar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Reclamation Service",
+      "Imperial Reclamation Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vujaar was a male Chiss captain in the Imperial Reclamation Service of the Sith Empire. During the Galactic War he was stationed on Hoth, where he asked an Imperial to make in incursion into the Starship Graveyard and dispatch the Republic commandos stationed there.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Reclamation_Service",
+  "/wiki/Chiss/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Hoth/Legends",
+  "/wiki/Starship_Graveyard_(Hoth)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

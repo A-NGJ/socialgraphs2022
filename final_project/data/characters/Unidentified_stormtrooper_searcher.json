@@ -1,0 +1,60 @@
+{
+ "name": "Unidentified_stormtrooper_searcher",
+ "display_name": "Unidentified stormtrooper searcher",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Stormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stationed on the planet Lothal, this stormtrooper was tasked to hunt down a Rodian fugitive named Tseebo. During the search, he was with another stormtrooper, who was searching for the Spectres during the Empire Day celebration.\nThe stormtrooper was voiced by Steve Blum, who voiced Garazeb Orrelios in Star Wars Rebels.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Stormtrooper_Corps",
+  "/wiki/Planet",
+  "/wiki/Lothal",
+  "/wiki/Rodian",
+  "/wiki/Tseebo",
+  "/wiki/Stormtrooper",
+  "/wiki/Spectres",
+  "/wiki/Empire_Day",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_stormtrooper_searcher",
+  "/wiki/Steve_Blum",
+  "/wiki/Garazeb_Orrelios",
+  "/wiki/Star_Wars_Rebels",
+  "/wiki/Empire_Day_(episode)",
+  "/wiki/2016",
+  "/wiki/Star_Wars_Character_Encyclopedia:_Updated_and_Expanded"
+ ]
+}

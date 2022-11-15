@@ -1,0 +1,59 @@
+{
+ "name": "Soontir_Fel%27s_mother",
+ "display_name": "Soontir Fel's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fel family",
+      "Allied Grain and Roughage"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Soontir Fel's mother was a female Human and the mother of Soontir and Todr Fel.\nLike her husband, she worked for Allied Grain and Roughage, who owned a local agro-combine on Corellia, where the family lived.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fel_dynasty",
+  "/wiki/Allied_Grain_and_Roughage",
+  "/wiki/Soontir_Fel/Legends",
+  "/wiki/Todr_Fel",
+  "/wiki/Soontir_Fel%27s_father",
+  "/wiki/Agro-combine",
+  "/wiki/Corellia/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_25",
+  "/wiki/Star_Wars:_The_Ultimate_Visual_Guide",
+  "/wiki/Star_Wars:_The_Ultimate_Visual_Guide:_Special_Edition",
+  "/wiki/Star_Wars:_The_Ultimate_Visual_Guide:_Updated_and_Expanded"
+ ]
+}

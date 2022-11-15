@@ -1,0 +1,51 @@
+{
+ "name": "Norvaan_Kel",
+ "display_name": "Norvaan Kel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Three Families"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Norvaan Kel was a male Chevin who served the Portho Kaltemmic of the Three Families on Quesh during the Galactic War between the Galactic Republic and the resurgent Sith Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Three_Families",
+  "/wiki/Portho_Kaltemmic",
+  "/wiki/Quesh",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Norvaan_Kel",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

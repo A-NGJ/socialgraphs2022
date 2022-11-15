@@ -1,0 +1,45 @@
+{
+ "name": "Sevron_Ta",
+ "display_name": "Sevron Ta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ta's Roost"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sevron Ta was the Sullustan owner of Ta's Roost, a cantina in Zone Three in Gallisport on the planet Shesharile 5. Ta always made sure there was a table available for the use of the Rabid Mynocks, a swoop gang that protected the area.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Ta%27s_Roost",
+  "/wiki/Cantina/Legends",
+  "/wiki/Zone_Three",
+  "/wiki/Gallisport",
+  "/wiki/Planet/Legends",
+  "/wiki/Shesharile_5",
+  "/wiki/Rabid_Mynocks",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Swoop_Gangs",
+  "/wiki/Star_Wars_Adventure_Journal_6"
+ ]
+}

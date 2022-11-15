@@ -1,5 +1,6 @@
 {
  "name": "Craykan",
+ "display_name": "Craykan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Craykan was a Dyplotid male who was one of three Tech Masters, who ruled the junk planet of Trionak.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Dyplotid",

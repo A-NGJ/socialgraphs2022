@@ -1,0 +1,49 @@
+{
+ "name": "Yasil_Senerio",
+ "display_name": "Yasil Senerio",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Freliq"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yasil Senerio was a man who managed a farm on the planet Freliq, during the time of the Galactic Civil War. He was an adamant supporter of the idea that the lepusa were an intelligent species, especially after seeing his daughter be rescued by a lepusa's handiwork.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Freliq",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lepusa",
+  "/wiki/Species/Legends",
+  "/wiki/Jullisa_Senerio",
+  "/wiki/Creatures_of_the_Galaxy"
+ ]
+}

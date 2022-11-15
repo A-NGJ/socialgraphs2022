@@ -1,0 +1,55 @@
+{
+ "name": "Tiggs_Kaiga",
+ "display_name": "Tiggs Kaiga",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Faust"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tiggs Kaiga was a female Faust who served as the flight surgeon for Cobalt Squadron on D'Qar. She was tall and skinny and known to not have a sense of humor. She was trained to look for medical reasons, both physical and mental, that might cause a crew member to fail to perform their duties on a mission.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/The_Last_Jedi:_Cobalt_Squadron",
+  "/wiki/Faust",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/Doctor",
+  "/wiki/Cobalt_Squadron",
+  "/wiki/D%27Qar",
+  "/wiki/The_Last_Jedi:_Cobalt_Squadron_(audiobook)",
+  "/wiki/The_Last_Jedi:_Bomber_Command"
+ ]
+}

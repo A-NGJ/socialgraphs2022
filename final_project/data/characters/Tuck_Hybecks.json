@@ -1,0 +1,52 @@
+{
+ "name": "Tuck_Hybecks",
+ "display_name": "Tuck Hybecks",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Galdi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuck Hybecks was a human male who was arrested on the planet Niamos. He was transferred to the planet Belsavis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Andor",
+  "/wiki/Special:Upload",
+  "/wiki/Galdi",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Niamos",
+  "/wiki/Planet",
+  "/wiki/Belsavis",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuck_Hybecks",
+  "/wiki/Andor_(television_series)",
+  "/wiki/Narkina_5_(episode)"
+ ]
+}

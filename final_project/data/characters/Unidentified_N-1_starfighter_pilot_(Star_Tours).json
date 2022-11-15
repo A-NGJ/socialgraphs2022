@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_N-1_starfighter_pilot_(Star_Tours)",
+ "display_name": "Unidentified N-1 starfighter pilot  (Star Tours)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This N-1 starfighter pilot was a member of the Rebel Alliance. During a battle with Vulture droids, the pilot and two others escorted a Star Tours travel agency vessel down through the atmosphere of Naboo where it could deliver a Rebel spy to a safe hangar. However, she was eventually shot down by the pursuing Vulture droids, forcing the vessel to dive into one of Naboo's lakes.\nSince the Star Tours attraction visits one of three different planets during each segment of the ride, this starfighter pilot does not always appear.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Tours:_The_Adventures_Continue",
+  "/wiki/Skirmish_over_Naboo_(Galactic_Civil_War)",
+  "/wiki/Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I/Legends",
+  "/wiki/Star_Tours/Legends",
+  "/wiki/StarSpeeder_1000",
+  "/wiki/Naboo/Legends",
+  "/wiki/Unidentified_Rebel_spy"
+ ]
+}

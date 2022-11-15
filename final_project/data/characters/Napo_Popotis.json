@@ -1,0 +1,69 @@
+{
+ "name": "Napo_Popotis",
+ "display_name": "Napo Popotis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arcona"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Napo Popotis, also referred to as Popotis of Iziz or Popo, was a renowned Onderonian chef from Iziz employed by the Hutt Cartel on Nar Shaddaa during the Feast of Prosperity.\nPopotis became famous galaxy-wide for his experimental cookbook Delicacies from the Demon Moon. Popotis, dejected by his planet's bland cuisine made from tough game, became inspired to write this innovative cookbook containing flavorful fare which could be made from Dxun's creatures after he witnessed a shuttle incident. Popotis saw wild Drexls descend upon the shuttle's seasonings and spices, which triggered a zeal to innovate like never before.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/Onderon/Legends",
+  "/wiki/Arcona/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Chef/Legends",
+  "/wiki/Iziz/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Feast_of_Prosperity",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Book/Legends",
+  "/wiki/Delicacies_from_the_Demon_Moon",
+  "/wiki/Planet/Legends",
+  "/wiki/Dxun/Legends",
+  "/wiki/Shuttle/Legends",
+  "/wiki/Drexl",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

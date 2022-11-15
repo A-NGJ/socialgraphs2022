@@ -1,5 +1,6 @@
 {
  "name": "Moska",
+ "display_name": "Moska",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Moska was a Hutt who employed Nomo Sliken at some point of his life.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

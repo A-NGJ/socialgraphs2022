@@ -1,5 +1,6 @@
 {
  "name": "Harrgun",
+ "display_name": "Harrgun",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Harrgun was a male Wookiee who was killed during the liberation of the Wookiee homeworld Kashyyyk.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/5_ABY",

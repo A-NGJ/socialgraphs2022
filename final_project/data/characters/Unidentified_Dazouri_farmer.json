@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Dazouri_farmer",
+ "display_name": "Unidentified Dazouri farmer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gibbela"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dazouri"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Dazouri was a male farmer from the remote planet of Gibbela. Like the rest of his species, the farmer was polymorphic, being able to change into a small, weak form, and a larger, dangerous form with claws. During the rule of the Galactic Empire, a small Imperial task force was dispatched to Gibbela to conquer the planet for the Empire. While farming in his smaller form, the taskforce landed in a Sentinel-class landing craft in the middle of the farmer's crops. Several stormtroopers and an officer disembarked and confronted the farmer, ordering him to surrender. Angered, the farmer transformed into this large form and killed the surprised Imperial troops.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gibbela",
+  "/wiki/Dazouri",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Farmer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Mission_to_Gibbela",
+  "/wiki/Sentinel-class_landing_craft/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Unidentified_Imperial_officer_(Gibbela)",
+  "/wiki/The_Value_of_Proper_Intelligence_to_Any_Successful_Military_Campaign_is_Not_to_Be_Underestimated",
+  "/wiki/Star_Wars_Tales_19",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Cet_Willak",
+ "display_name": "Cet Willak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cet Willak was an Alliance Special Operations Major assigned as an Alliance observer aboard the Far Orbit in 0 ABY.\nWillak was none too pleased to be the Alliance watchdog amongst those whom he saw as \"cutthroats, thieves, murderers, and space-rats.\" He hoped to be reassigned to another duty, preferably with more \"action\". Willak unfortunately was not a skilled diplomat, and Captain Vedij had to intervene to keep the peace between the Alliance SpecOps officer and his crew. Willak's arrogance and abrasiveness, however, did not conceal ineptitude. He was a skilled tactical, strategic and logistics coordinator.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Special_Operations",
+  "/wiki/Major/Legends",
+  "/wiki/Alliance_observer",
+  "/wiki/Far_Orbit",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Thief/Legends",
+  "/wiki/Vervikk/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Dhas_Fenoep_Vedij",
+  "/wiki/The_Far_Orbit_Project"
+ ]
+}

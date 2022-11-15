@@ -1,0 +1,71 @@
+{
+ "name": "Xarval",
+ "display_name": "Xarval",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Over a century before 3639 BBY. Theoretika"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xarval was a male Duros who held the position of vice engineer aboard the Theoretika, a mobile research starship operated by Czerka Corporation over a century before the Galactic War between the Galactic Republic and the reconstituted Sith Empire. When the ship was damaged and stuck out in the Unknown Regions, Xarval found the engines to be completely useless, and was angry to find that non-emergency power was being shunted to the ship's research labs. As time went on, Xarval and other crewmembers suspected Chief Diirn of hoarding food in the lab, but when they broke into the lab, Xarval and the others were killed by Specimen Gamma 19.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3639_BBY",
+  "/wiki/Theoretika",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Unknown_Regions/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Diirn",
+  "/wiki/Specimen_Gamma_19",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

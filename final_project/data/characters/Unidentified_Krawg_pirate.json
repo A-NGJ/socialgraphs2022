@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_Krawg_pirate",
+ "display_name": "Unidentified Krawg pirate",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Krawg"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krawg pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a Krawg pirate in a group who operated in the Outer Rim Territories. The pirate's group was betrayed by Sana Starros and eventually captured by the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Krawg",
+  "/wiki/Color",
+  "/wiki/Krawg_pirates",
+  "/wiki/Sana_Starros",
+  "/wiki/Pirate",
+  "/wiki/Outer_Rim_Territories",
+  "/wiki/Galactic_Empire",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Krawg_pirate",
+  "/wiki/Star_Wars_(2015)_34"
+ ]
+}

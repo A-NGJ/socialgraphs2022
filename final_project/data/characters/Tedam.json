@@ -1,0 +1,69 @@
+{
+ "name": "Tedam",
+ "display_name": "Tedam",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Officer Corps",
+      "Imperial Officer Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tedam was a major who was in charge of the Imperial forces on Wobani. Leia Organa met with him during a humanitarian mission to the planet. He refused her request to relocate needy Wobani citizens, but was forced to allow the princess to take around a hundred people off the planet when she hired them as \"crew\" for her ship.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Officer_Corps",
+  "/wiki/Major",
+  "/wiki/Imperial_Military",
+  "/wiki/Wobani",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Planet",
+  "/wiki/Tantive_IV",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tedam",
+  "/wiki/Leia,_Princess_of_Alderaan",
+  "/wiki/Leia,_Princess_of_Alderaan_(audiobook)",
+  "/wiki/Leia_Organa:_Ordeal_of_the_Princess"
+ ]
+}

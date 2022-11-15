@@ -1,0 +1,90 @@
+{
+ "name": "Peragus_Mining_Facility_Maintenance_Officer",
+ "display_name": "Peragus Mining Facility Maintenance Officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3951 BBY",
+      "Peragus Mining Facility"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Peragus Mining Facility",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Peragus Mining Facility Maintenance Officer was responsible for droid repairs throughout the complex during the Dark Wars. He was killed in 3951 BBY by the facility's own droids when an HK-50 assassin droid hacked them during its search for Jedi Exile Meetra Surik.\nWhen Meetra Surik arrived on the Ebon Hawk, the ship's cargo was inventoried and the droids on board were sent to maintenance. One such droid was an HK-50 unit that presented himself as a mere protocol droid, he revealed Surik to be a Jedi causing divisions among the miners concerning the great bounty the Exchange had posted on her kind. As the droid wanted to make himself \"useful\", the maintenance officer put him to work until his Master left the medical bay. When the division between the miners became apparent, accidents began to occur involving droid malfunctions the maintenance officer could not explain. Suspecting a problem, though, he voice-locked the Maintenance Console to ensure that only he would be able to access droid commands, using the code \"Maintenance Control: Voiceprint ID: R1-B5.\"\nAt one point Sien approached him asking why would he want to help Coorta, a miner determined to collect the bounty, against the orders of the heads of the facility. Puzzled, he told Sien he had nothing to do with that, or any agreement with Coorta. HK-50 had been using his voice to issue orders to mining droids and access voice-locked computer consoles, he also used it to trick Coorta into helping him find a way off the station.\nAs the accidents became more frequent, he started sharing the security officer's assumptions of sabotage but remained completely clueless until the emergency lockdown was triggered and mining droids came for him. HK-50 gleefully recorded his last words as mining droids burned through the door of his office and drilled him to death with mining lasers.\nSurik would later find his corpse at the feet of HK-50 in the fuel depot. She tricked the droid, in turn, to get the code for a voiceprinted computer console which only the maintenance officer, or someone with his voice, could access.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Peragus_Mining_Facility_Maintenance_Officer",
+  "/wiki/3951_BBY",
+  "/wiki/Peragus_Mining_Facility",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Dark_Wars",
+  "/wiki/HK-50_series_assassin_droid",
+  "/wiki/Exile_(punishment)/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Ebon_Hawk",
+  "/wiki/Protocol_droid/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Exchange",
+  "/wiki/Sien",
+  "/wiki/Coorta",
+  "/wiki/Peragus_Mining_Facility_Security_Officer",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

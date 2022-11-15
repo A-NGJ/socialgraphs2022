@@ -1,0 +1,52 @@
+{
+ "name": "Svan",
+ "display_name": "Svan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Jomark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Svan was a Human male and villager on the planet Jomark.\nHe and Tarm became involved in a dispute over wage payment. Luke Skywalker and Joruus C'baoth sensed the disturbance from outside the house and arrived intending to mediate. Svan did not agree with C'baoth's decision, in favor of Tarm, and was prepared to fire his slugthrower. C'baoth in turn blasted the man with Force lightning, leaving Svan stunned on the ground and Skywalker shocked at the actions of the Jedi he had come to learn from.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jomark/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Tarm",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Joruus_C%27baoth",
+  "/wiki/Slugthrower/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force_lightning/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Dark_Force_Rising",
+  "/wiki/Dark_Force_Rising_(unabridged_audiobook)"
+ ]
+}

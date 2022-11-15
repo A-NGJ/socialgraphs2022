@@ -1,5 +1,6 @@
 {
  "name": "Junkin",
+ "display_name": "Junkin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Junkin was a Human male scout and demolitions expert in the Alliance to Restore the Republic, and held the rank of sergeant. He supervised explosives preparations for covert operations and consulted with General Madine to plan placement of explosives within the Endor control bunker. Part of the Endor strike team led by General Han Solo during the Battle of Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

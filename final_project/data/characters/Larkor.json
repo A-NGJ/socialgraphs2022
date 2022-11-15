@@ -1,5 +1,6 @@
 {
  "name": "Larkor",
+ "display_name": "Larkor",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Larkor was a Barabel and a member of the Rebel Alliance. A bounty on Larkor's head was claimed by bounty hunter Ssach'thirix.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Barabel/Legends",

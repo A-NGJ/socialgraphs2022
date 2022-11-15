@@ -1,0 +1,39 @@
+{
+ "name": "Vector_(convor)",
+ "display_name": "Vector  (convor)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wasskah"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Convor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vector was a convor from Wasskah. He served as the loyal pet of a spacer during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vector_(disambiguation)",
+  "/wiki/Wasskah/Legends",
+  "/wiki/Convor/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)"
+ ]
+}

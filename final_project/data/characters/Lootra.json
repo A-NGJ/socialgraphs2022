@@ -1,5 +1,6 @@
 {
  "name": "Lootra",
+ "display_name": "Lootra",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Lootra was a Human male from Telos IV. He was separated from his wife, Aaida during the Sith's bombing of the planet in 3958 BBY. By coincidence they both ended up on Nar Shaddaa, where they were reunited by Meetra Surik.\nLootra had come to Nar Shaddaa following the end of the Mandalorian Wars, searching for his lost wife Aaida. Nar Shaddaa was his last hope of trying to find her, where he almost gave up hope until Surik offered to help him. She rescued Aaida, who was being oppressed at the Refugee Sector, along with several others by the Exchange, and reunited her with Lootra.\nDialogue with Lootra triggers the \"Intergalactic Reunification\" quest, in which the character may decide to reunite him with Aaida. Dialogue upon completion will gain you influence with your crew. If Kreia is in your party and you give too many kind words to the couple, Kreia will comment on your weakness. If you tell them to help other people as you helped them, Kreia will instead be impressed that you inspired them to help others and you will gain influence along with light side points.\nHis reward for Surik is a random part to creating a lightsaber. If Surik has already built her first saber, Lootra will instead reward Surik with a lightsaber of which the color and type will be random.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Telos_IV",

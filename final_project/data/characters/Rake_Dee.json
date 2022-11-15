@@ -1,0 +1,54 @@
+{
+ "name": "Rake_Dee",
+ "display_name": "Rake Dee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kinyen"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Rake Dee was a male Gran farmer who lived in the Kemalo Farming Cluster on Kinyen. When the farming settlement fell behind on its seasonal quota, Dee suggested hiring the Corellian slicer Skaak Tippers to run the farm through droids. However, the slicer blackmailed the farmers, and when they ran out of credits, he programmed the droids to attack the Kemalo Farming Cluster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rake_(disambiguation)",
+  "/wiki/Kinyen",
+  "/wiki/Gran",
+  "/wiki/Gender",
+  "/wiki/Farmer",
+  "/wiki/Kemalo_Farming_Cluster",
+  "/wiki/Farm",
+  "/wiki/Corellian",
+  "/wiki/Slicer",
+  "/wiki/Skaak_Tippers_(slicer)",
+  "/wiki/Droid",
+  "/wiki/Credit",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Rake_Dee",
+  "/wiki/Knights_of_Fate"
+ ]
+}

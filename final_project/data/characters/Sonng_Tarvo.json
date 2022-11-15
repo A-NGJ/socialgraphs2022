@@ -1,0 +1,48 @@
+{
+ "name": "Sonng_Tarvo",
+ "display_name": "Sonng Tarvo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sonng Tarvo was a Human male who served as a Pistoleer Commander of the Galactic Republic during the Cold War. He was stationed in the Carrick Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Carrick_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sonng_Tarvo",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

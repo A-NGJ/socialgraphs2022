@@ -1,0 +1,75 @@
+{
+ "name": "Unidentified_Security_Police_major",
+ "display_name": "Unidentified Security Police major",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corporate Sector AuthoritySecurity Police",
+      "Security Police"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Mirkovig Hirken"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Security Police major was a battalion commander stationed at the Corporate Sector Authority's detention facility at Stars' End, on Mytus VII. The major had an officious, almost gruff appearance harboring a quick temper. He also carried a black swagger stick. He was the officer assigned to greet Madame Atuarre's Roving Performers on their arrival at Stars' End, and escort them to Viceprex Hirken. He was shot and killed by Han Solo during the Liberation of Stars' End.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Security_Police",
+  "/wiki/Mirkovig_Hirken",
+  "/wiki/Major/Legends",
+  "/wiki/Atuarre",
+  "/wiki/Battalion/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Stars%27_End/Legends",
+  "/wiki/Mytus_VII",
+  "/wiki/Officer/Legends",
+  "/wiki/Madame_Atuarre%27s_Roving_Performers",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Liberation_of_Stars%27_End",
+  "/wiki/Han_Solo_at_Stars%27_End",
+  "/wiki/Han_Solo_at_Stars%27_End_(comic_strip)"
+ ]
+}

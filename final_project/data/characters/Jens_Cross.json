@@ -1,0 +1,69 @@
+{
+ "name": "Jens_Cross",
+ "display_name": "Jens Cross",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jens Cross was the Human female daughter of the Republic Ambassador Davim Cross and his wife and the young sister of Imperial Intelligence agent Jahan Cross.\nDuring the Battle of Coruscant near the end of the Clone Wars, while her mother was killed, Jens was hauled into the lower levels of Coruscant by the dwellers of the area who had come to the surface to use the confusion of the battle to pillage and loot. Despite being barely older than Jens, Jahan followed them deep into the bowels of Coruscant, killing several thugs, but was several hours too late to save his sister. The death of his beloved sister haunted Jahan during the rest of his adult life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jens",
+  "/wiki/Alderaan/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Davim_Cross",
+  "/wiki/Jahan_Cross%27s_mother",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Jahan_Cross",
+  "/wiki/Battle_of_Coruscant/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Iron_Eclipse_2",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Iron_Eclipse_3",
+  "/wiki/Agent_of_the_Empire_%E2%80%93_Iron_Eclipse_4"
+ ]
+}

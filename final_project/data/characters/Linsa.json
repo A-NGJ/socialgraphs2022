@@ -1,5 +1,6 @@
 {
  "name": "Linsa",
+ "display_name": "Linsa",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Linsa was a Human female from Garos IV. In 5 BBY, she worked as an aide for Magir Paca, the influent assistant to the Minister of Commerce.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Garos_IV",

@@ -1,0 +1,53 @@
+{
+ "name": "Great_Hohokum",
+ "display_name": "Great Hohokum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "Pre–433 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hohokum"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Great Hohokum was a large and ancient Hohokum that was kept in the Otoh Gunga Zoological Research Facility in the last decades of the Galactic Republic. By 33 BBY, it was more than four centuries old, and was considered to be one of the most important creatures in the facility, second only to the dwarf opee sea killers Vink and Nink. That year, Jar Jar Binks accidentally deactivated half the hydrostatic bubbles containing the wildlife, releasing several animals including the Great Hohokum.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Hohokum/Legends",
+  "/wiki/Otoh_Gunga_Zoological_Research_Facility",
+  "/wiki/Standard_decade/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Standard_century/Legends",
+  "/wiki/Dwarf_opee_sea_killer",
+  "/wiki/Vink",
+  "/wiki/Nink_(dwarf_opee_sea_killer)",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Jar_Jar_Binks/Legends",
+  "/wiki/Hydrostatic_bubble/Legends",
+  "/wiki/Episode_I_Adventures_9:_Rescue_in_the_Core"
+ ]
+}

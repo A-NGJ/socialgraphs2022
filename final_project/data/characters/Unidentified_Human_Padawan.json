@@ -1,0 +1,88 @@
+{
+ "name": "Unidentified_Human_Padawan",
+ "display_name": "Unidentified Human Padawan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Ho'Din Jedi Master"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human Padawan served the Jedi Order and the Galactic Republic as a Commander in the Grand Army of the Republic during the Clone Wars.\nA Force-sensitive Human was trained in the ways of the Force by the Jedi Order during the decade marked by the Separatist Crisis. When the Clone Wars erupted between the Galactic Republic and the Confederacy of Independent Systems he was selected to become the Padawan of a Ho'Din Jedi healer and he took up the rank of Commander within the Grand Army of the Republic. Together with his master he traveled to the planet of Nadiem after it was attacked by the Confederacy. He was aiding the evacuation effort with his master when they discovered the young Kennan Taanzer who impressed both Jedi with his calmness during all the madness of war surrounding him. After testing Taanzer's blood, which revealed his Force-sensitivity, Taanzer was sent off-world where he would be eventually be relocated to the Jedi chapter house on Bogden 3.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Unidentified_Ho%27Din_Jedi",
+  "/wiki/Padawan/Legends",
+  "/wiki/Jedi_Commander/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi_training/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Separatist_Crisis/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Jedi_healer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Nadiem/Legends",
+  "/wiki/Battle_of_Nadiem",
+  "/wiki/Kennan_Taanzer",
+  "/wiki/Blood/Legends",
+  "/wiki/Bogden_Jedi_chapter_house",
+  "/wiki/Bogden_3",
+  "/wiki/Dark_Times_7"
+ ]
+}

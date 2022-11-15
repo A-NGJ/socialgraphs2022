@@ -1,0 +1,48 @@
+{
+ "name": "Del_Obarren",
+ "display_name": "Del Obarren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Del Obarren served as the Imperial Regional Prefect of the o'beki of A'Lenba on the planet Goroth Prime. A cold and hard individual, Obarren was pragmatic and had no sense of ethics or morality. People considered him to be cruel but he did not possess the level of emotion that cruelty needed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Regional_Prefect",
+  "/wiki/O%27beki",
+  "/wiki/A%27Lenba",
+  "/wiki/Planet/Legends",
+  "/wiki/Goroth_Prime",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

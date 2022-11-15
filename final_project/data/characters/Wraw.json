@@ -1,0 +1,52 @@
+{
+ "name": "Wraw",
+ "display_name": "Wraw",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Alliance Intelligence Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wraw was a male Bothan Intelligence officer who was a part of Meloque's infiltration of Caluula in order to destroy the planet's yammosk. He was also there to see if Alpha Red would work outside of a laboratory. He was characteristically sarcastic and butted heads with Han Solo continually during the mission.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Galactic_Alliance_Intelligence_Service",
+  "/wiki/Caluula/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Yammosk",
+  "/wiki/Alpha_Red",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wraw",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

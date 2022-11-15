@@ -1,0 +1,50 @@
+{
+ "name": "Iain_Sarkus",
+ "display_name": "Iain Sarkus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iain Sarkus was a Twi'lek male and a young member of the Hawkeyes during the Galactic War. In 3642 BBY, Iain was a reluctant agent of the Sith Empire until he defected to the Galactic Republic and helped the Resistance on Balmorra crack down the Imperial satellite defense system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hawkeyes",
+  "/wiki/Galactic_War",
+  "/wiki/3642_BBY",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

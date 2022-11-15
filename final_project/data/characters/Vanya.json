@@ -1,0 +1,45 @@
+{
+ "name": "Vanya",
+ "display_name": "Vanya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Uncle\" Vanya was a Twi'lek crime boss from the Corporate Sector. It was Vanya who gave the Outrider, a Corellian YT-2400, to a pilot in his employ named Dash Rendar. Through some creative accounting by Rendar's droid Leebo, Vanya inadvertently paid to upgrade the Outrider to become a smuggling ship. After Rendar saved his life during an Espo raid, Vanya gave up his grudge against him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Outrider/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/YT-2400_light_freighter/Legends",
+  "/wiki/Dash_Rendar/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/LE-BO2D9",
+  "/wiki/Security_Police",
+  "/wiki/West_End_Games",
+  "/wiki/All_the_Extras",
+  "/wiki/Shadows_of_the_Empire_Sourcebook",
+  "/wiki/Hyperspace:_The_Official_Star_Wars_Fan_Club",
+  "/wiki/Underworld_Appendix:_Swoops,_Spice,_and_Wretched_Rogues",
+  "/wiki/StarWars.com",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

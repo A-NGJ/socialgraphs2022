@@ -1,0 +1,62 @@
+{
+ "name": "Topuc_Ti",
+ "display_name": "Topuc Ti",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaminoan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Topuc Ti was a male Kaminoan who worked at the Kaliida Shoals Medical Center as an assistant to Nala Se during the Clone Wars. After Padawan Ahsoka Tano was treated in the hospital ward, she asked Ti for permission to contact the Jedi Temple.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Kaminoan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Kaliida_Shoals_Medical_Center/Legends",
+  "/wiki/Nala_Se/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Jedi_Temple",
+  "/wiki/Clone_Wars_Gambit:_Stealth",
+  "/wiki/Clone_Wars_Gambit:_Stealth_(audiobook)"
+ ]
+}

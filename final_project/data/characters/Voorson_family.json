@@ -1,0 +1,42 @@
+{
+ "name": "Voorson_family",
+ "display_name": "Voorson family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Kuat system"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Voorson family was a Human family based in the Kuat system. For generations, the Voorson family served as technicians at the Kuat Freight Port, living their entire lives in the same place. They were born in the Wellness Center, educated at company schools, then apprenticed to and eventually hired to work for Kuat Drive Yards. Most members of the family did not see any reason to leave Kuat Freight Port as it provided everything they needed and the pay was some of the best in the system. Some Voorsons did experience wanderlust and sought to find a life beyond the Kuat system.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voorson",
+  "/wiki/Human/Legends",
+  "/wiki/Kuat_system/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Kuat_Freight_Port",
+  "/wiki/Wellness_Center",
+  "/wiki/Kuat_Drive_Yards/Legends",
+  "/wiki/Johan_Voorson",
+  "/wiki/Nell_Voorson",
+  "/wiki/Shannon_Voorson",
+  "/wiki/Deen_Voorson",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Slaying_Dragons",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

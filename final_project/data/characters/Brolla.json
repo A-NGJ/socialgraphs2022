@@ -1,5 +1,6 @@
 {
  "name": "Brolla",
+ "display_name": "Brolla",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Brolla was a Hutt who was active during the Cold War. In 3643 BBY, they wanted someone to help them slice into a rival's computer system. Brolla did not say what they were looking for, but promised to pay the individual well.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

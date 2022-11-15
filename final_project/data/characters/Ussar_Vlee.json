@@ -1,0 +1,65 @@
+{
+ "name": "Ussar_Vlee",
+ "display_name": "Ussar Vlee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gand"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gand"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Elders of Gand",
+      "New RepublicRogue Squadron",
+      "Rogue Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ussar Vlee was a Gand ruetsavii who, along with two other companions, was sent to observe Ooryl Qrygg's life and determine whether or not he was worthy of becoming janwuine. Not only did he and his companions watch Qrygg, but they also participated in several battles with Ooryl's infamous starfighter squadron, Rogue Squadron. Vlee proved very adept at flying and undercover work.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gand_(planet)/Legends",
+  "/wiki/Gand/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Elders_of_Gand",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Ruetsavii",
+  "/wiki/Ooryl_Qrygg",
+  "/wiki/Janwuine",
+  "/wiki/Starfighter/Legends",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

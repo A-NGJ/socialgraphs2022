@@ -1,5 +1,6 @@
 {
- "name": "Proh'ven",
+ "name": "Proh%27ven",
+ "display_name": "Proh'ven",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Proh'ven was a male Neimoidian doctor living during the Cold War. In the Network Access on Nar Shaddaa he contracted an individual to test the combat capabilities of a new type of droids.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Neimoidian/Legends",

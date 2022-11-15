@@ -1,0 +1,48 @@
+{
+ "name": "Valenthyne_Farfalla%27s_father",
+ "display_name": "Valenthyne Farfalla's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Half-Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "House Farfalla"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Valenthyne Farfalla, was the leader of the half-Bothan people. Pernicar persuaded him to join the Galactic Republic some years prior to the Battles of Ruusan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Valenthyne_Farfalla",
+  "/wiki/Half-Bothan",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/House_Farfalla",
+  "/wiki/Pernicar",
+  "/wiki/Ruusan_campaign",
+  "/wiki/Jedi_vs._Sith_4"
+ ]
+}

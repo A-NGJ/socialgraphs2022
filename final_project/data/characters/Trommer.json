@@ -1,0 +1,67 @@
+{
+ "name": "Trommer",
+ "display_name": "Trommer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireChrome Shield Command",
+      "Chrome Shield Command"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trommer was an human male admiral under the command of Grand Moff Lynch Hauser and was the father of Ranulf Trommer. He saved his son from being shot by Hauser by \"accidentally\" bumping into the Grand Moff, throwing off his shot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/17th_Sector_Army",
+  "/wiki/Ranulf_Trommer/Legends",
+  "/wiki/Mora",
+  "/wiki/Admiral/Legends",
+  "/wiki/Grand_Moff/Legends",
+  "/wiki/Lynch_Hauser",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trommer",
+  "/wiki/River_of_Chaos_1",
+  "/wiki/River_of_Chaos_2",
+  "/wiki/River_of_Chaos_3",
+  "/wiki/River_of_Chaos_4"
+ ]
+}

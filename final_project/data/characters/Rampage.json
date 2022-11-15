@@ -1,5 +1,6 @@
 {
  "name": "Rampage",
+ "display_name": "Rampage",
  "side_bars": [
   {
    "name": "Physical description",
@@ -27,7 +28,7 @@
   }
  ],
  "content": "\"Rampage\" was the nickname of a TIE fighter pilot who served within the Galactic Empire. As a member of the Imperial Starfighter Corps, Rampage flew a TIE/rb heavy starfighter, and at one point was attacked by two X-wing starfighters above a blue celestial body.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Rampage_(disambiguation)",

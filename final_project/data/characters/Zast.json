@@ -1,0 +1,53 @@
+{
+ "name": "Zast",
+ "display_name": "Zast",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chev"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicAlliance Special ForcesNishr Taskforce",
+      "Alliance Special ForcesNishr Taskforce",
+      "Nishr Taskforce"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Zast was a free-born male Chev who served the Alliance to Restore the Republic during the Galactic Civil War. A member of the Alliance Special Forces, he was assigned to the Nishr Taskforce in 0 ABY. Zast served as the aide to the unit commander, Major Fisk Csino, as well as assisting in mission planning and coordinating the base operations of the company's headquarters, Nishr Base Seven.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chev",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Special_Forces/Legends",
+  "/wiki/Nishr_Taskforce",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Fisk_Csino",
+  "/wiki/Nishr_Base_Seven",
+  "/wiki/Rules_of_Engagement:_The_Rebel_SpecForce_Handbook"
+ ]
+}

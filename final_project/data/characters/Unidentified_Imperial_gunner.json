@@ -1,0 +1,67 @@
+{
+ "name": "Unidentified_Imperial_gunner",
+ "display_name": "Unidentified Imperial gunner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "15 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male individual was a gunner aboard a Star Destroyer in the Imperial Navy during the Battle of Jakku.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/15_BBY",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy",
+  "/wiki/Gunner",
+  "/wiki/Star_Destroyer",
+  "/wiki/Battle_of_Jakku",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Imperial_gunner",
+  "/wiki/The_Legends_of_Luke_Skywalker",
+  "/wiki/The_Legends_of_Luke_Skywalker_(audiobook)",
+  "/wiki/The_Starship_Graveyard",
+  "/wiki/The_Legends_of_Luke_Skywalker%E2%80%94The_Manga"
+ ]
+}

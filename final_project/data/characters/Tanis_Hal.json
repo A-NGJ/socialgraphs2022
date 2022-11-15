@@ -1,0 +1,49 @@
+{
+ "name": "Tanis_Hal",
+ "display_name": "Tanis Hal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hamnet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanis Hal was Hamnet's secretary. She was beautiful and well-paid but was constantly harassed while attempting to keep Icomia Hamnet, her employer's daughter under control.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tanis_(disambiguation)",
+  "/wiki/Hal",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hamnet",
+  "/wiki/Icomia_Hamnet",
+  "/wiki/Challenge_(magazine)",
+  "/wiki/Ananuru_Express_(article)",
+  "/wiki/Challenge_72",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

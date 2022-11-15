@@ -1,0 +1,55 @@
+{
+ "name": "Gormo_Vosadii_Grasso",
+ "display_name": "Gormo Vosadii Grasso",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Kajidic",
+     "values": [
+      "Vosadii"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gormo Vosadii Grasso was a Hutt and the owner of the Gus Treta Inner-System Market Station during the Galactic Civil War. He worked with the Scion's builders Hoersch-Kessel Drive, Inc. to stack modular expansions atop the station. He was dishonored among the Vosadii for a botched spice smuggling enterprise.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vosadii",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Gus_Treta_Inner-System_Market_Station",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Hoersch-Kessel_Drive,_Inc.",
+  "/wiki/Spice/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Suns_of_Fortune"
+ ]
+}

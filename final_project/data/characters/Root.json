@@ -1,5 +1,6 @@
 {
  "name": "Root",
+ "display_name": "Root",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Root was the nickname of a Human male with black hair living on Somov Rit as of 1000 BBY. He was the cousin and guardian of Zannah, Darovit, and Hardin. He was an ally of the Jedi Order, a friend of Torr Snapit, and apparently a Force-sensitive.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Somov_Rit",

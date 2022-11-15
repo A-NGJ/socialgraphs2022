@@ -1,0 +1,65 @@
+{
+ "name": "Dagrus_Rhine",
+ "display_name": "Dagrus Rhine",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal Naboo Security Forces",
+      "Kritus Morven"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dagrus Rhine was a corrupt officer of the Royal Naboo Security Forces.\nRhine was bribed several times by local criminal Kritus Morven. When Morven learned that the Royal Security Forces had started to search for his spice refineries, Morven tasked a spacer with delivering an authorization of credits to Rhine. In return, Rhine slowed the search down as much as he could, giving Morven the time to evacuate his refinery before it could be discovered.\nDagrus Rhine was a non-player character  in Star Wars Galaxies. He would spawn somewhere outside of Keren during Kritus Morven's third mission.\nDagrus Rhine spawned under the generic \"rsf_security_guard\" template, resulting in him consistently appearing as a brown haired Human female. This contradicted Kritus Morven's quest dialogue, who consistently referred to Rhine as a male. This article assumes that Rhine is canonically a Human male in the Star Wars Legends continuity, and that the female depiction is erroneous.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Kritus_Morven",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Officer/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Keren/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hair/Legends",
+  "/wiki/Canon"
+ ]
+}

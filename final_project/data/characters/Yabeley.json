@@ -1,0 +1,70 @@
+{
+ "name": "Yabeley",
+ "display_name": "Yabeley",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "26 ABY",
+      "Wayland"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yabeley was a young male Human Jedi Knight who served the New Jedi Order during the Yuuzhan Vong War. In 26 ABY, he was trained alongside Bey Gandan and Klin-Fa Gi, and would later develop a crush on Klin-Fa. The trio traveled to Wayland to investigate the Yuuzhan Vong presence on the world, whereupon they were captured by the Yuuzhan Vong, who tortured Yabeley to death in an interrogation attempt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Klin-Fa_Gi",
+  "/wiki/26_ABY",
+  "/wiki/Wayland",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Jedi_training/Legends",
+  "/wiki/Bey_Gandan",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Planet/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yabeley",
+  "/wiki/Emissary_of_the_Void"
+ ]
+}

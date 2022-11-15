@@ -1,0 +1,53 @@
+{
+ "name": "Ruhx_clan",
+ "display_name": "Ruhx clan",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Bog'Ruhx"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "32 BBY"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ruhx clan, or Ruhx family, was a crime family on Malastare headed by Bog'Ruhx. After Bog'Ruhx \"insulted\" Bazurkah, leader of the Bazurkah Clan, a rivalry developed between the families and Bog'Ruhx placed a bounty on the entire Bazurkah family. Jango Fett accepted this bounty as well as one from Bazurkah, effectively killing both leaders for the other.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Bog%27Ruhx",
+  "/wiki/Malastare/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Bazurkah",
+  "/wiki/Bazurkah_Clan",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Star_Wars:_Bounty_Hunter"
+ ]
+}

@@ -1,5 +1,6 @@
 {
- "name": "Lua'wan",
+ "name": "Lua%27wan",
+ "display_name": "Lua'wan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Lua'wan was a male Bothan who held the rank of Chief of Security of the prison in which Leia Organa Solo was kept following her arrest in 44 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bothan/Legends",

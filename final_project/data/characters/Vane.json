@@ -1,0 +1,48 @@
+{
+ "name": "Vane",
+ "display_name": "Vane",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bakura"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vane was a male Bakuran who was sent by Wilek Nereus to start trouble with the Rebel Alliance on the landing pad they were assigned to. He and several others mistook a Mon Calamari for a Ssi-ruu, resulting in the deaths of two Bakurans.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bakura/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Bakuran",
+  "/wiki/Gender/Legends",
+  "/wiki/Wilek_Nereus",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Ssi-ruu",
+  "/wiki/The_Truce_at_Bakura"
+ ]
+}

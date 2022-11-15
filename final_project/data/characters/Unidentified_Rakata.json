@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Rakata",
+ "display_name": "Unidentified Rakata",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rakata"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Cabal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rakata was a member of the Star Cabal during 3640 BBY and was present aboard the Star Chamber in the Null Zone when it was attacked by Cipher Nine and the remainder of Imperial Intelligence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rakata/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Cabal",
+  "/wiki/3640_BBY",
+  "/wiki/Star_Chamber_(space_station)",
+  "/wiki/Null_Zone",
+  "/wiki/Cipher_Nine",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

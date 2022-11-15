@@ -1,5 +1,6 @@
 {
  "name": "Kamida",
+ "display_name": "Kamida",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kamida was an Ewok princess who was courted by Tippet. In 4 ABY, Hirog made it appear that she was having an affair with a Lahsbee to drive the two species to declare war on each other.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

@@ -1,0 +1,63 @@
+{
+ "name": "Vepon-Du",
+ "display_name": "Vepon-Du",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss Mystics"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vepon-Du was a Voss Mystic living on Voss many years before the planet was discovered by the galactic society. He had a vision that required his own death, lest all of Voss be destroyed. Vepon-Du obeyed the vision and took a step from the Step of Harmony platform in Voss-Ka. The day of his death, Vepon-Du recorded his final thoughts in the Writings of Vepon-Du on a carving outside the Shrine of Healing in the Old Paths.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Voss_Mystics",
+  "/wiki/Writings_of_Vepon-Du",
+  "/wiki/Planet/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Step_of_Harmony",
+  "/wiki/Voss-Ka",
+  "/wiki/Shrine_of_Healing",
+  "/wiki/Old_Paths",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

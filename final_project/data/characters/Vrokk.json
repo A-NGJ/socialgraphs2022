@@ -1,0 +1,73 @@
+{
+ "name": "Vrokk",
+ "display_name": "Vrokk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gamorr"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "13 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bolgoink clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vrokk was a Gamorrean male and clan warlord of the Bolgoink clan. He was married to the clan matron Kufbrug and brother of Rog. Rog was married to Kufbrug's daughter, Gundruk, and the pair arranged for Vrokk to be killed by a kheilwar. They arranged for the tusker Guth to be accused of his murder, but the former Jedi Knight proved Guth's innocence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorr/Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bolgoink_clan",
+  "/wiki/Warlord/Legends",
+  "/wiki/Kufbrug",
+  "/wiki/Rog",
+  "/wiki/Gundruk",
+  "/wiki/Kheilwar",
+  "/wiki/Clan_boar",
+  "/wiki/Guth",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Murder_in_Slushtime",
+  "/wiki/Star_Wars_Adventure_Journal_14",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

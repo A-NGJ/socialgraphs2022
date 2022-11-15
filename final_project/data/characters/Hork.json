@@ -1,5 +1,6 @@
 {
  "name": "Hork",
+ "display_name": "Hork",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sergeant Hork commanded a platoon of soldiers in the Alliance to Restore the Republic during the Galactic Civil War. He commanded his unit during an operation to take an Imperial strongpoint.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Neris",
+ "display_name": "Neris",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sub-Prefect Neris was an Imperial bureaucrat. He was killed by Gornt Seron.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

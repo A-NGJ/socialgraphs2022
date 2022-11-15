@@ -1,5 +1,6 @@
 {
  "name": "Jannpyr",
+ "display_name": "Jannpyr",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Jannpyr was a Jiivahar tour guide working on Carest 1. He was the best known in his industry.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Carest_1",

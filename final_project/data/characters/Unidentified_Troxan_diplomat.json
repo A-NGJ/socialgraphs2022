@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_Troxan_diplomat",
+ "display_name": "Unidentified Troxan diplomat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Troxar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Troxan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bureaucratic Government of Troxar",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a male Troxan who served his species as a diplomat during the Clone Wars. On Coruscant, this Troxan visited the Jedi Temple to deliver an incendiary packet addressed to High Master Yoda. The Troxan was greeted at the door by a youngling, which he took as a slight—he wanted to speak only to a full-fledged Jedi. The boy, a Padawan named Whie Malreaux, was soon joined by his master, Jedi Master Maks Leem, who used the Force to calm the Troxan envoy. She swore to deliver the package directly to Yoda, and the Troxan handed it over. He then boarded a flier and flew away.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Troxar",
+  "/wiki/Troxan",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Jedi_Temple",
+  "/wiki/Incendiary_packet",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Yoda/Legends",
+  "/wiki/Youngling/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Whie_Malreaux/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Maks_Leem",
+  "/wiki/Flier",
+  "/wiki/Yoda:_Dark_Rendezvous"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Spudwee",
+ "display_name": "Spudwee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twi'lek Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spudwee was a Twi'lek who fought for Cham Syndulla during the Clone Wars against the Confederacy of Independent Systems' invasion of their homeworld. Spudwee was eventually killed and had their name carved in Aurebesh on a headstone just outside the Jixuan desert.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Spudwee",
+  "/wiki/Spudwee/Legends",
+  "/wiki/Ryloth",
+  "/wiki/22_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Twi%27lek_Resistance",
+  "/wiki/Cham_Syndulla",
+  "/wiki/Clone_Wars",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Battle_of_Ryloth",
+  "/wiki/Death",
+  "/wiki/Aurebesh",
+  "/wiki/Jixuan_desert",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Liberty_on_Ryloth",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

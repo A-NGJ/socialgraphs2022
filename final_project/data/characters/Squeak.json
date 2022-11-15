@@ -1,0 +1,68 @@
+{
+ "name": "Squeak",
+ "display_name": "Squeak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tintinna"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Big Bunji"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squeak was a Tintinna  messenger who worked for Big Bunji. On the day that Han Solo and Chewbacca were to transport Luke Skywalker and Obi-Wan Kenobi to Alderaan, Squeak met the smuggler in Mos Eisley to offer him a cargo of chak-root.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tintinna",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Big_Bunji/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Chak-root/Legends",
+  "/wiki/Star_Wars_(radio)",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Topps_Company,_Inc.",
+  "/wiki/2013_Topps_Star_Wars_Illustrated:_A_New_Hope"
+ ]
+}

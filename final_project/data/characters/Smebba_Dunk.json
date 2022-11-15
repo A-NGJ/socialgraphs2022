@@ -1,0 +1,43 @@
+{
+ "name": "Smebba_Dunk",
+ "display_name": "Smebba Dunk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Ruling Council"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smebba Dunk was the head of the Hutt Ruling Council when the Galactic Empire deployed armed forces to Nar Shaddaa 's Corellian Sector.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Hutt_Ruling_Council",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Corellian_Sector_(Nar_Shaddaa)/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Smebba_Dunk",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_7"
+ ]
+}

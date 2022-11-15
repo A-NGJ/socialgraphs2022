@@ -1,0 +1,72 @@
+{
+ "name": "Zindra",
+ "display_name": "Zindra",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bilbringi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hyperspeed Express"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zindra was a female Rodian. She worked for Hyperspeed Express as an office manager at the Bilbringi Shipyards, and was very helpful with requests.\nWhen the Jedi trainee Dal Konur went rogue and was being pursued on the request of Master Luke Skywalker, Zindra supplied Konur's pursuers with information regarding his movements on the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bilbringi_system",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hyperspeed_Express",
+  "/wiki/Bilbringi_Shipyards",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Dal_Konur",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zindra",
+  "/wiki/Wizards.com",
+  "/wiki/Rebel_Jedi"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Velloo",
+ "display_name": "Velloo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Intelligence",
+      "First Duros Division",
+      "Imperial Intelligence",
+      "First Duros Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Velloo was a male Duros Imperial Agent stationed on Vaiken Spacedock and informed an Imperial affiliate that Admiral Jefand Ange needed them again on Nar Shaddaa.\nAgent Velloo appeared in the video game Star Wars: The Old Republic, where he gave Imperial players on Vaiken Spacedock the bonus series for Nar Shaddaa. He, along with his Republic counterpart Major Tsel'rbah and the Alderaan bonus series mission givers, were removed in Game Update 4.1.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Imperial_Agent",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Admiral/Legends",
+  "/wiki/Jefand_Ange",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Major/Legends",
+  "/wiki/Tsel%27rbah"
+ ]
+}

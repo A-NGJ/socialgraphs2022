@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Ukian_worker",
+ "display_name": "Unidentified Ukian worker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ukian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Ukian worker lived on Ukio during the Clone Wars. He was a friend of Tonzet and helped him. He met Sanya when she and Tyzen Xebec went to Ukio to inspect the planet's energy shield.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ukian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ukio/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Tonzet",
+  "/wiki/Sanya",
+  "/wiki/Tyzen_Xebec",
+  "/wiki/Planet/Legends",
+  "/wiki/Ray_shield/Legends",
+  "/wiki/The_Clone_Wars:_Act_on_Instinct"
+ ]
+}

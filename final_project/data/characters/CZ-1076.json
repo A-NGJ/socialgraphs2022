@@ -1,5 +1,6 @@
 {
  "name": "CZ-1076",
+ "display_name": "CZ-1076",
  "side_bars": [
   {
    "name": "Physical description",
@@ -27,7 +28,7 @@
   }
  ],
  "content": "CZ-1076 was a human stormtrooper of the First Order.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

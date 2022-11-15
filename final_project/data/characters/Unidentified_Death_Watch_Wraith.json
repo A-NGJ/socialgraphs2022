@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Death_Watch_Wraith",
+ "display_name": "Unidentified Death Watch Wraith",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY-3 ABY",
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Death Watch",
+      "Wraiths",
+      "Wraiths"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Death Watch Wraith of the Mandalorian Death Watch lived during the time of the Galactic Civil War. He held the pass key for Section B of the Death Watch bunker on the planet Endor but was killed by an individual wanting access.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Death_Watch/Legends",
+  "/wiki/Wraith_(Death_Watch)",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Pass_key",
+  "/wiki/Death_Watch_bunker",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

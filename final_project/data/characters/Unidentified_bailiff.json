@@ -1,0 +1,54 @@
+{
+ "name": "Unidentified_bailiff",
+ "display_name": "Unidentified bailiff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lacertilo"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A member of the Lacertilo species served as a bailiff to an Imperial judge on Niamos around 5 BBY. The bailiff was present when the judge sentenced Cassian Andor—under the alias of Keef Girgo—to six years of detention.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Andor_(television_series)",
+  "/wiki/Lacertilo",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Species",
+  "/wiki/Unidentified_judge",
+  "/wiki/Niamos",
+  "/wiki/5_BBY",
+  "/wiki/Cassian_Jeron_Andor",
+  "/wiki/Standard_year",
+  "/wiki/Prison",
+  "/wiki/Announcement",
+  "/wiki/Aldhani_(episode)",
+  "/wiki/Kassa_(episode)"
+ ]
+}

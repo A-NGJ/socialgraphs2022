@@ -1,5 +1,6 @@
 {
  "name": "Aymus",
+ "display_name": "Aymus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Aymus was a Weequay male aboard Port Tooga during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Weequay/Legends",

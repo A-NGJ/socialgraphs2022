@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Foerost_shipyards_employee",
+ "display_name": "Unidentified Foerost shipyards employee",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3996 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Foerost Shipyards"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male worked at the Foerost Shipyards in 3996 BBY, during the time of the Great Sith War. That year, Sith Lord Ulic Qel-Droma attacked Foerost and killed the employee when he refused to yield to Qel-Droma's demands for the operations codes for the shipyards' new Republic warships.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/3996_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Foerost_Shipyards",
+  "/wiki/Time/Legends",
+  "/wiki/Great_Sith_War/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Ulic_Qel-Droma/Legends",
+  "/wiki/Battle_of_Foerost_(Great_Sith_War)",
+  "/wiki/Foerost/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Foerost_shipyards_employee",
+  "/wiki/Tales_of_the_Jedi_%E2%80%93_The_Sith_War_1"
+ ]
+}

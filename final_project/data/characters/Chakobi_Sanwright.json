@@ -1,0 +1,52 @@
+{
+ "name": "Chakobi_Sanwright",
+ "display_name": "Chakobi Sanwright",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "224th Imperial Armored Division",
+      "224th Imperial Armored Division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chakobi Sanwright was a human male Imperial Army trooper who served as a corporal in the Galactic Empire during the Mimban Campaign as a member of the 224th Imperial Armored Division.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/224th_Imperial_Armored_Division",
+  "/wiki/Imperial_Army_trooper",
+  "/wiki/Corporal",
+  "/wiki/Mimban_Campaign",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chakobi_Sanwright",
+  "/wiki/Solo:_A_Star_Wars_Story",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide"
+ ]
+}

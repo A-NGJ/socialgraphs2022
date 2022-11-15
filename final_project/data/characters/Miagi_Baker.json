@@ -1,0 +1,36 @@
+{
+ "name": "Miagi_Baker",
+ "display_name": "Miagi Baker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Miagi Baker was a Human living on Jubilar. He married Incavi Larado, but died shortly afterward. Although it was suspected that Incavi was behind his death, there was never sufficient evidence to prove she killed him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jubilar/Legends",
+  "/wiki/Incavi_Larado",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Miagi_Baker",
+  "/wiki/The_Last_One_Standing:_The_Tale_of_Boba_Fett",
+  "/wiki/Tales_of_the_Bounty_Hunters"
+ ]
+}

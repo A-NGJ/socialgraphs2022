@@ -1,0 +1,59 @@
+{
+ "name": "Xanif",
+ "display_name": "Xanif",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Azzim Anjiliac Atirue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xanif was a female Twi'lek who worked at Maya Armus, a spa owned by the Hutt Azzim Anjiliac Atirue located at Napdu, the moon of Da Soocha. Before its destruction at the behest of Darth Azard, Azzim ordered Xanif to transmit a recording of Azard's hologram transmission to Azzim's uncle, Vedo. As his last command, Azzim told Xanif to escape from Napdu if she can.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Azzim_Anjiliac_Atirue",
+  "/wiki/Maya_Armus",
+  "/wiki/Hutt/Legends",
+  "/wiki/Napdu",
+  "/wiki/Moon/Legends",
+  "/wiki/Da_Soocha",
+  "/wiki/Devastation_of_Da_Soocha",
+  "/wiki/Darth_Azard",
+  "/wiki/Hologram/Legends",
+  "/wiki/Vedo_Anjiliac_Atirue",
+  "/wiki/Legacy_(2006)_48"
+ ]
+}

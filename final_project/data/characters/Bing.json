@@ -1,5 +1,6 @@
 {
  "name": "Bing",
+ "display_name": "Bing",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Bing was a female bounty hunter affiliated with the Haxion Brood crime syndicate. In 14 BBY, Bing was sent from Ordo Eris by the Haxion Brood to eliminate the Jedi Knight Cal Kestis, but failed and got herself killed.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/14_BBY",

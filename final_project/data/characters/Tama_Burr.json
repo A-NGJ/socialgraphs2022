@@ -1,0 +1,50 @@
+{
+ "name": "Tama_Burr",
+ "display_name": "Tama Burr",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tama Burr was a Human woman who dealt in bird commerce on Recopia. Her manor was equipped to meet the needs of a variety of exotic species. She had provided numerous rare animals for the Abersaith Aviary on Corulag.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Recopia",
+  "/wiki/Species/Legends",
+  "/wiki/Abersaith_Aviary",
+  "/wiki/Corulag/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tama_Burr",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

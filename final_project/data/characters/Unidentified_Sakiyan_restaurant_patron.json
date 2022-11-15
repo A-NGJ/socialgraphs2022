@@ -1,0 +1,32 @@
+{
+ "name": "Unidentified_Sakiyan_restaurant_patron",
+ "display_name": "Unidentified Sakiyan restaurant patron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "When Jax Pavan and Nick Rostu visited Gort's, a restaurant on the planet Coruscant in 19 BBY, there was a Sakiyan patron enjoying nexufish sulyet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sakiyan/Legends",
+  "/wiki/Jax_Pavan",
+  "/wiki/Nick_Rostu",
+  "/wiki/Gort%27s",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Nexufish",
+  "/wiki/Sulyet",
+  "/wiki/Coruscant_Nights_I:_Jedi_Twilight"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Thraka_Duroth",
+ "display_name": "Thraka Duroth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arkanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Torga"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thraka Duroth was an Arkanian lieutenant of Torga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arkanian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Torga",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Positive_ID",
+  "/wiki/Wizards.com",
+  "/wiki/The_Kitonak_Connection"
+ ]
+}

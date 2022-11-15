@@ -1,0 +1,60 @@
+{
+ "name": "Txer",
+ "display_name": "Txer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wayland"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Myneyrsh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Free People"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Txer was a male Myneyrsh from Wayland and was the leader of the Free People who were fighting the Yuuzhan Vong. Txer found and aided Uldir Lochett in his search for Klin-Fa Gi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wayland",
+  "/wiki/Myneyrsh",
+  "/wiki/Gender/Legends",
+  "/wiki/Free_People",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Uldir_Lochett",
+  "/wiki/Klin-Fa_Gi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Txer",
+  "/wiki/Emissary_of_the_Void"
+ ]
+}

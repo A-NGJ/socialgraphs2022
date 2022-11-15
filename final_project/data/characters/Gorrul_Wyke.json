@@ -1,0 +1,60 @@
+{
+ "name": "Gorrul_Wyke",
+ "display_name": "Gorrul Wyke",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Seregar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tern Ashandrik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorrul Wyke was a male Human skiff pilot who worked for Tern Ashandrik. He was often responsible for picking up supplies for Ashandrik's base on Seregar from Sutloo's Trading Post every few weeks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Seregar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tern_Ashandrik",
+  "/wiki/Skiff/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Sutloo%27s_Trading_Post",
+  "/wiki/West_End_Games",
+  "/wiki/Seregar_Turnabout",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

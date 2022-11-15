@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Mon_Calamari_Padawan",
+ "display_name": "Unidentified Mon Calamari Padawan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A young Mon Calamari male Padawan was a member of the Jedi Order. At some point, the Padawan attempted to steal the clay figures of Jedi Master Wishan but was scared off by Jedi Knight Jabe Rann's sculpture of a dragon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Padawan",
+  "/wiki/Clay",
+  "/wiki/Jedi_Master",
+  "/wiki/Wishan",
+  "/wiki/Jedi_Knight",
+  "/wiki/Jabe_Rann",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge_-_Episode_1"
+ ]
+}

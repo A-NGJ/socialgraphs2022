@@ -1,5 +1,6 @@
 {
  "name": "Char",
+ "display_name": "Char",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -39,7 +40,7 @@
   }
  ],
  "content": "\"Char\" was the nickname of a TIE fighter pilot in the Galactic Empire's 204th Imperial Fighter Wing, nicknamed as such by the pilots of the New Republic due to the carbon scoring on their TIE fighter. Char took part on the attack in Oridol Cluster and died when tried to help the rebel pilot Wyl Lark to save the planet Pandem Nai.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/4_ABY",

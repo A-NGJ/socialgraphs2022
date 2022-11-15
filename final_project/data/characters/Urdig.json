@@ -1,0 +1,69 @@
+{
+ "name": "Urdig",
+ "display_name": "Urdig",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 3643 BBY and 3630 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urdig was a male Pureblood Sith living during or after the Cold War.\nTormentor Urdig was added to Star Wars: The Old Republic with Knights of the Eternal Throne expansion as a World Boss for Dark vs. Light system. Whenever the dark side of the Force reaches victory state on a server, Tormentor Urdig has a chance to spawn at one or more of selected locations on Tatooine alongside other Dark Side World Bosses. Though killing him is required for an in-game achievement, it is impossible to determine when his death took place.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/3630_BBY",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Dark_side_of_the_Force/Legends"
+ ]
+}

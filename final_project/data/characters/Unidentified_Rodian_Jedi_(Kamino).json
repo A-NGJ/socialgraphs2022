@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Rodian_Jedi_(Kamino)",
+ "display_name": "Unidentified Rodian Jedi  (Kamino)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 22 BBY, a Rodian Jedi was present at the briefing led by Jedi Master Obi-Wan Kenobi prior to the First Battle of Kamino. The Rodian flew a Delta-7 light interceptor with a team of other Jedi as part of the starfighter defense of Kamino.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/First_Battle_of_Kamino",
+  "/wiki/Delta-7_Aethersprite-class_light_interceptor/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Republic_50"
+ ]
+}

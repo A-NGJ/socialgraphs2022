@@ -1,0 +1,27 @@
+{
+ "name": "Unidentified_Zeltron_(Clendor)",
+ "display_name": "Unidentified Zeltron  (Clendor)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeltron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Zeltron ran a brewery on the planet Clendor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zeltron/Legends",
+  "/wiki/Unidentified_brewery",
+  "/wiki/Planet/Legends",
+  "/wiki/Clendor",
+  "/wiki/The_Essential_Guide_to_Warfare"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Dragomir_Chlorus",
+ "display_name": "Dragomir Chlorus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Gaming Commission"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dragomir Chlorus was a Human male who served as a Commissioner for the Galactic Gaming Commission in the waning days of the Galactic Republic. He was responsible for monitoring the gladiatorial fights between prisoners at the Cog Hive Seven prison that were funded by the InterGalactic Banking Clan.\nChlorus had a relationship history with the warden at the prison, Sadiki Blirr.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Gaming_Commission",
+  "/wiki/Commissioner_(Galactic_Gaming_Commission)",
+  "/wiki/Standard_day/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Gladiator/Legends",
+  "/wiki/Cog_Hive_Seven",
+  "/wiki/Prison/Legends",
+  "/wiki/InterGalactic_Banking_Clan/Legends",
+  "/wiki/Warden/Legends",
+  "/wiki/Sadiki_Blirr",
+  "/wiki/Maul:_Lockdown",
+  "/wiki/Maul:_Lockdown_(audiobook)"
+ ]
+}

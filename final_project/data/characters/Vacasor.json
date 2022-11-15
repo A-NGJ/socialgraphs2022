@@ -1,0 +1,59 @@
+{
+ "name": "Vacasor",
+ "display_name": "Vacasor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Devaron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vacasor was a Devaronian merchant during the Galactic Civil War.\nVacasor, a merchant and scout, bought the Merasy, a Nova-Drive 3-Z light freighter that had been previously owned by Geld Bernar and Iep Tumu before him. Vacasor replaced passengers' space with cargo decks but was bad at performing any further maintenance.\nVacasor intended to circumvent Known Space through little-used routes that were rich in piracy. He hired a shrewd, experienced Ithorian merchant, Naneb Pefan, to serve as his co-pilot. Pefan insisted in improving the shields.\nA bad trader himself, Vacasor remained in business though the considerable business skills of his co-pilot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaron/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Merasy",
+  "/wiki/Nova-Drive",
+  "/wiki/3-Z_light_freighter",
+  "/wiki/Geld_Bernar",
+  "/wiki/Iep_Tumu",
+  "/wiki/Pirate/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Naneb_Pefan",
+  "/wiki/Deflector_shield/Legends",
+  "/wiki/Stock_Ships"
+ ]
+}

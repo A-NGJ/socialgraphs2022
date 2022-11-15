@@ -1,0 +1,58 @@
+{
+ "name": "Tuvar",
+ "display_name": "Tuvar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black",
+      "military short"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Independent Voice News"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuvar was a Human male journalist who was on assignment for Independent Voice News at the Galactic Senate Rotunda during the Jedi coup of the Galactic Alliance. While reporting the incident in the building, he broke through a barrier until he was stun shot by security forces to prevent the automated laser from triggering in the vicinity.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Independent_Voice_News",
+  "/wiki/Kandra_Nilitz",
+  "/wiki/Journalist/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Senate_Building",
+  "/wiki/Jedi_coup_of_the_Galactic_Alliance",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)"
+ ]
+}

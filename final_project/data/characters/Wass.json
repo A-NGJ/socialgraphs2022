@@ -1,0 +1,65 @@
+{
+ "name": "Wass",
+ "display_name": "Wass",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wass was a boy who had Force potential but was ultimately unworthy of becoming a Jedi Knight and was sentenced to work on Dantooine. He organized his friends to fight against the Separatist droids when they attacked the planet. He had a knack for machines, and helped defeat the droids by plowing through them with farm machinery.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wass",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(comics)",
+  "/wiki/Graduation_Day",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_Volume_10",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

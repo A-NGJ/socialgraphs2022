@@ -1,0 +1,80 @@
+{
+ "name": "Altana_Thul",
+ "display_name": "Altana Thul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Thul"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Altana Thul was a Human female who was the wife of Markus Andarius Thul and the mother of Valyn Thul. After her husband was captured trying to infiltrate House Organa, he made a deal with the Republic and send Havoc Squad lieutenant to retrieve his wife and daughter before defecting. Altana was initially skeptical, but the soldier provided the correct codeword from Markus and the women agreed to slip away. Altana and Valyn reunited with Markus in House Organa before departing Alderaan for Chandrila.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Markus_Andarius_Thul",
+  "/wiki/Valyn_Thul",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Havoc_Squad",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

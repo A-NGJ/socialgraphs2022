@@ -1,5 +1,6 @@
 {
  "name": "Gift",
+ "display_name": "Gift",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Gift was the only surviving male son of two clone members of the Community, the Force-sensitive clones produced on a frozen moon in the Unknown Regions. Alongside nearly all of the other clones save for Soldier, he had begun suffering an illness once they left the moon for Mother. Gift succumbed to the sickness on Fhost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Frozen_moon",

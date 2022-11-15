@@ -1,0 +1,69 @@
+{
+ "name": "Vara_Karathas",
+ "display_name": "Vara Karathas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Five Worlds"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Admiral Vara Karathas was the chief of staff and military head of the Corellian Defense Force during the Second Galactic Civil War. She helped plan and execute the Battle of Tralus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vara_(disambiguation)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Five_Worlds",
+  "/wiki/Admiral/Legends",
+  "/wiki/Corellian_Defense_Force/Legends",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Battle_of_Tralus_(Second_Galactic_Civil_War)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vara_Karathas",
+  "/wiki/Legacy_of_the_Force:_Betrayal",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

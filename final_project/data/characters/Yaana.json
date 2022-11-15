@@ -1,0 +1,81 @@
+{
+ "name": "Yaana",
+ "display_name": "Yaana",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "53 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family",
+      "Rutan Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yaana was the Princess of Senali, the daughter of King Meenon of Senali.\nThe laws of Rutan and Senali made the kings of the planet and the moon exchange their firstborns when they were seven years old, in order to avoid a war. Yaana went to Rutan and was jailed by King Frane. Qui-Gon Jinn and his Padawan Obi-Wan Kenobi rescued her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/53_BBY/Legends",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/Rutan_Royal_Family",
+  "/wiki/Prince/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Meenon",
+  "/wiki/Rutan/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Frane",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace"
+ ]
+}

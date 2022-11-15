@@ -1,0 +1,81 @@
+{
+ "name": "Tradik",
+ "display_name": "Tradik",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Chin implant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tradik was a Human male major of the reconstituted Sith Empire who fought during the Galactic War.\nIn 3640 BBY, Tradik led Imperial forces at the Labor Valley of the Coronet City and fought rebel guerrillas during the Battle of Corellia. He allied with Jerris Rez who supplied military-grade ordnance and other weapons and Darbin Sull, who wanted to be Corellia's next prime minister.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Tradik",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Labor_Valley",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Jerris_Rez",
+  "/wiki/Darbin_Sull",
+  "/wiki/Corellia/Legends",
+  "/wiki/Prime_Minister/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

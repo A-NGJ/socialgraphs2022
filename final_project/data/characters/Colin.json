@@ -1,5 +1,6 @@
 {
  "name": "Colin",
+ "display_name": "Colin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Colin was a member of the Alliance to Restore the Republic stationed on Rafft.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,50 @@
+{
+ "name": "Ur_Ur",
+ "display_name": "Ur Ur",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ur Ur was a male Tusken Raider whom former senator Johhar Kessen hired as a native guide while hunting a Rancor and a Krayt dragon on Tatooine.\nUr Ur was created for 2014 mobile game Star Wars: Commander. He's a playable character in 9th and 11th missions in 10th chapter of Tatooine missions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Tatooine",
+  "/wiki/Tusken_Raider",
+  "/wiki/Gender",
+  "/wiki/Star_Wars:_Commander",
+  "/wiki/Senator",
+  "/wiki/Johhar_Kessen",
+  "/wiki/Hunting",
+  "/wiki/Rancor",
+  "/wiki/Krayt_dragon",
+  "/wiki/2014"
+ ]
+}

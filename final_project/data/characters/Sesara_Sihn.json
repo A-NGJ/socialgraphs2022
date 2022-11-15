@@ -1,0 +1,81 @@
+{
+ "name": "Sesara_Sihn",
+ "display_name": "Sesara Sihn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "35 ABY"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "43 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Raining Leaves Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sesara Sihn was a Dathomirian female and the only child of Olianne Sihn, war leader of the Raining Leaves Clan on the planet Dathomir. When Sesara was eight years old, she contracted a fever and later died.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/35_ABY/Legends",
+  "/wiki/43_ABY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Raining_Leaves_Clan",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Olianne_Sihn",
+  "/wiki/Planet/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Fate_of_the_Jedi:_Backlash",
+  "/wiki/Fate_of_the_Jedi:_Backlash_(audiobook)",
+  "/wiki/Everything_You_Always_Wanted_to_Know_about_the_Nightsisters_but_Were_Afraid_to_Ask",
+  "/wiki/Star_Wars_Insider_122",
+  "/wiki/Holocron_continuity_database",
+  "/wiki/Leland_Chee",
+  "/wiki/Witches_of_Dathomir",
+  "/wiki/Nightsisters/Legends"
+ ]
+}

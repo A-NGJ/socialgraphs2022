@@ -1,0 +1,62 @@
+{
+ "name": "Teki_D%27lund",
+ "display_name": "Teki D'lund",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "6 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Far Cry"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teki D'lund was the daughter of Hannis D'lund, a member of the dusk band Far Cry from Tuttin IV during the start of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/6_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Far_Cry",
+  "/wiki/Hannis_D%27lund",
+  "/wiki/Dusk",
+  "/wiki/Band/Legends",
+  "/wiki/Tuttin_IV",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Rebel_Bass",
+  "/wiki/Star_Wars_Gamer_6"
+ ]
+}

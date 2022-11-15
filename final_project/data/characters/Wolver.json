@@ -1,0 +1,72 @@
+{
+ "name": "Wolver",
+ "display_name": "Wolver",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY on S'krrr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wolver was a lieutenant in the Imperial Navy who served on the Imperial-class Star Destroyer Vengeance during the Galactic Civil War. Nine months after the Battle of Yavin, Wolver and Lieutenant Tier accompanied Captain Thrawn on a trip to S'krrr to study S'krrr art. While Thrawn was studying the Sikadian Gardens, Wolver left the shuttle Tessera to deliver a message to his commander. However, as he made his way to Thrawn, he was attacked by a swarm of drog beetles and eaten alive. When Thrawn later discovered the body, along with Zak and Tash Arranda, he launched a murder investigation to uncover the cause of Wolver's death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/S%27krrr",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Vengeance_(Imperial-class,_Jerec)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Tier",
+  "/wiki/Captain/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/S%27krrr_(species)",
+  "/wiki/Sikadian_Garden",
+  "/wiki/Shuttle/Legends",
+  "/wiki/Tessera",
+  "/wiki/Drog",
+  "/wiki/Zak_Arranda/Legends",
+  "/wiki/Tash_Arranda/Legends",
+  "/wiki/Galaxy_of_Fear:_The_Swarm"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_Sith_commander",
+ "display_name": "Unidentified Sith commander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Sith Pureblood served as the commander of the Sith Empire's battle cruiser Eclipse during the Battle of Corellia and died defending the vessel from the Jedi Knight known as the Hero of Tython.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Special:Upload",
+  "/wiki/Canon",
+  "/wiki/3640_BBY",
+  "/wiki/Corellia/Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cruiser/Legends",
+  "/wiki/Eclipse_(Harrower-class)",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Death/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

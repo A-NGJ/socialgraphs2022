@@ -1,0 +1,27 @@
+{
+ "name": "Varat%27k",
+ "display_name": "Varat'k",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gree"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varat'k was a Gree crewmember of the Rokak'k Baran.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gree/Legends",
+  "/wiki/Rokak%27k_Baran",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Gree_Enclave",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

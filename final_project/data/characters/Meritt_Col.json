@@ -1,0 +1,64 @@
+{
+ "name": "Meritt_Col",
+ "display_name": "Meritt Col",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Pale"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Meritt Col was a human female who served as a Sector Supervisor for the Czerka Corporation, also commanding the Czerka Corporation cruiser Leverage.\nMeritt Col first appeared in Master \u0026 Apprentice, a 2019 novel by Claudia Gray.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Czerka_Arms",
+  "/wiki/Sector_Supervisor",
+  "/wiki/Branch-class_vehicle",
+  "/wiki/Leverage",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Meritt_Col",
+  "/wiki/Master_%26_Apprentice",
+  "/wiki/2019",
+  "/wiki/Claudia_Gray",
+  "/wiki/Master_%26_Apprentice_(audiobook)"
+ ]
+}

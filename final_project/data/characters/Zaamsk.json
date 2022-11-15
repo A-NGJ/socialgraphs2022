@@ -1,0 +1,88 @@
+{
+ "name": "Zaamsk",
+ "display_name": "Zaamsk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zakuul"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3630 BBY",
+      "Zakuul"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Eternal Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zaamsk was a male Human citizen of the Eternal Empire of Zakuul. Working as security for the Overwatch, in 3630 BBY he and a fellow hunter Faedral engaged the rogue terrorist Firebrand and The Commander at the power junction in Breaktown. However, the hunters were defeated and killed.\nZaamsk appears in Star Wars: The Old Republic: Knights of the Fallen Empire Chapter 10: Anarchy in Paradise.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zakuul",
+  "/wiki/3630_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Zakuulan",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Overwatch",
+  "/wiki/Faedral",
+  "/wiki/Kaliyo_Djannis",
+  "/wiki/Alliance_Commander",
+  "/wiki/District_1327",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "name": "Erris_Wyum",
+ "display_name": "Erris Wyum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Corellian Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Erris Wyum was a Human male Corellian who worked as an agent for Corellian Intelligence during the Battle of Corellia between the Galactic Republic and the Sith Empire. His intelligence teams were responsible for gathering information on the Sith battle cruiser Eclipse, allowing the Hero of Tython to board the cruiser and prevent its detonation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Corellian_Intelligence",
+  "/wiki/Corellian/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith/Legends",
+  "/wiki/Cruiser/Legends",
+  "/wiki/Eclipse_(Harrower-class)",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

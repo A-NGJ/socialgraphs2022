@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Chiss_emissary",
+ "display_name": "Unidentified Chiss emissary",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Chiss emissary served the Chiss Ascendancy. The emissary was one of several sent by the Chiss Syndicure to speak with the government of the Paataatus after they began to press against Chiss territory. When the discussions ended, the emissary warned the Paataatus delegation of the destructive attack the Chiss would launch if they saw it necessary. While doing so, the emissary pointed into space, unintentionally identifying their optimal attack vector.\nWhen the Ascendancy attacked the Paataatus after they initiated an attack on the Chiss homeworld of Csilla, the Paataatus predicted their attack vector due to the emissary's actions, ambushing the Chiss starships as they exited hyperspace. Senior Captain Kiwu'tro'owmis obtained a detailed report of the meeting, using the emissary's reveal of their attack vector to justify the actions of Senior Captain Mitth'raw'nuruodo during a tribunal regarding his disobeying of orders in the battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Emissary",
+  "/wiki/Chiss_Syndicure",
+  "/wiki/Paataatus_Hiveborn",
+  "/wiki/Paataatus",
+  "/wiki/Realspace",
+  "/wiki/Attack_on_the_Paataatus",
+  "/wiki/Attack_on_Csilla",
+  "/wiki/Homeworld",
+  "/wiki/Csilla",
+  "/wiki/Starship",
+  "/wiki/Hyperspace",
+  "/wiki/Senior_Captain",
+  "/wiki/Kiwu%27tro%27owmis",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Gender",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising_(audiobook)"
+ ]
+}

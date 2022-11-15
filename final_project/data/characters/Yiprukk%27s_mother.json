@@ -1,0 +1,49 @@
+{
+ "name": "Yiprukk%27s_mother",
+ "display_name": "Yiprukk's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The mother of a young Force-sensitive Wookiee male named Yiprukk went around asking if others had seen her son after he had been kidnapped by a Trandoshan hunter. She had a blaster shot in her arm meaning she could not join in for the seach for her son.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kashyyyk",
+  "/wiki/Wookiee",
+  "/wiki/Gender",
+  "/wiki/Force-sensitive",
+  "/wiki/Yiprukk",
+  "/wiki/Unidentified_Trandoshan_hunter_(Kashyyyk)",
+  "/wiki/Search_for_Yiprukk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yiprukk%27s_mother",
+  "/wiki/Collapse_of_the_Republic"
+ ]
+}

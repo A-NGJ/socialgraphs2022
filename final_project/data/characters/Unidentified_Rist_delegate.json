@@ -1,0 +1,78 @@
+{
+ "name": "Unidentified_Rist_delegate",
+ "display_name": "Unidentified Rist delegate",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Rist"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male member of House Rist, one of the Great Houses of the planet Alderaan, attended the Alderaan Peace Summit in 3643 BBY as the delegate representing his house.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_Rist",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Great_Houses_of_Alderaan",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan_Peace_Summit",
+  "/wiki/3643_BBY"
+ ]
+}

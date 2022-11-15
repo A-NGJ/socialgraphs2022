@@ -1,0 +1,68 @@
+{
+ "name": "Viera_Creel",
+ "display_name": "Viera Creel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viera Creel was a female human diplomat from Corellia. At some point prior to the death of Emperor Palpatine, she was sent to the Anoat sector to represent the interests of her homeworld there. When Governor Ubrik Adelhard put the entire sector on lockdown to prevent the news of the Emperor's demise from spreading, Creel was trapped there and unable to send word of the blockade home.\nSeveral months into the blockade, Ambassador Creel was recruited by the Smuggler, who put her skills to good use on a variety of missions across the sector.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Corellia",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Diplomat",
+  "/wiki/Death",
+  "/wiki/Galactic_Emperor",
+  "/wiki/Darth_Sidious",
+  "/wiki/Anoat_sector",
+  "/wiki/Homeworld",
+  "/wiki/Governor",
+  "/wiki/Ubrik_Adelhard",
+  "/wiki/Sector",
+  "/wiki/Iron_Blockade",
+  "/wiki/Star_Wars:_Uprising",
+  "/wiki/Standard_month",
+  "/wiki/The_Smuggler"
+ ]
+}

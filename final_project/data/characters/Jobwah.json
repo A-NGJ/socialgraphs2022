@@ -1,5 +1,6 @@
 {
  "name": "Jobwah",
+ "display_name": "Jobwah",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Jobwah was a Hutt gangster and consort of Mennac the Hutt of the Vanderijar clan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nal_Hutta/Legends",

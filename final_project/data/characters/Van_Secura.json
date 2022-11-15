@@ -1,0 +1,60 @@
+{
+ "name": "Van_Secura",
+ "display_name": "Van Secura",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Clan Secura"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Van Secura was Nat Secura's older brother and the original heir apparent to Clan Secura. Due to his untimely death, Nat became next in line. Nat commented that his father, Lon Secura, always liked Van more.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clan_Secura",
+  "/wiki/Nat_Secura",
+  "/wiki/Death/Legends",
+  "/wiki/Lon_Secura",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Van_Secura",
+  "/wiki/Star_Wars_(1998)_44"
+ ]
+}

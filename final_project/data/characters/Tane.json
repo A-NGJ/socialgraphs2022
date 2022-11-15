@@ -1,0 +1,75 @@
+{
+ "name": "Tane",
+ "display_name": "Tane",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tane was a Human male who served as an ensign in the Republic Army during the Cold War. Stationed on the planet Taris, Tane was among a number of soldiers who were captured by the Death's Claw pirate group and imprisoned in Fallenspire Stronghold, but were freed by Havoc Squad. Tane's information helped Havoc Squad track down the traitor Ryler Dorant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Ensign/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Death%27s_Claw",
+  "/wiki/Pirate/Legends",
+  "/wiki/Fallenspire_Stronghold",
+  "/wiki/Havoc_Squad",
+  "/wiki/Ryler_Dorant",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "name": "Unidentified_Rodian_(Lower_Apartments)",
+ "display_name": "Unidentified Rodian  (Lower Apartments)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3956 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified Rodian male lived on Taris in 3956 BBY.\nThis unidentified Rodian male was accompanying fellow Rodian Luugro in the Lower City Apartments of Taris when they encountered Calo Nord, a bounty hunter. Luugro mocked Calo, not realizing who he was. This Rodian male knew who Nord was, and told Luugro to shut up. Luugro didn't listen, and mocked Nord again. Nord then shot both Rodians dead to collect the bounties on their heads.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/3956_BBY",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Calo_Nord",
+  "/wiki/Luugro",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/Lower_City_Apartments",
+  "/wiki/StarWars.com",
+  "/wiki/So_Uncivilized:_Great_Gunslingers_in_Star_Wars"
+ ]
+}

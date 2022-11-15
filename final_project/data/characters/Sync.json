@@ -1,0 +1,100 @@
+{
+ "name": "Sync",
+ "display_name": "Sync",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Heater's squad",
+      "Heater's squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Sync\" was the nickname of a clone trooper in the Grand Army of the Galactic Republic. During the Clone Wars, Sync deserted from the Republic, but was returned to Kamino, placed in a squad of troopers who had defected, led by Heater. The unit was sent on an assault on a Confederacy of Independent Systems weapons depot, and Sync believed they would be able to redeem themselves and return to service. Sync was known for his optimistic attitude.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kamino",
+  "/wiki/Human",
+  "/wiki/Cloning",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Color",
+  "/wiki/Galactic_Republic",
+  "/wiki/Heater%27s_squad",
+  "/wiki/Clone_trooper",
+  "/wiki/Grand_Army_of_the_Republic",
+  "/wiki/Clone_Wars",
+  "/wiki/Trooper",
+  "/wiki/Heater_(clone_trooper)",
+  "/wiki/Assault_on_a_Separatist_weapons_depot",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Separatist_weapons_depot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sync",
+  "/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_4",
+  "/wiki/Databank_(website)",
+  "/wiki/Planet",
+  "/wiki/Clone_template",
+  "/wiki/Bounty_hunter",
+  "/wiki/Jango_Fett"
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "name": "Boorgo_Cadevon",
+ "display_name": "Boorgo Cadevon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "During the Iron Blockade",
+      "Burnin Konn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cadevon Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boorgo Cadevon was a Rodian male member of the criminal Cadevon Family and brother of Duurgo Cadevon. He and his sibling crushed the leg of the smuggler Riley after she disagreed over payment while working for the family. His preferred weapon of choice was a vibroblade. Riley's sibling later killed Boorgo and Duurgo on Burnin Konn after attacking the Cadevons during the Galactic Empire's Iron Blockade.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Iron_Blockade",
+  "/wiki/Burnin_Konn",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Cadevon_Family",
+  "/wiki/Duurgo_Cadevon",
+  "/wiki/Limb",
+  "/wiki/Smuggler",
+  "/wiki/Riley",
+  "/wiki/Vibroblade",
+  "/wiki/The_Smuggler",
+  "/wiki/Death",
+  "/wiki/Galactic_Empire",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

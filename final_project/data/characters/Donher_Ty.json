@@ -1,0 +1,66 @@
+{
+ "name": "Donher_Ty",
+ "display_name": "Donher Ty",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Donher Ty was a Human male who was employed by crime lord Centa Sonhan on Tatooine during the Galactic Civil War. He was the chief mechanic aboard Centa Sonhan's sail barge. He was on board when the sail barge was attacked by agents of the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Centa_Sonhan",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Centa_Sonhan%27s_sail_barge",
+  "/wiki/Sail_barge/Legends",
+  "/wiki/Attack_on_Centa_Sonhan%27s_sail_barge",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Donher_Ty",
+  "/wiki/The_Storm%27s_Edge"
+ ]
+}

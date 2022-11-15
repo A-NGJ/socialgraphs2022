@@ -1,0 +1,49 @@
+{
+ "name": "Pyther%27s_mother",
+ "display_name": "Pyther's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pyther's mother was a female Human Balmorran living during the Great Galactic War. She and her husband both died when the Galactic Republic abandoned the planet and led the Empire take over, prompting their son Pyther to join the Balmorran resistance.\nPyther's mother is mentioned briefly in Star Wars: The Old Republic during the Imperial Agent class mission on Balmorra.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Pyther%27s_father",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Pyther",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

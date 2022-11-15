@@ -1,0 +1,46 @@
+{
+ "name": "Pol_Blex",
+ "display_name": "Pol Blex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pol Blex was a Neimoidian arms dealer operating on Voss. He was questioned by the Havoc Squad Major regarding the location of the ZR-57 orbital strike bomb that was brought to Voss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Arms_dealer/Legends",
+  "/wiki/Voss",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/ZR-57_orbital_strike_bomb",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

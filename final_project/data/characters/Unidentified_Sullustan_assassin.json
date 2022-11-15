@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Sullustan_assassin",
+ "display_name": "Unidentified Sullustan assassin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "44 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This assassin was a male Sullustan. In 44 ABY he, along with two other assassins, tried to kill Garik Loran at a pedestrian market on Coruscant. However, Loran killed the assassin instead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/44_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Unidentified_Human_assassin_(Garik_Loran)",
+  "/wiki/Unidentified_Aqualish_assassin",
+  "/wiki/Assassin/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Garik_Loran",
+  "/wiki/Unidentified_Coruscant_pedestrian_market",
+  "/wiki/X-Wing:_Mercy_Kill",
+  "/wiki/X-Wing:_Mercy_Kill_(audiobook)"
+ ]
+}

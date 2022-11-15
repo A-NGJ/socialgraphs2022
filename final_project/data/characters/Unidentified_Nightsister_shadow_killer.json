@@ -1,0 +1,77 @@
+{
+ "name": "Unidentified_Nightsister_shadow_killer",
+ "display_name": "Unidentified Nightsister shadow killer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dathomirian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nightsisters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified female was a member of the Nightsisters. She attained the rank of Shadow killer during the leadership of Talzin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nightsisters/Legends",
+  "/wiki/Shadow_killer_(Nightsister)",
+  "/wiki/Talzin/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Nightsister_shadow_killer",
+  "/wiki/Book_of_Sith:_Secrets_from_the_Dark_Side"
+ ]
+}

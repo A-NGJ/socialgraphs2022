@@ -1,0 +1,39 @@
+{
+ "name": "Adran_Blake",
+ "display_name": "Adran Blake",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Adran Blake was a male Human, who lived during the waning years of the Galactic Republic.\nBlake worked as a cook in the Space Monkey Café, a bar that was located in the platform city of Bayonard, on the planet of Cularin. He assisted the bar's manager, Chelsey Grimes, in his duties. He was also known to be quite grumpy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Space_Monkey_Caf%C3%A9",
+  "/wiki/Platform_city",
+  "/wiki/Bayonard",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Chelsey_Grimes",
+  "/wiki/Find_the_Lady"
+ ]
+}

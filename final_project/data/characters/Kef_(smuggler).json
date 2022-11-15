@@ -1,0 +1,36 @@
+{
+ "name": "Kef_(smuggler)",
+ "display_name": "Kef  (smuggler)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kef was a female Jawa smuggler who served on Corte Voss's crew.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kef",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Corte_Voss",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kef_(smuggler)",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

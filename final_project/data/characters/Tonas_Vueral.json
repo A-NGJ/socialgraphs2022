@@ -1,0 +1,47 @@
+{
+ "name": "Tonas_Vueral",
+ "display_name": "Tonas Vueral",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tunroth"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tunroth Hunters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tonas Vueral was a male Tunroth. As a Tunroth Hunter, he attained the high rank of chirlan , and was a renowned tracker. He often worked in the Anthos sector, home to many Tunroth on worlds such as Berchest.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tunroth",
+  "/wiki/Gender/Legends",
+  "/wiki/Tunroth_Hunter",
+  "/wiki/Chirlan",
+  "/wiki/Anthos_sector",
+  "/wiki/Berchest/Legends",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

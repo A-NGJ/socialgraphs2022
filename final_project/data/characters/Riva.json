@@ -1,5 +1,6 @@
 {
  "name": "Riva",
+ "display_name": "Riva",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Riva was the owner of a guest house in Telos IV, where Qui-Gon Jinn and Padawan Obi-Wan Kenobi hid in.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Telos_IV",

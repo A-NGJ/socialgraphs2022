@@ -1,5 +1,6 @@
 {
  "name": "Fyg",
+ "display_name": "Fyg",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Fyg was a male Weequay security guard on the Errant Venture around 11 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Senator/Legends",

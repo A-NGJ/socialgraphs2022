@@ -1,0 +1,44 @@
+{
+ "name": "Momaw_Mowadan",
+ "display_name": "Momaw Mowadan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kuari Princess"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Momaw Mowadan was an Ithorian doctor who worked in the infirmary of the ship Kuari Princess. Mowadan was on board when the luxury liner was attacked by the Riders of the Maelstrom.\nWhen Riders of the Maelstrom was reprinted in Classic Adventures: Volume Five, the character was referred to only as \"Doctor Mowadan,\" removing the first name.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Kuari_Princess/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Luxury_liner/Legends",
+  "/wiki/Attack_on_the_Kuari_Princess",
+  "/wiki/Riders_of_the_Maelstrom",
+  "/wiki/Riders_of_the_Maelstrom_(West_End_Games)",
+  "/wiki/Classic_Adventures:_Volume_Five",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three"
+ ]
+}

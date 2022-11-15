@@ -1,0 +1,63 @@
+{
+ "name": "Mebla_Dule",
+ "display_name": "Mebla Dule",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Telos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mebla Dule was a Human female. She was an enthusiastic player of Pazaak who encountered Meetra Surik in the cantina on Citadel Station over Telos IV.\nMebla Dule is the only character in KotOR II whose dialog you cannot skip through. This may be an inside joke, however, as even after you beat her three times, and she claims that she will quit the game, you can still play her by saying \"I'd like to ask you some questions...\" She will continue to play.\nIf the player approaches her with B-4D4-GE3 she refuses to play Pazaak saying \"Never play pazaak with droids\".",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Telos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pazaak/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Cantina/Legends",
+  "/wiki/Citadel_Station",
+  "/wiki/B-4D4-GE3",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Roll_of_the_Dice",
+  "/wiki/Star_Wars_Insider_135"
+ ]
+}

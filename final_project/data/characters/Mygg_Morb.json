@@ -1,0 +1,45 @@
+{
+ "name": "Mygg_Morb",
+ "display_name": "Mygg Morb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Morgra the Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mygg Morb was a Sullustan who lived on Gravane station. He worked for Morgra and arranged all of the Hutt's audiences.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Morgra",
+  "/wiki/Gravane_station",
+  "/wiki/Hutt/Legends",
+  "/wiki/Counterstrike_(Living_Force)"
+ ]
+}

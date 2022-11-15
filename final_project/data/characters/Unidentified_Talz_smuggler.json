@@ -1,0 +1,34 @@
+{
+ "name": "Unidentified_Talz_smuggler",
+ "display_name": "Unidentified Talz smuggler",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Talz"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Talz smuggler participated in an auction for a device known as the Phylanx Redux Transmitter. During the final round of bidding, the Talz smuggler and some individuals who the bounty hunter Sana Starros presumed had something to do with the Commerce Guild were outbid by an agent of Crimson Dawn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Talz",
+  "/wiki/Han_Solo",
+  "/wiki/Auction_on_Cantonica",
+  "/wiki/Phylanx_Redux_Transmitter",
+  "/wiki/Smuggler",
+  "/wiki/Bounty_hunter",
+  "/wiki/Sana_Starros",
+  "/wiki/Commerce_Guild",
+  "/wiki/Unidentified_Crimson_Dawn_agent",
+  "/wiki/Crimson_Dawn",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_armored_male",
+ "display_name": "Unidentified armored male",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "25 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male was on the Dibrook Space Station, where he watched the reporter Cianba on the HoloNet when the space station was attacked by Yuuzhan Vong Yorik-Vec starships. The attack tore a hole in the space station and the man was blown out into space.\nThe human wore a brown shirt, with a blue, bulky breastplate and armor covering his body. He was armed with various weapons, including a dagger.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Dibrook_Space_Station",
+  "/wiki/Cianba",
+  "/wiki/HoloNet/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Yorik-vec_assault_cruiser",
+  "/wiki/Starship/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/Realspace/Legends",
+  "/wiki/Invasion:_Rescues_1"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Terik",
+ "display_name": "Terik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Masters",
+     "values": [
+      "Ranor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Terik was a male Human apprentice of the Sith Lord Ranor, who for betraying the Empire was killed along with him on Hoth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Ranor",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Treaty_of_Coruscant",
+  "/wiki/3653_BBY",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia",
+  "/wiki/3643_BBY",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Galactic_Standard_Calendar",
+  "/wiki/The_Old_Republic%E2%80%94The_Lost_Suns_2",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/3640_BBY",
+  "/wiki/The_Old_Republic:_Annihilation",
+  "/wiki/3641_BBY"
+ ]
+}

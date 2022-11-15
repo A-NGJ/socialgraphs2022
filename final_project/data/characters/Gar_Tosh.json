@@ -1,0 +1,52 @@
+{
+ "name": "Gar_Tosh",
+ "display_name": "Gar Tosh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "prior to"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gar Tosh was the father of Jann Tosh. During his childhood, he was friends with the researcher Akary Smith. He eventually had three children with Plena Tosh, first Jann Tosh, then twin boys, Gessle and Trif. Apart from Jann, Gar and the rest of his family were killed in a skimmer accident on Naboo. Jann would go to live with Gar's best friend, Putch Gundarian on the mining world of Tyne's Horky.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jann_Tosh",
+  "/wiki/Akary_Smith",
+  "/wiki/Plena_Tosh",
+  "/wiki/Gessle_Tosh",
+  "/wiki/Trif_Tosh",
+  "/wiki/Death/Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Putch_Gundarian",
+  "/wiki/Tyne%27s_Horky",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

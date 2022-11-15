@@ -1,0 +1,52 @@
+{
+ "name": "Golden_Storm_boss",
+ "display_name": "Golden Storm boss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Golden Storm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3626 BBY, a Togruta female served as the boss of the swoop gang Golden Storm. She oversaw the kidnapping and enslavement of Jawas on Tatooine in the gang's hideout.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Golden_Storm",
+  "/wiki/3626_BBY",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Golden_Storm%27s_hideout",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Standard_week/Legends",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

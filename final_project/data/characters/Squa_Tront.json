@@ -1,0 +1,56 @@
+{
+ "name": "Squa_Tront",
+ "display_name": "Squa Tront",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Umbaran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squa Tront was a talented Umbaran swindler and smuggler. He and the Falleen Thula were employed by the Black Sun agent Kaird. They both had to infiltrate into the sending system and managed to steal the Bota. Then, they had to encase the product in carbonite and sent it to Kaird, in order to be property of the Black Sun. Instead of following the Nediji's plan, Squa and Thula betrayed Kaird and filled the carbonite case of explosives. Kaird narrowly escaped death and vowed revenge, but Squa and Thula had flown away.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Umbaran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Falleen/Legends",
+  "/wiki/Thula",
+  "/wiki/Kaird",
+  "/wiki/Bota",
+  "/wiki/Carbonite/Legends",
+  "/wiki/Nediji",
+  "/wiki/MedStar_II:_Jedi_Healer",
+  "/wiki/Coruscant_Nights_I:_Jedi_Twilight"
+ ]
+}

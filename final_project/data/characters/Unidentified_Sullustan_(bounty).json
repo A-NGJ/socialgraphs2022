@@ -1,0 +1,44 @@
+{
+ "name": "Unidentified_Sullustan_(bounty)",
+ "display_name": "Unidentified Sullustan  (bounty)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Galactic Civil War, a Sullustan had a bounty placed on their head. The bounty hunter Dengar tracked the Sullustan down and captured the them alive, restraining them with binders. The Sullustan had light skin with black eyes, and dressed in an orange shirt with blue vest.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Dengar/Legends",
+  "/wiki/Stun_cuffs",
+  "/wiki/Eye/Legends",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/Edge_of_Darkness"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_Mandalorian_officer",
+ "display_name": "Unidentified Mandalorian officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New MandaloriansMandalorian Guard",
+      "Mandalorian Guard",
+      "Moogan smugglers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Mandalorian, along with another corrupt officer, was guarding a warehouse on the Sundari shipping docks which was used by Moogan smugglers to mix slabin and beverage tea.\nWhen Duchess Satine Kryze, senator Padmé Amidala and the police captain came to investigate the compound, this guard and the other one barred them entering. When the police captain and Satine insisted that they open the door, this guard pulled out his blaster and attempted to strike Satine, but the captain quickly overpowered him and the other guard. He was later arrested when Satine and the others discovered the plot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Mandalorians/Legends",
+  "/wiki/Mandalorian_Guard/Legends",
+  "/wiki/Moogan/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Sundari/Legends",
+  "/wiki/Sundari_shipping_docks/Legends",
+  "/wiki/Slabin/Legends",
+  "/wiki/Ardees_Beverage_tea",
+  "/wiki/Duke/Legends",
+  "/wiki/Satine_Kryze/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Padm%C3%A9_Amidala/Legends",
+  "/wiki/Unidentified_Mandalorian_police_captain_(Sundari)",
+  "/wiki/Blaster/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Corruption_(episode)"
+ ]
+}

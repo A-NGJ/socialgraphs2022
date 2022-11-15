@@ -1,0 +1,62 @@
+{
+ "name": "Uutkik",
+ "display_name": "Uutkik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uutkik was a Jawa scout who belonged to the same clan as Dathcha. In 0 BBY, their sandcrawler came upon R2-D2 and C-3PO in the Jundland Wastes. They later sold the droids to the Lars family. He was Het Nkik's cousin, and known to be a thief.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dathcha/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Sandcrawler/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Jundland_Wastes/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Lars_family/Legends",
+  "/wiki/Het_Nkik/Legends",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Star_Wars_Customizable_Card_Game",
+  "/wiki/Special_Edition_Limited",
+  "/wiki/StarWars.com"
+ ]
+}

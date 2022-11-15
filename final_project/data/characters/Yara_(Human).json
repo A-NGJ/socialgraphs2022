@@ -1,0 +1,64 @@
+{
+ "name": "Yara_(Human)",
+ "display_name": "Yara  (Human)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "26 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicKyp's Dozen",
+      "Kyp's Dozen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yara was a Human female pilot in Kyp's Dozen at the time they attacked the Yuuzhan Vong shipwomb at Sernpidal in 26 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yara_Grugara",
+  "/wiki/26_ABY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Kyp%27s_Dozen",
+  "/wiki/Pilot/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Shipwomb",
+  "/wiki/Sernpidal/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yara_(Human)",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_II:_Rebirth"
+ ]
+}

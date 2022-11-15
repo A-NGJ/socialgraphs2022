@@ -1,0 +1,47 @@
+{
+ "name": "Tornak_Po",
+ "display_name": "Tornak Po",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tornak Po was a Neimoidian loyal to the Separatist cause during the Clone Wars. After the war he wasn't able to pay his debts due to the Separatists losing the war. It was rumored he either went into hiding or got trapped in his luxury yacht in the desolate wastes of Tatooine's southern polar region with a force of hunter-killer droids for his protection.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Yacht/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/HKB-3_hunter-killer_droid",
+  "/wiki/Scavenger%27s_Guide_to_Droids"
+ ]
+}

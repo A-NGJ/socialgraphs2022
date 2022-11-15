@@ -1,0 +1,51 @@
+{
+ "name": "Slick_(Rebel)",
+ "display_name": "Slick  (Rebel)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slick was a gambler who joined the Alliance to Restore the Republic. Alongside Dirk Harkness, Trent Jaspar, and Princess Allegra Amar, he served at Edan Base on Edan II.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Slick_(disambiguation)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Gambler/Legends",
+  "/wiki/Dirk_Harkness",
+  "/wiki/Trent_Jaspar",
+  "/wiki/Prince/Legends",
+  "/wiki/Allegra_Amar",
+  "/wiki/Edan_Base",
+  "/wiki/Edan_II/Legends",
+  "/wiki/Introductory_Adventure_Game"
+ ]
+}

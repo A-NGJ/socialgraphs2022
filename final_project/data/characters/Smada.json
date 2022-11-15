@@ -1,0 +1,64 @@
+{
+ "name": "Smada",
+ "display_name": "Smada",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "D'vouran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smada the Hutt was a powerful crime lord who employed Gank killers as bodyguards, similar to the way Jabba Desilijic Tiure employed Gamorreans.\nHe and his thugs were killed on the mysterious, flesh eating planet of D'vouran while trying to capture a Shi'ido named Mammon Hoole and exploit his powers. Smada was captured, along with Hoole's wards Zak and Tash Arranda, by the Enzeen. While imprisoned, Smada tried to steal the only method of escape for himself. His escape attempt failed, and he fell into the core of the planet. There, he was digested for thousands of years.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/D%27vouran",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mammon_Hoole",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Gank/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Shi%27ido",
+  "/wiki/Zak_Arranda/Legends",
+  "/wiki/Tash_Arranda/Legends",
+  "/wiki/Enzeen",
+  "/wiki/Galaxy_of_Fear:_Eaten_Alive",
+  "/wiki/Galaxy_of_Fear:_City_of_the_Dead",
+  "/wiki/Galaxy_of_Fear:_Ghost_of_the_Jedi",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

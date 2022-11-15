@@ -1,0 +1,77 @@
+{
+ "name": "Kassor_Quade",
+ "display_name": "Kassor Quade",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaleesh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Reddish"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "MandaloriansClan Sharratt",
+      "Clan Sharratt",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kassor Quade was a male Kaleesh Mandalorian chieftain of Clan Sharratt during the Cold War. In 3643 BBY Quade issued a call for those willing to test their strength against Clan Sharatt's warriors when their Clan were testing a new Imperial combat adrenal, sending threats to the Galactic Republic that they would begin destroying random Republic property on Nar Shaddaa if no one had came to face them. This would lead to his later death at the hands of the challengers who would leave the Clan Sharratt enclave destroyed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Kaleesh/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Clan_Sharratt",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clan_Sharratt_enclave",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

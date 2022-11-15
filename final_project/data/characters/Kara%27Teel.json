@@ -1,5 +1,6 @@
 {
- "name": "Kara'Teel",
+ "name": "Kara%27Teel",
+ "display_name": "Kara'Teel",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Kara'Teel was the youngest daughter of Augwynne Djo who died while saving her mother from Gethzerion's assassination attempt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kara",

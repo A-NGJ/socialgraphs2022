@@ -1,0 +1,70 @@
+{
+ "name": "Tegan",
+ "display_name": "Tegan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tegan was a Human male sergeant in the Imperial Army who was stationed on the planet Alderaan. A veteran officer in Lieutenant Grol's unit, after Grol's death he clashed with the more junior Sergeant Pratt over who would assume command of the unit and continue their mission to extract Padrus Organa from House Alde.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Grol",
+  "/wiki/Death/Legends",
+  "/wiki/Pratt",
+  "/wiki/Padrus_Organa",
+  "/wiki/House_Alde_(estate)"
+ ]
+}

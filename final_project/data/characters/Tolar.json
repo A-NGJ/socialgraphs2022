@@ -1,0 +1,81 @@
+{
+ "name": "Tolar",
+ "display_name": "Tolar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Arrochar"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Arrochar Royal Palace",
+      "Arrochar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tolar was a Human male and the king of Arrochar during the early Galactic Civil War. His wife was Queen Tiina, and their son was Prince Kaspar. A few months after the Battle of Yavin, it was agreed that Kaspar would marry Princess Leia, in return the Rebel Alliance would be able to establish a new homebase on Arrochar. Later on Tolar was murdered on orders of the leader of the Arrochar Militia, who planned to deliver the Rebels to the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arrochar",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Arrochar_Royal_Palace",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Tiina",
+  "/wiki/Prince/Legends",
+  "/wiki/Kaspar",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Arrocharian_militia",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_(2013)_15",
+  "/wiki/Star_Wars_(2013)_17",
+  "/wiki/Star_Wars_(2013)_18"
+ ]
+}

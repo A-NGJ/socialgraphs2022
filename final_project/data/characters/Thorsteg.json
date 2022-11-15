@@ -1,0 +1,42 @@
+{
+ "name": "Thorsteg",
+ "display_name": "Thorsteg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Protectors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thorsteg was a Mandalorian mercenary hired by Marvid and Craitheus Qreph. During the Qreph's sabacc game with their prisoner Han Solo, Thorsteg served as a table butler by fetching drinks and anything the players needed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Mandalorian_Protectors/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Marvid_Qreph",
+  "/wiki/Craitheus_Qreph",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Crucible_(novel)",
+  "/wiki/Crucible_(audiobook)"
+ ]
+}

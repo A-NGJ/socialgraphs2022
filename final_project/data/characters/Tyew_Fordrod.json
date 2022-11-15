@@ -1,0 +1,37 @@
+{
+ "name": "Tyew_Fordrod",
+ "display_name": "Tyew Fordrod",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Polosich"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyew Fordrod was a snobbish member of the yellow-skinned Polosich species, and was a passenger aboard the Kuari Princess when it was attacked by the Riders of the Maelstrom.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Polosich",
+  "/wiki/Color/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Kuari_Princess/Legends",
+  "/wiki/Attack_on_the_Kuari_Princess",
+  "/wiki/Riders_of_the_Maelstrom",
+  "/wiki/Riders_of_the_Maelstrom_(West_End_Games)",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three"
+ ]
+}

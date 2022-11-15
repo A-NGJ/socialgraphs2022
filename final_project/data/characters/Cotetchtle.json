@@ -1,5 +1,6 @@
 {
  "name": "Cotetchtle",
+ "display_name": "Cotetchtle",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Cotetchtle was the Ishi Tib quartermaster aboard the Free Lance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

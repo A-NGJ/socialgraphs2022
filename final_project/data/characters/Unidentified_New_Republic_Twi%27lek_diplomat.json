@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_New_Republic_Twi%27lek_diplomat",
+ "display_name": "Unidentified New Republic Twi'lek diplomat",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Twi'lek was a diplomat in the New Republic. The Twi'lek had a pet saw-toothed grank.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Diplomat/Legends",
+  "/wiki/Saw-toothed_grank",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_New_Republic_Twi%27lek_diplomat",
+  "/wiki/The_Wildlife_of_Star_Wars:_A_Field_Guide"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Vestry",
+ "display_name": "Vestry",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quermian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.5 meters"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Canto Casino and Racetrack"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vestry was a female Quermian who worked as a pit boss at the Canto Casino. She was considered tall for her species.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Quermian",
+  "/wiki/Gender",
+  "/wiki/Meter",
+  "/wiki/Color",
+  "/wiki/Canto_Casino_and_Racetrack",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vestry",
+  "/wiki/The_Ride",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

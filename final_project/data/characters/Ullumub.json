@@ -1,0 +1,50 @@
+{
+ "name": "Ullumub",
+ "display_name": "Ullumub",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dromo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ullumub was a female Sullustan who worked for the Hutt Dromo. When her master was attacked by a Shenbit bonecrusher during a safari on Barab I, she offered a reward to those who rescued him from the predator, with extra reward if they could also save her master's favorite Twi'lek slave.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dromo",
+  "/wiki/Hutt/Legends",
+  "/wiki/Shenbit_bonecrusher",
+  "/wiki/Barab_I/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ullumub",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

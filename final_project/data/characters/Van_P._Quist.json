@@ -1,0 +1,81 @@
+{
+ "name": "Van_P._Quist",
+ "display_name": "Van P. Quist",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "R-Duba"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Droid Store"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Van P. Quist was a male Human who owned The Droid Store on R-Duba. The droids R2-D2 and C-3PO counted on him to find them a new master, which he did. They were different masters, however, causing the droids to be separated.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/R-Duba",
+  "/wiki/Quist",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/The_Droid_Store",
+  "/wiki/R2-D2/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Droids_(1986)_5",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

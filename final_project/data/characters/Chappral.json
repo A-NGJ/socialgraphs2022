@@ -1,5 +1,6 @@
 {
  "name": "Chappral",
+ "display_name": "Chappral",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Chappral was a Human male major in the reconstituted Sith Empire on the Imperial capital planet of Dromund Kaas where he trained fellow Imperials in the art of manufacturing armor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

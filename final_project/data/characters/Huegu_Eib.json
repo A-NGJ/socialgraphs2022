@@ -1,0 +1,48 @@
+{
+ "name": "Huegu_Eib",
+ "display_name": "Huegu Eib",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gryseium Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Huegu Eib was a Sullustan farmer who founded Gryseium Incorporated. Eib later sold to Rigis Corazon after finding that the policies of the New Order made it difficult for non-Humans to run an honest business.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gryseium_Incorporated",
+  "/wiki/Rigis_Corazon",
+  "/wiki/New_Order/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Mynock_Conspiracy",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

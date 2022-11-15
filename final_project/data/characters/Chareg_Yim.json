@@ -1,0 +1,68 @@
+{
+ "name": "Chareg_Yim",
+ "display_name": "Chareg Yim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chareg Yim was a human male Jedi of the Jedi Order. On one occasion, Yim responded to a distress signal from a crew of Ugnaught lightning miners on the planet Tish, who were being attacked by creatures native to the planet. On Tish, Yim discovered that the creatures fed on the lightning that the mining platform was collecting, and told the Ugnaughts to release some of the energy so that the creatures could feed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Jedi",
+  "/wiki/Distress_signal",
+  "/wiki/Ugnaught",
+  "/wiki/Miner",
+  "/wiki/Planet",
+  "/wiki/Tish",
+  "/wiki/Homeworld",
+  "/wiki/Species",
+  "/wiki/Mining",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Chareg_Yim",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge",
+  "/wiki/Star_Wars:_Jedi_Temple_Challenge_-_Episode_8"
+ ]
+}

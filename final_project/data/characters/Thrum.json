@@ -1,0 +1,60 @@
+{
+ "name": "Thrum",
+ "display_name": "Thrum",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Galantos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fia"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thrum, a broad-faced, male Fia, was the assistant primate to Primate Persha.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galantos",
+  "/wiki/Fia",
+  "/wiki/Gender/Legends",
+  "/wiki/Assistant_primate",
+  "/wiki/Primate/Legends",
+  "/wiki/Persha",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thrum",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_I:_Remnant"
+ ]
+}

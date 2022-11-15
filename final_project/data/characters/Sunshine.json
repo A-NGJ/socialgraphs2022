@@ -1,0 +1,49 @@
+{
+ "name": "Sunshine",
+ "display_name": "Sunshine",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tauntaun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sunshine was a tauntaun female that was kept at Echo Base on Hoth and was ridden by Jordan Smythe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sunshine_(disambiguation)",
+  "/wiki/Hoth",
+  "/wiki/Tauntaun",
+  "/wiki/Gender",
+  "/wiki/Echo_Base",
+  "/wiki/Jordan_Smythe",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sunshine",
+  "/wiki/A_Good_Kiss",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

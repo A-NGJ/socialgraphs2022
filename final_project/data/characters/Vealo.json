@@ -1,0 +1,48 @@
+{
+ "name": "Vealo",
+ "display_name": "Vealo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vealo was a male Rodian aide of the Tarisian governor Leontyne Saresh, who sent him to Brejik's Run Outpost in the Tularan Marsh to help with reconstruction efforts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Aide/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Leontyne_Saresh",
+  "/wiki/Brejik%27s_Run_Outpost",
+  "/wiki/Tularan_Marsh",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

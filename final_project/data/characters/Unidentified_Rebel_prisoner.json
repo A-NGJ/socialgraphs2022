@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Rebel_prisoner",
+ "display_name": "Unidentified Rebel prisoner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified Rebel prisoner was captured during an Imperial assault on a Rebel Alliance outpost on Thaldo. She was freed from her cell by Luke Skywalker, and gave him an ID card that helped him reactivate the outpost's ion cannon so the Rebels could evacuate.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Ion_cannon/Legends",
+  "/wiki/Star_Wars:_Yoda_Stories"
+ ]
+}

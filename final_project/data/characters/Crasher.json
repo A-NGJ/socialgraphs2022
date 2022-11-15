@@ -1,5 +1,6 @@
 {
  "name": "Crasher",
+ "display_name": "Crasher",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -68,7 +69,7 @@
   }
  ],
  "content": "\"Crasher\" was the nickname of a Clone Sergeant who oversaw the clone cadets of the Clone Youth Brigade during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Crasher",

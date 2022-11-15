@@ -1,5 +1,6 @@
 {
  "name": "Beshar",
+ "display_name": "Beshar",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Beshar was a male Human agent of the Imperial Intelligence of the Sith Empire during the Cold War. He was assigned to Nar Shaddaa around 3643 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

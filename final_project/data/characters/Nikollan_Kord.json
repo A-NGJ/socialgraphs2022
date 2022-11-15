@@ -1,0 +1,74 @@
+{
+ "name": "Nikollan_Kord",
+ "display_name": "Nikollan Kord",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorran resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nikollan Kord was a male Human who was a high-ranking member of the Balmorran resistance during the Galactic War and the occupation of Balmorra by the resurgent Sith Empire. In 3642 BBY, Kord agreed to work with Colonel Finley of the Republic Military and the Jedi Order in recovering a prototype cloaking device, though he tried to steal the prototype with fellow resistance member Avers.\nFiercely protective of Balmorra, Nikollan refused to compromise his hardliner ideals unless the compromise in question benefited Balmorra or the Balmorran Resistance more so than the original objective, as when the Hero of Tython could negotiate the prototype cloaking device in exchange for the Sith Empire's data on cloaking missiles and bombs, an asset of higher value than one single cloaking device. He did, however, prove unable to forgive treason, and never forgot those who allowed traitors to live for any reason.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Balmorra_(Great_Galactic_Wars)",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3642_BBY",
+  "/wiki/Colonel/Legends",
+  "/wiki/Finley",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Mission_to_Balmorra_(Hunt_for_the_Sith_Emperor)",
+  "/wiki/Prototype_cloaking_device",
+  "/wiki/Avers",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

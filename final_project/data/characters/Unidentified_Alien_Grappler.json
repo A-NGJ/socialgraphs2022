@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Alien_Grappler",
+ "display_name": "Unidentified Alien Grappler",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ongidae"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual who worked as a grappler on the planet Ferrix.\nThe alien grappler first appeared in \"Kassa\", the debut episode of Andor. He was portrayed by Cavin Cornwall.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Trash_compactor/Unidentified_Alien_Grappler",
+  "/wiki/Wookieepedia:Trash_compactor",
+  "/wiki/Ongidae",
+  "/wiki/Gender",
+  "/wiki/Planet",
+  "/wiki/Ferrix",
+  "/wiki/Kassa_(episode)",
+  "/wiki/Andor_(television_series)",
+  "/wiki/Cavin_Cornwall",
+  "/wiki/Reckoning_(episode)"
+ ]
+}

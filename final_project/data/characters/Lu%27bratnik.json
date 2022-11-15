@@ -1,5 +1,6 @@
 {
- "name": "Lu'bratnik",
+ "name": "Lu%27bratnik",
+ "display_name": "Lu'bratnik",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Lu'bratnik was a male Twi'lek doctor of biochemistry living during the Cold War. Residing on Tatooine, he managed a small shop, also teaching his knowledge to others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

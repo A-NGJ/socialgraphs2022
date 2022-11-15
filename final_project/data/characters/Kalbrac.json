@@ -1,5 +1,6 @@
 {
  "name": "Kalbrac",
+ "display_name": "Kalbrac",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kalbrac was a Mon Calamari councilor in the Mon Calamari Council and a member of the Alliance to Restore the Republic.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

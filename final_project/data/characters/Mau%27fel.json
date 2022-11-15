@@ -1,5 +1,6 @@
 {
- "name": "Mau'fel",
+ "name": "Mau%27fel",
+ "display_name": "Mau'fel",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Mau'fel was a rancor that lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dathomir/Legends",

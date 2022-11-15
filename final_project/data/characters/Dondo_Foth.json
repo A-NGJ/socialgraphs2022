@@ -1,0 +1,66 @@
+{
+ "name": "Dondo_Foth",
+ "display_name": "Dondo Foth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "New Agamar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Dondo Foth was a male Human officer who served the Galactic Republic and the Republic Navy during the Clone Wars against the Confederacy of Independent Systems. During the Battle of Praesitlyn, he and his crew were the first to discover the incoming Separatist fleet from Sluis Van.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/New_Agamar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Captain/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Battle_of_Praesitlyn",
+  "/wiki/Sluis_Van/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dondo_Foth",
+  "/wiki/Jedi_Trial",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

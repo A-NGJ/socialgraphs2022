@@ -1,5 +1,6 @@
 {
  "name": "Geenor",
+ "display_name": "Geenor",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Geenor was a farmer on the planet Ceriun about 1000 BBY. He was an associate of Flass and Tenno who together worked on the fields to collect dung weed. Hoping a Sith would discover them and train them, they waited until a Sith came and slaughtered the group.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ceriun",

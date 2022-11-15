@@ -1,5 +1,6 @@
 {
  "name": "Klage",
+ "display_name": "Klage",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Klage was a Zabrak male who served the Galactic Republic during the Cold War. At first he was the leader of the tech organization of the Red Light Lancers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Zabrak/Legends",

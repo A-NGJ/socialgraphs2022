@@ -1,0 +1,64 @@
+{
+ "name": "Synon",
+ "display_name": "Synon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Deadeyes",
+      "Deadeyes"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Synon was a Human male member of the Deadeyes, Republic Army sniper squad. When the Deadeyes were captured by the reconstituted Sith Empire as part of the plan by SIS Agent Zane to trace their locations to Dusk 9, they were split the captives and Synon ended up with Torve and Miev imprisoned at a work camp on Tatooine until they were rescued by their formed squadmate Aric Jorgan, now a member of Havoc Squad.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Deadeyes",
+  "/wiki/Republic_Army",
+  "/wiki/Sniper/Legends",
+  "/wiki/Squad/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Zane_(SIS)",
+  "/wiki/Dusk_9",
+  "/wiki/Torve",
+  "/wiki/Miev",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Aric_Jorgan",
+  "/wiki/Havoc_Squad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

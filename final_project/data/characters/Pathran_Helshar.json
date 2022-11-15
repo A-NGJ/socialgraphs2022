@@ -1,0 +1,51 @@
+{
+ "name": "Pathran_Helshar",
+ "display_name": "Pathran Helshar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Arbooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sathari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pathran Helshar was a male from the city of Quolas. He was the youngest son of Koh Helshar, and founded a resistance movement against Gel Marcolf.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arbooine/Legends",
+  "/wiki/Sathari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gender",
+  "/wiki/City/Legends",
+  "/wiki/Quolas",
+  "/wiki/Koh_Helshar",
+  "/wiki/Quolas_resistance",
+  "/wiki/Gel_Marcolf",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Pathran_Helshar",
+  "/wiki/Chronicles_of_the_Gatekeeper"
+ ]
+}

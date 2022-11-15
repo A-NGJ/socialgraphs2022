@@ -1,5 +1,6 @@
 {
  "name": "Jolus",
+ "display_name": "Jolus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Jolus was a Human male technician who was employed by Galactic Republic forces during the fighting to retake the city of Sobrik on Balmorra.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

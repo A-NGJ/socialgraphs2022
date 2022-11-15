@@ -1,5 +1,6 @@
 {
  "name": "Merex",
+ "display_name": "Merex",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Merex was a Borlorian Helcos player. He was beaten by Jabot, who used an implant communicator to cheat at the game.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Borlorian",

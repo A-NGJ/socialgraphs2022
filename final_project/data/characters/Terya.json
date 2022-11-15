@@ -1,0 +1,36 @@
+{
+ "name": "Terya",
+ "display_name": "Terya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shalo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Terya was a Rodian underling of Shalo's.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Shalo",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_II:_Rebirth"
+ ]
+}

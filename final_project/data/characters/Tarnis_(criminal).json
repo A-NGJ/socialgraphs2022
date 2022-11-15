@@ -1,0 +1,41 @@
+{
+ "name": "Tarnis_(criminal)",
+ "display_name": "Tarnis  (criminal)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarnis was a male Duros who hijacked a load of specialized processing chips from Tendrando Arms new rehab droid factory. Lando Calrissian and Tendra Risant Calrissian put up a million credit reward for the chips. Tarnis may have been captain of the Starsong, for it was the ship in which he and his crew left on after Luke Skywalker asked too many questions about the Myrkr strike team members.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tarnis_(Sith_Lord)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tendrando_Arms",
+  "/wiki/Droid/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Tendra_Risant_Calrissian",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Starsong",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Myrkr/Legends",
+  "/wiki/Dark_Nest_I:_The_Joiner_King"
+ ]
+}

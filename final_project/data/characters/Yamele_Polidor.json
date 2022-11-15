@@ -1,0 +1,40 @@
+{
+ "name": "Yamele_Polidor",
+ "display_name": "Yamele Polidor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rindian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yamele Polidor was a prestigious Rindian scientist who attended the meeting led by Jenna Zan Arbor, in CoCo Town. Then, she helped Padawan Obi-Wan Kenobi and Astri Oddo to find the bounty hunter Ona Nobis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rindian",
+  "/wiki/Gender/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Jenna_Zan_Arbor",
+  "/wiki/CoCo_Town/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Astri_Oddo",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Ona_Nobis",
+  "/wiki/Jedi_Apprentice:_The_Evil_Experiment",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

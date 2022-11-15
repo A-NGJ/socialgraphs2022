@@ -1,0 +1,47 @@
+{
+ "name": "TK-32",
+ "display_name": "TK-32",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-32 was an Imperial scout trooper stationed on Garos IV.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Scout_trooper/Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Whispers_in_the_Dark",
+  "/wiki/Star_Wars_Adventure_Journal_2"
+ ]
+}

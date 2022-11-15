@@ -1,5 +1,6 @@
 {
  "name": "Rooz",
+ "display_name": "Rooz",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Rooz was a Sarkan Lord who served as the Advisor to Queen Zil.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Sarka",

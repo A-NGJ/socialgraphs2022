@@ -1,0 +1,41 @@
+{
+ "name": "Snowball_(snuzzleguff)",
+ "display_name": "Snowball  (snuzzleguff)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snuzzleguff"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Bnugor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snowball was the name of Bnugor's pet snuzzleguff.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Snuzzleguff",
+  "/wiki/Snowball",
+  "/wiki/Water/Legends",
+  "/wiki/Bnugor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/The_Farrimmer_Cafe",
+  "/wiki/Star_Wars_Adventure_Journal_11"
+ ]
+}

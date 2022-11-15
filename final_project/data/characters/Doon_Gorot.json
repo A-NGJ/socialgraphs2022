@@ -1,0 +1,64 @@
+{
+ "name": "Doon_Gorot",
+ "display_name": "Doon Gorot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Duro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doon Gorot was a male Duros weapon smuggler who lived during the time of the Clone Wars. Gorot acted as a go-between for a crime lord who was working for the Confederacy of Independent Systems and at some point during the conflict, Gorot traveled to a Separatist safe-house on the planet Clak'dor VII, to meet with the Separatist spy Bandor Ootka and discussed the sale of a shipment of weapons to the Separatists.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Doon",
+  "/wiki/Duro/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Clak%27dor_VII",
+  "/wiki/Spy/Legends",
+  "/wiki/Bandor_Ootka",
+  "/wiki/Galaxy_of_Intrigue"
+ ]
+}

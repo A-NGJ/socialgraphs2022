@@ -1,0 +1,64 @@
+{
+ "name": "Valjak",
+ "display_name": "Valjak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tasariq"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tasari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kiana"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valjak was a Tasari male and member of the secret order known as Kiana. Members of the Kiana were dedicated to fight against the blood cults that hid among Tasari society. Valjak operated as a guide to off-worlders to cover his activities and to earn a living. Educated at Tasariq University, he had an understanding of off-world culture but tended to be more pro-Imperial as he saw them as a potential ally in the fight against the blood cults. Valjak wore a bracer on his right arm inset with a citrine crystal, and a bracer on his left inset with an azurite crystal. The Tasari also wore a headband with a jasper crystal installed, and a bloodstone crystal mounted on the pommel of his sword.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tasariq",
+  "/wiki/Tasari",
+  "/wiki/Gender/Legends",
+  "/wiki/Kiana",
+  "/wiki/Tasariq_University",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Citrine_crystal",
+  "/wiki/Azurite_crystal",
+  "/wiki/Jasper_crystal",
+  "/wiki/Bloodstone_crystal",
+  "/wiki/Sword/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Tasariq:_The_Crystal_Planet",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

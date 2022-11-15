@@ -1,0 +1,68 @@
+{
+ "name": "Yan",
+ "display_name": "Yan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Prine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "19 BBY",
+      "Prine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yan was a young male Human Farmer who was native to the planet Prine and was the older brother of Maddie. One early morning, he was farming outside the gates of the small walled-off community with his sister when a group of slavers attacked. Unable to get within the protection of the town's walls, Yan was shot in the stomach and killed, while Maddie was captured and put in chains.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Prine",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Maddie",
+  "/wiki/Farmer/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Dark_Times%E2%80%94Out_of_the_Wilderness_3"
+ ]
+}

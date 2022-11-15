@@ -1,0 +1,77 @@
+{
+ "name": "Suhale",
+ "display_name": "Suhale",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kesh"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lost Tribe of Sith",
+      "Coruscanti Immigration Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suhale was a Human female Sith of the Lost Tribe of Sith in the 44 ABY on Coruscant disguised as a Captain of the Coruscanti Immigration Service stationed at the Galactic Center Spaceport.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kesh",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lost_Tribe_of_Sith",
+  "/wiki/Coruscanti_Immigration_Service",
+  "/wiki/Sith/Legends",
+  "/wiki/44_ABY",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_Center_Spaceport",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Suhale",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

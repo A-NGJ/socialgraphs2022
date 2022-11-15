@@ -1,5 +1,6 @@
 {
  "name": "Branger",
+ "display_name": "Branger",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Branger was a male Human Mandalorian serving as a Stims Vendor in the Outpost Rennar on the planet Tatooine during the Cold War. He wore blue Mandalorian armor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

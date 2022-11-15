@@ -1,0 +1,61 @@
+{
+ "name": "Yarla",
+ "display_name": "Yarla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Elnacon"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tech Masters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yarla was an Elnacon female who was a member of the Tech Masters, the rulers of the junk planet Trionak. When Luke Skywalker and Leia Organa embarked on a mission to recover the hijacked Rebel Alliance transport Nema, they alerted the Galactic Empire to the Tech Master's theft of Imperial property in order to end their rule.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Elnacon",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tech_Masters",
+  "/wiki/Planet",
+  "/wiki/Trionak",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Transport",
+  "/wiki/Nema",
+  "/wiki/Galactic_Empire",
+  "/wiki/Thief",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yarla",
+  "/wiki/Choose_Your_Destiny:_A_Luke_%26_Leia_Adventure"
+ ]
+}

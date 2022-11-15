@@ -1,0 +1,41 @@
+{
+ "name": "Wulfgar_Kath%27s_mother",
+ "display_name": "Wulfgar Kath's mother",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female human was the mother of First Order Lieutenant Wulfgar Kath. Whilst fighting with Resistance spy Vi Moradi, the spy asked Kath if his mother had been a worrt, as she had seen a resemblance between the two, to which Kath coldly replied that he had never known his mother.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/First_Order",
+  "/wiki/Lieutenant",
+  "/wiki/Wulfgar_Kath",
+  "/wiki/Hand-to-hand_combat",
+  "/wiki/Resistance",
+  "/wiki/Spy",
+  "/wiki/Vi_Moradi",
+  "/wiki/Parent",
+  "/wiki/Worrt",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire",
+  "/wiki/Galaxy%27s_Edge:_Black_Spire_(audiobook)"
+ ]
+}

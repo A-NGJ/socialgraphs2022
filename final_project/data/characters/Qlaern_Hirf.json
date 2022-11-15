@@ -1,0 +1,71 @@
+{
+ "name": "Qlaern_Hirf",
+ "display_name": "Qlaern Hirf",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Thyferra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vratix"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "Ashern"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Qlaern Hirf was a Vratix member of the Ashern Circle and a Verachen. Hirf made contact with Rogue Squadron during the Krytos threat, alerting them to the location of deadly bacta aboard a space station around Yag'Dhul. After making his way to Coruscant aboard the Pulsar Skate, he revealed to the New Republic that he had a cure for the Krytos virus, rylca. Being secretly taken to the Alderaan Biotics hydroponics facility on Borleias, he was allowed to mass-produce the cure for the virus securely.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Thyferra/Legends",
+  "/wiki/Vratix/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Ashern",
+  "/wiki/Verachen",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Krytos_virus",
+  "/wiki/Bacta/Legends",
+  "/wiki/Space_station/Legends",
+  "/wiki/Yag%27Dhul/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Pulsar_Skate",
+  "/wiki/Rylca",
+  "/wiki/Alderaan_Biotics",
+  "/wiki/Borleias/Legends",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/X-Wing:_The_Bacta_War",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

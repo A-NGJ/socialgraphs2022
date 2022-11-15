@@ -1,0 +1,40 @@
+{
+ "name": "Unidentified_Rodian_(Bestine)",
+ "display_name": "Unidentified Rodian  (Bestine)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a male Rodian who resided in the city of Bestine during the Galactic Civil War. He was known to be a nervous individual.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/City/Legends",
+  "/wiki/Bestine_(city)/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Frisan",
+ "display_name": "Frisan",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Frisan was a male Human Moff in control of the Candoras sector. After his death, he was succeeded by governor Bidor Ferrouz.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/0_ABY/Legends",

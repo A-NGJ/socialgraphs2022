@@ -1,0 +1,78 @@
+{
+ "name": "Iannos_Tyrek",
+ "display_name": "Iannos Tyrek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Auburn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iannos Tyrek was a male Human scientist in the employ of the reconstituted Sith Empire until he defected during the Cold War.\nWhile stationed on Balmorra, he encountered Kallig, Darth Zash's apprentice. He was subdued by the Sith Lord and taken back to the Imperial Base. There, he developed a serum that would gave Kallig the Colicoid's immunity to toxic waste. Afterwards, Kallig either killed Tyrek for treason or let him go.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Scientist/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Canon",
+  "/wiki/Darth_Nox",
+  "/wiki/Darth_Zash",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Colicoid/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

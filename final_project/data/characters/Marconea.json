@@ -1,5 +1,6 @@
 {
  "name": "Marconea",
+ "display_name": "Marconea",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Marconea was a sterile female Selonian who worked as a servant for the Tharen family on Corellia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Selonian/Legends",

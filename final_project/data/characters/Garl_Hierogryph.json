@@ -1,0 +1,45 @@
+{
+ "name": "Garl_Hierogryph",
+ "display_name": "Garl Hierogryph",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cadomai Prime"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Snivvian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garl Hierogryph was the husband of Glomkettle and the father of Marn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cadomai_Prime/Legends",
+  "/wiki/Snivvian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Glomkettle_Hierogryph",
+  "/wiki/Marn_Hierogryph",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_Handbook"
+ ]
+}

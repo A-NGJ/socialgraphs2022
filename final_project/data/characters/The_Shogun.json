@@ -1,0 +1,53 @@
+{
+ "name": "The_Shogun",
+ "display_name": "The Shogun",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Shogun was the alias used by a a male human that served as a Jedi during the Sith rebellion. During the war, he encountered a sith where the two would duel and he would his lose his sight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Visions_1",
+  "/wiki/Star_Wars:_Visions",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Jedi_clan",
+  "/wiki/The_Ronin",
+  "/wiki/Jedi",
+  "/wiki/Sith_rebellion",
+  "/wiki/Lightsaber_combat",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/The_Shogun",
+  "/wiki/StarWars.com"
+ ]
+}

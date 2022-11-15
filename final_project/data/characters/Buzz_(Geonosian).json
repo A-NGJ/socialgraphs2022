@@ -1,0 +1,78 @@
+{
+ "name": "Buzz_(Geonosian)",
+ "display_name": "Buzz  (Geonosian)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3641 BBY",
+      "Belsavis"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Geonosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ivory"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Buzz was a Geonosian male criminal living during the Cold War. He was imprisoned on Belsavis by the Galactic Republic until 3641 BBY when the crime lord Ivory arranged an escape of himself and his associates, including Buzz. Along with Squarg, Buzz was attempting to free Agrular from Cell block 2018 when both were interrupted by the Voidhound and subsequently killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Buzz/Legends",
+  "/wiki/3641_BBY",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Ivory",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Squarg",
+  "/wiki/Agrular",
+  "/wiki/Cell_block_2018",
+  "/wiki/Voidhound",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Tassa",
+ "display_name": "Tassa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Munto Codru"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "137 ABY",
+      "Munto Codru"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Codru-Ji"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tassa was a female Codru-Ji and the daughter of a clan leader. Her clan kidnapped Rikkar-Du, a member of a rival clan, and they eventually married and had a son, Jassar. In 137 ABY, when Darth Kruhl, a Sith Lord of the One Sith tried to secure her husband's support for the Sith Empire, he refused and was assassinated, while Tassa was killed by Kassek-Ka, a rival clan leader loyal to the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Munto_Codru/Legends",
+  "/wiki/137_ABY",
+  "/wiki/Codru-Ji",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Rikkar-Du",
+  "/wiki/Jassar",
+  "/wiki/Darth_Kruhl",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/One_Sith",
+  "/wiki/Darth_Krayt%27s_Galactic_Empire",
+  "/wiki/Assassination_on_Munto_Codru",
+  "/wiki/Kassek-Ka",
+  "/wiki/Legacy_(2006)_13",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

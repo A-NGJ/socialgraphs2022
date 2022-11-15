@@ -1,0 +1,61 @@
+{
+ "name": "Vered",
+ "display_name": "Vered",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vered was a Moff on the Council of Moffs in 19 ABY. He met with the other council members on Bastion to discuss Admiral Pellaeon's proposed peace treaty with the New Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Moff/Legends",
+  "/wiki/Council_of_Moffs/Legends",
+  "/wiki/19_ABY/Legends",
+  "/wiki/Bastion/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gilad_Pellaeon/Legends",
+  "/wiki/Pellaeon%E2%80%93Gavrisom_Treaty",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vered",
+  "/wiki/Specter_of_the_Past",
+  "/wiki/Specter_of_the_Past_(unabridged_audiobook)",
+  "/wiki/Andray",
+  "/wiki/Bemos",
+  "/wiki/Vilim_Disra",
+  "/wiki/Edan",
+  "/wiki/Hort",
+  "/wiki/Quillan_(Moff)",
+  "/wiki/Sander"
+ ]
+}

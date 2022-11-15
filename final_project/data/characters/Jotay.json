@@ -1,5 +1,6 @@
 {
  "name": "Jotay",
+ "display_name": "Jotay",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Jotay was a male Human who worked as a guard on Revos's spaceport.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

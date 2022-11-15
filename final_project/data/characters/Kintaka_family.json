@@ -1,0 +1,48 @@
+{
+ "name": "Kintaka_family",
+ "display_name": "Kintaka family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Asha",
+      "Kneesaa"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Kintaka family was a family of Ewoks from the Forest Moon of Endor.\nChief Chirpa's family name is unknown. Kintaka is known to be the final part of Princess Kneesaa's name.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Asha",
+  "/wiki/Kneesaa_a_Jari_Kintaka",
+  "/wiki/Endor/Legends",
+  "/wiki/Bozzie",
+  "/wiki/Ra-Lee/Legends",
+  "/wiki/Chirpa/Legends",
+  "/wiki/Paploo/Legends",
+  "/wiki/Wicket_Wystri_Warrick/Legends",
+  "/wiki/Chief/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

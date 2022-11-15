@@ -1,0 +1,49 @@
+{
+ "name": "Shalo_Sherin",
+ "display_name": "Shalo Sherin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shalo Sherin was a male Human noble from the Core Worlds. He was forced out of his family for unknown reasons . He soon turned to crime, which suited him, as he was completely uninterested in morality.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Noble/Legends",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shalo_Sherin",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

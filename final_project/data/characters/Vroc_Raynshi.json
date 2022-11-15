@@ -1,0 +1,82 @@
+{
+ "name": "Vroc_Raynshi",
+ "display_name": "Vroc Raynshi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "Before 0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vroc Raynshi was a human male who served as an officer of the First Order during the era of the New Republic. He was the husband of Anaya Raynshi and the father of Maize Raynshi, who was forced to move between planets often due to her father's job.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_BBY",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/First_Order_officer",
+  "/wiki/New_Republic_Era",
+  "/wiki/New_Republic",
+  "/wiki/Marriage",
+  "/wiki/Anaya_Raynshi",
+  "/wiki/Parent",
+  "/wiki/Maize_Raynshi",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vroc_Raynshi",
+  "/wiki/Force_Collector",
+  "/wiki/Force_Collector_(audiobook)",
+  "/wiki/DS-1_Death_Star_Mobile_Battle_Station",
+  "/wiki/Death_Star",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

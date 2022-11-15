@@ -1,5 +1,6 @@
 {
  "name": "Askroh",
+ "display_name": "Askroh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Askroh was a crime lord who lived in Cloud City on the planet Bespin. He assisted Lando Calrissian with a plan to scare Jiandy out of his dream for a life in crime.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Unidentified_horse-like_species",

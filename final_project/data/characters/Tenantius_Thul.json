@@ -1,0 +1,75 @@
+{
+ "name": "Tenantius_Thul",
+ "display_name": "Tenantius Thul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House of Thul",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tenantius Thul was a Human male who member of House Thul.\nAround 3642 BBY, during the Galactic War, Tenantius Thul received word from his riders that House Organa placed probe droids in the mountains. Tenantius needs to learn more how House Organa have discovered a way to pass through Thuls' defenses. He later tasked an Imperial to destroy all the probe droids in the Alsiri Pass and obtain their memory cores.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_of_Thul",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/3642_BBY",
+  "/wiki/Galactic_War",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Alsiri_Pass",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tenantius_Thul",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Domdees",
+ "display_name": "Domdees",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Domdees was a male Toydarian chef who worked in the Toydor Merchant District. He was once hired by the Toydarian king to cook his famous gabaki goulash.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Toydarian/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Feldron",
+ "display_name": "Feldron",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Feldron was Bria Tharen's agent in the Rebel Alliance, who accompanied her on her trip onboard the Queen of Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

@@ -1,0 +1,69 @@
+{
+ "name": "Tig_Peramis",
+ "display_name": "Tig Peramis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Walalla"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicNew Republic Senate",
+      "New Republic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tig Peramis was a male Human Senator of the New Republic who represented Walalla and the Seventh Security Zone until being censured in 16 ABY. During the Black Fleet Crisis, Tig acquired information which led to the capture of Han Solo by the Yevetha.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Walalla",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Seventh_Security_Zone",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Yevetha",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tig_Peramis",
+  "/wiki/Before_the_Storm",
+  "/wiki/Shield_of_Lies",
+  "/wiki/Tyrant%27s_Test",
+  "/wiki/Cracken%27s_Threat_Dossier",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

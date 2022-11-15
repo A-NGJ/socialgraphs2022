@@ -1,0 +1,81 @@
+{
+ "name": "Thodibin",
+ "display_name": "Thodibin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chanceuxi"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Suerton"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Lucky Three"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thodibin, nicknamed Thodi, was a male Suerton who resided in Canto Bight and spent a night, along with his younger brothers Dodibin and Wodibin, gambling with Kaljach Sonmi. He preferred to go by his nickname Thodi. Collectively he and his brothers were known as The Lucky Three due to their uncanny ability to win big at gambling and make back anything they might lose.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chanceuxi",
+  "/wiki/Suerton",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/The_Lucky_Three",
+  "/wiki/Canto_Bight",
+  "/wiki/Dodibin",
+  "/wiki/Wodibin",
+  "/wiki/Gambling",
+  "/wiki/Kaljach_Sonmi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thodibin",
+  "/wiki/The_Ride",
+  "/wiki/Canto_Bight_(novella_collection)",
+  "/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+  "/wiki/Star_Wars:_The_Last_Jedi:_Expanded_Edition",
+  "/wiki/Star_Wars:_The_Last_Jedi:_Expanded_Edition_(audiobook)",
+  "/wiki/Star_Wars:_The_Last_Jedi:_The_Visual_Dictionary",
+  "/wiki/Star_Wars:_The_Last_Jedi:_Ultimate_Sticker_Collection",
+  "/wiki/Star_Wars:_The_Last_Jedi_Activity_Book_with_Stickers",
+  "/wiki/The_Topps_Company,_Inc.",
+  "/wiki/Star_Wars:_Card_Trader",
+  "/wiki/Star_Wars:_The_Complete_Visual_Dictionary,_New_Edition",
+  "/wiki/Ultimate_Star_Wars,_New_Edition",
+  "/wiki/StarWars.com"
+ ]
+}

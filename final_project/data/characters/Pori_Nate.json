@@ -1,0 +1,51 @@
+{
+ "name": "Pori_Nate",
+ "display_name": "Pori Nate",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "37 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Pori Nate\" was the alias given to a fifteen-year-old drug abuser for an interview in an article written by Anjet Okeco for HoloNet News. \"Nate\" lived in the Jrade District of Coruscant and illegally visited alien bars and clubs, where he purchased death sticks. He had posters of D.T. Spool and the Skroaches on the walls of his room and often let homework sit until the last minute.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/37_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anjet_Okeco",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/Jrade_District/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Death_stick/Legends",
+  "/wiki/D.T._Spool_and_the_Skroaches",
+  "/wiki/HoloNet_News_Vol._531_49",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_New_Essential_Chronology"
+ ]
+}

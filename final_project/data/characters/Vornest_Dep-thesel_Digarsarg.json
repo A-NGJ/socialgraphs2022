@@ -1,0 +1,54 @@
+{
+ "name": "Vornest_Dep-thesel_Digarsarg",
+ "display_name": "Vornest Dep-thesel Digarsarg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garnib"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Balinaka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vornest Dep-thesel Digarsarg was a male Balinaka sculptor. He was the first to incorporate fragments of gemstones and colored pumice in his ice sculptures, creating what he called the \"Crystal of the Stars.\" This led to the creation of the famed Garnib crystals, and indirectly Galactic Crystal Creations when he showed the sculpture to his Human friend, Abram Zavict.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garnib",
+  "/wiki/Balinaka",
+  "/wiki/Gender/Legends",
+  "/wiki/Sculptor/Legends",
+  "/wiki/Gemstone/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pumice",
+  "/wiki/Water/Legends",
+  "/wiki/Crystal_of_the_Stars",
+  "/wiki/Garnib_crystal",
+  "/wiki/Galactic_Crystal_Creations",
+  "/wiki/Human/Legends",
+  "/wiki/Abram_Zavict",
+  "/wiki/Planets_of_the_Galaxy,_Volume_One",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

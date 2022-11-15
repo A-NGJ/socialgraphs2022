@@ -1,0 +1,35 @@
+{
+ "name": "Gilles_Sartoris",
+ "display_name": "Gilles Sartoris",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gilles Sartoris was a Human man who lived during the time of the Galactic Empire.\nSartoris was a thief and a death stick addict, who regularly beat his son Jareth Sartoris. However, one day when Jareth was sixteen, Gilles went to beat his son and Jareth turned on him, killing his father. Jareth then dumped his father's body in a local alleyway. Jareth proceeded to leave and join the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Death_stick/Legends",
+  "/wiki/Jareth_Sartoris",
+  "/wiki/Death_Troopers",
+  "/wiki/Death_Troopers_(audiobook)"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Duppa",
+ "display_name": "Duppa",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Duppa was a male momong born on the Trandoshan moon of Wasskah. He served as the loyal pet of a spacer.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wasskah/Legends",

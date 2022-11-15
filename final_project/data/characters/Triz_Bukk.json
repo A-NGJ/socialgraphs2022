@@ -1,0 +1,56 @@
+{
+ "name": "Triz_Bukk",
+ "display_name": "Triz Bukk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red with black tattoos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic",
+      "The Smuggler"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Triz Bukk was a female Zabrak who joined the Smuggler's crew during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Zabrak",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Tattoo",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/The_Smuggler",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Triz_Bukk",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

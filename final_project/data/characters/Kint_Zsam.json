@@ -1,0 +1,39 @@
+{
+ "name": "Kint_Zsam",
+ "display_name": "Kint Zsam",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kint Zsam was a male Rodian who lived during the Galactic Civil War. He rewarded a hunter in his hunting party with a Chiss poacher backpack after they cleared the Hracca Glade of Chiss poachers and defeated a mighty Kkorrwrot beast.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Chiss_poacher_backpack",
+  "/wiki/Hracca_Glade",
+  "/wiki/Chiss/Legends",
+  "/wiki/Kkorrwrot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kint_Zsam",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

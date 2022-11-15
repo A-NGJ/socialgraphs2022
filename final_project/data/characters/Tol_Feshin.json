@@ -1,0 +1,60 @@
+{
+ "name": "Tol_Feshin",
+ "display_name": "Tol Feshin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Contraband Resale Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tol Feshin was a male Twi'lek living during the Galactic War. Employed by Basuda the Hutt of the Contraband Resale Corporation, he resided on Carrick Station at his master's side.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Contraband_Resale_Corporation",
+  "/wiki/Galactic_War",
+  "/wiki/Basuda",
+  "/wiki/Hutt/Legends",
+  "/wiki/Carrick_Station",
+  "/wiki/Cartel_Market"
+ ]
+}

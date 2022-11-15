@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Rodian_Jedi_youngling",
+ "display_name": "Unidentified Rodian Jedi youngling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rodian Jedi youngling was with Trilla Suduri and Cere Junda as they were hiding from the Galactic Empire. Junda left to lure them away, telling Suduri that she'd circle back, instructing her to stay with the younglings. The youngling asked Suduri what was going to happen to them, to which she replied that it was okay. Junda and Suduri were ultimately captured by the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Color",
+  "/wiki/Jedi_Order",
+  "/wiki/Second_Sister",
+  "/wiki/Cere_Junda",
+  "/wiki/Galactic_Empire",
+  "/wiki/Jedi_Initiate",
+  "/wiki/Youngling",
+  "/wiki/Prisoner",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rodian_Jedi_youngling",
+  "/wiki/Star_Wars_Jedi:_Fallen_Order"
+ ]
+}

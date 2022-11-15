@@ -1,0 +1,59 @@
+{
+ "name": "Tassa%27s_father",
+ "display_name": "Tassa's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Munto Codru"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Codru-Ji"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tassa's clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Codru-Ji, the father of Tassa led a clan on Munto Codru. Tassa fell in love with Rikkar-Du, a captive from a rival clan, eventually marrying and uniting the clans. Tassa's father supported Rikkar-Du following the union.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Munto_Codru/Legends",
+  "/wiki/Codru-Ji",
+  "/wiki/Gender/Legends",
+  "/wiki/Tassa%27s_clan",
+  "/wiki/Tassa",
+  "/wiki/Rikkar-Du",
+  "/wiki/Rikkar-Du%27s_clan",
+  "/wiki/Marriage/Legends",
+  "/wiki/Legacy_(2006)_13"
+ ]
+}

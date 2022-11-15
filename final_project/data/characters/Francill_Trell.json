@@ -1,0 +1,50 @@
+{
+ "name": "Francill_Trell",
+ "display_name": "Francill Trell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yutusk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Francill Trell was the father of Vimran Trell. It was he who taught his son to cook. When the Empire invaded their homeworld, Yutusk, Francill and his wife, Tranira, were executed as suspected Rebel Alliance sympathizers. Their deaths ensured that Vimran used his position as chef on the Star Destroyer Adjudicator to secretly pass information to the Rebel Alliance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yutusk",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Vimran_Trell",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Tranira_Trell",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Imperial_I-class_Star_Destroyer/Legends",
+  "/wiki/Liberator_(Imperial_I-class)",
+  "/wiki/Cracken%27s_Rebel_Operatives"
+ ]
+}

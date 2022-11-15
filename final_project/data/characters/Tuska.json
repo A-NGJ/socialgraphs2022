@@ -1,0 +1,62 @@
+{
+ "name": "Tuska",
+ "display_name": "Tuska",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Beckett's gang"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuska was a male Mon Calamari who worked with Tobias Beckett and his gang to steal from a conveyex on Cato Neimoidia. He was tasked with climbing the Bride's Talon and checking to see if there were any escorts for the conveyex.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Beckett%27s_gang",
+  "/wiki/Tobias_Beckett",
+  "/wiki/20-T_Railcrawler_conveyex_transport",
+  "/wiki/Cato_Neimoidia",
+  "/wiki/Bride%27s_Talon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuska",
+  "/wiki/Star_Wars:_Smuggler%27s_Guide"
+ ]
+}

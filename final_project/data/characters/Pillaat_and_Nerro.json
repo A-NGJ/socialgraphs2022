@@ -1,0 +1,40 @@
+{
+ "name": "Pillaat_and_Nerro",
+ "display_name": "Pillaat and Nerro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Troig"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Pillaat and Nerro was a Troig male bartender who worked in the Spyder, a gambling establishment located on the planet Coruscant. During the Galactic Civil War, Pillaat and Nerro encountered a band of Pyke Syndicate operatives who had ventured to the Spyder while searching for the Nikto bounty hunter Kaa'to Leeachos.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Troig/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bartender/Legends",
+  "/wiki/Spyder",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Pyke_Syndicate/Legends",
+  "/wiki/Nikto/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Kaa%27to_Leeachos",
+  "/wiki/Under_a_Black_Sun"
+ ]
+}

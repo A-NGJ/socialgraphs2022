@@ -1,0 +1,58 @@
+{
+ "name": "The_Ancient_One",
+ "display_name": "The Ancient One",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taris"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "K'lor'slug"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Ancient One was the name of a giant k'lor'slug queen living on Taris until 3642 BBY, when it was killed by Imperial forces during the invasion of Taris.\nThe Ancient One appears in the video game Star Wars: The Old Republic as the Heroic World Boss on the Imperial version of Taris. It is not directly involved in any quests, but can be killed for loot and as part of the achievement. This article assumes 100% game completion, which means it was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/3642_BBY",
+  "/wiki/K%27lor%27slug/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Queen/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Invasion_of_Taris",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

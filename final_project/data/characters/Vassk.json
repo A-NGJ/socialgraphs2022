@@ -1,0 +1,39 @@
+{
+ "name": "Vassk",
+ "display_name": "Vassk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vassk was a sinister-looking Twi'lek smuggler working for Tal Pak. He accompanied Pak to the Red Moon Saloon on Tatooine to rendezvous with Rebel agents. Prior to that Vassk had tipped off the Galactic Empire for a substantial reward, thus betraying Pak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/You%27re_in_the_Army_Now!",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Tal_Pak",
+  "/wiki/Red_Moon_Saloon",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Star_Wars_Adventure_Journal_2"
+ ]
+}

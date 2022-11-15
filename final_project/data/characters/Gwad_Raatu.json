@@ -1,0 +1,79 @@
+{
+ "name": "Gwad_Raatu",
+ "display_name": "Gwad Raatu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic AllianceCoruscant Security ForceDetective division",
+      "Coruscant Security ForceDetective division",
+      "Detective division"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gwad Raatu was a male Rodian police officer with the rank of detective in the Coruscant Security Force. He was sent to investigate the death of Jedi Master Tresina Lobi. He, along with his partner, Chal Tozr, questioned Jedi Masters Luke and Mara Jade Skywalker about the death of Tresina. As a Rodian the investigation got his hunting instincts worked up and he later joined Luke and Mara as they investigated Lumiya's apartment on Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Coruscant_Security_Force/Legends",
+  "/wiki/Detective_division",
+  "/wiki/Police_officer/Legends",
+  "/wiki/Police_rank",
+  "/wiki/Detective/Legends",
+  "/wiki/Duel_in_the_Fellowship_Plaza",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Tresina_Lobi",
+  "/wiki/Chal_Tozr",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Death/Legends",
+  "/wiki/Lumiya",
+  "/wiki/Apartment_three_hundred_seven_twelve",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

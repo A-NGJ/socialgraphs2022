@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Zygerrian_operator",
+ "display_name": "Unidentified Zygerrian operator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zygerria"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zygerrian Slave Empire",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Around 21 BBY, this Zygerrian was working as a computer operator in the Labor Processing Hub on Kadavo.\nThis Zygerrian slaver was operating a computer in the Kadavo slave processing facility and informed the commander of the unit, Agruss, that the slave ship Tecora was making an unscheduled landing on one of the landing pads. This operator later informed Agruss that a fleet of starships have dropped out of hyperspace in sector 6.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zygerria/Legends",
+  "/wiki/Zygerrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Zygerrian_Slave_Empire/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Kadavo_slave_processing_facility/Legends",
+  "/wiki/Kadavo/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Agruss/Legends",
+  "/wiki/Tecora/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Escape_from_Kadavo"
+ ]
+}

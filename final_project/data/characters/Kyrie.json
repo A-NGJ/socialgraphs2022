@@ -1,5 +1,6 @@
 {
  "name": "Kyrie",
+ "display_name": "Kyrie",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Kyrie was a female human who was the aide senator to Ghirra Starros on Coruscant.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

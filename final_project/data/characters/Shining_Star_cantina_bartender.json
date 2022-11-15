@@ -1,0 +1,39 @@
+{
+ "name": "Shining_Star_cantina_bartender",
+ "display_name": "Shining Star cantina bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Around 3626 BBY, a Togruta female worked as the bartender of the Shining Star cantina on Alderaan. She assisted an individual with tracking a Nexu claw pendant belonging to her favorite swoop gang, the Horizon's Razor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/3626_BBY",
+  "/wiki/Shining_Star_cantina",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Nexu_claw_pendant",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Horizon%27s_Razor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Shining_Star_cantina_bartender",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

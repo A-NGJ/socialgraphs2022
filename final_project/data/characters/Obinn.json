@@ -1,5 +1,6 @@
 {
  "name": "Obinn",
+ "display_name": "Obinn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Obinn was a male Kubaz and wealthy crime lord on Kubindi during the Cold War, who needed a shipment delivered to an anonymous client.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kubaz/Legends",

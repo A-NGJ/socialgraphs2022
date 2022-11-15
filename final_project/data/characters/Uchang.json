@@ -1,0 +1,64 @@
+{
+ "name": "Uchang",
+ "display_name": "Uchang",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uchang was a Human male General of the Galactic Republic living during the Galactic War. During the Battle of Hoth he was discussing with fellow Generals Shodarra and Krepkit the news that the famed Bane Brigade has resurfaced on Hoth after being presumed dead since the Battle of Rhen Var over ten years earlier. Uchang advised to bring more reinforcements to Hoth, but Shodarra countered that he saw the Bane Brigade perish himself, to which Krepkit stated that the truth must be uncovered either way.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Hoth_(Galactic_War)",
+  "/wiki/Shodarra",
+  "/wiki/Krepkit",
+  "/wiki/Bane_Brigade",
+  "/wiki/Hoth/Legends",
+  "/wiki/Battle_of_Rhen_Var",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

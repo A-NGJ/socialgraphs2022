@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_Twi%27lek_merchant",
+ "display_name": "Unidentified Twi'lek merchant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Around 3626 BBY, a Twi'lek male merchant bought a Nexu claw pendant from the swooper Rida Denru on Alderaan. Later, an individual was sent to retrieve the pendant by the Horizon's Razor, Denru's swoop gang. The merchant challenged the individual for a duel in exchange for the pendant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/3626_BBY",
+  "/wiki/Nexu_claw_pendant",
+  "/wiki/Swooper/Legends",
+  "/wiki/Rida_Denru",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Horizon%27s_Razor",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Twi%27lek_merchant",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

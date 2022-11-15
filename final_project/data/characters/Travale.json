@@ -1,0 +1,66 @@
+{
+ "name": "Travale",
+ "display_name": "Travale",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.85 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Senate Bureau of Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Travale was a male Human Senate Bureau of Intelligence agent during the last years of the Galactic Republic. Travale was not his true name, but rather a code name, as he had been inserted into the Confederate facility on the asteroid of Escarte near the end of the Clone Wars. He was blonde, fair-complexioned, wide-shouldered, and as tall as Anakin Skywalker. He helped Skywalker and Obi-Wan Kenobi rescue the Bith, Thal K'sar, and escape from the facility.\nHe also taught Kenobi how to deactivate tractor beams, predicting that they were the wave of the future. Kenobi was skeptical, and doubted that he would ever need to use that knowledge again.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Senate_Bureau_of_Intelligence/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Escarte/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Thal_K%27sar",
+  "/wiki/Tractor_beam/Legends",
+  "/wiki/Labyrinth_of_Evil"
+ ]
+}

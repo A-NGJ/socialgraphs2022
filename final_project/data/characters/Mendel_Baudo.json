@@ -1,0 +1,34 @@
+{
+ "name": "Mendel_Baudo",
+ "display_name": "Mendel Baudo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mendel Baudo was a reclusive Aqualish who owned the small shipyards that produced the Baudo-class star yacht during the height of the New Order. Known as an eccentric and a perfectionist, Baudo had each yacht custom-built to its owner's specifications, and only accepted orders from customers who had been referred to him by previous customers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baudo-class_star_yacht",
+  "/wiki/New_Order/Legends",
+  "/wiki/Starships_of_the_Galaxy_(Saga_Edition)",
+  "/wiki/Fly_Casual"
+ ]
+}

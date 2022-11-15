@@ -1,0 +1,63 @@
+{
+ "name": "Trage",
+ "display_name": "Trage",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trage was a male Human captain in the Imperial Military of the Sith Empire during the Galactic War. He was stationed on Corellia where he participated in the Battle of Corellia. Following the dissolution of the Imperial Intelligence he also welcomed Cipher Nine into the military ranks.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Captain/Legends",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Corellia/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Cipher_Nine",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

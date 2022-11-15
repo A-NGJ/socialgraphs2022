@@ -1,0 +1,39 @@
+{
+ "name": "Tanol_Ocir",
+ "display_name": "Tanol Ocir",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanol Ocir was a male Human who lived during the time of the Galactic Alliance.\nOcir learned how to carry out some of the modifications that the Sith Lord Darth Caedus had made to his personal SD-X-series stealth battle droid and used this knowledge to modify a number of SD-Xs. When Lando Calrissian, the owner of the SD-X's manufacturer, Tendrando Arms, found out, he was furious and placed a bounty on Ocir and any droids that he had modified.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/SD-X-series_stealth_battle_droid",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Tendrando_Arms",
+  "/wiki/Bounty/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Scavenger%27s_Guide_to_Droids"
+ ]
+}

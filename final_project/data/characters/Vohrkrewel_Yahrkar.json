@@ -1,0 +1,62 @@
+{
+ "name": "Vohrkrewel_Yahrkar",
+ "display_name": "Vohrkrewel Yahrkar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "33 BBY–28 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "2.1 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vohrkrewel Yahrkar was a male Human smuggler, pilot and information broker during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/28_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Information_broker/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vohrkrewel_Yahrkar",
+  "/wiki/West_End_Games",
+  "/wiki/The_Right_Place_...",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures",
+  "/wiki/4_ABY/Legends",
+  "/wiki/9_ABY/Legends"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Noshy_Heer",
+ "display_name": "Noshy Heer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Noshy Heer was a vagrant forced to scrounge for credits after gambling all his money away in the Relatta system. Trying to return home to Alderaan, where the rest of his money was stored, the planet was destroyed before he made it. Heer was therefore forced to spend the rest of his life traveling the Outer Rim Territories by stowing aboard different starships.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Relatta_system",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Heroes_%26_Rogues",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

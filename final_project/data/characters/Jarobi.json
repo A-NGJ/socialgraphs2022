@@ -1,5 +1,6 @@
 {
  "name": "Jarobi",
+ "display_name": "Jarobi",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Jarobi was a male human Inquisitor of the resurgent Sith Empire during the Cold War. He resided in the Sith Academy on Korriban.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

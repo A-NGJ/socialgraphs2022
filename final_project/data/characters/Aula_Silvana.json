@@ -1,0 +1,36 @@
+{
+ "name": "Aula_Silvana",
+ "display_name": "Aula Silvana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aula Silvana was a female Human living during the Eternal Empire conquest. By 3630 BBY she was wanted by the Eternal Empire for smuggling, slander, grand theft and treason. She was last seen in Zakuul lower city and her wanted poster was displayed in the Overwatch.\nAula Silvana appears during Chapter 10: Anarchy in Paradise of Star Wars: The Old Republic: Knights of the Fallen Empire on a wanted holo-poster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Eternal_Empire_conquest",
+  "/wiki/3630_BBY",
+  "/wiki/Eternal_Empire",
+  "/wiki/Zakuul",
+  "/wiki/Overwatch",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

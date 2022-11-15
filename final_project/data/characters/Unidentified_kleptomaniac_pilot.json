@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_kleptomaniac_pilot",
+ "display_name": "Unidentified kleptomaniac pilot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Etti IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The kleptomaniac pilot was among the rejected pilot candidates for Wraith Squadron. A male Human from Etti IV, he was subject to a court-martial for theft when he interviewed with Wedge Antilles for a position in the Wraith Squadron. During the meeting, he stole a family hologram from Antilles; Wes Janson apprehended him and Antilles rejected him from the squadron.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Etti_IV/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Wraith_Squadron",
+  "/wiki/Court-martial/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Hologram/Legends",
+  "/wiki/Wes_Janson/Legends",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

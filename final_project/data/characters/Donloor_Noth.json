@@ -1,0 +1,48 @@
+{
+ "name": "Donloor_Noth",
+ "display_name": "Donloor Noth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Iridonia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Donloor Noth was a Zabrak noble and the father of Oorn Noth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Iridonia/Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Noble/Legends",
+  "/wiki/Oorn_Noth",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Donloor_Noth",
+  "/wiki/Wizards.com",
+  "/wiki/Oorn_Noth:_Racer_on_the_Run"
+ ]
+}

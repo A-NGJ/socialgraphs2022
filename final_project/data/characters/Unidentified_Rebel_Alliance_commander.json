@@ -1,0 +1,80 @@
+{
+ "name": "Unidentified_Rebel_Alliance_commander",
+ "display_name": "Unidentified Rebel Alliance commander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "During the Imperial Era",
+      "over a supply moon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was an X-wing starfighter commander of the Alliance to Restore the Republic, serving the rebel outpost on Jamiri. He and his squadron managed to attack an Imperial starfighter factory on an Imperial supply moon. He died after getting shot by Darth Vader in his TIE Advanced x1.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Imperial_Era",
+  "/wiki/Supply_moon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/X-wing_starfighter",
+  "/wiki/Commander",
+  "/wiki/Rebel_outpost_(Jamiri)",
+  "/wiki/Jamiri",
+  "/wiki/Squadron",
+  "/wiki/Galactic_Empire",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Darth_Vader%27s_TIE_Advanced_x1",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rebel_Alliance_commander",
+  "/wiki/Vader_-_Dark_Visions_4"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Snool_Shedoon",
+ "display_name": "Snool Shedoon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snool Shedoon was a male Sullustan Imperial spy for Inquisitor Mal Sikander who lived during the time of the Galactic Civil War.\nDialogue pertaining to Snool Shedoon appeared in the directory tree files for the 2003 massively multiplayer online roleplaying game Star Wars Galaxies: An Empire Divided. However, he never actually appeared on the video game's live servers as a proper non-player character.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Spy/Legends",
+  "/wiki/Inquisitorius/Legends",
+  "/wiki/Mal_Sikander",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/2003",
+  "/wiki/Video_game"
+ ]
+}

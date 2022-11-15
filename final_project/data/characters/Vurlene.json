@@ -1,0 +1,72 @@
+{
+ "name": "Vurlene",
+ "display_name": "Vurlene",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vurlene was a healer for the Singing Mountain Clan during the Galactic Civil War. She once sent an individual to Naboo to meet with Skub, a Gungan holy man who had discovered a form of algae with properties similar to bacta whom she had learned about through a book, to gain a sample of the algae as she thought that it would be well suited to the environs of Dathomir.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Skub",
+  "/wiki/Gungan/Legends",
+  "/wiki/Bacta/Legends",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

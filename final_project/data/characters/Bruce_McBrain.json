@@ -1,0 +1,62 @@
+{
+ "name": "Bruce_McBrain",
+ "display_name": "Bruce McBrain",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bruce McBrain was a male Aqualish who worked for Jabba the Hutt in 1 ABY. After one of Jabba's minions betrayed him, so as to lessen a sentence, McBrain hired a spacer to locate and destroy the minion's CR90 corvette en route to a council of Galactic Judges. After the spacer completed this task, the McBrain gave him an AV-21 landspeeder.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/CR90_corvette/Legends",
+  "/wiki/AV-21_landspeeder",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Sony"
+ ]
+}

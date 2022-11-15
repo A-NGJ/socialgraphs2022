@@ -1,5 +1,6 @@
 {
  "name": "Leo",
+ "display_name": "Leo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Leo was a Human male padawan who visited the Jedi academy within the Jedi Temple on Coruscant during Roan Novachez's third year of attendance.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

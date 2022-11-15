@@ -1,0 +1,52 @@
+{
+ "name": "Tewn",
+ "display_name": "Tewn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tewn was a male Wookiee mechanic in the Alliance to Restore the Republic. While on Berrol's Donn, he served under Commander Zeke Rondel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/The_Abduction",
+  "/wiki/Technician/Legends",
+  "/wiki/Berrol%27s_Donn/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Zeke_Rondel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tewn",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures"
+ ]
+}

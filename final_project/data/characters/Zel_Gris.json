@@ -1,0 +1,63 @@
+{
+ "name": "Zel_Gris",
+ "display_name": "Zel Gris",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Livno III"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lynna"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zel Gris's clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zel Gris was a female Lynna from the planet Livno III who served as the strategy instructor to Princess Rinetta Gan of Hynestia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Livno_III",
+  "/wiki/Lynna",
+  "/wiki/Gender",
+  "/wiki/Zel_Gris%27s_clan",
+  "/wiki/Planet",
+  "/wiki/Strategy_instructor",
+  "/wiki/Prince",
+  "/wiki/Rinetta_Gan",
+  "/wiki/Hynestia_Prime",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zel_Gris",
+  "/wiki/Lando%27s_Luck",
+  "/wiki/Lando%27s_Luck_(audiobook)"
+ ]
+}

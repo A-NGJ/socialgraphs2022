@@ -1,5 +1,6 @@
 {
  "name": "Belatro",
+ "display_name": "Belatro",
  "side_bars": [
   {
    "name": "Physical description",
@@ -39,7 +40,7 @@
   }
  ],
  "content": "Belatro was a Twi'lek female and major of the Galactic Republic military during the Invasion of Ossus.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

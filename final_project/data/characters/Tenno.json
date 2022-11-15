@@ -1,0 +1,79 @@
+{
+ "name": "Tenno",
+ "display_name": "Tenno",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ceriun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tenno was a young Human male, born and raised on the planet of Ceriun around 1000 BBY.\nA native of Ceriun, a primitive agrarian world, Tenno was fixated on one day escaping his home planet and Ka'arn, his bullying disciplinarian father. When a starship crash landed near to his village, Tenno and his friends eavesdropped on a resulting meeting of the village elders and learned that the deceased pilot was a Jedi Knight. Furthermore, this Jedi had bequeathed the elders with a cubical holocron which he requested they keep safe until another Jedi appeared to claim it. Concluding that the Sith would undoubtedly appear to claim the holocron for themselves, Tenno gathered his friends and plotted to take the artifact to keep it safe for the Sith, hoping it would serve as his ticket off of Ceriun.\nWhen the elders met again to debate the matter of the holocron, Tenno and his friends armed themselves and appeared at the meeting. A brawl broke out, in which several of the adults were killed, including Tenno's father Ka'arn. This fight was interrupted by the appearance of a Sith Lord, who seized the holocron and departed.\nWhen Tenno tried to explain that he and his friends had kept the device safe for the Sith, the Sith Lord attacked and killed several of them with his lightsaber, declaring, \"What the Sith want, they take.\" However, he did recognize Tenno's aid, and commanded the villagers not to touch him when he left, warning that he would know if they did. Tenno was left to suffer the guilt caused by his actions.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ceriun",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/All_for_You",
+  "/wiki/Planet/Legends",
+  "/wiki/1000_BBY",
+  "/wiki/Ka%27arn",
+  "/wiki/Starship/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Holocron/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Star_Wars_Tales_17",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

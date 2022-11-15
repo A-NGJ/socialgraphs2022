@@ -1,0 +1,54 @@
+{
+ "name": "Tas_Gallin",
+ "display_name": "Tas Gallin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Karkarodon"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tas Gallin was a Karkarodon female senator who remained loyal to the Galactic Republic during the Clone Wars. She was present with her aide Zinn Kudri for Kaj Loomit's sabotage of a simulation chamber.\nTas Gallin appears in Fantasy Flight Games' roleplaying adventure Begun, The Clone Wars Have!, released exclusively for attendees of GenCon in 2019.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Karkarodon",
+  "/wiki/Gender",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_Senate",
+  "/wiki/Senator",
+  "/wiki/Clone_Wars",
+  "/wiki/Zinn_Kudri",
+  "/wiki/Kaj_Loomit",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Begun,_The_Clone_Wars_Have!",
+  "/wiki/2019",
+  "/wiki/Rise_of_the_Separatists",
+  "/wiki/Collapse_of_the_Republic"
+ ]
+}

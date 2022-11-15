@@ -1,0 +1,46 @@
+{
+ "name": "Versella",
+ "display_name": "Versella",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Brentaal IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Versella was a member of Lissar and Darrik's family on Brentaal IV. As one of the older cousins, she was responsible for ensuring that the young children made it to and from the Brentaal Commerce Academy on a daily basis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Brentaal_IV/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lissar",
+  "/wiki/Darrik",
+  "/wiki/Brentaal_Commerce_Academy",
+  "/wiki/Imperial_Double-Cross"
+ ]
+}

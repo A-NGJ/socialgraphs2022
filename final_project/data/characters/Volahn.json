@@ -1,0 +1,54 @@
+{
+ "name": "Volahn",
+ "display_name": "Volahn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Volahn was a captain in the New Republic Defense Fleet, commander of the Equity.\nVolahn's fleet ambushed Gaen Drommel's Executor-class Star Dreadnought Guardian when it emerged from hyperspace, and Volahn ordered Drommel's surrender. Drommel refused, but was killed by Colonel Niovi, who surrendered the Guardian.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Equity",
+  "/wiki/Gaen_Drommel",
+  "/wiki/Executor-class_Star_Dreadnought/Legends",
+  "/wiki/Guardian_(Executor-class)",
+  "/wiki/Hyperspace/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Gastos_Niovi",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Two_for_One",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

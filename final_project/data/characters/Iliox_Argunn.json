@@ -1,0 +1,65 @@
+{
+ "name": "Iliox_Argunn",
+ "display_name": "Iliox Argunn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gravlex Med"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anx"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "University of Sanbra"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iliox Arguun was a male Anx, who worked at the University of Sanbra for a number of years as a Professor of Anatomy. From his knowledge of anatomy, physiology, and his experience with creatures, he was able to draw the skeleton of any living creature, without looking inside the body.\nWhen the New Order was instituted, Iliox became increasingly withdrawn and reserved.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gravlex_Med/Legends",
+  "/wiki/Anx/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/University_of_Sanbra",
+  "/wiki/Professor/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Anx",
+  "/wiki/Star_Wars_Gamer_7"
+ ]
+}

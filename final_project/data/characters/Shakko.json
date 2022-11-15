@@ -1,5 +1,6 @@
 {
  "name": "Shakko",
+ "display_name": "Shakko",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Shakko was a Human male pirate. He was the captain of the Cavalcade. Mara Jade killed him and six other pirates when she boarded the ship to find where pieces of art came from.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/0_ABY/Legends",

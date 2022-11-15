@@ -1,0 +1,45 @@
+{
+ "name": "Deebo_Chak",
+ "display_name": "Deebo Chak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Deebo Chak was a male Rodian actor. One of his earliest parts was as the charismatic Soldier in Hishinu Booj's The Trickery of Vosdia Nooma. His character encouraged farmers to resist the heavy taxes imposed by the baron. Chak portrayed his character with a gravelly voice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Actor/Legends",
+  "/wiki/Chak",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Hishinu_Booj",
+  "/wiki/The_Trickery_of_Vosdia_Nooma",
+  "/wiki/Farmer/Legends",
+  "/wiki/Baron/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_52"
+ ]
+}

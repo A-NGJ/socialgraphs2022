@@ -1,5 +1,6 @@
 {
  "name": "Markand",
+ "display_name": "Markand",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Markand was a High Admiral in the Imperial Navy during the Galactic Civil War. He received a copy of a message from Governor Mirash Peet of Indupar to Commodore Gor Lequar.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

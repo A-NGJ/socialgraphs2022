@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Rodian_Rebel",
+ "display_name": "Unidentified Rodian Rebel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Rodian rebel was a member of the Rebel Alliance team sent to investigate Gobindi. The Galactic Empire soon put the world under lockdown as it tested the influenza necrosi virus, declaring the reason for the lockdown to be piracy. The Empire discovered the Rebel agents' presence, and declared them to be wanted as pirates. The Rodian was found and arrested on Gobindi, after which he was subjected to influenza necrosi in a test room. He was consumed by the virus, rendered into a blob.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Gobindi",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Influenza_necrosi",
+  "/wiki/Virus",
+  "/wiki/Pirate/Legends",
+  "/wiki/Blob",
+  "/wiki/Galaxy_of_Fear:_Planet_Plague"
+ ]
+}

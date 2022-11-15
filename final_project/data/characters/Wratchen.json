@@ -1,0 +1,89 @@
+{
+ "name": "Wratchen",
+ "display_name": "Wratchen",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3640 BBY",
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireSith Order",
+      "Sith Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wratchen was a male Human Sith Lord of the resurgent Sith Empire during the Galactic War. Around 3640 BBY he was on Voss, seeking to acquire Gormak cyberbeasts from the smuggler Jela Reneke. Wratchen met Reneke in the Lab 68 of the Dark Heart, but their meeting was interrupted by the Voidhound, who killed both of them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Wratchen",
+  "/wiki/3640_BBY",
+  "/wiki/Voss",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Order_(Sith_Empire)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Gormak/Legends",
+  "/wiki/Ssorokk",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Jela_Reneke",
+  "/wiki/Lab_68",
+  "/wiki/Dark_Heart",
+  "/wiki/Voidhound",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

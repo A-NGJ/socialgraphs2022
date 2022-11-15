@@ -1,5 +1,6 @@
 {
  "name": "Liefur",
+ "display_name": "Liefur",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Liefur was a male Human living during the Cold War, who along with Co'overma came to Taris to preserve local wildlife, specifically wild nexu. He asked a passerby to release the nexu held by a group of pirates.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

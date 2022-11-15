@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_furtive_Jawa",
+ "display_name": "Unidentified furtive Jawa",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A furtive Jawa lived on Tatooine. He was associated with both Arden Telowe and Rayne.\nThe Jawa visited the former's Desert Survey Office every two weeks to deliver information, and rumor had it the two were engaged in back-alley dealings.\nThe Jawa appears in the article Secrets of Mos Eisley in 2001's Star Wars Gamer 7.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Arden_Telowe",
+  "/wiki/Rayne",
+  "/wiki/Desert_Survey_Office/Legends",
+  "/wiki/Secrets_of_Mos_Eisley",
+  "/wiki/2001",
+  "/wiki/Star_Wars_Gamer_7",
+  "/wiki/Star_Wars_Gamer"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "name": "Idlen_Trehar",
+ "display_name": "Idlen Trehar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "2 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Idlen Trehar was a green-skinned Duros male agent of the Galactic Empire operating on the Arnot Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Agent/Legends",
+  "/wiki/Arnot_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Idlen_Trehar",
+  "/wiki/Razor%27s_Edge",
+  "/wiki/Razor%27s_Edge_(audiobook)"
+ ]
+}

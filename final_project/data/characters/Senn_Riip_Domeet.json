@@ -1,0 +1,62 @@
+{
+ "name": "Senn_Riip_Domeet",
+ "display_name": "Senn Riip Domeet",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Flail"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Senn Riip Domeet was a Human male, a member of the terrorist organization The Flail and its main expert in explosives during the last stages of the conspiracy.\nIn 33 BBY, Domeet took part in an attempted coup against Supreme Chancellor Finis Valorum. Disguised as a construction worker, Domeet hid a thermal detonator in the repulsorlift platform Valorum was to use the following day. After finishing his work, Domeet noticed that he had been sighted, and tried to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Flail",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Finis_Valorum/Legends",
+  "/wiki/Thermal_detonator/Legends",
+  "/wiki/Repulsorpod/Legends",
+  "/wiki/Wizards_of_the_Coast",
+  "/wiki/Shadows_of_Coruscant",
+  "/wiki/Star_Wars_Roleplaying_Game_Core_Rulebook"
+ ]
+}

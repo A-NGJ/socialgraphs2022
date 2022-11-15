@@ -1,0 +1,49 @@
+{
+ "name": "Elana_Divini",
+ "display_name": "Elana Divini",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elana Divini was the mother of Kornell Divini. She was a famous mudopterist.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kornell_Divini",
+  "/wiki/Mudopterist",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Elana_Divini",
+  "/wiki/MedStar_II:_Jedi_Healer",
+  "/wiki/Death_Star_(novel)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

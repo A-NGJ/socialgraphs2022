@@ -1,0 +1,59 @@
+{
+ "name": "Mia_Celchu",
+ "display_name": "Mia Celchu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mia Celchu was one of the sisters of Skoloc and Tycho Celchu. She was present on her homeworld of Alderaan when it was destroyed by the first Death Star.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Mia_Celchu",
+  "/wiki/Alderaan/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Skoloc_Celchu",
+  "/wiki/Tycho_Celchu/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_3",
+  "/wiki/Star_Wars:_X-Wing_Rogue_Squadron:_Battleground:_Tatooine",
+  "/wiki/X-Wing:_Wedge%27s_Gamble",
+  "/wiki/X-Wing:_The_Bacta_War"
+ ]
+}

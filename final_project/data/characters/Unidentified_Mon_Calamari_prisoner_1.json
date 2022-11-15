@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Mon_Calamari_prisoner_1",
+ "display_name": "Unidentified Mon Calamari prisoner 1",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Mon Calamari was one of the many prisoners taken captive by the Separatists on Dac during the Battle of Mon Cala and transported to an underwater cave used as a prison camp. Prince Lee-Char, along with padawan Ahsoka Tano, managed to get inside the camp and talk to him and the other prisoners, motivating them and telling them not to lose hope. Their discussion was cut short when Monnk approached them and told them that they were attracting too much attention. As the Prince turned to leave, this Mon Calamari told him that he cannot leave his people there, to which the Prince replied that he would return to release them, as their king.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Lee-Char/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Battle_of_Mon_Cala/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Monnk/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Prisoners"
+ ]
+}

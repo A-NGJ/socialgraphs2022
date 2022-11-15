@@ -1,0 +1,33 @@
+{
+ "name": "Uta",
+ "display_name": "Uta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "3.7 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uta was a Hutt artifact smuggler who smuggled military artifacts and sold them for a high profit. He was arrested on that charge later on. His fate after his arrest is unknown.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Before_the_Storm"
+ ]
+}

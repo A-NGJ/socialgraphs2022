@@ -1,0 +1,26 @@
+{
+ "name": "Large_Luxis",
+ "display_name": "Large Luxis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Large Luxis was a Gamorrean who worked for a loan shark during the early years of the New Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Loan_shark",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Galaxy_Guide_11:_Criminal_Organizations"
+ ]
+}

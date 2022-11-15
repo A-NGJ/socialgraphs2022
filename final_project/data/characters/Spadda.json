@@ -1,0 +1,33 @@
+{
+ "name": "Spadda",
+ "display_name": "Spadda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spadda was a Hutt crime lord who lived on the planet Aikhibba. The smuggler Uxbeg was set to deliver a load of spice from the royal governor of the Thokosia system to Spadda, but Lo Khan intercepted the shipment and delivered it himself. Spadda shortchanged Khan on the delivery fee, but the payout was still sufficient to set him up for life.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Aikhibba",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Uxbeg",
+  "/wiki/Spice/Legends",
+  "/wiki/Thokosia_system",
+  "/wiki/Lo_Khan",
+  "/wiki/Dark_Empire_Sourcebook",
+  "/wiki/Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Starspeeder_family",
+ "display_name": "Starspeeder family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Obroa-skai"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Jedi Order",
+      "Sith Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Starspeeder family was a Human family that hailed from Obroa-skai. Victor and Christina Starspeeder had parents who were Edward Starspeeder, later known as Krio Vin, and a unidentified mother. After the mother seperated from Edward Starspeeder, she was in a relationship with a man who lived on Obroa-skai named Russell. Victor and Christina also had a grandfather.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human/Legends",
+  "/wiki/Obroa-skai/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Victor_Starspeeder",
+  "/wiki/Christina_Starspeeder",
+  "/wiki/Parent/Legends",
+  "/wiki/Edward_Starspeeder",
+  "/wiki/Victor_Starspeeder%27s_mother",
+  "/wiki/Gender/Legends",
+  "/wiki/Russell_(Obroa-skai)",
+  "/wiki/Victor_Starspeeder%27s_grandfather",
+  "/wiki/Jedi_Academy:_A_New_Class",
+  "/wiki/Jedi_Academy:_The_Force_Oversleeps",
+  "/wiki/Jedi_Academy:_The_Principal_Strikes_Back",
+  "/wiki/Jedi_Academy:_Revenge_of_the_Sis",
+  "/wiki/Jedi_Academy:_Attack_of_the_Furball",
+  "/wiki/Jedi_Academy:_At_Last,_Jedi"
+ ]
+}

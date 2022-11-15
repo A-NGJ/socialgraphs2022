@@ -1,0 +1,62 @@
+{
+ "name": "Juno_Eclipse",
+ "display_name": "Juno Eclipse",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corulag"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Juno Eclipse was a human pilot of the Galactic Empire from Corulag. At one point, they piloted a TIE Advanced x1.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Juno_Eclipse",
+  "/wiki/Juno_Eclipse/Legends",
+  "/wiki/Eclipse_(disambiguation)",
+  "/wiki/Corulag",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Pilot",
+  "/wiki/TIE_Advanced_x1",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Juno_Eclipse",
+  "/wiki/Star_Wars:_X-Wing_Second_Edition",
+  "/wiki/September_26",
+  "/wiki/2022",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

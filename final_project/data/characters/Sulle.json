@@ -1,0 +1,48 @@
+{
+ "name": "Sulle",
+ "display_name": "Sulle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chagrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Belsavis Orbital security"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sulle was a male Chagrian captain in the Belsavis orbital security during the Galactic War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chagrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Belsavis_Orbital_security",
+  "/wiki/Captain/Legends",
+  "/wiki/Belsavis_orbital_security",
+  "/wiki/Galactic_War",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sulle",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

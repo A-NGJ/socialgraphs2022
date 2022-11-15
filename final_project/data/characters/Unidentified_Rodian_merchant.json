@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_Rodian_merchant",
+ "display_name": "Unidentified Rodian merchant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Rodian merchant sold Captain Thrawn a vulture droid part. Without the merchant knowing, Thrawn also learned that the merchant had an order for more vulture droid parts from an individual known as Nightswan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Eli_N._Vanto",
+  "/wiki/Captain",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I",
+  "/wiki/Merchant",
+  "/wiki/Droid",
+  "/wiki/Nevil_Cygni",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)"
+ ]
+}

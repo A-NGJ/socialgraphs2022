@@ -1,5 +1,6 @@
 {
- "name": "Pen'thruta",
+ "name": "Pen%27thruta",
+ "display_name": "Pen'thruta",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Pen'thruta was a biochemist living during the Cold War. Residing on Tatooine, Pen'thruta managed a small shop, also teaching the knowledge of biochemistry to others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

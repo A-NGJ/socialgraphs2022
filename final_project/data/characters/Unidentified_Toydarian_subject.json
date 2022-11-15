@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Toydarian_subject",
+ "display_name": "Unidentified Toydarian subject",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Sometime between 19 BBY and 4 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Toydarian was interviewed by Darth Vader at Bast Castle on Vjun and showed a great amount of resistance to Vader's Force suggestions up to the point that Vader began to torture the Toydarian. Through the Toydarian, Vader learned that Toydarians could be easily intimidated by a demonstration of strength. The Toydarian eventually died due to Vader's torture.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/4_ABY/Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Bast_Castle",
+  "/wiki/Vjun/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)",
+  "/wiki/Jedi_vs._Sith:_The_Essential_Guide_to_the_Force_(real-life_book)"
+ ]
+}

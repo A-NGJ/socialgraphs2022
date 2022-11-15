@@ -1,0 +1,27 @@
+{
+ "name": "Uttak",
+ "display_name": "Uttak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uttak was an elderly Sullustan who operated Uttak's Inn.\nHe was paranoid and nosy about the customers of his inn. He would draw his weapons at the slightest provocation.\nHe carried a hold-out blaster and kept a A280 blaster rifle in his quarters.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Uttak%27s_Inn",
+  "/wiki/Hold-out_blaster/Legends",
+  "/wiki/A280_blaster_rifle/Legends",
+  "/wiki/Hideouts_%26_Strongholds"
+ ]
+}

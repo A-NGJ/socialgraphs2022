@@ -1,0 +1,40 @@
+{
+ "name": "Bobolo_Baker",
+ "display_name": "Bobolo Baker",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bobolo Baker's All-Bith Band"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bobolo Baker a Bith musician who founded the Bobolo Baker's All-Bith Band.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bob_(disambiguation)",
+  "/wiki/Bith/Legends",
+  "/wiki/Bobolo_Baker%27s_All-Bith_Band",
+  "/wiki/Musician/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bobolo_Baker",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star"
+ ]
+}

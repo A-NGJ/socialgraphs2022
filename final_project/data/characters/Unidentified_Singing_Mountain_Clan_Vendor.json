@@ -1,0 +1,77 @@
+{
+ "name": "Unidentified_Singing_Mountain_Clan_Vendor",
+ "display_name": "Unidentified Singing Mountain Clan Vendor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dathomir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dathomirian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Clan(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    },
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Singing Mountain Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Dathomirian was a member of the Singing Mountain Clan during the Galactic Civil War that served as a vendor in the Singing Mountain Clan Stronghold.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dathomir/Legends",
+  "/wiki/Dathomirian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Singing_Mountain_Clan",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Singing_Mountain_Clan_Stronghold",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Singing_Mountain_Clan_Vendor",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

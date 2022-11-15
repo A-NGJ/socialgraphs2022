@@ -1,0 +1,54 @@
+{
+ "name": "Urlik",
+ "display_name": "Urlik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Valahari"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urlik was a Human male Valahari who lived during the Clone Wars. He was killed by an Unidentified Mon Calamari Jedi during the Battle of Valahari.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Valahari/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Unidentified_Mon_Calamari_Jedi",
+  "/wiki/Battle_of_Valahari",
+  "/wiki/The_Clone_Wars_10",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

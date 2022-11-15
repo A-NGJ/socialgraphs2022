@@ -1,0 +1,47 @@
+{
+ "name": "Dexen_Eronoss",
+ "display_name": "Dexen Eronoss",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nova Orion Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dexen Eronoss was a male Mon Calamari that lived during the Galactic Civil War. He was working as an shift foreman for Nova Orion Industries on the Nova Orion Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nova_Orion_Industries",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Nova_Orion_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dexen_Eronoss",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

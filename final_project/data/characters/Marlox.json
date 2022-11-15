@@ -1,5 +1,6 @@
 {
  "name": "Marlox",
+ "display_name": "Marlox",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "King Marlox was the ruler of the Quorks of Quork City on Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Tanruka_Namhi",
+ "display_name": "Tanruka Namhi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pasaana"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aki-Aki"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tanruka Namhi was an Aki-Aki food vendor who attended the Festival of the Ancestors.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pasaana",
+  "/wiki/Aki-Aki",
+  "/wiki/Color",
+  "/wiki/Foodstuff",
+  "/wiki/Merchant",
+  "/wiki/Festival_of_the_Ancestors",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tanruka_Namhi",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_Expanded_Edition",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_Expanded_Edition_(audiobook)",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_A_Junior_Novel",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_A_Junior_Novel_(audiobook)",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary"
+ ]
+}

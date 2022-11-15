@@ -1,0 +1,91 @@
+{
+ "name": "Choka_Skell",
+ "display_name": "Choka Skell",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong empireWarrior caste",
+      "Warrior caste",
+      "New Jedi Order"
+     ]
+    },
+    {
+     "name": "Caste",
+     "values": [
+      "Warrior caste"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Choka Skell was a Yuuzhan Vong warrior assigned to Master Shaper Nei Rin at the Jedi Temple on Ossus. Skell and Liaan Lah accompanied Nei Rin on a fact-finding mission on the sabotage of the Ossus Project, only to return and find that all the Yuuzhan Vong at the temple had been killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Warrior_caste",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Master_Shaper",
+  "/wiki/Nei_Rin",
+  "/wiki/Jedi_Academy_(Ossus)",
+  "/wiki/Ossus/Legends",
+  "/wiki/Liaan_Lah",
+  "/wiki/Ossus_Project",
+  "/wiki/Temple",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Choka_Skell",
+  "/wiki/Star_Wars:_Legacy:_Ghosts",
+  "/wiki/Legacy_(2006)_17",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Legacy_Era_Campaign_Guide"
+ ]
+}

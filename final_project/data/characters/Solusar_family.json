@@ -1,0 +1,61 @@
+{
+ "name": "Solusar_family",
+ "display_name": "Solusar family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Tionne Solusar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Galactic Republic",
+      "Jedi Order",
+      "New Republic",
+      "New Jedi Order",
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Solusar family was a Force-sensitive family of Human Jedi Knights. Its known members included Ranik Solusar, Kam Solusar, and his wife Tionne.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Tionne_Solusar",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Ranik_Solusar",
+  "/wiki/Kam_Solusar",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars:_Dark_Empire_II",
+  "/wiki/Star_Wars:_Union",
+  "/wiki/The_New_Jedi_Order:_Star_by_Star",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_I:_Conquest",
+  "/wiki/I,_Jedi",
+  "/wiki/The_New_Essential_Guide_to_Characters"
+ ]
+}

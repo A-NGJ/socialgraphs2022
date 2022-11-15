@@ -1,5 +1,6 @@
 {
  "name": "Saffa",
+ "display_name": "Saffa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Saffa was a female Twi'lek who worked for the Graf family at Everbloom, the family estate.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Saffa_(disambiguation)",

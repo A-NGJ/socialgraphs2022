@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Togruta_youngling",
+ "display_name": "Unidentified Togruta youngling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Togruta Jedi youngling was onboard a J-1 shuttle when Cade Skywalker and Shado Vao left Ossus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Jedi/Legends",
+  "/wiki/Youngling/Legends",
+  "/wiki/J-1_shuttle",
+  "/wiki/Cade_Skywalker",
+  "/wiki/Shado_Vao",
+  "/wiki/Ossus/Legends",
+  "/wiki/Legacy_(2006)_1"
+ ]
+}

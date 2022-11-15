@@ -1,5 +1,6 @@
 {
  "name": "Sazaar",
+ "display_name": "Sazaar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Sazaar was a male Targonnian who revolted againt Craw.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Targonn/Legends",

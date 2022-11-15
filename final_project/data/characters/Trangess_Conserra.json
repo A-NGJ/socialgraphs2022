@@ -1,0 +1,44 @@
+{
+ "name": "Trangess_Conserra",
+ "display_name": "Trangess Conserra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Madam Trangess Conserra was a Mon Calamari female opera singer. She attended the Republic Fair on the planet Valo, where she was set to perform. Madam Conserra survived the subsequent attack on the Republic Fair by Nihil raiders, but suffered a deflated lung.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mon_Calamari",
+  "/wiki/Gender",
+  "/wiki/Opera",
+  "/wiki/Musician",
+  "/wiki/Republic_Fair",
+  "/wiki/Planet",
+  "/wiki/Valo",
+  "/wiki/Attack_on_Valo",
+  "/wiki/Nihil",
+  "/wiki/Pirate",
+  "/wiki/Lung",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Trangess_Conserra",
+  "/wiki/The_High_Republic:_The_Rising_Storm",
+  "/wiki/The_High_Republic:_The_Rising_Storm_(audiobook)",
+  "/wiki/The_High_Republic:_Showdown_at_the_Fair"
+ ]
+}

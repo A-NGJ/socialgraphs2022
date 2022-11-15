@@ -1,5 +1,6 @@
 {
  "name": "Dodger",
+ "display_name": "Dodger",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Dodger was the leader of the Rebel cell on Kabaira by 3 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kabaira",

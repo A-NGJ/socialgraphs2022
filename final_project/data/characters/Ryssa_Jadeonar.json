@@ -1,0 +1,64 @@
+{
+ "name": "Ryssa_Jadeonar",
+ "display_name": "Ryssa Jadeonar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togruta"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ryssa Jadeonar was a female Togruta pirate known for being the scourge of the Galactic Republic during the Cold War. She and her bodyguard Kallaaddik visited the planet Taris in 3643 BBY, where both were defeated.\nRyssa Jadeonar appears in Star Wars: The Old Republic as a hostile NPC on the Republic version of Taris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Togruta/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Bodyguard/Legends",
+  "/wiki/Kallaaddik",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

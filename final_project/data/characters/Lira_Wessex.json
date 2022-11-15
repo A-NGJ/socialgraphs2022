@@ -1,0 +1,71 @@
+{
+ "name": "Lira_Wessex",
+ "display_name": "Lira Wessex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lira Wessex was a human female well-known ship designer in the galaxy and served the Galactic Empire. Wessex designed the Venator-class Star Destroyer and the Raider I-class corvette used by the Empire. She additionally reviewed hologram design schematics of an Executor-class Star Destroyer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lira_Wessex",
+  "/wiki/Lira_Wessex/Legends",
+  "/wiki/Wessex_(disambiguation)",
+  "/wiki/Star_Wars:_Build_the_Millennium_Falcon_(De_Agostini)",
+  "/wiki/Star_Wars:_Build_the_Millennium_Falcon_27",
+  "/wiki/Starship_Fact_File",
+  "/wiki/Star_Wars:_Build_the_Millennium_Falcon_35",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/The_galaxy",
+  "/wiki/Venator-class_Star_Destroyer",
+  "/wiki/Raider_I-class_corvette",
+  "/wiki/Hologram",
+  "/wiki/Executor-class_Star_Dreadnought",
+  "/wiki/Friends_Like_These",
+  "/wiki/Star_Wars:_Armada",
+  "/wiki/Super_Star_Destroyer_Expansion_Pack",
+  "/wiki/Upgrade_Card_Collection"
+ ]
+}

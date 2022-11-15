@@ -1,0 +1,57 @@
+{
+ "name": "Vritol",
+ "display_name": "Vritol",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vritol was a male Wookiee that lived during the Galactic Civil War. He was a creature trainer who lived along the Rryatt Trail.\nVritol appeared as a non-player character in the video game Star Wars Galaxies, a massively multiplayer online roleplaying game developed by Sony Online Entertainment and published by LucasArts, prior to its closure on December 15, 2011.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Rryatt_Trail",
+  "/wiki/Sony",
+  "/wiki/December_15",
+  "/wiki/2011",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vritol",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees"
+ ]
+}

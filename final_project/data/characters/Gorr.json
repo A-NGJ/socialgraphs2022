@@ -1,5 +1,6 @@
 {
  "name": "Gorr",
+ "display_name": "Gorr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -47,7 +48,7 @@
   }
  ],
  "content": "Gorr was a human male who held the rank of lieutenant in the navy of the Galactic Empire, serving as Commander Ellian Zahra's second-in-command aboard the Star Destroyer Tarkin's Will.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

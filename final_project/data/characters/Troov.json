@@ -1,0 +1,81 @@
+{
+ "name": "Troov",
+ "display_name": "Troov",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nothoiin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nothoiin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gold"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Troov was a male Nothoiin general who aided, allied, and supported the Galactic Republic in the liberation of Nothoiin against the Confederacy of Independent Systems. During the celebration of the planet's freedom, General Troov aided in the capture of the notorious Hutt crime lord Gorga Desilijic Aarrpo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/Nothoiin/Legends",
+  "/wiki/Nothoiin_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/The_Runaway_Ride",
+  "/wiki/General/Legends",
+  "/wiki/Liberation_of_Nothoiin",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Goldskin_Parade",
+  "/wiki/Planet/Legends",
+  "/wiki/Ambush_of_the_Goldskin_Parade",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Gorga_Desilijic_Aarrpo/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Troov",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.50"
+ ]
+}

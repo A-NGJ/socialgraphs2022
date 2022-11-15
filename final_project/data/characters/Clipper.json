@@ -1,5 +1,6 @@
 {
  "name": "Clipper",
+ "display_name": "Clipper",
  "side_bars": [
   {
    "name": "Physical description",
@@ -35,7 +36,7 @@
   }
  ],
  "content": "\"Clipper\" was the nickname of a male TIE fighter pilot who flew as Theta Eleven in the Galactic Empire's Theta Squadron.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Clipper_(disambiguation)",

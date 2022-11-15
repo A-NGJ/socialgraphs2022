@@ -1,0 +1,72 @@
+{
+ "name": "Taya_Rinn",
+ "display_name": "Taya Rinn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorran resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taya Rinn was a Twi'lek female who was a member of the Balmorran resistance during the Galactic War. From the Moraine Outpost on Balmorra she tasked a Republic citizen with recovering sensitive resistance data that was stolen when the Imperials attacked a nearby base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Taya",
+  "/wiki/Doellin",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Galactic_War",
+  "/wiki/Moraine_Outpost",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

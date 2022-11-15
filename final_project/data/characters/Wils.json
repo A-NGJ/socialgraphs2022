@@ -1,0 +1,49 @@
+{
+ "name": "Wils",
+ "display_name": "Wils",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wils was a male Human officer serving in the Republic Navy during the Clone Wars. In 20 BBY, he was a deck chief onboard the Sundiver at the time of the Battle of Rendili. He was responsible for overseeing maintenance of the Azure Angel II.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Sundiver",
+  "/wiki/Battle_of_Rendili",
+  "/wiki/Azure_Angel_II",
+  "/wiki/Star_Wars:_Republic:_Dreadnaughts_of_Rendili"
+ ]
+}

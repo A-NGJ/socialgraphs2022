@@ -1,0 +1,78 @@
+{
+ "name": "Unidentified_Takara_officer",
+ "display_name": "Unidentified Takara officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "Before 700 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicJedi OrderTakara",
+      "Jedi OrderTakara",
+      "Takara"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An officer served aboard the Jedi ship, Takara, in 700 BBY.\nIn 700 BBY, he was an officer on the Jedi Order's starship, Takara. He reported to Jedi Master T'dai, when a Bpfasshi Dark Jedi leader escaped to Dagobah. After his report, Jedi pursued the Dark Jedi, and Minch killed him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/700_BBY",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Takara_(ship)",
+  "/wiki/Jedi/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/T%27dai",
+  "/wiki/Bpfasshi_Dark_Jedi_leader",
+  "/wiki/Dagobah/Legends",
+  "/wiki/Minch",
+  "/wiki/Duel_on_Dagobah_(700_BBY)",
+  "/wiki/Heart_of_Darkness",
+  "/wiki/Star_Wars_Tales_16",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

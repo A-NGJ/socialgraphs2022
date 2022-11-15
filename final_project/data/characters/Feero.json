@@ -1,5 +1,6 @@
 {
  "name": "Feero",
+ "display_name": "Feero",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Feero was a Duros male who served as a Republic scout and a member of the Balmorran resistance during the Cold War. He tasked a Republic spacer to help him find probe droids that are trapped inside the contaminated ruins of Traken-4, an Imperial outpost.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Duros/Legends",

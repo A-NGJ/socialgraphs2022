@@ -1,5 +1,6 @@
 {
  "name": "Signaler",
+ "display_name": "Signaler",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Signaler was a subnode created by Kud'ar Mub'at to assist him. Signaler's main priorities were to notify Kud'ar Mub'at when a foreign ship was approaching his web.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Subnode",

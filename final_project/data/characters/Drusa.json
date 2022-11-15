@@ -1,5 +1,6 @@
 {
  "name": "Drusa",
+ "display_name": "Drusa",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Drusa was a female member of the Drall species who owned the Luminous Gardens health spa on the planet Drall, and provided the Duchess Sarella with information about local and galactic politics.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Drall_(planet)",

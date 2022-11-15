@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Porg_youngling",
+ "display_name": "Unidentified Porg youngling",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Porg"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black",
+      "Brown",
+      "White"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Porg youngling was stationed on the Galactic Society of Creature Enthusiasts' Youngling Care Space Station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Porg",
+  "/wiki/Color",
+  "/wiki/Galactic_Society_of_Creature_Enthusiasts",
+  "/wiki/Youngling_Care_Space_Station",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Porg_youngling",
+  "/wiki/Star_Wars_Galactic_Pals",
+  "/wiki/Porgs_(episode)",
+  "/wiki/Porgs_(Galactic_Pals)"
+ ]
+}

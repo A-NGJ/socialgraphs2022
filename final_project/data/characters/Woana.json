@@ -1,0 +1,49 @@
+{
+ "name": "Woana",
+ "display_name": "Woana",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dressellian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wanton Wellspring"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Woana was a female Dressellian who worked as a bar maid at the Wanton Wellspring, on the planet Rajtiri. Fellow Dressellian Has Obitt was attracted to her.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Dressellian",
+  "/wiki/Gender",
+  "/wiki/Wanton_Wellspring",
+  "/wiki/Planet",
+  "/wiki/Rajtiri",
+  "/wiki/Has_Obitt",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Woana",
+  "/wiki/Catalyst:_A_Rogue_One_Novel",
+  "/wiki/Catalyst:_A_Rogue_One_Novel_(audiobook)"
+ ]
+}

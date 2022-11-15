@@ -1,0 +1,83 @@
+{
+ "name": "Urlor_Sette",
+ "display_name": "Urlor Sette",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "9 ABY on Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "Tall"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urlor Sette was a Lusankya prisoner around the same time as Rogue Squadron Lieutenant Corran Horn. A large man, he had lost part of one hand, leaving him effectively crippled. He was a personal assistant to fellow prisoner Jan Dodonna, a Rebel General. During his time at Lusankya, Sette helped Corran Horn escape—the first person to have done so. In 9 ABY, Urlor died at a party thrown in honor of Rogue Squadron and the defeat of Grand Admiral Thrawn after Corran Horn said his name, thanks to a \"killbox\" implanted in him by a clone of Ysanne Isard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/9_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Lusankya/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Rogue_Squadron/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Corran_Horn",
+  "/wiki/Limb/Legends",
+  "/wiki/Jan_Dodonna/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Grand_Admiral/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Ysanne_Isard",
+  "/wiki/X-Wing:_The_Krytos_Trap",
+  "/wiki/X-Wing:_Isard%27s_Revenge",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

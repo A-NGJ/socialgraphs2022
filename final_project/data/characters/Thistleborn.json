@@ -1,0 +1,66 @@
+{
+ "name": "Thistleborn",
+ "display_name": "Thistleborn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Central Committee of Grand Moffs",
+      "Trioculus' Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thistleborn was a loyal member of the Central Committee of Grand Moffs.\nAt a secret conference with the self-proclaimed heir to the Galactic Empire, Trioculus, Thistleborn recommended that a new Imperial city-seat should be established on the planet, Bespin. The recommendation was lacking any strategic value and was more closely tied with Thistleborn's personal desire to take control of Cloud City. Trioculus rejected the recommendation.\nThistleborn was sentenced to three years of hard labor on Bnach by the Prophets of the Dark Side following the death of Trioculus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Central_Committee_of_Grand_Moffs",
+  "/wiki/Trioculus%27_Empire",
+  "/wiki/Trioculus",
+  "/wiki/Bespin/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Bnach",
+  "/wiki/Prophet_of_the_Dark_Side",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thistleborn",
+  "/wiki/The_Glove_of_Darth_Vader",
+  "/wiki/Queen_of_the_Empire",
+  "/wiki/Prophets_of_the_Dark_Side_(novel)",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Second_Edition,_Revised_and_Expanded",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

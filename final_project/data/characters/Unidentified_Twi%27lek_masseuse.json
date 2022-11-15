@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Twi%27lek_masseuse",
+ "display_name": "Unidentified Twi'lek masseuse",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Twi'lek masseuse crewed aboard the Uwana Buyer, staffing the on board spa. A medical student, she worked her way through school with the money she earned. When called upon, she also served as the ship's doctor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Uwana_Buyer",
+  "/wiki/Doctor/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Ships_of_the_Smuggler%27s_Alliance",
+  "/wiki/Star_Wars_Gamer_4"
+ ]
+}

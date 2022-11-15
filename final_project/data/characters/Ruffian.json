@@ -1,5 +1,6 @@
 {
  "name": "Ruffian",
+ "display_name": "Ruffian",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Ruffian was a male Weequay pirate in Hondo Ohnaka's band of pirates, the Ohnaka Gang. He was with Hondo Ohnaka on Florrum when Obi-Wan Kenobi, Anakin Skywalker and Count Dooku were kidnapped, when the spice was stolen and when Representative Jar Jar Binks and a group of clone troopers came to rescue them.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

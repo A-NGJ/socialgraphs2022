@@ -1,0 +1,59 @@
+{
+ "name": "Hako_Armado",
+ "display_name": "Hako Armado",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Rodia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hako Armado, an elderly male Rodian, was known as a skilled dramatist operating during the early years of the New Republic. Few realized that this was but a pretense, and that Hako was in fact a deadly assassin.\nWith the spikes atop his head going gray with age, Armado kept his identity as an assassin secret from all but a few beings. Fewer still knew that many of Hako's supposed \"kills\" were in fact fakes—arranged by the targets themselves to escape trouble.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gray",
+  "/wiki/Black",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

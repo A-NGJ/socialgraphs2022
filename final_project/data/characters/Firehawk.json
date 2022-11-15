@@ -1,5 +1,6 @@
 {
  "name": "Firehawk",
+ "display_name": "Firehawk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Firehawk was a Kadas'sa'Nikto male Agent of the Republic Strategic Information Service during the Galactic War. Around 3641 BBY, Firehawk was stationed on Belsavis along with Mynock. However, his partner disappeared while he escaped with several Republic traitors. He tasked a Republic spacer to find out what happened to his partner.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kadas%27sa%27Nikto/Legends",

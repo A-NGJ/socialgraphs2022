@@ -1,5 +1,6 @@
 {
  "name": "Lissar",
+ "display_name": "Lissar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Great-Gammer Lissar was the matriarch of a Brentaalian family and the founder of its mercantile success. Darrik, who stowed away on Platt Okeefe's freighter, was a member of her family.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Brentaal_IV/Legends",

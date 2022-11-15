@@ -1,0 +1,41 @@
+{
+ "name": "Nimondro_family",
+ "display_name": "Nimondro family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hobor"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Nimondro"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Tahlboor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Nimondro family was a Hobor family from Tahlboor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hobor",
+  "/wiki/Nimondro",
+  "/wiki/Tahlboor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Gender/Legends",
+  "/wiki/Larka_Nimondro",
+  "/wiki/Star_Wars_Droids:_The_Protocol_Offensive"
+ ]
+}

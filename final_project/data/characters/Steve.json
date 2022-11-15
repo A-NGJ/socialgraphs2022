@@ -1,0 +1,43 @@
+{
+ "name": "Steve",
+ "display_name": "Steve",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Steve was a human soldier who served the Alliance to Restore the Republic.\nSteve was mentioned in the 2021 non-canonical reference book Star Wars: Join the Rebellion!.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Steve_(disambiguation)",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Human",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Rebel_trooper",
+  "/wiki/Soldier",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Steve",
+  "/wiki/2021",
+  "/wiki/Star_Wars:_Join_the_Rebellion!"
+ ]
+}

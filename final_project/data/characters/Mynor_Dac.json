@@ -1,0 +1,49 @@
+{
+ "name": "Mynor_Dac",
+ "display_name": "Mynor Dac",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twin Suns Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mynor Dac was a Twi'lek starfighter pilot who flew with Twin Suns Squadron in 28 ABY under the command of Jaina Solo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Twin_Suns_Squadron",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/28_ABY/Legends",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

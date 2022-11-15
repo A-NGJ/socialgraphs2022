@@ -1,0 +1,53 @@
+{
+ "name": "Zan_Dane",
+ "display_name": "Zan Dane",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zan Dane was a male Human pirate based out of Point Nadir. His background was a mystery, but he was well-versed in naval command. His accent was reminiscent of the Tapani sector.\nHe was flamboyant and enjoyed the life of a pirate, but he was not bloodthirsty. He was honorable and mischievous. Dane preferred brightly colored red and blue clothes, and wore a finely tailored silk cloak and vibrorapier.\nHe had a crew of more than 400 people and droids. His fleet consisted of two capital ships, six transports and a handful of starfighters. The two capital ships were the Amber Star, a CR90 corvette, and the Sweet Victory, a Marauder-class corvette.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Point_Nadir",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Vibrorapier/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Amber_Star",
+  "/wiki/CR90_corvette/Legends",
+  "/wiki/Sweet_Victory",
+  "/wiki/Marauder-class_corvette",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

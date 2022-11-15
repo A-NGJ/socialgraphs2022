@@ -1,0 +1,73 @@
+{
+ "name": "Traygura",
+ "display_name": "Traygura",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wielu"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Traygura was a female crime boss on the planet Wielu. In 21 BBY, in a bid to eliminate the other crime bosses she hired T'mott Zoat. Obi-Wan Kenobi tracked Zoat to Traygura's base but was captured when Rook Pryce gave Kenobi to Traygura in exchange for becoming her personal smuggler. She was captured when Anakin Skywalker and Ahsoka Tano rescued Kenobi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wielu",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/T%27mott_Zoat",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Rook_Pryce",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/The_Clone_Wars:_The_Smuggler%27s_Code"
+ ]
+}

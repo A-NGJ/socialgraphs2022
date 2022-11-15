@@ -1,0 +1,39 @@
+{
+ "name": "Gorbu_Dalo",
+ "display_name": "Gorbu Dalo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorbu Dalo was a Hutt crime lord and the rival of Yearo Seville. He was killed by MdZ-BLK, an unstable droid sent by Seville as a \"gift.\" The pirate Siro Simito once attacked a transport owned by Dalo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Yearo_Seville",
+  "/wiki/Death/Legends",
+  "/wiki/MdZ-BLK",
+  "/wiki/Droid/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Siro_Simito",
+  "/wiki/Transport/Legends",
+  "/wiki/Cracken%27s_Rebel_Operatives"
+ ]
+}

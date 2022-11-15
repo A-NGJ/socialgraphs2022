@@ -1,0 +1,50 @@
+{
+ "name": "Manod_Fea",
+ "display_name": "Manod Fea",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Caarite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Metatheran Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Manod Fea was an office manager working for the Metatheran Cartel on Cularin. During a time when most of the Cartel's operations were transferred to their base in the jungle, only their operations office remained open in Gadrin, and Fea and his secretary, Jyll Xon, were the only workers staffing the office.\nFea frequently came and went from the office during a work day, but was always gone for lunch for two hours around noon, leaving Xon there.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Caarite",
+  "/wiki/Gender/Legends",
+  "/wiki/Metatheran_Cartel",
+  "/wiki/Cularin/Legends",
+  "/wiki/Metatheran_Cartel_jungle_base",
+  "/wiki/Metatheran_Cartel_operations_office",
+  "/wiki/Gadrin",
+  "/wiki/Jyll_Xon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Manod_Fea",
+  "/wiki/A_Revelation"
+ ]
+}

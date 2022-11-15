@@ -1,0 +1,36 @@
+{
+ "name": "Kaird%27s_aunt",
+ "display_name": "Kaird's aunt",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nediji"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The female Nediji was the aunt of the Black Sun assassin Kaird. He considered her to be his favorite aunt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nediji",
+  "/wiki/Gender/Legends",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Kaird",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kaird%27s_aunt",
+  "/wiki/MedStar_II:_Jedi_Healer"
+ ]
+}

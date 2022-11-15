@@ -1,0 +1,76 @@
+{
+ "name": "Sikurdian_Jedi_Padawan",
+ "display_name": "Sikurdian Jedi Padawan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sikurd"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sikurdian"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the youth of Jedi Master Obi-Wan Kenobi, there was a Sikurdian Jedi Padawan who was rejected from further Jedi training by the Jedi High Council. In a fit of rage the Padawan began to attack any Jedi he could within the Jedi Temple on Coruscant, wounding and nearly killing the famed Jedi Master Tera Sinube.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sikurd",
+  "/wiki/Sikurdian/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Halagad_Ventor",
+  "/wiki/Skye/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Jedi_training/Legends",
+  "/wiki/Jedi_High_Council/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_Temple",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Tera_Sinube/Legends",
+  "/wiki/SkyeWalkers:_A_Clone_Wars_Story"
+ ]
+}

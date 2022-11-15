@@ -1,5 +1,6 @@
 {
  "name": "Purvis",
+ "display_name": "Purvis",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Purvis was a male Human who served as the chief droid technician for Avrak Villachor, the sector chief of Black Sun on the planet Wukkar.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

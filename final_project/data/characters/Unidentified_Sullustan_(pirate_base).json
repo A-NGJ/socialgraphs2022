@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Sullustan_(pirate_base)",
+ "display_name": "Unidentified Sullustan  (pirate base)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Unidentified pirate space station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tanned"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crymorah-backed pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Unidentified Sullustan pirate was a male Sullustan who lived during the reign of the Galactic Empire. He was killed by the Sith Lord Darth Vader during an attack on his pirate base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_ABY",
+  "/wiki/Unidentified_pirate_space_station",
+  "/wiki/Sullustan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Crymorah-backed_pirates",
+  "/wiki/Galactic_Empire",
+  "/wiki/Sith_Lord",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Attack_on_an_unidentified_pirate_base",
+  "/wiki/Darth_Vader_(2015)_2"
+ ]
+}

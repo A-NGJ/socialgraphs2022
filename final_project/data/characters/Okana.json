@@ -1,5 +1,6 @@
 {
  "name": "Okana",
+ "display_name": "Okana",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Okana was a female Ovissian who worked as a junior nurse aboard the Galactic Republic space station Starlight Beacon when it began operations. She was sent by Controller Rodor Keen to meet newly-arrived station Administrator Velko Jahen and escort her to the medcenter, where Keen was dealing with a situation.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ovissian",

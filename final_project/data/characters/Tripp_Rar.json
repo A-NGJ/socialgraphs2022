@@ -1,0 +1,61 @@
+{
+ "name": "Tripp_Rar",
+ "display_name": "Tripp Rar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Rodian Hunting Grounds"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tripp Rar was a female Rodian and wealthy hunter during the time of the Galactic Civil War. She was one of four hunters who resided in Etyyy and established big-game hunting safaris within the Rodian Hunting Grounds on Kashyyyk. Unlike her fellow associates Ziven Tissak and Sordaan Xris, Tripp hunted purely for the fun of it. She tried to stay out of the unnecessary political conflicts that plagued the others.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Rodian_Hunting_Grounds",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Ziven_Tissak",
+  "/wiki/Sordaan_Xris",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Rage_of_the_Wookiees",
+  "/wiki/Sony"
+ ]
+}

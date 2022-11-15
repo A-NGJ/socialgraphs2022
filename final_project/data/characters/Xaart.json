@@ -1,0 +1,68 @@
+{
+ "name": "Xaart",
+ "display_name": "Xaart",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Meetra Surik"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xaart was one of the ground troops under the command of Meetra Surik during the Battle of Dagary Minor, one of the early losses for the Galactic Republic during the opening of the Mandalorian Wars. A veteran of the Mandalorian Wars, he served in later years as a covert diplomatic operative under the orders of the Galactic Senate. Xaart lost contact with Surik until after the Jedi Civil War, resurfacing on Onderon in 3951 BBY as a secret Republic fact-finder in the capital city of Iziz.\nXaart's mission was far more important to the fate of the galaxy than was first realized by Surik; he determined that if Onderon were to successfully secede from the Republic, enough surrounding systems would join with it, eventually spelling the doom of the Republic. Ultimately the information was rendered useless as Onderon fell into civil war.\nAlthough he had become stranded on the planet after the wars, Surik helped him to obtain a visa in order to travel back to his homeworld.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Battle_of_Dagary_Minor",
+  "/wiki/Mandalorian_Wars",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Onderon/Legends",
+  "/wiki/3951_BBY",
+  "/wiki/Iziz/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Starport_visa",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Surlev",
+ "display_name": "Surlev",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Commander Surlev was the second-in-command of the Strike-class medium cruiser Ion Storm under Captain Barse Neomen. Surlev acted as the commanding officer of the Ion Storm whenever his captain was away, which was quite often. However, as a result of Surlev being extremely loyal to Governor Newen Streeg and Captain Neomen being very disloyal, the captain kept Surlev on a very short leash. Surlev was very dedicated to the idea of cleaning up the Sisar Run, where he was stationed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Strike-class_medium_cruiser",
+  "/wiki/Ion_Storm",
+  "/wiki/Captain/Legends",
+  "/wiki/Barse_Neomen",
+  "/wiki/Governor/Legends",
+  "/wiki/Newen_Streeg",
+  "/wiki/Sisar_Run/Legends",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

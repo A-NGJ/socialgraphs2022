@@ -1,0 +1,60 @@
+{
+ "name": "Unidentified_Cathar_Jedi",
+ "display_name": "Unidentified Cathar Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Cathar served as a Jedi during the Great Hunt. He accompanied Shaela Nuur, Duron Qel-Droma, and Guun Han Saresh during the Cleansing of Tatooine. During the cleansing, he was killed by a Terentatek. His body was then taken back to Dantooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cathar/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Great_Hunt_(Jedi)",
+  "/wiki/Shaela_Nuur",
+  "/wiki/Duron_Qel-Droma",
+  "/wiki/Guun_Han_Saresh",
+  "/wiki/Cleansing_of_Tatooine",
+  "/wiki/Terentatek/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Cathar_Jedi",
+  "/wiki/Shadows_and_Light",
+  "/wiki/Star_Wars_Tales_23"
+ ]
+}

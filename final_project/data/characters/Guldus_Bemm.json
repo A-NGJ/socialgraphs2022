@@ -1,0 +1,39 @@
+{
+ "name": "Guldus_Bemm",
+ "display_name": "Guldus Bemm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Guldus Bemm was a Twi'lek pirate who became the administrator of the Canyon Mining Facility. He tried to set a trap for Luke Skywalker in an attempt to capture him for the Imperial Advisor Bregius Golthan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Administrator/Legends",
+  "/wiki/Canyon_Mining_Facility",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Imperial_Advisor",
+  "/wiki/Bregius_Golthan",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Black_Curs_Blues",
+  "/wiki/Star_Wars_Adventure_Journal_8"
+ ]
+}

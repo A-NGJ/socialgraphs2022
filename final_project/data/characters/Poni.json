@@ -1,5 +1,6 @@
 {
  "name": "Poni",
+ "display_name": "Poni",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Senator Poni was a Hutt senator in the Galactic Senate. During a senate hearing on a medical aid bill, the senate first discussed a bill to customize the repulsorlift seats. The senator's translator droid translated for the other senator's that he wanted seats, \"suitable for his girth\".",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

@@ -1,0 +1,72 @@
+{
+ "name": "Weel",
+ "display_name": "Weel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "34 ABY",
+      "Pheryon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order Security Bureau",
+      "First Order Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Weel was a male human who served as a lieutenant in the First Order Security Bureau. He was capable with a vibroknife.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/34_ABY",
+  "/wiki/Pheryon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/First_Order_Security_Bureau",
+  "/wiki/Suralinda_Javos",
+  "/wiki/Lieutenant",
+  "/wiki/Vibroknife",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Weel",
+  "/wiki/Poe_Dameron_7"
+ ]
+}

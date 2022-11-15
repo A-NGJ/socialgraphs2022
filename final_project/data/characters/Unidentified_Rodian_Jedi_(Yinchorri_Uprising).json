@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Rodian_Jedi_(Yinchorri_Uprising)",
+ "display_name": "Unidentified Rodian Jedi  (Yinchorri Uprising)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 33 BBY, a Rodian Jedi helped defend the Coruscant Jedi Temple when it was raided by the Yinchorri. While the Jedi were successful in repelling the invaders, Jedi Knight Tieren Nie-Tan was slain. This Jedi was among those mourning his death.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Jedi_Temple",
+  "/wiki/Raid_on_the_Jedi_Temple_(Yinchorri_Uprising)",
+  "/wiki/Yinchorri",
+  "/wiki/Tieren_Nie-Tan",
+  "/wiki/Jedi_Council:_Acts_of_War_2",
+  "/wiki/Jedi_Council:_Acts_of_War"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Unidentified_humanoid_Sith_Master",
+ "display_name": "Unidentified humanoid Sith Master",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Order of the Sith Lords"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "A male Devaronian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A humanoid Sith Master eventually reigned at some point between Darth Cognus and Darth Gravid. In his tenure as the Dark Lord of the Sith, he would take a male Devaronian as his Sith apprentice.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Red",
+  "/wiki/Order_of_the_Sith_Lords",
+  "/wiki/Unidentified_Devaronian_Sith_apprentice",
+  "/wiki/Darth_Cognus",
+  "/wiki/Darth_Gravid",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Book_of_Sith:_Secrets_from_the_Dark_Side"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "X14",
+ "display_name": "X14",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New RepublicNew Republic Intelligence Service",
+      "New Republic Intelligence Service"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "X14 was the code name of a New Republic Intelligence Service agent in Kapp Dendo's Commando Team One who served on Ciutric IV just prior to the evacuation of Ciutric. He kept a lookout for Sate Pestage and was responsible for the New Republic learning that the former Imperial leader had arrived on planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Intelligence_Service",
+  "/wiki/Kapp_Dendo",
+  "/wiki/Commando_Team_One",
+  "/wiki/Ciutric_IV",
+  "/wiki/Evacuation_of_Ciutric",
+  "/wiki/Sate_Pestage/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_32",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Star_Wars:_X-Wing_Rogue_Squadron:_Mandatory_Retirement"
+ ]
+}

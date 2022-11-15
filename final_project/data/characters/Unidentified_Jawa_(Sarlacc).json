@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Jawa_(Sarlacc)",
+ "display_name": "Unidentified Jawa  (Sarlacc)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Jawa was eaten by the sarlacc living at the Great Pit of Carkoon, where he was pulled in by its tendrils as he helplessly tried to escape.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Jawa",
+  "/wiki/Jawa/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sarlacc/Legends",
+  "/wiki/Great_Pit_of_Carkoon/Legends",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/Edge_of_Darkness",
+  "/wiki/Star_Wars:_Imperial_Assault_(Fantasy_Flight_Games)",
+  "/wiki/Jabba%27s_Realm",
+  "/wiki/Star_Wars:_Rebellion_(board_game)",
+  "/wiki/Rise_of_the_Empire"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Rastur",
+ "display_name": "Rastur",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Rastur was a Human male who lived on Ennth, his wife was named Shinnan. Rastur was in charge of evacuating Ennth during the time that Zekk visited.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ennth",

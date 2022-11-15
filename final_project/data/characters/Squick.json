@@ -1,0 +1,51 @@
+{
+ "name": "Squick",
+ "display_name": "Squick",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Believers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Squick was a male Trandoshan who, by c. 19 BBY, had became a member of a group of Believers on the planet Genarius, under the command of Alina Impeveri.\nDespite not being a Force-sensitive, Squick wanted to become a Jedi. He wore Jedi robes that he had looted from a Jedi corpse, and obtained a lightsaber, which he learned how to use.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Believers",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Genarius",
+  "/wiki/Alina_Impeveri",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Jedi_apparel",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/The_Heart"
+ ]
+}

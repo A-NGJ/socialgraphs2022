@@ -1,0 +1,82 @@
+{
+ "name": "Wolroff",
+ "display_name": "Wolroff",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Security Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wolroff was a Human male who served the CorSec during the Galactic War between the Galactic Republic and the resurgent Sith Empire.\nIn 3640 BBY, Wolroff led the CorSec forces to secure the CorSec Maximum Security Prison as a staging area to attack the Empire, forcing many of the prisoners to agreed in aiding the police in exchange for a shortened sentence. However, when the Empire had gained intelligence on the prison's extensive security systems from a captured program, the systems now ignored CorSec personnel and only attacked Imperial forces. During the process, Wolroff and his forces encountered an Imperial strike team that were here to reprogram the systems at certain control nodes. The Imperial unit was successful, causing the prison security systems to inflict heavy enough losses and Wolroff was killed in the process.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/CorSec_Maximum_Security_Prison",
+  "/wiki/Prisoner/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

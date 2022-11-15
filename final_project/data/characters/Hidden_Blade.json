@@ -1,0 +1,66 @@
+{
+ "name": "Hidden_Blade",
+ "display_name": "Hidden Blade",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Esh-kha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Esh-kha",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hidden Blade was a male Esh-kha who was born thousands of years ago during the height of his people's reign in the galaxy. In this time, he became a disciple of a new patriarch known as Hallow Voice who proposed a new way of thinking that involved peaceful co-existence with alien species. However, the Infinite Empire assembled its military might to crush the Esh-kha threat with the surviving members being placed into stasis on the prison world of Belsavis. The Rakata similarly captured Hallow Voice and his followers such as Hidden Blade that faced this sentence where they remained conscious but frozen in place for millennia. This changed during the Cold War when the Barsen'thor of the Jedi Order freed him from stasis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Esh-kha",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galaxy/Legends",
+  "/wiki/Hallow_Voice",
+  "/wiki/Alien/Legends",
+  "/wiki/Infinite_Empire",
+  "/wiki/Stasis",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Rakata/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

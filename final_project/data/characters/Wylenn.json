@@ -1,0 +1,68 @@
+{
+ "name": "Wylenn",
+ "display_name": "Wylenn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wylenn was a female Human doctor of the reconstituted Sith Empire. During the Galactic War she was posted on Taris, where she was researching the behavior patterns of rakghouls.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Taris/Legends",
+  "/wiki/Rakghoul",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wylenn",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

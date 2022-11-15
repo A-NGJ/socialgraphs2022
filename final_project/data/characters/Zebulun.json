@@ -1,0 +1,78 @@
+{
+ "name": "Zebulun",
+ "display_name": "Zebulun",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3642 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Balmorran resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zebulun was a Duros male member of the Balmorran resistance during the Galactic War. In 3642 BBY he and his squad were sent by Numen Brock to the Malak Memorial Research Base, where they took over Moff Tyrak, a deserter from the resurgent Sith Empire, from the hands of the Voidhound to deliver him to the Balmorran Arms Factory. However, the incompetent Moff suggested a shortcut that led them right past the Imperial barracks and got the whole squad, Zebulun included, dead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Balmorran_resistance",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Galactic_War",
+  "/wiki/Numen_Brock",
+  "/wiki/Malak_Memorial_Research_Base",
+  "/wiki/Moff/Legends",
+  "/wiki/Tyrak",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Voidhound",
+  "/wiki/Balmorran_Arms_Factory"
+ ]
+}

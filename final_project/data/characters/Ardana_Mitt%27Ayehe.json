@@ -1,0 +1,38 @@
+{
+ "name": "Ardana_Mitt%27Ayehe",
+ "display_name": "Ardana Mitt'Ayehe",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ayehe Twi'lek Dance Troupe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ardana Mitt'Ayehe was a middle-aged Twi'lek choreographer who led the Ayehe Twi'lek Dance Troupe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Ayehe_Twi%27lek_Dance_Troupe",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ardana_Mitt%27Ayehe",
+  "/wiki/Mission_to_Lianna"
+ ]
+}

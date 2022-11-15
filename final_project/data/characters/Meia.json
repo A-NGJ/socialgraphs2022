@@ -1,5 +1,6 @@
 {
  "name": "Meia",
+ "display_name": "Meia",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Meia was a female Human who lived sometime before the Battle of Yavin. She was one of Leia Organa's twin sisters, along with Jeia, Teia and Zeia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Canon",

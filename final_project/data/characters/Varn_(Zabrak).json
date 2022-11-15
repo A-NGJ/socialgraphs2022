@@ -1,0 +1,77 @@
+{
+ "name": "Varn_(Zabrak)",
+ "display_name": "Varn  (Zabrak)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Military",
+      "Republic Military",
+      "Order of Revan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varn was a male Zabrak sergeant of the Galactic Republic living during the Galactic War between the Republic and the reconstituted Sith Empire. At some point he became part of the Order of Revan and defected from the Republic, joining with the Revanite forces on Rishi's Sky Ridge Island under Captain Milenec, whom he shared a great confidence in.\nVarn and his fellow soldiers follow the same choice made by Milenec: betray the Revanites and return to the Republic, or defect without engaging Ivress, leaving them with nowhere to go.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Varn_(disambiguation)",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Varn_(Zabrak)",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Order_of_Revan",
+  "/wiki/Sergeant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Rishi/Legends",
+  "/wiki/Sky_Ridge_Island",
+  "/wiki/Captain/Legends",
+  "/wiki/Milenec",
+  "/wiki/Ivress",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan"
+ ]
+}

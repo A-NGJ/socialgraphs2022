@@ -1,0 +1,38 @@
+{
+ "name": "Vlohei",
+ "display_name": "Vlohei",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vlohei was a male Ithorian doctor working aboard the Chilastra when it was attacked by the Yuuzhan Vong.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Chilastra",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vlohei",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Hive_of_the_Infidel",
+  "/wiki/Star_Wars_Gamer_8"
+ ]
+}

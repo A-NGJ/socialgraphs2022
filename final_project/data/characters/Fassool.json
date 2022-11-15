@@ -1,5 +1,6 @@
 {
  "name": "Fassool",
+ "display_name": "Fassool",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Fassool was a male Togorian and head of the Mindnight Fire clan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Togoria/Legends",

@@ -1,0 +1,36 @@
+{
+ "name": "Swaja_Malon",
+ "display_name": "Swaja Malon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Swaja Malon was a male Rodian that lived in the galaxy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Special:Upload",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/The_galaxy",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Swaja_Malon",
+  "/wiki/Disney_Infinity_3.0"
+ ]
+}

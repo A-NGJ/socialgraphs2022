@@ -1,0 +1,49 @@
+{
+ "name": "Omzo_Ivrevi",
+ "display_name": "Omzo Ivrevi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Omzo Ivrevi's criminal organization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Omzo Ivrevi was a male Duros crime lord who dealt with smuggling and black market operations on Duro during the Imperial Era.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Duros",
+  "/wiki/Gender",
+  "/wiki/Crime_lord",
+  "/wiki/Smuggler",
+  "/wiki/Black_market",
+  "/wiki/Duro",
+  "/wiki/Imperial_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Omzo_Ivrevi",
+  "/wiki/Cyphers_and_Masks"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Soomret",
+ "display_name": "Soomret",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Soomret was a Chiss woman who served as the caregiver to the sky-walker Bet'nih while she was stationed on the Grayshrike.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Gender",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Sky-walker",
+  "/wiki/Bet%27nih",
+  "/wiki/Grayshrike",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Soomret",
+  "/wiki/Thrawn_Ascendancy:_Greater_Good",
+  "/wiki/Thrawn_Ascendancy:_Greater_Good_(audiobook)"
+ ]
+}

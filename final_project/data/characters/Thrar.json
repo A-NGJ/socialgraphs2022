@@ -1,0 +1,39 @@
+{
+ "name": "Thrar",
+ "display_name": "Thrar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lepi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thrar was a female Lepi racer who represented Coachelle Prime in the forty-eighth annual Dragonfire Air Rally.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lepi",
+  "/wiki/Gender",
+  "/wiki/Unidentified_commentator",
+  "/wiki/Racer",
+  "/wiki/Coachelle_Prime",
+  "/wiki/Forty-eighth_annual_Dragonfire_Air_Rally",
+  "/wiki/Dragonfire_Air_Rally",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thrar",
+  "/wiki/Dooku:_Jedi_Lost",
+  "/wiki/Dooku:_Jedi_Lost_(script)"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Kompa",
+ "display_name": "Kompa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Kompa was a Human male residing on Mrlsst during the time of the Phantom Affair. He was advising his friend on which history texts to study, as he himself had passed a course on the subject, when an escaped prisoner burst into the room. Not wanting to be put in any danger, he and his friend handed over their weapons and let the prisoner pass them.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

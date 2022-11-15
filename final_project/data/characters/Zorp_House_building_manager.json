@@ -1,0 +1,47 @@
+{
+ "name": "Zorp_House_building_manager",
+ "display_name": "Zorp House building manager",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zorp House apartment tower"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The building manager of the Zorp House apartment tower of Galactic City on Coruscant was a male Neimoidian who assisted the planet's security force and members of the Jedi Order during the investigation into the activities of Lumiya, Dark Lady of the Sith.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Zorp_House",
+  "/wiki/Galactic_City",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant_Security_Force/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Lumiya",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zorp_House_building_manager",
+  "/wiki/Legacy_of_the_Force:_Tempest",
+  "/wiki/Legacy_of_the_Force:_Exile"
+ ]
+}

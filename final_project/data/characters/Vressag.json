@@ -1,0 +1,48 @@
+{
+ "name": "Vressag",
+ "display_name": "Vressag",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fresh Kill"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vressag was a male Trandoshan who lived on Cularin during the waning years of the Galactic Republic.\nVressag worked in a butcher's shop in Gadrin called Fresh Kill with his brothers Gordok and Klallor. He had a violent personality.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fresh_Kill",
+  "/wiki/Cularin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Gadrin",
+  "/wiki/Gordok",
+  "/wiki/Klallor",
+  "/wiki/Halves"
+ ]
+}

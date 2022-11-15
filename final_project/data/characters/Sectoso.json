@@ -1,5 +1,6 @@
 {
  "name": "Sectoso",
+ "display_name": "Sectoso",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Sectoso was a male Human living during the Cold War. Residing on Carrick Station, Sectoso also shared his knowledge of underworld trading with others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

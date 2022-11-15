@@ -1,0 +1,39 @@
+{
+ "name": "Ssurussk",
+ "display_name": "Ssurussk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nebula Raiders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ssurussk was a Trandoshan who led the Nebula Raiders, a band of pirates that operated in the Expansion Region during the time of the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Nebula_Raiders/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Expansion_Region/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Starships_of_the_Galaxy"
+ ]
+}

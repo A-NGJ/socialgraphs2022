@@ -1,5 +1,6 @@
 {
  "name": "Bonze",
+ "display_name": "Bonze",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Colonel Bonze was a male Human security chief of the Imperial Army's defense department of the governor's palace stationed on Poln Major.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

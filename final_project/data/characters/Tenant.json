@@ -1,0 +1,95 @@
+{
+ "name": "Tenant",
+ "display_name": "Tenant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tenant was a Human male who served as an admiral in the Republic Navy during the Clone Wars. In 21 BBY, Tenant and the crew of his Venator-class Star Destroyer were patrolling space beyond the Outer Rim Territories when they intercepted a message from the Chrelythiumn system that contained a distress code abandoned by the Jedi Order more than 2,000 years prior. Tenant subsequently transmitted the message to Jedi Grand Master Yoda and the Jedi High Council on the planet Coruscant; the High Council then sent a party to investigate its origins. Tenant was a fair-skinned Human male with brown hair and blue eyes.\nTenant first appeared in the newsreel prelude to \"Overlords,\" the fifteenth episode in Season Three of the Star Wars: The Clone Wars television series, which aired on January 28, 2011. Although he went unnamed, the online guide to the episode identified him as \"Tenant.\"",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Comprehensive_articles",
+  "/wiki/Nils_Tenant",
+  "/wiki/Tenant",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Admiral/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Tenant%27s_flagship",
+  "/wiki/Realspace/Legends",
+  "/wiki/Wild_Space/Legends",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Chrelythiumn_system/Legends",
+  "/wiki/Distress_signal/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Inter-Sith_Wars_period",
+  "/wiki/Jedi/Legends",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Yoda/Legends",
+  "/wiki/Jedi_High_Council/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Mission_to_Mortis/Legends",
+  "/wiki/Hair/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Overlords",
+  "/wiki/The_Clone_Wars:_Season_Three",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/January_28",
+  "/wiki/2011",
+  "/wiki/StarWars.com",
+  "/wiki/The_Official_Star_Wars_Fact_File_(2014)",
+  "/wiki/The_Official_Star_Wars_Fact_File_Part_59"
+ ]
+}

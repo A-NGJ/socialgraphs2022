@@ -1,5 +1,6 @@
 {
  "name": "Larus",
+ "display_name": "Larus",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Larus was a male Twi'lek Sergeant who served in the Republic Army during the Galactic War between the Galactic Republic and the resurgent Sith Empire. Stationed on Corellia at the Shipwright Auxiliary Spaceport, he recruited a Republic hero for collecting and defusing unexploded bombs scattered by a shipwreck near the spaceport.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

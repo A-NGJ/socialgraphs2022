@@ -1,0 +1,73 @@
+{
+ "name": "Garm_Totryl",
+ "display_name": "Garm Totryl",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green with some red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Garm Totryl was a male Rodian who was living in Anchorhead, on the desert world of Tatooine during the Jedi Civil War.\nAn enthusiastic rookie swoop racer, Totryl was attempting to climb the rankings at Motta the Hutt's swoop racing track when he was met by the amnesiac Revan—who was visiting the small mining town during his quest to find the Star Forge—in 3956 BBY. At the time, Totryl was still quite new to the sport, and had only succeeded in posting a first-tier time on the local track.\nIf the player chooses to engage in the optional swoop racing and sidequest based therein, Garm Totryl's time is the first that must be beaten in order to obtain race bonds from Motta.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Anchorhead/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Swoop_racing/Legends",
+  "/wiki/Motta",
+  "/wiki/Hutt/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Star_Forge",
+  "/wiki/3956_BBY",
+  "/wiki/Race_bond",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

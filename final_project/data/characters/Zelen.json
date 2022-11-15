@@ -1,0 +1,47 @@
+{
+ "name": "Zelen",
+ "display_name": "Zelen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire6/37th",
+      "6/37th"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zelen was a pilot in the 6th squadron squadron of the 37th Imperial Fighter Wing in 7 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/6/37th",
+  "/wiki/37th_Imperial_Fighter_Wing",
+  "/wiki/7_BBY/Legends",
+  "/wiki/X-Wing_Rogue_Squadron_25"
+ ]
+}

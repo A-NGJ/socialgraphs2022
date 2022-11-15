@@ -1,0 +1,68 @@
+{
+ "name": "Whitat",
+ "display_name": "Whitat",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Whitat was a male Human who lived on Balmorra during the Galactic War and ran the small settlement of Moraine Outpost. After Danla Zin's husband Magar was killed by Voidhound and Corso Riggs in a tragic misunderstanding, Whitat tried to take Zin's recovered shipment of weapons in her moment of weakness. With support from Riggs, Zin turned her blaster on him and kicked him out of the outpost.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Moraine_Outpost",
+  "/wiki/Danla_Zin",
+  "/wiki/Magar_(Human)",
+  "/wiki/Voidhound",
+  "/wiki/Corso_Riggs",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

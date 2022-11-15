@@ -1,0 +1,63 @@
+{
+ "name": "Tactical_Command_Officer",
+ "display_name": "Tactical Command Officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Balmorra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Tactical Command Officer was a Human male who served in the Imperial Military of the resurgent Sith Empire on the planet Balmorra. He was stationed in the Imperial outpost of Camp Conquest, where he was killed when the base was attacked by the Jedi Knight known as the Hero of Tython in 3642 BBY",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Balmorra/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Planet/Legends",
+  "/wiki/Camp_Conquest",
+  "/wiki/Mission_to_Balmorra_(Hunt_for_the_Sith_Emperor)",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Hero_of_Tython",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

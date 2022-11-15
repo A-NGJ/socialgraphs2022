@@ -1,0 +1,38 @@
+{
+ "name": "Moss_Deevers",
+ "display_name": "Moss Deevers",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moss Deevers was a Bothan smuggler who paired with Twingo. The two were known for their wild boasts. They set the record for running the Lando's Folly course.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Twingo",
+  "/wiki/Lando%27s_Folly",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Moss_Deevers",
+  "/wiki/The_New_Jedi_Order:_Vector_Prime",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Smitken",
+ "display_name": "Smitken",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Planetary militia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Inspector Smitken was a customs official in the Drepplin spaceport on the planet Glova.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planetary_militia",
+  "/wiki/Inspector/Legends",
+  "/wiki/Customs_Inspector",
+  "/wiki/Customs_official/Legends",
+  "/wiki/Drepplin",
+  "/wiki/Drepplin_Port",
+  "/wiki/Planet/Legends",
+  "/wiki/Glova",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Smitken",
+  "/wiki/West_End_Games",
+  "/wiki/The_Politics_of_Contraband_(adventure)",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures"
+ ]
+}

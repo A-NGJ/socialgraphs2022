@@ -1,0 +1,37 @@
+{
+ "name": "Spenori",
+ "display_name": "Spenori",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeltron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Governor Spenori was a Zeltron governor of the Southern Province of Zeltros at a point after Governor Vertag's tenure.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zeltron/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Southern_Province",
+  "/wiki/Zeltros/Legends",
+  "/wiki/Vertag",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Marvel_Series",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

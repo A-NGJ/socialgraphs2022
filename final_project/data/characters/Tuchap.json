@@ -1,0 +1,67 @@
+{
+ "name": "Tuchap",
+ "display_name": "Tuchap",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Farrfin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Farghul"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.78 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gold"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The jocular, upbeat Tuchap was a race bookie and information broker in the Coruscant underworld. Overweight and violently allergic to cigarra smoke, the ordinarily jovial Farghul's mood would turn frosty and hard-bitten towards those who disappointed him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Farrfin",
+  "/wiki/Farghul",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Allergy",
+  "/wiki/Cigarra/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuchap",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

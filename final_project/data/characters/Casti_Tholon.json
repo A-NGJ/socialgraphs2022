@@ -1,0 +1,65 @@
+{
+ "name": "Casti_Tholon",
+ "display_name": "Casti Tholon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sardoran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Outdoor Survival School"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Casti Tholon was a Human, Duros-raised scout and a staff member of the Galactic Outdoor Survival School.\nA native of Sardoran, Casti Tholon was raised on one of the Duro space cities on Duro, the foster child of Duros parents. As a child, she only knew Duros and their culture, even considering herself a Duros instead of a Human. However, unlike most Duros, she was contentious and overbearing, and commonly took the role of a leader.\nA natural scout, Casti Tholon worked for the Rim Commercial Mining, locating and charting planets in the Unknown Regions and the Wild Space. The first planet she ever discovered, and also the most important, was named Tholon after her.\nDuring a trek through the Kur forests, she was cut and poisoned by thorn vines across her arms and lower legs, which left her with black scars. She also had scars on her head, visible because of she always kept her head clean-shaven.\nA former student at Galactic Outdoor Survival School, she later joined the staff of the School. She was devoted to her work and loyal to her boss and close friend, Barosa Warren. Warren's animosity towards ex-alumni who had joined the Rebellion was well-known; apparently, Tholon was politically neutral, but her loyalty to Warren led to ex-alumni and Rebel officer Major Sisquoc to consider her a major threat to himself and his team.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sardoran",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Outdoor_Survival_School/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Sisquoc",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Alliance_Intelligence_Reports",
+  "/wiki/Duros/Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Rim_Commercial_Mining",
+  "/wiki/Tholon",
+  "/wiki/Kur_forests",
+  "/wiki/Color/Legends",
+  "/wiki/Barosa_Warren"
+ ]
+}

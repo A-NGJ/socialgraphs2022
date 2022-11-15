@@ -1,0 +1,60 @@
+{
+ "name": "Unidentified_Rebel_pilot_(Liberator)",
+ "display_name": "Unidentified Rebel pilot  (Liberator)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Phoenix Cell"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This human male served as a pilot in Phoenix Cell. He piloted the CR90 corvette Liberator when the ship was pulled out of hyperspace by Brom Titus' Imperial Interdictor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Phoenix_Cell",
+  "/wiki/Pilot",
+  "/wiki/CR90_corvette",
+  "/wiki/Liberator_(CR90_corvette)",
+  "/wiki/Starship",
+  "/wiki/Hyperspace",
+  "/wiki/Brom_Titus",
+  "/wiki/Imperial_Interdictor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Rebel_pilot_(Liberator)",
+  "/wiki/Star_Wars_Rebels",
+  "/wiki/Stealth_Strike"
+ ]
+}

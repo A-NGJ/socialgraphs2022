@@ -1,0 +1,76 @@
+{
+ "name": "Vrinko",
+ "display_name": "Vrinko",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Rori"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Vrinko was a male Mon Calamari Rebel officer present at the Battle of Restuss, and was in charge of placing antennas in the ruins of the city. He was eventually killed by a group of Imperial soldiers under order from Captain Okto.\nVrinko appeared as a non-player character in the video game Star Wars Galaxies, a massively multiplayer online roleplaying game developed by Sony Online Entertainment and published by LucasArts, prior to its closure on December 15, 2011.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Rori/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Battle_of_Restuss",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Okto",
+  "/wiki/December_15",
+  "/wiki/Star_Wars_Galaxies"
+ ]
+}

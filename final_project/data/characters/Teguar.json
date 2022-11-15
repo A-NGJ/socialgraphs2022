@@ -1,0 +1,54 @@
+{
+ "name": "Teguar",
+ "display_name": "Teguar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Teguar was a male Rodian. He sat at Akim's Munch when Jar Jar Binks attempted to consume a Gorg from the Swokes Swokes Gorgmonger Gragra. Teguar was known as a regulator for various deals.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Color/Legends",
+  "/wiki/Akim%27s_Munch/Legends",
+  "/wiki/Jar_Jar_Binks/Legends",
+  "/wiki/Gorg/Legends",
+  "/wiki/Swokes_Swokes/Legends",
+  "/wiki/Gorgmonger/Legends",
+  "/wiki/Gragra/Legends",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Star_Wars:_Episode_I_The_Visual_Dictionary",
+  "/wiki/Star_Wars:_The_Complete_Visual_Dictionary",
+  "/wiki/Star_Wars:_The_Phantom_Menace:_The_Expanded_Visual_Dictionary"
+ ]
+}

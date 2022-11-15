@@ -1,0 +1,81 @@
+{
+ "name": "Ithorak_Guldar",
+ "display_name": "Ithorak Guldar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Selkath"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue-white"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "GenoHaradan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ithorak Guldar was a Selkath Overseer of the GenoHaradan during the Jedi Civil War.\nIthorak was not as physically powerful as any of the other three Overseers, relying instead on his security officer Senni Vek and an assault droid for protection. He was able to gain access to rich and powerful families by posing as a merchant of rare antiquities; this allowed him to gather information and carry out deeds without drawing suspicion.\nThe identities of the four GenoHaradan Overseers were meant to remain unknown even to each other, but Overseer Hulas managed to learn that Ithorak was among the number. Hulas consequently attempted to enlist Revan to assassinate him, claiming that Ithorak was a con artist and blackmailer who had taken millions of credits from affluent families.\nIthorak will only be seen if the player takes the dark side quest of killing him in a private bay on Manaan. In this case, it was Vek's incompetence that led Revan to the Overseer. Vek either unknowingly escorted Revan to his employer, dying alongside Ithorak, or he accepted a bribe to let Revan confront Ithorak alone. If the latter occurred, then Revan killed Ithorak by either reprogramming his assault droid to attack its former master, planting a frag mine on the assault droid and reprogramming it to approach its master, or confronting Ithorak face-to-face.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Manaan/Legends",
+  "/wiki/Selkath/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/GenoHaradan",
+  "/wiki/Hulas",
+  "/wiki/Overseer_(GenoHaradan)",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Senni_Vek",
+  "/wiki/Mark_IV_assault_droid",
+  "/wiki/Revan/Legends",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

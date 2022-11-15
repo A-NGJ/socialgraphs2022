@@ -1,0 +1,37 @@
+{
+ "name": "Voromuzz",
+ "display_name": "Voromuzz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voromuzz, also known as Voromuzz the Brooding, was a Hutt warlord who lived thousands of years before the Cold War between the Galactic Republic and the Sith Empire. During his lifetime, he arranged for the construction of a palace for himself on the planet Varl.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Planet/Legends",
+  "/wiki/Varl/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Yeesre_Mee",
+ "display_name": "Yeesre Mee",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yeesre Mee was a Gran and the lead investigator of the events involved in the death of Senator Aks Moe shortly before the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Aks_Moe/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_51",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

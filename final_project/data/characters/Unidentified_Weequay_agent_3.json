@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Weequay_agent_3",
+ "display_name": "Unidentified Weequay agent 3",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Weequay"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent SystemsUnidentified Coruscant funeral firm",
+      "Unidentified Coruscant funeral firm"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Weequay agent worked for the Confederacy of Independent Systems during the Clone Wars. Along with another agent, he served under a Weequay leader and infiltrated a Coruscant funeral firm with forged credentials in an attempt to sabotage the funeral of Jedi Master Halsey.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Weequay/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Unidentified_Coruscant_funeral_firm",
+  "/wiki/Unidentified_Weequay_agent_1",
+  "/wiki/Unidentified_Weequay_agent_2",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Funeral_of_Halsey",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Halsey/Legends",
+  "/wiki/Sabotage_(comic)",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.38"
+ ]
+}

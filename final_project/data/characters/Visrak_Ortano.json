@@ -1,0 +1,70 @@
+{
+ "name": "Visrak_Ortano",
+ "display_name": "Visrak Ortano",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Visrak Ortano was a male Human captain of the reconstituted Sith Empire. During the Galactic War he was stationed at the Outpost Overseer on Voss, where he asked an Imperial to destroy a bomb constructed by the Gormak, despite the protests of Karish-Ma, who wanted to study it.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Captain/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Outpost_Overseer",
+  "/wiki/Voss",
+  "/wiki/Gormak/Legends",
+  "/wiki/Karish-Ma",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Visrak_Ortano",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

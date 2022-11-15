@@ -1,0 +1,34 @@
+{
+ "name": "Venik_Rin",
+ "display_name": "Venik Rin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Venik Rin was a Zabrak male who served a Hutt master as a boddah. Rin was once attacked by a rancor, which seriously mauled him, causing him to walk with a permanent limp.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Boddah",
+  "/wiki/Rancor/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

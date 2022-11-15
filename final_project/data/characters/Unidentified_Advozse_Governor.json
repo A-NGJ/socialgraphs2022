@@ -1,0 +1,80 @@
+{
+ "name": "Unidentified_Advozse_Governor",
+ "display_name": "Unidentified Advozse Governor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3678 BBY",
+      "Begeren"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Advozse served as the Republic governor of the planet Begeren during the Great Galactic War. He was slain by Teneb Kel, a Sith apprentice, during the Imperial Invasion of Begeren.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Unidentified_Advozse_Governor",
+  "/wiki/3678_BBY",
+  "/wiki/Begeren",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Death/Legends",
+  "/wiki/Darth_Thanaton",
+  "/wiki/Sith/Legends",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Invasion_of_Begeren",
+  "/wiki/The_Old_Republic,_Blood_of_the_Empire_Act_1:_Shades_of_the_Sith"
+ ]
+}

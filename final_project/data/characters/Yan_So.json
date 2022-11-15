@@ -1,0 +1,58 @@
+{
+ "name": "Yan_So",
+ "display_name": "Yan So",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaminoan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yan So was a Kaminoan who oversaw the education of young clones in Tipoca City on the planet Kamino.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Kaminoan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Tipoca_City/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Lost_Legion"
+ ]
+}

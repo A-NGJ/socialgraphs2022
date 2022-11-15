@@ -1,0 +1,52 @@
+{
+ "name": "Whoever",
+ "display_name": "Whoever",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Whoever was a loyal Imperial captain stationed in the Interrogation Center on Selnesh under the command of Commander Caton. He was an alert, helpful, unchallenging man, but easily swayed by flattery, which allowed the escape of Gebnerret Vibrion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Aurin_Leith",
+  "/wiki/Captain/Legends",
+  "/wiki/Interrogation_Center",
+  "/wiki/Selnesh/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Caton",
+  "/wiki/Gebnerret_Vibrion",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Do_No_Harm",
+  "/wiki/Star_Wars_Adventure_Journal_10"
+ ]
+}

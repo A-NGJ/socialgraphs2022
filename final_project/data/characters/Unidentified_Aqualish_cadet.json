@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Aqualish_cadet",
+ "display_name": "Unidentified Aqualish cadet",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance",
+      "J-Squadron",
+      "J-Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Aqualish was a cadet in the Resistance's J-Squadron.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aqualish",
+  "/wiki/Gender",
+  "/wiki/Resistance",
+  "/wiki/J-Squadron",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Aqualish_cadet",
+  "/wiki/Join_the_Resistance"
+ ]
+}

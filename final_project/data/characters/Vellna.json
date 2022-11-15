@@ -1,0 +1,44 @@
+{
+ "name": "Vellna",
+ "display_name": "Vellna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vellna was a male Ithorian who lived on the planet Cularin during the waning years of the Galactic Republic. Vellna worked in the Gadrin wilderness outfitter shop Life Vines, as an assistant to store's owner, Lowban Terlq.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Gadrin",
+  "/wiki/Life_Vines",
+  "/wiki/Lowban_Terlq",
+  "/wiki/Halves"
+ ]
+}

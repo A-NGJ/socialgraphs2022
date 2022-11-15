@@ -1,5 +1,6 @@
 {
  "name": "Quil",
+ "display_name": "Quil",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Quil was a female Selonian member of the Corellian resistance movement during the Battle of Corellia.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Selonian/Legends",

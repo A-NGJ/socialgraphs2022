@@ -1,0 +1,40 @@
+{
+ "name": "Tronox",
+ "display_name": "Tronox",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shell Hutts"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tronox was a hermaphrodite Hutt and a prominent member of the Shell Hutt clan who lived during the time of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Shell_Hutts",
+  "/wiki/Gender/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

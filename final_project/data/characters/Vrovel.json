@@ -1,0 +1,63 @@
+{
+ "name": "Vrovel",
+ "display_name": "Vrovel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the RepublicVortex Squadron",
+      "Vortex Squadron"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brother Vrovel was a male Bith who lived during the Galactic Civil War. He was a pilot in the Alliance to Restore the Republic's Vortex Squadron, stationed on Dantooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Vortex_Squadron",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vrovel",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Jump_to_Lightspeed"
+ ]
+}

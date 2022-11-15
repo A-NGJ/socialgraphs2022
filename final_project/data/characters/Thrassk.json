@@ -1,0 +1,74 @@
+{
+ "name": "Thrassk",
+ "display_name": "Thrassk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Trandosha"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Bounty Hunters Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thrassk was a Trandoshan male bounty hunter from the planet Trandosha who became an influential bounty hunter clan leader. During the years following the Battle of Ruusan, Thrassk worked with the clan leaders Teesoo, Saya Ksi and Keekrim Pon to re-found the defunct Bounty Hunters' Guild of old as the \"New Bounty Hunters Guild.\" Thrassk and the other leaders collectively developed the Bounty Hunters' Creed, the guiding principles of the new Guild, and to appease the Galactic Senate, they came up with proposals as to how the Guild and the Jedi Order could work together.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandosha/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Hunting/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Ruusan_campaign",
+  "/wiki/Teesoo",
+  "/wiki/Saya_Ksi",
+  "/wiki/Keekrim_Pon",
+  "/wiki/Bounty_Hunters%27_Creed",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/The_Bounty_Hunter_Code:_From_the_Files_of_Boba_Fett"
+ ]
+}

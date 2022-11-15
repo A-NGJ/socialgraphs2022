@@ -1,0 +1,63 @@
+{
+ "name": "Unidentified_Muun_judge",
+ "display_name": "Unidentified Muun judge",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Muun"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "InterGalactic Banking Clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Muun judge served the InterGalactic Banking Clan in 20 BBY when the Core Five were accused of embezzling funds intended for assistance to war refugees. The judge found the Core Five guilty of embezzlement and removed them from power, replacing them with Senator Rush Clovis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Muun/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/InterGalactic_Banking_Clan/Legends",
+  "/wiki/Core_Five/Legends",
+  "/wiki/Rush_Clovis/Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Muun_judge",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Crisis_at_the_Heart"
+ ]
+}

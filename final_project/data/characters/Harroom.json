@@ -1,5 +1,6 @@
 {
  "name": "Harroom",
+ "display_name": "Harroom",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Harroom was a male Mon Calamari, who operated on Kashyyyk during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mon_Calamari/Legends",

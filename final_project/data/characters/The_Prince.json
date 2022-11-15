@@ -1,0 +1,92 @@
+{
+ "name": "The_Prince",
+ "display_name": "The Prince",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "aboard the Star Chamber"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Organa",
+      "Star Cabal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Prince was a male Human known to have been the leader of the Star Cabal conspiracy, which aimed to hand power of the galaxy into the grasp of normal people.\nAs the head of the Star Cabal, the Prince wielded massive power through his subordinates and the other members within the Cabal. When the security of the Cabal was breached, he stood in the line of fire as a lone agent attempted to dismantle the conspiracy. In 3640 BBY, during the Galactic War, the Prince was present onboard the Star Chamber where he later encountered Cipher Nine. The Prince battled the Imperial agent and was killed.\nThe Prince's dialogue before his death may vary depending upon Cipher Nine's dialogue before engaging the Star Cabal inner circle. If the light side dialogue is chosen, the Prince remarks that the Star Cabal once had a noble vision. If the dark side or neutral dialogue is chosen, the Prince promises that the galaxy will always be enslaved by the Sith and Jedi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Star_Chamber_(space_station)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/House_of_Organa/Legends",
+  "/wiki/Star_Cabal",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Fire/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Cipher_Nine",
+  "/wiki/Death/Legends",
+  "/wiki/Sith/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

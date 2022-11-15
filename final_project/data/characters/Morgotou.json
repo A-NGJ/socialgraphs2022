@@ -1,5 +1,6 @@
 {
  "name": "Morgotou",
+ "display_name": "Morgotou",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Morgotou was a male Rodian crime lord working with the Kessel Spice Corporation.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/4_ABY/Legends",

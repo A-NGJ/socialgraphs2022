@@ -1,5 +1,6 @@
 {
  "name": "Hen",
+ "display_name": "Hen",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Hen was a Dim-U priest who preached on the streets of Mos Eisley. He was generally ignored by the residents of Mos Eisley.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

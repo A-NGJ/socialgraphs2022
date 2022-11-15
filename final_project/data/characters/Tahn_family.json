@@ -1,0 +1,58 @@
+{
+ "name": "Tahn_family",
+ "display_name": "Tahn family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Royal House of Naboo",
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Tahn family was a family of morticians during the Republic and Imperial Eras.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Naboo_(people)",
+  "/wiki/Naboo",
+  "/wiki/Royal_House_of_Naboo",
+  "/wiki/Galactic_Republic",
+  "/wiki/Grand_Army_of_the_Republic",
+  "/wiki/Mortician",
+  "/wiki/Republic_Era",
+  "/wiki/Imperial_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Commodex_Tahn%27s_father",
+  "/wiki/Gender",
+  "/wiki/Commodex_Tahn",
+  "/wiki/Doctor_Aphra:_An_Audiobook_Original",
+  "/wiki/Darth_Vader_(2015)_9",
+  "/wiki/Darth_Vader_(2015)_10"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Tyrodall",
+ "display_name": "Tyrodall",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY",
+      "Taris"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyrodall was a male Devaronian smuggler who was alive during the Cold War. A partner of Beryl Thorne, together they came to Taris in search of the pre-bombardment artifacts. They manage to uncover some artifacts and find a way to smuggle them past Republic blockade, but Tyrodall soon grew tired of Beryl's naivety. Instead of selling all artifacts on the black market, she would return the relics to the descendants of former Tarisian residents for a much smaller fee. Not content with the loss of profits, Tyrodall faked his death at the claws of the rakghouls and established his own operation, leaving Thorne to hers. Eventually however, his hideout was discovered and he was confronted by a smuggler, who killed him in the following firefight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Taris/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Beryl_Thorne",
+  "/wiki/Rakghoul",
+  "/wiki/Voidhound",
+  "/wiki/Death/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

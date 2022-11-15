@@ -1,5 +1,6 @@
 {
  "name": "Grosteek",
+ "display_name": "Grosteek",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Grosteek was a Vaathkree and part-owner of the Farrimmer Cafe. Along with his partner, H'nib Statermast, who had taken in the poor sentient when he was on his last few credits, Grosteek helped Bnugor recover his pet snuzzleguff, Snowball.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Vaathkree_(species)",

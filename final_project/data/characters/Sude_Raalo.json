@@ -1,0 +1,50 @@
+{
+ "name": "Sude_Raalo",
+ "display_name": "Sude Raalo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sude Raalo was a Neimoidian arms merchant who operated out of Mos Eisley spaceport on Tatooine. He operated as a supplier for the Hutts and as a go-between for smugglers. Raalo was considered to be a relatively honest trader.\nSude hired a group to find the derelict battleship Starworm after buying the coordinates from his smuggler friend, Vordell. He was specifically interested in retrieving any remote processors that could control battle droids. He owned a beat-up YT-1300 light freighter that he lived out of.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Starworm",
+  "/wiki/Vordell",
+  "/wiki/Battle_droid/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

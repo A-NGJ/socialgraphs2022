@@ -1,0 +1,41 @@
+{
+ "name": "Vosso",
+ "display_name": "Vosso",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vosso was a Rodian arms dealer operating during the early years of the New Order. He worked with fellow Rodians Gredori, Aald and Keesi. Vosso was known to travel on the space barge Lost Lady, which often made illicit smuggling trips between Nal Hutta and Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Order/Legends",
+  "/wiki/Gredori",
+  "/wiki/Aald",
+  "/wiki/Keesi",
+  "/wiki/Lost_Lady",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vosso",
+  "/wiki/Wizards.com",
+  "/wiki/The_Nebula_Assassin"
+ ]
+}

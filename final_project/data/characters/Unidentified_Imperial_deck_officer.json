@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Imperial_deck_officer",
+ "display_name": "Unidentified Imperial deck officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unidentified Deck officer was a crewmember aboard Admiral Mils Giel's flagship, the Helmsman. His duties appeared to be carrying necessary equipment to different areas of the ship.\nDuring an operation in transporting a teezl, this officer came under the watchful eye of Admiral Giel. He had neglected to wear full uniform and was caught wearing a non-regulation cap. Yelling at the \"grubber\", Giel pulled him aside and ordered that he make ten laps around the ship for this breach in policy. The man readily obeyed and set off to take his laps.\nHowever, as soon as he had disappeared, Admiral Giel noted that he would probably stop running after he had gotten out of his sight, but that the encounter would likely ensure that the officer would wear full uniform in the future.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Deck_officer/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Mils_Giel",
+  "/wiki/Flagship/Legends",
+  "/wiki/Helmsman_(battlecruiser)",
+  "/wiki/Teezl",
+  "/wiki/Grubber",
+  "/wiki/Star_Wars_(1977)_61"
+ ]
+}

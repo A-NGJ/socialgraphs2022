@@ -1,0 +1,95 @@
+{
+ "name": "Wesk_Squad_leader",
+ "display_name": "Wesk Squad leader",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "Wesk Squad",
+      "Grand Army of the Republic",
+      "Wesk Squad",
+      "Wesk Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Third battle of Felucia, this Advanced Recon Commando sergeant served as the leader of Wesk Squad. During that battle, he and his squad sent a message to the Galactic Republic outpost on Felucia, requesting assistance in transporting some supplies back to base.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Wesk_Squad",
+  "/wiki/Third_battle_of_Felucia",
+  "/wiki/Advanced_Recon_Commando/Legends",
+  "/wiki/Clone_trooper_sergeant",
+  "/wiki/Felucia/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(video_game)",
+  "/wiki/Databank_(original)"
+ ]
+}

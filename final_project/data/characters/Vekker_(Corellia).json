@@ -1,0 +1,69 @@
+{
+ "name": "Vekker_(Corellia)",
+ "display_name": "Vekker  (Corellia)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Republic MilitarySecond Infantry",
+      "Second Infantry"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vekker was a male Human private in the Second Infantry division of the Republic Military who served at the Battle of Corellia during the Galactic War. Stationed at the Government District, he learned that the Empire resorted to utilizing signal scramblers against Republic ships in the area, causing the Republic to target their own ships. After three medical transports were shot down over the Government District and killed their several hundred passengers, General Aves and the other commanders grounded all flights across the region. Vekker recruited the help of a Republic hero in taking out the Imperial forces guarding the control tower with the jammers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Military/Legends",
+  "/wiki/Second_Infantry",
+  "/wiki/Private/Legends",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Galactic_War",
+  "/wiki/General/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

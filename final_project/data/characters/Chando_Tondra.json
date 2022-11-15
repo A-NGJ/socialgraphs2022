@@ -1,0 +1,47 @@
+{
+ "name": "Chando_Tondra",
+ "display_name": "Chando Tondra",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tondra clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Chando Tondra is a Human male who is head of the Tondra clan on Cloud City. The clan harvest and process the algae that grows in the upper atmosphere of Bespin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tondra_clan",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Algae/Legends",
+  "/wiki/Atmosphere/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Galaxy_Guide_2:_Yavin_and_Bespin_(Second_Edition)"
+ ]
+}

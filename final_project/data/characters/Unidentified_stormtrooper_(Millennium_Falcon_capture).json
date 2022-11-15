@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_stormtrooper_(Millennium_Falcon_capture)",
+ "display_name": "Unidentified stormtrooper  (Millennium Falcon capture)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This stormtrooper was a Human male stationed aboard the first Death Star, who participated in the Millennium Falcon's capture and ordered a scanning crew to board the ship and check it. Not too long afterward, the Battle of Yavin commenced, with the Death Star's destruction.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Death_Star/Legends",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+ ]
+}

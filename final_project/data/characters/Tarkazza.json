@@ -1,0 +1,78 @@
+{
+ "name": "Tarkazza",
+ "display_name": "Tarkazza",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black with a Silver Stripe"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarkazza ) was a male Wookiee, with a silver stripe down his back, who was the father of Katarra. He once took Han Solo beneath Rwookrrorro by placing him in a quulaar on his back.\nTarkazza was one of the Wookiees who spearheaded the search for the Gran thief Kea Ra-Lan after she infiltrated Kashyyyk and stole ancient texts from the vaults of Neocomora.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Shyriiwook/Legends",
+  "/wiki/Katarra",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Rwookrrorro/Legends",
+  "/wiki/Quulaar",
+  "/wiki/Kea_Ra-Lan",
+  "/wiki/Neocomora",
+  "/wiki/Star_Wars:_Galactic_Battlegrounds",
+  "/wiki/Rebel_Dawn",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Wanted_by_Cracken_(Star_Wars_Adventure_Journal)",
+  "/wiki/Star_Wars_Adventure_Journal_10",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Secrets_of_Kashyyyk",
+  "/wiki/Star_Wars_Gamer_4",
+  "/wiki/Galactic_Campaign_Guide"
+ ]
+}

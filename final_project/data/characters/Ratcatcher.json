@@ -1,5 +1,6 @@
 {
  "name": "Ratcatcher",
+ "display_name": "Ratcatcher",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "The Ratcatcher was a Devaronian male bounty hunter who was renowned during the Cold War and Galactic War, having assassinated a wide variety of targets. He led the mercenary group known as the Specialists on the planet Makeb, where the group was killed.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3638_BBY",

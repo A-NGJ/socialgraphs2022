@@ -1,0 +1,54 @@
+{
+ "name": "Treece",
+ "display_name": "Treece",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ceriun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Treece was a Human farmer, who lived on the primitive agrarian planet of Ceriun about 1000 BBY. He was an associate of the Drop Canyon village leader, Ka'arn. His son was one of the youths involved in an attempt to steal a Holocron that had come into the possession of the villagers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Hugo_Treece",
+  "/wiki/Ceriun",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Farmer/Legends",
+  "/wiki/Agriworld/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/1000_BBY",
+  "/wiki/Drop_Canyon",
+  "/wiki/Ka%27arn",
+  "/wiki/Holocron/Legends",
+  "/wiki/All_for_You",
+  "/wiki/Star_Wars_Tales_17"
+ ]
+}

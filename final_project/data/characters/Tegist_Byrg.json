@@ -1,0 +1,79 @@
+{
+ "name": "Tegist_Byrg",
+ "display_name": "Tegist Byrg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malo VI"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.5 meters"
+     ]
+    },
+    {
+     "name": "Mass",
+     "values": [
+      "More than 250 kilograms"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tegist Byrg was a Human male who served as the governor of the planet Glova. Supposedly leading a neutral planet, he was secretly working with the Galactic Empire, so the New Republic conducted a mission to reveal his plot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malo_VI",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Kilogram/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Glova",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Mission_to_Glova",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tegist_Byrg",
+  "/wiki/West_End_Games",
+  "/wiki/The_Politics_of_Contraband_(adventure)",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures"
+ ]
+}

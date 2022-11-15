@@ -1,0 +1,34 @@
+{
+ "name": "Sol_Proofrock",
+ "display_name": "Sol Proofrock",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sol Proofrock was a male Hutt gangster who hired Bal Rado to bring him spice. But Rado lost his spices. Later Sol hired Rado's partner Droo Wabbin to kill him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bal_Rado",
+  "/wiki/Spice/Legends",
+  "/wiki/Droo_Wabbin",
+  "/wiki/Coruscant_Nights_III:_Patterns_of_Force"
+ ]
+}

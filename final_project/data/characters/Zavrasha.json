@@ -1,0 +1,78 @@
+{
+ "name": "Zavrasha",
+ "display_name": "Zavrasha",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Sith Order",
+      "Sith Order"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Darth Mortis"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zavrasha was a Female Pureblood Sith Lord of the reconstituted Sith Empire and Darth Mortis' apprentice. She was stationed on Nar Shaddaa to check the Republic's technological advances. There she tasked a fellow Imperial to destroy these advances, but asked to strike swiftly and anonymously to not jeopardize the Treaty.\nZavrasha is voiced by Lydia Leonard, who also provides the voice for Lana Beniko in the game. Male characters have the option to flirt with her, potentially leading to a private scene between the two.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Order_(Sith_Empire)",
+  "/wiki/Darth_Mortis",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Treaty_of_Coruscant",
+  "/wiki/Lydia_Leonard",
+  "/wiki/Lana_Beniko"
+ ]
+}

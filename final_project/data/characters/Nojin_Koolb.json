@@ -1,0 +1,71 @@
+{
+ "name": "Nojin_Koolb",
+ "display_name": "Nojin Koolb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Xartun"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "Zsinj's Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nojin Koolb was a male Human and the governor of Xartun during 7 ABY.\nShortly after the Bacta War, Nojin Koolb entered into an agreement with Warlord Zsinj for protection, despite Xartun being recent signatory to the New Republic. He assured Garik Loran, who was undercover pretending to be a subordinate of Zsinj, that his loyalty was to the warlord.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Xartun",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gray",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Zsinj%27s_Empire",
+  "/wiki/Garik_Loran",
+  "/wiki/Governor/Legends",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Bacta_War",
+  "/wiki/Warlord/Legends",
+  "/wiki/Zsinj",
+  "/wiki/X-Wing:_Wraith_Squadron",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

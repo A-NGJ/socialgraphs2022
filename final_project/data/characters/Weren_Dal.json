@@ -1,0 +1,53 @@
+{
+ "name": "Weren_Dal",
+ "display_name": "Weren Dal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kel Dor"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Weren Dal was a Kel Dor female Jedi Knight during the Clone Wars. Her ship was shot down by Separatist forces over the planet Dathomir.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Weren_Dal",
+  "/wiki/Weren_Dal/Legends",
+  "/wiki/Kel_Dor",
+  "/wiki/Gender",
+  "/wiki/Jedi_Order",
+  "/wiki/Jedi_Knight",
+  "/wiki/Clone_Wars",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Confederacy_of_Independent_Systems_Navy",
+  "/wiki/Planet",
+  "/wiki/Dathomir",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Weren_Dal",
+  "/wiki/Savage_Spirits"
+ ]
+}

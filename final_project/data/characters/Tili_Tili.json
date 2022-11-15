@@ -1,0 +1,61 @@
+{
+ "name": "Tili_Tili",
+ "display_name": "Tili Tili",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tili Tili was a male Jawa singer who lived on planet Tatooine in the last decades of the Galactic Republic.\nSometime after 32 BBY, Tili Tili teamed up with a Bith band and helped a young Jedi recruit create a songbook for the Jedi Order. He provided the recruit with a certificate for successfully transcribing dozens of songs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Musician/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Bith/Legends",
+  "/wiki/Band/Legends",
+  "/wiki/Unidentified_young_new_recruit",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tili_Tili",
+  "/wiki/Star_Wars:_Yoda%27s_Challenge_Activity_Center",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+ ]
+}

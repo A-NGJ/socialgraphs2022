@@ -1,5 +1,6 @@
 {
  "name": "Alys",
+ "display_name": "Alys",
  "side_bars": [
   {
    "name": "Physical description",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "Alys was a female Nautolan who worked as an agent for the Galactic Republics' Strategic Information Service during the Cold War. During the conflict, she worked on the moon Nar Shaddaa with her partner Kesler.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nautolan/Legends",

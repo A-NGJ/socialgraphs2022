@@ -1,5 +1,6 @@
 {
  "name": "Sampa",
+ "display_name": "Sampa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Sampa was a human male stormtrooper and member of Commander Kimmund's unit in the First Legion. During the Galactic Empire's rule, Darth Vader's personal legion was deployed to the galaxy's Outer Rim Territories. As a result, Sampa and his comrades became involved in a conflict with the Grysks over the planet Batuu.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

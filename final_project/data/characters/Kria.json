@@ -1,5 +1,6 @@
 {
  "name": "Kria",
+ "display_name": "Kria",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kria was a Human female who served as a trainer in the reconstituted Sith Empire during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

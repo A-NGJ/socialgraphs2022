@@ -1,5 +1,6 @@
 {
  "name": "Nyla",
+ "display_name": "Nyla",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Nyla was the human female Queen of the planet Hynestia during the High Republic Era.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hynestia_Prime",

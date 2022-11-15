@@ -1,0 +1,71 @@
+{
+ "name": "Sires_Vant",
+ "display_name": "Sires Vant",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "26 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sires Vant was a male Devaronian loanshark and member of Valis Lorn's organization during the early years of the New Republic. Vant was based on Andasala and controlled much of the underworld money-lending on the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/26_BBY/Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Valis_Lorn",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Andasala",
+  "/wiki/West_End_Games",
+  "/wiki/Waiting_For_The_Late-Night_Shuttle",
+  "/wiki/Galaxy_Guide_11:_Criminal_Organizations",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/Wizards.com",
+  "/wiki/Saga_Edition_Web_Enhancement:_Devaronians"
+ ]
+}

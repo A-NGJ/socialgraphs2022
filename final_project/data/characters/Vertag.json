@@ -1,0 +1,51 @@
+{
+ "name": "Vertag",
+ "display_name": "Vertag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zeltros"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zeltron"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vertag was a male Zeltron governor from the Northern Province of Zeltros. He had five daughters, that the Zeltron aides—Marruc, Rahuhl, Bahb and Jahn—were involved with before they fled the planet. Vertag attended the party thrown to celebrate the arrival of the heroes from the Alliance of Free Planets, which caused the aides to flee the party.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zeltros/Legends",
+  "/wiki/Zeltron/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Northern_Province",
+  "/wiki/Marruc",
+  "/wiki/Rahuhl",
+  "/wiki/Bahb",
+  "/wiki/Jahn",
+  "/wiki/Alliance_of_Free_Planets",
+  "/wiki/Star_Wars_(1977)_103",
+  "/wiki/Star_Wars_(1977)_104"
+ ]
+}

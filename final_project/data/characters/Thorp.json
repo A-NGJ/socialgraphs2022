@@ -1,0 +1,59 @@
+{
+ "name": "Thorp",
+ "display_name": "Thorp",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sakiyan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thorp was a pale-skinned Sakiyan. Residing on Tatooine, Ackmena had done him an important favor in the past. Because of this, he was often a guest of hers at the Mos Eisley cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Sakiyan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ackmena/Legends",
+  "/wiki/Chalmun%27s_Spaceport_Cantina/Legends",
+  "/wiki/The_Star_Wars_Holiday_Special",
+  "/wiki/Star_Wars:_Yoda_Stories",
+  "/wiki/Star_Wars:_Chronicles",
+  "/wiki/Star_Wars:_Behind_the_Magic",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/Rogues_Gallery_(Star_Wars_Insider)",
+  "/wiki/Star_Wars_Insider_144",
+  "/wiki/StarWars.com",
+  "/wiki/The_Star_Wars_Holiday_Special_Cantina:_Who%27s_Who"
+ ]
+}

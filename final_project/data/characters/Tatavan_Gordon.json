@@ -1,0 +1,46 @@
+{
+ "name": "Tatavan_Gordon",
+ "display_name": "Tatavan Gordon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tatavan Gordon was married to Herrit Gordon, a New Republic diplomat. When he was stationed on Bothawui, she picked up Bothese and became popular with the locals in the social circles in which the Gordons moved.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Herrit_Gordon",
+  "/wiki/Bothawui/Legends",
+  "/wiki/Bothese",
+  "/wiki/X-Wing:_The_Krytos_Trap"
+ ]
+}

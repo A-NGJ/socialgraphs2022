@@ -1,0 +1,50 @@
+{
+ "name": "Velek",
+ "display_name": "Velek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Askajian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Mass",
+     "values": [
+      "Bulky"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Velek was a female Askajian criminal who worked with Jorkat and Bry. After Bry attempted to steal from the Serennian Jenza, daughter of Count Gora, during a festival on Serenno, the Jedi initiate Dooku confronted them with an electroblade, scaring the criminals away.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Askajian",
+  "/wiki/Gender",
+  "/wiki/Jorkat",
+  "/wiki/Bry",
+  "/wiki/Serennian",
+  "/wiki/Jenza",
+  "/wiki/Count_of_Serenno",
+  "/wiki/Gora",
+  "/wiki/Serenno",
+  "/wiki/Jedi_Initiate",
+  "/wiki/Dooku",
+  "/wiki/Electroblade",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Velek",
+  "/wiki/Dooku:_Jedi_Lost",
+  "/wiki/Dooku:_Jedi_Lost_(script)"
+ ]
+}

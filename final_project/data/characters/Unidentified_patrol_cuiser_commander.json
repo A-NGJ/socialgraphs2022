@@ -1,0 +1,46 @@
+{
+ "name": "Unidentified_patrol_cuiser_commander",
+ "display_name": "Unidentified patrol cuiser commander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy",
+      "Great Families",
+      "Great Families"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A individual served as commander aboard a patrol cruiser. Stybla'rsi'omli thought that the signal broadcasting their voice was from the Tahmie patrol cruiser, but there was to much interference to tell.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Great_Families",
+  "/wiki/Commander",
+  "/wiki/Patrol_cruiser",
+  "/wiki/Stybla%27rsi%27omli",
+  "/wiki/Tahmie_patrol_cruiser",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/:Unidentified_patrol_cuiser_commander",
+  "/wiki/Thrawn_Ascendancy:_Lesser_Evil",
+  "/wiki/Thrawn_Ascendancy:_Lesser_Evil_(audiobook)"
+ ]
+}

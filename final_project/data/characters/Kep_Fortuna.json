@@ -1,0 +1,42 @@
+{
+ "name": "Kep_Fortuna",
+ "display_name": "Kep Fortuna",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kep Fortuna was a Twi'lek male who worked as the city manager of the High City of Refuge on the planet Kidron during the Galactic Civil War. Kep was a distant relative of Bib Fortuna, the majordomo of the Hutt crime lord Jabba.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/High_City_of_Refuge",
+  "/wiki/Planet/Legends",
+  "/wiki/Kidron/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Bib_Fortuna/Legends",
+  "/wiki/Majordomo/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Three",
+  "/wiki/The_Star_Wars_Planets_Collection",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

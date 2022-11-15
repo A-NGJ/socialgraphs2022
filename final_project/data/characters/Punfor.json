@@ -1,5 +1,6 @@
 {
  "name": "Punfor",
+ "display_name": "Punfor",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -53,7 +54,7 @@
   }
  ],
  "content": "Punfor was a human male who served as a captain in the Galactic Empire around 3 ABY. He was stationed at an Imperial settlement on Someilk in the galaxy's Outer Rim Territories and was killed when the settlement was destroyed by a group of mercenaries.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/3_ABY",

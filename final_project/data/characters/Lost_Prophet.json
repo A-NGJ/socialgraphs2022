@@ -1,0 +1,94 @@
+{
+ "name": "Lost_Prophet",
+ "display_name": "Lost Prophet",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Dark brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The so-called Lost Prophet was originally a clone trooper who served in the Galactic Republic's Grand Army. Toward the end of the Clone Wars, that trooper crash-landed on the desert planet of Du Mai while piloting an ARC-170 starfighter. Because of the crash, he sustained head injuries that caused him to utter snippets of his initial conditioning and flash training in the hatcheries of Kamino, where the clones were created. He took refuge in a Du Mai mountain cave, and some visitors started to take his displays of mental agitation for psychic powers, which earned him the name of Lost Prophet. Pilgrims started to visit him on Du Mai, asking for advice, while he would repeat incoherent bits of his military programming. In 21 ABY, the journalist Cindel Towani ended up discovering the true nature of the Du Mai seer as a brain-addled clone from the Clone Wars era.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Desert/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Du_Mai",
+  "/wiki/Aggressive_ReConnaissance-170_starfighter/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Flash_training",
+  "/wiki/Kamino_cloning_chamber",
+  "/wiki/Mountain/Legends",
+  "/wiki/21_ABY/Legends",
+  "/wiki/Journalist/Legends",
+  "/wiki/Cindel_Towani",
+  "/wiki/Brain/Legends",
+  "/wiki/StarWars.com",
+  "/wiki/Star_Wars:_The_Essential_Guide_to_Warfare_Author%27s_Cut",
+  "/wiki/Star_Wars:_The_Clone_Wars_Character_Encyclopedia",
+  "/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+ ]
+}

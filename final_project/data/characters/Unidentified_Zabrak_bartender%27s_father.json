@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Zabrak_bartender%27s_father",
+ "display_name": "Unidentified Zabrak bartender's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Before 0 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified bar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Zabrak male was a bartender, who owned a bar on the moon Nar Shaddaa which he passed on to his son before he died.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Darth_Maul_(2017)_2",
+  "/wiki/0_ABY",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Zabrak",
+  "/wiki/Gender",
+  "/wiki/Unidentified_bar_(Nar_Shaddaa)",
+  "/wiki/Luke_Skywalker",
+  "/wiki/Moon",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Unidentified_Zabrak_bartender",
+  "/wiki/Death",
+  "/wiki/Star_Wars_(2015)_8"
+ ]
+}

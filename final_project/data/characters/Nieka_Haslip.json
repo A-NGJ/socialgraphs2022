@@ -1,0 +1,56 @@
+{
+ "name": "Nieka_Haslip",
+ "display_name": "Nieka Haslip",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "11 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nieka Haslip was a Human female from Garos IV. She had a husband, West, and a child, Dair. In 11 BBY, West and Nieka Haslip were killed by a Sundar attack, during the Garosian Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garos_IV",
+  "/wiki/11_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/West_Haslip",
+  "/wiki/Dair_Haslip",
+  "/wiki/Garosian_Civil_War",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Turning_Point_(Charlene_Newcomb)",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "name": "Unidentified_Quarren_commander",
+ "display_name": "Unidentified Quarren commander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Mon Calamari"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Quarren Isolation League",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Quarren Commander commanded the Quarren Isolation League forces against Jedi Master Kit Fisto's clone SCUBA trooper forces during the Battle of Mon Calamari in the Clone Wars.\nHe engaged Kit Fisto in combat, and although he was a very skilled combatant evidenced by his killing of numerous clone SCUBA troopers single handedly armed with only his trident, he ultimately failed and was pushed down a volcanic crater.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Dac",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Quarren_Isolation_League/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Kit_Fisto/Legends",
+  "/wiki/Clone_SCUBA_trooper/Legends",
+  "/wiki/Battle_of_Mon_Calamari_(Clone_Wars)",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Trident/Legends",
+  "/wiki/Star_Wars:_Clone_Wars",
+  "/wiki/Clone_Wars_Chapter_1",
+  "/wiki/Clone_Wars_Chapter_5",
+  "/wiki/Star_Wars:_Clone_Wars_(PhotoComic)",
+  "/wiki/Star_Wars:_Clone_Wars:_Planetary_Forces",
+  "/wiki/Databank_(original)"
+ ]
+}

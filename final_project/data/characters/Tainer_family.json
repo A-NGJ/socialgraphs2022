@@ -1,0 +1,68 @@
+{
+ "name": "Tainer_family",
+ "display_name": "Tainer family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Tainer family, previously known as the Doran family, was an Alderaanian bloodline affiliated with the New Republic, the Galactic Federation of Free Alliances and the New Jedi Order as pilots and for some of its members as Jedi Knights.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Kissek_Doran",
+  "/wiki/Kell_Tainer",
+  "/wiki/Tyria_Sarkin_Tainer",
+  "/wiki/Doran_Sarkin-Tainer",
+  "/wiki/Jesmin_Tainer",
+  "/wiki/X-Wing:_Wraith_Squadron",
+  "/wiki/X-Wing:_Iron_Fist",
+  "/wiki/X-Wing:_Solo_Command",
+  "/wiki/X-Wing:_Mercy_Kill",
+  "/wiki/X-Wing:_Mercy_Kill_(audiobook)",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_I:_Rebel_Dream",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_II:_Rebel_Stand",
+  "/wiki/The_New_Jedi_Order:_The_Unifying_Force",
+  "/wiki/Fate_of_the_Jedi:_Outcast",
+  "/wiki/Fate_of_the_Jedi:_Outcast_(audiobook)",
+  "/wiki/Legacy_of_the_Force:_Fury",
+  "/wiki/Fate_of_the_Jedi:_Backlash",
+  "/wiki/Fate_of_the_Jedi:_Backlash_(audiobook)",
+  "/wiki/Fate_of_the_Jedi:_Vortex",
+  "/wiki/Fate_of_the_Jedi:_Vortex_(audiobook)",
+  "/wiki/Fate_of_the_Jedi:_Conviction",
+  "/wiki/Fate_of_the_Jedi:_Conviction_(audiobook)",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse",
+  "/wiki/Fate_of_the_Jedi:_Apocalypse_(audiobook)"
+ ]
+}

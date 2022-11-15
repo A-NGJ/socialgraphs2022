@@ -1,0 +1,83 @@
+{
+ "name": "Tyvark_Luowan",
+ "display_name": "Tyvark Luowan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Manaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green-gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Aratech Repulsor Company",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyvark Luowan was a male Rodian who ran a store in Ahto City, selling Aratech equipment during the Jedi Civil War. In 3956 BBY, he was on good terms with the local Galactic Republic forces, often offering prime deals or beneficial payment plans for Republic soldiers and other sentients with well-known or obvious leanings towards the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Manaan/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Aratech_Repulsor_Company/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Tyvark_Luowan%27s_general_store",
+  "/wiki/Ahto_City",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/3956_BBY",
+  "/wiki/Sentience/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tyvark_Luowan",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

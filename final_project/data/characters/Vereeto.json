@@ -1,0 +1,73 @@
+{
+ "name": "Vereeto",
+ "display_name": "Vereeto",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Army",
+      "Republic Army"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vereeto was a Rodian corporal who served the Republic Army on the snowy planet Ilum, stimulants during the Galactic War between the Galactic Republic and the resurgent Sith Empire.\nVereeto first appeared in Star Wars: The Old Republic, a video game released by BioWare in 2011.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Army",
+  "/wiki/Corporal/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Ilum/Legends",
+  "/wiki/Stimulant/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Video_game",
+  "/wiki/BioWare",
+  "/wiki/2011"
+ ]
+}

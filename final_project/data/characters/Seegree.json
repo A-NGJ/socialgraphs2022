@@ -1,5 +1,6 @@
 {
  "name": "Seegree",
+ "display_name": "Seegree",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Seegree was a female Mon Calamari and the administrator of Foamwander City. She also was a key member of the Calamarian Council.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

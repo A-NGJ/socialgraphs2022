@@ -1,5 +1,6 @@
 {
  "name": "Modt",
+ "display_name": "Modt",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Modt was a Duros inspector in the Coruscanti Immigration Service. He was responsible for finding neutron pixie spice which undercover Jedi Knight Bazel Warv was carrying.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Duros/Legends",

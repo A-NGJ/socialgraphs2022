@@ -1,0 +1,73 @@
+{
+ "name": "Unidentified_Cerean_Jedi",
+ "display_name": "Unidentified Cerean Jedi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1002 BBY. a Hammerhead-class cruiser over Ruusan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Cerean Jedi Master fought at the First Battle of Ruusan against the Brotherhood of Darkness where she used her mastery of battle meditation to hold the Sith fleet off until her death, and the death of the two Selkath Padawans who joined her at the hands of former Jedi and Dark Lord of the Sith, Kopecz.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1002_BBY",
+  "/wiki/Hammerhead-class_cruiser",
+  "/wiki/Ruusan/Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/First_Battle_of_Ruusan",
+  "/wiki/Brotherhood_of_Darkness/Legends",
+  "/wiki/Battle_meditation",
+  "/wiki/Sith/Legends",
+  "/wiki/Fleet/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Unidentified_Selkath_Padawan_(Force_choke)",
+  "/wiki/Unidentified_Selkath_Padawan_(Force_lightning)",
+  "/wiki/Padawan/Legends",
+  "/wiki/Dark_Lord_of_the_Sith/Legends",
+  "/wiki/Kopecz",
+  "/wiki/Darth_Bane:_Path_of_Destruction",
+  "/wiki/Darth_Bane:_Path_of_Destruction_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Tormak_Rodan",
+ "display_name": "Tormak Rodan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Commenor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tormak Rodan was the older brother of New Republic Senator Fyor Rodan. Rodan was a smuggler who worked for Jabba the Hutt until Jabba's death and later operated out of his native Commenor working for himself; many believed that his brother was also involved in the trade. In truth, the two hated each other.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Commenor/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Fyor_Rodan",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Battle_of_the_Great_Pit_of_Carkoon",
+  "/wiki/The_New_Jedi_Order:_Destiny%27s_Way",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

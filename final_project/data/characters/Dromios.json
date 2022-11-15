@@ -1,5 +1,6 @@
 {
  "name": "Dromios",
+ "display_name": "Dromios",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Dromios was a male Mon Calamari shipman who served in the Galactic Alliance Remnant and would participate in the Battle of the Arkanis sector.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

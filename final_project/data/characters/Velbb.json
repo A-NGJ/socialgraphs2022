@@ -1,0 +1,44 @@
+{
+ "name": "Velbb",
+ "display_name": "Velbb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy",
+      "Chiss Expansionary Defense Fleet",
+      "Chiss Expansionary Defense Fleet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Velbb was a Chiss individual who served as a Junior Commander in the Chiss Expansionary Defense Fleet aboard the Steadfast.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Chiss_Expansionary_Defense_Fleet",
+  "/wiki/Junior_Commander",
+  "/wiki/Steadfast_(Chiss)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Velbb",
+  "/wiki/Thrawn:_Treason",
+  "/wiki/Thrawn:_Treason_(audiobook)"
+ ]
+}

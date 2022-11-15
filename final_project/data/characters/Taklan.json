@@ -1,0 +1,44 @@
+{
+ "name": "Taklan",
+ "display_name": "Taklan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rutian Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taklan was a smuggler who was dispatched by Grand Master Satele Shan as part of a strike team to secure the Allusis.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rutian/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Grand_Master/Legends",
+  "/wiki/Satele_Shan",
+  "/wiki/Allusis",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taklan",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

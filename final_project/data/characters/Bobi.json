@@ -1,5 +1,6 @@
 {
  "name": "Bobi",
+ "display_name": "Bobi",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Bobi was a street orphan on the planet Shesharile 5. After trying to steal Chop Harlison's credit box, Bobi was taken under the mechanic's wing as he saw himself in the boy. Bobi found a home in the Rabid Mynocks and wears the gang's colors while waiting for the day that he is grown up enough to ride a swoop bike.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Shesharile_5",

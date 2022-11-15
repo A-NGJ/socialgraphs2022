@@ -1,0 +1,65 @@
+{
+ "name": "Tam_Blackstar",
+ "display_name": "Tam Blackstar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tam Blackstar was a human male who served as a TIE fighter pilot within the Galactic Empire. As a member of the Imperial Starfighter Corps, he wore a standard Imperial pilot uniform that had yellow stripes, and flew a TIE/d \"Defender\" Multi-Role Starfighter. Blackstar had light skin and brown hair.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tam_Blackstar",
+  "/wiki/Tam_Blackstar/Legends",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Pilot",
+  "/wiki/TIE/d_%22Defender%22_Multi-Role_Starfighter",
+  "/wiki/Hair",
+  "/wiki/Star_Wars:_Starfighter_Missions"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Tonai",
+ "display_name": "Tonai",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Senali"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Senali"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Senali Royal Family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tonai was an old Senali, father of Ganeed, Nonce and King Meenon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Senali",
+  "/wiki/Senali_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Senali_Royal_Family",
+  "/wiki/Ganeed",
+  "/wiki/Nonce_(Senali)",
+  "/wiki/King/Legends",
+  "/wiki/Meenon",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tonai",
+  "/wiki/Jedi_Apprentice:_The_Shattered_Peace"
+ ]
+}

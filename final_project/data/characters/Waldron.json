@@ -1,0 +1,53 @@
+{
+ "name": "Waldron",
+ "display_name": "Waldron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Rebel spy, Ensign Waldron infiltrated the Imperial base on Argavat and stole the Imperial Battle Codes. When the base commander realized the theft, the garrison was put under full alert, and Waldron was unable to escape. Lying low in the base, he hid the codes inside astromech unit IP-8 until Luke Skywalker showed up to extract him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Spy/Legends",
+  "/wiki/Ensign/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Argavat",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/IP-8",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Waldron",
+  "/wiki/Star_Wars:_Yoda_Stories",
+  "/wiki/Canon"
+ ]
+}

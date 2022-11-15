@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Ewok_scout",
+ "display_name": "Unidentified Ewok scout",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ewok scout was active on the forest moon of Endor during the Galactic Civil War. He was armed with a spear.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Ewok/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Endor_(planet)/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Spear/Legends",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/Star_Wars:_The_Card_Game_Core_Set"
+ ]
+}

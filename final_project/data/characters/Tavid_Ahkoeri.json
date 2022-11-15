@@ -1,0 +1,36 @@
+{
+ "name": "Tavid_Ahkoeri",
+ "display_name": "Tavid Ahkoeri",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tavid Ahkoeri was a male Human gambler. He attended the launch of the luxury repulsortrain Gem of Alderaan on Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gambling/Legends",
+  "/wiki/Repulsortrain",
+  "/wiki/Gem_of_Alderaan",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan"
+ ]
+}

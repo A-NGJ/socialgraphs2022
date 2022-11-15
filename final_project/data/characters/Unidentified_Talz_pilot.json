@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Talz_pilot",
+ "display_name": "Unidentified Talz pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Talz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Talz pilot applied for membership in what became Wraith Squadron in 7 ABY. The Talz pilot was rejected due to becoming emotionally unstable when placed in simulated combat environments.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Talz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Wraith_Squadron",
+  "/wiki/7_ABY/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Talz_pilot",
+  "/wiki/X-Wing:_Wraith_Squadron"
+ ]
+}

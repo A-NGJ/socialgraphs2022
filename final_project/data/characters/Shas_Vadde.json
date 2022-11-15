@@ -1,0 +1,66 @@
+{
+ "name": "Shas_Vadde",
+ "display_name": "Shas Vadde",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Fondor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fondorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederation",
+      "Alliance-in-exile"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Shas Vadde was a male Fondorian who served as the president of Fondor during the Second Galactic Civil War. In 41 ABY, he supported the Confederation, but after Jacen Solo began bombing Oridin in the Second Battle of Fondor he surrendered to Admiral Cha Niathal. Later, he would allow Niathal to set up a government in exile on Fondor after breaking away from Solo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fondor/Legends",
+  "/wiki/Fondorian",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederation",
+  "/wiki/Alliance-in-exile",
+  "/wiki/President/Legends",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/41_ABY",
+  "/wiki/Darth_Caedus",
+  "/wiki/Oridin",
+  "/wiki/Second_Battle_of_Fondor",
+  "/wiki/Admiral/Legends",
+  "/wiki/Cha_Niathal",
+  "/wiki/Legacy_of_the_Force:_Revelation",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

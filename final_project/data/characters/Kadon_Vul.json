@@ -1,0 +1,63 @@
+{
+ "name": "Kadon_Vul",
+ "display_name": "Kadon Vul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Attis Station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kadon Vul was a male Sith Lord who served the resurgent Sith Empire during the Galactic War.\nIn 3642 BBY, he guided the Sith troops that captured the Rift Alliance's Attis Station but was defeated by the just arrived Barsen'thor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Category:Articles_to_be_expanded",
+  "/wiki/3642_BBY",
+  "/wiki/Attis_Station",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith/Legends",
+  "/wiki/Rift_Alliance",
+  "/wiki/The_Barsen%27thor",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

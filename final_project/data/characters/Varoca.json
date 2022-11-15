@@ -1,0 +1,46 @@
+{
+ "name": "Varoca",
+ "display_name": "Varoca",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Vanster Enan's Sop House"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varoca was a patron of Vanster Enan's Sop House during Gadrin's celebrations for the 200th anniversary of the city's founding. He spent most of the day arm-wrestling with Oosk. Despite Varoca's greater strength, he only beat the Trandoshan about half the time.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Vanster_Enan%27s_Sop_House",
+  "/wiki/Gadrin",
+  "/wiki/Oosk",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/A_Cularin_Presence"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_Kuat_communications_officer",
+ "display_name": "Unidentified Kuat communications officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Communications Officer served the Galactic Empire at the Kuat shipyards during the Galactic Civil War. He was present at the shipyards during the Space Battle at Kuat in 0 BBY. As the shipyards were destroyed by Rebel corvettes, he repeatedly contacted the Star Destroyer Tyranny, which was usually stationed at the shipyards, but had been transferred to Fresia, in defense of the planet because of the upcoming Rebel strike to steal fighter prototypes. The ship's commander refused to reply until the communications officer activated Emergency Code Zero which required the Tyranny to report to Kuat immediately.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Layout_Guide",
+  "/wiki/Wookieepedia:Manual_of_Style",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Kuat/Legends",
+  "/wiki/Shipyard/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Space_Battle_at_Kuat",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Corvette/Legends",
+  "/wiki/Imperial_I-class_Star_Destroyer/Legends",
+  "/wiki/Tyranny",
+  "/wiki/Fresia/Legends",
+  "/wiki/Unidentified_Tyranny_commander",
+  "/wiki/Emergency_Code_Zero",
+  "/wiki/Star_Wars:_Empire_at_War"
+ ]
+}

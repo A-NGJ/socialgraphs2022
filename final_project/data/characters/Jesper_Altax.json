@@ -1,0 +1,50 @@
+{
+ "name": "Jesper_Altax",
+ "display_name": "Jesper Altax",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jesper Altax was a male Human Jedi Master of the Jedi Order whom, at some point before the Cold War, fell to the dark side. He was redeemed after some time and his experiences were later stored in the Noetikon of Secrets.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Dark_side_of_the_Force/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Noetikon_of_Secrets",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

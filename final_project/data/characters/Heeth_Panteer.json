@@ -1,0 +1,73 @@
+{
+ "name": "Heeth_Panteer",
+ "display_name": "Heeth Panteer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Panteer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Heeth Panteer was a male Human native of Alderaan, who was fortunate enough to be off-planet when the first Death Star destroyed his homeworld. He and his brother Raal were in the Ryloth system, where they owned a moon due to being the only heirs of their family.\nIn the wake of the Battle of Yavin, Leia Organa, a childhood friend of the brothers, traveled to the moon in hopes of convincing the brothers to let the Rebel Alliance use it as their new base. Heeth, however, wanted nothing to do with the idea, and even believed that Leia's actions aboard the first Death Star led to Alderaan's destruction.\nRaal took Leia on a tour through the wild preserve, though they failed to return. Heeth set out after them, only to find that his brother Raal had died from an animal bite. Raal's death only convinced Heeth his stance against the Rebellion was just, and he ordered Leia to leave.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Panteer",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Raal_Panteer",
+  "/wiki/Ryloth_system/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Star_Wars:_Empire:_A_Little_Piece_of_Home"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Mann_Ozzel",
+ "display_name": "Mann Ozzel",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Carida"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ozzel family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mann Ozzel was a Human merchant who lived many years prior to the Galactic Civil War. He orchestrated the trading of several varieties of mineral from the world of Carida, earning his family a considerable amount of wealth. He was the distant relative of Imperial Navy Fleet Admiral Kendal Ozzel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Carida/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ozzel_family",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Mineral/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Fleet_Admiral/Legends",
+  "/wiki/Kendal_Ozzel/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mann_Ozzel",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_4",
+  "/wiki/Databank_(original)"
+ ]
+}

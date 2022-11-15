@@ -1,0 +1,47 @@
+{
+ "name": "Trenar_Stillijan",
+ "display_name": "Trenar Stillijan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Garos IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trenar Stillijan was the husband of Keriin Haslip. The adventurous type, he left Garos IV and joined the army. Stillijan was killed on a battlefield far from his homeworld.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Garos_IV",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Keriin_Haslip",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Turning_Point_(Charlene_Newcomb)",
+  "/wiki/Star_Wars_Adventure_Journal_5"
+ ]
+}

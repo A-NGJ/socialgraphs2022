@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Aqualish_security_officer",
+ "display_name": "Unidentified Aqualish security officer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 26 ABY, an Aqualish security officer ordered the destruction of a starship used by Jedi Knight Dorsk 82 in an attempt to rescue a number of droids from a mob on the planet Ando. He later attempted to capture Dorsk 82 to turn him over to the Yuuzhan Vong, but the Jedi was killed in the ensuing altercation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/26_ABY",
+  "/wiki/Dorsk_82%27s_starship",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Dorsk_82",
+  "/wiki/Droid/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Death/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Aqualish_security_officer",
+  "/wiki/The_New_Jedi_Order:_Edge_of_Victory_I:_Conquest"
+ ]
+}

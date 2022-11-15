@@ -1,5 +1,6 @@
 {
  "name": "Chakka",
+ "display_name": "Chakka",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Chakka was an Ewok.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ewok/Legends",

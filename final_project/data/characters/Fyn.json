@@ -1,5 +1,6 @@
 {
  "name": "Fyn",
+ "display_name": "Fyn",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Fyn was a clone trooper sergeant who fought in the battle of Kothlis. He single-handedly saved some clone trooper when they were in trouble. After the battle, he brought a datapad with updated data on the previous bet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kamino/Legends",

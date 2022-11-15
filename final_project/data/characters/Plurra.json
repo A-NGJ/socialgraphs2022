@@ -1,5 +1,6 @@
 {
  "name": "Plurra",
+ "display_name": "Plurra",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Plurra was a Vratix slave that worked at the Plastoid Pitt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Thyferra/Legends",

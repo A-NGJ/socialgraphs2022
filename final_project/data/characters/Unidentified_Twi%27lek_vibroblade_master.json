@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Twi%27lek_vibroblade_master",
+ "display_name": "Unidentified Twi'lek vibroblade master",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3643 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Twi'lek bounty hunter from the planet Ord Mantell who was considered to be a master with a vibroblade attempted to enter the Great Hunt in 3643 BBY, but Tarro Blood had his crew sabotage the Twi'lek, successfully eliminating the vibroblade master as Blood's competition.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Unidentified_Twi%27lek_vibroblade_master",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Vibroblade/Legends",
+  "/wiki/Great_Hunt_(competition)",
+  "/wiki/Tarro_Blood",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Solwyn_Tamm",
+ "display_name": "Solwyn Tamm",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solwyn Tamm was a Human male, who was a student at the Dorumaa Research Institute on Dorumaa during the time of the Clone Wars.\nHe once traveled with the Heroes of Cularin in a submarine, to observe the two Dorumaan leviathans, Jessel and Titon. However they discovered that Jessel had been stolen and they tried to find the creature. They also rescued the Kel Dor scientist A. Rahring and he and Tamm disagreed over their scientific views on the leviathans. They were later able to free Jessel and they traveled back to Greentree Pointe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dorumaa_Research_Institute",
+  "/wiki/Dorumaa",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/Dorumaan_leviathan",
+  "/wiki/Jessel",
+  "/wiki/Titon",
+  "/wiki/Kel_Dor/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/A._Rahring",
+  "/wiki/Greentree_Pointe",
+  "/wiki/Dorumaa%27s_Children"
+ ]
+}

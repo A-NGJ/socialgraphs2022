@@ -1,0 +1,62 @@
+{
+ "name": "Taray",
+ "display_name": "Taray",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bavva"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nothoiin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bespin Wing Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Nothoiin Taray served as one of the few non-Human members of the Wing Guard of Cloud City. He was more concerned with upholding the spirit of the law, and sometimes technically broke laws in order to do so. After Cloud City declined under Imperial captain Treece, Taray left to find other work in the Javin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bavva/Legends",
+  "/wiki/Nothoiin_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bespin_Wing_Guard/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Hugo_Treece",
+  "/wiki/Javin_sector",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Taray",
+  "/wiki/Wizards.com",
+  "/wiki/Rough_and_Tundra"
+ ]
+}

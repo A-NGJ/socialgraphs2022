@@ -1,0 +1,58 @@
+{
+ "name": "Zueb_Zan",
+ "display_name": "Zueb Zan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zueb Zan was Syal Antilles' gunner during the Battle of Tralus in the Second Galactic Civil War. Hailing from Sullust, Zan was among the first involved to test the Aleph starfighter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Syal_Antilles",
+  "/wiki/Gunner/Legends",
+  "/wiki/Battle_of_Tralus_(Second_Galactic_Civil_War)",
+  "/wiki/Second_Galactic_Civil_War",
+  "/wiki/Sullust/Legends",
+  "/wiki/Aleph-class_starfighter",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Legacy_of_the_Force:_Betrayal",
+  "/wiki/Legacy_of_the_Force:_Fury"
+ ]
+}

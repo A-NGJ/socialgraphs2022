@@ -1,0 +1,49 @@
+{
+ "name": "Jered_Pole",
+ "display_name": "Jered Pole",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jered Pole was a male lieutenant who served in the Rebel Alliance during the Galactic Civil War. Around 0 BBY, he posed as a gambler where he started an information-gathering mission on the planet Goroth Prime.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Operation:_Starbird",
+  "/wiki/Planet/Legends",
+  "/wiki/Goroth_Prime",
+  "/wiki/Goroth:_Slave_of_the_Empire"
+ ]
+}

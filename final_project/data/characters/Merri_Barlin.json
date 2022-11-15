@@ -1,0 +1,54 @@
+{
+ "name": "Merri_Barlin",
+ "display_name": "Merri Barlin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy's officer corps",
+      "Imperial Navy's officer corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Merri Barlin was a female human ensign in the the Imperial Navy who served aboard the Gozanti-class cruiser Blood Crow.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy%27s_officer_corps",
+  "/wiki/Ensign",
+  "/wiki/Imperial_Navy",
+  "/wiki/Gozanti-class_cruiser",
+  "/wiki/Blood_Crow",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Merri_Barlin",
+  "/wiki/Thrawn_(novel)",
+  "/wiki/Thrawn_(audiobook)",
+  "/wiki/Thrawn_2"
+ ]
+}

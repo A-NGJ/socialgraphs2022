@@ -1,0 +1,85 @@
+{
+ "name": "Tyerell_family",
+ "display_name": "Tyerell family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Parental"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Aleena"
+     ]
+    },
+    {
+     "name": "Matriarch(s)",
+     "values": [
+      "Mrs. Tyerell"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Ratts Tyerell"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Aleen"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "32 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "Ratts Tyerell Foundation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Tyerell family was an Aleena family from Aleen. One famous member of the family was professional Podracer pilot Ratts Tyerell. His son Deland also was a large opponent of the podracing industry after it killed Ratts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Aleena/Legends",
+  "/wiki/Mrs._Tyerell",
+  "/wiki/Ratts_Tyerell/Legends",
+  "/wiki/Aleen/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Ratts_Tyerell_Foundation/Legends",
+  "/wiki/Podracer/Legends",
+  "/wiki/Deland_Tyerell/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Doby_Tyerell",
+  "/wiki/Djulla_Tyerell",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Jedi_Quest:_The_Dangerous_Games",
+  "/wiki/Star_Wars_Chronicles:_The_Prequels"
+ ]
+}

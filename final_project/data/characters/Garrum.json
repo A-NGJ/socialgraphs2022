@@ -1,5 +1,6 @@
 {
  "name": "Garrum",
+ "display_name": "Garrum",
  "side_bars": [
   {
    "name": "Physical description",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "Garrum was a male Human who was serving in the Galactic Republic's SpecForce in the year 3643 BBY. During that year, he was observing the Migrant Merchants' Guild on the planet Coruscant and was assigned by General Garza to give Havoc Squad a mission to neutralize a cyborg inventor named Krel along with his inventions.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,84 @@
+{
+ "name": "Brimon_Yarar",
+ "display_name": "Brimon Yarar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Human League",
+      "Human League Heritage Squad",
+      "Human League Heritage Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brimon Yarar was a General in the anti-alien Human League, and lead the group's Heritage Squad. He had dark skin and dark hair. In 18 ABY, he was in charge of an archaeological dig on Corellia, in order to find an ancient underground repulsor. He gave a tour of the dig site to Leia Organa Solo and her family, during which Jacen, Jaina, and Anakin Solo broke away from the tour and found the repulsor, but decided not to tell Yarar. Later Yarar informed Thrackan Sal-Solo of Drall's repulsor being activated.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Brimon_Yarar",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Human_League",
+  "/wiki/Human_League_Heritage_Squad",
+  "/wiki/General/Legends",
+  "/wiki/18_ABY/Legends",
+  "/wiki/Planetary_repulsor",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Solo_family",
+  "/wiki/Darth_Caedus",
+  "/wiki/Jaina_Solo_Fel",
+  "/wiki/Anakin_Solo",
+  "/wiki/Thrackan_Sal-Solo",
+  "/wiki/Drall_(planet)",
+  "/wiki/Ambush_at_Corellia",
+  "/wiki/Showdown_at_Centerpoint",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

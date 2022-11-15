@@ -1,5 +1,6 @@
 {
  "name": "Handi",
+ "display_name": "Handi",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Handi was a legendary Espirion Jedi Master.\nSeveral archeologists tried to find his unknown resting place.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Espirion/Legends",

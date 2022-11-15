@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Quarren_Jedi_student",
+ "display_name": "Unidentified Quarren Jedi student",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Luke Skywalker"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unidentified Quarren Jedi student was a trainee at the Jedi Praxeum on Yavin 4. He was present at the Jedi wedding of Luke Skywalker and Mara Jade.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Quarren/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Jedi_Praxeum",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Wedding_of_Luke_Skywalker_and_Mara_Jade",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Star_Wars:_Union"
+ ]
+}

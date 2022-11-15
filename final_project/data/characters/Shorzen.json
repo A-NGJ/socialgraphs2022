@@ -1,5 +1,6 @@
 {
  "name": "Shorzen",
+ "display_name": "Shorzen",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Gunnery Sergeant Shorzen was an Imperial officer stationed aboard the Gauntlet. During the Battle of the Gauntlet he engaged Havoc Squad in combat, but was defeated and killed.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3642_BBY",

@@ -1,0 +1,72 @@
+{
+ "name": "Trandia",
+ "display_name": "Trandia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY aboard Darksaber"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Strawberry-blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trandia was a Human woman with blue eyes and long strawberry-blond hair. She was Crix Madine's most capable female commando. She killed herself by detonating her explosives onboard the Darksaber after being cornered by guards.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Darksaber_(superweapon)",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Crix_Madine/Legends",
+  "/wiki/Commando/Legends",
+  "/wiki/Suicide/Legends",
+  "/wiki/Darksaber_(novel)"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Tenga_Javik",
+ "display_name": "Tenga Javik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Walkway Collective"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tenga Javik was a female Human survivor of the Battle of Coruscant. She became a community leader of sorts near the ruins of what was once the Catier Walkway. The \"Walkway Collective\" survived by producing grayweave for sustenance and fighting the Yuuzhan Vong patrols using guerrilla tactics.\nTenga survived long enough to meet with Luke Skywalker's special forces team sent to investigate Coruscant and set up resistance cells.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Walkway_Collective",
+  "/wiki/Battle_of_Coruscant_(Yuuzhan_Vong_War)",
+  "/wiki/Catier_Walkway",
+  "/wiki/Grayweave",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/The_New_Jedi_Order:_Enemy_Lines_II:_Rebel_Stand",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

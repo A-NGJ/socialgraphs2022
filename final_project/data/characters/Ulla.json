@@ -1,0 +1,51 @@
+{
+ "name": "Ulla",
+ "display_name": "Ulla",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulla was a female Nautolan pilot who offered her services to the Republic Strategic Information Service during the Galactic War, a galaxy-spanning conflict fought between the Galactic Republic and the reconstituted Sith Empire.\nUlla appears as the starting NPC for Republic players to begin the Lost Island Flashpoint, which was added to the video game Star Wars: The Old Republic in Game Update 1.2.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Pilot/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Galactic_War",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Video_game"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Vaxan",
+ "display_name": "Vaxan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Verpine"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaxan was a male Verpine who worked in the Yarith Bespin casino, in Cloud City on the planet of Bespin. He failed to turn up for work one day, causing the casino's droid dealers to become worried about what had happened to him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Verpine/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Yarith_Bespin/Legends",
+  "/wiki/Casino/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Scavenger%27s_Guide_to_Droids"
+ ]
+}

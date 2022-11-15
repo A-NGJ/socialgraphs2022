@@ -1,5 +1,6 @@
 {
  "name": "Lister",
+ "display_name": "Lister",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Lister was a criminal who worked for the Sneevel Skraik. At one point, he stole parts from the Lasat, Garazeb Orrelios.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Special:Upload",

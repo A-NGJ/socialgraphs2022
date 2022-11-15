@@ -1,5 +1,6 @@
 {
  "name": "Myshurr",
+ "display_name": "Myshurr",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Myshurr was a male Human apprentice of the Sith Lord Ranor, who for betraying the Empire was killed along with him on Hoth.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3642_BBY",

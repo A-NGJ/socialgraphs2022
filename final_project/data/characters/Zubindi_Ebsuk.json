@@ -1,0 +1,64 @@
+{
+ "name": "Zubindi_Ebsuk",
+ "display_name": "Zubindi Ebsuk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Before 13 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Beldorion",
+      "Borga Besadii Diori"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zubindi Ebsuk was a male Kubaz provider of fine droch appetizers, often genetically modifying them for increased size and flavor which caused mutations to occur like Dzym. Borga was a large customer and like Beldorion hired him as his personal chef.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Beldorion",
+  "/wiki/Borga_Besadii_Diori",
+  "/wiki/Droch",
+  "/wiki/Dzym",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zubindi_Ebsuk",
+  "/wiki/Planet_of_Twilight",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_II:_Jedi_Eclipse",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

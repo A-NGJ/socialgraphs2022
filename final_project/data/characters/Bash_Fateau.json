@@ -1,0 +1,51 @@
+{
+ "name": "Bash_Fateau",
+ "display_name": "Bash Fateau",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Montitia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bash Fateau was a Human Male Corusca gem fisherman who fashioned a crew to find Corusca stones on Yavin Prime. As a young man, he flew agriflitters on Montitia, but spent all his savings to become a skiff pilot. He hoped that finding one or two gems would let him retire to a beach on a planet in the Core Worlds.\nFateau would dare to perform any action that showed off his piloting skills.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Montitia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corusca_gem/Legends",
+  "/wiki/Yavin_Prime/Legends",
+  "/wiki/Skiff/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Bash_Fateau",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

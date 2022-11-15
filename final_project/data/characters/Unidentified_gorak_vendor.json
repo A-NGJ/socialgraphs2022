@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_gorak_vendor",
+ "display_name": "Unidentified gorak vendor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Twi'lek male vendor sold fresh gorak on Asylum, which he advertised to a customer as being skewered, fried, and roasted shortly after the Rescue of the Outlander on Zakuul.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire",
+  "/wiki/Gorak_(creature)",
+  "/wiki/Asylum",
+  "/wiki/Rescue_of_the_Outlander",
+  "/wiki/Zakuul",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_gorak_vendor"
+ ]
+}

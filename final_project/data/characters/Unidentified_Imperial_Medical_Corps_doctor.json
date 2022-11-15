@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Imperial_Medical_Corps_doctor",
+ "display_name": "Unidentified Imperial Medical Corps doctor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Medical Corps",
+      "Imperial Medical Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male doctor was a member of the Imperial Medical Corps during the Great Galactic War, and he was sent to the ruins of the Jedi Temple to tend to the survivors of Darth Malgus's strike team.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Medical_Corps",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Jedi_Temple",
+  "/wiki/Darth_Malgus",
+  "/wiki/The_Old_Republic:_Deceived",
+  "/wiki/The_Old_Republic:_Deceived_(audiobook)"
+ ]
+}

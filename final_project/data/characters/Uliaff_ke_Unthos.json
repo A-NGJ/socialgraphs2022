@@ -1,0 +1,50 @@
+{
+ "name": "Uliaff_ke_Unthos",
+ "display_name": "Uliaff ke Unthos",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Adumar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uliaff ke Unthos was a male Human who served as the Cartann Minister of Notification. ke Unthos was responsible for sending out notification letters to the family members of Cartann duelists, informing them of the death of the duelist. ke Unthos had the honor of being introduced to General Wedge Antilles during Red Flight's diplomatic mission to the planet Adumar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Adumar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Cartann",
+  "/wiki/Minister_of_Notification",
+  "/wiki/Death/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Red_Flight",
+  "/wiki/Planet/Legends",
+  "/wiki/X-Wing:_Starfighters_of_Adumar"
+ ]
+}

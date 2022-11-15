@@ -1,0 +1,71 @@
+{
+ "name": "Unidentified_Naboo_security_guard",
+ "display_name": "Unidentified Naboo security guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal House of NabooRoyal Naboo Security Forces",
+      "Royal Naboo Security Forces",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human security guard lived on the planet of Naboo around 21 BBY when Supreme Chancellor Palpatine visited the planet to preside over a public ceremony, the Festival of Light. Before the Chancellor's speech, Jedi Knight Anakin Skywalker contacted this guard and bid him to activate a ray shield to protect the Chancellor during his speech, in which the guard willingly obliged.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Royal_House_of_Naboo/Legends",
+  "/wiki/Royal_Naboo_Security_Forces/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Supreme_Chancellor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Festival_of_Light/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Security_Guard/Legends",
+  "/wiki/Ray_shield/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Naboo_security_guard",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Crisis_on_Naboo"
+ ]
+}

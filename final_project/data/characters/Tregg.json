@@ -1,0 +1,70 @@
+{
+ "name": "Tregg",
+ "display_name": "Tregg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Trandosha"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3640 BBY",
+      "Emperor's Fortress"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tregg the Destroyer was a male Trandoshan leader of Trandoshan warriors that joined Darth Malgus' New Empire during the Galactic War. He was killed during the Battle of Ilum onboard Malgus' space station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Trandosha/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Emperor%27s_Fortress",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Empire",
+  "/wiki/Darth_Malgus",
+  "/wiki/Galactic_War",
+  "/wiki/Death/Legends",
+  "/wiki/Battle_of_Ilum",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tregg",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

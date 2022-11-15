@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Mandallian_Giant",
+ "display_name": "Unidentified Mandallian Giant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mandallian Giant"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Franchise"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3963 BBY, this Mandallian Giant competed in the final round of the Tandem Open. Wearing gold armor plates and a purple loincloth, they rode a swoop bike large enough to accommodate their size. They attempted to attack Aubin Kleej and Zayne Carrick, but Kleej's father leapt into the fray and dispatched the Mandallian Giant in order to protect Aubin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mandallian_Giant",
+  "/wiki/Franchise",
+  "/wiki/Bardron",
+  "/wiki/Knights_of_the_Old_Republic_41",
+  "/wiki/3963_BBY",
+  "/wiki/Tandem_Open",
+  "/wiki/Armor/Legends",
+  "/wiki/Swoop/Legends",
+  "/wiki/Aubin_Kleej",
+  "/wiki/Zayne_Carrick",
+  "/wiki/Goethar_Kleej"
+ ]
+}

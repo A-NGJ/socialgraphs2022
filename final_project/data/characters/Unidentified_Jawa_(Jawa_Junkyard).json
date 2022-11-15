@@ -1,0 +1,38 @@
+{
+ "name": "Unidentified_Jawa_(Jawa_Junkyard)",
+ "display_name": "Unidentified Jawa  (Jawa Junkyard)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Jawa worked at a junkyard on Tatooine where Astromech droids were put together from existing parts by workers. The Jawa praised and encouraged workers when they succeeded, but became irritated when they were not able to build the droids fast enough based on the Jawa's specifications.\nThis Jawa was also seen in the non-canon Star Wars Galactic Spy game, having left the junkyard to search for droids in Mos Eisley.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Jawa",
+  "/wiki/Jawa/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Star_Wars_Galactic_Spy",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Canon",
+  "/wiki/Jawa_Junkyard:_Droids"
+ ]
+}

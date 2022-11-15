@@ -1,0 +1,71 @@
+{
+ "name": "Solrak",
+ "display_name": "Solrak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lethan Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Korek"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Solrak was a male Lethan Twi'lek apprentice of the Sith Lord Korek during the Galactic War. Around 3640 BBY he was with his master on Voss, where Korek sent Solrak to bring back artifacts from the Nightmare Lands. The corruption of the place, however, was too strong and Solrak asked an Imperial to retrieve the artifacts for him instead.\nApprentice Solrak appears in the video game Star Wars: The Old Republic as an NPC on Voss, where he begins the mission \"Covetous\".",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lethan",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Korek",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/3640_BBY",
+  "/wiki/Voss",
+  "/wiki/Nightmare_Lands",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

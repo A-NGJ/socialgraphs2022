@@ -1,0 +1,48 @@
+{
+ "name": "Vaor_Khazlan",
+ "display_name": "Vaor Khazlan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaor Khazlan was a male Human and Mandalorian bounty hunter who lived during the Galactic War. In Raider's Cove on the planet Rishi, he helped train fellow bounty hunters who were willing learn from the veteran hunter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Raider%27s_Cove",
+  "/wiki/Planet/Legends",
+  "/wiki/Rishi/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Shadow_of_Revan"
+ ]
+}

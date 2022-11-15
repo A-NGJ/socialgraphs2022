@@ -1,0 +1,47 @@
+{
+ "name": "Keena_Devist",
+ "display_name": "Keena Devist",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Pakrik Minor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Keena Devist was the daughter of Carib and Lacy Devist and sister of Daberin Devist.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Pakrik_Minor",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Carib_Devist",
+  "/wiki/Lacy_Devist",
+  "/wiki/Daberin_Devist",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

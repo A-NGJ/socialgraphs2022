@@ -1,0 +1,49 @@
+{
+ "name": "Snayd",
+ "display_name": "Snayd",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Snayd was a male Bothan and a member of the New Republic Defense Force. He served as an aide to Admiral Traest Kre'fey.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Combined_Defense_Forces_of_the_New_Republic",
+  "/wiki/Admiral/Legends",
+  "/wiki/Traest_Kre%27fey",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Snayd",
+  "/wiki/The_New_Jedi_Order:_Destiny%27s_Way",
+  "/wiki/The_New_Jedi_Order:_Ylesia"
+ ]
+}

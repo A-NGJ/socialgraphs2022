@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Shistavanen_Jedi",
+ "display_name": "Unidentified Shistavanen Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shistavanen"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Shistavanen Jedi fought on Kamino, when the Separatists invaded the planet. The Jedi led some clone troopers through the corridors of the Security Sector Six. The droid forces bested them and killed all the troopers led by the Shistavanen. Then, the Jedi's lightsaber was disabled and had his right arm injured.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shistavanen/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/First_Battle_of_Kamino",
+  "/wiki/Planet/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Security_Sector_Six",
+  "/wiki/Droid/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Republic_50"
+ ]
+}

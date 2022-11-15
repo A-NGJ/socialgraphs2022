@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Human_healer",
+ "display_name": "Unidentified Human healer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A white-haired male Human comforted an injured man at some point during the Galactic Civil War. He wore a robe resembling that of the Jedi apparel.\nThis character was depicted on the \"Focus of Life\" card of the Champions of the Force, the base set of the Star Wars Galaxies Trading Card Game, which was illustrated by artist Kieran Yanner. Since the time period of the game is set around 0 ABY-3 ABY, it is uncertain whether this character may be identified as a proper member of the Jedi Order.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Jedi_apparel",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Kieran_Yanner",
+  "/wiki/0_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Template:SWGTCG"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "name": "Ttekket",
+ "display_name": "Ttekket",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ttekket was a male Jawa bounty hunter who worked with Cad Bane during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spices_%26_Spies",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cad_Bane/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ttekket",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.15",
+  "/wiki/Bane_vs_...Bane%3F",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.46"
+ ]
+}

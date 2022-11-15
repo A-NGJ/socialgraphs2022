@@ -1,0 +1,62 @@
+{
+ "name": "Windy_Starkiller%27s_father",
+ "display_name": "Windy Starkiller's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Windy Starkiller lived on Tatooine with his wife and their son. He and his wife sometimes visited the Lars homestead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Windy_Starkiller",
+  "/wiki/Windy_Starkiller%27s_mother",
+  "/wiki/Lars_homestead",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Windy_Starkiller%27s_father",
+  "/wiki/Luke_Skywalker%27s_Walkabout",
+  "/wiki/The_Essential_Guide_to_Alien_Species_(real-world_book)"
+ ]
+}

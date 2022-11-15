@@ -1,0 +1,32 @@
+{
+ "name": "Veerdo_Veerone",
+ "display_name": "Veerdo Veerone",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Veerdo Veerone was a Rodian dramatist and author of the famous play The Unquiet Spirit Arises From the Swamp.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Unquiet_Spirit_Arises_From_the_Swamp",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

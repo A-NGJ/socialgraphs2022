@@ -1,0 +1,40 @@
+{
+ "name": "Tremorfoot",
+ "display_name": "Tremorfoot",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mustafar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tulrus"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tremorfoot was a particularly strong and tough tulrus that lived on Tulrus Island on Mustafar at the time of the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mustafar/Legends",
+  "/wiki/Tulrus/Legends",
+  "/wiki/Tulrus_Island/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Trials_of_Obi-Wan",
+  "/wiki/Star_Wars_Galaxies:_The_Complete_Guide:_Prima_Official_Game_Guide"
+ ]
+}

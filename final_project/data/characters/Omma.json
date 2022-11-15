@@ -1,5 +1,6 @@
 {
  "name": "Omma",
+ "display_name": "Omma",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Omma was a momong who was available for sale as a pet during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wasskah/Legends",

@@ -1,5 +1,6 @@
 {
  "name": "Miles",
+ "display_name": "Miles",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Miles was a Twi'lek male who worked for House Thul during the Cold War. An electronics expert, he came up with a way to retake the Thul droid factory on the planet Alderaan—dataspikes inserted in the factory's terminals allowed him to remotely shut down the factory, retaking it from House Ulgo.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

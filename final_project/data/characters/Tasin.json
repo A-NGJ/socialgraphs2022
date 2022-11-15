@@ -1,0 +1,55 @@
+{
+ "name": "Tasin",
+ "display_name": "Tasin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nalroni"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jatayus Trading Consortium",
+      "Black Sun"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tasin was a female Nalroni who ran the Jatayus Trading Consortium.\nTasin was originally a promising trader until Sprax, the heir apparent to Jatayus Trading Consortium, left to work for Xizor Transport Systems. Tasin eventually became the new head of JTC and organized very lucrative deals with Jatayus Outbound and XTS. Tasin also supported numerous Black Sun activities along the Sisar Run, most of which Sprax was involved with.\nShe worked closely with Sprax throughout her tenure as head of JTC, and although they were not romantically involved, they were very good friends.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nalroni/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jatayus_Trading_Consortium",
+  "/wiki/Black_Sun/Legends",
+  "/wiki/Sprax",
+  "/wiki/Xizor_Transport_Systems/Legends",
+  "/wiki/Jatayus_Outbound",
+  "/wiki/Sisar_Run/Legends",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

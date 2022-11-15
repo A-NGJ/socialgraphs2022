@@ -1,0 +1,50 @@
+{
+ "name": "Bo_Vanda",
+ "display_name": "Bo Vanda",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bo Vanda was a female Zabrak practitioner of Sith alchemy in the old Sith Empire. She enjoyed torturing and performing cruel experiments on captured enemies, especially Jedi, and this contributed to her immense knowledge of alchemy. She later created a holocron that was controlled by Kla and also contained the knowledge of the warrior Komok-Da.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sith_Empire/Legends",
+  "/wiki/Sith_alchemist/Legends",
+  "/wiki/Sith_alchemy/Legends",
+  "/wiki/Torture/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Bo_Vanda%27s_holocron",
+  "/wiki/Kla_(Sith)",
+  "/wiki/Komok-Da",
+  "/wiki/The_Dark_Side_Sourcebook"
+ ]
+}

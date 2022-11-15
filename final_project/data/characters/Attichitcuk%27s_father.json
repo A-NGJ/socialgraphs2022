@@ -1,0 +1,48 @@
+{
+ "name": "Attichitcuk%27s_father",
+ "display_name": "Attichitcuk's father",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The father of Attichitcuk was a male Wookiee who emerged as a powerful Wookiee Chieftain in the last centuries of the Galactic Republic. He once killed another Wookiee in a duel, which provoked a lasting enmity between his clan and that of the deceased opponent.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Attichitcuk/Legends",
+  "/wiki/Wookiee_Chieftain",
+  "/wiki/Standard_century/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Chewbacca_(2000)_2"
+ ]
+}

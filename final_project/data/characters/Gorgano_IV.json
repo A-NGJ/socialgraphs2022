@@ -1,0 +1,50 @@
+{
+ "name": "Gorgano_IV",
+ "display_name": "Gorgano IV",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tapani Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gorgano IV was the Emperor of the Tapani sector. The Gorgano IV Museum, in the Historical District of Estalle Island on Procopia, was named after the former Emperor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tapani_Empire",
+  "/wiki/Emperor_(Tapani)",
+  "/wiki/Tapani_sector/Legends",
+  "/wiki/Gorgano_IV_Museum",
+  "/wiki/Estalle_Island",
+  "/wiki/Procopia/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Gorgano_IV",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

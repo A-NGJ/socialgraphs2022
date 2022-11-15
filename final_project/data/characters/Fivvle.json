@@ -1,5 +1,6 @@
 {
  "name": "Fivvle",
+ "display_name": "Fivvle",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Fivvle was the foreman of a Republic mining outpost that mined for tibanna near Mirial during the Clone Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Foreman/Legends",

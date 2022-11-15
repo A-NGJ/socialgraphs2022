@@ -1,0 +1,64 @@
+{
+ "name": "Wurf%27al",
+ "display_name": "Wurf'al",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "36 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wurf'al was a male Bothan who was a captain onboard the Admiral Ackbar who was related to Avke Saz'ula by marriage, which gave him a disdain for Jedi, and was the great nephew of Admiral Nek Bwua'tu. He was killed by Gorog assassins trying to save a bust of the \"great\" Admiral.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/36_ABY",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Captain/Legends",
+  "/wiki/Admiral_Ackbar_(Victory-class)",
+  "/wiki/Avke_Saz%27ula",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Admiral/Legends",
+  "/wiki/Nek_Bwua%27tu",
+  "/wiki/Gorog",
+  "/wiki/Assassin/Legends",
+  "/wiki/Dark_Nest_II:_The_Unseen_Queen",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

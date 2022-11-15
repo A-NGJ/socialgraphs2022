@@ -1,5 +1,6 @@
 {
  "name": "Reegor",
+ "display_name": "Reegor",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Reegor was a Lepi male and one of Jaxxon T. Tumperakki's many cousins.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lepi",

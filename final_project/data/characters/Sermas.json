@@ -1,5 +1,6 @@
 {
  "name": "Sermas",
+ "display_name": "Sermas",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Sermas was a young Corellian male Human who worked for Oridelve Incorporated on the planet Gavos. He was gunned down and killed in the mining complex during the Gavos Droid Revolution.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Corellia/Legends",

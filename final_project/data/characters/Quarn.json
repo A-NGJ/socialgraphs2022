@@ -1,5 +1,6 @@
 {
  "name": "Quarn",
+ "display_name": "Quarn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Quarn was a Human male who was a captain in the military forces of House Organa on the planet Alderaan during the Cold War between the Galactic Republic and the Sith Empire. Stationed at Wardpost Luurdes, he received the slaves who had been freed from the Killik-controlled House Syrush estate on the orders of Elz Organa.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

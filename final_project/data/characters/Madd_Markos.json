@@ -1,0 +1,36 @@
+{
+ "name": "Madd_Markos",
+ "display_name": "Madd Markos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Madd Markos was a space pirate. He was seen in the Tatoo system in 1 ABY, attacking other spacecraft in his BTL Y-wing starfighter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Tatoo_system/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/BTL_Y-wing_starfighter/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Star_Wars_Galaxies:_Jump_to_Lightspeed"
+ ]
+}

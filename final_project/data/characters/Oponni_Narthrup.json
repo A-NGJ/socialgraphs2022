@@ -1,0 +1,48 @@
+{
+ "name": "Oponni_Narthrup",
+ "display_name": "Oponni Narthrup",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Oponni Narthrup was a female Human who served the Rebel Alliance during the Galactic Civil War. Narthrup was stationed at the shadowport Vergesso Base, in the Vergesso Asteroids, where she acted as an Alliance liaison.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Shadowport/Legends",
+  "/wiki/Vergesso_Base",
+  "/wiki/Vergesso_Asteroids/Legends",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

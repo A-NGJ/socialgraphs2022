@@ -1,5 +1,6 @@
 {
  "name": "Givens",
+ "display_name": "Givens",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Givens was a human individual who served the Galactic Empire as an ambassador. Ambassador Givens accompanied Secretary Osrund and were hosted by General Palton on the Core World Bar'leth for the Imperial Unity Day parade, which was disrupted by a Rebel Alliance strike.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Galactic_Empire",

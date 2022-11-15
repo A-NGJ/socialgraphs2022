@@ -1,0 +1,64 @@
+{
+ "name": "Yanus_Melikan",
+ "display_name": "Yanus Melikan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yanus Melikan, nicknamed Mel, was the Human male Corellian who served as cargo master for Javul Charn's private yacht, the Nova's Heart. Melikan was secretly a commander in the Alliance to Restore the Republic's Corellian Guard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Javul_Charn",
+  "/wiki/Yacht/Legends",
+  "/wiki/Nova%27s_Heart",
+  "/wiki/Commander/Legends",
+  "/wiki/Corellian_Guard",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Yanus_Melikan",
+  "/wiki/Shadow_Games",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

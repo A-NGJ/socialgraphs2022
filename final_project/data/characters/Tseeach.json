@@ -1,0 +1,59 @@
+{
+ "name": "Tseeach",
+ "display_name": "Tseeach",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Fyodos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Roh tribe"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tseeach was a Human male native to the planet Fyodos. He was the shaman of the Roh tribe. He had a son, Erloi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Fyodos",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Roh_tribe",
+  "/wiki/Planet/Legends",
+  "/wiki/Shaman/Legends",
+  "/wiki/Erloi",
+  "/wiki/Planets_of_the_Galaxy,_Volume_Two",
+  "/wiki/The_Star_Wars_Planets_Collection"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Nuke",
+ "display_name": "Nuke",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Nuke was the name of the pet miniature dwarf bantha owned by Pookie and Ebenn Q3 Baobab.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nuclear_bomb",

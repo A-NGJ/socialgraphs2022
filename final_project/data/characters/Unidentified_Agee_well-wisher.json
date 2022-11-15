@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Agee_well-wisher",
+ "display_name": "Unidentified Agee well-wisher",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Agee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a female Agee. She visited the anteroom of Chief of State Mon Mothma in 17 ABY, but quickly left after the astromech droid R2-D2 made a shrill sound in response to something his counterpart C-3PO was about to say.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Agee",
+  "/wiki/Gender/Legends",
+  "/wiki/Chief_of_State_(New_Republic)",
+  "/wiki/Mon_Mothma/Legends",
+  "/wiki/17_ABY/Legends",
+  "/wiki/Astromech_droid/Legends",
+  "/wiki/R2-D2/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/The_New_Rebellion"
+ ]
+}

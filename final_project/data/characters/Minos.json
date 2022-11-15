@@ -1,5 +1,6 @@
 {
  "name": "Minos",
+ "display_name": "Minos",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Minos was a male Yuuzhan Vong warrior who served under commander Sha'kel. After the Battle of Artorias in 25 ABY he was stationed on the slaveship Tsam P'ah in orbit of the planet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Yuuzhan_Vong",

@@ -1,0 +1,66 @@
+{
+ "name": "Varen",
+ "display_name": "Varen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varen was a male Duros doctor and citizen of the Galactic Republic. During the Galactic War with the reconstituted Sith Empire he resisded at the Koss Overlook in the Gormak Lands on the planet Voss, he asked a Republic individual for assistance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Koss_Overlook",
+  "/wiki/Gormak_Lands",
+  "/wiki/Planet/Legends",
+  "/wiki/Voss",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Varen",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

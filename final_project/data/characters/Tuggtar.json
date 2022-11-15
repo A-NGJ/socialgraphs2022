@@ -1,0 +1,43 @@
+{
+ "name": "Tuggtar",
+ "display_name": "Tuggtar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ewok"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuggtar, nicknamed the \"TIE Killer,\" was an Ewok from the Forest Moon of Endor. Tuggtar single-handedly sabotaged an entire Imperial landing platform.\nA plush figure of Tuggtar appeared as a dashboard item in the 2020 starfighter video game Star Wars: Squadrons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ewok",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Endor",
+  "/wiki/Galactic_Empire",
+  "/wiki/Hangar",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tuggtar",
+  "/wiki/2020",
+  "/wiki/Starfighter",
+  "/wiki/Star_Wars:_Squadrons"
+ ]
+}

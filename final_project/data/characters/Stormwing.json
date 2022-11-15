@@ -1,0 +1,59 @@
+{
+ "name": "Stormwing",
+ "display_name": "Stormwing",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Taloraan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Fleft-wauf"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wind Raiders"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Jeru"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stormwing was a name of the personal fleft-wauf of the Wind Raider Jeru from Taloraan. In 21 BBY, the bird saved the life of Ahsoka Tano by catching her while she was falling from a great height. Later, it managed to destroy at least one Confederate Vulture Droid.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Taloraan/Legends",
+  "/wiki/Fleft-wauf/Legends",
+  "/wiki/Wind_Raiders/Legends",
+  "/wiki/Jeru",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I/Legends",
+  "/wiki/The_Clone_Wars:_The_Wind_Raiders_of_Taloraan"
+ ]
+}

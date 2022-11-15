@@ -1,5 +1,6 @@
 {
  "name": "Dom",
+ "display_name": "Dom",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Dom, also known as \"Bruiser,\" was a clone trooper during the Clone Wars. A member of Fil's Squad, the clone served as the squad's demolition expert.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Bruiser_(disambiguation)",

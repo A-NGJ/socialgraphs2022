@@ -1,0 +1,39 @@
+{
+ "name": "Jendo_Shriin",
+ "display_name": "Jendo Shriin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jendo Shriin was a Neimoidian spice dealer who operated in the Residential District of the city of Jorra on Cato Neimoidia during the reign of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Drug_dealer",
+  "/wiki/Residential_District_(Jorra)",
+  "/wiki/City/Legends",
+  "/wiki/Jorra",
+  "/wiki/Cato_Neimoidia/Legends",
+  "/wiki/Imperial_Period",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Chronicles_of_the_Gatekeeper"
+ ]
+}

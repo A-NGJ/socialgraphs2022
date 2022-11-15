@@ -1,0 +1,51 @@
+{
+ "name": "Triloc",
+ "display_name": "Triloc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Feminine personality"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Desilijic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Triloc was a Hutt with a feminine personality who was a member of the Desilijic kajidic. During the time of the Galactic Civil War, Triloc held a mid-level position within the Desilijic clan and in charge of a part of Desilijic's extortion and acquisitions business. She operated primarily from the moon Nar Shaddaa and hired various bounty hunters, thugs, pirates and mercenaries to support her clan's activities.\nTriloc was ambitious and sought to advance to a more powerful position within Desilijic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Desilijic/Legends",
+  "/wiki/Kajidic/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

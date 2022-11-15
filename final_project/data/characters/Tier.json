@@ -1,0 +1,71 @@
+{
+ "name": "Tier",
+ "display_name": "Tier",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY on S'krrr"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tier was a lieutenant in the Imperial Navy who served on the Imperial-class Star Destroyer Vengeance during the Galactic Civil War. Nine months after the Battle of Yavin, Tier and Lieutenant Wolver accompanied Captain Thrawn on a trip to S'krrr to study S'krrr art. After Wolver was later found dead in the Sikadian Gardens, Tier assisted Thrawn in launching a murder investigation. The likely cause of death was believed to have been wounds caused by a vibropike and, when such a weapon was found hidden in the undergrowth, Tier accompanied Thrawn to arrest its owner, the S'krrr poet and warrior, Sh'shak. As Sh'shak attempted to prove his innocence to Thrawn, the captain dispatched Tier to find the garden's caretaker, Vroon. On his way to the caretaker's workshop, Tier was attacked by a swarm of drog beetles. The lieutenant fled back to where he had left Thrawn but it was too late—the creatures crawled into his mouth, choking him to death before Thrawn could help him. Tier's death made it clear that Sh'shak was innocent and that it was the drog beetles that had been responsible for the deaths of both Imperials.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/S%27krrr",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Vengeance_(Imperial-class,_Jerec)",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Wolver",
+  "/wiki/Captain/Legends",
+  "/wiki/Mitth%27raw%27nuruodo/Legends",
+  "/wiki/S%27krrr_(species)",
+  "/wiki/Sikadian_Garden",
+  "/wiki/Vibropike",
+  "/wiki/Sh%27shak",
+  "/wiki/Vroon",
+  "/wiki/Drog",
+  "/wiki/Galaxy_of_Fear:_The_Swarm"
+ ]
+}

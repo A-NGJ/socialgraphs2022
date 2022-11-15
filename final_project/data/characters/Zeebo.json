@@ -1,0 +1,64 @@
+{
+ "name": "Zeebo",
+ "display_name": "Zeebo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yavin 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mooka"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Ken"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zeebo was the pet Mooka, a four-eared creature with both fur and feathers, belonging to the Jedi Prince Ken while he lived in the Lost City of the Jedi on Yavin 4. He was very loving towards his owner, and was always wanting to be with him. He also woke Ken up early every single day, by licking his face or going \"kshhh\" in his ear, much to Ken's annoyance.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yavin_4/Legends",
+  "/wiki/Mooka/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ken",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Jedi_Prince",
+  "/wiki/Lost_City_of_the_Jedi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zeebo",
+  "/wiki/The_Lost_City_of_the_Jedi",
+  "/wiki/Prophets_of_the_Dark_Side_(novel)",
+  "/wiki/The_Essential_Guide_to_Characters",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

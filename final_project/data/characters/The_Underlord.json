@@ -1,0 +1,80 @@
+{
+ "name": "The_Underlord",
+ "display_name": "The Underlord",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "During the Imperial Era"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Gillanium Syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"The Underlord\" was an Aqualish male who was leader of the Gillanium Syndicate and the father of Venga Liss.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Underlord_(disambiguation)",
+  "/wiki/Imperial_Era",
+  "/wiki/Aqualish",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Gillanium_Syndicate",
+  "/wiki/Parent",
+  "/wiki/Venga_Liss",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/The_Underlord",
+  "/wiki/The_Long_Game_(Age_of_Rebellion)",
+  "/wiki/Age_of_Rebellion_Special_1"
+ ]
+}

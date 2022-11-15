@@ -1,0 +1,60 @@
+{
+ "name": "Toronaxx",
+ "display_name": "Toronaxx",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Malastare"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dug"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Dugs-for-Democracy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toronaxx was the public face of Dugs-for-Democracy. She issued public statements following the death of Senator Aks Moe and the appointment of his successor Ask Aak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Malastare/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dugs-for-Democracy",
+  "/wiki/Senator/Legends",
+  "/wiki/Aks_Moe/Legends",
+  "/wiki/Ask_Aak/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_51",
+  "/wiki/HoloNet_News_Vol._531_53"
+ ]
+}

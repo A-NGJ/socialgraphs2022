@@ -1,0 +1,46 @@
+{
+ "name": "Krovi_family",
+ "display_name": "Krovi family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Irizi family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Krovi family was a Chiss family in the Chiss Ascendancy, the nation of the Chiss species. They were once allies of the ruling Irizi family, but after Senior Captain Thrawn of the ruling Mitth family—who were political adversaries of the Irizi—discovered advanced shield technology, the Krovi ended their alliance with the Irizi.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Irizi_family",
+  "/wiki/Chiss_family",
+  "/wiki/Species",
+  "/wiki/Nine_Ruling_Families",
+  "/wiki/Senior_Captain",
+  "/wiki/Mitth%27raw%27nuruodo",
+  "/wiki/Mitth_family",
+  "/wiki/Thrawn_Ascendancy:_Greater_Good",
+  "/wiki/Thrawn_Ascendancy:_Greater_Good_(audiobook)",
+  "/wiki/Thrawn_Ascendancy:_Lesser_Evil",
+  "/wiki/Thrawn_Ascendancy:_Lesser_Evil_(audiobook)"
+ ]
+}

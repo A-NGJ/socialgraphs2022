@@ -1,5 +1,6 @@
 {
- "name": "Mar'ek",
+ "name": "Mar%27ek",
+ "display_name": "Mar'ek",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -56,7 +57,7 @@
   }
  ],
  "content": "Mar'ek was an Advanced Recon Commando under the command of Senior Jedi General Darrus Jeht.\nMar'ek was told to execute Order 66 while they were in the Cularin system. He tried to kill Darrus as he exited a turbolift, but Jeht was expecting it. The Jedi killed his bodyguard and then stabbed his lightsaber through Mar'ek's face.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kamino/Legends",

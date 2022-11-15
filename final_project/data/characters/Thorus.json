@@ -1,0 +1,65 @@
+{
+ "name": "Thorus",
+ "display_name": "Thorus",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark-Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thorus was a Human male Sith-Imperial officer who served the Sith Empire during the Cold War.\nDuring the Cold War, Thorus was responsible for the execution of hundreds of civilian and full-scale bombings on unarmed populations. These actions were committed in circumvention to the direct commands of Imperial High Command. Thorus regretted his actions, but he continued his service to the Empire.\nIn 3643 BBY, the CO of Havoc Squad ran into Colonel Thorus, an Imperial officer Elara was familiar with. Once Thorus gave the information Havoc needed, Elara advised executing him to prevent him from committing any more atrocities. However, the lieutenant let Thorus go. Thorus was pleased and possibly left the Empire for everything he committed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_officer",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Imperial_High_Command_(Sith_Empire)",
+  "/wiki/Light_side_of_the_Force/Legends",
+  "/wiki/Canon",
+  "/wiki/3643_BBY",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Havoc_Squad",
+  "/wiki/Elara_Dorne",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

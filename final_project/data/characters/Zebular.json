@@ -1,0 +1,46 @@
+{
+ "name": "Zebular",
+ "display_name": "Zebular",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Holographic lifeform"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male personality"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Tharan Cedrax"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zebular was a holographic lifeform that was Tharan Cedrax's assistant. Zebular was given as a gift to Cedrax from Holiday, his companion, who left Cedrax to travel the galaxy. Zebular took the form of a male Houk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hologram/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tharan_Cedrax",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught",
+  "/wiki/Holiday_(hologram)",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Houk/Legends"
+ ]
+}

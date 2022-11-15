@@ -1,0 +1,70 @@
+{
+ "name": "Lynx_Reglis",
+ "display_name": "Lynx Reglis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Chandrila"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lynx Reglis was a female Human officer of the Galactic Empire, an impersonator to the smuggler Sapphire and later a fugitive to the Empire.\nThe daughter of Chandrilan gambler Aelon Reglis and his wife, Lynx Reglis went to the Corulag Academy and graduated as an IntSec investigator. Her father gave her his ship, the Adventurer, a Crescent-class transport Mark II built by Hyrotii Corporation, as a graduation gift, partly because he had almost not used the ship in eighteen years. He hoped she could use the ship more than him.\nOfficer Lynx was then assigned to the Imperial base on Nigel III, in the Kira sector, and she performed many planetary activities, not using her ship.\nAt a certain point, Commodore Dane Tizzin, Naval attach to the staff of the sectorial Moff, became the target of an assassination plot. Officer Reglis impersonated Sapphire, a smuggler and Rebel agent, to save Tizzin.\nShe then decided to replace the Adventurer's sensor package with a counter-sensor package to have a stealthy ship, something she reasoned could be useful. Before she and a technician could finish the customization, Lynx was implicated in an information leak of the Nigel base, and she was forced to flee from the Imperial military justice. She left behind her ship and other personal possessions for the Empire to impound.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Sapphire_(smuggler)",
+  "/wiki/Gambling/Legends",
+  "/wiki/Aelon_Reglis",
+  "/wiki/Corulag_Academy",
+  "/wiki/Internal_Security_Branch",
+  "/wiki/Adventurer_(Crescent-class)",
+  "/wiki/Crescent-class_Transport",
+  "/wiki/Hyrotii_Corporation/Legends",
+  "/wiki/Nigel_III",
+  "/wiki/Kira_sector",
+  "/wiki/Commodore/Legends",
+  "/wiki/Dane_Tizzin",
+  "/wiki/Moff/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Stock_Ships"
+ ]
+}

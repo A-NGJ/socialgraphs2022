@@ -1,5 +1,6 @@
 {
  "name": "Rokey",
+ "display_name": "Rokey",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Rokey also known as Rokey the Hutt was a member of the Hutt Species, it was said Rokey had treasure buried in the Dune Sea but it was just a prank.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hutt",

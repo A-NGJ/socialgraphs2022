@@ -1,0 +1,38 @@
+{
+ "name": "Ashwyn_Tejera",
+ "display_name": "Ashwyn Tejera",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ashwyn Tejera was a Human male researcher working with Hacken Berge on the planet Taris around the year 3643 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hacken_Berge",
+  "/wiki/Planet/Legends",
+  "/wiki/Taris/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ashwyn_Tejera",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

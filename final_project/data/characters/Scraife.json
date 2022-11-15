@@ -1,5 +1,6 @@
 {
  "name": "Scraife",
+ "display_name": "Scraife",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Scraife was a male Twi'lek Lieutenant of the Galactic Republic. He was stationed on Belsavis during the Invasion of Belsavis by the Sith Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

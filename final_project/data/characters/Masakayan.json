@@ -1,5 +1,6 @@
 {
  "name": "Masakayan",
+ "display_name": "Masakayan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Masakayan was a Tarro Lieutenant Commander in the forces of the Alliance to Restore the Republic.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Tarro",

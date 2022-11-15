@@ -1,0 +1,46 @@
+{
+ "name": "Terno",
+ "display_name": "Terno",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kitonak"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Terno was a Kitonak musician who lived during the Galactic Civil War. A vital member of the Alliance to Restore the Republic in the Minos Cluster, Terno led a Kitonak band in a traveling circus that was actually a front for the Alliance. Terno was the leader of the Alliance team, although publicly, Terno was merely the director of the band. They hired a tramp freighter to transport them from the planet Adarlon to the Yelsain, searching for information regarding the whereabouts of their leader, Drun Cairnwick, and attempting to reestablish a Rebel network.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kitonak/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Musician/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Minos_Cluster/Legends",
+  "/wiki/Tramp_freighter",
+  "/wiki/Planet/Legends",
+  "/wiki/Adarlon/Legends",
+  "/wiki/Yelsain/Legends",
+  "/wiki/Drun_Cairnwick",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters_(Second_Edition)",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

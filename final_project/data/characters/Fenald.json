@@ -1,5 +1,6 @@
 {
  "name": "Fenald",
+ "display_name": "Fenald",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -48,7 +49,7 @@
   }
  ],
  "content": "Fenald was the chief of security for Kuat Drive Yards in 4 ABY and, in particular, a lackey to the Kuat of Kuat. Fenald secretly plotted with Kodir of Kuhlvult to take control of a shipyard during the rise of the Galactic Empire. Kodir betrayed him, however, by slitting his throat when he requested payment.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kuat/Legends",

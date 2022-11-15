@@ -1,0 +1,44 @@
+{
+ "name": "Vreego",
+ "display_name": "Vreego",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vreego was a male Rodian who lived during the waning years of the Galactic Republic. He worked for the Twi'lek Ilb Toranda and during the time of the Clone Wars, Toranda sent Vreego and the Human Krael to purchase some illegal weapons from a Human woman in the city Hedrett on the planet Cularin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Ilb_Toranda",
+  "/wiki/Time/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Krael",
+  "/wiki/City/Legends",
+  "/wiki/Hedrett",
+  "/wiki/Planet/Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Stone_and_Steel"
+ ]
+}

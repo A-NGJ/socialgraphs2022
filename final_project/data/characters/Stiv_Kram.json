@@ -1,0 +1,48 @@
+{
+ "name": "Stiv_Kram",
+ "display_name": "Stiv Kram",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Katanos VII"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stiv Kram was a Human male who led the mining colony on Katanos VII.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Katanos_VII",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mining/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Stiv_Kram",
+  "/wiki/Rather_Darkness_Visible",
+  "/wiki/Star_Wars_Tales_19",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

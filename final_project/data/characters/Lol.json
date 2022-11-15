@@ -1,5 +1,6 @@
 {
  "name": "Lol",
+ "display_name": "Lol",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -54,7 +55,7 @@
   }
  ],
  "content": "Lol was a male native of Solem, living during the Galactic Civil War. He was part of a resistance movement against the planetary Governor, Malvander Bren.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Lol_(disambiguation)",

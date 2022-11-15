@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Republic_official",
+ "display_name": "Unidentified Republic official",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human female served as an official in Coruscant during the High Republic Era. After Scover Byne was arrested by the Republic officers. This officer went to check out the starship Vessel. She didn't found anything illegal on board. Later she told to Affie Hollow that she is the new owner of that starship",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Republic",
+  "/wiki/Coruscant",
+  "/wiki/High_Republic_Era",
+  "/wiki/Scover_Byne",
+  "/wiki/Vessel",
+  "/wiki/Affie_Hollow",
+  "/wiki/The_High_Republic:_Into_the_Dark",
+  "/wiki/The_High_Republic:_Into_the_Dark_(audiobook)"
+ ]
+}

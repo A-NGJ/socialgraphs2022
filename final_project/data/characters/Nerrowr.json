@@ -1,5 +1,6 @@
 {
  "name": "Nerrowr",
+ "display_name": "Nerrowr",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Nerrowr was a Wookiee who, along with the Rodians Nesha, Besha, and Kesha, once worked for Riboga the Hutt.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookiee/Legends",

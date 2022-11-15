@@ -1,5 +1,6 @@
 {
  "name": "Roy",
+ "display_name": "Roy",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Roy was an Ugnaught male mechanist who lived with his family on the planet Tiikae. He and his family were killed by the Nihil after the theft of a puzzle box containing important coordinates.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Roy_(disambiguation)",

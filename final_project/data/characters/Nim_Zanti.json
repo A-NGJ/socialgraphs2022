@@ -1,0 +1,59 @@
+{
+ "name": "Nim_Zanti",
+ "display_name": "Nim Zanti",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ororo Transportation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nim Zanti was an Ororo Transportation lieutenant assigned to Vergesso Base in the Vergesso III asteroid belt during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ororo_Transportation/Legends",
+  "/wiki/Tenloss_Syndicate/Legends",
+  "/wiki/Vergesso_Base",
+  "/wiki/Vergesso_III",
+  "/wiki/Asteroid_belt",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nim_Zanti",
+  "/wiki/West_End_Games",
+  "/wiki/Will_the_Last_Person_Leaving_Vergesso_Turn_Off_the_Lights%3F",
+  "/wiki/Shadows_of_the_Empire_Planets_Guide",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

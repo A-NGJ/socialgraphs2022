@@ -1,5 +1,6 @@
 {
  "name": "Ferrule",
+ "display_name": "Ferrule",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -73,7 +74,7 @@
   }
  ],
  "content": "Ferrule was an orbak from Kef Bir, owned by Jannah, the leader of a tribe of former First Order stormtrooper defectors.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Kef_Bir",

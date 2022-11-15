@@ -1,0 +1,51 @@
+{
+ "name": "Zokar",
+ "display_name": "Zokar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Czerka Corporation",
+      "Czerka Sentient Resources Department",
+      "Czerka Sentient Resources Department"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zokar was an employee of Czerka Corporation who worked in the Czerka Sentient Resources Department as the Security Commander during the Galactic War between the Galactic Republic and the Sith Empire.\nDuring his fifteen year employment, he has protected some of Czerka's most sensitive and advanced facilities, and served on security details for four different Special Executives – including Rasmus Blys.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Czerka_Arms/Legends",
+  "/wiki/Czerka_Sentient_Resources_Department",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Rasmus_Blys",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

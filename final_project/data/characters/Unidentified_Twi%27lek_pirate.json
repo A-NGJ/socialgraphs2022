@@ -1,0 +1,74 @@
+{
+ "name": "Unidentified_Twi%27lek_pirate",
+ "display_name": "Unidentified Twi'lek pirate",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY",
+      "Unidentified pirate space station"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Crymorah-backed pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Unidentified Twi'lek pirate, was a male Twi'lek who lived during the reign of the Galactic Empire. He was killed by the Sith Lord Darth Vader during an attack on the pirate base where he was stationed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_ABY",
+  "/wiki/Unidentified_pirate_space_station",
+  "/wiki/Twi%27lek",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Crymorah-backed_pirates",
+  "/wiki/Galactic_Empire",
+  "/wiki/Sith_Lord",
+  "/wiki/Anakin_Skywalker",
+  "/wiki/Attack_on_an_unidentified_pirate_base",
+  "/wiki/Darth_Vader_(2015)_2"
+ ]
+}

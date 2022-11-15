@@ -1,0 +1,73 @@
+{
+ "name": "Vorel",
+ "display_name": "Vorel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Guard",
+      "Imperial Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vorel was a Human female commander of the Imperial Guard of the reconstituted Sith Empire during the Galactic War stationed on Belsavis. Vorel tasked an Imperial spacer to recover the construction plans of the Tomb with hopes of creating a lookalike space station.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Guard",
+  "/wiki/Commander/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/The_Tomb",
+  "/wiki/Space_station/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vorel",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

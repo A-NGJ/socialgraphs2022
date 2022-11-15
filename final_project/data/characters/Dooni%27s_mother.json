@@ -1,0 +1,57 @@
+{
+ "name": "Dooni%27s_mother",
+ "display_name": "Dooni's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Endor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Foonar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dooni's mother was a quadruped who lived on the forest moon of Endor. The protective mother of Dooni, she was the leader of her Foonar herd. She was once enslaved by a species of green-skinned harvesters from another world. She was later freed from her shackles by Wicket Wystri Warrick, Princess Kneesaa a Jari Kintaka, and her own Dooni. She then helped the Ewoks turn the slavers' own harvester machine against them, driving them away from the forest moon.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Foonar",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Dooni",
+  "/wiki/Unidentified_alien_woodsmen",
+  "/wiki/Wicket_Wystri_Warrick/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Kneesaa_a_Jari_Kintaka",
+  "/wiki/Ewok/Legends",
+  "/wiki/Harvester",
+  "/wiki/Ewoks_5"
+ ]
+}

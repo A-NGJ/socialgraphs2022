@@ -1,0 +1,49 @@
+{
+ "name": "Vayla_Sevren",
+ "display_name": "Vayla Sevren",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Thaereian military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vayla Sevren was a Human who was a Major in the Thaereian military. She commanded the base on Dorumaa and led Thaereian forces there during the Battle of Dorumaa. After the battle, she met with Major Ren Terlo of the Cularin Militia, to negotiate the base's surrender.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Thaereian_military",
+  "/wiki/Major/Legends",
+  "/wiki/Dorumaa_Base",
+  "/wiki/Dorumaa",
+  "/wiki/Battle_of_Dorumaa",
+  "/wiki/Ren_Terlo",
+  "/wiki/Cularin_Militia",
+  "/wiki/Decision:_Cularin"
+ ]
+}

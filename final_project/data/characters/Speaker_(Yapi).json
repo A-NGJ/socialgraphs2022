@@ -1,0 +1,62 @@
+{
+ "name": "Speaker_(Yapi)",
+ "display_name": "Speaker  (Yapi)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kathol"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yapi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Red Claw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Speaker was a Yapi shaman and member of the Red Claw tribe living on Kathol. Speaker was one of the first inhabitants to encounter the crew of the FarStar and helped to ally various tribes and species to aid them in their fight against DarkStryder.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Speaker_(disambiguation)",
+  "/wiki/Kathol_(planet)",
+  "/wiki/Yapi",
+  "/wiki/Gender/Legends",
+  "/wiki/Red_Claw_(tribe)",
+  "/wiki/Shaman/Legends",
+  "/wiki/FarStar",
+  "/wiki/Species/Legends",
+  "/wiki/DarkStryder",
+  "/wiki/The_DarkStryder_Campaign_(series)",
+  "/wiki/Endgame_(RPG_adventure)",
+  "/wiki/Endgame"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Targob_Tunall",
+ "display_name": "Targob Tunall",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Targob Tunall was a male Zabrak smuggler who became famous for only accepting contracts for delivering food, medicine, and propaganda holovids to star systems ruled by tyrants and madmen. He was rumored to never accept credits for his services, preferring to to steal his profits from the enemy governments.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Holovid/Legends",
+  "/wiki/Star_system/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

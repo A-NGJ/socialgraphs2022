@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Gran_pilot",
+ "display_name": "Unidentified Gran pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Gran pilot helped the rebel Wookiee warrior Chewbacca to reach the moon Jedha in 1 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Gran",
+  "/wiki/Color",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Wookiee_warrior",
+  "/wiki/Chewbacca",
+  "/wiki/Moon",
+  "/wiki/Jedha",
+  "/wiki/1_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Gran_pilot",
+  "/wiki/Star_Wars_(2015)_41",
+  "/wiki/Star_Wars_Helmet_Collection",
+  "/wiki/Star_Wars_Helmet_Collection_77",
+  "/wiki/Highlights_of_the_Saga"
+ ]
+}

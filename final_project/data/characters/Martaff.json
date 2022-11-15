@@ -1,5 +1,6 @@
 {
  "name": "Martaff",
+ "display_name": "Martaff",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Martaff was a male Human Commodore who fought in the Battle of N'zoth.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,63 @@
+{
+ "name": "Tarkom",
+ "display_name": "Tarkom",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Mantell"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3639 BBY",
+      "Ord Mantell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human",
+      "Rakghoul"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarkom was a Human male who worked as a Doctor during the renewed conflict between the Galactic Republic and the resurgent Sith Empire.\nIn 3639 BBY, Tarkom, along with Addy Ingrol, Asirr, and Evad, assisted Doctor Sannus Lorrick who was experimenting on the rakghoul virus in his laboratory on Ord Mantell. Tarkom and the scientists all believed that Lorrick was searching for a cure on the virus. As four Tionese planets fell to the rakghoul virus, Tarkom and the other assistants discovered Lorrick's true plans and attempted to stop him, but they were infected with the virus and placed under his control. He was later killed by a Republic strike team that came to stop Lorrick's self-infection with the virus.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/3639_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Rakghoul",
+  "/wiki/Gender/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Addy_Ingrol",
+  "/wiki/Asirr",
+  "/wiki/Evad",
+  "/wiki/Sannus_Lorrick",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tarkom",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

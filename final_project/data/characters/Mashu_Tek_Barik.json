@@ -1,0 +1,59 @@
+{
+ "name": "Mashu_Tek_Barik",
+ "display_name": "Mashu Tek Barik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Klatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Council of Elders"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mashu Tek Barik was an elderly female Klatooinian Elder Governor on Klatooine around 44 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Klatooine/Legends",
+  "/wiki/Klatooinian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Council_of_Elders_(Klatooinian)",
+  "/wiki/44_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mashu_Tek_Barik",
+  "/wiki/Fate_of_the_Jedi:_Allies",
+  "/wiki/Fate_of_the_Jedi:_Allies_(audiobook)"
+ ]
+}

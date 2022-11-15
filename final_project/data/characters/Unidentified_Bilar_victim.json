@@ -1,0 +1,30 @@
+{
+ "name": "Unidentified_Bilar_victim",
+ "display_name": "Unidentified Bilar victim",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bilar"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Bilar was killed when the Kerestian bounty hunter Milacass flew into a fit of rage after he had lost a hand of sabacc with a gambler from Oseon VII.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bilar",
+  "/wiki/Kerestian/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Milacass",
+  "/wiki/Sabacc/Legends",
+  "/wiki/Gambler/Legends",
+  "/wiki/Oseon_VII",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

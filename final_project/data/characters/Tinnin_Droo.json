@@ -1,0 +1,64 @@
+{
+ "name": "Tinnin_Droo",
+ "display_name": "Tinnin Droo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nam Chorios"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Newcomers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tinnin Droo was a Newcomer living on Nam Chorios as of 13 ABY where he owned a machine shop which included a smelter. He and his assistant, Nap Socker, were severely burned when Luke Skywalker, who had come to investigate the disappearance of Callista Ming, used the Force, accidentally causing a massive Force Storm that overturned the smelter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Droo",
+  "/wiki/Nam_Chorios/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Newcomer",
+  "/wiki/13_ABY/Legends",
+  "/wiki/Nap_Socker",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Callista_Ming",
+  "/wiki/The_Force/Legends",
+  "/wiki/Force_storm_(weather)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tinnin_Droo",
+  "/wiki/Planet_of_Twilight"
+ ]
+}

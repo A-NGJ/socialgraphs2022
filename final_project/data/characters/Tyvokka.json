@@ -1,0 +1,49 @@
+{
+ "name": "Tyvokka",
+ "display_name": "Tyvokka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    },
+    {
+     "name": "Apprentices",
+     "values": [
+      "Plo Koon"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyvokka was a Wookiee Jedi Master who took the Kel Dor Jedi Plo Koon on as their Padawan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tyvokka",
+  "/wiki/Tyvokka/Legends",
+  "/wiki/Wookiee",
+  "/wiki/Jedi_Order",
+  "/wiki/Plo_Koon",
+  "/wiki/Jedi_Master",
+  "/wiki/Kel_Dor",
+  "/wiki/Jedi",
+  "/wiki/Padawan",
+  "/wiki/Star_Wars_Workbook:_2nd_Grade_Reading"
+ ]
+}

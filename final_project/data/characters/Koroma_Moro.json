@@ -1,0 +1,49 @@
+{
+ "name": "Koroma_Moro",
+ "display_name": "Koroma Moro",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Switch's organization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Captain Koroma Moro was a Twi'lek male who hauled cargo under the employ of Switch. Switch funded Moro's entry into the Cloud City Sabacc Tournament on the planet Bespin in about 17 BBY, in an effort to grab a share of the winnings.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Switch%27s_organization",
+  "/wiki/Captain/Legends",
+  "/wiki/Switch",
+  "/wiki/Cloud_City_Sabacc_Tournament",
+  "/wiki/Planet/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/The_Queen_of_Air_and_Darkness"
+ ]
+}

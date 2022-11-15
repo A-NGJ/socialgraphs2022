@@ -1,0 +1,50 @@
+{
+ "name": "Hogun_Rath",
+ "display_name": "Hogun Rath",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bounty Hunters' Guild"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hogun Rath was a bounty hunter during the Galactic Empire, and one of the leaders of the Bounty Hunters' Guild. He was a famed hunter who acquired a large amount of notoriety over the years, though he was neither flashy nor overbearing. He was capable of a great number of different roles: skilled at talking, shooting and tracking, and had a very high success rate. The Empire frequently employed him to capture or assassinate their enemies after the fall of the Old Republic.\nHogun escaped the Bounty Hunter Wars alive, but was marked for death by former associates, and managed to convince the Empire, at least, that he had been killed in the fighting.\nWhen the Rebel Alliance learned of his survival, they sent operatives to gain his trust and recruit him into the organization. The Alliance knew that his skills could be invaluable in the Galactic Civil War. Absent that, they hoped to interrogate him to gain evidence of the Empire's crimes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_Hunters%27_Guild/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Bounty_Hunter_Wars",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Rebellion_Era_Sourcebook"
+ ]
+}

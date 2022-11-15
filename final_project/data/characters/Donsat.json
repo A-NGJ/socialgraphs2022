@@ -1,5 +1,6 @@
 {
  "name": "Donsat",
+ "display_name": "Donsat",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Donsat was a male Ugnaught who lived in Ugnaught Town on Bespin during the Galactic Civil War. He was the uncle of Lonaste.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ugnaught",

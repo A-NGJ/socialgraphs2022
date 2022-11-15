@@ -1,5 +1,6 @@
 {
  "name": "Effor",
+ "display_name": "Effor",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Effor was a Verpine who worked at an arena where gladiator droids fought.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Verpine",

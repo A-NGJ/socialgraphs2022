@@ -1,0 +1,62 @@
+{
+ "name": "Tev_Matthews",
+ "display_name": "Tev Matthews",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Before 4 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tev Matthews was a colonel in the Rebel Alliance. He was the father of Lieutenant Ty Matthews. He was tortured to death by the Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tev_(disambiguation)",
+  "/wiki/4_BBY",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Colonel/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Ty_Matthews",
+  "/wiki/Torture/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/The_Truce_at_Bakura_Sourcebook"
+ ]
+}

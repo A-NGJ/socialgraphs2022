@@ -1,0 +1,51 @@
+{
+ "name": "Trillan_Katos",
+ "display_name": "Trillan Katos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Tan"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trillan Katos was a Human male who worked as a banker on a planet during the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems. He and his family, a wife and two sons, were caught in the crossfire, but were rescued by his co-worker Rayt and his companions. Mistaking them for Republic clone troopers, Katos fired upon them, barely missing.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Rayt_(civilian)",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_(comics)",
+  "/wiki/This_Precious_Shining",
+  "/wiki/Star_Wars:_Clone_Wars_Adventures_Volume_7"
+ ]
+}

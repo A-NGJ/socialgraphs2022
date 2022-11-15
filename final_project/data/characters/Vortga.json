@@ -1,0 +1,37 @@
+{
+ "name": "Vortga",
+ "display_name": "Vortga",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vortga the Hutt was a Hutt lord. In 684 BBY, he traveled to Pybus, a planet considered taboo by other Hutts, and established a hidden complex. Many years later, he began to grow paranoid, and attempted to kill all of his former servants who had known about the base. Only Lalkan survived.\nVortga was assassinated hundreds of years before the Battle of Yavin. After his death, many Hutts attempted to located his treasures.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/684_BBY",
+  "/wiki/Pybus",
+  "/wiki/Planet/Legends",
+  "/wiki/Vortga%27s_hidden_complex",
+  "/wiki/Lalkan",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Lords_of_Nal_Hutta"
+ ]
+}

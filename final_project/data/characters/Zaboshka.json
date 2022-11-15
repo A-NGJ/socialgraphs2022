@@ -1,0 +1,42 @@
+{
+ "name": "Zaboshka",
+ "display_name": "Zaboshka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zaboshka was a male Toydarian engineer who was known around Kashyyyk's Royal City as an informant of information to whoever paid enough credits. In 21 BBY, he was present at a spaceport on Kashyyyk, where he met youngling Jaylen Kos and Jedi Master Bant Eerin's Padawan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toydarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Engineer/Legends",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Kashyyyk_Royal_City",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Youngling/Legends",
+  "/wiki/Jaylen_Kos",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Bant_Eerin/Legends",
+  "/wiki/Bant_Eerin%27s_Padawan",
+  "/wiki/The_Clone_Wars:_Decide_Your_Destiny:_The_Way_of_the_Jedi"
+ ]
+}

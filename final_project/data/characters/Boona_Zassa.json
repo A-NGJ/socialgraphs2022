@@ -1,0 +1,66 @@
+{
+ "name": "Boona_Zassa",
+ "display_name": "Boona Zassa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boona Zassa was a male Gungan priest who lived during the Galactic Civil War.\nBoona Zassa was a non-player character in the 2003 video game Star Wars Galaxies: An Empire Divided, a massively multiplayer online role-playing game developed by Sony Online Entertainment and published by LucasArts, prior to its closure on December 15, 2011.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Boona_(disambiguation)",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Priest/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/2003",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Roleplaying_game",
+  "/wiki/Sony",
+  "/wiki/LucasArts",
+  "/wiki/December_15",
+  "/wiki/2011"
+ ]
+}

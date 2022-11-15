@@ -1,0 +1,45 @@
+{
+ "name": "Wintle",
+ "display_name": "Wintle",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Ciutric Hegemony"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wintle was the captain of the Swift.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ciutric_Hegemony",
+  "/wiki/Captain/Legends",
+  "/wiki/Swift_(freighter)",
+  "/wiki/X-Wing:_Isard%27s_Revenge"
+ ]
+}

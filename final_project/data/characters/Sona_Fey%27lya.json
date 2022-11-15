@@ -1,0 +1,37 @@
+{
+ "name": "Sona_Fey%27lya",
+ "display_name": "Sona Fey'lya",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sona Fey'lya was a female Bothan smuggler during the Galactic Civil War. She was the owner of the Blue Flare, which she lost to Logron, a criminal living near Mos Shuuta, a town on Tatooine. She later was able to steal it with the help of the Pero brothers and an adventurer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Blue_Flare",
+  "/wiki/Logron",
+  "/wiki/Mos_Shuuta",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook"
+ ]
+}

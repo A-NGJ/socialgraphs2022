@@ -1,0 +1,63 @@
+{
+ "name": "Towan",
+ "display_name": "Towan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Melida/Daan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Young"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Towan was a member of the Young. He encountered Obi-Wan Kenobi and Qui-Gon Jinn when they came to the headquarters of The Young. When he made a derogatory joke about Melida and Wehutti, Nield choked him for it, but not fatally. He was sent to sleep in Drain Two for three days for his punishment.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Melida/Daan",
+  "/wiki/Human/Legends",
+  "/wiki/Daan_(people)",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Young",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Melida",
+  "/wiki/Wehutti",
+  "/wiki/Nield",
+  "/wiki/Sleep/Legends",
+  "/wiki/Standard_day/Legends",
+  "/wiki/Jedi_Apprentice:_The_Defenders_of_the_Dead"
+ ]
+}

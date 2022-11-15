@@ -1,0 +1,76 @@
+{
+ "name": "Tyvar",
+ "display_name": "Tyvar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyvar was a male Human agent of the Imperial Intelligence of the Sith Empire, codenamed Lurker. Retired by the time of the Galactic War, he settled on Makeb and lives there with his family: his wife Chiana, son Peron and daughter Syla. During the Conquest of Makeb in 3638 BBY the Empire asked Lurker to reactivate and provide them with the information that would help in recovery of the Isotope-5. Unfortunately, the Hutt Cartel became aware of his true allegiance as well and set the InterStellar Regulators to eliminate him. Captain Hanthor of the Sith Empire was forced to send a retrieval team for Lurker and his family, relocating them to Dromund Kaas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Galactic_War",
+  "/wiki/Makeb",
+  "/wiki/Chiana",
+  "/wiki/Peron",
+  "/wiki/Syla",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/3638_BBY",
+  "/wiki/Isotope-5",
+  "/wiki/Hutt_Cartel",
+  "/wiki/InterStellar_Regulators",
+  "/wiki/Captain/Legends",
+  "/wiki/Hanthor",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

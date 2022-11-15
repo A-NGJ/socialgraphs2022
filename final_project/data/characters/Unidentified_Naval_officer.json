@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_Naval_officer",
+ "display_name": "Unidentified Naval officer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Like all graduates of Imperial academies, this human male naval officer was trained in combat tactics and weapon readiness. Not just a crack shot with a blaster, the officer could also call down orbital turbolaser strikes to wreak destruction on Rebel bases.\nThis naval officer is an equipment accessory in the armory that supplements the Emperor's Royal Guard as a hero command unit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy",
+  "/wiki/Imperial_cadet",
+  "/wiki/Imperial_Academy",
+  "/wiki/Officer",
+  "/wiki/Blaster",
+  "/wiki/Imperial_officer",
+  "/wiki/Orbital_bombardment",
+  "/wiki/Alliance_to_Restore_the_Republic",
+  "/wiki/Emperor%27s_Royal_Guard",
+  "/wiki/Star_Wars:_Commander"
+ ]
+}

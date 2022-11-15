@@ -1,5 +1,6 @@
 {
  "name": "Scrope",
+ "display_name": "Scrope",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Scrope was a male Dashade Republic ship-master in charge of the command skiff during the Battle of Essien.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dashade/Legends",

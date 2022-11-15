@@ -1,5 +1,6 @@
 {
  "name": "Kantuck",
+ "display_name": "Kantuck",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Kantuck was a Gigoran who was the personnel bodyguard of Matriarch Catriona Graf.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Gigoran",

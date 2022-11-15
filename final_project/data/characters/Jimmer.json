@@ -1,5 +1,6 @@
 {
  "name": "Jimmer",
+ "display_name": "Jimmer",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Jimmer was a member of the Mostlaa species, and worked as executive assistant to smuggler Nilya Fek'ra.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mostlaa",

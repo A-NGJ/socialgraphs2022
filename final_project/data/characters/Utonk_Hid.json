@@ -1,0 +1,58 @@
+{
+ "name": "Utonk_Hid",
+ "display_name": "Utonk Hid",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blond"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Utonk Hid was a male Aqualish thug active during the final years of the Galactic Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Utonk_Hid",
+  "/wiki/Utonk_Hid/Legends",
+  "/wiki/Aqualish",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Republic",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Utonk_Hid",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Lethal_Trackdown",
+  "/wiki/StarWars.com"
+ ]
+}

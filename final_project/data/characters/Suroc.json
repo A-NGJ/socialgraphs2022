@@ -1,0 +1,40 @@
+{
+ "name": "Suroc",
+ "display_name": "Suroc",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suroc was a male Human bounty hunter. He once bought a Nashtah on the planet Andasala.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Nashtah",
+  "/wiki/Planet/Legends",
+  "/wiki/Andasala",
+  "/wiki/West_End_Games",
+  "/wiki/Working_The_Market_I",
+  "/wiki/Galaxy_Guide_11:_Criminal_Organizations",
+  "/wiki/Working_The_Market_II",
+  "/wiki/Working_The_Market_III",
+  "/wiki/Working_The_Market_IV"
+ ]
+}

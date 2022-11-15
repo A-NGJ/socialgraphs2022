@@ -1,5 +1,6 @@
 {
  "name": "Obip",
+ "display_name": "Obip",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Obip was a female Human Jedi Master who lived during the Cold War. Residing on Carrick Station, she also provided the knowledge of synthweaving to others.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookieepedia:Sourcing",

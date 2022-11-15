@@ -1,5 +1,6 @@
 {
  "name": "Hoge",
+ "display_name": "Hoge",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Hoge was a male Human officer in the Imperial Navy. By 137 ABY he held the rank of captain of the Relentless, flagship of the Outer Rim Third Fleet. He was present during the execution of Kel Dor Admiral Sha Dun by Sith Lord Darth Azard; afterwards he was ordered by Admiral Dru Valan, new commander of the Third Fleet, to replace every single alien crew member and officer in the fleet with humans.\nFollowing Valan's defeat at the Battle of Mon Calamari, Hoge was told to tell Darth Azard whatever he wanted while Valan went to his quarters, thinking of committing suicide.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

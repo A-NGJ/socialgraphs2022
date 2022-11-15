@@ -1,0 +1,64 @@
+{
+ "name": "Rebel_supply_room_technician",
+ "display_name": "Rebel supply room technician",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Rebel supply room technician was a human male who worked in the supply room of a Rebel Alliance base some time during the Galactic Civil War. The technician once helped C-3PO when the droid needed a Fulstar plate to allow Han Solo to repair the Millennium Falcon. The technician gave C-3PO a blue, circular Fulstar plate, but both were unaware it was not the specific kind of plate the Falcon needed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/C-3PO",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/Fulstar_plate",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Millennium_Falcon/Legends",
+  "/wiki/Star_Wars_Adventures_in_Colors_and_Shapes"
+ ]
+}

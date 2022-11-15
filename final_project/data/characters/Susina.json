@@ -1,0 +1,68 @@
+{
+ "name": "Susina",
+ "display_name": "Susina",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Ginger"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Salmon"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "University of Bar'leth"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Susina was a friend of Aphra during her studies at the University of Bar'leth. After Aphra's finding on the Abersyn symbiotes, Susina was excited about the quiescent state of the creatures and said she would devote her career to find what kept them in that state in Boothi XII.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/University_of_Bar%27leth",
+  "/wiki/Toob-Nix",
+  "/wiki/Chelli_Lona_Aphra",
+  "/wiki/Abersyn_symbiote",
+  "/wiki/Boothi_XII",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Susina",
+  "/wiki/Doctor_Aphra_(2016)_1"
+ ]
+}

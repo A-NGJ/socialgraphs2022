@@ -1,0 +1,65 @@
+{
+ "name": "Maytoc_Kollene",
+ "display_name": "Maytoc Kollene",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.5 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maytoc Kollene was a one-legged male Human and the captain of the VR-10 Cuirilla-Rayl Xylines-class spacetug Worthless Fool.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Limb/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/VR-10_Cuirilla-Rayl_Xylines-class_spacetug",
+  "/wiki/Worthless_Fool",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Maytoc_Kollene",
+  "/wiki/The_Abduction",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures"
+ ]
+}

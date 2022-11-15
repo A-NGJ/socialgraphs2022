@@ -1,0 +1,75 @@
+{
+ "name": "Kyood_Vurd",
+ "display_name": "Kyood Vurd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ugnaught"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kyood Vurd was a short Ugnaught businessman who ran a cantina on the moon of Nar Shaddaa around the time of the Invasion of Naboo. He recently had a scuffle with Jedi Masters Mace Windu and Depa Billaba when he attempted to kill a street-vendor on his turf. The Jedi, however, were able to repel Vurd and his gang of thugs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Ugnaught/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars:_Republic:_Emissaries_to_Malastare",
+  "/wiki/Cantina/Legends",
+  "/wiki/Moon/Legends",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Mace_Windu/Legends",
+  "/wiki/Depa_Billaba/Legends",
+  "/wiki/Aunuanna",
+  "/wiki/Jedi/Legends",
+  "/wiki/Star_Wars_(1998)_17",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_78",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/Databank_(original)"
+ ]
+}

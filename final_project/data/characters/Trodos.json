@@ -1,0 +1,69 @@
+{
+ "name": "Trodos",
+ "display_name": "Trodos",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "44 BBY",
+      "Troiken"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Stark Commercial Combine"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trodos was a male Gamorrean and one of the co-directors of the Stark Commercial Combine. Alongside fellow co-director Lom Portom, he led the Stark Collective forces in the Fifth Battle of Qotile in 44 BBY. During the battle, Trodos was trapped with his troops in a cave and devoured by challat eaters.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/44_BBY/Legends",
+  "/wiki/Troiken/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Stark_Commercial_Combine",
+  "/wiki/Lom_Portom",
+  "/wiki/Fifth_Battle_of_Qotile",
+  "/wiki/Challat_eaters",
+  "/wiki/Star_Wars_(1998)_36",
+  "/wiki/Star_Wars_(1998)_37",
+  "/wiki/Star_Wars_(1998)_38",
+  "/wiki/Star_Wars_(1998)_39"
+ ]
+}

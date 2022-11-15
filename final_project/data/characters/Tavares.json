@@ -1,0 +1,53 @@
+{
+ "name": "Tavares",
+ "display_name": "Tavares",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tavares was a Human male and an Admiral who served in the Imperial Navy during the Galactic Civil War. He was part of a group of Imperial officers who were present, along with Darth Vader, at a ceremony near the Kuat system where the Star Dreadnought Executor was officially commissioned.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/Admiral/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Kuat_system/Legends",
+  "/wiki/Star_Dreadnought/Legends",
+  "/wiki/Executor/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

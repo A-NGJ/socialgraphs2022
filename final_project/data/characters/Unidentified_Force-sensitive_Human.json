@@ -1,0 +1,73 @@
+{
+ "name": "Unidentified_Force-sensitive_Human",
+ "display_name": "Unidentified Force-sensitive Human",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "Pre 896 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "N'Kata Del Gormo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human Force-sensitive had traveled with a young Yoda hundreds of years before the Battle of Yavin and the two crash-landed on an unknown swamp world.\nThey were found by the Hysalrian Jedi Master N'Kata Del Gormo, who started instructing them in the ways of the Force. Yoda was fully trained and became a Jedi Knight.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/896_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/N%27Kata_Del_Gormo",
+  "/wiki/Yoda/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Unidentified_swamp_planet",
+  "/wiki/Hysalrian",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Jedi_training/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Design_An_Alien",
+  "/wiki/Star_Wars_Galaxy_Magazine_9",
+  "/wiki/The_Official_Star_Wars_Fact_File_Part_2_(2013)"
+ ]
+}

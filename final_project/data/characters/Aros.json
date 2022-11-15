@@ -1,5 +1,6 @@
 {
  "name": "Aros",
+ "display_name": "Aros",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Lady Aros was a Hapan female and the lady-in-waiting to the Queen Mother Tenel Ka of the Hapes Consortium as of 40 ABY. She was present during the kidnapping of Allana by Darth Caedus.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hapan",

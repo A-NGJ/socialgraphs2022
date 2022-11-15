@@ -1,5 +1,6 @@
 {
  "name": "Cisvin",
+ "display_name": "Cisvin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Cisvin was a male Mustafarian junk dealer on Nova Orion Station in 1 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mustafarian/Legends",

@@ -1,0 +1,33 @@
+{
+ "name": "Vilivian",
+ "display_name": "Vilivian",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hapan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vilivian was a male Hapan gemwright who was famous for his intricately fitted gems held a brief but influential value several centuries ago. Financial records indicated that he had made several sales to Piethet Brighteyes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hapan",
+  "/wiki/Gender/Legends",
+  "/wiki/Standard_century/Legends",
+  "/wiki/X-Wing:_Mercy_Kill",
+  "/wiki/X-Wing:_Mercy_Kill_(audiobook)"
+ ]
+}

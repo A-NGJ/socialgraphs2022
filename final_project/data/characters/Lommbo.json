@@ -1,5 +1,6 @@
 {
  "name": "Lommbo",
+ "display_name": "Lommbo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Lommbo was a Nimbanel working for the Bureau of Ships and Services as a clerk. He was responsible for renewing licenses. When Pyrron Nox attempted to renew Wrune Tsallin's license by proxy, Lommbo informed him that Tsallin had been found dead, floating in the Ac'fren Spur.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nimbanel/Legends",

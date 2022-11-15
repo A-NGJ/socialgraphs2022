@@ -1,0 +1,52 @@
+{
+ "name": "Frederci_Beta",
+ "display_name": "Frederci Beta",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Frederci Beta was a male Human enemy of the Eternal Empire of Zakuul. In 3630 BBY he and his partner Hercie Beta were captured and imprisoned in the Overwatch. However, during their interrogation, Kaliyo Djannis and The Commander assaulted the Overwatch, enabling them to escape.\nFrederci Beta appears in Star Wars: The Old Republic: Knights of the Fallen Empire Chapter 10: Anarchy in Paradise.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Eternal_Empire",
+  "/wiki/Zakuul",
+  "/wiki/3630_BBY",
+  "/wiki/Hercie_Beta",
+  "/wiki/Overwatch",
+  "/wiki/Kaliyo_Djannis",
+  "/wiki/Alliance_Commander",
+  "/wiki/Raid_on_the_Overwatch",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

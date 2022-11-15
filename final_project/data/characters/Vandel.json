@@ -1,0 +1,48 @@
+{
+ "name": "Vandel",
+ "display_name": "Vandel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vandel was an independent prospector who along with his partner Helm, were the first beings to discover the planet Vandelhelm, which was eventually named in their honor. Being the first to penetrate the vast cloud of asteroids that surrounded the planet circa 3000 BBY, they and found that the planet was incredibly rich in metals and ores. Claiming the world in the name of the Galactic Republic before relocating their families to the planet, they be came the founding members of the Metalsmiths' Guild. Over the millennia, the Vandel and Helm families were regarded as royalty on Vandelhelm.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Helm",
+  "/wiki/Vandelhelm/Legends",
+  "/wiki/3000_BBY",
+  "/wiki/Guild_of_Metalsmiths",
+  "/wiki/Planet_Hoppers",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

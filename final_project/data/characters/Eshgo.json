@@ -1,5 +1,6 @@
 {
  "name": "Eshgo",
+ "display_name": "Eshgo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Eshgo was a Twi'lek male who was part of the Free Ryloth Movement on the planet Ryloth during the reign of the Galactic Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ryloth",

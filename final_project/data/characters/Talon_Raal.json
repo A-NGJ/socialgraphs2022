@@ -1,0 +1,36 @@
+{
+ "name": "Talon_Raal",
+ "display_name": "Talon Raal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talon Raal was a female Human who lived during the waning years of the Galactic Republic. She worked as a soldier and a scout.\nIn the role-playing game scenario Hunting the Wyrd, Raal can be sent to accompany the player characters on their mission to find the Wyrd, if they lack sufficient combat skills.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Soldier/Legends",
+  "/wiki/Scout/Legends",
+  "/wiki/Star_Wars_Roleplaying_Game",
+  "/wiki/Hunting_the_Wyrd",
+  "/wiki/Wyrd"
+ ]
+}

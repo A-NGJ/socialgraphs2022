@@ -1,0 +1,49 @@
+{
+ "name": "Loiin_Sool",
+ "display_name": "Loiin Sool",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Shamed Ones"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Loiin Sool was one of the Shamed Ones working at the Eighth cortex damutek on Yuuzhan'tar. When Master Shaper Nen Yim contacted the Prophet Yu'Shaa about taking her to Zonama Sekot, Loiin Sool delivered the message to Yu'shaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Shamed_Ones",
+  "/wiki/Eighth_cortex_damutek",
+  "/wiki/Coruscant/Legends#Yuuzhan'tar",
+  "/wiki/Master_Shaper",
+  "/wiki/Nen_Yim",
+  "/wiki/Yu%27Shaa",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/The_New_Jedi_Order:_The_Final_Prophecy"
+ ]
+}

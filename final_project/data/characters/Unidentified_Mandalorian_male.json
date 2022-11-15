@@ -1,0 +1,86 @@
+{
+ "name": "Unidentified_Mandalorian_male",
+ "display_name": "Unidentified Mandalorian male",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mandalore"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Mandalorians",
+      "Moogan smugglers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Mandalorian male worked at the Sundari shipping docks during the time of the Clone Wars. He helped the Moogan smugglers mix the poisonous Slabin with Ardees Beverage tea. He was arrested when Satine Kryze and others discovered the plot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Mandalorian",
+  "/wiki/Mandalore/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blue",
+  "/wiki/New_Mandalorians/Legends",
+  "/wiki/Moogan/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Tee_Va/Legends",
+  "/wiki/Sundari/Legends",
+  "/wiki/Sundari_shipping_docks/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Slabin/Legends",
+  "/wiki/Ardees_Beverage_tea",
+  "/wiki/Satine_Kryze/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Corruption_(episode)"
+ ]
+}

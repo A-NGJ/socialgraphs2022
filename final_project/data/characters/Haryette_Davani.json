@@ -1,0 +1,50 @@
+{
+ "name": "Haryette_Davani",
+ "display_name": "Haryette Davani",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Beheboth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haryette Davani was a Human female. She was the wife of Nils and the mother of Myrette. She lived on Beheboth and thought that Shira Brie was \"a snob.\" She cooked harza cake.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Beheboth",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Nils_Davani",
+  "/wiki/Parent/Legends",
+  "/wiki/Myrette_Davani",
+  "/wiki/Lumiya",
+  "/wiki/Harza_cake",
+  "/wiki/Wizards.com",
+  "/wiki/Carida:_Heavy_Duty"
+ ]
+}

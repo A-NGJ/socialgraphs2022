@@ -1,0 +1,48 @@
+{
+ "name": "Kell_Tolkani%27s_father",
+ "display_name": "Kell Tolkani's father",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Incom Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This human male was the father of Kell Tolkani. He worked in a senior position in Incom Corporation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Incom_Corporation",
+  "/wiki/Kell_Tolkani",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kell_Tolkani%27s_father",
+  "/wiki/A_Naturalist_on_Hoth",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back_(audiobook)"
+ ]
+}

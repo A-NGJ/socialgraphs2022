@@ -1,0 +1,80 @@
+{
+ "name": "Salana_Rok",
+ "display_name": "Salana Rok",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Csilla"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Military",
+      "Imperial Military",
+      "Hutt Cartel"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Salana Rok was a Chiss female gunnery officer in the Imperial Military of the reconstituted Sith Empire. Formerly an underworld enforcer, Salana's intensity for violence against her enemies and strong proficiency in weapons are fit for her duties as a starfighter gunner. Hidden by her aggressive personality is a loner persona, always in search for a home.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Csilla/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Military_(Sith_Empire)",
+  "/wiki/Hutt_Cartel",
+  "/wiki/Star_Wars:_The_Old_Republic:_Galactic_Starfighter",
+  "/wiki/Star_Wars:_The_Old_Republic:_Galactic_Strongholds",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

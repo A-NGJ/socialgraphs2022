@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Resistance_member",
+ "display_name": "Unidentified Resistance member",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female human served in the Resistance during their war with the First Order.\nThe Resistance member is the announcer for the Resistance in the multiplayer modes of Star Wars Battlefront II.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Special:Upload",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Resistance",
+  "/wiki/First_Order-Resistance_War",
+  "/wiki/First_Order",
+  "/wiki/Star_Wars_Battlefront_II"
+ ]
+}

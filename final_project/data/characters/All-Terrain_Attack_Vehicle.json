@@ -1,0 +1,68 @@
+{
+ "name": "All-Terrain_Attack_Vehicle",
+ "display_name": "All-Terrain Attack Vehicle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pittin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Tia Organa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "All-Terrain Attack Vehicle, or AT-AV for short, was the nickname of a female pittin that was a pet belonging to Tia Organa, one of Princess Leia Organa's foster aunts on Alderaan.\nAs a child, Leia had named the creature herself. AT-AV had a pale candy-pink color and was small enough to fit in Leia's cupped hands. She also liked to roll on her back and bat at Leia's braids and starblossom petals. AT-AV died in the destruction of Alderaan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Pittin",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Tia_Organa",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Starblossom/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Children_of_the_Jedi_(novel)"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Skent_Graff",
+ "display_name": "Skent Graff",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Skent Graff was a captain in the New Republic Defense Fleet who served during the Yuuzhan Vong War.\nA broad shouldered male with handsome features who was proud of his Human heritage, Graff's father had served aboard Corbantis during Seti Ashgad's bid for galactic power before dying of the Death Seed plague.\nIn 25 ABY, Graff commanded the cruiser Soothfast on patrol duty in the Meridian sector. Soothfast's victory against a pair of Yuuzhan Vong warships enabled the delivery of Elan and Vergere into New Republic hands.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/New_Republic_Defense_Fleet/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Corbantis",
+  "/wiki/Seti_Ashgad/Legends",
+  "/wiki/Death_Seed",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Soothfast",
+  "/wiki/Meridian_sector/Legends",
+  "/wiki/Elan",
+  "/wiki/Vergere",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_New_Jedi_Order_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Neeso",
+ "display_name": "Neeso",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Neeso was a Rodian male who lived on Sedri Minor during the High Republic Era. He was the father of Julus, who had gone missing by the time of the mission to Sedri Minor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Rodian",

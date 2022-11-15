@@ -1,0 +1,48 @@
+{
+ "name": "T%27Charek_Haathi%27s_grandmother",
+ "display_name": "T'Charek Haathi's grandmother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Wroona"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wroonian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "T'Charek Haathi's grandmother lived on the planet Wroona and ran a successful shipping company. She employed her granddaughter during her teenage years, until T'Charek left the business to join the Wroonian defense force.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wroona/Legends",
+  "/wiki/Wroonian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/T%27Charek_Haathi",
+  "/wiki/Planet/Legends",
+  "/wiki/Wroonian_defense_force",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Special_Ops:_Ship_Jackers",
+  "/wiki/Star_Wars_Adventure_Journal_13"
+ ]
+}

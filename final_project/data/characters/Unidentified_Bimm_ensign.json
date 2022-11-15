@@ -1,0 +1,51 @@
+{
+ "name": "Unidentified_Bimm_ensign",
+ "display_name": "Unidentified Bimm ensign",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bimm"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A female Bimm served as an ensign aboard the Anakin Solo in 40 ABY. She was present aboard the ship's bridge during the Battle of Kashyyyk.\nThe ensign first appeared in Legacy of the Force: Inferno, the sixth novel of the Star Wars: Legacy of the Force series, written by Troy Denning and released in 2007.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bimm",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Ensign/Legends",
+  "/wiki/Anakin_Solo_(Imperial_II-class_Star_Destroyer)",
+  "/wiki/40_ABY",
+  "/wiki/Bridge_(starship)/Legends",
+  "/wiki/Battle_of_Kashyyyk_(Second_Galactic_Civil_War)",
+  "/wiki/Legacy_of_the_Force:_Inferno",
+  "/wiki/Star_Wars:_Legacy_of_the_Force",
+  "/wiki/Troy_Denning",
+  "/wiki/2007"
+ ]
+}

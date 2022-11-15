@@ -1,0 +1,53 @@
+{
+ "name": "Tamsin",
+ "display_name": "Tamsin",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bail Organa's resistance movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tamsin was a human female pilot who worked for Bail Organa during the first year of the Galactic Empire. She was the copilot of Chardri Tage.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Riff_Tamson",
+  "/wiki/Karkarodon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Bail_Organa%27s_resistance_movement",
+  "/wiki/Pilot",
+  "/wiki/Bail_Prestor_Organa",
+  "/wiki/Standard_year",
+  "/wiki/Galactic_Empire",
+  "/wiki/Chardri_Tage",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tamsin",
+  "/wiki/Ahsoka_(novel)",
+  "/wiki/Ahsoka_(audiobook)"
+ ]
+}

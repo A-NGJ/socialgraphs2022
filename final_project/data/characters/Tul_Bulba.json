@@ -1,0 +1,50 @@
+{
+ "name": "Tul_Bulba",
+ "display_name": "Tul Bulba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nubia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Dark Side of the Planet"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tul Bulba was a Twi'lek who owned and managed a cantina called The Dark Side of the Planet, in Nuba City, Nubia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nubia/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/The_Dark_Side_of_the_Planet",
+  "/wiki/Cantina/Legends",
+  "/wiki/Nuba_City",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

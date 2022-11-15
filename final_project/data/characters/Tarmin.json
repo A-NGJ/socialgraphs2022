@@ -1,0 +1,60 @@
+{
+ "name": "Tarmin",
+ "display_name": "Tarmin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Clabron"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clabronian"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pink"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tarmin was a Clabronian who held the position of Second Minister on Clabron. After Grand Minister Stin was assassinated by the Separatists when he showed desire to ally with the Galactic Republic in the Clone Wars, Tarmin took his place, and was convinced by Senator Padmé Amidala to side with the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Clabron",
+  "/wiki/Clabronian",
+  "/wiki/Color",
+  "/wiki/Second_Minister",
+  "/wiki/Grand_Minister",
+  "/wiki/Stin",
+  "/wiki/Death",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Galactic_Republic",
+  "/wiki/Clone_Wars",
+  "/wiki/Senator",
+  "/wiki/Padm%C3%A9_Amidala",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tarmin",
+  "/wiki/Age_of_Republic_-_Padm%C3%A9_Amidala_1"
+ ]
+}

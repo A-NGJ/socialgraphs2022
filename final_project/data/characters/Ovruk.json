@@ -1,5 +1,6 @@
 {
  "name": "Ovruk",
+ "display_name": "Ovruk",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Ovruk was a Noghri who accompanied Grand Admiral Thrawn to the planet Sluis Van.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Noghri/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Dorae%27s_rathtar",
+ "display_name": "Dorae's rathtar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Prior to 0 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rathtar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Dorae"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A newly-hatched rathtar was owned by Dorae sometime prior to the Dragon Void Run. Dorae intended to use the rathtar to pay off important individuals but it was killed by the Wookiee Chewbacca.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/0_ABY",
+  "/wiki/Rathtar",
+  "/wiki/Dorae",
+  "/wiki/Dragon_Void_Run",
+  "/wiki/Death",
+  "/wiki/Wookiee",
+  "/wiki/Chewbacca",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Han_Solo_4"
+ ]
+}

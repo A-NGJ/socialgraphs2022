@@ -1,5 +1,6 @@
 {
  "name": "Bur",
+ "display_name": "Bur",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Bur was one of Kueller's favorite military commanders. He commanded Kueller's fleet during the Battle of Almania.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Almania/Legends",

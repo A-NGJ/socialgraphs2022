@@ -1,0 +1,36 @@
+{
+ "name": "Sosten_Freet",
+ "display_name": "Sosten Freet",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sosten Freet was an Advozse who acted as Ema Slake's agent.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Ema_Slake",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sosten_Freet",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/A_Campaign_Guide_to_the_Centrality",
+  "/wiki/Star_Wars_Gamer_5"
+ ]
+}

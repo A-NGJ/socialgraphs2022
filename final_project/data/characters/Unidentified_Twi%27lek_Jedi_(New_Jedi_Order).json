@@ -1,0 +1,66 @@
+{
+ "name": "Unidentified_Twi%27lek_Jedi_(New_Jedi_Order)",
+ "display_name": "Unidentified Twi'lek Jedi  (New Jedi Order)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Twi'lek trained as a Jedi in the New Jedi Order. He was present at the Wedding of Luke Skywalker and Mara Jade where he stood alongside Cilghal. He used a blue-bladed lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Twi%27lek_Jedi",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Jedi/Legends",
+  "/wiki/Wedding_of_Luke_Skywalker_and_Mara_Jade",
+  "/wiki/Cilghal",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Union_2"
+ ]
+}

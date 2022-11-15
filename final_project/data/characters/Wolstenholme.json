@@ -1,0 +1,78 @@
+{
+ "name": "Wolstenholme",
+ "display_name": "Wolstenholme",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "First Order",
+      "First Order military",
+      "First Order military"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wolstenholme was a human female who held the rank of captain within the armed forces of the First Order who was sent to oversee mining operations on the planet Hays Minor. When the sisters Paige and Rose Tico created a distraction in order to sabotage the mining operation, a First Order stormtrooper alerted Captain Wolstenholme, leaving the navigation and weapons systems for the First Order's mining bombers undefended.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/First_Order",
+  "/wiki/First_Order_military",
+  "/wiki/Military_rank",
+  "/wiki/Captain",
+  "/wiki/Mining",
+  "/wiki/Planet",
+  "/wiki/Hays_Minor",
+  "/wiki/Paige_Tico",
+  "/wiki/Rose_Tico",
+  "/wiki/Sabotage_of_First_Order_OreDiggers",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/OreDigger",
+  "/wiki/Bomber",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wolstenholme",
+  "/wiki/Age_of_Resistance_-_Rose_Tico_1"
+ ]
+}

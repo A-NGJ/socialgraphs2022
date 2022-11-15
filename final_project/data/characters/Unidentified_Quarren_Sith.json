@@ -1,0 +1,80 @@
+{
+ "name": "Unidentified_Quarren_Sith",
+ "display_name": "Unidentified Quarren Sith",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "130 ABY",
+      "Ossus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "One Sith"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A member of Darth Krayt's One Sith, this Quarren Sith was one of many Sith led by Darth Nihl in the Massacre at Ossus in 130 ABY, purging the Jedi Praxeum on Ossus and scattering the New Jedi Order. However, the Quarren Sith was killed by Kol Skywalker before the end of the battle.\nHe should not be confused with Darth Maleval or Darth Azard.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/130_ABY",
+  "/wiki/Ossus/Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/One_Sith",
+  "/wiki/Darth_Krayt",
+  "/wiki/Sith/Legends",
+  "/wiki/Darth_Nihl",
+  "/wiki/Massacre_at_Ossus",
+  "/wiki/Jedi_Academy_(Ossus)",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Kol_Skywalker",
+  "/wiki/Darth_Maleval",
+  "/wiki/Darth_Azard",
+  "/wiki/Legacy_(2006)_1"
+ ]
+}

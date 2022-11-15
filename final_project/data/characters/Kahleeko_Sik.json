@@ -1,0 +1,58 @@
+{
+ "name": "Kahleeko_Sik",
+ "display_name": "Kahleeko Sik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "32 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kadas'sa'Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kahleeko Sik was a male Kadas'sa'Nikto wanted dead for extortion by an anonymous originator. He was killed by the bounty hunter Jango Fett, who claimed his bounty of 4,000.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Kadas%27sa%27Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Bounty/Legends",
+  "/wiki/Credit",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide"
+ ]
+}

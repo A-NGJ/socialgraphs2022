@@ -1,0 +1,38 @@
+{
+ "name": "Thibs_Edo",
+ "display_name": "Thibs Edo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thibs Edo was a human male merchant who sold armor in Black Spire Outpost on the planet Batuu.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Merchant",
+  "/wiki/Armor",
+  "/wiki/Black_Spire_Outpost",
+  "/wiki/Planet",
+  "/wiki/Batuu",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thibs_Edo",
+  "/wiki/Star_Wars:_Datapad"
+ ]
+}

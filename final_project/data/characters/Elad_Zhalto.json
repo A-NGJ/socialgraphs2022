@@ -1,0 +1,37 @@
+{
+ "name": "Elad_Zhalto",
+ "display_name": "Elad Zhalto",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Elad Zhalto was a male Duros who lived on Bespin and owned the Azure Den, an underground gambling spot on Cloud City.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Duros",
+  "/wiki/Gender",
+  "/wiki/Bespin",
+  "/wiki/Azure_Den",
+  "/wiki/Cloud_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Elad_Zhalto",
+  "/wiki/Beyond_the_Clouds",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

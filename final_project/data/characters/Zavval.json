@@ -1,0 +1,70 @@
+{
+ "name": "Zavval",
+ "display_name": "Zavval",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nal Hutta"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "10 BBY",
+      "Ylesia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Besadii"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zavval was the Hutt overlord of the spice refining operation on Ylesia, sibling of Aruk Besadii Aora and brother of Borga Besadii Diori. Teroenza reported directly to Zavval, who in turn reported directly to Aruk. When Han Solo and Bria Tharen escaped Ylesia, Zavval was killed by a collapsing ceiling. Outraged at his death, Aruk wasted no time in replacing him with his nephew Kibbick, who turned out to be completely inept.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nal_Hutta/Legends",
+  "/wiki/10_BBY/Legends",
+  "/wiki/Ylesia/Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Besadii/Legends",
+  "/wiki/Spice/Legends",
+  "/wiki/Aruk_Besadii_Aora",
+  "/wiki/Borga_Besadii_Diori",
+  "/wiki/Teroenza",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Bria_Tharen",
+  "/wiki/Kibbick",
+  "/wiki/The_Paradise_Snare",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/Rebel_Dawn",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_II:_Jedi_Eclipse",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/StarWars.com",
+  "/wiki/So_Uncivilized:_Great_Gunslingers_in_Star_Wars"
+ ]
+}

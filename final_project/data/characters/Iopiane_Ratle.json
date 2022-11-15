@@ -1,0 +1,77 @@
+{
+ "name": "Iopiane_Ratle",
+ "display_name": "Iopiane Ratle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Mirial"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mirialan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iopiane Ratle was a Mirialan female bounty hunter who was active during the Cold War between the Galactic Republic and the resurgent Sith Empire.\nIn 3643 BBY, she was one of the bounty hunters to attend the Great Hunt after poisoning an Imperial Moff. She was killed in the first round.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mirial/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Mirialan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Great_Hunt_(Jedi)",
+  "/wiki/Moff",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Wookiee_(xachibik_broth)",
+ "display_name": "Unidentified Wookiee  (xachibik broth)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kashyyyk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Wookiee"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Male Wookiee was present during Lurdo's travel to Kashyyyk. The Wookiee offered Lurdo xachibik broth but Lurdo refused, offending the Wookiee who considered Lurdo's refusal an insult to his family.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Kashyyyk/Legends",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lurdo",
+  "/wiki/Xachibik_broth",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/What_They_Called_Me",
+  "/wiki/Star_Wars_Gamer_4"
+ ]
+}

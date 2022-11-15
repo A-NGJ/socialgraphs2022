@@ -1,5 +1,6 @@
 {
  "name": "Locust",
+ "display_name": "Locust",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "The Locust was a male Gen'Dai who was the leader of a violent scavenging criminal group on Taris.\nIn 3643 BBY, the Locust captured Amille Razna along with her group of Republic Security agents. Frantic for rescue, Amille sent out a hologram, hoping someone would hear her pleas. Fortunately for her, a Republic aligned individual came for a rescue attempt. The individual fought through many armed scavengers and eventually freed Amille and her team before moving on to combat the Locust. The violent leader was defeated by the individual, and arrested into Republic custody.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Gen%27Dai",

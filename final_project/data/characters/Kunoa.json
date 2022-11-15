@@ -1,5 +1,6 @@
 {
  "name": "Kunoa",
+ "display_name": "Kunoa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Kunoa was a Duros male who served the Sith Empire during the Cold War.\nKunoa can be found both on Vaiken Spacedock and in Kaas City on Dromund Kaas.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Duros/Legends",

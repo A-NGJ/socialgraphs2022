@@ -1,5 +1,6 @@
 {
  "name": "Deers",
+ "display_name": "Deers",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Deers was an Imperial Army colonel assigned to the Star Destroyer Havoc. Deers commanded ground troops tasked with tracking down Rebel survivors of the siege of Edan Base on Edan II.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

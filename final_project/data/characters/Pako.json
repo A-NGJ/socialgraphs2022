@@ -1,5 +1,6 @@
 {
  "name": "Pako",
+ "display_name": "Pako",
  "side_bars": [
   {
    "name": "Physical description",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Pako was a male Yuzzum who frequented the racetrack of Mos Zabu on the planet Tatooine. He was known to pester and prank the podracer Yates.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Yuzzum",

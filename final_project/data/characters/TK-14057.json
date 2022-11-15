@@ -1,0 +1,65 @@
+{
+ "name": "TK-14057",
+ "display_name": "TK-14057",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Aargonar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.80 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Eadu Deployment",
+      "Eadu Deployment"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "TK-14057 was the designation of a human stormtrooper from the planet Aargonar who was part of the Eadu Deployment in 0 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aargonar",
+  "/wiki/Human",
+  "/wiki/Meter",
+  "/wiki/Galactic_Empire",
+  "/wiki/Eadu_Deployment",
+  "/wiki/Operating_number",
+  "/wiki/Stormtrooper",
+  "/wiki/Planet",
+  "/wiki/0_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/TK-14057",
+  "/wiki/Rogue_One:_A_Star_Wars_Story",
+  "/wiki/Star_Wars:_Rogue_One:_The_Ultimate_Visual_Guide"
+ ]
+}

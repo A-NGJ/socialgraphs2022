@@ -1,5 +1,6 @@
 {
  "name": "Regga",
+ "display_name": "Regga",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Regga was an Ithorian podracer who competed in a race on Tatooine in 32 BBY. Racing through Beggar's Canyon, he stayed too high and brushed the cliffs, dying instantly.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/32_BBY/Legends",

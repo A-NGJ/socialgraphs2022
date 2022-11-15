@@ -1,0 +1,85 @@
+{
+ "name": "Saz_Tyrson",
+ "display_name": "Saz Tyrson",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "51 BBY—46 BBY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.6 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Saz Tyrson was an Imperial commander who became a warlord after the Battle of Endor. He was present aboard the luxury liner Stellar Mermaid for Sard Nightbringer's auction of the experimental personal energy shield.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/51_BBY/Legends",
+  "/wiki/46_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/The_Art_of_Betrayal",
+  "/wiki/Commander/Legends",
+  "/wiki/Warlord/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Luxury_liner/Legends",
+  "/wiki/Stellar_Mermaid",
+  "/wiki/Sard_Nightbringer",
+  "/wiki/Personal_energy_shield/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Saz_Tyrson",
+  "/wiki/West_End_Games",
+  "/wiki/The_Politics_of_Contraband",
+  "/wiki/Classic_Adventures",
+  "/wiki/4_ABY/Legends",
+  "/wiki/9_ABY/Legends"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "name": "Bron_Kand%27lar",
+ "display_name": "Bron Kand'lar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "c. 22 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bron Kand'lar was a female Bothan who worked as an intelligence operative for the Alliance to Restore the Republic during the Galactic Civil War.\nKand'lar worked for Alliance Intelligence and when she was 22 years old, traveled to Bilbringi Shipyards, where she investigated the Empire's research into cloaking device technology. While she was there, she learned that four of her Bothan clan-brothers had been killed by Imperial Intelligence.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Alliance_Intelligence",
+  "/wiki/Bilbringi_Shipyards",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Cloaking_device/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Cracken%27s_Rebel_Operatives"
+ ]
+}

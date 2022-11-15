@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Gamorrean_farmer",
+ "display_name": "Unidentified Gamorrean farmer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gamorr"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "Sometime prior to 2 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Gamorrean farmer was working on her farm when Han Solo and Chewbacca arrived on a smuggling run.\nDuring the reign of Emperor Palpatine, this Gamorrean farmer was living on Gamorr and tending her farm. The crime leader Jabba the Hutt sent his two favorite smugglers, Han Solo and Chewbacca to Gamorr to pick up more guards. Their primary point of contact was this farmer, and they required a translator to negotiate. When the smugglers landed, Solo made the mistake of assuming the farmer was male, and insulted her. She was about to kill him when TC-72 apologized on behalf of the uncouth smuggler. After more negotiations, the two smugglers departed with the guards and a package of snoruuks.\nAs a typical Gamorrean sow, she tended the farm. During a conversation with Han Solo, she took affront to his comics and would have killed him if it weren't for a last-second translation by the droid.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorr/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Emperor/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/TC-72",
+  "/wiki/Snoruuk/Legends",
+  "/wiki/Adventures_in_Hyperspace:_Shinbone_Showdown"
+ ]
+}

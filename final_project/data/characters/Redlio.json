@@ -1,5 +1,6 @@
 {
  "name": "Redlio",
+ "display_name": "Redlio",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Redlio was a female Twi'lek spy and huntress who served as a Rebel agent and a member of the Sandwind Team on Sriluur.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Twi%27lek/Legends",

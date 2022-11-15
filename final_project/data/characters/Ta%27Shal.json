@@ -1,0 +1,41 @@
+{
+ "name": "Ta%27Shal",
+ "display_name": "Ta'Shal",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tarasin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ta'Shal was the baron administrator of Bollin as of 31 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Tarasin",
+  "/wiki/Baron_Administrator/Legends",
+  "/wiki/Bollin",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ta%27Shal",
+  "/wiki/Living_Force_Campaign_Guide"
+ ]
+}

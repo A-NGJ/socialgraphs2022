@@ -1,0 +1,61 @@
+{
+ "name": "Vahcer",
+ "display_name": "Vahcer",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Biivren"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Blood Razors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vacher was a Human male who was a member of the Blood Razors swoop gang on the planet Biivren. He was second in command to Shirro.\nHe collected money for the gang from sympathetic citizens and brokered deals with outsiders, such as smugglers. His job was to keep the gang well equipped. He spent most of his time hanging out in bars near the spaceport attempting to find people able to smuggle contraband. Vahcer was born on Biivren and was intimately familiar with the layout of the area, including shortcuts and hidden passageways.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Biivren",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Blood_Razors",
+  "/wiki/Swoop_gang/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Shirro",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

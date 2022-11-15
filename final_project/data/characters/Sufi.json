@@ -1,0 +1,55 @@
+{
+ "name": "Sufi",
+ "display_name": "Sufi",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Lanteeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sufi was a female Human nurse who lived on Lanteeb during the Clone Wars, a galactic conflict between the Galactic Republic and the Confederacy of Independent Systems.\nSufi initially mistrusted of Jedi, and saw them only as agents of the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lanteeb/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Nurse/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Clone_Wars_Gambit:_Siege",
+  "/wiki/Clone_Wars_Gambit:_Siege_(audiobook)"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "name": "Jag_Silon",
+ "display_name": "Jag Silon",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Grayish-blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Vacant Building Demolishing Movement"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jag Silon was a male Twi'lek who acted as a rewards agent for the G.V.B.D.M. He set up shop on one of the lower levels of the Lucky Despot cantina in Mos Eisley, Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gray",
+  "/wiki/Blue",
+  "/wiki/Galactic_Vacant_Building_Demolishing_Movement",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Lucky_Despot",
+  "/wiki/Cantina/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Jag_Silon"
+ ]
+}

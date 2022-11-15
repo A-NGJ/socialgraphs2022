@@ -1,0 +1,62 @@
+{
+ "name": "Slaag_Lado",
+ "display_name": "Slaag Lado",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ninzam VI"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Draag"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Calamasthon Defiance",
+      "Haugg Nerf Industries"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slaag Lado was a male Draag wanted by the Mon Calamari Civil Authority for creating a seismic shock pulse. In 32 BBY, this created a rift in the Salinrerian Sea, causing large amounts of environmental damage and perpetual rain. Slaag Lado's bounty was 3,000 credits alive and its 1,500 dead.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ninzam_VI",
+  "/wiki/Draag",
+  "/wiki/Gender/Legends",
+  "/wiki/Calamasthon_Defiance",
+  "/wiki/Haugg_Nerf_Industries",
+  "/wiki/Mon_Calamari_Civil_Authority",
+  "/wiki/32_BBY/Legends",
+  "/wiki/Salinrerian_Sea",
+  "/wiki/Star_Wars:_Bounty_Hunter",
+  "/wiki/Star_Wars:_Bounty_Hunter:_Prima%27s_Official_Strategy_Guide",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

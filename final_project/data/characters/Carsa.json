@@ -1,5 +1,6 @@
 {
  "name": "Carsa",
+ "display_name": "Carsa",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Carsa was a male Human lieutenant on the Imperial Star Destroyer Freedom. He died when a monitor exploded in his face during the Battle of Thyferra.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/7_ABY/Legends",

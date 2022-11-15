@@ -1,0 +1,53 @@
+{
+ "name": "Toniv",
+ "display_name": "Toniv",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Navy",
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toniv was an officer of the Imperial Navy.\nIn 4 BBY, Commander Toniv served as the executive officer under Captain Soontir Fel aboard Pride of the Senate during the Battle of Nar Shaddaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/4_BBY/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Executive_officer/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Soontir_Fel/Legends",
+  "/wiki/Pride_of_the_Senate",
+  "/wiki/Battle_of_Nar_Shaddaa_(3_BBY)",
+  "/wiki/The_Hutt_Gambit",
+  "/wiki/X-Wing_Rogue_Squadron_25"
+ ]
+}

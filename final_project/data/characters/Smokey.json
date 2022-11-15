@@ -1,0 +1,64 @@
+{
+ "name": "Smokey",
+ "display_name": "Smokey",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rib-cat"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown and tan"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Loonoo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smokey was a rib-cat owned by the con artist Loonoo. One of several rib-cats belonging to Loonoo, Smokey resided in his apartment in the Corellian Sector on Nar Shaddaa and subsisted on rats while their owner was away on long cons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nar_Shaddaa",
+  "/wiki/Rib-cat",
+  "/wiki/Color",
+  "/wiki/Loonoo",
+  "/wiki/Gender",
+  "/wiki/Corellian_Sector_(Nar_Shaddaa)",
+  "/wiki/Rat",
+  "/wiki/Star_Wars:_Smuggler%27s_Guide"
+ ]
+}

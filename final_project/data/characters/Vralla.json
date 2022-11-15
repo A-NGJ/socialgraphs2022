@@ -1,0 +1,69 @@
+{
+ "name": "Vralla",
+ "display_name": "Vralla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 0 ABY and 3 ABY",
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Metallic purple"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vralla was a female Rodian who lived during the time of the Galactic Civil War.\nVralla was a non-player character in the 2003 video game Star Wars Galaxies: An Empire Divided, a massively multiplayer online roleplaying game developed by Sony Online Entertainment and published by LucasArts, prior to its closure on December 15, 2011.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Star_Wars_Galaxies",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vralla",
+  "/wiki/2003",
+  "/wiki/Video_game",
+  "/wiki/Sony",
+  "/wiki/LucasArts",
+  "/wiki/December_15",
+  "/wiki/2011"
+ ]
+}

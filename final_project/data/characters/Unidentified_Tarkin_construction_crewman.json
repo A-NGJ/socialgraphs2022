@@ -1,0 +1,55 @@
+{
+ "name": "Unidentified_Tarkin_construction_crewman",
+ "display_name": "Unidentified Tarkin construction crewman",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This man was among the sizable construction crew of the Galactic Empire's incomplete Tarkin superweapon in 3 ABY, following the Battle of Hoth. A group of Rebel saboteurs, including Luke Skywalker, Leia Organa, and the Wookiee Chewbacca, jumped this man and a fellow worker, Brunok, while on the planet Hockaleg and stole their construction uniforms, enabling them to sneak aboard and eventually destroy the Tarkin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Tarkin_(superweapon)",
+  "/wiki/Superweapon/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Wookiee/Legends",
+  "/wiki/Chewbacca/Legends",
+  "/wiki/Brunok",
+  "/wiki/Planet/Legends",
+  "/wiki/Hockaleg",
+  "/wiki/Star_Wars_(1977)_51"
+ ]
+}

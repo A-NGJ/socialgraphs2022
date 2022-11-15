@@ -1,5 +1,6 @@
 {
  "name": "Rooni",
+ "display_name": "Rooni",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Rooni was a blue skinned male Valltii who worked for Zerpen Industries with Galen Walton Erso.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Valltii",

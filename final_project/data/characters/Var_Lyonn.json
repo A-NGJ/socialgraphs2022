@@ -1,0 +1,62 @@
+{
+ "name": "Var_Lyonn",
+ "display_name": "Var Lyonn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Delaya"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Var Lyonn was the deputy to Prime Minister Gresh Manaa on Delaya. General Carlist Rieekan suspected that Lyonn was in fact the true power broker on the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Delaya/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Prime_Minister_(Delaya)",
+  "/wiki/Gresh_Manaa",
+  "/wiki/General/Legends",
+  "/wiki/Carlist_Rieekan/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Var_Lyonn",
+  "/wiki/Rebel_Force:_Hostage"
+ ]
+}

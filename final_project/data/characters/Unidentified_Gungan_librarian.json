@@ -1,0 +1,61 @@
+{
+ "name": "Unidentified_Gungan_librarian",
+ "display_name": "Unidentified Gungan librarian",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo",
+      "Ohma-D'un"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Otoh Gunga"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Gungan worked as a librarian in the city of New Otoh Gunga.\nIn Star Wars Episode I: The Gungan Frontier, the librarian was voiced by Greg Burson, who also voiced Boss Rugor Nass in the same game.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Ohma-D%27un/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Otoh_Gunga",
+  "/wiki/File:AncestralArchives-TGF.ogg",
+  "/wiki/Star_Wars_Episode_I:_The_Gungan_Frontier",
+  "/wiki/Greg_Burson",
+  "/wiki/Boss/Legends",
+  "/wiki/Rugor_Nass/Legends"
+ ]
+}

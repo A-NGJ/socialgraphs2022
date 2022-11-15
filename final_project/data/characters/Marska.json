@@ -1,5 +1,6 @@
 {
  "name": "Marska",
+ "display_name": "Marska",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Marska was a Human female spy who had been ordered by the Emperor to keep an eye on Governor-General Dixton while posing as his vacuous mistress.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

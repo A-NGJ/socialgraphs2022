@@ -1,0 +1,65 @@
+{
+ "name": "Ranulf_Trommer",
+ "display_name": "Ranulf Trommer",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Starfighter Corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ranulf Trommer was a human male who served as an Imperial pilot of the Galactic Empire, serving within its Imperial Starfighter Corps. Trommer was equipped with the standard Imperial pilot uniform and gear and flew a TIE/sa bomber. He had black hair and light skin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ranulf_Trommer",
+  "/wiki/Ranulf_Trommer/Legends",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Pilot",
+  "/wiki/TIE/sa_bomber",
+  "/wiki/Hair",
+  "/wiki/Star_Wars:_Starfighter_Missions"
+ ]
+}

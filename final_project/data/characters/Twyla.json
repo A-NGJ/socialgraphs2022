@@ -1,0 +1,76 @@
+{
+ "name": "Twyla",
+ "display_name": "Twyla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Hynestia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hynestian Royal Guard"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Twyla was a female Hynestian and a member of the Hynestian Royal Guard who arrested Lando Calrissian for illegally smuggling purple glandis flower juice onto the planet Hynestia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Hynestia_Prime",
+  "/wiki/Human",
+  "/wiki/Hynestian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Hynestian_Royal_Guard",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Smuggler",
+  "/wiki/Purple_glandis_flower_juice",
+  "/wiki/Planet",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Twyla",
+  "/wiki/Lando%27s_Luck",
+  "/wiki/Lando%27s_Luck_(audiobook)"
+ ]
+}

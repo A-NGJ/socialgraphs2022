@@ -1,0 +1,54 @@
+{
+ "name": "Smythers",
+ "display_name": "Smythers",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Office of Customs",
+      "Imperial Office of Customs"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Lieutenant Smythers was an officer working in the Imperial Office of Customs. Smythers worked under Captain Alijah Orr at the Gallisport spaceport on Shesharile 5.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Office_of_Customs/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Alijah_Orr",
+  "/wiki/Gallisport",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Shesharile_5",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Lumrunners",
+  "/wiki/Star_Wars_Adventure_Journal_9"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Biril",
+ "display_name": "Biril",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Biril was a large Human male member of the Khuiumin Survivors. He had previously worked as a manicurist.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

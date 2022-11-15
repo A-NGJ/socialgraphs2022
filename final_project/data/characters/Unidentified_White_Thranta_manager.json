@@ -1,0 +1,64 @@
+{
+ "name": "Unidentified_White_Thranta_manager",
+ "display_name": "Unidentified White Thranta manager",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Thranta Shipping Company",
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An unidentified male Mon Calamari served as the manager of the White Thranta Shipping Company during the Galactic Civil War. The company was located on Tatooine, near the city of Mos Eisley. It was outwardly a shipping company, but secretly kidnapped victims for Jabba Desilijic Tiure.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/White_Thranta_Shipping_Company",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Mos_Eisley/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_White_Thranta_manager",
+  "/wiki/Star_Wars_Galaxies_Trading_Card_Game",
+  "/wiki/Champions_of_the_Force_(SWGTCG)",
+  "/wiki/Template:SWGTCG"
+ ]
+}

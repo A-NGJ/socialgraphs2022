@@ -1,0 +1,45 @@
+{
+ "name": "Uncle_Dravos",
+ "display_name": "Uncle Dravos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Maxeena Sov'lya"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Uncle Dravos was a Bothan criminal who managed the criminal empire of Maxeena Sov'lya. He was a distant relative of her and acted as a buffer between Sov'lya and her criminal enterprises. He spent most of his time at the Tal'cara spaceport making payoffs and brokering deals. While generally thought of as small-time, insiders knew he was highly thought of by Sov'lya.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bothan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Maxeena_Sov%27lya",
+  "/wiki/Tal%27cara",
+  "/wiki/Spaceport/Legends",
+  "/wiki/Platt%27s_Smugglers_Guide"
+ ]
+}

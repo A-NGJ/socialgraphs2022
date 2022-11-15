@@ -1,0 +1,62 @@
+{
+ "name": "Koong_Eeth",
+ "display_name": "Koong Eeth",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Saleucami"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Koong Eeth was a male Human who served as Governor of Saleucami during the Galactic Civil War.\nDuring a Zann Consortium mission to Saleucami, Eeth was grievously wounded by Urai Fen during a skirmish on the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Saleucami/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Governor/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Zann_Consortium/Legends",
+  "/wiki/Skirmish_on_Saleucami",
+  "/wiki/Urai_Fen",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_Empire_at_War:_Forces_of_Corruption",
+  "/wiki/Star_Wars:_Empire_at_War:_Forces_of_Corruption_Expansion:_Prima_Official_Game_Guide"
+ ]
+}

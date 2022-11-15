@@ -1,5 +1,6 @@
 {
  "name": "Kelemer",
+ "display_name": "Kelemer",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Kelemer was a Duros miner in the beetle caverns on Andelm IV.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Duros",

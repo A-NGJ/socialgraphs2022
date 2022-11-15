@@ -1,0 +1,67 @@
+{
+ "name": "Splitter_Of_Stones",
+ "display_name": "Splitter Of Stones",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nirauan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Qom Jha"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Qom Jha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Splitter Of Stones was one of the three Qom Jha, along with Keeper Of Promises and Builder With Vines, to help Luke Skywalker and Mara Jade find the entrance to the Hand of Thrawn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nirauan/Legends",
+  "/wiki/Qom_Jha_and_Qom_Qae",
+  "/wiki/Gender/Legends",
+  "/wiki/Keeper_Of_Promises",
+  "/wiki/Builder_With_Vines",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Mara_Jade_Skywalker",
+  "/wiki/Mission_to_Nirauan",
+  "/wiki/Hand_of_Thrawn",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

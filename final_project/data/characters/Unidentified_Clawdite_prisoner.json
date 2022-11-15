@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_Clawdite_prisoner",
+ "display_name": "Unidentified Clawdite prisoner",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Clawdite"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Clawdite female from the Lambda sector was held as a prisoner at the Jabba's Palace on the planet Tatooine at the time a munka miner was taken prisoner by Jabba Desilijic Tiure.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Clawdite",
+  "/wiki/Gender",
+  "/wiki/Lambda_sector",
+  "/wiki/Boba_Fett%27s_Palace",
+  "/wiki/Planet",
+  "/wiki/Tatooine",
+  "/wiki/Time",
+  "/wiki/Unidentified_munka_miner",
+  "/wiki/Prisoner",
+  "/wiki/Jabba_Desilijic_Tiure",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Clawdite_prisoner",
+  "/wiki/Choose_Your_Destiny:_An_Escape_Mission"
+ ]
+}

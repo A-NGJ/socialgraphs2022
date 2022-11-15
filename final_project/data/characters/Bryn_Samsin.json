@@ -1,0 +1,72 @@
+{
+ "name": "Bryn_Samsin",
+ "display_name": "Bryn Samsin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Makeb"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bryn Samsin was a male Twi'lek, native to the planet Makeb. During the Conquest of Makeb, the Protectors evacuation camps was attacked by former mercenaries of InterStellar Regulators to capture hostages and use them to negotiate for seats aboard the Ark. Bryn asked Tad Belanger to exact revenge on said mercenaries and rescue the hostages. Tad refused as the primary goal of his organization was humanitarian actions, but Bryn was lucky enough to have a Republic strike force in the area during the argument.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Makeb",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Conquest_of_Makeb",
+  "/wiki/InterStellar_Regulators",
+  "/wiki/The_Ark",
+  "/wiki/Tad_Belanger",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

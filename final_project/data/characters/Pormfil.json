@@ -1,5 +1,6 @@
 {
  "name": "Pormfil",
+ "display_name": "Pormfil",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Pormfil was a male Kerestian engineer on board the Wild Karrde in 19 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kerestian/Legends",

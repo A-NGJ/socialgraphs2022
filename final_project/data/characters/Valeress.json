@@ -1,0 +1,34 @@
+{
+ "name": "Valeress",
+ "display_name": "Valeress",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Valeress was a Human female slicer who lived during the Galactic Civil War. When she was young, she broke into the Corporate Sector Authority's black operations database, which caused assassins to be on her tail.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Corporate_Sector_Authority/Legends",
+  "/wiki/Heroes_%26_Rogues"
+ ]
+}

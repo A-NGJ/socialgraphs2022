@@ -1,0 +1,61 @@
+{
+ "name": "Dartan_Ziemba",
+ "display_name": "Dartan Ziemba",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dartan Ziemba was an Alderaanian who gave the Empire a tip about a Force-sensitive toddler living on Alderaan. He had a wife named Sona and a daughter named Tula.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Sona_Ziemba",
+  "/wiki/Tula_Ziemba",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Dartan_Ziemba",
+  "/wiki/The_Last_of_the_Jedi:_Master_of_Deception"
+ ]
+}

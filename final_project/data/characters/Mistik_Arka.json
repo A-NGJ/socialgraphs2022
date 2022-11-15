@@ -1,0 +1,41 @@
+{
+ "name": "Mistik_Arka",
+ "display_name": "Mistik Arka",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mistik Arka was a Quarren technician who served aboard the Rebel privateer vessel Free Lance during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Quarren/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Technician/Legends",
+  "/wiki/Rebel_privateer",
+  "/wiki/Starship/Legends",
+  "/wiki/Free_Lance",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Pirates_%26_Privateers"
+ ]
+}

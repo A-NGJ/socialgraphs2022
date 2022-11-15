@@ -1,0 +1,36 @@
+{
+ "name": "Coli_Carinth",
+ "display_name": "Coli Carinth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Coli Carinth was a female Human spacer and owner of the YT-1300 light freighter Archai.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Spacer/Legends",
+  "/wiki/YT-1300_light_freighter/Legends",
+  "/wiki/Archai",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Coli_Carinth",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

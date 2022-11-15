@@ -1,0 +1,35 @@
+{
+ "name": "Byun_Tenab",
+ "display_name": "Byun Tenab",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Byun Tenab was a Sullustan smuggler and scavenger. A skilled pilot, his starship was filled with junk and rubbish.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Scavenger/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Star_Wars_Gamemaster_Handbook"
+ ]
+}

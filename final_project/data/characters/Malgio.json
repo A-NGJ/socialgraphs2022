@@ -1,5 +1,6 @@
 {
  "name": "Malgio",
+ "display_name": "Malgio",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Malgio was a corpulent Quarren who was academically proficient and it was said that he was witty. He owned many ships and was one of the best inventors of Starship Customizations.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

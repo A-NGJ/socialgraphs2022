@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Mythrol",
+ "display_name": "Unidentified Mythrol",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mythrol"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Mythrol worked as a chef at President Jamie Brasen's estate on Begamor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Mythrol",
+  "/wiki/Gender",
+  "/wiki/Chef",
+  "/wiki/President",
+  "/wiki/Jamie_Brasen",
+  "/wiki/Begamor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Mythrol",
+  "/wiki/The_Vow_of_Silver_Dawn"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "name": "Piknab_Carsels",
+ "display_name": "Piknab Carsels",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Piknab Carsels was a Gungan pilot who operated out of Varna Biqua. He left Naboo at a young age seeking adventure and enrolled at one flight school after another. He tried to learn how to fly every type of ship he could, but his favorite were starfighters.\nWhen Piknab was twenty-five, he bought his own starfighter, the Gungan Glory, getting financing from Riboga the Hutt and his Smugglers' Confederation. Despite his ace piloting skills, he ended up delinquent on a few payments. When the enforcers came and wanted to cut off his ears, he agreed to pay off his debt by working for Riboga and the Smugglers' Confederation. Even after Riboga left the system in 53 BBY, Piknab was working off his debt.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Varna_Biqua",
+  "/wiki/Starship/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Gungan_Glory",
+  "/wiki/Riboga",
+  "/wiki/Hutt/Legends",
+  "/wiki/Smugglers%27_Confederation",
+  "/wiki/53_BBY/Legends",
+  "/wiki/Living_Force_Campaign_Guide",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

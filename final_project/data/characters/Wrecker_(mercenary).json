@@ -1,0 +1,39 @@
+{
+ "name": "Wrecker_(mercenary)",
+ "display_name": "Wrecker  (mercenary)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Toydarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wrecker was a Toydarian mercenary who was hired to kidnap Walisi and steal the statue Tragic Hope. A stubborn haggler, Wrecker was the leader of a band of mercenaries.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wrecker_(disambiguation)",
+  "/wiki/Toydarian",
+  "/wiki/Gender",
+  "/wiki/Mercenary",
+  "/wiki/Walisi%27s_kidnapping",
+  "/wiki/Walisi",
+  "/wiki/Tragic_Hope",
+  "/wiki/Wrecker%27s_Mercenaries",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wrecker_(mercenary)",
+  "/wiki/Ghosts_of_Dathomir"
+ ]
+}

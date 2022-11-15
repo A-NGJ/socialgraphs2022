@@ -1,0 +1,31 @@
+{
+ "name": "Unidentified_Zabrak_smuggler",
+ "display_name": "Unidentified Zabrak smuggler",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sometime before 7 ABY, a famed Zabrak smuggler exported Lee romay from the planet Mon Cala. Eventually the Lee romay were illegally sneaked onto Chandrila.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Zabrak",
+  "/wiki/BX-778",
+  "/wiki/7_ABY",
+  "/wiki/Lee_romay",
+  "/wiki/Planet",
+  "/wiki/Mon_Cala",
+  "/wiki/Chandrila",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

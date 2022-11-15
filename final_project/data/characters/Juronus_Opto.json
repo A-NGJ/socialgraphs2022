@@ -1,0 +1,46 @@
+{
+ "name": "Juronus_Opto",
+ "display_name": "Juronus Opto",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ardennia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Juronus Opto was a human individual from Ardennia active during the war between the First Order and the Resistance. Opto wore a hermetically-sealed flight helmet, a duster jacket, and variable mag-grip boots, and also carried a hidden hold-out blaster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ardennia",
+  "/wiki/Human",
+  "/wiki/First_Order-Resistance_War",
+  "/wiki/First_Order",
+  "/wiki/Resistance",
+  "/wiki/Flight_helmet",
+  "/wiki/Jacket",
+  "/wiki/Hold-out_blaster",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Juronus_Opto",
+  "/wiki/Star_Wars:_Batuu_Bounty_Hunters",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary"
+ ]
+}

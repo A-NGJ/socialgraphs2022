@@ -1,5 +1,6 @@
 {
  "name": "Pombo",
+ "display_name": "Pombo",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Pombo was a member of a herd of tauntauns that were captured and domesticated by the Rebel Alliance forces on the planet Hoth. Pombo was present when the herd's matriarch, Murra, was challenged by Keelak, another tauntaun in the herd.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Hoth",

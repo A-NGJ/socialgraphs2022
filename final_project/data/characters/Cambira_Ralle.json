@@ -1,0 +1,74 @@
+{
+ "name": "Cambira_Ralle",
+ "display_name": "Cambira Ralle",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Esseles"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Anti-Imperial Forad Party"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cambira Ralle was a Human male from Esseles who was a decorated veteran of the Clone Wars. He later became President of the Esselian Hall and a member of the anti-Imperial Forad Party. Opposition to his leadership of parliament increased after the Battle of Yavin and an economic downturn, as well as military intervention by Imperial Governor Griff Takel.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Esseles/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Forad_Party",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/President/Legends",
+  "/wiki/Esselian_Hall",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Galactic_economy",
+  "/wiki/Governor/Legends",
+  "/wiki/Griff_Takel",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cambira_Ralle",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Galaxywide_NewsNets",
+  "/wiki/Star_Wars_Adventure_Journal_5",
+  "/wiki/Into_the_Core_Worlds",
+  "/wiki/Star_Wars_Adventure_Journal_7",
+  "/wiki/Star_Wars_Adventure_Journal_8",
+  "/wiki/Star_Wars_Adventure_Journal_9",
+  "/wiki/The_Far_Orbit_Project"
+ ]
+}

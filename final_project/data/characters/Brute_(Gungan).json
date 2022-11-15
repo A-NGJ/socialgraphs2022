@@ -1,0 +1,52 @@
+{
+ "name": "Brute_(Gungan)",
+ "display_name": "Brute  (Gungan)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brute was a Gungan male from Naboo. He chose to work as a shoe salesman, which, due to Gungans not wearing shoes, required him to leave his homeworld. Brute believed his vocation as a salesman was a noble and worthwhile endeavor, and one that brought him considerable satisfaction. It also earned him a large commission, and so in 31 BBY, he visited Depatar on Genarius—visiting the Grande Game casino—before continuing on to Tolea Biqua.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Brute",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Depatar",
+  "/wiki/Genarius",
+  "/wiki/Grande_Game",
+  "/wiki/Casino/Legends",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Clouded_Paths"
+ ]
+}

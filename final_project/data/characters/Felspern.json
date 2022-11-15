@@ -1,5 +1,6 @@
 {
  "name": "Felspern",
+ "display_name": "Felspern",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Felspern was a Mon Calamari councilor who ran for the position of Senator.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dac",

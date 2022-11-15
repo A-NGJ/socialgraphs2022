@@ -1,5 +1,6 @@
 {
  "name": "Hallro",
+ "display_name": "Hallro",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Hallro was a human male child who worked for the White Worms. He offered Qi'ra some extra food after she had been promoted to Head.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Corellia",

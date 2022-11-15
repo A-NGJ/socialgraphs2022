@@ -1,0 +1,48 @@
+{
+ "name": "Brudi_Gayn",
+ "display_name": "Brudi Gayn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brudi Gayn was a Human male and freelance pilot.\nIn 19 BBY, Gayn was hired by Cash Garrulan to pilot a CloakShape Fighter, transporting Roan Shryne and Olee Starstone from Murkhana to the Drunk Dancer.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Cash_Garrulan",
+  "/wiki/CloakShape_fighter/Legends",
+  "/wiki/Roan_Shryne",
+  "/wiki/Olee_Starstone",
+  "/wiki/Murkhana/Legends",
+  "/wiki/Drunk_Dancer",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brudi_Gayn",
+  "/wiki/Dark_Lord:_The_Rise_of_Darth_Vader"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Andershan",
+ "display_name": "Andershan",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Andershan was a male Mon Calamari who attained the rank of general within the Alliance to Restore the Republic. He briefed a teams of Rebels on a mission to destroy the Imperial Data Processing Facility on Tazan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mon_Calamari/Legends",

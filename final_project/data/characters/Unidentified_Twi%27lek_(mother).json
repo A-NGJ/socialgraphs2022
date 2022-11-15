@@ -1,0 +1,47 @@
+{
+ "name": "Unidentified_Twi%27lek_(mother)",
+ "display_name": "Unidentified Twi'lek  (mother)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Twi'lek mother and her child were captured as hostages at a Coruscant train station by Cassie Cryar, a thief of the Coruscant underworld, while she was being chased by the Padawan Ahsoka Tano. The Twi'lek was freed when Jedi Master Tera Sinube disarmed Cryar and knocked her unconscious.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Unidentified_Twi%27lek_child_(hostage)",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Cassie_Cryar",
+  "/wiki/Coruscant_underworld",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Tera_Sinube/Legends",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Lightsaber_Lost"
+ ]
+}

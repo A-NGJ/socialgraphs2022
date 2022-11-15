@@ -1,5 +1,6 @@
 {
  "name": "Daltrid",
+ "display_name": "Daltrid",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Daltrid was a male S'kytri who served as Lord of the Highlands of Skye during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Skye/Legends",

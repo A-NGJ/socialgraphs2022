@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Ithorian_(StarForge_Station)",
+ "display_name": "Unidentified Ithorian  (StarForge Station)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian met six crew members of the Far Orbit in the Lean Nuuti Bar and Grill at StarForge Station to discuss it becoming a privateering vessel for the Alliance to Restore the Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Far_Orbit",
+  "/wiki/Lean_Nuuti_Bar_and_Grill",
+  "/wiki/StarForge_Station",
+  "/wiki/Privateer/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Preparing_for_War",
+  "/wiki/The_Far_Orbit_Project"
+ ]
+}

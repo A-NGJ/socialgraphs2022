@@ -1,0 +1,50 @@
+{
+ "name": "Gotar_(acid_lizard)",
+ "display_name": "Gotar  (acid lizard)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Acid lizard"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mole creatures"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Gotar was an acid lizard to whom the mole creatures of Tatooine offered the unfortunate victims which fell into their lair as meals. R2-D2 and C-3PO once encountered him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Acid_lizard",
+  "/wiki/Mole_creature",
+  "/wiki/R2-D2/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Droids_(1986)_6"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Yun_(Aqualish)",
+ "display_name": "Yun  (Aqualish)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Des'maric Pirates"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yun was an Aqualish mercenary, and member of the Des'maric Pirates. One of Miktiss' trusted lieutenants, Yun commanded one of the group's three Skipray Blastboats.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yun_(disambiguation)",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Des%27maric_Pirates",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Miktiss",
+  "/wiki/GAT-12_Skipray_Blastboat",
+  "/wiki/The_DarkStryder_Campaign"
+ ]
+}

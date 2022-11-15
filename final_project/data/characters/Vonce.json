@@ -1,0 +1,66 @@
+{
+ "name": "Vonce",
+ "display_name": "Vonce",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "27 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Peace Brigade"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vonce was a Hapan male pirate, and Benwick Chell's co-pilot. He was a member of the Peace Brigade. In 27 ABY he was killed by Yuuzhan Vong assassin Neeka Sot.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/27_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Peace_Brigade",
+  "/wiki/Hapan",
+  "/wiki/Pirate/Legends",
+  "/wiki/Benwick_Chell",
+  "/wiki/Pilot/Legends",
+  "/wiki/Death/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Assassin/Legends",
+  "/wiki/Neeka_Sot",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vonce",
+  "/wiki/The_New_Jedi_Order:_Dark_Journey",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

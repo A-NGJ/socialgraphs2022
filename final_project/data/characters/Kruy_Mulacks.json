@@ -1,0 +1,55 @@
+{
+ "name": "Kruy_Mulacks",
+ "display_name": "Kruy Mulacks",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Benja-Rihn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Carthasian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kruy Mulacks was a male Carthasian and host of the Kruy Mulacks Show. His holoshow recording crew was present at the opening of the Temple of Tet-Ami in the city of Carthas, on Benja-Rihn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Benja-Rihn",
+  "/wiki/Carthasian",
+  "/wiki/Gender/Legends",
+  "/wiki/Temple_of_Tet-Ami",
+  "/wiki/Carthas",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Kruy_Mulacks",
+  "/wiki/The_Secret_of_Tet-Ami",
+  "/wiki/Star_Wars_Tales_13",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

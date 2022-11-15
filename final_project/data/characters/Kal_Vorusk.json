@@ -1,0 +1,53 @@
+{
+ "name": "Kal_Vorusk",
+ "display_name": "Kal Vorusk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kal Vorusk was a male Human working with ISB agent Govin Thane to stop a group of Rebel agents on Cloud City. He was a hulking man who attempted to murder the Twi'lek slicer Spensor Kluub in Room 564 of the Grand Bespin Hotel in Cloud City.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Govin_Thane",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Spensor_Kluub",
+  "/wiki/Grand_Bespin_Hotel/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Cloud_Cover",
+  "/wiki/Star_Wars_Gamer_3"
+ ]
+}

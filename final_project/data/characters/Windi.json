@@ -1,0 +1,50 @@
+{
+ "name": "Windi",
+ "display_name": "Windi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Windi was a human female who had a relationship with Cassian Andor while he was on Niamos. The two lived together in a home near the beach after Andor went into hiding. She knew Andor as Keef Girgo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wookieepedia:Spoilers",
+  "/wiki/Announcement",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Cassian_Jeron_Andor",
+  "/wiki/Niamos",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Windi",
+  "/wiki/Andor_(television_series)"
+ ]
+}

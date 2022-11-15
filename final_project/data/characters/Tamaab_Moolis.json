@@ -1,0 +1,67 @@
+{
+ "name": "Tamaab_Moolis",
+ "display_name": "Tamaab Moolis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Institute for Sentient Studies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tamaab Moolis was an Ithorian researcher that escaped the destruction of his homeworld. In 25 ABY, he was the Director of the Institute for Sentient Studies.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithor/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Institute_for_Sentient_Studies",
+  "/wiki/Battle_of_Ithor",
+  "/wiki/Planet/Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tamaab_Moolis",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

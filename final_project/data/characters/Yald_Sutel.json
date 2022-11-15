@@ -1,0 +1,55 @@
+{
+ "name": "Yald_Sutel",
+ "display_name": "Yald Sutel",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yald Sutel was a Human male officer in the New Republic Defense Force. He had a blocky head and by 25 ABY held the rank of general.\nThat year he was assigned to the Battle of Ord Mantell, placed in command of the Imperial forces formerly under the command of Vice Admiral Ark Poinard. From the bridge of Poinard's command ship, Erinnic, the two officers planned the failed defense of Ord Mantell.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Combined_Defense_Forces_of_the_New_Republic",
+  "/wiki/25_ABY/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Battle_of_Ord_Mantell_(Yuuzhan_Vong_War)",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Vice_Admiral/Legends",
+  "/wiki/Ark_Poinard",
+  "/wiki/Erinnic",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_Official_Star_Wars_Fact_File",
+  "/wiki/The_Official_Star_Wars_Fact_File_116",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

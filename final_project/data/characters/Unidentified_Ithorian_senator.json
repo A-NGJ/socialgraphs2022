@@ -1,0 +1,62 @@
+{
+ "name": "Unidentified_Ithorian_senator",
+ "display_name": "Unidentified Ithorian senator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ithor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Senate",
+      "Galactic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian represented Ithor in the Galactic Senate. The senator protested against the Trade Federation and the humans of the Urce sector, who claimed ownership of parts of a hyperspace route in the Lesser Plooriod Cluster that was mostly mapped out by Ithorians. The motion was opposed by a Trade Federation delegate and a senator from the Urce sector, and resulted in a failure.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ithor",
+  "/wiki/Ithorian",
+  "/wiki/Galactic_Republic",
+  "/wiki/Galactic_Senate",
+  "/wiki/Supreme_Chancellor",
+  "/wiki/Darth_Sidious",
+  "/wiki/Senator",
+  "/wiki/Trade_Federation",
+  "/wiki/Human",
+  "/wiki/Urce_sector",
+  "/wiki/Hyperspace_route",
+  "/wiki/Lesser_Plooriod_Cluster",
+  "/wiki/Unidentified_senator_(Urce_sector)",
+  "/wiki/Sector",
+  "/wiki/Queen%27s_Shadow",
+  "/wiki/Queen%27s_Shadow_(audiobook)"
+ ]
+}

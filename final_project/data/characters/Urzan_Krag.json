@@ -1,0 +1,83 @@
+{
+ "name": "Urzan_Krag",
+ "display_name": "Urzan Krag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ando"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "20 BBY",
+      "over Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urzan Krag was an Aqualish bounty hunter who worked for Jabba Desilijic Tiure. He tried to kill Boba Fett, but the young boy destroyed Krag's ship in a space battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/20_BBY/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Black",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Jedi/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Jango_Fett/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Urzan_Krag",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/CIS_Shadowfeed_Dispatch_15:01:15_Edition",
+  "/wiki/Star_Wars_Insider_73",
+  "/wiki/Boba_Fett:_A_New_Threat",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

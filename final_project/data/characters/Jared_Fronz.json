@@ -1,0 +1,53 @@
+{
+ "name": "Jared_Fronz",
+ "display_name": "Jared Fronz",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Thinning white"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jared Fronz was an Imperial relief coordinator during the evacuation of Demophon prior to the Demophon supernova. He was grossly fat and sweated profusely, but his soft appearance hid a menacing undercurrent.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Demophon",
+  "/wiki/Demophon_supernova",
+  "/wiki/West_End_Games",
+  "/wiki/The_Beginning_of_the_End",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

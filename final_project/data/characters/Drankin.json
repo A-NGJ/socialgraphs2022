@@ -1,5 +1,6 @@
 {
  "name": "Drankin",
+ "display_name": "Drankin",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Drankin was a male Human Senator of the New Republic who served c. 16 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Dankin",

@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Ovissian_headmaster",
+ "display_name": "Unidentified Ovissian headmaster",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ovissian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Unidentified school"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ovissian served as the headmaster of a school on the planet Merokia.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ovissian",
+  "/wiki/Gender",
+  "/wiki/Unidentified_school",
+  "/wiki/Planet",
+  "/wiki/Merokia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ovissian_headmaster",
+  "/wiki/Force_Collector",
+  "/wiki/Force_Collector_(audiobook)"
+ ]
+}

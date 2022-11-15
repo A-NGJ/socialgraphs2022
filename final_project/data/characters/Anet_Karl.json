@@ -1,0 +1,63 @@
+{
+ "name": "Anet_Karl",
+ "display_name": "Anet Karl",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Dark"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Urias Xhaxin"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Anet Karl was the ship surgeon on the pirate Urias Xhaxin's EF76 Nebulon-B escort frigate Free Lance. She was a Human woman with long dark hair.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Urias_Xhaxin",
+  "/wiki/Doctor/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "/wiki/Free_Lance",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Anet_Karl",
+  "/wiki/The_New_Jedi_Order:_Dark_Tide_I:_Onslaught",
+  "/wiki/Pirates_%26_Privateers",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

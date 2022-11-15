@@ -1,5 +1,6 @@
 {
  "name": "Baro",
+ "display_name": "Baro",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Baro was a Human male councillor from Zila on Garos IV during the era of the New Republic. He was deeply concerned with the Imperial activities in Zila.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

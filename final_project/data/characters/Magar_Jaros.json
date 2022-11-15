@@ -1,0 +1,68 @@
+{
+ "name": "Magar_Jaros",
+ "display_name": "Magar Jaros",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "30 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.3 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Magar Jaros was a Sullustan male counterfeiter operating in 10 ABY. He was wanted for forgery and criminal conspiracy, although he maintained he performed the forgery because of the \"creative challenge.\" He used computerized magnifocals to correct his defective vision.\nAlthough considered a B-list counterfeiter, Jaros was particularly skilled with the tri-laser engraver, and his talents were widely respected. However, he refused to \"produce\" more than a few thousand credits each time. He commonly spoke in Sullustese and was known to leave any planet after a few months.\nHe was considered mild-mannered, insipid and lacking in social skills, even refusing to work with subordinates. Due to his lack of self-confidence, some believed that Jaros had been rejected and humiliated in the past, and that he performed his crimes as some sort of personal revenge.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/30_BBY/Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/10_ABY/Legends",
+  "/wiki/Spectacles",
+  "/wiki/Tri-laser_engraver",
+  "/wiki/Sullustese/Legends",
+  "/wiki/Galaxy_Guide_11:_Criminal_Organizations",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

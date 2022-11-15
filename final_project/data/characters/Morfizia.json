@@ -1,5 +1,6 @@
 {
  "name": "Morfizia",
+ "display_name": "Morfizia",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Morfizia was a female Moragan and the wife of Morfizo.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Category:Articles_to_be_expanded",

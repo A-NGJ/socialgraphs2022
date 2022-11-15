@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Ithorian_hotel_proprietor",
+ "display_name": "Unidentified Ithorian hotel proprietor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian male worked as a proprietor in a cheap hotel of Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Ithorian",
+  "/wiki/Gender",
+  "/wiki/Coruscant",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ithorian_hotel_proprietor",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows",
+  "/wiki/The_High_Republic:_Out_of_the_Shadows_(audiobook)"
+ ]
+}

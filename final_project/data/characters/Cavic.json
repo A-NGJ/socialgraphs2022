@@ -1,5 +1,6 @@
 {
  "name": "Cavic",
+ "display_name": "Cavic",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Cavic was a human male bounty hunter and former member of the Galactic Empire who was an associate of Beilert Valance. Cavic set up a number of outposts in asteroid fields, hidden from the Empire.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

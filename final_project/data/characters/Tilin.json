@@ -1,0 +1,65 @@
+{
+ "name": "Tilin",
+ "display_name": "Tilin",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tilin was a young male Quarren and Tikin's son. In 138 ABY, he and his father were lured to the Mon Calamari Shipyards under a false pretense of a renewed Dac. However, they only found themselves being enslaved by a gang of pirates led by the Sith Lord Darth Luft, who was forcing them and other slaves into building a fleet. At some point, this operation was discovered by Ania Solo and Jao Assam, whose appearance led to death of Tikin at the hands of Darth Luft and an ensuing slave rebellion. With the aid of an Admiral Gar Stazi and the Imperial Knights, the pirates were defeated and the slaves were free once again. Luen, an acquaintance of Tikin's father, then decided to raise orphaned Tilin. They would stay in the Shipyards that were partially flooded during the revolt as a part of Stazi's plan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Legacy_(2013)_10",
+  "/wiki/Tikin",
+  "/wiki/138_ABY",
+  "/wiki/Mon_Calamari_Shipyards/Legends",
+  "/wiki/Slavery/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Darth_Luft",
+  "/wiki/Fleet/Legends",
+  "/wiki/Ania_Solo",
+  "/wiki/Jao_Assam",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gar_Stazi",
+  "/wiki/Imperial_Knight",
+  "/wiki/Luen",
+  "/wiki/Legacy_(2013)_8",
+  "/wiki/Legacy_(2013)_9"
+ ]
+}

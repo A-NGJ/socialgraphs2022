@@ -1,0 +1,31 @@
+{
+ "name": "Unidentified_Human_(Xerxes)",
+ "display_name": "Unidentified Human  (Xerxes)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human lived on the planet Xerxes during the Galactic Civil War. At some point, the smuggler, Roark Garnet, asked the citizen to enter a weapons shop on the planet, take a look around, then report back to him. He offered the Human twenty credits if they agreed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Star_Wars:_The_Roleplaying_Game_(first_edition)",
+  "/wiki/Planet/Legends",
+  "/wiki/Xerxes",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Roark_Garnet/Legends",
+  "/wiki/Unidentified_weapons_shop",
+  "/wiki/Galactic_Credit_Standard"
+ ]
+}

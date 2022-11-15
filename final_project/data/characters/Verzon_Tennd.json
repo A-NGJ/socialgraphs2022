@@ -1,0 +1,50 @@
+{
+ "name": "Verzon_Tennd",
+ "display_name": "Verzon Tennd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Verzon Tennd was freighter pilot from Naboo who took refuge for a night in Tosche Station on Tatooine, along with his droid R2-D9, during a particularly violent sandstorm.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Tosche_Station/Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Droid/Legends",
+  "/wiki/R2-D9",
+  "/wiki/Wizards.com",
+  "/wiki/A_Night_at_Tosche_Station"
+ ]
+}

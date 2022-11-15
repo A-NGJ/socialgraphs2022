@@ -1,0 +1,74 @@
+{
+ "name": "Borik_Sabha",
+ "display_name": "Borik Sabha",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Citizens' Militia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Borik Sabha was a male Duros living in Camp Karnori on Tatooine during the Cold War. In 3643 BBY, the camp had problem with the Geonosian raids, during one of which his wife lost her brother.\nBorik Sabha appears in the video game Star Wars: The Old Republic during the heroic quest \"Breaking the Code\" on Tatooine.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Citizens%27_Militia",
+  "/wiki/Camp_Karnori",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/3643_BBY",
+  "/wiki/Geonosian/Legends",
+  "/wiki/Marriage/Legends",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

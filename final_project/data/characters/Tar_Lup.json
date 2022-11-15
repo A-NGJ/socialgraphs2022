@@ -1,0 +1,40 @@
+{
+ "name": "Tar_Lup",
+ "display_name": "Tar Lup",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Shistavanen"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tar Lup was a male Shistavanen who owned Lup's Wares and Supplies with his wife Kal Lup. Although Tar was generally easygoing, he had an old blaster carbine hidden beneath the counter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shistavanen/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Lup%27s_Wares_and_Supplies",
+  "/wiki/Kal_Lup",
+  "/wiki/Blaster_carbine/Legends",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)",
+  "/wiki/Tatooine_Manhunt",
+  "/wiki/West_End_Games",
+  "/wiki/Classic_Adventures:_Volume_Three",
+  "/wiki/Galaxy_Guide_7:_Mos_Eisley",
+  "/wiki/Mos_Eisley_Adventure_Set"
+ ]
+}

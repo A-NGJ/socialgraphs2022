@@ -1,5 +1,6 @@
 {
- "name": "Meh'ur",
+ "name": "Meh%27ur",
+ "display_name": "Meh'ur",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Meh'ur was a Gungan captain who lived during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Naboo/Legends",

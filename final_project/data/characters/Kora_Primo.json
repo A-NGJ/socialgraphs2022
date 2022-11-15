@@ -1,0 +1,64 @@
+{
+ "name": "Kora_Primo",
+ "display_name": "Kora Primo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kora Primo was a female Human who served as the head of Imperial Intelligence on the planet Kirima after the Battle of Endor. She came from a long line of intelligence agents and had over nine years of experience.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Kirima/Legends",
+  "/wiki/Battle_of_Endor/Legends",
+  "/wiki/Standard_year/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Den_of_Spies",
+  "/wiki/Twin_Stars_of_Kira_(West_End_Games)"
+ ]
+}

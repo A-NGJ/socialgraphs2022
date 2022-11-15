@@ -1,0 +1,55 @@
+{
+ "name": "Hern_Kaveen",
+ "display_name": "Hern Kaveen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pantoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic",
+      "New Republic Defense Force",
+      "New Republic Defense Force"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hern Kaveen was a bearded Pantoran male who worked as a Staff Sergeant in the New Republic. Kaveen once informed Leia Organa and Chancellor Mon Mothma that Grand Vizier Mas Amedda had arrived on Velusia to surrender himself to the New Republic. However, Mothma and Organa denied this and stated that he had to surrender the entire Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pantoran",
+  "/wiki/Gender",
+  "/wiki/New_Republic",
+  "/wiki/New_Republic_Defense_Force",
+  "/wiki/Staff_Sergeant",
+  "/wiki/Leia_Skywalker_Organa_Solo",
+  "/wiki/Chancellor_(New_Republic)",
+  "/wiki/Mon_Mothma",
+  "/wiki/Grand_Vizier",
+  "/wiki/Mas_Amedda",
+  "/wiki/Velusia",
+  "/wiki/Galactic_Empire",
+  "/wiki/Aftermath:_Life_Debt",
+  "/wiki/Aftermath:_Life_Debt_(audiobook)"
+ ]
+}

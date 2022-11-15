@@ -1,0 +1,57 @@
+{
+ "name": "Sting",
+ "display_name": "Sting",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Velusia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Velusian fursnake"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Khlor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sting was a black-colored Velusian fursnake that was owned by Khlor, a Human bounty hunter who was based on the planet Velusia. Khlor kept the creature curled around his neck and shoulders at all times.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Velusia/Legends",
+  "/wiki/Velusian_fursnake",
+  "/wiki/Khlor",
+  "/wiki/Human/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

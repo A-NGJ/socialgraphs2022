@@ -1,5 +1,6 @@
 {
- "name": "Kra'ake",
+ "name": "Kra%27ake",
+ "display_name": "Kra'ake",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Kra'ake was a male Togorian Neo-Crusader Rally Master who fought during the Mandalorian Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Togorian/Legends",

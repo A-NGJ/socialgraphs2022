@@ -1,0 +1,35 @@
+{
+ "name": "Maia_(Tem_Chesko)",
+ "display_name": "Maia  (Tem Chesko)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Maia was the Human female girlfriend of Tem Chesko.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tem_Chesko",
+  "/wiki/Maia",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Star_Wars_Galaxy_Magazine",
+  "/wiki/Tales_from_Mos_Eisley:_Mostly_Automatic",
+  "/wiki/Star_Wars_Galaxy_Magazine_3"
+ ]
+}

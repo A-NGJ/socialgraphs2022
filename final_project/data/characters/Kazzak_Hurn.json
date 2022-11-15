@@ -1,0 +1,46 @@
+{
+ "name": "Kazzak_Hurn",
+ "display_name": "Kazzak Hurn",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Fire-eaters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kazzak Hurn was a Gamorrean male criminal who was the leader of the Fire-eaters that remained on Belsavis during the Galactic War. When the Sith Empire invaded Belsavis, Kazzak and the Fire-eaters were offered to work with the Empire and round up the other aliens.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Fire-eaters",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

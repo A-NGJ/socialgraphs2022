@@ -1,0 +1,62 @@
+{
+ "name": "Wad",
+ "display_name": "Wad",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wad was a male human. Around 4 BBY he, Garazeb Orrelios, Lexim, Alyson, and Greve were almost attacked by gundarks at Lexim's hunting ground.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Wald",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/4_BBY",
+  "/wiki/Garazeb_Orrelios",
+  "/wiki/Lexim",
+  "/wiki/Alyson",
+  "/wiki/Greve_(hunter)",
+  "/wiki/Gundark",
+  "/wiki/Lexim%27s_hunting_ground",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wad",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Becoming_Hunted",
+  "/wiki/Star_Wars_Rebels_Magazine_10"
+ ]
+}

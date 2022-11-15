@@ -1,0 +1,48 @@
+{
+ "name": "Fala_(Sedrian)",
+ "display_name": "Fala  (Sedrian)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sedri"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sedrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Fala was the daughter of the Sedrian bishop of war, Karak.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sedri/Legends",
+  "/wiki/Sedrian",
+  "/wiki/Gender/Legends",
+  "/wiki/Bishop_of_war",
+  "/wiki/Karak",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Fala_(Sedrian)",
+  "/wiki/Battle_for_the_Golden_Sun",
+  "/wiki/Secrets_of_the_Sisar_Run"
+ ]
+}

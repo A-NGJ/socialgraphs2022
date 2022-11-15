@@ -1,5 +1,6 @@
 {
  "name": "Roowarra",
+ "display_name": "Roowarra",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Roowarra was a male Wookiee. He was aboard Port Tooga when a group of spacers tried to purchase droids for the Rebellion.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookiee/Legends",

@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Defel_Jedi",
+ "display_name": "Unidentified Defel Jedi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Defel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Jedi Order",
+      "Galactic Federation of Free Alliances"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Defel male was trained as a Jedi in the New Jedi Order. During the Swarm War the Defel was training to become a Jedi at the Ossus Academy. When Chiss Aristocra Chaf'orm'bintrano visited the academy, he was partaking in a game of Skorch, playing as the referee.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Defel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Jedi_Order",
+  "/wiki/Galactic_Federation_of_Free_Alliances",
+  "/wiki/Jedi/Legends",
+  "/wiki/Swarm_War",
+  "/wiki/Jedi_Academy_(Ossus)",
+  "/wiki/Chiss/Legends",
+  "/wiki/Aristocra/Legends",
+  "/wiki/Chaf%27orm%27bintrano",
+  "/wiki/Academy",
+  "/wiki/Skorch",
+  "/wiki/Dark_Nest_I:_The_Joiner_King"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "name": "House_Parnelli",
+ "display_name": "House Parnelli",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Noble house"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "House Parnelli was a noble Human family from Naboo. The Parnellis donated the funds to build a museum dedicated to the display and promotion of contemporary art style.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/House_of_Parnelli",
+  "/wiki/House_Parnelli",
+  "/wiki/Noble/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Parnelli_Museum_of_Art/Legends",
+  "/wiki/Nexus_of_Power"
+ ]
+}

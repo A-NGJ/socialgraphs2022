@@ -1,0 +1,63 @@
+{
+ "name": "Vance_Caelli",
+ "display_name": "Vance Caelli",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Socorro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Caelli-Merced Syndicate",
+      "Black Bha'lir"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vance Caelli was a Socorran member of the Black Bha'lir. Alongside Rondale Merced, he founded the Caelli-Merced Syndicate and prospered as the only weapons manufacturer operating on Socorro. When Alderaan was destroyed, Caelli and Merced's nephew, Pret Swain was visiting them. With Swain's home gone, his uncles offered him a position to help run Caelli-Merced. Around a year after Alderaan's destruction, both Caelli and Merced disappeared under mysterious circumstances.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Socorro/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Caelli-Merced_Syndicate",
+  "/wiki/Black_Bha%27lir",
+  "/wiki/Socorran",
+  "/wiki/Rondale_Merced",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Pret_Swain",
+  "/wiki/Standard_year/Legends",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

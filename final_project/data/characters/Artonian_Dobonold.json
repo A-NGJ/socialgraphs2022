@@ -1,0 +1,62 @@
+{
+ "name": "Artonian_Dobonold",
+ "display_name": "Artonian Dobonold",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Arkania"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Arkanian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Adasca BioMechanical Corporation of Arkania"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Artonian Dobolond was the director of Project Black Harvest, which researched the exogorths for the benefit of Adascorp. He cooperated with lead scientist Gorman Vandrayk on that project.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Arkania/Legends",
+  "/wiki/Arkanian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/The_Adasca_BioMechanical_Corporation_of_Arkania",
+  "/wiki/Project_Black_Harvest",
+  "/wiki/Exogorth/Legends",
+  "/wiki/Scientist/Legends",
+  "/wiki/Gorman_Vandrayk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Artonian_Dobonold",
+  "/wiki/Adascorp_Fiscal_Period_Financial_Report_and_Outlook:_Field_Report:_Project_Black_Harvest",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

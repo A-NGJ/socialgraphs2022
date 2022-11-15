@@ -1,0 +1,50 @@
+{
+ "name": "Xun_Garret",
+ "display_name": "Xun Garret",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Xun Garret was the Imperial overseer of Tyed Kant. Under his administration there was a planet-wide ban on energy weapons, made necessary by Tyed Kant's volatile atmosphere, and military assistance given to nearby Demophon during its evacuation due to an impending supernova. Overseer Garret tended to give Imperial contracts to companies run by Humans, snubbing alien-run companies, or even companies originally founded by Aliens.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Overseer_(Galactic_Empire)",
+  "/wiki/Tyed_Kant",
+  "/wiki/Demophon",
+  "/wiki/Supernova/Legends",
+  "/wiki/Alien/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/The_Mynock_Conspiracy",
+  "/wiki/Supernova_(WEG)"
+ ]
+}

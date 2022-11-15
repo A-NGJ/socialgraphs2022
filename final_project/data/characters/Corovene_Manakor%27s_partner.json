@@ -1,0 +1,60 @@
+{
+ "name": "Corovene_Manakor%27s_partner",
+ "display_name": "Corovene Manakor's partner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Najiba"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Troglof"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Troglof was the wife of Corovene Manakor. After her husband participated in the robbery of the planet Scipio, they had to escape somwhere. They then visited Landonis Balthazar Calrissian and asked him to help them to get to the planet Lysatra. Calrissian organized the transport, but the Imperials occupied Cloud City. Eventually, Jaxxon T. Tumperakki helped them escape from the planet Bespin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Najiba",
+  "/wiki/Troglof",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Corovene_Manakor",
+  "/wiki/Planet",
+  "/wiki/Scipio",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Lysatra",
+  "/wiki/Galactic_Empire",
+  "/wiki/Cloud_City",
+  "/wiki/Jaxxon_T._Tumperakki",
+  "/wiki/Bespin",
+  "/wiki/Fake_It_Till_You_Make_It",
+  "/wiki/From_a_Certain_Point_of_View:_The_Empire_Strikes_Back"
+ ]
+}

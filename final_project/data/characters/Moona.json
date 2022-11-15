@@ -1,5 +1,6 @@
 {
  "name": "Moona",
+ "display_name": "Moona",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Moona was a Twi'lek female who seemingly never left the bar Enlightenment on Jedha.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Moona_(disambiguation)",

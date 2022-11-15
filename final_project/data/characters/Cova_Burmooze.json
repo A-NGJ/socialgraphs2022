@@ -1,0 +1,53 @@
+{
+ "name": "Cova_Burmooze",
+ "display_name": "Cova Burmooze",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cova Burmooze was a Gungan male who served as the commissioner of the bongo racing circuit that gained popularity on Naboo. Some time after the Battle of Naboo, Cova was forced to suspend the racing licenses of Neb Neb Goodrow and Spleed Nukkels, after they were observed crashing into the bongo of Zak \"Squidfella\" Quiglee during the Otoh Gunga Challenge. The decision was later overturned after Squidfella was brought in for questioning.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bongo",
+  "/wiki/Battle_of_Naboo/Legends",
+  "/wiki/Neb_Neb_Goodrow",
+  "/wiki/Spleed_Nukkels",
+  "/wiki/Zak_Quiglee",
+  "/wiki/Otoh_Gunga_Challenge",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Cova_Burmooze",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Deep_Spoilers",
+  "/wiki/Star_Wars_Gamer_4"
+ ]
+}

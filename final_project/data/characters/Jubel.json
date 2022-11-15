@@ -1,5 +1,6 @@
 {
  "name": "Jubel",
+ "display_name": "Jubel",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Jubel was the Devaronian clerk who aided Cornelius Evazan at the Cutting Edge Clinic at Mos Eisley.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Devaronian/Legends",

@@ -1,0 +1,64 @@
+{
+ "name": "Veneziano_Haas",
+ "display_name": "Veneziano Haas",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Organization"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Veneziano Haas was a representative of Nirama, a crime lord in the Cularin system, during the Clone Wars. He was a skilled negotiator and an accomplished pilot. Despite his well-dressed appearance, he was considered a scoundrel. Haas was sent by the officials of Nirama to find mercenaries and unaffiliated spacers during the Blockade of the Cularin system by the Thaereian military. The recruits were used to run the blockade and deliver needed medical supplies and foodstuffs.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Organization",
+  "/wiki/Nirama",
+  "/wiki/Cularin_system",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Blockade_of_the_Cularin_system",
+  "/wiki/Thaereian_military",
+  "/wiki/Incursion",
+  "/wiki/Excursion",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "name": "Max_(Ryloth)",
+ "display_name": "Max  (Ryloth)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twi'lek Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Max was a Twi'lek who fought for the Twi'lek Resistance during the Battle of Ryloth. During the initial stages of the Confederacy of Independent Systems' invasion of Ryloth, Max was one of the many Twi'leks who were massacred by Separatist forces. They were buried in a grave, marked with their name in Aurebesh, on Ryloth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Max_(Ryloth)",
+  "/wiki/Max_(Ryloth)/Legends",
+  "/wiki/Ryloth",
+  "/wiki/22_BBY",
+  "/wiki/Twi%27lek",
+  "/wiki/Twi%27lek_Resistance",
+  "/wiki/Battle_of_Ryloth",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Death",
+  "/wiki/Confederacy_military",
+  "/wiki/Burial",
+  "/wiki/Aurebesh",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Liberty_on_Ryloth",
+  "/wiki/Star_Wars:_Galactic_Atlas"
+ ]
+}

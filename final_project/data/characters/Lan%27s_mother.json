@@ -1,0 +1,60 @@
+{
+ "name": "Lan%27s_mother",
+ "display_name": "Lan's mother",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This female Human was the mother of Lan and resided on the planet of Alderaan. The day before Alderaan's destruction by the Galactic Empire's first Death Star, Lan and his friends, Mazi and Jez, went to Delaya to watch a smashball tournament. Despite Lan's young age and her worrisome nature, Lan's mother was convinced by Mazi to allow them to go. She later died along with her husband when Alderaan was destroyed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jez_(Human)",
+  "/wiki/Lan_(Human)",
+  "/wiki/Planet/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Mazi",
+  "/wiki/Delaya/Legends",
+  "/wiki/Smashball/Legends",
+  "/wiki/Lan%27s_father",
+  "/wiki/Rebel_Force:_Hostage"
+ ]
+}

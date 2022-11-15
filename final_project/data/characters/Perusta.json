@@ -1,5 +1,6 @@
 {
  "name": "Perusta",
+ "display_name": "Perusta",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Perusta was a female Wookiee who lived during the Galactic Civil War. She was a scientist who used many native Kashyyyk plants in her experiments.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Kashyyyk/Legends",

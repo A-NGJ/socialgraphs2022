@@ -1,0 +1,66 @@
+{
+ "name": "Anzati_pirate_co-pilot",
+ "display_name": "Anzati pirate co-pilot",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Anzat"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Pirates of Tarnoonga"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A crew member of the pirate Captain Gir Kybo Ren-Cha served as a co-pilot aboard the Dianoga.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Military_rank/Legends",
+  "/wiki/Anzat_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Pirates_of_Tarnoonga",
+  "/wiki/Pirate/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Gir_Kybo_Ren-Cha",
+  "/wiki/Dianoga_(starship)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Anzati_pirate_co-pilot",
+  "/wiki/Star_Wars:_Droids:_The_Adventures_of_R2-D2_and_C-3PO",
+  "/wiki/The_Pirates_of_Tarnoonga",
+  "/wiki/The_Revenge_of_Kybo_Ren",
+  "/wiki/The_Pirates_of_Tarnoonga:_A_Droid_Adventure"
+ ]
+}

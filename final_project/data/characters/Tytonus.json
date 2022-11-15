@@ -1,0 +1,83 @@
+{
+ "name": "Tytonus",
+ "display_name": "Tytonus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3643 BBY",
+      "Dromund Kaas"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Tytonus's kingdom"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tytonus was a female Human Sith Lord during the Great Galactic War era. Sometime before 3643 BBY, Tytonus seceded from the Sith Empire and forged a kingdom of her own on the ancient Sith world of Begeren. During the Cold War she allied herself with the rebellious Sith Lord Grathan on Dromund Kaas, but this association proved to be her undoing when Tytonus was convinced to lead an assault on Kaas City.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Tytonus%27s_kingdom",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Great_Galactic_War",
+  "/wiki/Tytonus%27s_revolution",
+  "/wiki/Sith/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Begeren",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Grathan",
+  "/wiki/Kaas_City",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tytonus",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "name": "Rendar_family",
+ "display_name": "Rendar family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Parental"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Relatives",
+     "values": [
+      "Stanton Rendar",
+      "Guri"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "prior to 2 BBY"
+     ]
+    },
+    {
+     "name": "Affiliation",
+     "values": [
+      "RenTrans",
+      "Galactic Empire",
+      "Onadax Droid Technologies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Rendar family was a Human family from Corellia. The family included Dash Rendar and Stanton Rendar. During Dash's time at the Academy of Carida, Stanton worked as a pilot for the family's shipping company and crashed into a Coruscant building that was Palpatine's private museum. In revenge, Palpatine exiled the family from Coruscant, kicked Dash out of the Academy, and confiscated their property. The shipping company was later given to Xizor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Stanton_Rendar_(droid)",
+  "/wiki/Guri",
+  "/wiki/Corellia/Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/RenTrans",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Onadax_Droid_Technologies",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Dash_Rendar/Legends",
+  "/wiki/Stanton_Rendar",
+  "/wiki/Academy_of_Carida",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Xizor/Legends",
+  "/wiki/Shadows_of_the_Empire_(novel)",
+  "/wiki/Shadows_of_the_Empire_(audiobook)",
+  "/wiki/Shadows_of_the_Empire_(junior_novelization)",
+  "/wiki/West_End_Games",
+  "/wiki/The_Business_Merger",
+  "/wiki/Shadows_of_the_Empire_Sourcebook",
+  "/wiki/The_Secrets_of_Star_Wars:_Shadows_of_the_Empire",
+  "/wiki/Kenner_Products",
+  "/wiki/Star_Wars:_Shadows_of_the_Empire_(toy_line)",
+  "/wiki/Star_Wars:_Shadows_of_the_Empire_Limited_Collector%27s_Edition",
+  "/wiki/Databank_(original)"
+ ]
+}

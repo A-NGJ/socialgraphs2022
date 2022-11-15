@@ -1,0 +1,50 @@
+{
+ "name": "Unidentified_Rebel_(rakghoul)",
+ "display_name": "Unidentified Rebel  (rakghoul)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human",
+      "Rakghoul"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human male was a member of the Rebel Alliance strike force sent to recover an Imperial weapon. During the mission, he was attacked by a rakghoul and later transformed into one. Princess Leia Organa witnessed firsthand how he changed into a rakghoul.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Rebel",
+  "/wiki/Human/Legends",
+  "/wiki/Rakghoul",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Rakghoul_plague",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Rebellion_15"
+ ]
+}

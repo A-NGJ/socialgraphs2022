@@ -1,5 +1,6 @@
 {
  "name": "Rom",
+ "display_name": "Rom",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Rom was a Rodian male who worked as an enforcer for Twin Horns Storage on Lothal.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Rodian",

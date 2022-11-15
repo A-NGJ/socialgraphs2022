@@ -1,0 +1,60 @@
+{
+ "name": "Sossk",
+ "display_name": "Sossk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cularin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krakin's Alehouse"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sossk was a male Trandoshan, who lived on Cularin. He purchased and ran the cantina Krakin's Alehouse and by the time of the Clone Wars, he had owned if for about fifteen years. He spoke with a lisp and he had no plans to develop his cantina, so he allowed the dust to build up and played music from old speakers. However, he liked having people in his bar, although he never smiled.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cularin/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Krakin%27s_Alehouse",
+  "/wiki/Cantina/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sossk",
+  "/wiki/Wizards.com",
+  "/wiki/Remember_When"
+ ]
+}

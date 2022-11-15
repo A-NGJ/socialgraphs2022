@@ -1,0 +1,59 @@
+{
+ "name": "Geld_Bernar",
+ "display_name": "Geld Bernar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Belnar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Khil"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Geld Bernar was a trader during the Galactic Civil War.\nGeld Bernar was a Khil trader.\nBernar bought the Merasy, a Nova-Drive 3-Z light freighter that had been impounded by the authorities of Brentaal IV and was being auctioned. The previous owner, Iep Tumu, had made a poor job with its maintenance, but the Brentaalan mechanics had overhauled most of its problems except for an acceleration vibration.\nFor several years, Bernar used the Merasy in long raiding runs, obtaining a good profit and new, valuable contacts in each of them. Bernar then modified the ship upon his needs: He increased the consumables capacities and bought advanced entertainment. He also bought the best available astrogation charts  that allowed him to save several days per trip. Obsessed with logging his trips, he made backup charts.\nHe almost managed to get rid of Tumuy's vibration.\nAfter several years of profit, Bernar sold the ship to invest in a high-speed shipping venture. He neglected to delete the backup astrogation charts before losing the Merasy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Belnar/Legends",
+  "/wiki/Khil",
+  "/wiki/Gender/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Merasy",
+  "/wiki/Nova-Drive",
+  "/wiki/3-Z_light_freighter",
+  "/wiki/Brentaal_IV/Legends",
+  "/wiki/Iep_Tumu",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Geld_Bernar",
+  "/wiki/Stock_Ships",
+  "/wiki/Ultimate_Alien_Anthology"
+ ]
+}

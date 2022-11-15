@@ -1,0 +1,61 @@
+{
+ "name": "Viz_Moshara",
+ "display_name": "Viz Moshara",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "7 ABY",
+      "Radium Destrobar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viz Moshara was a male Cosian pirate who was captain of the Radium Destrobar. He and his fellow pirates attempted to protect Substation Grimdock from the New Republic army. He was killed when his ship crashed with another pirate ship under the command of Fyzen Gor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/7_ABY",
+  "/wiki/Radium_Destrobar",
+  "/wiki/Cosian",
+  "/wiki/Gender",
+  "/wiki/Pirate",
+  "/wiki/Captain",
+  "/wiki/Substation_Grimdock",
+  "/wiki/New_Republic_army",
+  "/wiki/Fyzen_Gor",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Viz_Moshara",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Han_Solo",
+  "/wiki/Standard_year",
+  "/wiki/Hosnian_Cataclysm",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY",
+  "/wiki/Death"
+ ]
+}

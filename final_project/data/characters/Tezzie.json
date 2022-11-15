@@ -1,0 +1,44 @@
+{
+ "name": "Tezzie",
+ "display_name": "Tezzie",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Pantoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tezzie was a female Pantoran visitor to the Canto Casino. She had blue skin and played Zinbiddle with Kaljach Sonmi early in the evening. She was a construction heiress and had three grandchildren.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Pantoran",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Canto_Casino_and_Racetrack",
+  "/wiki/Zinbiddle",
+  "/wiki/Kaljach_Sonmi",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tezzie",
+  "/wiki/The_Ride",
+  "/wiki/Canto_Bight_(novella_collection)"
+ ]
+}

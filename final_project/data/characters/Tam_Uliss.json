@@ -1,0 +1,76 @@
+{
+ "name": "Tam_Uliss",
+ "display_name": "Tam Uliss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tam Uliss was a squat, muscular Human male from Corellia, living on Ansion in 22 BBY. The industrialist supported Ansion's attempt to secede from the Old Republic, meeting secretly with conspirators in a Quadrant H-46 cantina and an orbiting transport above Coruscant. After the attempt failed, he was killed by Shu Mai, dropped from Bror Tower Three onto the surface of Coruscant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Ansion/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sah%27c_Town/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Transport/Legends",
+  "/wiki/Shu_Mai/Legends",
+  "/wiki/Bror_Tower_Three",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tam_Uliss",
+  "/wiki/The_Approaching_Storm",
+  "/wiki/The_Approaching_Storm_(audiobook)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

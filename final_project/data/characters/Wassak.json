@@ -1,0 +1,47 @@
+{
+ "name": "Wassak",
+ "display_name": "Wassak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wassak was a Jawa who lived on Tatooine and liked to tell a story about how he once encountered a group of seemingly intelligent womp rats. According to the story, he was once trying to recover the remains of a Imperial probe droid when four womp rats came running over and began to attack him. They tried to pull the droid away, so Wassak pulled his blaster out to stop them. However, the rats acted as if they knew what a blaster was and charged him. He shot one at point blank range, which caused the other rats to stop trying to take the droid and instead drag the body of the dead rat away.\nWassak had no evidence to back up his story and it is unknown if it was true.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Womp_rat/Legends",
+  "/wiki/Viper_probe_droid/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Genius_Womp_Rat"
+ ]
+}

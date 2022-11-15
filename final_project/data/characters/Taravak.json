@@ -1,0 +1,34 @@
+{
+ "name": "Taravak",
+ "display_name": "Taravak",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Two-Eyes\" Taravak was a male Gran crime lord who lived during the Galactic War. At that time, he gathered with some specialists for a high-stakes heist.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gender",
+  "/wiki/Crime_lord",
+  "/wiki/Galactic_War",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

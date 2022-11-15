@@ -1,0 +1,51 @@
+{
+ "name": "Urtagh",
+ "display_name": "Urtagh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3639 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bantha"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Urtagh was the name given to a bantha living on the planet Tatooine that was infected by the rakghoul plague during the rakghoul pandemic and grew to a massive size. The beast was slain in the Outlaw's Den region.\nUrtagh appeared as a World Boss for the Rakghoul Pandemic World Event in the video game Star Wars: The Old Republic, which occurred in early 2011 and has since not been repeated.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/3639_BBY",
+  "/wiki/Bantha/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Rakghoul_plague",
+  "/wiki/Rakghoul_pandemic",
+  "/wiki/Death/Legends",
+  "/wiki/Outlaw%27s_Den",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2011"
+ ]
+}

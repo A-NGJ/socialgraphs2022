@@ -1,5 +1,6 @@
 {
  "name": "Fawn",
+ "display_name": "Fawn",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Fawn was a human male resident of Black Spire Outpost on Batuu, who played in a band with the Togruta Neelo.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

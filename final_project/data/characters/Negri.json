@@ -1,5 +1,6 @@
 {
  "name": "Negri",
+ "display_name": "Negri",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Negri was a male Ugnaught working as the overseer of Processing Vane 5 in Cloud City during the Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ugnaught/Legends",

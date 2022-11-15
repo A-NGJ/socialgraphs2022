@@ -1,0 +1,73 @@
+{
+ "name": "Trabler",
+ "display_name": "Trabler",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "0 BBY",
+      "Darkknell"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trabler was male Human agent of Imperial Intelligence known for an unwavering allegiance to the Empire who had once wrenched the head off of an Ithorian with his bare hands, testifying to his personal strength. He was to serve as backup for then-Agent Ysanne Isard who had been sent to Darkknell in 0 BBY to recover stolen data files relating to the first Death Star. During the mission, he shot and nearly killed Moranda Savich, due to the use of a Jedi mind trick to blur his vision by Hal Horn. After Isard summed that Horn knew who they truly were, she tried to have Trabler kill Horn, an attempt that resulted in Trabler's death with his own weapon at Horn's hands.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Darkknell/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Intelligence/Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Ysanne_Isard",
+  "/wiki/DS-1_Orbital_Battle_Station/Legends",
+  "/wiki/Moranda_Savich",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Hal_Horn",
+  "/wiki/Death/Legends",
+  "/wiki/Penetrator_MB-450",
+  "/wiki/Interlude_at_Darkknell",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

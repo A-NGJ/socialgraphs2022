@@ -1,0 +1,36 @@
+{
+ "name": "Unidentified_Ho%27Din_proprietor",
+ "display_name": "Unidentified Ho'Din proprietor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ho'Din"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Ho'Din proprietor owned a tapcafe on Drev'starn.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ho%27Din/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Unidentified_Drev%27starn_tapcafe",
+  "/wiki/Drev%27starn",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Ho%27Din_proprietor",
+  "/wiki/Vision_of_the_Future",
+  "/wiki/Vision_of_the_Future_(unabridged_audiobook)"
+ ]
+}

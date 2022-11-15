@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Sullustan_communications_technician",
+ "display_name": "Unidentified Sullustan communications technician",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Sullustan communications technician served Daultay Dofine on the bridge of the Revenue. When Arwen Cohl and his crew infiltrated the ship, he, Dofine and the rest of crew flew to the Acquisitor and escaped before the Galactic Republic caught them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Daultay_Dofine/Legends",
+  "/wiki/Revenue",
+  "/wiki/Arwen_Cohl",
+  "/wiki/Acquisitor_(Lucrehulk-class)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Sullustan_communications_technician",
+  "/wiki/Cloak_of_Deception"
+ ]
+}

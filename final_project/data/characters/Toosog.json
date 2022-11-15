@@ -1,0 +1,43 @@
+{
+ "name": "Toosog",
+ "display_name": "Toosog",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Advozse"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Right eye"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toosog was one of the bounty hunters sent by Risso Nu to catch Boba Fett on Ma'ar Shaddam. One of his eyes was cybernetic, possibly as a result of a previous encounter with Fett, as his scars were.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Advozse/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cybernetics/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Risso_Nu",
+  "/wiki/Ma%27ar_Shaddam",
+  "/wiki/Number_Two_in_the_Galaxy",
+  "/wiki/Star_Wars_Tales_18"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Jodd_Zarfane",
+ "display_name": "Jodd Zarfane",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Anaxes"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "25 ABY-29 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Remnant"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Jodd Zarfane was a retired officer of the Imperial Remnant. During the Yuuzhan Vong War, a senator from the New Republic dispatched a team to convince him to aid them in their fight against the Yuuzhan Vong. However, the man they met with was not Jodd Zarfane. The real Zarfane and his staff had been killed by Yuuzhan Vong agents attempting to infiltrate the Anaxes military.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Anaxes/Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/29_ABY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

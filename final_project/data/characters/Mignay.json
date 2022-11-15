@@ -1,5 +1,6 @@
 {
  "name": "Mignay",
+ "display_name": "Mignay",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Captain Mignay was a female Human Commander of the Rim Merchant Einem, who had once been in the Trade Defense Force before being transferred to the judicial forces during the waning years of the Galactic Republic.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

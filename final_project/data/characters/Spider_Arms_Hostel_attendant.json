@@ -1,0 +1,59 @@
+{
+ "name": "Spider_Arms_Hostel_attendant",
+ "display_name": "Spider Arms Hostel attendant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Rodian male was the attendant at the desk of the Spider Arms Hostel in slum district G17 of Coruscant's lower levels.\nWhen Padawan Ahsoka Tano lost her lightsaber to a pickpocket, she and Jedi Master Tera Sinube tracked the thief to the Spider Arms Hostel. When they entered the establishment, the attendant looked at the two Jedi with suspicion from behind the desk and asked if he could help them. Master Sinube used a mind trick to bypass the wary Rodian and continue with their investigation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/File:SinubeMindTrick-LL.ogg",
+  "/wiki/Spider_Arms_Hostel/Legends",
+  "/wiki/Slum_district_G17/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Coruscant_underworld",
+  "/wiki/Padawan/Legends",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Tera_Sinube/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Mind_trick/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Spider_Arms_Hostel_attendant",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Lightsaber_Lost"
+ ]
+}

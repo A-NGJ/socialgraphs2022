@@ -1,0 +1,53 @@
+{
+ "name": "Tag_Rayor",
+ "display_name": "Tag Rayor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hahz Fallone"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tag Raynor was a male Clog-dweller. He offered to sell the Black Sphere to a group of bounty hunters by arranging a meet in the Gold Plaza. He was however an employee of Hahz Fallone and was merely setting them up so Jorga Sune would try and get the artifact which was a fake. During the exchange he was killed by Falad Prok who shot him with a poison dart pistol.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hahz_Fallone",
+  "/wiki/Clog-dweller",
+  "/wiki/Black_Sphere",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Gold_Plaza",
+  "/wiki/Jorga_Sune",
+  "/wiki/Falad_Prok",
+  "/wiki/Poison/Legends",
+  "/wiki/Dart_shooter",
+  "/wiki/West_End_Games",
+  "/wiki/The_Black_Sphere",
+  "/wiki/No_Disintegrations_(West_End_Games)"
+ ]
+}

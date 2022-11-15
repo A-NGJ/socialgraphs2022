@@ -1,0 +1,49 @@
+{
+ "name": "Unidentified_Vurk_warrior",
+ "display_name": "Unidentified Vurk warrior",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vurk"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGrand Army of the Republic",
+      "Grand Army of the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Vurk warrior who served in the Grand Army of the Republic during the Clone Wars. The Vurk was a trench fighter, who fought alongside Republic clone troopers against the Separatist forces.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Vurk/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Grand_Army_of_the_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Vurk",
+  "/wiki/Clone_trooper/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/The_Clone_Wars_Campaign_Guide"
+ ]
+}

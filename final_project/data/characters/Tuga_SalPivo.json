@@ -1,0 +1,65 @@
+{
+ "name": "Tuga_SalPivo",
+ "display_name": "Tuga SalPivo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba the Hutt"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tuga SalPivo was a Human male Corellian who was in the employ of Jabba Desilijic Tiure during the Galactic Civil War. He was tasked with the mission of killing the t'landa Til priests that resided in Colony Eight on Ylesia. He rigged the priests' sleeping chambers with explosives, and he succeeded in his mission, killing all of the t'landa Til inside. SalPivo was one of many mercenaries and assassins who prepared the world for the Rebel invasion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Mercenary/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/T%27landa_Til",
+  "/wiki/Colony_Eight",
+  "/wiki/Ylesia/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Battle_of_Ylesia",
+  "/wiki/Rebel_Dawn"
+ ]
+}

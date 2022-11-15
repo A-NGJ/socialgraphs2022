@@ -1,0 +1,73 @@
+{
+ "name": "Braum_Bourne",
+ "display_name": "Braum Bourne",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorians",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Braum Bourne, also known as \"Zakkeg\", was a male Mandalorian living during the Cold War. On Vaiken Spacedock he and Gen Vizla helped give tips to the future Grand Hunt Champion, becoming very impressed with the young bounty hunter.\nBraum Bourne can be found both on Vaiken Spacedock and in the Mandalorian enclave on Dromund Kaas.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mandalorian/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/File:BraumBourne-JobForMandalorianIron-TOR.ogg",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Vaiken_Spacedock",
+  "/wiki/Gen_Vizla",
+  "/wiki/Hunter_(individual)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Braum_Bourne",
+  "/wiki/Mandalorian_enclave",
+  "/wiki/Dromund_Kaas",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

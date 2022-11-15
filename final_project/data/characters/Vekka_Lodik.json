@@ -1,0 +1,50 @@
+{
+ "name": "Vekka_Lodik",
+ "display_name": "Vekka Lodik",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "22 BBY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nuknog"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vekka Lodik was a female Nuknog who served as the personal assistant of the Dug actor Seboca. During a botched attempt to murder her employer, she was killed by the detective Slyther Bushforb.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Nuknog/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Dug/Legends",
+  "/wiki/Seboca/Legends",
+  "/wiki/Slyther_Bushforb",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vekka_Lodik",
+  "/wiki/Databank_(original)"
+ ]
+}

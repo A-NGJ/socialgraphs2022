@@ -1,0 +1,65 @@
+{
+ "name": "Torg",
+ "display_name": "Torg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaleesh"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicHavoc Squad",
+      "Havoc Squad",
+      "Eternal AllianceHavoc Squad",
+      "Havoc Squad"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Torg was a Kaleesh soldier and member of the Galactic Republic's elite Havoc Squad unit. He followed his commander Aric Jorgan after he decided to leave Republic service and went on Zakuul to fight the Eternal Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kaleesh/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic",
+  "/wiki/Havoc_Squad",
+  "/wiki/Eternal_Alliance",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Aric_Jorgan",
+  "/wiki/Zakuul",
+  "/wiki/Eternal_Empire",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

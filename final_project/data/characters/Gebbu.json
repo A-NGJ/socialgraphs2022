@@ -1,5 +1,6 @@
 {
  "name": "Gebbu",
+ "display_name": "Gebbu",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Gebbu was a Hutt art collector. Wac Bur sold him fake art in 24 ABY, and so Gebbu sent Boba Fett after him.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Hutt/Legends",

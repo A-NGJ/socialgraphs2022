@@ -1,0 +1,48 @@
+{
+ "name": "Burra_Stone",
+ "display_name": "Burra Stone",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Burra Stone was a Force-sensitive Human Imperial officer who served the Imperial Department of Redesign as an interrogator.He was very reactive towards the difference between artificial gravity and natural gravity, being in artificial  gravity made him dizzy, whilst natural gravity had no effect on Burra stone.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Imperial_Department_of_Redesign",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Burra_Stone",
+  "/wiki/Star_Wars_Missions_14:_The_Monsters_of_Dweem",
+  "/wiki/Star_Wars_Missions_16:_Imperial_Jailbreak"
+ ]
+}

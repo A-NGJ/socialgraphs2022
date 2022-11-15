@@ -1,0 +1,82 @@
+{
+ "name": "Thelan",
+ "display_name": "Thelan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Isobe"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sephi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Isobe royal family",
+      "Thelan's smuggling ring"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thelan was a male member of the royal family of Isobe. He and his sister Althea were the children of Lord Hallux. At one point, Thelan started a smuggling ring dealing with the secret and illegal exporting of Tynzo crystals, the source of Isobe's wealth.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Isobe",
+  "/wiki/Sephi",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Isobe_royal_family",
+  "/wiki/Althea",
+  "/wiki/Lord",
+  "/wiki/Hallux",
+  "/wiki/Tynzo_crystal",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Thelan",
+  "/wiki/Star_Wars_Rebels_Magazine",
+  "/wiki/Never_Far_Behind"
+ ]
+}

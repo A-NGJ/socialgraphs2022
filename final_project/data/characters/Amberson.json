@@ -1,5 +1,6 @@
 {
  "name": "Amberson",
+ "display_name": "Amberson",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Amberson was a male Human and one of the Peacekeepers of the Outbound Flight Colony in 22 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Imperial_doctor_(Fel_Empire)",
+ "display_name": "Unidentified Imperial doctor  (Fel Empire)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Empire-in-exile"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A male Human doctor served the Fel Empire and the Empire-in-exile in 138 ABY. He examined a captured Sith trooper on Bastion following the Attack on the Hidden Temple.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Empire-in-exile",
+  "/wiki/Fel_Empire",
+  "/wiki/138_ABY",
+  "/wiki/Unidentified_Sith_trooper_(Taivas)",
+  "/wiki/Bastion/Legends",
+  "/wiki/Attack_on_the_Hidden_Temple",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Imperial_doctor_(Fel_Empire)",
+  "/wiki/Legacy%E2%80%94War_5"
+ ]
+}

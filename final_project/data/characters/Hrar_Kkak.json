@@ -1,0 +1,69 @@
+{
+ "name": "Hrar_Kkak",
+ "display_name": "Hrar Kkak",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Jawa"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kkak clan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hrar Kkak was a Jawa trader. Het Nkik purchased a DL-44 heavy blaster pistol from Hrar.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Jawa/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kkak_clan",
+  "/wiki/Het_Nkik/Legends",
+  "/wiki/DL-44_heavy_blaster_pistol/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Hrar_Kkak",
+  "/wiki/Swap_Meet:_The_Jawa%27s_Tale",
+  "/wiki/Tales_from_the_Mos_Eisley_Cantina",
+  "/wiki/The_Essential_Guide_to_Characters",
+  "/wiki/Ultimate_Alien_Anthology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

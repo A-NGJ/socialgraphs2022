@@ -1,0 +1,63 @@
+{
+ "name": "Sere_Lure",
+ "display_name": "Sere Lure",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sluissi"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hydrospeare Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sere Lure was a Chief Systems Engineer working for Hydrospeare Corporation.\nA middle-aged female Sluissi of light green skin, commonly wearing a suit of Sluissi technician, Dr. Lure was one of the most notable aliens allowed  to work in the development of Imperial military technology. She has shown a trend to choose long projects such as those assigned to Design Team Beta.\nAlthough considered a traitor by many Rebel-aligned Sluissi, Dr. Lure managed to get Sluis Van shipyard facilities for weapon testing, although with increase security. Another aquatic world used for those tests was Golh.\nHowever, Dr. Lure and her assistant were ambushed by Sedrian Rebel operatives when she visited Golh for a test. Only Dr. Lure escaped, and the near-death experience led her to look for different worlds for the tests.\nRebel officer Anson Blazer of the Task Force on Alliance Security wrote a report on Dr. Lure around 2 ABY. Blazer considered her a threat for Rebel aquatic cells, although at the same time those cells were in a good position to spy her designs.\nDr. Lure's hissing speech usually hindered her explanations of abstract concepts, but she was proud of her heritage and never lessened her accent. Her boss, Dr. Tolum Harous, made an effort to learn Sluissese only to make her more comfortable.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sluissi",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Hydrospeare_Corporation",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Anson_Blazer",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Chief_Systems_Engineer",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Design_Team_Beta",
+  "/wiki/Sluis_Van/Legends",
+  "/wiki/Golh",
+  "/wiki/Sedrian",
+  "/wiki/Task_Force_on_Alliance_Security",
+  "/wiki/2_ABY/Legends",
+  "/wiki/Tolum_Harous",
+  "/wiki/Sluissese",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

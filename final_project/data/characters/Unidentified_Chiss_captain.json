@@ -1,0 +1,48 @@
+{
+ "name": "Unidentified_Chiss_captain",
+ "display_name": "Unidentified Chiss captain",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Chiss served as the captain of a Chiss Ascendancy diplomatic cruiser. The cruiser was utilized by an ambassador traveling to the planet Bardram Scoft, and the Chiss Ascendancy hired the Pathfinder navigator Qilori to navigate the vessel to its destination.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Chiss",
+  "/wiki/Chiss_Ascendancy",
+  "/wiki/Chiss_diplomatic_cruiser",
+  "/wiki/Cruiser",
+  "/wiki/Unidentified_Chiss_ambassador",
+  "/wiki/Planet",
+  "/wiki/Bardram_Scoft",
+  "/wiki/Pathfinders_(Navigators%27_Guild)",
+  "/wiki/Navigator",
+  "/wiki/Qilori",
+  "/wiki/Starship",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Chiss_captain",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising",
+  "/wiki/Thrawn_Ascendancy:_Chaos_Rising_(audiobook)"
+ ]
+}

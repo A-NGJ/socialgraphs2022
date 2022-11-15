@@ -1,5 +1,6 @@
 {
  "name": "Ponto",
+ "display_name": "Ponto",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Ponto was the son of Grael and his wife, and a member of the Panshee tribe.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

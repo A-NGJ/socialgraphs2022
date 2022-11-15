@@ -1,5 +1,6 @@
 {
  "name": "Guron",
+ "display_name": "Guron",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Guron was a male Duros. He was a swoop racer who met Meetra Surik on Nar Shaddaa in 3951 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Duros/Legends",

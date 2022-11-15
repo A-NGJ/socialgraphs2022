@@ -1,0 +1,72 @@
+{
+ "name": "Stalgis",
+ "display_name": "Stalgis",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Born",
+     "values": [
+      "c. 2 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial RemnantStormtrooper Corps",
+      "Stormtrooper Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stalgis was a stormtrooper lieutenant in the Imperial Remnant during the Yuuzhan Vong War, serving onboard the Widowmaker. He was born around 2 BBY. In 28 ABY, he accompanied Luke Skywalker, Jacen Solo, and Soron Hegerty on a scouting trip to Munlali Mafir, and later on an a research trip to Csilla, the Chiss capital. A stormtrooper named Tarl served under him, and was a close friend of his. Stalgis also had several close friends who perished during the Yuuzhan Vong attack on Bastion, the Imperial capital.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/2_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_Remnant",
+  "/wiki/Stormtrooper_Corps/Legends",
+  "/wiki/Stormtrooper/Legends",
+  "/wiki/Lieutenant/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Widowmaker_(frigate)",
+  "/wiki/28_ABY/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Darth_Caedus",
+  "/wiki/Soron_Hegerty",
+  "/wiki/Munlali_Mafir",
+  "/wiki/Csilla/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Tarl_(Yuuzhan_Vong_War)",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Battle_of_Bastion",
+  "/wiki/Bastion/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_II:_Refugee"
+ ]
+}

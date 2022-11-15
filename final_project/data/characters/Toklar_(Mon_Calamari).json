@@ -1,0 +1,44 @@
+{
+ "name": "Toklar_(Mon_Calamari)",
+ "display_name": "Toklar  (Mon Calamari)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dac"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Toklar was a famous Mon Calamari philosopher.\nHe was named after a species of predator native to Dac.\nAdmiral Gial Ackbar took Toklar's philosophies to heart, and found the following particularly inspirational:",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Dac",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Philosopher/Legends",
+  "/wiki/Toklar",
+  "/wiki/Admiral/Legends",
+  "/wiki/Gial_Ackbar/Legends",
+  "/wiki/The_Cestus_Deception",
+  "/wiki/Shield_of_Lies",
+  "/wiki/A_Guide_to_the_Star_Wars_Universe,_Third_Edition,_Revised_and_Expanded",
+  "/wiki/The_New_Essential_Guide_to_Characters",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Damor_Gregon",
+ "display_name": "Damor Gregon",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Damor Gregon was a human male who worked for Strono Tuggs in the kitchen of Takodana Castle on Takodana.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Strono_Tuggs",
+  "/wiki/Takodana_Castle",
+  "/wiki/Takodana",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Damor_Gregon",
+  "/wiki/A_Recipe_for_Death",
+  "/wiki/Tales_from_a_Galaxy_Far,_Far_Away:_Aliens:_Volume_I"
+ ]
+}

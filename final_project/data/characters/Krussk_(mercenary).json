@@ -1,0 +1,57 @@
+{
+ "name": "Krussk_(mercenary)",
+ "display_name": "Krussk  (mercenary)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "12 ABY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Krussk was a male Trandoshan mercenary who tried to stop Kyle Katarn during his battle against the Empire Reborn on Bespin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Krussk_(pirate)",
+  "/wiki/12_ABY/Legends",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Battle_of_Bespin_(Empire_Reborn)",
+  "/wiki/Kyle_Katarn",
+  "/wiki/Empire_Reborn",
+  "/wiki/Bespin/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Krussk_(mercenary)",
+  "/wiki/Star_Wars:_Jedi_Knight_II:_Jedi_Outcast",
+  "/wiki/Rebellion_Era_Sourcebook"
+ ]
+}

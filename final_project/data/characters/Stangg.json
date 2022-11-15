@@ -1,0 +1,67 @@
+{
+ "name": "Stangg",
+ "display_name": "Stangg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3638 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gamorrean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "The Shroud's syndicate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Stangg was a male Gamorrean member of The Shroud's syndicate. During the Galactic War, a conflict fought between the reconstituted Sith Empire and the Galactic Republic, he was stationed at one of the Shroud's hidden bases, where he was confronted and killed.\nStangg appears as a boss in the Shroud's storyline, appearing either on Quesh if playing as a Republic character, or on Dromund Kaas if playing as an Imperial character.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3638_BBY",
+  "/wiki/Gamorrean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/The_Shroud%27s_syndicate",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/The_Shroud",
+  "/wiki/Quesh",
+  "/wiki/Star_Wars:_The_Old_Republic:_Rise_of_the_Hutt_Cartel"
+ ]
+}

@@ -1,5 +1,6 @@
 {
  "name": "Countdown",
+ "display_name": "Countdown",
  "side_bars": [
   {
    "name": "Physical description",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "\"Countdown\" was an Imperial TIE/sk x1 experimental air superiority fighter pilot during the Galactic Civil War. He had short brown hair and light-colored skin. \"Countdown\" was stationed on Scarif during the battle near the Citadel Tower, where they entered a dogfight with an T-65B X-wing starfighter.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

@@ -1,0 +1,80 @@
+{
+ "name": "Mission_Commander",
+ "display_name": "Mission Commander",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Dellalt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black w/white blaze"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Survivors"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Steward of the Vaults"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Mission Commander was one of the elite Survivors entrusted with the guardianship of Xim the Despot's treasure vaults on the planet of Dellalt, in 1 BBY.\nThe Mission Commander was a short, grim man whose long, black hair was parted in the middle and showed a white blaze. It was by this blaze that he was recognized by Hasti Troujow during her mission to Dellalt. Like all Survivors, he was hypno-imprinted during childhood. He operated as the assistant to the Steward of the treasure vaults. It was he who was sent by the Steward to awaken the Guardian Corps, and act as the Mission Commander on the attack on J'uoch's mining camp.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Commander_(disambiguation)",
+  "/wiki/Dellalt/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Survivors_(Dellalt)",
+  "/wiki/Steward_(Dellalt)",
+  "/wiki/Han_Solo/Legends",
+  "/wiki/Xim/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/1_BBY/Legends",
+  "/wiki/Hasti_Troujow",
+  "/wiki/Mission_to_Dellalt",
+  "/wiki/Hypno-imprinting",
+  "/wiki/Guardian_Corps",
+  "/wiki/J%27uoch%27s_mining_camp",
+  "/wiki/Han_Solo_and_the_Lost_Legacy",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

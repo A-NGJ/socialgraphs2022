@@ -1,0 +1,42 @@
+{
+ "name": "Spensor_Kluub",
+ "display_name": "Spensor Kluub",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Spensor Kluub was a male Twi'lek slicer living on Cloud City during the Galactic Civil War.\nHe used a private booth at the Well-Done Bantha as his office and was the most respected slicer on Cloud City after the Battle of Hoth.\nAt one point, both Imperial and Rebel agents sought his help to decode a datapad containing the coordinates to the Rebel Safe world Kaliska.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Slicer/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Well-Done_Bantha",
+  "/wiki/Battle_of_Hoth/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Safe_world/Legends",
+  "/wiki/Kaliska",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/Cloud_Cover",
+  "/wiki/Star_Wars_Gamer_3"
+ ]
+}

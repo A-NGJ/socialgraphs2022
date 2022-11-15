@@ -1,0 +1,27 @@
+{
+ "name": "Merrilet_Gorron",
+ "display_name": "Merrilet Gorron",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Merrilet Gorron was a Devaronian trader who operated around the time of the Battle of Yavin. Gorron was a known associate of Ulicx Vinaq.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Merchant/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Ulicx_Vinaq",
+  "/wiki/Galaxy_Guide_10:_Bounty_Hunters"
+ ]
+}

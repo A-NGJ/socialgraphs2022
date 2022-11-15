@@ -1,0 +1,81 @@
+{
+ "name": "Mila_Escalus",
+ "display_name": "Mila Escalus",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Nar Shaddaa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Escalus line"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Mila Escalus, nicknamed Mil by her father, was a female Human who lived on Nar Shaddaa during the Cold War. She was the keeper of Kallig's scorching lightsaber, but her father had gambled it away and lost it to Gyl Rosen.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mila_(disambiguation)",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Escalus_line",
+  "/wiki/Darth_Nox",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Kallig%27s_scorching_lightsaber",
+  "/wiki/Gyl_Rosen",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Mila_Escalus",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

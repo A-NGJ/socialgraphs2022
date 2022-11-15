@@ -1,0 +1,38 @@
+{
+ "name": "Beena_(Rodian)",
+ "display_name": "Beena  (Rodian)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Beena was a male Rodian smuggler who became infamous for refusing to land while dropping off goods; instead, he would attach homing beacons to cargo containers and drop them out of the airlock after sending his clients a tracking frequency. However, he lost all of his business after one of his containers crushed a hospital on the planet Bothawui.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Twi%27lek",
+  "/wiki/Beena",
+  "/wiki/Gender/Legends",
+  "/wiki/Homing_beacon/Legends",
+  "/wiki/Airlock/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Bothawui/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic_Encyclopedia"
+ ]
+}

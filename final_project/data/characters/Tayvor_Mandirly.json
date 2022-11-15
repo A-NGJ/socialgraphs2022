@@ -1,0 +1,65 @@
+{
+ "name": "Tayvor_Mandirly",
+ "display_name": "Tayvor Mandirly",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "38 BBY",
+      "Antar 4"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tayvor Mandirly was a Human male agricultural expert who was the uncle of Bail Organa and lived during the waning years of the Galactic Republic.\nIn 38 BBY, he traveled to Antar 4 to investigate a dispute on the Colfillini plantations there. However, after he made a stand against the practice of working people to death, he was murdered by Raxis and Nolid, members of a local criminal organization. His body was burned and nailed to a stake and the first people to discover it were the Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi.\nObi-Wan Kenobi found this very disturbing and suffered nightmares of it for a long time afterwards. Mandirly's sister, Bail's mother, also found his death hard to take and her grief eventually killed her. However, Raxis and Nolid were only fined by the local government for the murder.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/38_BBY/Legends",
+  "/wiki/Antar_4/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bail_Prestor_Organa/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Colfillini",
+  "/wiki/Death/Legends",
+  "/wiki/Raxis",
+  "/wiki/Nolid",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/The_Clone_Wars:_Wild_Space",
+  "/wiki/The_Clone_Wars:_Wild_Space_(audiobook)",
+  "/wiki/The_Essential_Reader%27s_Companion",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Standard_year/Legends"
+ ]
+}

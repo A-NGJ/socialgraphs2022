@@ -1,0 +1,48 @@
+{
+ "name": "Aydn_Boship",
+ "display_name": "Aydn Boship",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Navy's officer corps",
+      "Imperial Starfighter Corps",
+      "Imperial Navy's officer corps",
+      "Imperial Starfighter Corps"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Aydn Boship was a human who served the Galactic Empire as a TIE fighter pilot and lieutenant.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Galactic_Empire",
+  "/wiki/Imperial_Navy%27s_officer_corps",
+  "/wiki/Imperial_Starfighter_Corps",
+  "/wiki/Imperial_Starfighter_Pilot",
+  "/wiki/Lieutenant",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Aydn_Boship",
+  "/wiki/Solo:_A_Star_Wars_Story",
+  "/wiki/Solo:_A_Star_Wars_Story_The_Official_Guide",
+  "/wiki/Ultimate_Star_Wars"
+ ]
+}

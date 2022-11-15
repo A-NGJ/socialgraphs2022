@@ -1,5 +1,6 @@
 {
  "name": "Plex",
+ "display_name": "Plex",
  "side_bars": [
   {
    "name": "Physical description",
@@ -50,7 +51,7 @@
   }
  ],
  "content": "Plex was a Human male who served as a navigator for the Republic Wanderer-class transport, the Esseles during the Cold War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/PLX_series",

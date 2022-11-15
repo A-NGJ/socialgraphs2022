@@ -1,5 +1,6 @@
 {
  "name": "Mettic",
+ "display_name": "Mettic",
  "side_bars": [
   {
    "name": "Physical description",
@@ -51,7 +52,7 @@
   }
  ],
  "content": "Mettic was a male human who served as a lieutenant in the Galactic Empire at Fekunda Outpost under Commander Zhou.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Human",

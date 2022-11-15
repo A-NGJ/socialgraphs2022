@@ -1,0 +1,48 @@
+{
+ "name": "Ul%27ligan",
+ "display_name": "Ul'ligan",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Krysiant Rheden's crew"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ul'ligan was a male Nikto who served as the gunner onboard the YT-209 freighter Eclipse.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Nikto",
+  "/wiki/Gender",
+  "/wiki/Gunner",
+  "/wiki/YT-209_freighter",
+  "/wiki/Eclipse_(freighter)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Ul%27ligan",
+  "/wiki/Mercy_Mission_(short_story)",
+  "/wiki/The_Rise_of_the_Empire"
+ ]
+}

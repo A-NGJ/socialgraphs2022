@@ -1,0 +1,57 @@
+{
+ "name": "Unidentified_Echani_Senator",
+ "display_name": "Unidentified Echani Senator",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Between 3958–3957 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Echani"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Senator of the Echani people served in the Galactic Senate during the Jedi Civil War, before the Senator was assassinated on the order of Darth Revan. In revenge, the Echani general Yusanis attacked Revan, but was killed in battle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3958_BBY",
+  "/wiki/3957_BBY",
+  "/wiki/Echani/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Jedi_Civil_War",
+  "/wiki/Senator/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Darth/Legends",
+  "/wiki/Revan/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Yusanis",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic"
+ ]
+}

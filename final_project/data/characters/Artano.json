@@ -1,5 +1,6 @@
 {
  "name": "Artano",
+ "display_name": "Artano",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -62,7 +63,7 @@
   }
  ],
  "content": "Artano was a Human male major in the military of the reconstituted Sith Empire. He served as an information control specialist for General Rakton's command group. On Hoth, he tried to stop Havoc Squad from reassembling the umbra encrypter, but was defeated and killed in combat.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3642_BBY",

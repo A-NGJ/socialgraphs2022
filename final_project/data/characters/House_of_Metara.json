@@ -1,0 +1,59 @@
+{
+ "name": "House_of_Metara",
+ "display_name": "House of Metara",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Fragmented",
+     "values": [
+      "0 BBY"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The House of Metara was a noble family from the Core World planet of Alderaan. Its seat was situated in Crevasse City.\nFor generations, many members of the House of Metara served in their homeworld's government as councilors and ambassadors. The Metaras who did not choose to enter public service became artists, physicians, researchers, or teachers.\nStavin Metara worked as an artist, while his wife, Gerane Metara, served as an administrator in Alderaan's education council. Their daughter, Caline Metara, became a pirate after the destruction of Alderaan in 0 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Core_Worlds/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Crevasse_City_(Alderaan)/Legends",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Artist/Legends",
+  "/wiki/Doctor/Legends",
+  "/wiki/Teacher/Legends",
+  "/wiki/Stavin_Metara",
+  "/wiki/Gerane_Metara",
+  "/wiki/Caline_Metara",
+  "/wiki/Pirate/Legends",
+  "/wiki/Destruction_of_Alderaan",
+  "/wiki/Razor%27s_Edge",
+  "/wiki/Razor%27s_Edge_(audiobook)"
+ ]
+}

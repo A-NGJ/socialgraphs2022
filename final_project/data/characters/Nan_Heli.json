@@ -1,0 +1,61 @@
+{
+ "name": "Nan_Heli",
+ "display_name": "Nan Heli",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 82 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Heaven-earth corporation",
+      "Nan family"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Nan Heli was a member of the Heaven-earth corporation. Heli extensively studied the Force and was cautious for his life, however, he was eventually murdered around 82 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/82_BBY",
+  "/wiki/Human",
+  "/wiki/Heaven-earth_corporation",
+  "/wiki/Nan_family",
+  "/wiki/The_Force",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Nan_Heli",
+  "/wiki/The_Vow_of_Silver_Dawn",
+  "/wiki/December_17",
+  "/wiki/2020",
+  "/wiki/December_18",
+  "/wiki/Standard_year",
+  "/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/32_BBY"
+ ]
+}

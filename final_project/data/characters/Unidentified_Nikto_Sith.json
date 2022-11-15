@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Nikto_Sith",
+ "display_name": "Unidentified Nikto Sith",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nikto"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red with black tattoos"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "One Sith",
+      "Darth Krayt's Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Nikto Sith, part of Darth Krayt's Galactic Empire and the One Sith, was one of the many Fury-class starfighter pilots.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Nikto",
+  "/wiki/Nikto/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/One_Sith",
+  "/wiki/Darth_Krayt%27s_Galactic_Empire",
+  "/wiki/Fury-class_starfighter",
+  "/wiki/Legacy_(2006)_44"
+ ]
+}

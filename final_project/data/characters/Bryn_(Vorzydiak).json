@@ -1,0 +1,47 @@
+{
+ "name": "Bryn_(Vorzydiak)",
+ "display_name": "Bryn  (Vorzydiak)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Vorzyd IV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Vorzydiak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Bryn was the wife of Chairman Port of Vorzyd IV and mother of Grath.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bryn_(disambiguation)",
+  "/wiki/Vorzyd_IV",
+  "/wiki/Vorzydiak",
+  "/wiki/Gender/Legends",
+  "/wiki/Chairman/Legends",
+  "/wiki/Port",
+  "/wiki/Grath_(Vorzydiak)",
+  "/wiki/Jedi_Apprentice:_The_Threat_Within"
+ ]
+}

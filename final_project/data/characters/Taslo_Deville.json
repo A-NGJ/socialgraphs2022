@@ -1,0 +1,31 @@
+{
+ "name": "Taslo_Deville",
+ "display_name": "Taslo Deville",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Togorian"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taslo Deville was a Togorian who lived on the planet Shador during the Galactic Civil War. Deville was Captain Sodarra's contact on the planet, and an agent of Lord Darth Vader.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Togorian/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Shador",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Sodarra",
+  "/wiki/Lord/Legends",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Scoundrel%27s_Luck"
+ ]
+}

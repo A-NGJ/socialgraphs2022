@@ -1,0 +1,77 @@
+{
+ "name": "Vindis",
+ "display_name": "Vindis",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Darth Tormen"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vindis was a female Pureblood Sith of the reconstituted Sith Empire living during the Galactic War, who was the apprentice of Darth Tormen. She eventually became a Sith Lord by the time of the war against Zakuul.\nLord Vindis appears during \"The Nathema Conspiracy\" flashpoint only if the Commander is a Bounty Hunter who made the Light Side choice to kill Darth Tormen towards the end of their class story. In this case, Vindis will seek to destroy the one who killed her master to earn the title of Darth and join the Order of Zildrog led by Vinn Atrius, only to be sacrificed as fuel to awaken Zildrog by GEMINI 16 on Nathema. If the player makes a Dark Side choice to kill Supreme Chancellor Dorian Janarus, his wife Malea will appear instead of Vindis, while the other classes face antagonists from their own class stories.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sith_(species)/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Darth_Tormen",
+  "/wiki/Galactic_War",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/War_against_Zakuul",
+  "/wiki/Alliance_Commander",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Darth",
+  "/wiki/Order_of_Zildrog",
+  "/wiki/Vinn_Atrius",
+  "/wiki/Zildrog",
+  "/wiki/GEMINI_16",
+  "/wiki/Nathema",
+  "/wiki/Dorian_Janarus",
+  "/wiki/Malea_Janarus",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne"
+ ]
+}

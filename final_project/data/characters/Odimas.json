@@ -1,5 +1,6 @@
 {
  "name": "Odimas",
+ "display_name": "Odimas",
  "side_bars": [
   {
    "name": "Physical description",
@@ -26,7 +27,7 @@
   }
  ],
  "content": "Odimas was a male Ithorian merchant who sold crystals in the Longstar Marketplace on the planet Burnin Konn, located in the Anoat sector, during the Galactic Empire's Iron Blockade of the sector following the Battle of Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Ithorian",

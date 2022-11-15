@@ -1,0 +1,37 @@
+{
+ "name": "Tolkar",
+ "display_name": "Tolkar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Barabel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tolkar was a male Barabel, who lived during the time of the Galactic Civil War.\nTolkar worked as a foreman at a warehouse on the planet Barab I. At some point, the Galactic Empire accidentally routed a shipment of sixty five blaster rifles to Barabel I and they were put into Tolkar's warehouse for storage. Although the rifles were valuable, the Empire did not know that they were on Barab I and they were taking up space in the warehouse, so Tolkar sold them to a group of freelance agents.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Barabel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Foreman/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Barab_I/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Blaster_rifle/Legends",
+  "/wiki/Scum_and_Villainy_(sourcebook)"
+ ]
+}

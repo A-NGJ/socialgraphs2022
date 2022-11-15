@@ -1,5 +1,6 @@
 {
  "name": "Mekton",
+ "display_name": "Mekton",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Mekton was a male Advozse slave of the Sith Lord Kavaros during the Galactic War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Advozse/Legends",

@@ -1,0 +1,75 @@
+{
+ "name": "Tasan-Ge",
+ "display_name": "Tasan-Ge",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Voss commandos",
+      "Rift Alliance Coalition Forces"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tasan-Ge was a male Voss commando and member of the entourage of the Voss Mystic Gaden-Ko. Gaden-Ko's entourage served in the Rift Alliance Coalition Forces during the Battle of Corellia in the Galactic War, and Tasan-Ge scouted the situation in Capitol Square, though he was injured in the process.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Voss_commandos",
+  "/wiki/Rift_Alliance_Coalition_Forces",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Voss_Mystics",
+  "/wiki/Gaden-Ko",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Galactic_War",
+  "/wiki/Capitol_Square"
+ ]
+}

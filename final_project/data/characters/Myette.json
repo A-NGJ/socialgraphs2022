@@ -1,5 +1,6 @@
 {
  "name": "Myette",
+ "display_name": "Myette",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Myette was a human girl who lived in the town of Reestkii on Jakku when it was raided by Zygerrian slavers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Jakku",

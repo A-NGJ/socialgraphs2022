@@ -1,0 +1,42 @@
+{
+ "name": "Sev_Cataban",
+ "display_name": "Sev Cataban",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sev Cataban was a male human veteran and a good friend of Lando Calrissian.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sev_Cataban",
+  "/wiki/Last_Shot",
+  "/wiki/Last_Shot_(audiobook)"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "name": "Tonot%C3%A9",
+ "display_name": "Tonoté",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ord Cestus"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tonoté was a Human female who was the daughter of Yander, a native of Ord Cestus who worked as a miner; her father was once the partner of Sheeka Tull. She had two brothers named Tarl and Mithail.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ord_Cestus/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Yander_(Ord_Cestus)",
+  "/wiki/Sheeka_Tull",
+  "/wiki/Tarl_(Ord_Cestus)",
+  "/wiki/Mithail",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tonot%C3%A9",
+  "/wiki/The_Cestus_Deception"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Ul-Modo",
+ "display_name": "Ul-Modo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cerean"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Cularin Militia"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ul-Modo was a male Cerean, who worked for the Cularin Militia during the waning years of the Galactic Republic.\nDuring the Clone Wars, Ul-Modo attended a conference that was held in the Forard Civic Center on the planet Almas, to discuss a recent attempt to crash a comet into Almas. Ul-Modo was chosen to moderate the discussion and during the conference, he asked the Heroes of Cularin who they believed was behind the launch of the comet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cerean/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cularin_Militia",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Forard",
+  "/wiki/Civic_Center",
+  "/wiki/Planet/Legends",
+  "/wiki/Almas",
+  "/wiki/Comet/Legends",
+  "/wiki/Heroes_of_Cularin",
+  "/wiki/At_Your_Service"
+ ]
+}

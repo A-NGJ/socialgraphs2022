@@ -1,0 +1,48 @@
+{
+ "name": "Thek",
+ "display_name": "Thek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Feeorin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Believers"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thek was a male Feeorin. He was a member of a Believers cell on Tolea Biqua during the Clone Wars, which was commanded by Alina Impeveri. He liked to use vibro weapons.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Feeorin/Legends",
+  "/wiki/Gadon_Thek",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Believers",
+  "/wiki/Tolea_Biqua",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Alina_Impeveri",
+  "/wiki/The_Heart"
+ ]
+}

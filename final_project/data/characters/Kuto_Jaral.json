@@ -1,0 +1,69 @@
+{
+ "name": "Kuto_Jaral",
+ "display_name": "Kuto Jaral",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Cato Neimoidia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Neimoidian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trade Federation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kuto Jaral was a male Neimoidian officer of the Trade Federation and a resident of the city Jorra on Cato Neimoidia.\nA resident of the city Jorra on Cato Neimoidia, Kuto Jaral found work with the Trade Federation where he ascended to the rank of officer and garnered enough wealth to afford an estate of some grandeur. During the Clone Wars, the fighting came to Cato Neimoidia and forced him and his family from their home, leaving nearly all of their belongings behind. Setting up a modest home within the commercial district of the city, Jaral was filled with discontent when the Galactic Empire rose to power and local Imperial law forbid anyone from entering the undercity as it was deemed to expensive to repair and a dangerous zone. Unwilling to risk his life to enter into the area illegally, Jaral had entered old age by the time of the battle of Yavin. Around this time, Jaral found the courage to ask a stranger to enter into the cordoned area and retrieve some of the surviving odds and ends from his former life from a vault in the estate. Willing to pay 500 credits for each belonging retrieved, these items included worthless datapads, a locket, a chest of knickknacks and various war memorabilia from the Confederacy of Independent Systems.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cato_Neimoidia/Legends",
+  "/wiki/Neimoidian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/City/Legends",
+  "/wiki/Jorra",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Battle_of_Yavin/Legends",
+  "/wiki/Galactic_Credit_Standard",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Chronicles_of_the_Gatekeeper"
+ ]
+}

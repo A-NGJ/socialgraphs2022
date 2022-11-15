@@ -1,0 +1,63 @@
+{
+ "name": "Wwebyls",
+ "display_name": "Wwebyls",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Yn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Humanoid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic Senate"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wwebyls was a humanoid male senator of the New Republic who hailed from Yn. In 17 ABY, he was newly elected to the Inner Council. He was tiny in stature.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Yn",
+  "/wiki/Humanoid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Republic_Senate/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/17_ABY/Legends",
+  "/wiki/Inner_Council",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wwebyls",
+  "/wiki/The_New_Rebellion",
+  "/wiki/Star_Wars_Encyclopedia",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

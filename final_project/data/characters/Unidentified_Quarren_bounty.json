@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Quarren_bounty",
+ "display_name": "Unidentified Quarren bounty",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "During the Galactic Civil War, a Quarren had a bounty place on their head. The bounty hunter Boba Fett tracked the Quarren to a cantina, where he captured the bounty alive, restraining them at blaster-point. The Quarren was orange-skinned with green eyes, and dressed in a white shirt with black pants and waistcoat.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Quarren/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/Star_Wars:_The_Card_Game_Core_Set"
+ ]
+}

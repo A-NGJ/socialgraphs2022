@@ -1,0 +1,39 @@
+{
+ "name": "Paqwe_family",
+ "display_name": "Paqwe family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Paqwe"
+     ]
+    },
+    {
+     "name": "Patriarch(s)",
+     "values": [
+      "Ilar Paqwe"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Paqwepori"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Paqwe family was the ruling family of Paqwepori and the Paqwe. During the Black Fleet Crisis, the family's leader was Ilar Paqwe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Paqwe",
+  "/wiki/Ilar_Paqwe",
+  "/wiki/Paqwepori",
+  "/wiki/Black_Fleet_Crisis",
+  "/wiki/Tyrant%27s_Test"
+ ]
+}

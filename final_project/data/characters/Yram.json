@@ -1,0 +1,78 @@
+{
+ "name": "Yram",
+ "display_name": "Yram",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Royal House of Naboo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Queen Yram was a female human who served as the monarch of the human inhabitants of the planet Naboo at some point prior to King Ars Veruna. As a tribute to the queen, a narrow obelisk called Queen Yram's Needle was built in a courtyard near Theed University.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Yram",
+  "/wiki/Yram/Legends",
+  "/wiki/Naboo",
+  "/wiki/Human",
+  "/wiki/Naboo_(people)",
+  "/wiki/Gender",
+  "/wiki/Royal_House_of_Naboo",
+  "/wiki/Queen",
+  "/wiki/Monarch_of_Naboo",
+  "/wiki/Planet",
+  "/wiki/King",
+  "/wiki/Ars_Veruna",
+  "/wiki/Queen_Yram%27s_Needle",
+  "/wiki/Theed_University",
+  "/wiki/Star_Wars:_Complete_Locations_(2016)",
+  "/wiki/Jafan",
+  "/wiki/Ekay",
+  "/wiki/42_BBY",
+  "/wiki/Dooku:_Jedi_Lost",
+  "/wiki/The_Star_Wars_Book",
+  "/wiki/Dooku",
+  "/wiki/Jedi_Order",
+  "/wiki/Standard_year",
+  "/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/0_BBY",
+  "/wiki/Jedi",
+  "/wiki/Time"
+ ]
+}

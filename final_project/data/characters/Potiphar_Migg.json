@@ -1,0 +1,67 @@
+{
+ "name": "Potiphar_Migg",
+ "display_name": "Potiphar Migg",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Cybernetics",
+     "values": [
+      "Ocular implants"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic EmpireImperial Security Bureau",
+      "Imperial Security Bureau"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Major Potiphar Migg was a male Human and officious field agent in the Imperial Security Bureau on Coruscant. He was a tall man with brown skin and milky white eyes. His eyes were equipped with cybernetic ocular implants that manifested themselves as pinpoints of red light emanating from his pupils.\nMigg was assigned the task of \"verifying the loyalty\" of all citizens on Coruscant, which he attempted to do by haphazardly and unexpectedly conducting inspections of various homes, businesses, starships, or even random citizens encountered on the street. He had ambitions to become a member of the Imperial Court and networked with low-ranked courtesans.\nThough haughty and self-important, Migg was an able soldier, a crack shot with a blaster aided by his implants, and able to track fleeing suspects with considerable tenacity.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Security_Bureau/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Coruscant_and_the_Core_Worlds"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Vreen",
+ "display_name": "Vreen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.7 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Vreen was Human male who worked for Bioniip Laboratories before being hired by Doctor Issan Len to work on the prototype droid X0-X1 during the First Galactic Civil War. Sometime in 1 ABY, he attempted to sell the droid to Lira Wessex of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Doctor/Legends",
+  "/wiki/Bioniip_Laboratories/Legends",
+  "/wiki/Issan_Len",
+  "/wiki/Droid/Legends",
+  "/wiki/X0-X1",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Lira_Wessex/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vreen",
+  "/wiki/Crisis_on_Cloud_City",
+  "/wiki/Lando_Calrissian/Legends",
+  "/wiki/The_Official_Star_Wars_Fact_File_54",
+  "/wiki/EV-9D9/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Idiot%27s_Array/Legends",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

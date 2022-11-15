@@ -1,0 +1,57 @@
+{
+ "name": "Hugo_(exoboar)",
+ "display_name": "Hugo  (exoboar)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3627 BBY",
+      "Dantooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Exoboar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Nova Blades"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Hugo was an armored exoboar used by the Nova Blades pirates. It was killed during the Dantooine Incursion in 3627 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Dantooine/Legends",
+  "/wiki/Exoboar",
+  "/wiki/Nova_Blades",
+  "/wiki/Pirate/Legends",
+  "/wiki/Dantooine_Incursion",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/2017",
+  "/wiki/3629_BBY",
+  "/wiki/3628_BBY",
+  "/wiki/Galactic_Standard_Calendar"
+ ]
+}

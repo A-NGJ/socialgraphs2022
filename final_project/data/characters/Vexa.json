@@ -1,0 +1,53 @@
+{
+ "name": "Vexa",
+ "display_name": "Vexa",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Tusken Raider"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vexa was a female Tusken Raider and a member of the same tribe that Sliven led. She resented Sliven since he had adopted a Human girl named Tahiri Veila into his tribe in 16 ABY. However, she allowed him to take her into the tribe and Sliven to remain leader if he promised that she be taken into the Dune Sea at the age of nine to undergo a week-long survival quest without food or water.\nThus, when Tahiri returned with Anakin Solo from the Jedi Praxeum in 22 ABY, she underwent this quest. Both Jedi prevailed due to their growing Force powers. In the end, Sliven remained the leader of his tribe.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/Tusken_Raider/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Sliven",
+  "/wiki/Human/Legends",
+  "/wiki/Tahiri_Veila",
+  "/wiki/16_ABY/Legends",
+  "/wiki/Dune_Sea/Legends",
+  "/wiki/Anakin_Solo",
+  "/wiki/Jedi_Praxeum",
+  "/wiki/22_ABY/Legends",
+  "/wiki/The_Force/Legends",
+  "/wiki/Junior_Jedi_Knights:_Promises",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

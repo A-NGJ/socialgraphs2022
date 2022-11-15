@@ -1,0 +1,57 @@
+{
+ "name": "Clan_Hakh%27khar",
+ "display_name": "Clan Hakh'khar",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Family type",
+     "values": [
+      "Clan"
+     ]
+    },
+    {
+     "name": "Species",
+     "values": [
+      "Noghri"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Wayland"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Clan Hakh'khar was a Noghri family that had been transplanted to New Nystao on Wayland. Its members included Mobvekhar and Khakraim.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Noghri/Legends",
+  "/wiki/Wayland",
+  "/wiki/New_Republic/Legends",
+  "/wiki/New_Nystao",
+  "/wiki/Mobvekhar",
+  "/wiki/Khakraim",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/The_Last_Command",
+  "/wiki/The_Last_Command_(unabridged_audiobook)",
+  "/wiki/The_Last_Command_5",
+  "/wiki/The_New_Jedi_Order:_Agents_of_Chaos_I:_Hero%27s_Trial",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Unidentified_rocket-jumper",
+ "display_name": "Unidentified rocket-jumper",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Republic rocket-jumper",
+      "Republic rocket-jumper"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Human served as a member of the Galactic Republic's Rocket-Jumper Elite Advance Unit. At one point, they were dismissed from service after a training accident that resulted in injuries.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Rocket-Jumper_Elite_Advance_Unit",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_rocket-jumper",
+  "/wiki/Tales_of_the_Jedi_Companion"
+ ]
+}

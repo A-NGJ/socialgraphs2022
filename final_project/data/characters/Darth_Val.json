@@ -1,0 +1,56 @@
+{
+ "name": "Darth_Val",
+ "display_name": "Darth Val",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zabrak"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Darth Val was a female Zabrak Sith Lord of the Sith Empire living during the Eternal Empire conquest. By 3630 BBY she was wanted by the Eternal Empire of Zakuul for slander, inciting violence, terrorism and murder. Her wanted poster was displayed in the Overwatch.\nDarth Val appears during Chapter 10: Anarchy in Paradise of Star Wars: The Old Republic: Knights of the Fallen Empire on a wanted holo-poster.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zabrak/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Eternal_Empire_conquest",
+  "/wiki/3630_BBY",
+  "/wiki/Eternal_Empire",
+  "/wiki/Zakuul",
+  "/wiki/Overwatch",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Fallen_Empire"
+ ]
+}

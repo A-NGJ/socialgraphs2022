@@ -1,0 +1,72 @@
+{
+ "name": "Unidentified_zone_runner",
+ "display_name": "Unidentified zone runner",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "Sometime BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Light brown"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Resistance movement against the Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This unidentified zone runner was one of the zone runners on an unidentified Outer Rim Territories world, where he fought against the Galactic Empire. He worked as a team with Ved and Wyl Tarson.\nAs a zone runner, he would sprint from cover through the field of battle, fling a sack of explosives onto an advancing Imperial Juggernaut, and let the crude bomb cripple its drive mechanisms or destroy the machine entirely. The explosives, however, were of unreliable make and could explode unexpectedly. On one run, they did just that, killing him and throwing Wyl into the path of one of the Juggernauts.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Galactic_Standard_Calendar",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Ved_Tarson",
+  "/wiki/Zone_runner",
+  "/wiki/Outer_Rim_Territories/Legends",
+  "/wiki/Wyl_Tarson",
+  "/wiki/Juggernaut",
+  "/wiki/Rebellion_6"
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "name": "Vandalor",
+ "display_name": "Vandalor",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Csilla"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "21 BBY",
+      "Metalorn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chiss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Chiss Ascendancy",
+      "Confederacy of Independent Systems"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vandalor was a Chiss bounty hunter.\nVandalor was the lover of Dark Acolyte Sev'rance Tann. Like her, Vandalor was employed by the Confederacy during the early stages of the Clone Wars, participating in the Coruscant Insurrection, where he encountered Anakin Skywalker in the Underlevels.\nHe later served as the bodyguard of Wat Tambor on the planet Metalorn, where Skywalker killed him.\nIn combat, Vandalor employed a jetpack in conjunction with a white polearm. This polearm was unique in that rather than serving as a mêlée weapon, it was ranged, firing as a blaster from one end and as a pulse-wave cannon from the other.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Csilla/Legends",
+  "/wiki/21_BBY/Legends",
+  "/wiki/Metalorn/Legends",
+  "/wiki/Chiss/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Chiss_Ascendancy/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Dark_Acolyte/Legends",
+  "/wiki/Sev%27rance_Tann",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Coruscant_Insurrection",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Wat_Tambor/Legends",
+  "/wiki/Jetpack/Legends",
+  "/wiki/Melee_weapon/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Pulse-wave_cannon",
+  "/wiki/Star_Wars:_The_New_Droid_Army",
+  "/wiki/The_New_Essential_Chronology",
+  "/wiki/The_New_Essential_Guide_to_Alien_Species",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Atlas"
+ ]
+}

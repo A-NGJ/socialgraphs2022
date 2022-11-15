@@ -1,5 +1,6 @@
 {
  "name": "Pheeb",
+ "display_name": "Pheeb",
  "side_bars": [
   {
    "name": "Physical description",
@@ -33,7 +34,7 @@
   }
  ],
  "content": "Pheeb was a Sullustan female operative of the New Republic Security Bureau. She was present in the central operations of a New Republic Security Bureau space station, where officer Sela Trune requested to see the prisoner Marinda Gan, a member of the Spice Runners of Kijimi.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Sullustan",

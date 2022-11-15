@@ -1,0 +1,42 @@
+{
+ "name": "Iggjel%27s_friend",
+ "display_name": "Iggjel's friend",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Wayland Herd"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Iggjel's friend was an Ithorian who was part of the Wayland Herd. A tender-in-training, Iggjel's friend accompanied him when the young Ithorian left for the Mother Jungle, although did not join him on the surface.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Wayland_Herd",
+  "/wiki/Mother_Jungle/Legends",
+  "/wiki/West_End_Games",
+  "/wiki/Iggjel_and_the_Mother_Jungle",
+  "/wiki/The_Star_Wars_Sourcebook",
+  "/wiki/Star_Wars_Sourcebook_(Second_Edition)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

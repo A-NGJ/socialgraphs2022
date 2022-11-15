@@ -1,5 +1,6 @@
 {
  "name": "Bagitt",
+ "display_name": "Bagitt",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Bagitt was a Human male technician in Engine Central of Nomad City on Nkllon.\nOn the day of the destruction of Nomad City, he reported to Lando Calrissian the damage to drive motivators that the Empire had done during their visit. He also attempted to repair the life support systems until the evacuation order was announced.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

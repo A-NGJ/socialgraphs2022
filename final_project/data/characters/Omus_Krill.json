@@ -1,0 +1,53 @@
+{
+ "name": "Omus_Krill",
+ "display_name": "Omus Krill",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Zygerrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Confederacy of Independent Systems",
+      "Zygerrian Slave Empire",
+      "Zygerrian Slave Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Omus Krill was a male Zygerrian who served as a guard during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Omus_Krill",
+  "/wiki/Omus_Krill/Legends",
+  "/wiki/Zygerrian",
+  "/wiki/Gender",
+  "/wiki/Confederacy_of_Independent_Systems",
+  "/wiki/Zygerrian_Slave_Empire",
+  "/wiki/Clone_Wars",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Omus_Krill",
+  "/wiki/Star_Wars:_The_Clone_Wars",
+  "/wiki/Slaves_of_the_Republic",
+  "/wiki/StarWars.com"
+ ]
+}

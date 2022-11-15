@@ -1,0 +1,52 @@
+{
+ "name": "Kylia_Stryder",
+ "display_name": "Kylia Stryder",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kylia Stryder was a human female. A rebel group located in the Anoat sector recruited Kylia as a teenager, despite her being the daughter of an Imperial Commander. Her father never discovered her affiliation with the rebellion. Shortly after the destruction of the second Death Star, Stryder was recruited by the Smuggler for her skills as a scavenger.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Anoat_sector",
+  "/wiki/Galactic_Empire",
+  "/wiki/Commander",
+  "/wiki/Kylia_Stryder%27s_father",
+  "/wiki/Battle_of_Endor",
+  "/wiki/DS-2_Death_Star_II_Mobile_Battle_Station",
+  "/wiki/The_Smuggler",
+  "/wiki/Scavenger",
+  "/wiki/Star_Wars:_Uprising"
+ ]
+}

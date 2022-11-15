@@ -1,0 +1,74 @@
+{
+ "name": "Wermyn",
+ "display_name": "Wermyn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Aquella"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aquellan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple-green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Empire",
+      "Imperial Department of Military Research",
+      "Imperial Department of Military Research"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wermyn was an Aquellan in charge of plant operations and keeping the Maw Installation up-and-running. One-handed, he wore the traditional green-purple tattoos found on all Aquellan men.\nDuring the Battle of the Maw in 11 ABY, he sabotaged the Installations power generators, though when he was captured by General Wedge Antilles and Page's Commandos, he offered to repair the damage.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aquella",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Tattoo/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Department_of_Military_Research/Legends",
+  "/wiki/Champions_of_the_Force",
+  "/wiki/Aquellan",
+  "/wiki/Maw_Installation",
+  "/wiki/Battle_of_the_Maw",
+  "/wiki/11_ABY/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Wedge_Antilles/Legends",
+  "/wiki/Katarn_Commandos",
+  "/wiki/The_Jedi_Academy_Sourcebook",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

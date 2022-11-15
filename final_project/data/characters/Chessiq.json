@@ -1,5 +1,6 @@
 {
  "name": "Chessiq",
+ "display_name": "Chessiq",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -60,7 +61,7 @@
   }
  ],
  "content": "Chessiq was a male Human who resided on the moon of Nar Shaddaa. He made his living as a stimulant vendor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Nar_Shaddaa/Legends",

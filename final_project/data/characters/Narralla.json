@@ -1,5 +1,6 @@
 {
  "name": "Narralla",
+ "display_name": "Narralla",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Narralla was a Devlikk female who led a resistance movement on the planet Ord Radama against the Galactic Empire. Narralla's hatred toward the Empire began when it killed her parents.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ord_Radama/Legends",

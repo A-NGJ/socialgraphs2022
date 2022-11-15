@@ -1,0 +1,66 @@
+{
+ "name": "Haum_Do",
+ "display_name": "Haum Do",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kaminoan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "TriNebulon News"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Haum Do was a female Kaminoan journalist with a bubbly personality.\nAn orphan on Kamino, Do grew up in the information-rich Datum District and became a reporter. She was quite curious for a Kaminoan and had the uncanny knack of appearing wherever and whenever important stories broke, whether she was invited or not.\nShe began working as Mon Calamari correspondent for TriNebulon News, usually based on Foamwander City. Natives dealing with her were unsure about what species she was. Haum Do was among the people investigating the planetary repulsor chamber found on the greatest of the Mkbuto Islands, an event attracting great attention from the media, which was later revealed to be a fake.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Kaminoan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/TriNebulon_News/Legends",
+  "/wiki/Datum_District",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Foamwander_City",
+  "/wiki/Planetary_repulsor",
+  "/wiki/Mkbuto_Islands",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds"
+ ]
+}

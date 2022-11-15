@@ -1,0 +1,50 @@
+{
+ "name": "Tem",
+ "display_name": "Tem",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mandalorian Protectors"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tem was a member of the Mandalorian Protectors guarding the captured bounty hunter Dengar in 3 ABY. When C-3PO cut the rope holding Dengar's cage, Tem and his fellow guard were knocked out as the cage landed on top of them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tem_Eliss",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Mandalorian_Protectors/Legends",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Dengar/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/C-3PO/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tem",
+  "/wiki/Star_Wars_(1977)_68"
+ ]
+}

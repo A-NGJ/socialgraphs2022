@@ -1,0 +1,39 @@
+{
+ "name": "Sal_Vaneth",
+ "display_name": "Sal Vaneth",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bothan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Kaltho"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sal Vaneth was the Bothan majordomo of Kaltho during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sal_(disambiguation)",
+  "/wiki/Bothan/Legends",
+  "/wiki/Kaltho",
+  "/wiki/Majordomo/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

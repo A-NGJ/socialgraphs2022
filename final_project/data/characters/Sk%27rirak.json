@@ -1,5 +1,6 @@
 {
- "name": "Sk'rirak",
+ "name": "Sk%27rirak",
+ "display_name": "Sk'rirak",
  "side_bars": [
   {
    "name": "Physical description",
@@ -37,7 +38,7 @@
   }
  ],
  "content": "Sk'rirak was a female Tarong. Along with her brother, K'derek, K'derek worked with the Alliance to Restore the Republic as information gatherers.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Tarong",

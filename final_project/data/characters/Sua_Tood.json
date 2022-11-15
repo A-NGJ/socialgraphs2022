@@ -1,0 +1,38 @@
+{
+ "name": "Sua_Tood",
+ "display_name": "Sua Tood",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gossam"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sua Tood was a Gossam male who owned farms on Felucia during the Clone Wars. During the war, several farms were destroyed. The local authorities were too concerned with the war to aide Tood.\nSua Tood was mentioned in Collapse of the Republic, a roleplaying supplementary sourcebook for the Star Wars Roleplaying series that was published by Fantasy Flight Games in 2019.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Gossam",
+  "/wiki/Gender",
+  "/wiki/Farm",
+  "/wiki/Felucia",
+  "/wiki/Clone_Wars",
+  "/wiki/Collapse_of_the_Republic",
+  "/wiki/Roleplaying_game",
+  "/wiki/Star_Wars_Roleplaying",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/2019"
+ ]
+}

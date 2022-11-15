@@ -1,0 +1,77 @@
+{
+ "name": "Unidentified_starship_captain",
+ "display_name": "Unidentified starship captain",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Majoor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Unidentified Majoor species"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "White"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Majoor"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A starship captain served on the bridge of a consular ship under the command of Ambassador Zell of the planet Majoor during a peace mission to the planet Armath. When the pirate Reddjak attacked the convoy, the captain joined the ambassador in boarding the pirates' starship, the Blood Brother, to thwart the outlaw's plans and to rescue Zell's kidnapped son, Llez.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Majoor",
+  "/wiki/Unidentified_Majoor_species",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Majooran_consular_ship",
+  "/wiki/Ambassador/Legends",
+  "/wiki/Zell",
+  "/wiki/Planet/Legends",
+  "/wiki/Peace_mission_to_Armath",
+  "/wiki/Armath",
+  "/wiki/Pirate/Legends",
+  "/wiki/Reddjak",
+  "/wiki/Captain/Legends",
+  "/wiki/Starship/Legends",
+  "/wiki/Blood_Brother",
+  "/wiki/Llez",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_starship_captain",
+  "/wiki/Droids_(1986)_3",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "name": "Vigilch",
+ "display_name": "Vigilch",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 18 ABY",
+      "aboard a Moraysian cruiser"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Klatooinian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Spice Runners of Kijimi"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vigilch was a Klatooinian male member of the smuggler gang known as the Spice Runners of Kijimi. He was one of several Spice Runners that became stranded on the moon Yavin 4 after their pilot was killed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/18_ABY",
+  "/wiki/Unidentified_Moraysian_cruiser",
+  "/wiki/Klatooinian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Spice_Runners_of_Kijimi",
+  "/wiki/Smuggler",
+  "/wiki/Moon",
+  "/wiki/Yavin_4",
+  "/wiki/Beke_Mon%27z",
+  "/wiki/Death",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vigilch",
+  "/wiki/Poe_Dameron:_Free_Fall",
+  "/wiki/Poe_Dameron:_Free_Fall_(audiobook)",
+  "/wiki/Skirmish_aboard_a_Moraysian_cruiser",
+  "/wiki/Standard_month",
+  "/wiki/Poe_Dameron",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/Spicerunner",
+  "/wiki/Standard_year",
+  "/wiki/Hosnian_Cataclysm",
+  "/wiki/Star_Wars:_Galactic_Atlas",
+  "/wiki/34_ABY"
+ ]
+}

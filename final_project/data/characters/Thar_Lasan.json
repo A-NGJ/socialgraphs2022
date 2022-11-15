@@ -1,0 +1,42 @@
+{
+ "name": "Thar_Lasan",
+ "display_name": "Thar Lasan",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "5 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gotal"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Thar Lasan was a Gotal Loan shark working in the Corporate Sector. The criminal organization led by Lasan included Klatooinian mercenary Beatas. Around 5 BBY, Lasan died unexpectedly, probably due to some intervention by rival crimelord Ploovo Two-For-One. Lasan's organization was merged with Ploovo's.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lasan_(disambiguation)",
+  "/wiki/5_BBY/Legends",
+  "/wiki/Gotal/Legends",
+  "/wiki/Loan_shark",
+  "/wiki/Corporate_Sector/Legends",
+  "/wiki/Klatooinian/Legends",
+  "/wiki/Beatas",
+  "/wiki/Ploovo_Two-For-One/Legends",
+  "/wiki/Alliance_Intelligence_Reports"
+ ]
+}

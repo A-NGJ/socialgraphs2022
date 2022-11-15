@@ -1,0 +1,75 @@
+{
+ "name": "Emma_Thex",
+ "display_name": "Emma Thex",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Tan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire",
+      "Imperial Intelligence",
+      "Imperial Intelligence"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Emma Thex was a Human female who served as an Imperial interrogation expert for the resurgent Sith Empire during the Galactic War.\nDuring the Battle of Corellia in 3640 BBY, the Imperial Ministry of War placed bounties on the Green Jedi after their enclave was discovered in the Government District of the Coronet City. After several Jedi were captured, Emma Thex began to interrogate them. Since her captives proved resilient toward her, she sent an Imperial hero to recover CorSec interrogation droids from a Republic storage facility.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Intelligence_(Sith_Empire)",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/3640_BBY",
+  "/wiki/Ministry_of_War_(Sith_Empire)",
+  "/wiki/Corellian_Jedi",
+  "/wiki/Governmental_Sector",
+  "/wiki/Coronet_City/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

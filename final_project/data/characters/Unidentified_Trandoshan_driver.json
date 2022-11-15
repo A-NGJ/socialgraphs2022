@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_Trandoshan_driver",
+ "display_name": "Unidentified Trandoshan driver",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Trandoshan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Trandoshan was piloting an airspeeder on the planet Coruscant sometime in 0 ABY. His airspeeder was almost rammed by another speeder piloted by X-7, an Imperial assassin.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Trandoshan",
+  "/wiki/Trandoshan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Airspeeder/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/0_ABY/Legends",
+  "/wiki/X-7",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Assassin/Legends",
+  "/wiki/Rebel_Force:_Trapped"
+ ]
+}

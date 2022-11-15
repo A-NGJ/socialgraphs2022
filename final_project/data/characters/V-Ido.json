@@ -1,0 +1,57 @@
+{
+ "name": "V-Ido",
+ "display_name": "V-Ido",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kegan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Learning Circle"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "V-Ido was a student at the Learning Circle on Kegan.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kegan",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Learning_Circle",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/V-Ido",
+  "/wiki/Jedi_Apprentice:_The_Fight_for_Truth"
+ ]
+}

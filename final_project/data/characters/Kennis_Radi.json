@@ -1,0 +1,52 @@
+{
+ "name": "Kennis_Radi",
+ "display_name": "Kennis Radi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Legislative Youth Program"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kennis Radi was a Human male who served as a member of the Legislative Youth Program during the Separatist Crisis.\nIn 22 BBY, Radi held the position of Junior Chancellor in the Youth Program's simulation of the vote on the Military Creation Act. The mock Senate session took place, as every year, in Hanna City on the planet Chandrila.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Legislative_Youth_Program/Legends",
+  "/wiki/Separatist_Crisis/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Junior_Chancellor",
+  "/wiki/Military_Creation_Act/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Hanna_City/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Chandrila/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_50"
+ ]
+}

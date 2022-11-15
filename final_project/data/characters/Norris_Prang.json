@@ -1,0 +1,50 @@
+{
+ "name": "Norris_Prang",
+ "display_name": "Norris Prang",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Lord Shadowspawn"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Norris Prang was a male Human pilot who served as a wing commander in Lord Shadowspawn's army.\nIn 5 ABY, he delivered the report of New Republic General Luke Skywalker's supposed death to Shadowspawn. Thinking that Shadowspawn would be pleased at the enemy's death, Prang was surprised when Shadowspawn was not delighted and ordered him to come up with a plan to capture Skywalker alive.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cronal",
+  "/wiki/Pilot/Legends",
+  "/wiki/5_ABY/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Luke_Skywalker/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Norris_Prang",
+  "/wiki/Luke_Skywalker_and_the_Shadows_of_Mindor"
+ ]
+}

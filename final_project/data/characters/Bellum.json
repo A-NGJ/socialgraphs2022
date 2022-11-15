@@ -1,5 +1,6 @@
 {
  "name": "Bellum",
+ "display_name": "Bellum",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Bellum was a forger, also known as Bellum the Forger, who lived on Cloud City. She was killed by droids acting under the influence of X0-X1.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/1_ABY/Legends",

@@ -1,0 +1,68 @@
+{
+ "name": "Orma_Hundeen",
+ "display_name": "Orma Hundeen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Blonde"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Quetzal Sisters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Orma Hundeen was a female Human. Along with Zeela Nall, Nuri Pravada, Sheyne Tyndos, and Leia Organa, she went on a mission on Elerion to recover the holocube map containing the location of Rebel bases from Nescan Tal'yo, Hermos, and Gogol.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Quetzal_Sisters",
+  "/wiki/Zeela_Nall",
+  "/wiki/Nuri_Pravada",
+  "/wiki/Sheyne_Tyndos",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Elerion",
+  "/wiki/Holocube/Legends",
+  "/wiki/Nescan_Tal%27yo",
+  "/wiki/Hermos_(droid)",
+  "/wiki/Gogol_(owner)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Orma_Hundeen",
+  "/wiki/Lucky_Stars",
+  "/wiki/Star_Wars_Tales_15"
+ ]
+}

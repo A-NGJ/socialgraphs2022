@@ -1,0 +1,37 @@
+{
+ "name": "Kemmel_Attapi",
+ "display_name": "Kemmel Attapi",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Silika"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Kemmel Attapi was a male Silika who was the ruling champion of Silika water drinking and was undefeated until he made the mistake of challenging the Human smuggler, Dannen Lifehold.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Silika",
+  "/wiki/Gender/Legends",
+  "/wiki/Silika_water",
+  "/wiki/Human/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Dannen_Lifehold",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Breaking_Free:_The_Adventures_of_Dannen_Lifehold",
+  "/wiki/Star_Wars_Adventure_Journal_1"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Rodian_child",
+ "display_name": "Unidentified Rodian child",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A young Rodian child was aboard a passenger starliner when Din Djarin traveled from the starport on the city known as Glavis Ringworld.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Rodian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Youngling",
+  "/wiki/Unidentified_passenger_starliner",
+  "/wiki/Din_Djarin",
+  "/wiki/Glavis_Ringworld_starport",
+  "/wiki/City",
+  "/wiki/Glavis_Ringworld",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/The_Book_of_Boba_Fett",
+  "/wiki/Chapter_5:_Return_of_the_Mandalorian"
+ ]
+}

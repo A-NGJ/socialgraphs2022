@@ -1,0 +1,39 @@
+{
+ "name": "Tropam_Givar",
+ "display_name": "Tropam Givar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rellarin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tropam Givar was a Rellarin Jedi auxiliary, and one of the most commonly requested agents by the Order at the time of the Invasion of Naboo.\nTropam Givar is mentioned in an article in Star Wars Gamer 8.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rellarin",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Star_Wars_Gamer_8",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_University_of_Sanbra_Guide_to_Intelligent_Life:_The_Priapulin"
+ ]
+}

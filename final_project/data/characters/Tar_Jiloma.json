@@ -1,0 +1,42 @@
+{
+ "name": "Tar_Jiloma",
+ "display_name": "Tar Jiloma",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green-gold"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tar Jiloma was a male Twi'lek with green-gold skin. He had a minor job in the Conkesta, the secret flying fortress built by Karae Nalvas in 31 BBY.\nShortly before the Conkesta was destroyed, Jiloma just bumped into some strangers and questioned them, with one eyebrow raised and one lekku shaking. Jiloma was simply a busybody who wanted to know about the people around him. He was completely unaware that the strangers were undercover raiders on their way to destroy the Conkesta.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Conkesta",
+  "/wiki/Karae_Nalvas",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Lekku/Legends",
+  "/wiki/Into_the_Storm_Clouds"
+ ]
+}

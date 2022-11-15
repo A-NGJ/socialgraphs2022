@@ -1,0 +1,62 @@
+{
+ "name": "Alde_(Baron)",
+ "display_name": "Alde  (Baron)",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Alde"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Baron Alde was a Human male from the Alderaanian noble House Alde. In 3643 BBY, he requested the head of Darth Bandon from the House Alde Royal Museum to present as a peace offering to Bouris Ulgo.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alde_(disambiguation)",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Alde",
+  "/wiki/Baron/Legends",
+  "/wiki/Alderaanian/Legends",
+  "/wiki/3643_BBY",
+  "/wiki/Darth_Bandon",
+  "/wiki/Royal_Museum_of_Alderaan",
+  "/wiki/Bouris_Ulgo",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

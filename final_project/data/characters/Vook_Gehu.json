@@ -1,0 +1,69 @@
+{
+ "name": "Vook_Gehu",
+ "display_name": "Vook Gehu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Duro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Uldir Lochett",
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Duros Vook Gehu was a member of Uldir Lochett's crew aboard the rescue starship No Luck Required. His natural dourness was only intensified following the Yuuzhan Vong conquest of his homeworld and the death of his uncle.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duro/Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Uldir_Lochett",
+  "/wiki/New_Republic/Legends",
+  "/wiki/No_Luck_Required",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Tyro_Gehu",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vook_Gehu",
+  "/wiki/Emissary_of_the_Void"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Unidentified_Sullustan_captain",
+ "display_name": "Unidentified Sullustan captain",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3640 BBY, a Sullustan captain was present in Nar Shaddaa's spaceport during the engagement between Republic Strategic Information Service agent Theron Shan and the forces of the Hutt crime lord Morbo. He was worried about the damage caused to the spaceport endured by the fighting.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/3640_BBY",
+  "/wiki/Nar_Shaddaa/Legends",
+  "/wiki/Nar_Shaddaa_spaceport/Legends",
+  "/wiki/Republic_Strategic_Information_Service",
+  "/wiki/Agent/Legends",
+  "/wiki/Theron_Shan",
+  "/wiki/Hutt/Legends",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Morbo",
+  "/wiki/Spaceport/Legends",
+  "/wiki/The_Old_Republic:_Annihilation",
+  "/wiki/The_Old_Republic:_Annihilation_(audiobook)"
+ ]
+}

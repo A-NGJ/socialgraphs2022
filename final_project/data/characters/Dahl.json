@@ -1,5 +1,6 @@
 {
  "name": "Dahl",
+ "display_name": "Dahl",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Dahl was a male Samarian who served as an aide to Aaren Larker, a liaison to the Samarian resistance in the time immediately after the Clone Wars' end.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Samaria",

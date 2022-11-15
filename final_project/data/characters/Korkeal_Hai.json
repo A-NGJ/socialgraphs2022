@@ -1,0 +1,62 @@
+{
+ "name": "Korkeal_Hai",
+ "display_name": "Korkeal Hai",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Shesharile system"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.9 meters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Korkeal Hai was a hyperkinetic smuggler who loved tinkering with her freighter, the modified Gymsnor-3 freighter called the Riff-Raff.\nShe spent her early years in the Shesharile system constructing a light freighter from spare parts with the help of an old high-grade computer from the Clone Wars. She installed the computer in her ship, and it constantly nagged her about her ship's disarray.\nKorkeal was a slender Human woman, with failing eyesight that she corrected with archaic spectacles instead of corrective medicine. She never tired of trying new combinations of parts and she hoarded piles of machinery throughout her ship.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Shesharile_system",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Freighter/Legends",
+  "/wiki/Gymsnor-3_light_freighter",
+  "/wiki/Riff-Raff",
+  "/wiki/Standard_year/Legends",
+  "/wiki/Light_freighter/Legends",
+  "/wiki/Computer/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Eye/Legends",
+  "/wiki/Spectacles",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters",
+  "/wiki/Galaxy_Guide_6:_Tramp_Freighters_(Second_Edition)",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

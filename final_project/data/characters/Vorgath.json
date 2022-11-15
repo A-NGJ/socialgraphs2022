@@ -1,0 +1,78 @@
+{
+ "name": "Vorgath",
+ "display_name": "Vorgath",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "3639 BBY",
+      "Denova"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith EmpireImperial Army",
+      "Imperial Army",
+      "Dread Host"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vorgath was a Human male colonel in the Imperial Army of the reconstituted Sith Empire who was influenced by the Dread Masters into joining the Dread Host on Denova. He was slain in battle in 3639 BBY.\nVorgath appears in the video game Star Wars: The Old Republic as a boss in the \"Explosive Conflict\" operation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Special:EditPage/:Vorgath",
+  "/wiki/3639_BBY",
+  "/wiki/Denova",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Imperial_Army_(Sith_Empire)",
+  "/wiki/Dread_Host",
+  "/wiki/Colonel/Legends",
+  "/wiki/Dread_Masters",
+  "/wiki/Death/Legends",
+  "/wiki/Battle_of_Denova",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vorgath",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic:_Galactic_Strongholds"
+ ]
+}

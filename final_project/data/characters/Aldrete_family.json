@@ -1,0 +1,49 @@
+{
+ "name": "Aldrete_family",
+ "display_name": "Aldrete family",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Other locations",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Alderaanian Resistance"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Aldrete family was a Human family from the planet of Alderaan. By 17 BBY, the Aldrete had amassed considerable wealth through casinos, passenger liners and luxury hotels.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Alderaanian",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Alderaanian_Resistance",
+  "/wiki/Planet/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/Casino/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan",
+  "/wiki/Jaws_of_the_Sarlacc"
+ ]
+}

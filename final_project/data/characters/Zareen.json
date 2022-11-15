@@ -1,0 +1,69 @@
+{
+ "name": "Zareen",
+ "display_name": "Zareen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cathar"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Orange"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zareen was a female Cathar salvager and member of the White Maw pirates who tried to steal the Umbra encrypter from under the nose of both the Republic Army and Major Artano. However, the Havoc Squad captain was able to make a deal with her, promising her credits in return, and Zareen sided with Havoc Squad in a fight against Artano.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cathar_(planet)",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Pirate/Legends",
+  "/wiki/Black_cipher",
+  "/wiki/Republic_Army",
+  "/wiki/Major/Legends",
+  "/wiki/Artano",
+  "/wiki/Meteor_(Havoc_Squad)",
+  "/wiki/Havoc_Squad",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

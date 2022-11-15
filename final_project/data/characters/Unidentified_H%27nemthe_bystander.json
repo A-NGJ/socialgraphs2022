@@ -1,0 +1,33 @@
+{
+ "name": "Unidentified_H%27nemthe_bystander",
+ "display_name": "Unidentified H'nemthe bystander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "H'nemthe"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A H'nemthe was on Telerath in 19 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/H%27nemthe_(species)/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Telerath/Legends",
+  "/wiki/19_BBY/Legends",
+  "/wiki/Dark_Times_13"
+ ]
+}

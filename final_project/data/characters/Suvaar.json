@@ -1,0 +1,78 @@
+{
+ "name": "Suvaar",
+ "display_name": "Suvaar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    },
+    {
+     "name": "Masters",
+     "values": [
+      "Mohgren"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Suvaar was a Human male who was the Sith apprentice of Lord Mohgren, a Sith Lord of the Sith Empire during the Galactic War. During the invasion of Belsavis, Mohgren sought to free the Rakata Subject 13 from a mind prison, and Suvaar willingly offered his body to Subject 13 for the Rakata to take control of.\nSuvaar appears in the Imperial mission \"Subject 13\" in the video game Star Wars: The Old Republic.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Mohgren",
+  "/wiki/Sith_apprentice/Legends",
+  "/wiki/Lord/Legends",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/Rakata/Legends",
+  "/wiki/Subject_13",
+  "/wiki/Mind_prison",
+  "/wiki/Video_game",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

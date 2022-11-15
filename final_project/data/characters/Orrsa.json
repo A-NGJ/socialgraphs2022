@@ -1,5 +1,6 @@
 {
  "name": "Orrsa",
+ "display_name": "Orrsa",
  "side_bars": [
   {
    "name": "Physical description",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Orrsa was a Wookiee bartender at the Swirling Vortex, a cantina aboard a space station near Duro, during the Yuuzhan Vong invasion of the galaxy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Wookiee/Legends",

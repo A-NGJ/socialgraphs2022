@@ -1,0 +1,71 @@
+{
+ "name": "Viran_Qol",
+ "display_name": "Viran Qol",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Niran"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Viran Qol was an Alliance SpecForce Major who was considered an expert on Imperial fortifications. He lectured on Imperial garrison design and tactics at the hidden Alliance Officer's Candidate School.\nQol graduated from a civil engineering program the day before his homeworld was subjugated by the Empire. Days later, he joined the local resistance, which later became part of the Alliance to Restore the Republic.\nViran Qol's name is misspelled as \"Qiran Vol\" on the back cover of Star Wars Adventure Journal 12.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Niran",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/IM-455_modular_garrison",
+  "/wiki/Alliance_Special_Forces/Legends",
+  "/wiki/Major/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Garrison/Legends",
+  "/wiki/Alliance_Officer%27s_Candidate_School",
+  "/wiki/Homeworld/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Imperial_Garrisons",
+  "/wiki/Star_Wars_Adventure_Journal_12"
+ ]
+}

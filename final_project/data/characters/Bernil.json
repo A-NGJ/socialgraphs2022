@@ -1,5 +1,6 @@
 {
  "name": "Bernil",
+ "display_name": "Bernil",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Bernil was a female Sullustan, who worked in Gadrin on Cularin, as a supervisor for Renna's Transport Service.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Sullustan/Legends",

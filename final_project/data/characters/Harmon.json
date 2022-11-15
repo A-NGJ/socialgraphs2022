@@ -1,5 +1,6 @@
 {
  "name": "Harmon",
+ "display_name": "Harmon",
  "side_bars": [
   {
    "name": "Physical description",
@@ -46,7 +47,7 @@
   }
  ],
  "content": "Harmon was a human male who served against the Empire with the Mykapo insurgents, in Iron Squadron.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Harmon_(disambiguation)",

@@ -1,5 +1,6 @@
 {
  "name": "Kassen",
+ "display_name": "Kassen",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "A princess of the Royal Family of Eiattu, daughter of Emperor Uthorrferrell Cartha and elder sister of Isplourrdacartha Estillo, Kassen was murdered by rebellious Eiattuan nobles together with the rest of the royal family.\nMost members of the Eiattu Royal Family had rather long names and shorter nicknames used on informal occasions. It is highly likely that \"Kassen\" was such a nickname, and thus we can't know the princess' full given name.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Eiattu_6",

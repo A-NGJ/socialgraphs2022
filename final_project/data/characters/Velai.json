@@ -1,0 +1,38 @@
+{
+ "name": "Velai",
+ "display_name": "Velai",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Cosian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Velai was a Cosian male who believed in the Force. He was sent to protect a village that was threatened by pirates, along with Urma Athantras and Tione Zrar. When the pirates, led by Arra Somori, landed in front of the village, Athantras confronted them, leading to a standoff. Velai suggested that the pirates negotiate with the villagers, and, eventually, both sides reluctantly agreed to come to an agreement.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Cosian",
+  "/wiki/Gender",
+  "/wiki/Disciples_of_Harmony",
+  "/wiki/The_Force",
+  "/wiki/Pirate",
+  "/wiki/Urma_Athantras",
+  "/wiki/Tione_Zrar",
+  "/wiki/Arra_Somori",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Velai"
+ ]
+}

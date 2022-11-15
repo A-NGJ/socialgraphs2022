@@ -1,0 +1,39 @@
+{
+ "name": "Unidentified_Mixtwirk",
+ "display_name": "Unidentified Mixtwirk",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mixtwirk"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This male Mixtwirk and his Rodian companion were in the Stock Lights cantina when Cryle Cavv first explained to his nephew Sienn Sconn that he wanted to steal a Star Destroyer. The Mixtwirk tried to eavesdrop on the conversation but Cavv grabbed him by the antennae and forced the two to leave the cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mixtwirk",
+  "/wiki/Gender/Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Stock_Lights",
+  "/wiki/Cantina/Legends",
+  "/wiki/Cryle_Cavv",
+  "/wiki/Sienn_Sconn",
+  "/wiki/Star_Destroyer/Legends",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Two_for_One",
+  "/wiki/Star_Wars_Adventure_Journal_15"
+ ]
+}

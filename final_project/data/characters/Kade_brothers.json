@@ -1,0 +1,51 @@
+{
+ "name": "Kade_brothers",
+ "display_name": "Kade brothers",
+ "side_bars": [
+  {
+   "name": "Familial information",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Planet(s) of origin",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation",
+     "values": [
+      "Oridelve Incorporated"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Kade brothers were three Corellian male Humans who worked for Oridelve Incorporated on the planet Gavos. They, along with Darvis, were gunned down and killed in the mining complex canteen during the Gavos Droid Revolution.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/Oridelve_Incorporated",
+  "/wiki/Corellian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Gavos",
+  "/wiki/Darvis",
+  "/wiki/Gavos_Droid_Revolution",
+  "/wiki/Fantasy_Flight_Games",
+  "/wiki/Debts_to_Pay",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Game_Master%27s_Kit"
+ ]
+}

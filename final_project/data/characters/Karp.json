@@ -1,5 +1,6 @@
 {
  "name": "Karp",
+ "display_name": "Karp",
  "side_bars": [
   {
    "name": "Physical description",
@@ -43,7 +44,7 @@
   }
  ],
  "content": "Karp was a female Human lieutenant who served the reconstituted Sith Empire during the Cold War. She was stationed on Vaiken Spacedock, where she built and sold armor, as well as armor upgrades and materials, in a small shop.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

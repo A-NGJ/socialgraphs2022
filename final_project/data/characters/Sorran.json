@@ -1,0 +1,52 @@
+{
+ "name": "Sorran",
+ "display_name": "Sorran",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Agamar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sorran was a Human male Agamari pirate and commander of the Velumina. In 33 BBY he was hired to attack Station TFP-9 to capture several N-1s.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Agamar/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Wookieepedia:Sourcing",
+  "/wiki/Gender/Legends",
+  "/wiki/Pirate/Legends",
+  "/wiki/Velumina",
+  "/wiki/33_BBY/Legends",
+  "/wiki/Battle_at_TFP-9",
+  "/wiki/Station_TFP-9",
+  "/wiki/N-1_starfighter/Legends",
+  "/wiki/Star_Wars_Gamer",
+  "/wiki/The_Starfighter_Trap",
+  "/wiki/Star_Wars_Gamer_1"
+ ]
+}

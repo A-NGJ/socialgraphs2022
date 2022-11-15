@@ -1,0 +1,52 @@
+{
+ "name": "Unidentified_Barabel_thug",
+ "display_name": "Unidentified Barabel thug",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Barabel"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hox Bilan"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Barabel worked for Hox Bilan, a crime lord on Rodia. The Barabel and several companions attacked Dash Rendar and Eaden Vrill in The Nexu's Den, trying to obtain the droid LE-BO2D9. The Barabel was defeated by Vrill.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Barabel/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hox_Bilan",
+  "/wiki/Crime_lord/Legends",
+  "/wiki/Rodia/Legends",
+  "/wiki/Dash_Rendar/Legends",
+  "/wiki/Eaden_Vrill",
+  "/wiki/The_Nexu%27s_Den",
+  "/wiki/Droid/Legends",
+  "/wiki/LE-BO2D9",
+  "/wiki/Star_Wars_Insider",
+  "/wiki/And_Leebo_Makes_Three",
+  "/wiki/Star_Wars_Insider_128"
+ ]
+}

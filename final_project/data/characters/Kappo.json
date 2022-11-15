@@ -1,5 +1,6 @@
 {
  "name": "Kappo",
+ "display_name": "Kappo",
  "side_bars": [
   {
    "name": "Physical description",
@@ -20,7 +21,7 @@
   }
  ],
  "content": "Kappo was a male Rodian criminal during the Galactic Civil War, working for a crime lord.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

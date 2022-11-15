@@ -1,0 +1,55 @@
+{
+ "name": "Vira",
+ "display_name": "Vira",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Acherin"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "18 BBY",
+      "Acherin"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vira was a female Human from Acherin who was the sister of Alder. She was killed in a civil war during the formation of the Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Acherin",
+  "/wiki/18_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alder",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/The_Last_of_the_Jedi:_Against_the_Empire",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

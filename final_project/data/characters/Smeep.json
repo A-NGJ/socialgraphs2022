@@ -1,0 +1,42 @@
+{
+ "name": "Smeep",
+ "display_name": "Smeep",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Thwip"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Bobbajo"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Smeep was a thwip featured in a story told by Bobbajo while he and other residents of his town were imprisoned by Zygerrian slavers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Thwip",
+  "/wiki/Bobbajo",
+  "/wiki/Gender",
+  "/wiki/Reestkii",
+  "/wiki/Zygerrian",
+  "/wiki/Slaver",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/All_Creatures_Great_and_Small",
+  "/wiki/Tales_from_a_Galaxy_Far,_Far_Away:_Aliens:_Volume_I"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "Voolattar",
+ "display_name": "Voolattar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Duros"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Red"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Purple"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voolattar was a male Duros Chief Engineer of the Sith Empire living during the Galactic War. In 3639 BBY he was stationed in Section X on Belsavis, where general Avrun sent him to assist an Imperial with recovering an HK-51 series assassin droid from the wreckage of the Fatality.\nVoolattar appears in Star Wars: The Old Republic during the Imperial quest \"Fatal Errors\" in Section X.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Duros/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Chief_Engineer",
+  "/wiki/Galactic_War",
+  "/wiki/3639_BBY",
+  "/wiki/Section_X",
+  "/wiki/Belsavis/Legends",
+  "/wiki/Avrun",
+  "/wiki/HK-51_series_assassin_droid",
+  "/wiki/Fatality",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

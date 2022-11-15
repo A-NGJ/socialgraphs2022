@@ -1,5 +1,6 @@
 {
  "name": "Hargar",
+ "display_name": "Hargar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Hargar was a merchant working on the planet Onderon during the decades after the Mandalorian Wars.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Onderon/Legends",

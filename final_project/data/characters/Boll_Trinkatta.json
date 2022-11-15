@@ -1,0 +1,76 @@
+{
+ "name": "Boll_Trinkatta",
+ "display_name": "Boll Trinkatta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Esseles"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kloodavian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Trinkatta Starships"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Boll Trinkatta was the Kloodavian founder of Trinkatta Starships. He supervised the company's starship factory on the planet Esseles a short time before the Invasion of Naboo.\nAs the company began to flounder, Trinkatta was desperate for business and accepted a contract to install hyperdrives in fifty Vulture-class droid starfighters. Installing hyperdrives into droid vehicles was highly illegal, but the need for profits forced Trinkatta to overlook the law. However, during the production, Trinkatta discovered that the starfighters were of Xi Charran design, denoting ties to the powerful Trade Federation. Trinkatta wanted to halt production after this revelation, but the arrival of the Jedi Master Adi Gallia complicated matters. Trinkatta's factory droids incapacitated Gallia, in order to cover up the illegal activity, but Trinkatta was still uneasy about the project.\nWhen one of Trinkatta's test pilots was killed during an operation, he tried to cancel the entire order. However, Bartokk assassins working for the Trade Federation kidnapped Trinkatta and reprogrammed his droids to continue the work of producing the specially-modified droid starfighters. Trinkatta was thrown into a secure cell while the production order went forward. Luckily for the businessman, a Jedi task force consisting of Qui-Gon Jinn, Obi-Wan Kenobi, Vel Ardox, and Noro Zak came to Esseles and stopped the illegal operation, foiling the dastardly plot by the Trade Federation and its malevolent puppeteer, the Sith Lord Darth Sidious.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Esseles/Legends",
+  "/wiki/Kloodavian",
+  "/wiki/Gender/Legends",
+  "/wiki/Trinkatta_Starships",
+  "/wiki/Starship/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Invasion_of_Naboo/Legends",
+  "/wiki/Hyperdrive/Legends",
+  "/wiki/Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I/Legends",
+  "/wiki/Starfighter/Legends",
+  "/wiki/Xi_Char/Legends",
+  "/wiki/Trade_Federation_of_Planets",
+  "/wiki/Jedi_Master/Legends",
+  "/wiki/Adi_Gallia/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/Bartokk",
+  "/wiki/Qui-Gon_Jinn/Legends",
+  "/wiki/Obi-Wan_Kenobi/Legends",
+  "/wiki/Vel_Ardox",
+  "/wiki/Noro_Zak",
+  "/wiki/Sith_Lord/Legends",
+  "/wiki/Palpatine/Legends",
+  "/wiki/Episode_I_Adventures_1:_Search_for_the_Lost_Jedi",
+  "/wiki/Episode_I_Adventures_2:_The_Bartokk_Assassins",
+  "/wiki/Episode_I_Adventures_3:_The_Fury_of_Darth_Maul",
+  "/wiki/Episode_I_Adventures_Game_Book_1:_Search_for_the_Lost_Jedi"
+ ]
+}

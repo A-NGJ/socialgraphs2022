@@ -1,0 +1,45 @@
+{
+ "name": "Unidentified_Dbarian_inn_manager",
+ "display_name": "Unidentified Dbarian inn manager",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ansion"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Dbarian"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Changing"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Dbarian inn manager lived on Ansion.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ansion/Legends",
+  "/wiki/Dbarian",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Dbarian_inn_manager",
+  "/wiki/The_Approaching_Storm",
+  "/wiki/The_Approaching_Storm_(audiobook)"
+ ]
+}

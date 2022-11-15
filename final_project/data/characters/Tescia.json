@@ -1,0 +1,72 @@
+{
+ "name": "Tescia",
+ "display_name": "Tescia",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ferroan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gold-black"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Zonama Sekot"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tescia was a young Ferroan girl living on Zonama Sekot during the Jedi's visit at the time of the Yuuzhan Vong War. She told Jacen Solo that his grandfather had killed the Blood Carver without the use of a lightsaber.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zonama_Sekot/Legends",
+  "/wiki/Ferroan",
+  "/wiki/Gender/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Darth_Caedus",
+  "/wiki/Anakin_Skywalker/Legends",
+  "/wiki/Blood_Carver",
+  "/wiki/Lightsaber/Legends",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

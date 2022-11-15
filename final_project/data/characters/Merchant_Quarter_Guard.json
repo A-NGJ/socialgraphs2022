@@ -1,0 +1,75 @@
+{
+ "name": "Merchant_Quarter_Guard",
+ "display_name": "Merchant Quarter Guard",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Onderon"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Onderon Royalists"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "The Merchant Quarter Guard was a guard on Onderon during 3951 BBY. He was an officer who patrolled the Merchant Quarter in Iziz.\nWhen Meetra Surik arrived to the Quarter, the Guard was arguing with Ponlar, an individual who was protesting against Queen Talia's government and who was trying to instigate a riot. After a debate with Ponlar, the Guard decided he had gone too far with his protests and that he would be arrested.\nPonlar asked Surik to join his cause, but she refused to help him. The Guard later thanked Surik for having stopped Ponlar.\nThe Exile, as the player, can choose to support Ponlar and can kill the guard with the help of the angry crowd.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Onderon/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Onderon_Royalist",
+  "/wiki/3951_BBY",
+  "/wiki/Officer/Legends",
+  "/wiki/Merchant_Quarter",
+  "/wiki/Iziz/Legends",
+  "/wiki/Meetra_Surik",
+  "/wiki/Ponlar",
+  "/wiki/Queen/Legends",
+  "/wiki/Talia_(Onderon)",
+  "/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+ ]
+}

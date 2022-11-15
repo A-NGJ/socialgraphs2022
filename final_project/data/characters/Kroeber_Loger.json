@@ -1,0 +1,64 @@
+{
+ "name": "Kroeber_Loger",
+ "display_name": "Kroeber Loger",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order",
+      "Coruscant Jedi Academy",
+      "Coruscant Jedi Academy",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Professor Kroeber Loger was a Bith Jedi musician who taught music at Coruscant Jedi Academy. On a edition of The Padawan Observer, it stated if students visited Loger they will be lead into learning specialized musical instruments to accompany the Glee Club.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Canon",
+  "/wiki/Infinities",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Bith/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Coruscant_Jedi_Academy",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Professor/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Musician/Legends",
+  "/wiki/Teacher/Legends",
+  "/wiki/Music/Legends",
+  "/wiki/The_Padawan_Observer",
+  "/wiki/Jedi_Initiate/Legends",
+  "/wiki/Jedi_Academy_(novel)"
+ ]
+}

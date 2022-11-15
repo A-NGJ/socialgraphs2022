@@ -1,0 +1,50 @@
+{
+ "name": "Hev_Lissona",
+ "display_name": "Hev Lissona",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sullustan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alliance to Restore the Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Cargo Supervisor Hev Lissona was an employee of the Estaria Central Starport. While he publicly supported the Galactic Empire, he was part of the Rebel cell that maintained the Estaria Cache alongside Chief Technician Ablee Bansak and Freight Administrator Ela Harns.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Sullustan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Cargo_Supervisor",
+  "/wiki/Estaria_Central_Starport",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Rebel_cell",
+  "/wiki/Estaria_Cache",
+  "/wiki/Ablee_Bansak",
+  "/wiki/Ela_Harns",
+  "/wiki/Hideouts_%26_Strongholds"
+ ]
+}

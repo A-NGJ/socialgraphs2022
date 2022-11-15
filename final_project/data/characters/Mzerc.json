@@ -1,5 +1,6 @@
 {
  "name": "Mzerc",
+ "display_name": "Mzerc",
  "side_bars": [
   {
    "name": "Physical description",
@@ -32,7 +33,7 @@
   }
  ],
  "content": "Mzerc was the husband of a former Imperial senator.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Mzerc%27s_species",

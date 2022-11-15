@@ -1,0 +1,64 @@
+{
+ "name": "Zil",
+ "display_name": "Zil",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Sarka"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Sarkan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zil was a female Sarkan and the queen of Sarka at the time of the Galactic Civil War. She had gray-colored skin and a bulky frame yet but a small head, which sported blue eyes.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Sarka",
+  "/wiki/Sarkan",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Queen",
+  "/wiki/Time",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/Eye",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zil",
+  "/wiki/Star_Wars_Adventures_(2017)",
+  "/wiki/Mind_Your_Manners",
+  "/wiki/Star_Wars_Adventures_Annual_2018"
+ ]
+}

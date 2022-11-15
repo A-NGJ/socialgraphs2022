@@ -1,5 +1,6 @@
 {
  "name": "Orgamon",
+ "display_name": "Orgamon",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Orgamon was an male Esral'sa'Nikto aide to the Hutt Mika Anjiliac Chiera.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Esral%27sa%27Nikto/Legends",

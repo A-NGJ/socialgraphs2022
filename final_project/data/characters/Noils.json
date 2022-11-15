@@ -1,5 +1,6 @@
 {
  "name": "Noils",
+ "display_name": "Noils",
  "side_bars": [
   {
    "name": "Physical description",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Noils was an Imperial General during the Galactic Civil War and the base commander of the Kalist VI garrison.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

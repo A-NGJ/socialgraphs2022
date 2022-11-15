@@ -1,5 +1,6 @@
 {
  "name": "Greemon",
+ "display_name": "Greemon",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -36,7 +37,7 @@
   }
  ],
  "content": "Greemon was an Ewok of Bright Tree Village on the Forest Moon of Endor who was present when the captured Heroes of Yavin were presented to the tribe in 4 ABY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Endor/Legends",

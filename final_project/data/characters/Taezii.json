@@ -1,0 +1,50 @@
+{
+ "name": "Taezii",
+ "display_name": "Taezii",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voorpak"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Lynaa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Taezii was a voorpak that was owned by the Twi'lek fashion designer, Lynaa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Voorpak/Legends",
+  "/wiki/Lynaa",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/The_Gem_of_Alderaan"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Trymbo",
+ "display_name": "Trymbo",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Grey"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Green"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trymbo was a Human male scientist living in Oradam village on Ord Mantell who perfected a chemical compound that supercharged artillery cannons. The chemicals were highly unstable, and the process of transporting them to their buyers was referred to by smugglers as the \"Big Boom Run.\"\nTrymbo was psychologically unstable, possibly suffering from hallucinations, and rambled about things that apparently only he could see. He was married to a Human female named Loonda.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/File:Trymbo-Gundark-TOR.ogg",
+  "/wiki/Scientist/Legends",
+  "/wiki/Oradam_village",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Smuggler/Legends",
+  "/wiki/Hallucination",
+  "/wiki/Marriage/Legends",
+  "/wiki/Loonda",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

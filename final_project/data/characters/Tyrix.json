@@ -1,0 +1,74 @@
+{
+ "name": "Tyrix",
+ "display_name": "Tyrix",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "1 ABY",
+      "Vryssa"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic",
+      "Galactic Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tyrix served as a commander in the Imperial Army at the garrison on Vryssa. He had thirty years of military experience, which possibly made him a veteran of the Clone Wars.\nHe was killed by Boba Fett when his superior, General Gaege Xarran gave his brother, Rivo, asylum from the bounty hunter - who was after Rivo - in the base.\nHe was blindsided by a blaster bolt when Fett was presumed dead from a chemtrox gas attack.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/1_ABY/Legends",
+  "/wiki/Vryssa",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Commander/Legends",
+  "/wiki/Imperial_Army/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/General/Legends",
+  "/wiki/Gaege_Xarran",
+  "/wiki/Rivo_Xarran",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Blaster/Legends",
+  "/wiki/Chemtrox",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tyrix",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/No_Disintegrations,_Please",
+  "/wiki/Star_Wars_Adventure_Journal_14",
+  "/wiki/The_New_Essential_Guide_to_Characters"
+ ]
+}

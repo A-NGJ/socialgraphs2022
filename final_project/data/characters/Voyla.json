@@ -1,0 +1,77 @@
+{
+ "name": "Voyla",
+ "display_name": "Voyla",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Ryloth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Twi'lek freedom fighters"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Voyla was a male Twi'lek on Ryloth during the Clone Wars.\nVoyla was spying with Cham Syndulla on the docking bay in the city of Lessu when the Corporate Alliance Magistrate, Passel Argente arrived to meet with a corpulent Twi'lek broker named Artruk.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ryloth/Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Twi%27lek_freedom_fighters",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cham_Syndulla/Legends",
+  "/wiki/Lessu/Legends",
+  "/wiki/Corporate_Alliance/Legends",
+  "/wiki/Magistrate/Legends",
+  "/wiki/Passel_Argente/Legends",
+  "/wiki/Artruk",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Voyla",
+  "/wiki/The_Clone_Wars:_Covetous"
+ ]
+}

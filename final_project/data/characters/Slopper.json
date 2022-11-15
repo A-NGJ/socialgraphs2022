@@ -1,0 +1,53 @@
+{
+ "name": "Slopper",
+ "display_name": "Slopper",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Saurian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jabba Desilijic Tiure's criminal empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Slopper was a Saurian who worked for Sithless Leethe. He was not very intelligent however, and was rather easy to dupe if someone were to attempt it. He was once assigned to accompany a group of Rebel hopefuls on board the Limping Lady when they delivered Imperial weapons to the Felinian natives of Zoma V.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lucas_Licensing",
+  "/wiki/Lucasfilm_Ltd.",
+  "/wiki/Saurian_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Jabba_Desilijic_Tiure%27s_criminal_empire",
+  "/wiki/Sithless_Leethe",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Limping_Lady",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Felinian",
+  "/wiki/Zoma_V",
+  "/wiki/Challenge_(magazine)",
+  "/wiki/Limping_Lady_(article)",
+  "/wiki/Challenge_64"
+ ]
+}

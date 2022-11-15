@@ -1,5 +1,6 @@
 {
  "name": "Fastidima",
+ "display_name": "Fastidima",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Mother Fastidima was a Grindalid female who led the Garavult Clan around 230 BBY.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Corellia",

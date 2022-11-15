@@ -1,0 +1,62 @@
+{
+ "name": "Tals_Trilby",
+ "display_name": "Tals Trilby",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kadrillian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Orange"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Temple District Police"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tals Trilby was a Kadrillian male who served as a detective in the Temple District Police on the planet Coruscant during the High Republic Era. After a security breach at the Jedi Temple involving a human youngling, Trilby stopped a supposed Jedi Padawan and asked him to be on the lookout for the boy responsible. Unbeknownst to Trilby, the \"Padawan\" he had spoken to was the youngling he sought, Lohim Nara.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kadrillian",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Detective",
+  "/wiki/Planet",
+  "/wiki/Coruscant",
+  "/wiki/High_Republic_Era",
+  "/wiki/Imperial_Palace",
+  "/wiki/Human",
+  "/wiki/Youngling",
+  "/wiki/Jedi",
+  "/wiki/Padawan",
+  "/wiki/Lohim_Nara",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tals_Trilby",
+  "/wiki/What_a_Jedi_Makes",
+  "/wiki/Stories_of_Jedi_and_Sith"
+ ]
+}

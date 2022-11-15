@@ -1,0 +1,48 @@
+{
+ "name": "Vaskau_Farg",
+ "display_name": "Vaskau Farg",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Gand"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gand"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Vaskau Farg was a Gand findsman who once tracked a Sakiyan witch to Arkania. He did not like cold temperatures and felt that Arkanians were an ugly, arrogant race.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Gand_(planet)/Legends",
+  "/wiki/Gand/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Findsman/Legends",
+  "/wiki/Sakiyan/Legends",
+  "/wiki/Arkania/Legends",
+  "/wiki/Arkanian/Legends",
+  "/wiki/Wizards.com",
+  "/wiki/Arkanian_Chill"
+ ]
+}

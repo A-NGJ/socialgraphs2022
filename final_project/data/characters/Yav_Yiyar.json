@@ -1,0 +1,68 @@
+{
+ "name": "Yav_Yiyar",
+ "display_name": "Yav Yiyar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Rodian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "One black",
+      "one white"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yiyar clanYiyar Salvage Corporation",
+      "Yiyar Salvage Corporation"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Yav Yiyar was a male Rodian member of the Yiyar clan during the Galactic Civil War between the Galactic Empire and Alliance to Restore the Republic. He was number two in the Yiyar Salvage Corporation and hoped to find the Sa Nalaor, a Separatist Munificent-class star frigate lost just after the end of the Clone Wars. He owned the Nightflyer, a YT-2400 light freighter.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Rodian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Yiyar_clan",
+  "/wiki/Yiyar_Salvage_Corporation",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Alliance_to_Restore_the_Republic/Legends",
+  "/wiki/Sa_Nalaor/Legends",
+  "/wiki/Confederacy_of_Independent_Systems/Legends",
+  "/wiki/Munificent-class_star_frigate/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Nightflyer",
+  "/wiki/YT-2400_light_freighter/Legends",
+  "/wiki/Beyond_the_Rim"
+ ]
+}

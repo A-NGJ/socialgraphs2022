@@ -1,0 +1,85 @@
+{
+ "name": "Tulkh",
+ "display_name": "Tulkh",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Toola"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "3645 BBY"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Whiphid"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "The biggest ever seen by Hestizo Trace"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Golden-gray"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tulkh was a male Whiphid bounty hunter who was employed by the reconstituted Sith Empire during the Cold War. Tulkh was one of the many bounty hunters who was hired to hunt down and find the Murakami orchid. He was the one to deliver the genuine orchid to Darth Scabrous. After delivery of the orchid Darth Scabrous used it as the last ingredient to a virus. Tulkh was able to avoid contracting the virus from the Sith students, but minutes before escaping he was infected by the virus, via an infected tauntaun's spit. He was jettisoned into space and died as a result.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Toola/Legends",
+  "/wiki/3645_BBY",
+  "/wiki/Whiphid/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Hestizo_Trace",
+  "/wiki/Gold/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Bounty_hunter/Legends",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Murakami_orchid",
+  "/wiki/Darth_Scabrous",
+  "/wiki/Imperial_bioweapons_Project_I71A",
+  "/wiki/Tauntaun/Legends",
+  "/wiki/Red_Harvest_(novel)",
+  "/wiki/Red_Harvest_(audiobook)",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Unidentified_Ithorian_(Grand_Event_Center)",
+ "display_name": "Unidentified Ithorian  (Grand Event Center)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "An Ithorian was attacked by a nexu while attending the Coruscant Livestock Exchange and Exhibition. He was injured in the leg. Luckily, Leia Organa Solo killed the nexu, and people near him rescued him from the nexu's jaws.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Nexu/Legends",
+  "/wiki/Coruscant_Livestock_Exchange_and_Exhibition",
+  "/wiki/Fate_of_the_Jedi:_Omen",
+  "/wiki/Fate_of_the_Jedi:_Omen_(audiobook)"
+ ]
+}

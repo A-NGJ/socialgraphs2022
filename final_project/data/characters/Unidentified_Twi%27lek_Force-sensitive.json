@@ -1,0 +1,65 @@
+{
+ "name": "Unidentified_Twi%27lek_Force-sensitive",
+ "display_name": "Unidentified Twi'lek Force-sensitive",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light Green"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Jedi Order"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A light green-skinned, Force-sensitive female Twi'lek was active during the Galactic Civil War. She was part of the Jedi Order at some point, as she carried a lightsaber, but it is unknown whether she was a Padawan or a fully trained Knight at the time of the fall of the order. She still believed in the old ways of the Jedi Order and lived in exile on an unidentified jungle-like planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Jedi_Order/Legends",
+  "/wiki/Force-sensitive/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Jedi_Knight/Legends",
+  "/wiki/Order_66/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/Star_Wars:_The_Card_Game",
+  "/wiki/Star_Wars:_The_Card_Game_Core_Set",
+  "/wiki/Star_Wars:_Edge_of_the_Empire_Core_Rulebook",
+  "/wiki/New_Alliances"
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "name": "Raddus_Venn",
+ "display_name": "Raddus Venn",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chagrian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Violet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Corellian Security Force",
+      "Sith Empire"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Raddus Venn was a Chagrian male officer of the Corellian Security Force  at the time of the Galactic War. At the start of the Battle of Corellia, Raddus was one of the few CorSec officers to collaborate with the Sith Empire and used his effort to recruit an Imperial hero to track down his former companions that deserted and helped the rebellion.\nRaddus Venn became disillusioned with his colleagues in the Corellian Security Force, who he thought were no more than criminals with blasters who only wanted to shoot. Thus, the Chagrian enlisted the help of a Sith Empire-aligned individual to remove CorSec forces from the streets.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Raddus_(disambiguation)",
+  "/wiki/Corellia/Legends",
+  "/wiki/Chagrian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Corellian_Security_Force",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Officer/Legends",
+  "/wiki/Time/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Battle_of_Corellia",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Raddus_Venn",
+  "/wiki/Blaster/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

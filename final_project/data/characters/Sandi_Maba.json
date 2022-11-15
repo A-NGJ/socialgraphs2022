@@ -1,0 +1,39 @@
+{
+ "name": "Sandi_Maba",
+ "display_name": "Sandi Maba",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aqualish"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sandi Maba was an Aqualish mother of two left stranded on Coruscant when Ando left the Galactic Republic in 22 BBY, just before the start of the Clone Wars. The Refugee Relief Movement settled her and her family on Alderaan, and she planned to stay on the world permanently.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Aqualish/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Ando/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/22_BBY/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Refugee_Relief_Movement/Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/HoloNet_News/Legends",
+  "/wiki/HoloNet_News_Vol._531_49"
+ ]
+}

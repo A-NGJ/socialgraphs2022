@@ -1,0 +1,75 @@
+{
+ "name": "SonTag",
+ "display_name": "SonTag",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Bandomeer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Meerian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Home Planet Party",
+      "VeerTa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "SonTag was a female Meerian governor of the planet of Bandomeer in 45 BBY. A calm leader, she was a supporter of the Home Planet Party and its leader VeerTa. However, she was forced to arrest the party leader after finding out that VeerTa had unintentionally helped the Dark Jedi Xanatos in his plan to destroy the planet.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Bandomeer/Legends",
+  "/wiki/Meerian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Home_Planet_Party",
+  "/wiki/VeerTa",
+  "/wiki/Governor/Legends",
+  "/wiki/Planet/Legends",
+  "/wiki/45_BBY/Legends",
+  "/wiki/Dark_Jedi/Legends",
+  "/wiki/Xanatos",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/SonTag",
+  "/wiki/Jedi_Apprentice:_The_Dark_Rival",
+  "/wiki/Jedi_Apprentice:_The_Hidden_Past",
+  "/wiki/Wizards.com",
+  "/wiki/Ultimate_Alien_Anthology_Web_Enhancement",
+  "/wiki/Geonosis_and_the_Outer_Rim_Worlds",
+  "/wiki/The_Essential_Reader%27s_Companion"
+ ]
+}

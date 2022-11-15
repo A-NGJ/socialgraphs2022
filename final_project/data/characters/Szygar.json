@@ -1,0 +1,38 @@
+{
+ "name": "Szygar",
+ "display_name": "Szygar",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Devaronian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Szygar was a Devaronian male competitor in the Cloud City Sabacc Tournament on the planet Bespin in about 17 BBY. He was eliminated in the third day of competition and accused Armen Arandis of cheating. He pulled a hold-out blaster on Arandis, though the dispute was resolved by event security and covert Alderaanian Resistance members.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Devaronian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Cloud_City_Sabacc_Tournament",
+  "/wiki/Planet/Legends",
+  "/wiki/Bespin/Legends",
+  "/wiki/17_BBY/Legends",
+  "/wiki/Armen_Arandis",
+  "/wiki/Hold-out_blaster/Legends",
+  "/wiki/Alderaanian_Resistance",
+  "/wiki/The_Queen_of_Air_and_Darkness"
+ ]
+}

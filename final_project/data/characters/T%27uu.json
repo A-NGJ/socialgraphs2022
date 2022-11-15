@@ -1,0 +1,67 @@
+{
+ "name": "T%27uu",
+ "display_name": "T'uu",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "c. 3642 BBY",
+      "Hoth"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "White Maw"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "T'uu was a member of the White Maw who along with Wan was ambushed inside the Star of Coruscant by Languss Tuno and the Voidhound. Both Wan and T'uu were killed during the fighting.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/3642_BBY",
+  "/wiki/Hoth/Legends",
+  "/wiki/Gran/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/White_Maw",
+  "/wiki/Wan_(Hoth)",
+  "/wiki/Star_of_Coruscant",
+  "/wiki/Languss_Tuno",
+  "/wiki/Voidhound",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

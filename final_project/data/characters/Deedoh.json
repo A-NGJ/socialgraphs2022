@@ -1,5 +1,6 @@
 {
  "name": "Deedoh",
+ "display_name": "Deedoh",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Deedoh was a male Rodian Mandalorian during the Mandalorian Wars, serving under Dorjander Kace during the Battle of Halthor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Rodian/Legends",

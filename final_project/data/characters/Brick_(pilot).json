@@ -1,0 +1,53 @@
+{
+ "name": "Brick_(pilot)",
+ "display_name": "Brick  (pilot)",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Imperial Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Brick was a male Human TIE pilot in the Imperial Navy during the Galactic Civil War. In 3 ABY, he was stationed aboard the Imperial-class Star Destroyer Vengeance, where he showed Flight Cadet Maarek Stele around the concourse of the ship.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Imperial_Navy/Legends",
+  "/wiki/TIE_pilot",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/3_ABY/Legends",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Vengeance_(Mordon)",
+  "/wiki/Flight_Cadet",
+  "/wiki/Maarek_Stele/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Brick_(pilot)",
+  "/wiki/The_Stele_Chronicles"
+ ]
+}

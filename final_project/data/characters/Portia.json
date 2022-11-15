@@ -1,5 +1,6 @@
 {
  "name": "Portia",
+ "display_name": "Portia",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Portia was a dark-skinned Human female.\nIn 5 ABY, she was remained as a settler on Ruusan and an excellent marksman. She helped Jan Ors kill members of stormtrooper patrol 341 until she was later killed during the Battle of Fort Nowhere.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ruusan/Legends",

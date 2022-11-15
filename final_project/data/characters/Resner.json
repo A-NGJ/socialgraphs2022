@@ -1,5 +1,6 @@
 {
  "name": "Resner",
+ "display_name": "Resner",
  "side_bars": [
   {
    "name": "Physical description",
@@ -31,7 +32,7 @@
   }
  ],
  "content": "Resner was a commander serving the Galactic Empire in the Trax sector. He commanded a Star Destroyer, and was questioned over Alliance to Restore the Republic activity within the sector by Admiral Heggel.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

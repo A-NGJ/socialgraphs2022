@@ -1,0 +1,77 @@
+{
+ "name": "Tudos",
+ "display_name": "Tudos",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Brown"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Light"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicGalactic SenatePenal Oversight Committee",
+      "Galactic SenatePenal Oversight Committee",
+      "Penal Oversight Committee"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tudos was a male Human Senator of the Galactic Republic during the Galactic War. A chairman of the Penal Oversight Committee, he came up with an idea of Project Noble Focus to test combatants of alien species against each other in the Belsavis prison. During the Invasion of Belsavis around 3641 BBY he took refugee at the Republic watchtower in the High Security Section of the prison. He asked a Republic citizen to defeat the tribe of Rattataki called the Blood of Talath and later defended Project Noble Focus when its existence was uncovered.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Galactic_Senate/Legends",
+  "/wiki/Penal_Oversight_Committee/Legends",
+  "/wiki/Senator/Legends",
+  "/wiki/Galactic_War",
+  "/wiki/Project_Noble_Focus",
+  "/wiki/Belsavis_prison",
+  "/wiki/Invasion_of_Belsavis",
+  "/wiki/3641_BBY",
+  "/wiki/Republic_watchtower",
+  "/wiki/High_Security_Section",
+  "/wiki/Rattataki/Legends",
+  "/wiki/Blood_of_Talath",
+  "/wiki/Star_Wars:_The_Old_Republic",
+  "/wiki/Star_Wars:_The_Old_Republic_Explorer%27s_Guide"
+ ]
+}

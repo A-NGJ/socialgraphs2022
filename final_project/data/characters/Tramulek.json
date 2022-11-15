@@ -1,0 +1,63 @@
+{
+ "name": "Tramulek",
+ "display_name": "Tramulek",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Ithorian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Dark yellow"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Tramulek was an Ithorian doctor who lived near the farmsteads on Ossus during the Invasion of Ossus. He worked on a serum to reverse Darth Malora's modifications of the Geonosians. Tramulek was not able to cure the mutated Geonosians but his serum was specifically formulated to pacify them.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Ithorian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Star_Wars:_The_Old_Republic:_Knights_of_the_Eternal_Throne",
+  "/wiki/Doctor/Legends",
+  "/wiki/Ossus/Legends",
+  "/wiki/Invasion_of_Ossus",
+  "/wiki/Geonosian_Serum",
+  "/wiki/Darth_Malora",
+  "/wiki/Mutated_Geonosian",
+  "/wiki/Geonosian/Legends"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Dena_Cracken",
+ "display_name": "Dena Cracken",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Contruum"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Dena Cracken was a Human female from Contruum, who was the daughter of Airen and Josta, and the sister of Pash.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Cracken_(disambiguation)",
+  "/wiki/Contruum/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Airen_Cracken/Legends",
+  "/wiki/Josta_Cracken",
+  "/wiki/Pash_Cracken",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Small_Favors",
+  "/wiki/Star_Wars_Adventure_Journal_12",
+  "/wiki/Cracken%27s_Rebel_Field_Guide_(sourcebook)"
+ ]
+}

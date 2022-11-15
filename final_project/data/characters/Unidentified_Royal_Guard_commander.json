@@ -1,0 +1,56 @@
+{
+ "name": "Unidentified_Royal_Guard_commander",
+ "display_name": "Unidentified Royal Guard commander",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Fair"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Onderon Royal FamilyRoyal Guard",
+      "Royal Guard",
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "In 3627 BBY, a Human male commander of the Onderon Royal Guard requested the assistance of a Republic individual in dealing with the Untamed.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Onderon_Royal_Family",
+  "/wiki/Royal_Guard_(Onderon)",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/3627_BBY",
+  "/wiki/Onderonian/Legends",
+  "/wiki/Untamed",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

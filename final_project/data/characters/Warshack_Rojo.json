@@ -1,0 +1,72 @@
+{
+ "name": "Warshack_Rojo",
+ "display_name": "Warshack Rojo",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Corellia"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "25 ABY",
+      "Rejuvenator"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "New Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Warshack Rojo was a Corellian officer in the New Republic Defense Force. He was an intense but confident man with a shaven scalp and a diamond earring in one ear, and in 25 ABY he commanded the Imperial II-class Star Destroyer Rejuvenator and led a task force based out of Ord Mantell.\nHe was killed in the Battle of Helska IV during the Yuuzhan Vong War, when the Rejuvenator was shot down by a massive fleet of coralskippers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Corellia/Legends",
+  "/wiki/25_ABY/Legends",
+  "/wiki/Rejuvenator",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/New_Republic/Legends",
+  "/wiki/Corellian/Legends",
+  "/wiki/Combined_Defense_Forces_of_the_New_Republic",
+  "/wiki/Imperial-class_Star_Destroyer/Legends",
+  "/wiki/Ord_Mantell/Legends",
+  "/wiki/Battle_of_Helska_IV",
+  "/wiki/Yuuzhan_Vong_War",
+  "/wiki/Yorik-et",
+  "/wiki/The_New_Jedi_Order:_Vector_Prime",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

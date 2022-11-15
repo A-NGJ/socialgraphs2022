@@ -1,5 +1,6 @@
 {
  "name": "Maromaka",
+ "display_name": "Maromaka",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -25,7 +26,7 @@
   }
  ],
  "content": "Maromaka was an outlaw Wookiee who belonged to a secret network, and worked to get fugitive Wookiees to a safe place on Kashyyyk.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Kashyyyk",

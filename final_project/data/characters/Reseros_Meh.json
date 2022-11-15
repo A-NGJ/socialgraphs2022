@@ -1,0 +1,50 @@
+{
+ "name": "Reseros_Meh",
+ "display_name": "Reseros Meh",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Chevin"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Momma Reseros' Diner"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Reseros Meh was a female Chevin who owned and ran a diner on Gamorr. She disliked other Chevin as well as members of other species. An excellent cook, she was very grumpy and had a gruff demeanor.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Chevin/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Momma_Reseros%27_Diner",
+  "/wiki/Gamorr/Legends",
+  "/wiki/Species/Legends",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Reseros_Meh",
+  "/wiki/Star_Wars_Adventure_Journal",
+  "/wiki/Murder_in_Slushtime",
+  "/wiki/Star_Wars_Adventure_Journal_14",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

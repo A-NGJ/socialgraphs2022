@@ -1,0 +1,37 @@
+{
+ "name": "Unidentified_Quarren_mercenary",
+ "display_name": "Unidentified Quarren mercenary",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Quarren"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A Quarren mercenary lived on Coruscant in 137 ABY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Unidentified_Quarren",
+  "/wiki/Quarren/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/137_ABY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Quarren_mercenary",
+  "/wiki/Legacy_(2006)_14",
+  "/wiki/Legacy_(2006)_0"
+ ]
+}

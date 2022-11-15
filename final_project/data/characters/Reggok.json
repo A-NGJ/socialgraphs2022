@@ -1,5 +1,6 @@
 {
  "name": "Reggok",
+ "display_name": "Reggok",
  "side_bars": [
   {
    "name": "Physical description",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Reggok was a Human male doctor living during the Cold War. Residing on the Vaiken Spacedock, Reggok managed a small shop, selling valuable plants and medicines.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

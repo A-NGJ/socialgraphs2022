@@ -1,0 +1,57 @@
+{
+ "name": "Zim_Azul",
+ "display_name": "Zim Azul",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Livno III"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lynna"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "Gray"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zim Azul was a Lynna male who led the people of Livno III. He was present when the Solstice Globe was returned to Livno III by Lando Calrissian, Rinetta Gan and Zel Gris.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Livno_III",
+  "/wiki/Lynna",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Solstice_Globe",
+  "/wiki/Landonis_Balthazar_Calrissian",
+  "/wiki/Rinetta_Gan",
+  "/wiki/Zel_Gris",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zim_Azul",
+  "/wiki/Lando%27s_Luck",
+  "/wiki/Lando%27s_Luck_(audiobook)"
+ ]
+}

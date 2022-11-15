@@ -1,0 +1,48 @@
+{
+ "name": "Moppo_Dop",
+ "display_name": "Moppo Dop",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Gungan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Moppo Dop was a burly professional gulliball player. A Gungan, he accused Captain Roos Tarpals of cheating during the Big Nasty Free-For-All.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Gungan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Gulliball/Legends",
+  "/wiki/Captain/Legends",
+  "/wiki/Roos_Tarpals/Legends",
+  "/wiki/Big_Nasty_Free-For-All",
+  "/wiki/Episode_I_Adventures_10:_Festival_of_Warriors",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}

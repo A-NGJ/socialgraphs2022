@@ -1,5 +1,6 @@
 {
  "name": "Hedu",
+ "display_name": "Hedu",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -44,7 +45,7 @@
   }
  ],
  "content": "Hedu was a female Rodian who was the leader of the Bomu Clan.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/19_ABY/Legends",

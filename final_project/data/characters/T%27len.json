@@ -1,0 +1,55 @@
+{
+ "name": "T%27len",
+ "display_name": "T'len",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Twi'lek"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic Republic"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "T'len was a Twi'lek female officer of the Galactic Republic stationed on Belsavis around 3641 BBY.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Twi%27lek/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Officer/Legends",
+  "/wiki/Belsavis/Legends",
+  "/wiki/3641_BBY",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/T%27len",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Sludd",
+ "display_name": "Sludd",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alzar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Alzarian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Green"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Sludd was a male Alzarian First General to King Gokus of Alzar's forces. He was behind an elaborate scheme to overthrow the king and conquer the nearby planet Sooma.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alzar",
+  "/wiki/Alzarian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/General/Legends",
+  "/wiki/King/Legends",
+  "/wiki/Gokus",
+  "/wiki/Planet/Legends",
+  "/wiki/Sooma",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Sludd",
+  "/wiki/Droids_(1986)_4",
+  "/wiki/Ewoks_10",
+  "/wiki/StarWars.com",
+  "/wiki/The_Droids_Re-Animated"
+ ]
+}

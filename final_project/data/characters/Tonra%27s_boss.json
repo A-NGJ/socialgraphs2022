@@ -1,0 +1,47 @@
+{
+ "name": "Tonra%27s_boss",
+ "display_name": "Tonra's boss",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A human male was the boss of Tonra who had a Cantin on the planet Tatooine during the Clone Wars.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Tatooine",
+  "/wiki/Human",
+  "/wiki/Gender",
+  "/wiki/Tonra",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Tonra%27s_boss",
+  "/wiki/Queen%27s_Hope",
+  "/wiki/Queen%27s_Hope_(audiobook)"
+ ]
+}

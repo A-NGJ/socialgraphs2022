@@ -1,0 +1,36 @@
+{
+ "name": "Trellar_Yagen",
+ "display_name": "Trellar Yagen",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Trellar Yagen was one of Bovo Yagen's four sons. He settled on Bovo Yagen with his family. The planet Trellar Yagen was named after him.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Bovo_Yagen",
+  "/wiki/Bovo_Yagen_(planet)",
+  "/wiki/Yagen_family",
+  "/wiki/Planet/Legends",
+  "/wiki/Trellar_Yagen_(planet)",
+  "/wiki/Cracken%27s_Threat_Dossier"
+ ]
+}

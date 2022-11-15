@@ -1,5 +1,6 @@
 {
- "name": "Bo'kesh",
+ "name": "Bo%27kesh",
+ "display_name": "Bo'kesh",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Bo'kesh was a male Nikto living during the Cold War and a Chosen of the Cult of Ki Sazen that worshipped the fallen Jedi Ki Sazen.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/3642_BBY",

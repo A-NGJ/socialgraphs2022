@@ -1,5 +1,6 @@
 {
  "name": "Scolder",
+ "display_name": "Scolder",
  "side_bars": [
   {
    "name": "Physical description",
@@ -14,7 +15,7 @@
   }
  ],
  "content": "Scolder was a Dowutin that lived in the galaxy.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Lucasfilm_Ltd.",

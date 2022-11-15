@@ -1,0 +1,40 @@
+{
+ "name": "Zochaeb",
+ "display_name": "Zochaeb",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Hutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Hutt Clan of Ancients"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zochaeb was a Hutt leader who negotiated with the Nimbanese Krovalis clan. The Krovalis offered Zochaeb and the Hutts the allegiance of the Nimbanese people and free access to information in Nimbanese databanks. In return, the Hutts would allow the Nimbanels to enjoy their freedom. Zochaeb agreed. The Hutts' persuasion eventually got the Krovalis clan its own data holding within the Bureau of Ships and Services, and the Hutts received a wealth of free information about the galaxy.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Hutt/Legends",
+  "/wiki/Hutt_Ruling_Council",
+  "/wiki/Nimbanel/Legends",
+  "/wiki/Krovalis_clan",
+  "/wiki/Bureau_of_Ships_and_Services/Legends",
+  "/wiki/The_galaxy/Legends",
+  "/wiki/Galaxy_Guide_12:_Aliens_%E2%80%94_Enemies_and_Allies"
+ ]
+}

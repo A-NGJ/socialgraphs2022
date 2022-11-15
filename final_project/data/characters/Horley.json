@@ -1,5 +1,6 @@
 {
  "name": "Horley",
+ "display_name": "Horley",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -38,7 +39,7 @@
   }
  ],
  "content": "Horley was a Human male smuggler and sentry who lived at Fort Nowhere on Ruusan during the Galactic Civil War. In 5 ABY, he was killed in an ensuing battle on the planet.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Ruusan/Legends",

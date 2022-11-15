@@ -1,5 +1,6 @@
 {
  "name": "Revald",
+ "display_name": "Revald",
  "side_bars": [
   {
    "name": "Physical description",
@@ -45,7 +46,7 @@
   }
  ],
  "content": "Revald was a Human male Republic Navy admiral operating on Hoth during the Cold War between the Republic and the recounstituted Sith Empire.\nHe commanded an operation to locate and salvage the Null Cannon, a devastating superweapon with the ability to neutralize all electronics on its target in a single shot. The salvaged parts were recovered from a crashed Republic capital ship, the Vehement Sword.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Human/Legends",

@@ -1,0 +1,58 @@
+{
+ "name": "Unidentified_Star_Tours_luggage_attendant",
+ "display_name": "Unidentified Star Tours luggage attendant",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Utai"
+     ]
+    },
+    {
+     "name": "Hair color",
+     "values": [
+      "None"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Pale pink"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Star Tours"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a Utai who, sometime before 0 BBY, worked for the Star Tours travel agency's ground crew. His job was to look after the passengers' luggage.\nHasbro released an exclusive Star Tours: The Adventures Continue action figure of this character, simply named \"Luggage Attendant\", as part of the Star Tours Travel Agency pack.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Utai/Legends",
+  "/wiki/Star_Tours/Legends",
+  "/wiki/0_BBY/Legends",
+  "/wiki/Hasbro_Inc.",
+  "/wiki/Star_Tours:_The_Adventures_Continue",
+  "/wiki/Star_Wars:_Star_Tours",
+  "/wiki/The_New_Essential_Guide_to_Alien_Species"
+ ]
+}

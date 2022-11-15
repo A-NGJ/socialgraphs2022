@@ -1,0 +1,66 @@
+{
+ "name": "Eckla_Shoolb",
+ "display_name": "Eckla Shoolb",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Died",
+     "values": [
+      "28 ABY",
+      "Coruscant"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Yuuzhan Vong"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Yuuzhan Vong empire",
+      "Shamed Ones"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Eckla Shoolb was a female Shamed One and member of Yu'shaa's Jeedai heresy. She was tortured and beaten, but did not break under Supreme Overlord Shimrra's interrogation. She was then sentenced to death. Guards broke her legs, and she was thrown into the yargh'un pit to die of thirst and starvation.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/28_ABY/Legends",
+  "/wiki/Coruscant/Legends",
+  "/wiki/Yuuzhan_Vong",
+  "/wiki/Gender/Legends",
+  "/wiki/Yuuzhan_Vong_empire",
+  "/wiki/Shamed_Ones",
+  "/wiki/Nom_Anor",
+  "/wiki/Jeedai_heresy",
+  "/wiki/Torture/Legends",
+  "/wiki/Supreme_Overlord",
+  "/wiki/Shimrra_Jamaane",
+  "/wiki/Death/Legends",
+  "/wiki/Yargh%27un",
+  "/wiki/The_New_Jedi_Order:_Force_Heretic_III:_Reunion"
+ ]
+}

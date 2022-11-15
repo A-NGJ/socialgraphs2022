@@ -1,0 +1,44 @@
+{
+ "name": "Unidentified_Lutrillian_warehouse_manager",
+ "display_name": "Unidentified Lutrillian warehouse manager",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lutrillian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This Lutrillian male was based on Lothal during a time when the Galactic Empire was increasing its operations on the planet and cracking down on dissent. The Lutrillian oversaw a warehouse where he sometimes agreed to stash individuals wanted for crimes against the Empire in exchange for payment in credits. This was often handled through the criminal organization known as the Gray Syndicate.\nOne such individual was Holshef, a poet and artist wanted for his expressions against the Galactic Empire's policies. Following the assault on the Gray Syndicate that resulted in the death of its head, Merei Spanjaf sought out this Lutrillian and paid him credits to keep him safe for the week. A week later, she found him a state of high agitation due to the Empire's newest efforts to crack down on dissidents. She paid him again to keep Holshef safe for ten more days, but he warned her that this was the absolute limit.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Lutrillian",
+  "/wiki/Gender",
+  "/wiki/Lothal",
+  "/wiki/Galactic_Empire",
+  "/wiki/Planet",
+  "/wiki/Credit",
+  "/wiki/Gray_Syndicate",
+  "/wiki/Holshef",
+  "/wiki/Poet",
+  "/wiki/Assault_on_the_Gray_Syndicate",
+  "/wiki/Death",
+  "/wiki/Yahenna_Laxo",
+  "/wiki/Merei_Spanjaf",
+  "/wiki/Standard_week",
+  "/wiki/Standard_day",
+  "/wiki/Servants_of_the_Empire:_The_Secret_Academy"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Zeegar",
+ "display_name": "Zeegar",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kef Bir"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Orbak"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Company 77"
+     ]
+    },
+    {
+     "name": "Owner(s)",
+     "values": [
+      "Forten"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zeegar was an orbak from Kef Bir who served as the personal mount of Forten, a member of Company 77, a company of defected First Order stormtroopers.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Kef_Bir",
+  "/wiki/Orbak",
+  "/wiki/Company_77",
+  "/wiki/Forten",
+  "/wiki/Company",
+  "/wiki/First_Order",
+  "/wiki/Stormtrooper_(First_Order)",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Zeegar",
+  "/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+  "/wiki/Star_Wars:_The_Rise_of_Skywalker:_The_Visual_Dictionary",
+  "/wiki/Databank_(website)"
+ ]
+}

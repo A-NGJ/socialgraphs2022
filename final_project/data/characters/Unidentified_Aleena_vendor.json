@@ -1,0 +1,53 @@
+{
+ "name": "Unidentified_Aleena_vendor",
+ "display_name": "Unidentified Aleena vendor",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Aleena"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Gray"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "This individual was a female Aleena merchant living on the planet Ord Mantell during the Imperial Era.\nThe Aleena saleswoman was voiced by Vanessa Marshall in Star Wars: Forces of Destiny.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Aleena",
+  "/wiki/Gender",
+  "/wiki/Color",
+  "/wiki/Jyn_Erso",
+  "/wiki/Merchant",
+  "/wiki/Planet",
+  "/wiki/Ord_Mantell",
+  "/wiki/Imperial_Era",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Unidentified_Aleena_vendor",
+  "/wiki/Vanessa_Marshall",
+  "/wiki/Star_Wars:_Forces_of_Destiny",
+  "/wiki/Jyn%27s_Trade"
+ ]
+}

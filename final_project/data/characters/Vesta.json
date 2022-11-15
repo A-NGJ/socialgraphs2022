@@ -1,0 +1,61 @@
+{
+ "name": "Vesta",
+ "display_name": "Vesta",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Alderaan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Alderaan Select Academy for Young Ladies"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Madame Vesta was the headmistress of Alderaan Select Academy for Young Ladies. She was known for her strictness and was described as \"a rancor of a Nanny\" by one of her students, Princess Leia Organa.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Alderaan/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Alderaan_Select_Academy_for_Young_Ladies",
+  "/wiki/Rancor/Legends",
+  "/wiki/Prince/Legends",
+  "/wiki/Leia_Organa_Solo",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Vesta",
+  "/wiki/The_Princess_Leia_Diaries",
+  "/wiki/Star_Wars_Tales_11"
+ ]
+}

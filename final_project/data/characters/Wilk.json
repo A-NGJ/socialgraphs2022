@@ -1,0 +1,49 @@
+{
+ "name": "Wilk",
+ "display_name": "Wilk",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Radnor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Radnoran"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Wilk was a Radnoran who was believed to be immune to Radnor's bioplague, as he was seen in the Isolation Sector without a protective bio-isolation suit looking for his wife. Later on, it turned out that he was not immune. He had entered the Sector after the plague's half-life made it benign, making him perfectly safe from any harmful effects.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Wilk_(wolf)",
+  "/wiki/Wolf/Legends",
+  "/wiki/Endor/Legends",
+  "/wiki/Radnor/Legends",
+  "/wiki/Radnoran",
+  "/wiki/Gender/Legends",
+  "/wiki/Isolation_Sector",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Wilk",
+  "/wiki/Jedi_Quest:_The_Way_of_the_Apprentice"
+ ]
+}

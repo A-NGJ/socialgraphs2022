@@ -1,0 +1,62 @@
+{
+ "name": "Diihara_Val",
+ "display_name": "Diihara Val",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Nautolan"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    },
+    {
+     "name": "Eye color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Skin color",
+     "values": [
+      "Blue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Mek-Sha Tradehouse"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Diihara Val was a representative for the Mek-Sha Tradehouse, an auction establishment located on Mek-Sha.\nDuring the new conflict between the Galactic Republic and Sith Empire, the Alliance Commander traveled to Huttbreaker's compound to speak to her. Upon talking, the Commander accepted a position offered by Val to perform requisitions in order to increase the tradehouse's supply.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Nautolan/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Color/Legends",
+  "/wiki/Mek-Sha_Tradehouse",
+  "/wiki/Mek-Sha",
+  "/wiki/Third_Galactic_War",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Sith_Empire_(Post%E2%80%93Great_Hyperspace_War)",
+  "/wiki/Alliance_Commander",
+  "/wiki/Huttbreaker%27s_compound",
+  "/wiki/Star_Wars:_The_Old_Republic:_Onslaught"
+ ]
+}

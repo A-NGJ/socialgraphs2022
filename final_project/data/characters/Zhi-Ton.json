@@ -1,0 +1,50 @@
+{
+ "name": "Zhi-Ton",
+ "display_name": "Zhi-Ton",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Voss"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Voss"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Zhi-Ton was a male Voss living on Voss centuries before the Cold War. He was the son of Niya-Ton and the distant predecessor of Therod-Ton, Bas-Ton, Phi-Ton and Yana-Ton.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Voss",
+  "/wiki/Voss_(species)",
+  "/wiki/Gender/Legends",
+  "/wiki/Prophecy_of_Ten_Thousand_Seeds",
+  "/wiki/Cold_War_(Galactic_Republic%E2%80%93Sith_Empire)",
+  "/wiki/Niya-Ton",
+  "/wiki/Therod-Ton",
+  "/wiki/Bas-Ton",
+  "/wiki/Phi-Ton",
+  "/wiki/Yana-Ton",
+  "/wiki/Star_Wars:_The_Old_Republic"
+ ]
+}

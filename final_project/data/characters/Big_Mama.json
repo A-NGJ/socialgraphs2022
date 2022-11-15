@@ -1,0 +1,44 @@
+{
+ "name": "Big_Mama",
+ "display_name": "Big Mama",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Zeenada"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Swamp monster"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "\"Big Mama\" was the nickname that Jedi Padawan Ahsoka Tano gave to a parent of several reptiles that she encountered during a battle on Zeenada.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Zeenada",
+  "/wiki/Swamp_monster",
+  "/wiki/Ahsoka_Tano/Legends",
+  "/wiki/Jedi/Legends",
+  "/wiki/Padawan/Legends",
+  "/wiki/Parent/Legends",
+  "/wiki/Battle_of_Zeenada",
+  "/wiki/Wookieepedia:Stub",
+  "/wiki/Special:EditPage/Big_Mama",
+  "/wiki/Night_Moves!",
+  "/wiki/Star_Wars:_The_Clone_Wars_Comic_UK_6.27"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Unidentified_Bith_bartender",
+ "display_name": "Unidentified Bith bartender",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Bith"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "A bartender of the Bith species worked at a cantina in the city of Kai Pompos on Irudiru. The bartender had just one leg, which was a metal prosthetic. The male bartender served Han Solo and Norra and Temmin Wexley when they met at the cantina near the end of the Galactic Civil War between the New Republic and Galactic Empire.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Canon",
+  "/wiki/Bith",
+  "/wiki/Gender",
+  "/wiki/Species",
+  "/wiki/Unidentified_cantina_(Kai_Pompos)",
+  "/wiki/City",
+  "/wiki/Kai_Pompos",
+  "/wiki/Irudiru",
+  "/wiki/Han_Solo",
+  "/wiki/Norra_Wexley",
+  "/wiki/Temmin_Wexley",
+  "/wiki/Galactic_Civil_War",
+  "/wiki/New_Republic",
+  "/wiki/Galactic_Empire",
+  "/wiki/Aftermath:_Life_Debt",
+  "/wiki/Aftermath:_Life_Debt_(audiobook)"
+ ]
+}

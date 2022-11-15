@@ -1,0 +1,53 @@
+{
+ "name": "Talbrek",
+ "display_name": "Talbrek",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Naboo"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Kubaz"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Talbrek was a male Kubaz informer who worked on the Kwilaan Spaceport, in Naboo during the last decades of the Galactic Republic.\nIn 31 BBY, Talbrek met with Army of Life agent Del Binjitt, who wanted to hire some pilots to transport illegal cargo to another planet. Talbrek staged a meeting between Binjitt and some candidates at a local dining establishment, Frundle's Cantina.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Naboo/Legends",
+  "/wiki/Kubaz/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Kwilaan_Starport/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/31_BBY/Legends",
+  "/wiki/Army_of_Life",
+  "/wiki/Del_Binjitt",
+  "/wiki/Planet/Legends",
+  "/wiki/Restaurant/Legends",
+  "/wiki/Cantina/Legends",
+  "/wiki/Frundle%27s_Cantina",
+  "/wiki/Wizards.com",
+  "/wiki/Operation:_Clodhopper"
+ ]
+}

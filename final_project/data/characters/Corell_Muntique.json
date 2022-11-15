@@ -1,0 +1,48 @@
+{
+ "name": "Corell_Muntique",
+ "display_name": "Corell Muntique",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "House Calipsa"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Corell Muntique was a Lord of House Calipsa and has represented Calipsa in the annual Vor-cal safari hunt. He owned a domesticated vornskr that he called Crill. Crill was trained as a hunting dog.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/House_Calipsa",
+  "/wiki/Lord/Legends",
+  "/wiki/Calipsa",
+  "/wiki/Vor-cal",
+  "/wiki/Vornskr",
+  "/wiki/Crill",
+  "/wiki/Lords_of_the_Expanse"
+ ]
+}

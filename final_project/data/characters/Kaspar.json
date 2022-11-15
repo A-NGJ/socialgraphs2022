@@ -1,5 +1,6 @@
 {
  "name": "Kaspar",
+ "display_name": "Kaspar",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -49,7 +50,7 @@
   }
  ],
  "content": "Kaspar was a Human male and the crown prince of Arrochar during the early Galactic Civil War.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Star_Wars_Legends",
   "/wiki/Arrochar",

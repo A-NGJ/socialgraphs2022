@@ -1,0 +1,35 @@
+{
+ "name": "Ulumahal",
+ "display_name": "Ulumahal",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Lutrillian"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Ulumahal was a female Lutrillian who defined the role of Baron Administrator shortly before the Clone Wars. She transformed Cloud City from illegal front to the jewel known during the Galactic Civil War.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Lutrillian/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Baron_Administrator/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Cloud_City/Legends",
+  "/wiki/Galactic_Civil_War/Legends",
+  "/wiki/The_Jewel_of_Yavin"
+ ]
+}

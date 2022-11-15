@@ -1,0 +1,49 @@
+{
+ "name": "Uth_Sulrowe",
+ "display_name": "Uth Sulrowe",
+ "side_bars": [
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Mon Calamari"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Female"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Swain Import/Export Emporium"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Doctor Uth Sulrowe was a Mon Calamari antiquities dealer who ran the Swain Import/Export Emporium in Cjaalysce'I on Socorro. A shrewd dealer and businessbeing, Sulrowe sized up all customers who entered the Emporium. Sulrowe's intuition helped her in the Emporium's real business; selling Caelli-Merced Syndicate weapons and equipment. Her senses have more than once detected Imperial operatives attempting to infiltrate Pret Swain's operations.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Mon_Calamari/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Swain_Import/Export_Emporium",
+  "/wiki/Doctor/Legends",
+  "/wiki/Cjaalysce%27I",
+  "/wiki/Socorro/Legends",
+  "/wiki/Caelli-Merced_Syndicate",
+  "/wiki/Galactic_Empire/Legends",
+  "/wiki/Pret_Swain",
+  "/wiki/The_Black_Sands_of_Socorro"
+ ]
+}

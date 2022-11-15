@@ -1,0 +1,77 @@
+{
+ "name": "Varan_Gault",
+ "display_name": "Varan Gault",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Born",
+     "values": [
+      "40 BBY",
+      "Tatooine"
+     ]
+    },
+    {
+     "name": "Died",
+     "values": [
+      "24 BBY",
+      "Tatooine"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Moisture farmer"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "Varan Gault was a male Human who lived on Tatooine during the waning days of the Galactic Republic. Varan was the son of Orrin Gault, the younger brother of Mullen Gault and the twin brother of Veeka Gault. He died in an accident when he was sixteen years old.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Tatooine/Legends",
+  "/wiki/40_BBY/Legends",
+  "/wiki/24_BBY/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Moisture_farmer/Legends",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Orrin_Gault",
+  "/wiki/Mullen_Gault",
+  "/wiki/Veeka_Gault",
+  "/wiki/Death/Legends",
+  "/wiki/Kenobi_(novel)",
+  "/wiki/Kenobi_(audiobook)"
+ ]
+}

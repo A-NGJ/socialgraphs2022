@@ -1,5 +1,6 @@
 {
  "name": "Buzza",
+ "display_name": "Buzza",
  "side_bars": [
   {
    "name": "Biographical information",
@@ -42,7 +43,7 @@
   }
  ],
  "content": "Buzza was a male Ewok from Endor. He served as the chief of the tribe that lived in the Bright Tree Village, until he was eventually replaced by his son, Chirpa, who served chief for forty-two seasons before the Battle of Endor.",
- "base_url": "https://starwars.fandom.com/",
+ "base_url": "https://starwars.fandom.com",
  "crosslinks": [
   "/wiki/Canon",
   "/wiki/Buzza",
