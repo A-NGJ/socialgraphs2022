@@ -1,0 +1,77 @@
+{
+ "name": "CT-5/501",
+ "display_name": "CT-5/501",
+ "side_bars": [
+  {
+   "name": "Biographical information",
+   "attributes": [
+    {
+     "name": "Homeworld",
+     "values": [
+      "Kamino"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physical description",
+   "attributes": [
+    {
+     "name": "Species",
+     "values": [
+      "Human"
+     ]
+    },
+    {
+     "name": "Gender",
+     "values": [
+      "Male"
+     ]
+    },
+    {
+     "name": "Height",
+     "values": [
+      "1.83 meters"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chronological and political information",
+   "attributes": [
+    {
+     "name": "Affiliation(s)",
+     "values": [
+      "Galactic RepublicRepublic Navy",
+      "Republic Navy"
+     ]
+    }
+   ]
+  }
+ ],
+ "content": "CT-5/501 was a clone trooper pilot stationed on Raxus Prime during the Clone Wars. He was the co-pilot, along with CT-4/619, of a LAAT/i gunship while attempting to capture Count Dooku, but ended up rescuing Raxus Prime \"orphan\" Boba Fett. He then flew to the Acclamator-class assault ship Candaserri.",
+ "base_url": "https://starwars.fandom.com",
+ "crosslinks": [
+  "/wiki/Star_Wars_Legends",
+  "/wiki/Kamino/Legends",
+  "/wiki/Human/Legends",
+  "/wiki/Cloning/Legends",
+  "/wiki/Gender/Legends",
+  "/wiki/Imperial_standard_meter",
+  "/wiki/Galactic_Republic/Legends",
+  "/wiki/Republic_Navy",
+  "/wiki/Clone_trooper_pilot/Legends",
+  "/wiki/Raxus_Prime/Legends",
+  "/wiki/Clone_Wars/Legends",
+  "/wiki/Pilot/Legends",
+  "/wiki/CT-4/619",
+  "/wiki/Low_Altitude_Assault_Transport/infantry/Legends",
+  "/wiki/Gunship/Legends",
+  "/wiki/Dooku/Legends",
+  "/wiki/Boba_Fett/Legends",
+  "/wiki/Acclamator-class_assault_ship",
+  "/wiki/Candaserri",
+  "/wiki/Boba_Fett:_Crossfire",
+  "/wiki/The_Complete_Star_Wars_Encyclopedia"
+ ]
+}
