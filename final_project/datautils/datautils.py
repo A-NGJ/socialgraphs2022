@@ -4,8 +4,10 @@ import logging
 from pathlib import Path
 import typing as t
 
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import seaborn as sns
 
 
 class Loader:
@@ -105,6 +107,7 @@ class Loader:
         return pd.DataFrame(data_dict)
 
 
+<<<<<<< HEAD
 def find_rows_with(
     name: str, df: pd.DataFrame, *, lookup_column: str, match_column: str
 ) -> t.List[str]:
@@ -119,3 +122,87 @@ def find_rows_with(
                 matching_rows.append(row[match_column])
                 break
     return matching_rows
+=======
+
+
+def plot_distribution(
+    data: t.Iterable[float], *, fig: plt.Figure, ax: plt.Axes, **kwargs
+):
+    """
+    Plots distribution of given data and marks its average, 10th and 90th percentile,
+
+    Parameters
+    ----------
+    data :
+        Data for the distribution plot
+    ax :
+        matplotlib axes to plot data on
+    title : Optional[str]
+    xlabel : Optional[str]
+    ylabel : Optional[str]
+    tag : Optional[str]
+        Tag to be displayed in the legend
+    mean_color : Optional[str]
+        Color of mean line
+    percentile10_color : Optional[str]
+        Color of 10th percentile line
+    percentile90_color : Optional[str]
+        Color of 90th percentile line
+    """
+    percentile10 = np.percentile(data, 10)
+    percentile90 = np.percentile(data, 90)
+    mean = np.mean(data)
+
+    ax = sns.histplot(data, ax=ax, label=kwargs.get("tag", "distribution"))
+    ax.axvline(
+        mean,
+        linewidth=2,
+        color=kwargs.get("mean_color", "navy"),
+        label=f"Average sentiment {kwargs.get('tag', '')}: {mean:.2f}",
+    )
+    ax.set_xlabel(kwargs.get("xlabel", ""), fontsize=14)
+    ax.set_ylabel(kwargs.get("ylabel", ""), fontsize=14)
+    ax.set_title(kwargs.get("title", ""), fontsize=16)
+
+    ax.axvline(
+        percentile10,
+        ymax=0.55,
+        linestyle=":",
+        linewidth=3,
+        color=kwargs.get("percentile10_color", "red"),
+        label=f"$10^{{th}}$ percentile {kwargs.get('tag', '')}: {percentile10:.2f}",
+    )
+    ax.axvline(
+        percentile90,
+        ymax=0.55,
+        linestyle=":",
+        linewidth=3,
+        color=kwargs.get("percentile90_color", "darkorange"),
+        label=f"$90^{{th}}$ percentile {kwargs.get('tag', '')}: {percentile90:.2f}",
+    )
+
+    handles, labels = ax.get_legend_handles_labels()
+    # remove duplicates while preserving the order
+    seen = set()
+    seen_add = seen.add
+    new_labels = []
+    new_handles = []
+    for i, label in enumerate(labels):
+        if label not in seen:
+            new_labels.append(label)
+            new_handles.append(handles[i])
+            seen_add(label)
+
+    ax.legend(new_handles, new_labels)
+
+    ax.grid()
+    fig.tight_layout()
+
+    return fig, ax
+
+
+def remove_duplicates(seq: t.Iterable):
+    seen = set()
+    seen_add = set.add
+    return [item for item in seq if not (item in seen or seen_add(item))]
+>>>>>>> 2f98d5113a7e5ef75e2a4fd5aff95aad7cd949a4
