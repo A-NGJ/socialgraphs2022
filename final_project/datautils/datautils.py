@@ -81,7 +81,7 @@ class Loader:
             data_dict["DisplayName"].append(character.get("display_name"))
             data_dict["Content"].append(character.get("content"))
             data_dict["Crosslinks"].append(
-                [link.split("/")[-1] for link in character["crosslinks"]]
+                [link.replace("/wiki/", "") for link in character["crosslinks"]]
             )
 
             attributes = {"Species", "Gender", "Affiliation(s)", "Homeworld", "Died"}
@@ -103,3 +103,19 @@ class Loader:
                 data_dict[attr].append(np.nan)
 
         return pd.DataFrame(data_dict)
+
+
+def find_rows_with(
+    name: str, df: pd.DataFrame, *, lookup_column: str, match_column: str
+) -> t.List[str]:
+
+    matching_rows = []
+
+    for _, row in df.iterrows():
+        # iterate over records
+        for element in row[lookup_column]:
+            if element == name:
+                # append only characters which have crosslink to one of the episodes
+                matching_rows.append(row[match_column])
+                break
+    return matching_rows
