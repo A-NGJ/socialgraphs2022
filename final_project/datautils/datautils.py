@@ -1,4 +1,7 @@
-from collections import defaultdict
+from collections import (
+    defaultdict,
+    Counter,
+)
 import json
 import logging
 from pathlib import Path
@@ -107,7 +110,6 @@ class Loader:
         return pd.DataFrame(data_dict)
 
 
-<<<<<<< HEAD
 def find_rows_with(
     name: str, df: pd.DataFrame, *, lookup_column: str, match_column: str
 ) -> t.List[str]:
@@ -122,7 +124,6 @@ def find_rows_with(
                 matching_rows.append(row[match_column])
                 break
     return matching_rows
-=======
 
 
 def plot_distribution(
@@ -205,4 +206,10 @@ def remove_duplicates(seq: t.Iterable):
     seen = set()
     seen_add = set.add
     return [item for item in seq if not (item in seen or seen_add(item))]
->>>>>>> 2f98d5113a7e5ef75e2a4fd5aff95aad7cd949a4
+
+
+def plot_series_distribution(column, number_most_common=10):
+    counter = Counter(column)
+    top_10_out = counter.most_common(number_most_common)
+    plt.barh(*zip(*top_10_out[::-1]))
+    plt.title(f" Distribution of {column.name}")

@@ -1,10 +1,11 @@
-import networkx as nx
 import statistics as st
+import networkx as nx
+
 
 def calc_stats(graph_degrees: nx.Graph):
     """
     Calculate mean, median, mode, min and max of given graph degrees
-    
+
     Returns
     -------
     Namespace
@@ -14,11 +15,13 @@ def calc_stats(graph_degrees: nx.Graph):
     class Namespace:
         def __init__(self, **kwargs):
             self.__dict__.update(**kwargs)
-        
+
         def __str__(self):
             return str(self.__dict__)
 
-    degrees = [elem[1] for elem in sorted(graph_degrees, key=lambda x: x[1], reverse=True)]
+    degrees = [
+        elem[1] for elem in sorted(graph_degrees, key=lambda x: x[1], reverse=True)
+    ]
     return Namespace(
         mean=st.mean(degrees),
         median=st.median(degrees),
@@ -26,4 +29,3 @@ def calc_stats(graph_degrees: nx.Graph):
         min=min(degrees),
         max=max(degrees),
     )
-
