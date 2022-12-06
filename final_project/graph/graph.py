@@ -1,7 +1,11 @@
 import matplotlib.pyplot as plt
 import networkx as nx
 import powerlaw
-
+from community import community_louvain 
+from collections import (
+    Counter,
+    defaultdict,
+)
 from style import style
 
 # pylint: disable=too-many-arguments
@@ -13,6 +17,8 @@ def plot_graph_with_positons(
     node_color=style.Color.BLUE,
     node_alpha=0.8,
     edge_alpha=0.1,
+    labels = None,
+    cmap = None
 ):
     node_size = [graph.degree(node) // 3 for node in graph.nodes]
     _, ax = plt.subplots(1, 1, figsize=(15, 8))
@@ -23,10 +29,14 @@ def plot_graph_with_positons(
         node_color=node_color,
         alpha=node_alpha,
         ax=ax,
+        cmap = cmap
     )
     nx.draw_networkx_edges(
         graph, positions, edge_color=edge_color, alpha=edge_alpha, ax=ax
     )
+    if labels:
+        nx.draw_networkx_labels(graph, positions, labels=labels, font_color="black", font_size = 6)
+
     ax.set_title(title, size=24)
     ax.axis("off")
     plt.tight_layout()
@@ -42,10 +52,8 @@ def plot_degree_distribution(graph, scale=None):
 
     Returns
     -------
-    fig :
-        Figure with degree distributions
-    ax :
-        Axes with degree distributions
+    In degree
+    Out degree
     """
     in_degrees = [d for _, d in graph.in_degree()]
     out_degrees = [d for _, d in graph.out_degree()]
@@ -67,7 +75,7 @@ def plot_degree_distribution(graph, scale=None):
     ax[1].set_xlabel("Degree")
     ax[1].grid("on")
 
-    return fig, ax
+    return in_degrees, out_degrees
 
 
 # Aleks: Funkcja powinna zwracac In degree slope wg. docstringa, a jedynie printuje ta wartosc
@@ -129,3 +137,30 @@ def connected_components(graph: nx.Graph):
     )[0]
     directed_universe_lc = graph.subgraph(largest_component)
     return directed_universe_lc
+
+def find_communities(graph):
+    """
+    Finding the best partition of the graph
+
+    Returns
+    -------
+    Best partition and communities
+    """
+    # compute the best partition 
+    partition = community_louvain.best_partition(graph)
+    # modularity 
+    mod = community_louvain.modularity(partition, graph, weight='weight')
+    # number of communities
+    communities = Counter(partition.values())
+    return partition, communities
+    
+def plot_communities(communities):
+    """
+    Plot the distribution of communities in the network
+
+    """
+    fig = plt.figure(figsize = (10,6))
+    plt.bar(communities.keys(), communities.values(), color = 'navy')
+    plt.title("Communities in the Star Wars Universe")
+    plt.xlabel("Communitie")
+    plt.ylabel("Count")
