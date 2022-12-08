@@ -1,4 +1,5 @@
 from collections import Counter
+import statistics as st
 import typing as t
 
 from community import community_louvain
@@ -77,7 +78,7 @@ def plot_degree_distribution(
     in_degrees = [d for _, d in graph.in_degree()]
     out_degrees = [d for _, d in graph.out_degree()]
 
-    fig, ax = plt.subplots(1, 2, figsize=figsize)
+    _, ax = plt.subplots(1, 2, figsize=figsize)
     plt.suptitle("Degree distribution")
     ax[0].hist(in_degrees, bins=100, color="cornflowerblue")
     ax[0].set_xlabel("Degree")
@@ -170,7 +171,7 @@ def find_communities(graph: nx.Graph) -> t.Tuple[dict, Counter, float]:
     """
 
     # compute the best partition
-    partition = community_louvain.best_partition(graph)
+    partition = community_louvain.best_partition(graph, random_state=123)
     # modularity
     mod = community_louvain.modularity(partition, graph, weight="weight")
     # number of communities
@@ -201,3 +202,32 @@ def plot_distribution(
     plt.title(title)
     plt.xlabel(xlabel)
     plt.ylabel("Count")
+
+
+def calc_stats(graph_degrees: nx.Graph):
+    """
+    Calculate mean, median, mode, min and max of given graph degrees
+
+    Returns
+    -------
+    Namespace
+        Namespace with statistics
+    """
+
+    class Namespace:
+        def __init__(self, **kwargs):
+            self.__dict__.update(**kwargs)
+
+        def __str__(self):
+            return str(self.__dict__)
+
+    degrees = [
+        elem[1] for elem in sorted(graph_degrees, key=lambda x: x[1], reverse=True)
+    ]
+    return Namespace(
+        mean=st.mean(degrees),
+        median=st.median(degrees),
+        mode=st.mode(degrees),
+        min=min(degrees),
+        max=max(degrees),
+    )
