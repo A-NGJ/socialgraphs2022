@@ -26,7 +26,7 @@ def plot_graph_with_positons(
     labels: t.Any = None,
     label_color: t.Union[str, t.List[str]] = style.Color.BLACK,
     label_font_size: int = 6,
-    cmap: t.Any = None,
+    cmap: t.Any = None
 ):
     node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
     _, ax = plt.subplots(1, 1, figsize=figsize)
@@ -171,7 +171,7 @@ def find_communities(graph: nx.Graph) -> t.Tuple[dict, Counter, float]:
     """
 
     # compute the best partition
-    partition = community_louvain.best_partition(graph, random_state=123)
+    partition = community_louvain.best_partition(graph, random_state=1238)
     # modularity
     mod = community_louvain.modularity(partition, graph, weight="weight")
     # number of communities
