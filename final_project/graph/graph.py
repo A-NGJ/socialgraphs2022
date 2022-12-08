@@ -9,24 +9,42 @@ def plot_graph_with_positons(
     graph: nx.Graph,
     positions,
     title,
-    edge_color=style.Color.GRAY,
+    figsize=(15, 8),
+    edge_color=style.Color.BLACK,
     node_color=style.Color.BLUE,
     node_alpha=0.8,
+    node_size_factor=1,
     edge_alpha=0.1,
+    labels=None,
+    label_color=style.Color.BLACK,
+    cmap=None,
 ):
-    node_size = [graph.degree(node) // 3 for node in graph.nodes]
-    _, ax = plt.subplots(1, 1, figsize=(15, 8))
+    node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
+    _, ax = plt.subplots(1, 1, figsize=figsize)
     nx.draw_networkx_nodes(
         graph,
         positions,
-        node_size=node_size,
+        node_size=node_sizes,
         node_color=node_color,
         alpha=node_alpha,
         ax=ax,
+        cmap=cmap,
     )
     nx.draw_networkx_edges(
-        graph, positions, edge_color=edge_color, alpha=edge_alpha, ax=ax
+        graph,
+        positions,
+        edge_color=edge_color,
+        alpha=edge_alpha,
+        ax=ax,
     )
+    if labels:
+        nx.draw_networkx_labels(
+            graph,
+            positions,
+            labels=dict(labels),
+            font_color=label_color,
+            ax=ax,
+        )
     ax.set_title(title, size=24)
     ax.axis("off")
     plt.tight_layout()
@@ -84,8 +102,6 @@ def power_law_fit(graph):
     return powerlaw.Fit(in_degrees).alpha
 
 
-# Aleks: Ta funkcja akceptuje data jedynie w bardzo konkretnym formacie, dla naszego projektu ok, ale lepiej jest dodać
-# dodatkowe parametry takie jak e.g. connection_column = "Crosslinks", node_name_column = "Name"
 def create_directed_graph(data):
     """
     Create directed graph based on data with parameters: Name, Gender, Species, Homeworld, Affiliations, Died
@@ -114,8 +130,6 @@ def create_directed_graph(data):
     return Universe
 
 
-# Aleks: W docstringu jest directed graph, a zwracala wczesniej undirected graph. Zmienilem zwracana wartosc na directed
-# bo w kazdym momencie mozna wywolac metode to_undirected() na zwrocnej wartosci, a w druga strone juz ciezej
 def connected_components(graph: nx.Graph):
     """
     Extract large connected components
@@ -124,8 +138,11 @@ def connected_components(graph: nx.Graph):
     -------
     Directed graph
     """
-    largest_component = sorted(
-        nx.weakly_connected_components(graph), key=len, reverse=True
-    )[0]
+    if graph.is_directed():
+        connected_components = nx.weakly_connected_components
+    else:
+        connected_components = nx.connected_components
+
+    largest_component = sorted(connected_components(graph), key=len, reverse=True)[0]
     directed_universe_lc = graph.subgraph(largest_component)
     return directed_universe_lc

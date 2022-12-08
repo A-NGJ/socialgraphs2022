@@ -1,9 +1,13 @@
-from collections import Counter
+from collections import (
+    Counter,
+    defaultdict,
+)
 import re
 import string
 import typing as t
 
 import nltk
+import numpy as np
 import pandas as pd
 
 
@@ -39,7 +43,7 @@ class SentimentAnalyzer:
         lemmatizer = nltk.WordNetLemmatizer()
         text = [lemmatizer.lemmatize(word) for word in text]
 
-        text = [word for word in text if re.match(r"^\w+$", word)]
+        text = [word for word in text if re.match(r"^[A-Za-z_\-]+$", word)]
 
         return text
 
@@ -83,3 +87,51 @@ class SentimentAnalyzer:
                 ].happiness_average.values[0]
 
         return tokens_in_wordlist
+
+
+def term_freq(text: t.List[str]) -> defaultdict:
+    """
+    Term frequency for each document in given text DO DPY
+
+    Parameters
+    ----------
+    text:
+        Tokenized text
+
+    Returns
+    -------
+    defaultdict(int) :
+        term frequency
+    """
+    term_freqs = defaultdict(int)
+    for word in text:
+        term_freqs[word] += 1 / len(text)
+    return term_freqs
+
+
+def inv_doc_freq(corpus: t.List[t.List[str]]) -> defaultdict:
+    """
+    Calculate inverse document frequency for each word in a corpus
+
+    Parameters
+    ----------
+    corpus:
+        list of tokenized documents
+
+    Returns
+    -------
+        inverse document term frequency
+    """
+    words_idf = {}
+    words_count = defaultdict(int)
+    for text in corpus:
+        words_in_text = set()
+        for word in text:
+            if word not in words_in_text:
+                words_in_text.add(word)
+                words_count[word] += 1
+
+    for word in words_count:
+        words_idf[word] = np.log(len(corpus) / (1 + words_count[word]))
+
+    return words_idf
