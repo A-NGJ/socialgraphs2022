@@ -10,4 +10,4 @@ class Color:
     """
 
     BLUE = "#00d7fc"
-    GRAY = "#000000"
+    BLACK = "#000000"
