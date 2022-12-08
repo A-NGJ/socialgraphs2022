@@ -4,25 +4,28 @@ import typing as t
 from community import community_louvain
 import matplotlib.pyplot as plt
 import networkx as nx
+from pandas import DataFrame
 import powerlaw
 
 from style import style
 
+DEFAULT_FIGSIZE = (10, 6)
+
 # pylint: disable=too-many-arguments
 def plot_graph_with_positons(
     graph: nx.Graph,
-    positions,
-    title,
-    figsize=(15, 8),
-    edge_color=style.Color.BLACK,
-    node_color=style.Color.BLUE,
-    node_alpha=0.8,
-    node_size_factor=1,
-    edge_alpha=0.1,
-    labels=None,
-    label_color=style.Color.BLACK,
-    label_font_size=6,
-    cmap=None,
+    positions: dict,
+    title: str,
+    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+    edge_color: str = style.Color.BLACK,
+    node_color: t.Union[str, t.List[str]] = style.Color.BLUE,
+    node_alpha: float = 0.8,
+    node_size_factor: float = 1.0,
+    edge_alpha: float = 0.1,
+    labels: t.Any = None,
+    label_color: t.Union[str, t.List[str]] = style.Color.BLACK,
+    label_font_size: int = 6,
+    cmap: t.Any = None,
 ):
     node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
     _, ax = plt.subplots(1, 1, figsize=figsize)
@@ -59,7 +62,9 @@ def plot_graph_with_positons(
 
 # Aleks: Docstring ma Returns = Subplot..., a funkcja nic nie zwraca. Jedynie rysuje wykres.
 # Dodalem fig, ax jako return values
-def plot_degree_distribution(graph, scale=None):
+def plot_degree_distribution(
+    graph: nx.Graph, scale: str = None, figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE
+):
     """
     Count the in/out degree distributions and visualize.
     If scale == log then the y-axis will be in log scale, else normal scale.
@@ -72,7 +77,7 @@ def plot_degree_distribution(graph, scale=None):
     in_degrees = [d for _, d in graph.in_degree()]
     out_degrees = [d for _, d in graph.out_degree()]
 
-    fig, ax = plt.subplots(1, 2, figsize=(12, 8))
+    fig, ax = plt.subplots(1, 2, figsize=figsize)
     plt.suptitle("Degree distribution")
     ax[0].hist(in_degrees, bins=100, color="cornflowerblue")
     ax[0].set_xlabel("Degree")
@@ -92,7 +97,7 @@ def plot_degree_distribution(graph, scale=None):
     return in_degrees, out_degrees
 
 
-def power_law_fit(graph):
+def power_law_fit(graph: nx.Graph):
     """
     Calculate the best fit power law
 
@@ -104,7 +109,7 @@ def power_law_fit(graph):
     return powerlaw.Fit(in_degrees).alpha
 
 
-def create_directed_graph(data):
+def create_directed_graph(data: DataFrame):
     """
     Create directed graph based on data with parameters: Name, Gender, Species, Homeworld, Affiliations, Died
 
@@ -156,8 +161,14 @@ def find_communities(graph: nx.Graph) -> t.Tuple[dict, Counter, float]:
 
     Returns
     -------
-    Best partition, communities, and modularity
+    dictionary:
+        Best partition
+    Counter:
+        communities
+    float:
+        modularity
     """
+
     # compute the best partition
     partition = community_louvain.best_partition(graph)
     # modularity
@@ -167,13 +178,26 @@ def find_communities(graph: nx.Graph) -> t.Tuple[dict, Counter, float]:
     return partition, communities, mod
 
 
-def plot_communities(communities):
+def plot_distribution(
+    x: t.Iterable,
+    height: t.Iterable[t.Union[int, float]],
+    title: str = "",
+    xlabel: str = "",
+    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+):
     """
-    Plot the distribution of communities in the network
+    Bar plot of distribution
+
+    Parameters
+    ----------
+    x :
+        X-axis labels
+    height :
+        Height of bars for corresponding x-axis labels
     """
 
-    _ = plt.figure(figsize=(10, 6))
-    plt.bar(communities.keys(), communities.values(), color="navy")
-    plt.title("Communities in the Star Wars Universe")
-    plt.xlabel("Communities")
+    _ = plt.figure(figsize=figsize)
+    plt.bar(x, height, color="navy")
+    plt.title(title)
+    plt.xlabel(xlabel)
     plt.ylabel("Count")
