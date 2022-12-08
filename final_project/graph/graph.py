@@ -26,10 +26,12 @@ def plot_graph_with_positons(
     labels: t.Any = None,
     label_color: t.Union[str, t.List[str]] = style.Color.BLACK,
     label_font_size: int = 6,
-    cmap: t.Any = None
+    cmap: t.Any = None, 
+    ax = None
 ):
     node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
-    _, ax = plt.subplots(1, 1, figsize=figsize)
+    if ax is None:
+        _, ax = plt.subplots(1, 1, figsize=figsize)
     nx.draw_networkx_nodes(
         graph,
         positions,
@@ -58,7 +60,6 @@ def plot_graph_with_positons(
     ax.set_title(title, size=24)
     ax.axis("off")
     plt.tight_layout()
-    plt.show()
 
 
 # Aleks: Docstring ma Returns = Subplot..., a funkcja nic nie zwraca. Jedynie rysuje wykres.
@@ -151,7 +152,7 @@ def connected_components(graph: nx.Graph) -> nx.Graph:
     else:
         connected_components = nx.connected_components
 
-    largest_component = sorted(connected_components(graph), key=len, reverse=True)[0]
+    largest_component = sorted(nx.weakly_connected_components(graph), key=len, reverse=True)[0]
     directed_universe_lc = graph.subgraph(largest_component)
     return directed_universe_lc
 
