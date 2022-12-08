@@ -1,3 +1,7 @@
+from collections import Counter
+import typing as t
+
+from community import community_louvain
 import matplotlib.pyplot as plt
 import networkx as nx
 import powerlaw
@@ -17,6 +21,7 @@ def plot_graph_with_positons(
     edge_alpha=0.1,
     labels=None,
     label_color=style.Color.BLACK,
+    label_font_size=6,
     cmap=None,
 ):
     node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
@@ -43,6 +48,7 @@ def plot_graph_with_positons(
             positions,
             labels=dict(labels),
             font_color=label_color,
+            font_size=label_font_size,
             ax=ax,
         )
     ax.set_title(title, size=24)
@@ -60,10 +66,8 @@ def plot_degree_distribution(graph, scale=None):
 
     Returns
     -------
-    fig :
-        Figure with degree distributions
-    ax :
-        Axes with degree distributions
+    In degree
+    Out degree
     """
     in_degrees = [d for _, d in graph.in_degree()]
     out_degrees = [d for _, d in graph.out_degree()]
@@ -85,11 +89,9 @@ def plot_degree_distribution(graph, scale=None):
     ax[1].set_xlabel("Degree")
     ax[1].grid("on")
 
-    return fig, ax
+    return in_degrees, out_degrees
 
 
-# Aleks: Funkcja powinna zwracac In degree slope wg. docstringa, a jedynie printuje ta wartosc
-# Lepiej jest ja zwrocic i uzyc printa juz poza funkcja
 def power_law_fit(graph):
     """
     Calculate the best fit power law
@@ -130,7 +132,7 @@ def create_directed_graph(data):
     return Universe
 
 
-def connected_components(graph: nx.Graph):
+def connected_components(graph: nx.Graph) -> nx.Graph:
     """
     Extract large connected components
 
@@ -146,3 +148,32 @@ def connected_components(graph: nx.Graph):
     largest_component = sorted(connected_components(graph), key=len, reverse=True)[0]
     directed_universe_lc = graph.subgraph(largest_component)
     return directed_universe_lc
+
+
+def find_communities(graph: nx.Graph) -> t.Tuple[dict, Counter, float]:
+    """
+    Finding the best partition of the graph
+
+    Returns
+    -------
+    Best partition, communities, and modularity
+    """
+    # compute the best partition
+    partition = community_louvain.best_partition(graph)
+    # modularity
+    mod = community_louvain.modularity(partition, graph, weight="weight")
+    # number of communities
+    communities = Counter(partition.values())
+    return partition, communities, mod
+
+
+def plot_communities(communities):
+    """
+    Plot the distribution of communities in the network
+    """
+
+    _ = plt.figure(figsize=(10, 6))
+    plt.bar(communities.keys(), communities.values(), color="navy")
+    plt.title("Communities in the Star Wars Universe")
+    plt.xlabel("Communities")
+    plt.ylabel("Count")
