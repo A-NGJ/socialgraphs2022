@@ -26,8 +26,8 @@ def plot_graph_with_positons(
     labels: t.Any = None,
     label_color: t.Union[str, t.List[str]] = style.Color.BLACK,
     label_font_size: int = 6,
-    cmap: t.Any = None, 
-    ax = None
+    cmap: t.Any = None,
+    ax=None,
 ):
     node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
     if ax is None:
@@ -55,11 +55,14 @@ def plot_graph_with_positons(
             labels=dict(labels),
             font_color=label_color,
             font_size=label_font_size,
+            font_weight="bold",
             ax=ax,
         )
     ax.set_title(title, size=24)
     ax.axis("off")
     plt.tight_layout()
+
+    return ax
 
 
 # Aleks: Docstring ma Returns = Subplot..., a funkcja nic nie zwraca. Jedynie rysuje wykres.
@@ -152,7 +155,7 @@ def connected_components(graph: nx.Graph) -> nx.Graph:
     else:
         connected_components = nx.connected_components
 
-    largest_component = sorted(nx.weakly_connected_components(graph), key=len, reverse=True)[0]
+    largest_component = sorted(connected_components(graph), key=len, reverse=True)[0]
     directed_universe_lc = graph.subgraph(largest_component)
     return directed_universe_lc
 
@@ -215,6 +218,7 @@ def calc_stats(graph_degrees: nx.Graph):
         Namespace with statistics
     """
 
+    # pylint: disable=too-few-public-methods
     class Namespace:
         def __init__(self, **kwargs):
             self.__dict__.update(**kwargs)
