@@ -16,6 +16,11 @@ from style.style import DEFAULT_FIGSIZE
 
 
 class Loader:
+    """
+    Loader is an interface for loading the data from .json files.
+    It consists of methods for loading, analyzing and transforming the loaded data.
+    """
+
     def __init__(self):
         self.data = []
 
@@ -37,14 +42,18 @@ class Loader:
             except EnvironmentError:
                 logging.warning("%s could not be opened", file_)
 
-    def get_sidebar_summary(self) -> t.Tuple[dict]:
+    def get_sidebar_summary(self) -> t.Tuple[dict, dict, dict]:
         """
         Get summary of all atrributes in sidebar
 
         Returns
         -------
-        tuple :
-            summary, count_categories, count_attr
+        summary : dict
+            Dictionary in format {name: set(attr)}
+        count_side_bars : dict
+            Dictionary in format {side bar name: number of occurrences}
+        count_attr : dict
+            Dictionary in format {attr name: number of occurrences}
         """
 
         self._check_data()
@@ -204,13 +213,18 @@ def plot_distribution(
     return fig, ax
 
 
-def remove_duplicates(seq: t.Iterable):
+def remove_duplicates(seq: t.Iterable) -> t.List[str]:
+    """Removes duplictes from a sequence"""
     seen = set()
     seen_add = set.add
     return [item for item in seq if not (item in seen or seen_add(item))]
 
 
-def plot_series_distribution(column, number_most_common=10, figsize=DEFAULT_FIGSIZE):
+def plot_series_distribution(
+    column: pd.Series,
+    number_most_common: int = 10,
+    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+):
     counter = Counter(column)
     top_10_out = counter.most_common(number_most_common)
 

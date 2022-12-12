@@ -17,7 +17,7 @@ def plot_graph_with_positons(
     title: str,
     figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
     edge_color: str = style.Color.BLACK,
-    node_color: t.Union[str, t.List[str]] = style.Color.BLUE,
+    node_color: t.Union[str, t.List[str]] = style.Color.DEEP_SKY_BLUE,
     node_alpha: float = 0.8,
     node_size_factor: float = 1.0,
     edge_alpha: float = 0.1,
