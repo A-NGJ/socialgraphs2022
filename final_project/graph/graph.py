@@ -10,14 +10,12 @@ import powerlaw
 
 from style import style
 
-DEFAULT_FIGSIZE = (10, 6)
-
 # pylint: disable=too-many-arguments
 def plot_graph_with_positons(
     graph: nx.Graph,
     positions: dict,
     title: str,
-    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+    figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
     edge_color: str = style.Color.BLACK,
     node_color: t.Union[str, t.List[str]] = style.Color.BLUE,
     node_alpha: float = 0.8,
@@ -68,7 +66,9 @@ def plot_graph_with_positons(
 # Aleks: Docstring ma Returns = Subplot..., a funkcja nic nie zwraca. Jedynie rysuje wykres.
 # Dodalem fig, ax jako return values
 def plot_degree_distribution(
-    graph: nx.Graph, scale: str = None, figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE
+    graph: nx.Graph,
+    scale: str = None,
+    figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
 ):
     """
     Count the in/out degree distributions and visualize.
@@ -84,11 +84,11 @@ def plot_degree_distribution(
 
     _, ax = plt.subplots(1, 2, figsize=figsize)
     plt.suptitle("Degree distribution")
-    ax[0].hist(in_degrees, bins=100, color="cornflowerblue")
+    ax[0].hist(in_degrees, bins=100, color="navy")
     ax[0].set_xlabel("Degree")
     ax[0].set_title("In-degree")
     ax[0].grid("on")
-    ax[1].hist(out_degrees, bins=100, color="cornflowerblue")
+    ax[1].hist(out_degrees, bins=100, color="navy")
     if scale == "log":
         ax[0].set_yscale("log")
         ax[1].set_yscale("log")
@@ -188,7 +188,7 @@ def plot_distribution(
     height: t.Iterable[t.Union[int, float]],
     title: str = "",
     xlabel: str = "",
-    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+    figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
 ):
     """
     Bar plot of distribution

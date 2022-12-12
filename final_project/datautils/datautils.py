@@ -12,6 +12,8 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
+from style.style import DEFAULT_FIGSIZE
+
 
 class Loader:
     def __init__(self):
@@ -208,8 +210,10 @@ def remove_duplicates(seq: t.Iterable):
     return [item for item in seq if not (item in seen or seen_add(item))]
 
 
-def plot_series_distribution(column, number_most_common=10):
+def plot_series_distribution(column, number_most_common=10, figsize=DEFAULT_FIGSIZE):
     counter = Counter(column)
     top_10_out = counter.most_common(number_most_common)
-    plt.barh(*zip(*top_10_out[::-1]))
-    plt.title(f" Distribution of {column.name}")
+
+    _, ax = plt.subplots(1, 1, figsize=figsize)
+    ax.barh(*zip(*top_10_out[::-1]), color="navy")
+    ax.set_title(f" Distribution of {column.name}")

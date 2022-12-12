@@ -1,6 +1,10 @@
 import re
 
 
+DEFAULT_FIGSIZE = (10, 6)
+LARGE_FIGSIZE = (16, 12)
+
+
 def print_header(title: str):
     """Prints pretty header"""
     print("=" * 20 + f" {title} " + "=" * 20 + "\n")
@@ -22,3 +26,4 @@ class Color:
     BLUE = "#00d7fc"
     BLACK = "#000000"
     WHITE = "#ffffff"
+    RASBERRY_RED = "#ed132c"
