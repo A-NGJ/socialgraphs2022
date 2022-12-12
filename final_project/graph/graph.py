@@ -10,16 +10,14 @@ import powerlaw
 
 from style import style
 
-DEFAULT_FIGSIZE = (10, 6)
-
 # pylint: disable=too-many-arguments
 def plot_graph_with_positons(
     graph: nx.Graph,
     positions: dict,
     title: str,
-    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+    figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
     edge_color: str = style.Color.BLACK,
-    node_color: t.Union[str, t.List[str]] = style.Color.BLUE,
+    node_color: t.Union[str, t.List[str]] = style.Color.DEEP_SKY_BLUE,
     node_alpha: float = 0.8,
     node_size_factor: float = 1.0,
     edge_alpha: float = 0.1,
@@ -27,9 +25,11 @@ def plot_graph_with_positons(
     label_color: t.Union[str, t.List[str]] = style.Color.BLACK,
     label_font_size: int = 6,
     cmap: t.Any = None,
+    ax=None,
 ):
     node_sizes = [graph.degree(node) * node_size_factor for node in graph.nodes]
-    _, ax = plt.subplots(1, 1, figsize=figsize)
+    if ax is None:
+        _, ax = plt.subplots(1, 1, figsize=figsize)
     nx.draw_networkx_nodes(
         graph,
         positions,
@@ -53,18 +53,22 @@ def plot_graph_with_positons(
             labels=dict(labels),
             font_color=label_color,
             font_size=label_font_size,
+            font_weight="bold",
             ax=ax,
         )
     ax.set_title(title, size=24)
     ax.axis("off")
     plt.tight_layout()
-    plt.show()
+
+    return ax
 
 
 # Aleks: Docstring ma Returns = Subplot..., a funkcja nic nie zwraca. Jedynie rysuje wykres.
 # Dodalem fig, ax jako return values
 def plot_degree_distribution(
-    graph: nx.Graph, scale: str = None, figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE
+    graph: nx.Graph,
+    scale: str = None,
+    figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
 ):
     """
     Count the in/out degree distributions and visualize.
@@ -80,11 +84,11 @@ def plot_degree_distribution(
 
     _, ax = plt.subplots(1, 2, figsize=figsize)
     plt.suptitle("Degree distribution")
-    ax[0].hist(in_degrees, bins=100, color="cornflowerblue")
+    ax[0].hist(in_degrees, bins=100, color="navy")
     ax[0].set_xlabel("Degree")
     ax[0].set_title("In-degree")
     ax[0].grid("on")
-    ax[1].hist(out_degrees, bins=100, color="cornflowerblue")
+    ax[1].hist(out_degrees, bins=100, color="navy")
     if scale == "log":
         ax[0].set_yscale("log")
         ax[1].set_yscale("log")
@@ -171,7 +175,7 @@ def find_communities(graph: nx.Graph) -> t.Tuple[dict, Counter, float]:
     """
 
     # compute the best partition
-    partition = community_louvain.best_partition(graph, random_state=123)
+    partition = community_louvain.best_partition(graph, random_state=1238)
     # modularity
     mod = community_louvain.modularity(partition, graph, weight="weight")
     # number of communities
@@ -184,7 +188,7 @@ def plot_distribution(
     height: t.Iterable[t.Union[int, float]],
     title: str = "",
     xlabel: str = "",
-    figsize: t.Tuple[int, int] = DEFAULT_FIGSIZE,
+    figsize: t.Tuple[int, int] = style.DEFAULT_FIGSIZE,
 ):
     """
     Bar plot of distribution
@@ -214,6 +218,7 @@ def calc_stats(graph_degrees: nx.Graph):
         Namespace with statistics
     """
 
+    # pylint: disable=too-few-public-methods
     class Namespace:
         def __init__(self, **kwargs):
             self.__dict__.update(**kwargs)

@@ -37,6 +37,16 @@ class SentimentAnalyzer:
 
         stopwords = nltk.corpus.stopwords.words("english")
         stopwords.extend(string.punctuation)
+        stopwords.extend(
+            [
+                "would",
+                "could",
+                "although",
+                "however",
+                "also",
+                "told",
+            ]
+        )
 
         text = [word for word in text if word not in stopwords]
 
